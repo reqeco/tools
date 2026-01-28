@@ -7,7 +7,7 @@ dist/
 *.egg-info/
 
 # Generated data
-data/json/
+**/data/json/
 
 # Devbox
 .devbox/
