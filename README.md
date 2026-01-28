@@ -4,4 +4,6 @@ A collection of utility tools that don't make sense to implement as part of the 
 
 ## Tools
 
-- **gdos_contamination_damage_parser** — Parses GDOŚ registry XLS files (contamination & environmental damage) into site-centric JSON records, with automatic coordinate reprojection to EPSG:2180.
+| Tool | Description |
+|------|-------------|
+| [gdos_contamination_damage_parser](gdos_contamination_damage_parser/) | Parses GDOŚ registry XLS files (contamination & environmental damage) into site-centric JSON records, with automatic coordinate reprojection to EPSG:2180. |
