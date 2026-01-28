@@ -1,0 +1,75 @@
+{
+  "registry_id": 770,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "radomski",
+    "municipality": "Jedlińsk",
+    "address": "26-660 Jedlińsk, ul. Konopnickiej 55D",
+    "precinct": "0011",
+    "parcel_numbers": [
+      "144",
+      "146",
+      "150"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((647231.7989495961 408524.3830739781,647216.1885016791 408473.58297237754,647154.8050454832 408492.63301047776,647163.2717290972 408514.32888719905,647129.4049946446 408528.8809996387,647138.1362621196 408556.397721339,647231.7989495961 408524.3830739781))",
+    "site_description": "teren prowadzonej działalności oraz działki sąsiednie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Pierwsze półrocze 2016r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi wskutek odprowadzenia nieoczyszczonych ścieków z zakładu",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Delegatura Radom",
+      "address": "ul. Pułaskiego 9, 26-600 Radom",
+      "legal_form": "instytucja państwowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "F.H.U. (…)",
+      "address": "(…)",
+      "economic_activity_code": "37.00.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "4640-68632",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2016-06-03",
+    "detection_date": "2016-03-31",
+    "decisions": [
+      {
+        "issue_date": "2017-05-22",
+        "reference": "WSI.510.12.2016.MGł.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 20",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

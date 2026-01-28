@@ -1,0 +1,182 @@
+{
+  "registry_id": 428,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Wrzesińska",
+    "precinct": "4-15-06",
+    "parcel_numbers": [
+      "59"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638909.0281553606 489052.3135202741,638935.2219577819 489021.092624492,638909.5573230892 489002.5717541231,638887.0676947423 489033.2634821711,638909.0281553606 489052.3135202741))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp. z o.o.",
+      "address": "ul. Lecha Kaczyńskiego 14 00-638 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "557 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "641-3460 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "100-3000 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,5 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "54 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "2,68 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,35-7,5 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,12-6,95 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,12-5,88 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,12-6,55 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,29-3,64 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,71-3,6 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,2-1,28 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,7 [mg/kg]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,30-9 [mg/kg]",
+      "area_ha": 0.1
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-03-08",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-05-29",
+        "reference": "WSI.515.9.2017.ES.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp. z o.o.",
+        "address": "ul. Lecha Kaczyńskiego 14 00-638 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2017-07-01",
+    "planned_end": "2019-12-31",
+    "actual_end": "2018-01-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

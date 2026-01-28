@@ -1,0 +1,86 @@
+{
+  "registry_id": 1976,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Fabryczna 22, 32-540 Trzebinia",
+    "precinct": "0014 Trzebionka",
+    "parcel_numbers": [
+      "120305_4.0014.1987/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((531927.1514054707 254932.6763609657,531907.5721996506 254923.15134191513,531919.7430573208 254898.0158749856,531941.4389340507 254905.68880699482,531927.1514054707 254932.6763609657), (532020.9728431207 254793.50524929538,532010.6540724809 254789.0073236348,532020.4436754007 254771.01562098507,532033.1437008008 254777.63021754567,532020.9728431207 254793.50524929538)))",
+    "site_description": "teren instalacji destylacji rurowo-wieżowej III ORLEN Południe S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej"
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN Południe S.A.",
+      "address": "ul. Fabryczna 22, 32-540 Trzebinia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "120305_4.0014.1987/9"
+      ],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3300 i 4600 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-06-11",
+    "legal_basis": "art. 61 § 1 Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.515.13.2019.MK",
+    "decisions": [
+      {
+        "issue_date": "2019-10-03",
+        "reference": "ZS.515.13.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ORLEN Południe S.A.",
+        "address": "ul. Fabryczna 22, 32-540 Trzebinia",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": "2020-05-01",
+    "planned_end": "2030-05-01",
+    "actual_end": "2021-11-22",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja metodą in-situ poprzez aplikację bioroztworu.",
+    "ecological_effect": "Na fragmentach działki, które były badane i ujawniono zanieczyszczenie, w wyniku remediacji osiągnięto dopuszczalne zawartości sumy węglowodorów C12-C35, składników frakcji oleju, określone dla IV grupy gruntów, ustalone w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Pierwotnie teren ujęty z innymi działkami w rejestrze pod poz. 263. Zanieczyszczenie punktowe stąd brak powierzchni. Remediację przeprowadzono na fragmencie działki, na którym możliwe było przeprowadzenie badań i stwierdzono zanieczyszczenie. Z uwagi na funkcjonującą na tym terenie instalację nie badano całości, co należy uwzględnić w przyszłości przy modernizacji lub likwidacji instalacji."
+}

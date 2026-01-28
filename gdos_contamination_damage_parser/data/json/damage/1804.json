@@ -1,0 +1,102 @@
+{
+  "registry_id": 1804,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Chełmżyńskiej 180 Warszawa",
+    "precinct": "3-08-07",
+    "parcel_numbers": [
+      "57"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((645616.839036208 490553.6800049078,645525.557603495 490515.31534485053,645443.5366059919 490774.6075301012,644951.410620934 490660.8364692293,644872.0354620595 490734.9199507283,644819.11868948 490855.30560817197,645672.4016474553 491072.26437540725,645770.2976767302 490900.284864787,645692.2454371589 490875.14939784724,645706.7975496211 490836.78473778535,645550.6930704904 490803.71175497957,645616.839036208 490553.6800049078))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-07-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "proces produkcyjny",
+  "total_area_ha": 0.1145,
+  "reporters": [
+    {
+      "name": "PGNIG TERMIKA S.A.",
+      "address": "ul. Modlińska 15, 03-216 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PGNIG TERMIKA S.A.",
+      "address": "ul. Modlińska 15, 03-216 Warszawa",
+      "economic_activity_code": "35.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.0755
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0755
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0755
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2023-06-13",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-10-18",
+        "reference": "WOOŚ-IV.512,1,2023,DŚc.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-11-01",
+    "planned_end": "2024-01-31",
+    "actual_end": "2024-02-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "efekt ekologiczny osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

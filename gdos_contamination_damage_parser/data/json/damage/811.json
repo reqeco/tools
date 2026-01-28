@@ -1,0 +1,102 @@
+{
+  "registry_id": 811,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "municipality": "Narew",
+    "address": "Trześcianka, 17-210 Narew",
+    "precinct": "36 Trześcianka",
+    "parcel_numbers": [
+      "909/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((797891.607081071 570595.564993279,797937.1155116241 570598.7399998261,797957.2238879751 570607.2066835165,797994.2656302804 570187.5766776204,797974.6864218182 570189.6933484385,797959.3405557089 570190.2225160925,797945.0530251993 570190.2225160301,797937.1155082376 570189.6933482746,797931.8238302564 570188.1058450742,797928.1196557278 570193.3975223079,797891.607081071 570595.564993279))",
+    "site_description": "Sezonowe stosowanie metod akustycznego odstraszania zwierząt od upraw rolnych (armatki hukowe) ze względu na wyjątkową wrażliwością dubelta na hałas, aktualnie nie pozwala osobnikom tego gatunku na użytkowanie tokowiska istniejącego od wielu lat w dolinie rz. Narwi pomiędzy Trześcianką, a ujściem rz. Rudni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "W dniu 10 czerwca 2014 r. pracownicy RDOŚ na podstawie wystrzałów dochodzących z upraw kukurydzy znajdujących się pomiędzy miejscowościami Trześcianka, Puchły i Soce, zlokalizowali działki, na których znajdowały się armatki (69/7, 69/8, 69/9, 452/3, 452/8 obręb 36 Trześcianka). Armatki hukowe  stosowano tez w 2010 i 2012 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Stosowanie armatek hukowych służących odstraszaniu dzików Sus scrofa od upraw rolnych (kukurydza) w okolicach wsi Trześcianka i Soce, w gm. Narew, powodowało płoszenie i niepokojenie dubeltów Gallinago media.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Towarzystwo Przyrodnicze „Dubelt”",
+      "address": "(…)",
+      "legal_form": "organizacja ekologiczna"
+    },
+    {
+      "name": "Polskie Towarzystwo Ochrony Ptaków",
+      "address": "ul. Kolejowa-Wejmutka 17-230 Białowieża",
+      "legal_form": "organizacja ekologiczna"
+    },
+    {
+      "name": "Natura International Polska",
+      "address": "ul. Tartaczna 3/4 82-300 Elbląg",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "dubelt (Gallinago media)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "dubelt (Gallinago media) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-03-30",
+    "detection_date": "2012-04-01",
+    "decisions": [
+      {
+        "issue_date": "2015-04-30",
+        "reference": "WPN.512.2.2015.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2015-11-12",
+        "reason": "Prośba o zwolnienie z obowiązków określonych w decyzji",
+        "appealed_decision_reference": "WPN.512.2.2015.JŁ",
+        "resolution_reference": "DOA-ks.512.2.2016.mp",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2016-02-12",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "postanowienie DOA-ks.512.2.2016.mp o uchybieniu terminu do wniesienia odwołania"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2020-07-01",
+    "actual_end": null,
+    "method": null,
+    "description": "Podmiot zaprzestał stosowania armatek hukowych w okolicach miejscowości Trześcianka, Soce i Puchły gm. Narew w okresie lęgowym dubeltów Gallinago media tj. od 1 kwietnia do 1 lipca, w latach 2015-2020.",
+    "ecological_effect": "Przywrócenie klimatu akustycznego w dolinie Narwi w okolicach miejscowości Trześcianka, Soce i Puchły gm. Narew, w tym na terenie tokowiska zlokalizowanego na działce o nr ewid. 909/1 obręb 36 Trześcianka, odpowiedniego dla bytowania dubeltów Gallinago media. Ograniczenie emisji hałasu powodowanego przez armatki przywróciło klimat akustyczny odpowiedni dla bytowania dubeltów Gallinago media – w okresie lęgowym ptaki te nie były płoszone i niepokojone wystrzałami z tych urządzeń.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

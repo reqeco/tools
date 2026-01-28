@@ -1,0 +1,64 @@
+{
+  "registry_id": 616,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "płocki",
+    "municipality": "Słubice",
+    "address": "Alfonsów",
+    "precinct": null,
+    "parcel_numbers": [
+      "200/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((559780.824316381 503971.068325934,559661.76157825 503843.5389042115,559706.2116671504 503799.08881531376,559812.5743798814 503912.8598761838,559780.824316381 503971.068325934))",
+    "site_description": "rurociąg"
+  },
+  "occurrence_time": {
+    "date": "2014-03-03",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropochodnymi na terenie działki o nr ew. 200/2 w . Alfonsów, gm. Słubice",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": "Ul. Wyszogrodzka 133, 09-410 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": "Ul. Wyszogrodzka 133, 09-410 Płock",
+      "economic_activity_code": "49.50.B"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2014-03-03",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ",
+    "ecological_effect": "spełnione wymagane prawem standardy",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

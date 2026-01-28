@@ -1,0 +1,57 @@
+{
+  "registry_id": 1721,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Cewice",
+    "address": null,
+    "precinct": "Cewice",
+    "parcel_numbers": [
+      "143/2",
+      "421/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((416863.96685198834 729054.7476924043,417011.0754795505 728853.1347891865,417204.7508669157 729103.9602908371,417022.18800177093 729191.8021331877,416863.96685198834 729054.7476924043))",
+    "site_description": "Teren na którym są magazynowane (bez zezwolenia) odpady tekstylne."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "grudzień 2019 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa (RUBEN Sp. z o.o.)",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Magazynowanie odpadów tekstylnych.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Pomorski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "Trakt św. Wojciecha 293, 80-001 Gdańsk",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "BIOFUEL INTERNATIONAL Sp. z o.o.",
+      "address": "Kamieniec 7, 84-312 Cewice",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2022-08-12",
+    "detection_date": "2019-12-19",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

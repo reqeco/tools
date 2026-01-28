@@ -1,0 +1,214 @@
+{
+  "registry_id": 2174,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 2.1677,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wałbrzych",
+    "municipality": "Wałbrzych",
+    "address": "ul. Górnicza Wałbrzych",
+    "precinct": "Podgórze nr 40",
+    "parcel_numbers": [
+      "26/35",
+      "obręb Podgórze nr 40"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((308740.36115334433 323582.77000057325,308703.42117379745 323574.88768297806,308664.5973977826 323566.60672844015,308604.79481176636 323553.81455673743,308566.34143631876 323564.2157601472,308552.72928340186 323559.2958083553,308493.66092475376 323537.1327893995,308449.8401638074 323518.6598353172,308437.0588352685 323503.9333000025,308438.17855373037 323496.8743743794,308439.86775164225 323492.56793471053,308442.98176824197 323488.1343169017,308448.0048645623 323483.08676280733,308451.96347314666 323480.19932417665,308459.03419994074 323476.5427274974,308464.19515481114 323475.1520686317,308474.176421189 323474.03114026133,308479.8790411819 323475.0640794318,308491.9756801367 323475.66083373316,308501.62852460844 323477.351001068,308527.8456536792 323479.4962283233,308541.9381005394 323481.26648085006,308566.4848516681 323483.0716044996,308582.7889624742 323482.41941354703,308592.59753069317 323481.067546919,308614.75756476715 323478.54655961227,308633.7990498882 323477.41581557784,308663.2583994082 323476.20177285094,308686.40995199943 323477.5718036629,308708.7314248069 323495.6064902907,308729.9359744302 323514.46252841875,308735.0107205177 323522.5778129697,308737.76415214373 323535.3441105513,308740.36115334433 323582.77000057325))",
+    "site_description": "Teleenergetyczne Konstrukcje Wsporcze Sp. z o.o., teren dawnego KWK w Wałbrzychu oraz koksowni \"Mieszko\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Teleenergetyczne Konstrukcje Wsporcze Sp. z o.o.",
+      "address": "ul. Górnicza 2 58-303 Wałbrzych  Oddział w Gorlicach ul. Łukasiewicza 8 38-300 Gorlice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Fenol",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-07-11",
+    "legal_basis": "art. 61 § 4 ustawy kpa, art. 101c ust. 3 pkt 2 ustawy Poś",
+    "case_reference": "WSI.513.3.2024.ASZ",
+    "decisions": [
+      {
+        "issue_date": "2025-04-17",
+        "reference": "WSI.513.3.2024.ASZ.16",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

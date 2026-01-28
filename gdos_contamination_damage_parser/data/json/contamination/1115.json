@@ -1,0 +1,68 @@
+{
+  "registry_id": 1115,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Bernarda Chrzanowskiego, 81-338",
+    "precinct": "0026 Śródmieście",
+    "parcel_numbers": [
+      "850",
+      "847",
+      "851",
+      "853",
+      "2521"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((470368.8170349793 740659.2795696789,470377.8128862992 740664.0420792084,470375.69621539925 740660.8670728607,470369.34620269923 740659.8087374084,470378.3420540293 740664.0420792094,470379.92955719924 740650.8128860798,470347.6503259793 740640.2295315797,470319.6044365491 740629.6461770786,470316.9585979293 740622.7669966584,470329.6586233293 740549.2126828795,470337.5961391993 740548.1543474272,470339.1836423793 740542.3335024575,470357.70451274916 740542.3335024575,470360.87951909914 740541.804334729,470367.2295317993 740490.4750654083,470321.7211074493 740485.1833881577,470192.0750148291 740478.8333754586,470184.1374989493 740476.7167045586,470062.4289221991 740441.2624669764,470019.03716874926 740439.6749637965,470019.03716874926 740484.6542204283,470176.1999830791 740563.5002114587,470336.53780374926 740648.6962151779,470368.8170349791 740659.8087374074,470368.8170349793 740659.2795696789)) POLYGON((470599.0049953492 740714.842180809,470604.82584032934 740684.1504527591,470632.8717297492 740676.7421046086,470754.05113877926 740688.3837945601,470749.28862924944 740734.4213866303,470743.99695199926 740736.0088898083,470743.99695199926 740733.3630511807,470670.4426382293 740721.1921935091,470600.5924985293 740715.3713485282,470599.0049953492 740714.842180809))",
+    "site_description": "tereny portowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Działalność usługowa wspomagająca transport morski",
+    "current": "Działalność usługowa wspomagająca transport morski"
+  },
+  "land_holders": [
+    {
+      "name": "Urząd Morskie Gdyni",
+      "address": "ul. B. Chrzanowskiego 10 , 81-338 Gdynia",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "850",
+        "847",
+        "851",
+        "853",
+        "2521"
+      ],
+      "economic_activity_code": "-"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-27",
+    "legal_basis": "art. 61 par. 1 i 4 z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego art. 101 c ust. 3  ustawy z dnia 27 kwietnia 2001",
+    "case_reference": "RDOŚ-Gd-WZS.513.6.2019.AK",
+    "decisions": [
+      {
+        "issue_date": "2019-04-04",
+        "reference": "RDOŚ-Gd-WZS.513.6.2019.AK.DH.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

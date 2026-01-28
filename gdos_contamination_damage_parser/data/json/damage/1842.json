@@ -1,0 +1,64 @@
+{
+  "registry_id": 1842,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "wejherowski",
+    "municipality": "Linia",
+    "address": null,
+    "precinct": "Pobłocie",
+    "parcel_numbers": [
+      "327/21"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((439163.72978569905 733432.2876975778,439202.0944457596 733342.3291843254,439498.4283717731 733596.3296923283,439538.1159511438 733598.9755309578,439396.5635847019 733968.0700191474,439383.3343915816 733986.5908895163,439297.3446362607 733899.2782148961,439241.7820251401 733829.1634913264,439199.4486071394 733804.028024395,439171.6673015791 733788.1529926462,439126.68804494856 733699.5173987057,439100.22965869826 733671.7360931458,439165.05270500894 733637.340191015,439231.19867063995 733663.7985772667,439257.65705689014 733643.9547875766,439200.7715264495 733600.2984502651,439227.2299126999 733556.6421129555,439163.72978569905 733432.2876975778))",
+    "site_description": "W miejscowości doszło do wypadku w wyniku którego z cysterny wyciekła substancja chemiczna AdBlue"
+  },
+  "occurrence_time": {
+    "date": "2023-10-23",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "null",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "w wyniku wypadku cysterny do środowiska została wprowadzona substancja AdBlou",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt GMINY",
+      "address": "uL.Turystyczna 15,84-223 Linia",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-11-13",
+    "detection_date": "2023-10-25",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

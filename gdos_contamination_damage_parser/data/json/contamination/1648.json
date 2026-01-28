@@ -1,0 +1,178 @@
+{
+  "registry_id": 1648,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1661,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Gdańska 5",
+    "precinct": "7-04-14",
+    "parcel_numbers": [
+      "32",
+      "33"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634587.7651330158 491624.4655396845,634579.0338655453 491564.5372948246,634633.6704332015 491550.24976625293,634652.9850551914 491547.4716356937,634652.3235955313 491565.9925060645,634649.2808811085 491576.7081525037,634637.2423153565 491594.8321470851,634615.9433144048 491616.263439944,634603.9047486428 491628.69888148364,634587.7651330158 491624.4655396845))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ACG 12 sp. z o.o.",
+      "address": "ul. Szamocka 8, IX piętro, 01-748 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.1642
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0019
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-05-26",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.29.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2022-08-10",
+        "reference": "WOOŚ-IV.515.29.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-02-08",
+        "reference": "WOOŚ-IV.515.29.2022.PBu.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.155",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-04-01",
+        "reference": "WOOŚ-IV.515.29.2022.PBu.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 KPa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ACG 12 sp. z o.o.",
+        "address": "ul. Szamocka 8, IX piętro, 01-748 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-08-01",
+    "planned_end": "2028-03-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

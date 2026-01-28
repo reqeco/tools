@@ -1,0 +1,54 @@
+{
+  "registry_id": 2088,
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "prudnicki",
+    "municipality": "Prudnik",
+    "address": "Prudnik, ul. Nyska",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": "rzeka Złoty Potok i rzeka Prudnik w Prudniku na wysokości ul. Nyskiej"
+  },
+  "occurrence_time": {
+    "date": "2025-01-10",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (PGW Wody Polskie)",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": null,
+  "environmental_component": "woda",
+  "event_description": "Zanieczyszczenie wód rzek Złoty Potok i Prudnik w postaci filmu na powierzchni wody",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Opole",
+      "address": "45-035 Opole ul. Nysy Łużyckiej 42",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-03-18",
+    "detection_date": "2025-01-10",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,80 @@
+{
+  "registry_id": 462,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Dąbrowa Górnicza",
+    "municipality": "Dąbrowa Górnicza",
+    "address": "Dąbrowa Górnicza Królowej Jadwigi 28, ul. 1 Maja 30 i 34",
+    "precinct": "0003 Dąbrowa Górnicza a. m. 96",
+    "parcel_numbers": [
+      "102/1",
+      "105",
+      "106"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((514083.102000 272847.236000,514116.761000 272870.279000,514137.040000 272883.798000,514151.078000 272893.224000,514167.574000 272867.618100,514188.348000 272880.091000,514203.806000 272863.543000,514207.073000 272865.688000,514207.489000 272865.423000,514223.950000 272855.088000,514234.129000 272862.177000,514243.774000 272868.903000,514247.052000 272871.187000,514260.750000 272850.816000,514269.666000 272837.564000,514260.511000 272831.571000,514261.950000 272829.303000,514260.015000 272828.109900,514258.655000 272827.278000,514252.549000 272823.573100,514249.253000 272821.498000,514256.614000 272809.267100,514267.785000 272812.804900,514273.254000 272812.252000,514282.250000 272818.317000,514297.257000 272795.749000,514312.079000 272773.484000,514320.082000 272761.444100,514327.488000 272750.311000,514311.169000 272739.237000,514302.574000 272733.276000,514303.692000 272731.722000,514300.335000 272731.727000,514239.762000 272731.702000,514237.988000 272734.334000,514226.671000 272751.126000,514208.573000 272777.991900,514200.470000 272790.014000,514190.015000 272805.535000,514182.666000 272816.447000,514166.024000 272805.106900,514165.197000 272805.268000,514161.268000 272805.141000,514141.630000 272805.155000,514106.880000 272809.530000,514105.998000 272813.749100,514089.611000 272837.794000,514083.475000 272846.741000,514083.102000 272847.236000))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2010-05-30",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w chronionych siedliskach przyrodniczych w związku z prowadzeniem prac termomodernizacyjnymi na elewacjach budynków przy ul. Królowej Jadwigi 28, ul. 1 Maja 30 i 34 w Dąbrowie Górniczej",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Aleksandra Trzaska",
+      "address": null,
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Spółdzielnia Mieszkaniowa \"Lokator\"",
+      "address": "Dąbrowa Górnicza Adamieckiego 11",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "jerzyk (Apus apus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-07-18",
+    "detection_date": "2010-01-01",
+    "decisions": [
+      {
+        "issue_date": "2011-09-21",
+        "reference": "WSI.512.66.2.2011.MMŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2012-03-31",
+    "actual_end": "2012-03-31",
+    "method": null,
+    "description": "Na budynku przy ul. 1 Maja 30 na ścianie południowej należy w sposób trwały zamontować 4 budki lęgowe dla jerzyka Apus apus w miejscach siedliskowo podobnych  do miejsc, w których zlokalizowane są niedrożne otwory wentylacyjne.  Na budynku przy ul. 1 Maja 34 na ścianie południowej należy w sposób trwały zamontować 6 budek lęgowych dla jerzyka Apus apus w miejscach siedliskowo podobnych do miejsc, w których zlokalizowane są niedrożne otwory wentylacyjne. Na budynku przy ul. 1 Maja 38 na ścianie południowej i ścianie północnej należy  w sposób trwały zamontować 10 budek lęgowych dla jerzyka Apus apus (po 5 na każdej ścianie) w miejscach siedliskowo podobnych do miejsc, w których zlokalizowane są niedrożne otwory wentylacyjne.  Na budynku przy ul. Królowej Jadwigi 28 na ścianie południowej należy zamontować 11 budek lęgowych dla jerzyka Apus apus w miejscach siedliskowo podobnych do miejsc, w których zlokalizowane są niedrożne otwory wentylacyjne.",
+    "ecological_effect": "Zapewniono rekompensatę utraconych siedlisk poprzez montaż budek lęgowych zgodnie z decyzją RDOŚ.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

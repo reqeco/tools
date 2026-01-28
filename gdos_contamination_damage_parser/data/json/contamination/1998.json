@@ -1,0 +1,267 @@
+{
+  "registry_id": 1998,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "rybnicki",
+    "municipality": "Czerwionka-Leszczyny",
+    "address": "Czerwionka-Leszczyny przy ul. Przemysłowej",
+    "precinct": "0001 Czerwionka",
+    "parcel_numbers": [
+      "241201_4.0001.AR_1.2026/178",
+      "241201_4.0001.AR_1.2027/178",
+      "241201_4.0001.AR_1.2030/178",
+      "241201_4.0001.AR_1.2411/202",
+      "241201_4.0001.AR_1.2022/202",
+      "241201_4.0001.AR_1.3062/202",
+      "241201_4.0001.AR_1.3081/202",
+      "241201_4.0001.AR_1.3079/202",
+      "241201_4.0001.AR_1.3080/202",
+      "241201_4.0001.AR_1.3271/197",
+      "241201_4.0001.AR_1.3284/197"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((476535.579 254697.204,476541.522 254693.936,476559.425 254682.962,476578.481 254641.7,476588.553 254628.862,476607.186 254573.173,476624.797 254525.463,476617.836 254523.667,476602.232 254551.052,476592.704 254564.222,476574.481 254581.887,476552.552 254596.742,476532.876 254605.861,476533.478 254634.387,476528.78 254673.888,476512.48 254729.166,476498.562 254751.81,476452.167 254783.105,476414.898 254807.721,476399.019 254816.109,476384.918 254824.404,476378.605 254830.625,476533.32 254888.098,476543.679 254840.756,476523.472 254723.802,476531.466 254707.963,476535.579 254697.204)),((476164.229 254638.556,476142.906 254643.469,476122.891 254648.245,476124.363 254658.14,476084.836 254667.175,476085.742 254671.371,476064.36 254676.275,476067.61 254686.116,476059.043 254688.199,476052.252 254691.618,476048.715 254692.445,476040.216 254694.408,476038.768 254704.922,476265.318 254790.387,476360.389 254825.712,476372.868 254816.41,476381.801 254808.804,476405.752 254792.732,476443.838 254767.885,476488.072 254738.678,476498.83 254717.366,476513.021 254668.852,476519.978 254641.304,476521.696 254624.061,476519.167 254609.903,476515.599 254594.199,476467.395 254615.034,476391.17 254631.647,476390.338 254627.7,476377.769 254630.277,476375.852 254622.178,476375.078 254618.93,476362.934 254615.085,476336.949 254615.873,476318.799 254618.165,476318.888 254618.823,476307.17 254621.459,476308.012 254625.356,476301.426 254626.903,476300.262 254622.821,476299.393 254622.883,476298.93 254621.08,476295.87 254608.328,476281.941 254611.513,476282.132 254612.35,476266.587 254615.856,476266.545 254615.667,476259.991 254617.314,476240.161 254621.008,476195.106 254631.436,476164.229 254638.556)),((476156.763 254844.432,476164.289 254842.922,476192.82 254853.854,476222.533 254868.747,476261.731 254799.36,476226.749 254785.876,476201.897 254832.404,476176.094 254831.08,476131.747 254816.803,476128.804 254815.753,476098.415 254804.887,476087.73 254801.062,476052.878 254786.817,476039.131 254781.195,475997.686 254860.387,475996.759 254897.858,476025.577 254913.113,476027.681 254909.727,476049.291 254921.111,476069.11 254931.499,476085.955 254900.511,476123.327 254920.159,476124.18 254919.638,476132.41 254900.558,476135.085 254894.355,476156.763 254844.432)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie koksu",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "JSW KOKS S. A.",
+      "address": "ul. Pawliczka; 41-800 Zabrze",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "241201_4.0001.AR_1.2026/178",
+        "241201_4.0001.AR_1.2027/178",
+        "241201_4.0001.AR_1.2030/178",
+        "241201_4.0001.AR_1.2411/202",
+        "241201_4.0001.AR_1.2022/202",
+        "241201_4.0001.AR_1.3062/202",
+        "241201_4.0001.AR_1.3081/202",
+        "241201_4.0001.AR_1.3079/202",
+        "241201_4.0001.AR_1.3080/202",
+        "241201_4.0001.AR_1.3271/197",
+        "241201_4.0001.AR_1.3284/197"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Fenol",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Krezole",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyjanki wolne",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-12-29",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (tekst jedn. Dz. U. z 2023 r. poz. 775 ze zm.) [dalej Kpa], w związku z art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2022 r., poz. 2556 ze zm.)",
+    "case_reference": "WSI.515.12.2023",
+    "decisions": [
+      {
+        "issue_date": "2024-04-25",
+        "reference": "WSI.515.12.2023.MO.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "JSW KOKS S. A.",
+        "address": "ul. Pawliczka; 41-800 Zabrze",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-05-01",
+    "planned_end": "2027-06-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Sposób przeprowadzenia remediacji. III.1 Zwolnienie. Zastosowanie zwolnienia z przeprowadzenia remediacji dla działki o nr ew. 3284/197 (ze względu na brak występowania zanieczyszczenia) oraz dla całości powierzchni pozostałych działek w odniesieniu do metali ciężkich (baru, arsenu, chromu, kadmu, cynku, niklu, rtęci, ołowiu) oraz dla fenoli i krezoli. III.2 Bioremediacja. Zastosowanie bioremediacji w poszczególnych obszarach: Obszar A • obszar zanieczyszczonych gruntów ok. 700 m2; • maksymalna głębokość zalegania zanieczyszczenia w gruncie ok. 2,0 m p.p.t. Obszar B • obszar zanieczyszczonych gruntów ok. 12 000 m2; • maksymalna głębokość zalegania zanieczyszczenia w gruncie ok. 1,0 m p.p.t. Obszar C • obszar zanieczyszczonych gruntów ok. 58 200 m2; • maksymalna głębokość zalegania zanieczyszczenia w gruncie ok. 4,0 m p.p.t.; • okolice punktu K i OW8 do 7 m p.p.t.; przyjęty promień zanieczyszczenia 10 m. Należy wykonać 10 do 15 w obszarze A, 25 do 30 w obszarze B, oraz od 130 do 150 w obszarze C, otworów piezometrycznych, które służyły będą do aplikacji biopreparatu, zawierającego w składzie wyselekcjonowane szczepy bakteryjne zdolne do biodegradacji zanieczyszczeń o charakterze organicznym. III.3 Venting - mechaniczna ekstrakcja lotnych związków z gruntu Należy wykorzystać od 50 do 70 studni ekstrakcyjnych (wykonanych na potrzeby bioremediacji) o długości 4,0 m p.p.t w okolicach punktu K i OW8 oraz do 5 studni do 7,0 m p.p.t. Minimalny rozstaw piezometrów powinien wynosić 15-20 metrów. Obszar, na którym zostanie zastosowany venting przedstawiono na załączniku nr 1 do decyzji. III.4 Napowietrzanie gruntu Napowietrzanie oraz venting należy przeprowadzić na tym samym obszarze, przy wykorzystaniu tych samych piezometrów. Obszar objęty napowietrzaniem gruntu przedstawiono na załączniku nr 1 do decyzji. III.5 Metoda pump and treat - pompuj i oczyszczaj Należy wykorzystać piezometry służące do ventingu, napowietrzania gruntu i iniekcji biopreparatu (od 50 do 70 studni ekstrakcyjnych o długości 4,0 m p.p.t; w okolicach punktu K i OW8 do 5 studni do 7,0 m p.p.t.). Obszar objęty metodą pump and treat - pompuj i oczyszczaj przedstawiono na załączniku nr 1 do decyzji. III.6 Fitoremediacja. Należy fitoremediację przeprowadzić na obszarze C z wyłączeniem miejsc, na których będą wykonane techniczne elementy farmy fotowoltaicznej. Obszar, objęty fitoremediacją przedstawiono na załączniku nr 2 do decyzji.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

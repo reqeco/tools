@@ -1,0 +1,82 @@
+{
+  "registry_id": 176,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Siechnice",
+    "address": "Blizanowice-Trestno",
+    "precinct": "obręb Blizanowice-Trestno",
+    "parcel_numbers": [
+      "127/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((370662.32000000029802322 358216.00999999977648258, 370661.45000000018626451 358355.7698999997228384, 370683.50999999977648258 358424.18999999947845936, 370909.5 358257.10989999957382679, 370912.91999999992549419 358206.40990000031888485, 370870.94000000040978193 358172.82000000029802322, 370830.75 358150.53989999927580357, 370754.29999999981373549 358115.89990000054240227, 370745.53000000026077032 358116.11999999918043613, 370648.82000000029802322 358113.32000000029802322, 370617.50999999977648258 358114.53989999927580357, 370583.12999999988824129 358128.71990000084042549, 370586.61859999969601631 358132.56530000083148479, 370662.32000000029802322 358216.00999999977648258))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "kwiecień 2009 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w środowisku spowodowana zaoraniem łąk selernicowych i niżowych i górskich świeżych łąk użytkowanych ekstensywnie zlokalizowanych w granicach OSO ptaków Natura 2000 \"Grądy Odrzańskie\" i na terenie planowanym do włączenia w granice SOO siedlisk \"Grądy w Dolinie Odry\" koło m.Trestno na działce nr 127/2 obręb Blizanowice – Trestno, gmina Siechnice",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dolnośląska Fundacja Ekorozwoju",
+      "address": "ul. Białoskórnicza 26,  50-134 Wrocław",
+      "legal_form": "stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Gospodarsto Rolne - (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Łąki selernicowe (Cnidion dubii)",
+      "other": null
+    },
+    {
+      "natura_2000": "Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-06-11",
+    "detection_date": "2009-04-20",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "RDOŚ-02-WSI-6614-3/19-13/09/10/as",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2012-10-30",
+    "actual_end": null,
+    "method": null,
+    "description": "1.\tSierpień/Wrzesień 2010 roku. Zaleca się przeprowadzenie podstawowych działań naprawczych polegających  na wykonaniu zabiegów pratotechnicznych tj. pozyskaniu świeżego pokosu z połowy działki nr 2 obręb Blizanowice – Trestno (z części wschodniej sąsiadującej z działką  nr 127/2 obręb Blizanowice – Trestno), na której występuje siedlisko łąkowe. Pokos  nie może być składowany dłużej niż 3 dni po ścięciu. Na działce nr 127/2 należy zebrać pozostałości po zasianej kukurydzy bez naruszania struktury gleby. Następnie, rozłożyć pozyskany pokos z północnej części działki nr 2 (gdzie zinwentaryzowane zostało siedlisko niżowe i górskie świeże łąki użytkowane ekstensywnie o kodzie 6510)  na odpowiadającą jej północną cześć działki nr 127/2 oraz tak samo postąpić  z południową częścią działek (gdzie zinwentaryzowano siedlisko łąki selernicowej  o kodzie 6410). W przypadku zalania terenu, należy przystąpić do ww. zabiegów  nie wcześniej niż po 2 tygodniach od ustąpienia wody. 2.\tOd 15 września do 30 października 2011 i 2012 roku. Koszenie całej powierzchni odtwarzanej działki, a następnie usunięcie uzyskanej masy zielonej bezpośrednio po skoszeniu lub wysuszenie i usunięcie jej z powierzchni działki  w terminie do 2 tygodni po pokosie. W przypadku zalania opisywanego terenu, należy przystąpić do pokosu nie wcześniej niż po 2 tygodniach od ustąpienia wody.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

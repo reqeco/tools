@@ -1,0 +1,177 @@
+{
+  "registry_id": 1479,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0745,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Anny German 15 Warszawa",
+    "precinct": "70304",
+    "parcel_numbers": [
+      "37/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634436.4363926422 490271.7805426372,634445.9614117015 490254.3180077188,634467.9218723142 490255.9055108875,634489.0885813358 490254.84717543796,634510.7844580881 490249.82008205727,634529.0407446169 490243.7346532177,634545.7095279738 490235.2679696167,634556.5574663451 490242.4117339067,634534.5970057336 490279.9826423777,634532.2157509711 490281.5701455567,634508.4032033177 490318.3473024359,634436.4363926422 490271.7805426372))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Matexi Polska sp. z o.o.",
+      "address": "Al. Jana Pawła II 27 00-867 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "37/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.0675
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.007
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": 0.007
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-08-30",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.57.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-12-14",
+        "reference": "WOOŚ-IV.515.57.2021.DŚc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Matexi Polska sp. z o.o.",
+        "address": "Al. Jana Pawła II 27 00-867 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-09-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-09-21",
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Sprawa w toku"
+}

@@ -1,0 +1,111 @@
+{
+  "registry_id": 1883,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "łódzki wschodni",
+    "municipality": "Rzgów",
+    "address": "Grodzisko ul. Wojewódzka 22",
+    "precinct": "0005 Grodzisko",
+    "parcel_numbers": [
+      "483/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((535424.58528313296847045 422726.11751133762300014,535439.56825923954602331 422737.85380355082452297, 535447.6113963252864778 422744.2018918190151453, 535488.08403388119768351 422737.99712540907785296, 535530.7793757215840742 422731.45160134858451784, 535582.98097972839605063 422723.44869423285126686, 535559.86659622739534825 422705.30191154405474663, 535527.49875588552094996 422710.28231863299151883, 535485.12801785266492516 422716.80186154454713687, 535424.58528313296847045 422726.11751133762300014))",
+    "site_description": "działka rolna, na której składowano odpady bez zezwolenia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "27.03-06.06.2019 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby WWA w związku z gromadzeniem odpadów bez zezwolenia",
+  "total_area_ha": 0.2935,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,88 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,69 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,24mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,42mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2024-06-14",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-11-16",
+        "reference": "WSI.511.2.2023.MG.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-01-05",
+        "reference": "WSI.512.19.2021.MG.34",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-01-01",
+    "planned_end": "2024-04-30",
+    "actual_end": "2024-05-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania remediacyjne metodą in situ Prace polegać będą na: 0bróbce agrotechnicznej całej powierzchni terenu zanieczyszczonego w celu spulchnienia i napowietrzenia gruntu 0-0,25 m ppt, po uprzednim podniesieniu płyt betonowych utwardzających nieruchomość, -oczyszczenie zanieczyszczonej warstwy gruntu na powierzchni 2935 m2 i głębokości 0-0.25 m ppt, poprzez dwukrotny powierzchniowy oprysk preparatem mikrobiologicznym przystosowanym do rozkładu wielopierścieniowych węglowodorów aromatycznych",
+    "ecological_effect": "uzyskano zakładany w decyzji efekt ekologiczny",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "wszczęcie postępowania z urzędu po informacji od Prokuratury Rejonowej w Pabianicach, odpowiedzialny za szkodę złożył wniosek o uzgodnienie działań naprawczych (11.08.2023 r.). RDOŚ w Łodzi uzgodnił działania naprawcze z wniosku i umorzył postępowanie prowadzone z urzędu. Powyższy wpis został omyłkowo usunięty 13.02.2024 r., jest tożsamy z kartą 1507"
+}

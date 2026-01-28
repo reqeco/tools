@@ -1,0 +1,60 @@
+{
+  "registry_id": 1105,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Hutnicza 35, 81-061 Gdynia",
+    "precinct": "0012 Cisowa",
+    "parcel_numbers": [
+      "1060"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((464380.21230208717 743602.362204453,464426.24989416724 743576.9621536508,464402.9665142673 743534.0995679237,464356.3997544672 743561.087121903,464380.2123020872 743603.9497076217,464380.21230208717 743602.362204453))",
+    "site_description": "Na terenie omawianej działki, od 2001 r. funkcjonuje wytwórnia mas bitumicznych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja pozostałych wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana",
+    "current": "Produkcja pozostałych wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana"
+  },
+  "land_holders": [
+    {
+      "name": "Władysław Grzech MTM Spółka Jawna",
+      "address": "ul. Hutnicza 35, 81-061 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "1060"
+      ],
+      "economic_activity_code": "23.99.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-10",
+    "legal_basis": "61 par. 1 i par. 4 ustawy z dnia 14 czerwca 1960 r. Kodeksu pPostępowania administracyjnego w związku z art. 101c ust. 3 pkt. 1 ustawy z dnia 27 kwietnia 2001 Prawo ochrony Środowiska",
+    "case_reference": "RDOŚ-Gd-WZS.513.10.2020.LK.1",
+    "decisions": [
+      {
+        "issue_date": "2021-02-05",
+        "reference": "RDOŚ-Gd-WZS.513.10.2020.LK.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

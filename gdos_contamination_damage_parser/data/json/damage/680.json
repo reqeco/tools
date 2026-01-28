@@ -1,0 +1,87 @@
+{
+  "registry_id": 680,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "tomaszowski",
+    "municipality": "Lubycza Królewska",
+    "address": "ul. Sobieskiego 14",
+    "precinct": "0008 Lubycza Królewska",
+    "parcel_numbers": [
+      "061805_4.0008.280/36",
+      "061805_4.0008.280/37"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((821606.4408539683 283870.35717761796,821571.2511955964 283918.24685660284,821608.2929419405 283945.49899460934,821626.5492311745 283955.02401374,821639.2492584863 283963.4906973997,821679.9951795149 283997.62201584503,821732.118207261 283917.18852184527,821606.4408539683 283870.35717761796))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 4208 w Lubyczy Królewskiej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1999-01-01",
+    "to": "2013-10-25",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w powierzchni ziemi polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw PKN ORLEN S.A. Nr 4208 w Lubyczy Królewskiej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "558-1711 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "13709-24873 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-12-06",
+    "detection_date": "2013-10-25",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2013-11-22",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach działań zapobiegawczych (ex-situ) grunty zanieczyszczone substancjami ropopochodnymi zostały usunięte z terenu stacji paliw i zastąpione gruntami czystymi.",
+    "ecological_effect": "Działania zapobiegawcze doprowadziły grunty do stanu odpowiadającego standardom jakości dla obszarów typu C",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

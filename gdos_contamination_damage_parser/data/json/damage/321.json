@@ -1,0 +1,79 @@
+{
+  "registry_id": 321,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Szczecin Cmentarz Centralny, Park im. Stefana Żeromskiego w Szczecinie",
+    "precinct": "113 Pogodna",
+    "parcel_numbers": [
+      "3/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((201864.81797000000369735 626095.0152280000038445, 201797.4888959999952931 626282.6596010000212118, 201875.52790600000298582 626308.0068629999877885, 201970.3387370000127703 626326.17947400000412017, 202073.21167600000626408 626345.88327300001401454, 202060.61487300001317635 626426.3223670000443235, 202061.69162200001301244 626467.6157039999961853, 202151.38376900000730529 626466.19540399999823421, 202155.98421799999778159 626372.01672299997881055, 202171.43702499999199063 626263.57086099998559803, 201864.81797000000369735 626095.0152280000038445)))",
+    "site_description": "Cmentarz Centralny w Szczecinie, park"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "wiosna 2013 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "zagrożenie szkodą w środowisku w gatunkach chronionych ptaków, na skutek prowadzenia prac pielęgnacyjnych zieleni miejskiej w szczycie okresu lęgowego ptaków (drozdowatych) na terenie Cmentarza Centralnego i Parku Żeromskiego w Szczecinie",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Zakład Usług Komunalnych",
+      "address": "Szczecin Ku Słońcu 125 A",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-06-27",
+    "detection_date": "2013-05-30",
+    "decisions": [
+      {
+        "issue_date": "2013-07-18",
+        "reference": "WSI.511.11.2013.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2013-07-11",
+        "reason": "naruszenie przepisów o ochronie przyrody",
+        "appealed_decision_reference": "WSI.511.11.2013.AS",
+        "resolution_reference": null,
+        "appellant_name": "Fundacja Ratujmy Ptaki",
+        "appellant_address": "ul. Szafera 196/18 71-245 Szczecin",
+        "resolution_date": "2013-09-17",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "umorzenie postępowania odwoławczego"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2013-10-31",
+    "method": null,
+    "description": "Montaż 20 budek lęgowych typu otwartego dla ptaków",
+    "ecological_effect": "zasiedlenie części budek",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

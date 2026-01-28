@@ -1,0 +1,107 @@
+{
+  "registry_id": 1204,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "sieradzki",
+    "municipality": "Goszczanów",
+    "address": "Strachanów 9",
+    "precinct": "0020 Strachanów",
+    "parcel_numbers": [
+      "244"
+    ],
+    "coordinates_ewkt": "SRID=2180;POINT(470351.19999999896 436677.29999984894)",
+    "site_description": "działka użytkowana rolniczo z zabudową budynkami gospodarczymi na której składowane są odpady"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "od 2017 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby WWA w związku z rozszczelnieniem się pojemnika typu mauser i rozlaniu do gleby cieczy o nieznanym pochodzeniu",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ w Łodzi, Delegatura w Sieradzu",
+      "address": "ul. Lipowa 16, 90-743 Łódź",
+      "legal_form": "Inspekcja ochrony środowiska"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,750 mg/kg s.m.",
+      "area_ha": 1.52
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,842 mg/kg s.m.",
+      "area_ha": 1.52
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "2,410 mg/kg s.m.",
+      "area_ha": 1.52
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "4,790 mg/kg s.m.",
+      "area_ha": 1.52
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,470 mg/kg s.m.",
+      "area_ha": 1.52
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,750 mg/kg s.m.",
+      "area_ha": 1.52
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "3,490 mg/kg s.m.",
+      "area_ha": 1.52
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "3,690 mg/kg s.m.",
+      "area_ha": 1.52
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2019-02-14",
+    "detection_date": "2018-10-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,72 @@
+{
+  "registry_id": 1657,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kartuski",
+    "municipality": "Sulęczyno",
+    "address": "Sulęczyno",
+    "precinct": "0008 Sulęczyno",
+    "parcel_numbers": [
+      "44/2"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Sulęczyno"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2021-09-06",
+    "description": "przed 06.09.2021 r., na skutek przeprowadzonych prac bagrowniczych podmiotu korzystającego ze środowiska, spowodowało pogorszenie stanu i funkcji siedliska gatunków roślin chronionych"
+  },
+  "land_surface_holder": null,
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "szkoda powstała na skutek prac bagrowniczych wykonanych przez właściciela działki nr 44/2, obręb 0008 Sulęczyno, które spowodowały pogorszenie stanu i funkcji siedliska gatunków roślin chronionych, a jednocześnie stanowiącego chronione siedlisko przyrodnicze , o kodzie 7140 - torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea nigrae)",
+  "total_area_ha": 0.49,
+  "reporters": [
+    {
+      "name": "molinion stowarzyszenie na rzecz odpowiedzialnego rolnictwa",
+      "address": "Młyn Dolny, 83-333 Chmielno",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "01.50.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "bobrek trójlistkowy (Menyanthes trifoliata)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": "Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2021-10-12",
+    "detection_date": "2021-09-06",
+    "decisions": [
+      {
+        "issue_date": "2022-12-12",
+        "reference": "RDOŚ-Gd-WZS.511.3.2021.LK.MJ.MB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "podmiot prowadzący działalność rolniczą"
+}

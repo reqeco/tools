@@ -1,0 +1,192 @@
+{
+  "registry_id": 380,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2506,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "municipality": "Sokołów Małopolski",
+    "address": "ul. 1000-lecia 15 36-050 Sokołów Małopolski",
+    "precinct": "nr 0001 Sokołów Małopolski",
+    "parcel_numbers": [
+      "181611_4.0001.2900/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((722762.7361038529779762 267560.14199327299138531, 722730.69606912904419005 267573.60543106001568958, 722726.69896416994743049 267564.14558756997575983, 722724.86889647401403636 267558.91505508002592251, 722724.39791985996998847 267556.71182070102076977, 722724.29770900099538267 267555.22873307601548731, 722724.40719865798018873 267554.13137854501837865, 722732.58091111795511097 267550.34980244399048388, 722783.89957406104076654 267523.72039820899954066, 722801.37080165802035481 267514.53697816998464987, 722813.65534161101095378 267543.54455524199875072, 722808.8216740459902212 267545.49531067098723724, 722800.47105754399672151 267549.53220712998881936, 722776.93905796599574387 267561.66370361502049491, 722765.89764064794871956 267566.44856044702464715, 722762.7361038529779762 267560.14199327299138531))",
+    "site_description": "inne tereny zabudowane Bi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Działalność na  stacji paliw nr 1272 była prowadzona od 1967 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern Naftowy Orlen S. A. jako użytkownik wieczysty",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "181611_4.0001.2900/1"
+      ],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "39 mg/kg (sekcja 2)",
+      "area_ha": 0.2506
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,422 - 0,499 mg/kg",
+      "area_ha": 0.2506
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,302 - 0,381 mg/kg",
+      "area_ha": 0.2506
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,107 - 0,116 mg/kg",
+      "area_ha": 0.2506
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,433 - 0,459 mg/kg",
+      "area_ha": 0.2506
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,451 - 0,491 mg/kg",
+      "area_ha": 0.2506
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,477 - 0,515 mg/kg",
+      "area_ha": 0.2506
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,385 - 0,472 mg/kg",
+      "area_ha": 0.2506
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,407 - 0,490 mg/kg",
+      "area_ha": 0.2506
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2660 mg/kg",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4300 mg/kg",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "2,31 mg/kg",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "27,2 mg/kg",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "91,8 mg/kg",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "8,22 mg/kg",
+      "area_ha": 0.1
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-04-20",
+    "legal_basis": "art. 61 § i i § 4 K.p.a. w związku z art. 101 l ust. 2 POŚ",
+    "case_reference": "WSI.515.2.2.2018.KS",
+    "decisions": [
+      {
+        "issue_date": "2020-12-21",
+        "reference": "WSI.515.2.2.2018.MD.39",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-01-13",
+        "reference": "WSI.515.6.2021.JŁ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": null,
+        "complaint_to_wsa": "nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polski Koncern Naftowy Orlen S. A. jako użytkownik wieczysty",
+        "address": "ul. Chemików 7 09-411 Płock",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": "2021-04-01",
+    "planned_end": "2032-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Remediacja powierzchni ziemi w przedziale głębokości 0 - 0,25 m p.p.t.  przeprowadzona zostanie metodą samooczyszczania.  Remediacja powierzchni ziemi na głębokości przekraczającej 0,25 m p.p.t zostanie prowadzona metodą „in-situ”, polegającą na: •\tWykonaniu w miejscu występowania zanieczyszczenia nie mniej niż 40 technologicznych otworów aplikacyjno – napowietrzających, o głębokości do 3,0 m p.p.t.; w otworach zabudowane zostaną rury PCV o średnicy 50 mm i długości o 3,0 m, owinięte siatką filtracyjną w interwale od 1,0 m do końca długości rury. •\tAplikacji biopreparatu posiadającego atest Państwowego Zakładu Higieny „PZH”, okresowo z częstotliwością jeden raz na kwartał tj. w miesiącu: lutym, maju, sierpniu i listopadzie, w ilości ok. 400 dm3 jednorazowo do wszystkich otworów (średnio 10 dm3 na jeden otwór). Dawka stosowanego biopreparatu będzie ustalona w zależności od bieżących wyników badań stanu gleby. Dopuszcza się zmianę terminów zadawania biopreparatu (o miesiąc wcześniej lub później), w zależności od warunków atmosferycznych. W procesie stosowany będzie biopreparat zawierający w składzie azot i fosfor.  •\tPobraniu dwóch prób gleby z otworów badawczych, w celu określenia ogólnej liczby mikroorganizmów oraz liczby mikroorganizmów biodegradujących węglowodory ropopochodne. Pierwsze badania wykonane zostaną w październiku pierwszego roku prowadzenia prac. Badania powtarzane będą corocznie.  •\tOkresowym prowadzeniu badań zanieczyszczenia gleby. Na terenie gdzie potwierdzono zanieczyszczenie powierzchni ziemi na głębokości 0 – 0,25 m p.p.t. wyznaczone zostaną trzy sekcje, które odpowiadać będą sekcjom wyznaczonym na etapie badań szczegółowych, każda o powierzchni nie większej niż 0,1 ha. Granice sekcji wraz z współczynnikiem poboru prób gleby zostały wskazane na załączniku nr 2 do niniejszej decyzji. Zakres badań obejmował będzie pobór: 3 próbek zbiorczych, po jednej z każdej sekcji. Badania gleby w przedziale głębokości 0 - 0,25 m p.p.t. prowadzone będą co 2 lata, po drugim, czwartym i szóstym roku, w sezonie jesiennym (w październiku).  Na terenie gdzie remediacja prowadzona będzie metodą „in–situ” pobór próbek gleby z głębokości: 0,25 – 1,0 m, 1,0 – 3,0 m, 3,0 (3,5) – 4,0 m, prowadzony będzie z dwóch otworów monitoringowych. Badania gleby na głębokości przekraczającej 0,25 m p.p.t. prowadzone będą każdego roku,  w sezonie jesiennym (w październiku).  Analizy laboratoryjne prób gleby pobranych z głębokości 0 - 0,25 m p.p.t. wykonane zostaną w zakresie zawartości: sumy węglowodorów C12-C35 (składników frakcji oleju), wielopierścieniowych węglowodorów aromatycznych: chryzen, bezno(a)antracen, dibenzo(a,h)antracen, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, benzo(ghi)perylen, indeno(1,2,3-c,d)piren. Analizy laboratoryjne prób gleby pobranych z głębokości poniżej 0,25 m p.p.t. wykonane zostaną w zakresie zawartości: sumy węglowodorów C6-C12 (składników frakcji benzyn), sumy węglowodorów C12-C35 (składników frakcji oleju), węglowodorów aromatycznych: benzen, etylobenzen, ksylen, wielopierścieniowych węglowodorów aromatycznych: naftalen.  Decyzją z dnia 13 stycznia 2022 r., znak: WSI.515.6.2021.JŁ.6, działając na podstawie art. art. 104 i art. 155 kpa, Regionalny Dyrektor Ochrony Środowiska dokonał zmiany decyzji w następujący sposób: 1) w punkcie 3 „Sposób przeprowadzenia remediacji”, w podpunkcie 3.2 „Remediacja powierzchni ziemi na głębokości przekraczającej 0,25 m p.p.t zostanie prowadzona metodą „in-situ”, polegającą na:”, po podpunkcie: •\t„Wykonaniu w miejscu występowania zanieczyszczenia nie mniej niż 40 technologicznych otworów aplikacyjno – napowietrzających, o głębokości do 3,0 m p.p.t.; w otworach zabudowane zostaną rury PCV o średnicy 50 mm i długości o 3,0 m, owinięte siatką filtracyjną w interwale od 1,0 m do końca długości rury.” dodaniu podpunktu o brzmieniu: •\t„Wspomożeniu procesu remediacji „in-situ” poprzez sczerpywanie wolnej fazy produktu naftowego w przypadku jego pojawienia się na zwierciadle wód podziemnych.” 2) w punkcie 4, zdanie: „Termin zakończenia remediacji: II kwartał 2028  r.” zastępuję  zdaniem: „Termin zakończenia remediacji: 30 czerwca 2032 r.”",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Sprawa znak: WSI.515.2.2.2018.KS i zmiana decyzji sprawa znak: WSI.515.6.2021.JŁ"
+}

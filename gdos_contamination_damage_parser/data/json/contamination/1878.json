@@ -1,0 +1,115 @@
+{
+  "registry_id": 1878,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.002,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Włocławek",
+    "municipality": "Włocławek",
+    "address": null,
+    "precinct": "0008 Azoty we Włocławku",
+    "parcel_numbers": [
+      "71/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((497665.97658751014 537878.3977348916,497686.87871265 537863.3164547319,497674.1001861332 537850.6865157373,497655.6976319022 537867.1331260037,497665.97658751014 537878.3977348916)))",
+    "site_description": "Teren produkcji nawozów azotowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Transport kolejowy towarów",
+    "current": "Produkcja tworzyw sztucznych w formach podstawowych"
+  },
+  "land_holders": [
+    {
+      "name": "ANWIL S.A.",
+      "address": "ul. Toruńska 222  87-805 Włocławek",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "71/2"
+      ],
+      "economic_activity_code": "20.16.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "822 mg/kg s.m.",
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "460 mg/kg s.m.",
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "8150 mg/kg s.m.",
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1460 mg/kg s.m.",
+      "area_ha": 0.002
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-07-31",
+    "legal_basis": "art. 101c ust.3 pkt.3 Prawo ochrony środowiska (t.j. Dz.U. z 2022 r., poz.2556 ze zm.)",
+    "case_reference": "WSS.513.3.2023",
+    "decisions": [
+      {
+        "issue_date": "2023-08-24",
+        "reference": "WSS.513.3.2023.SG.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-02-14",
+        "reference": "WSS.515.5.2023.SG.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ANWIL S.A.",
+        "address": "ul. Toruńska 222  87-805 Włocławek",
+        "economic_activity_code": "20.16.Z"
+      }
+    ],
+    "planned_start": "2024-03-01",
+    "planned_end": "2034-03-01",
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Pozostawienie terenu do samooczyszczania wraz z kontrolą tego procesu w odstępach 10 lat.",
+    "ecological_effect": "Uzyskanie standardów jakości dla gruntów grupy IV.",
+    "effect_assessment": null
+  },
+  "notes": "WSS.513.3.2023.SG"
+}

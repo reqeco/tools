@@ -1,0 +1,75 @@
+{
+  "registry_id": 2047,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "łęczyński",
+    "municipality": "Cyców",
+    "address": null,
+    "precinct": "0015 Nowy Stręczyn, 0019 Stary Stręczyn, 0001 Adamów",
+    "parcel_numbers": [
+      "061001_2.0015.117",
+      "061001_2.0019.11",
+      "061001_2.0001.43",
+      "061001_2.0001.46",
+      "061001_2.0001.47",
+      "061001_2.0001.48"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "teren torfowiska „rozumianego jako spójny, wyraźnie wyróżniający się od otoczenia nieleśny ekosystem mokradłowy wykształcony na podłożu torfowym”, gdzie funkcjonuje kopalnia torfu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "pomiędzy listopadem 2021 r. a marcem 2022 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione",
+  "event_description": "funkcjonowanie kopalni torfu rozumiane jako „usunięcie istotnej części złoża torfu oraz udrożnienie i konserwacja rowów odwadniających”, skutkujące „zniszczeniem siedliska”: limprichtii pośredniej Limprichtia cossonii, skorpionowca brunatnego Scorpidium scorpioides, torfowca skręconego Sphagnum contortum, torfowca ostrolistnego Sphagnum capillifolium, torfowca Warnstorfa Sphagnum warnstorfii, torfowca zanurzonego Sphagnum inundatum, pływacza średniego Utricularia intermedia, modrzewnicy zwyczajnej Andromeda polifolia, rosiczki okrągłolistnej Drosera rotundifolia, turzycy dwupiennej Carex dioica, bagiennika żmijowatego Pseudocalliergon trifarium, drabika drzewkowatego Climacium dendroides, mokradłoszki zaostrzonej Calliergonella cuspidata, turzycy bagiennej Carex limosa na całej powierzchni torfowiska i zagrażającego trwaniu populacji gatunków utrzymujących się w południowej i fragmentarycznie środkowej części torfowiska",
+  "total_area_ha": 13.53,
+  "reporters": [
+    {
+      "name": "Centrum Ochrony Mokradeł",
+      "address": "ul. Żwirki i Wigury 101 lok. 1.135, 02-089 Warszawa",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Usługi Transportowe \"(…)",
+      "address": "(…)",
+      "economic_activity_code": "08.92.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "limprichtia pośrednia Limprichtia cossonii",
+    "skorpionowiec brunatny Scorpidium scorpioides",
+    "torfowiec skręcony Sphagnum contortum",
+    "torfowiec ostrolistny Sphagnum capillifolium",
+    "torfowiec Warnstorfa Sphagnum warnstorfii",
+    "torfowiec zanurzony Sphagnum inundatum",
+    "pływacz średni (pływacz pośredni) Utricularia intermedia",
+    "modrzewnica zwyczajna Andromeda polifolia",
+    "rosiczka okrągłolistna Drosera rotundifolia",
+    "turzyca dwupienna Carex dioica",
+    "bagiennik żmijowaty Pseudocalliergon trifarium",
+    "drabik drzewkowaty Climacium dendroides",
+    "mokradłoszka zaostrzona Calliergonella cuspidata"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-11-26",
+    "detection_date": "2023-05-14",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

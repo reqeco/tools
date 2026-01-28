@@ -1,0 +1,179 @@
+{
+  "registry_id": 353,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1744,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Solidarności",
+    "precinct": "5-02-10",
+    "parcel_numbers": [
+      "16/4",
+      "16/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636833.3942099473 488554.3666911088,636806.4066559378 488594.58343820926,636845.9619434347 488647.8970864983,636893.8516225971 488578.04694679845,636893.8516225971 488578.04694679845,636893.4547468066 488578.1792387273,636833.3942099473 488554.3666911088))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Przy Arsenale Sp. z o.o.",
+      "address": "ul. Bukowińska 24A, 02-703 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "16/4",
+        "16/6"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "27,3 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,244 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,208-0,754 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,192-0,704 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,205-0,588 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,209-0,546 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,203-0,613 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,317 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,402 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "358 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "31,6-147 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "192-475 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "110-507 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "4,74-5,6 [mg/kg]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-01-17",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.63.2019",
+    "decisions": [
+      {
+        "issue_date": "2018-03-16",
+        "reference": "WSI.515.6.2018.SSz.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Przy Arsenale Sp. z o.o.",
+        "address": "ul. Bukowińska 24A, 02-703 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-03-30",
+    "planned_end": "2018-12-30",
+    "actual_end": "2019-06-05",
+    "method": null,
+    "description": "remediacja ex situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

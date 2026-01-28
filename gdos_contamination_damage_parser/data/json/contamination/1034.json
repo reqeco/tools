@@ -1,0 +1,60 @@
+{
+  "registry_id": 1034,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "Kraków, ul. Sikorki 2",
+    "precinct": "NH-54",
+    "parcel_numbers": [
+      "126103_9.0054.306"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Teren wyłożony płytami betonowymi częściowo porośnięty roślinnością"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miejska Kraków",
+      "address": "31-004 Kraków,  Plac Wszystkich Świętych 3-4",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "126103_9.0054.306"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-04",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.60.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2020-03-24",
+        "reference": "ZS.513.60.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

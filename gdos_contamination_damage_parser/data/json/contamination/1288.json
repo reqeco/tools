@@ -1,0 +1,136 @@
+{
+  "registry_id": 1288,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.278,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "przemyski",
+    "municipality": "Żurawica",
+    "address": null,
+    "precinct": "nr 0002 Bolestraszyce",
+    "parcel_numbers": [
+      "181310_2.0002.1316/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((775962.31408534059301019 225039.13350808806717396, 775960.2262774205300957 225029.87165219895541668, 775963.79263311403337866 225029.00723348837345839, 775935.34083491784986109 224950.71902759931981564, 775923.85604667291045189 224957.57035695668309927, 775923.47221931768581271 224988.82136310078203678, 775896.73845420009456575 224991.34573364444077015, 775917.82744596805423498 225052.30070763826370239, 775962.31408534059301019 225039.13350808806717396)))",
+    "site_description": "Tk - tereny kolejowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2006-04-26",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa, podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Transport kolejowy towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKP CARGO S.A.",
+      "address": "ul. Grójecka 17, 02-021 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "181310_2.0002.1316/1"
+      ],
+      "economic_activity_code": "49.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "12400 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "do 42,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "do 324 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "do 537 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "do 2710 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "do 11300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "do 50,4 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-04-19",
+    "legal_basis": "art. 20 ust. 1 pkt 1 ustawy z dnia 11 lipca 2014 r. o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw",
+    "case_reference": "WSI.515.3.2.2018.KT.20",
+    "decisions": [
+      {
+        "issue_date": "2021-03-16",
+        "reference": "WSI.515.3.2.2018.KT.20",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-02-10",
+        "reference": "WSI.515.11.2022.KT.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKP CARGO S.A.",
+        "address": "ul. Grójecka 17, 02-021 Warszawa",
+        "economic_activity_code": "49.20.Z"
+      }
+    ],
+    "planned_start": "2022-03-01",
+    "planned_end": "2030-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja zanieczyszczenia węglowodorami ropopochodnymi będzie prowadzona metodą „in-situ”, poprzez sczerpywanie wolnego produktu naftowego oraz poprzez prace bioremediacyjne. Remediacja zanieczyszczenia powierzchni ziemi metalami zostanie przeprowadzona metodą „ex-situ”. Remediacja metodą „ex-situ” będzie polegała na kontrolowanym wydobyciu zanieczyszczonej gleby z terenu o powierzchni 133 m2, do głębokości 2,0 m p.p.t., o masie ok. 450 Mg, w miejscu wykonania odwiertu S-2. Z dna i ścian wykopu pobrane zostaną próbki gleby do badań celem potwierdzenia osiągnięcia zakładanego efektu ekologicznego. Badania pobranych prób zostaną wykonane przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy Poś. Ze względu na położenie zwierciadła wód podziemnych na głębokości ok. 10 m p.p.t. nie przewiduje się napływu wody do powstałego w trakcie remediacji metodą „ex-situ” wykopu. Prace będą wykonywane w okresie suchym, bezopadowym, w celu uniknięcia gromadzenia się wód opadowych lub roztopowych w dnie wykopu. Remediacja metodą „ex-situ” zostanie przeprowadzona w pierwszej kolejności, przed remediacją metodą „in-situ”, tj. w okresie marzec 2022 r. - marzec 2023 r. Remediacja metodą „in-situ” będzie polegała na sczerpywaniu wolnego produktu naftowego oraz przeprowadzeniu prac bioremediacyjnych. Zgodnie z harmonogramem, prace remediacyjne polegające na odpompowywaniu wody, sczerpywaniu wolnego produktu naftowego oraz produkcji i aplikacji biopreparatu będą prowadzone w okresie od marca do listopada, w dwóch cyklach: marzec – czerwiec i lipiec - listopad. Eksploatacja systemów remediacyjnych prowadzona będzie nieprzerwanie w ww. miesiącach każdego roku kalendarzowego. Do procesu bioremediacji zostanie wykorzystany biopreparat, powstały z namnażania bakterii w biocentrum, do którego wytworzenia będzie wykorzystywany preparat bakteryjny oraz woda gruntowa odpompowana z terenu, na którym będzie prowadzona remediacja. Preparat bakteryjny będzie posiadał atest PZH, oraz będzie zawierał w swoim składzie szczepy bakteryjne i składniki odżywcze (sole mineralne, witaminy). Bakterie będą wnosić do zanieczyszczonej gleby enzymy umożliwiające rozkład węglowodorów na ostateczne produkty oksydacyjne tj. dwutlenek węgla i wodę, jednocześnie zwiększając biomasę. Pobór wody gruntowej będzie opomiarowany wodomierzem. Ze względu na wykorzystanie biopreparatu do aplikacji wgłębnej przy obecności utworów spoistych w glebie zaleca się stosować preparat przeznaczony do usuwania zanieczyszczeń w warunkach tlenowych i beztlenowych w niskich temperaturach oraz na dużych głębokościach. Biopreparat nie będzie aplikowany na wolny produkt naftowy. Zakłada się, iż biopreparat będzie aplikowany do otworów na początku każdego cyklu remediacji. Ze względu na występowanie utworów nieprzepuszczalnych w glebie, położenie zwierciadła wód oraz średnice otworów, przyjęto aplikację nie większej ilości biopreparatu niż: 75 l dla otworów technologicznych; 30 l dla otworów aplikacyjno - wentingowych i 10 l dla otworów wentingowych. W przypadku zraszania wykorzystane zostanie do ok. 500 l biopreparatu. Prace remediacyjne metodą „in-situ” rozpoczną się od wykonania instalacji biocentrum, przewodów rozprowadzających biopreparat oraz otworów obserwacyjnych następujących rodzajów: - otwory technologiczne – 17 sztuk, do gł. 12,0 m p.p.t. (najgłębsze) o średnicy ok. 110 mm służące do sczerpywania wolnego produktu naftowego ze zwierciadła wód oraz aplikacji biopreparatu z biocentrum, - otwory wentingowe – 51 sztuk, do gł. 6,0 m p.p.t. o średnicy ok. 50 mm, służące głównie do grawitacyjnego odprowadzania lotnych węglowodorów oraz dodatkowo do aplikacji biopreparatu. - otwory aplikacyjno - wentingowe – 12 sztuk, do gł. 4 m p.p.t. o średnicy ok. 110 mm, służących do grawitacyjnego odprowadzania lotnych węglowodorów oraz aplikacji biopreparatu. Do sczerpywania wolnego produktu naftowego zastosowane zostaną czerpaki ręczne lub selektywne skimery bierne, w zależności od stwierdzonej miąższości warstwy wolnego produktu oraz jego postaci fizycznej. Będzie on magazynowany w zbiornikach magazynowych i przekazywany będzie firmie posiadającej stosowne zezwolenia na prowadzenie działalności w zakresie gospodarki odpadami. W ramach monitoringu przebiegu prac remediacyjnych metodą „in-situ” zakłada się prowadzenie pomiarów miąższości warstwy wolnego produktu naftowego (we wszystkich otworach obserwacyjnych z częstotliwością raz na miesiąc), ilości sczerpanego produktu (z częstotliwością raz na miesiąc) oraz pobór i analizę prób gleby na zawartość sumy węglowodorów C6-C12, składników frakcji benzyn i sumy węglowodorów C12-C35, składników frakcji oleju (z częstotliwością raz na pół roku). Badania gleby na koniec każdego cyklu będą wykonywane w przedziale głębokości 0 - 0,25 m p.p.t. w obszarze sekcji P-3. W przypadku głębokości poniżej 0,25 m p.p.t. planuje się pobór co najmniej dwóch próbek, w pierwszym cyklu z przedziału głębokości 3,0 - 5,0 m p.p.t. w okolicy otworów nr S-2 i S-9 oraz 5,0 - 7,0 m p.p.t. w pobliżu otworu S-4. Po każdym cyklu będzie wykonywane sprawozdanie, które będzie relacjonować postęp prac, przedstawiać wyniki monitoringu i nakreślać plan działań w kolejnym cyklu, w tym wybór lokalizacji i głębokości poboru próbek gleby z głębokości przekraczającej 0,25 m p.p.t. Po zakończeniu prac remediacyjnych wykonane zostaną badania gleby potwierdzające uzyskanie zakładanego efektu ekologicznego tj. osiągnięcie dopuszczalnych wartości substancji powodujących ryzyko na omawianym terenie określonych dla IV grupy gruntów dla głębokości do 0,25 m p.p.t. dla sekcji P-3 oraz poniżej głębokości 0,25 m p.p.t. dla całego obszaru, badanego celem opracowania Projektu Planu, będącego podstawą wydania niniejszej decyzji, zgodnie z obowiązującym rozporządzeniem w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi. Po przeprowadzeniu remediacji historycznego zanieczyszczenia powierzchni ziemi (do 31 grudnia 2030 r.) zobowiązano Wnioskodawcę do przedłożenia do tut. Organu sprawozdania, w terminie nie później niż do 28 lutego 2031 r. Jednocześnie wskazano, iż potwierdzeniem wykonania prac remediacyjnych metodą „ex-situ” będzie sprawozdanie z przeprowadzonej remediacji historycznego zanieczyszczenia powierzchni ziemi, które należy przedstawić Regionalnemu Dyrektorowi w terminie do dwóch miesięcy od zakończenia remediacji, nie później niż do 30 czerwca 2023 r. Do sprawozdań zostaną załączone karty przekazania odpadu.",
+    "ecological_effect": "Usunięcia zanieczyszczenia do co najmniej dopuszczalnej zawartości",
+    "effect_assessment": null
+  },
+  "notes": "Sprawa znak: WSI.515.3.2.2018.KT; postępowanie w sprawie zmiany decyzji znak: WSI.515.11.2022.KT"
+}

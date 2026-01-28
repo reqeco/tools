@@ -1,0 +1,160 @@
+{
+  "registry_id": 2133,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.68,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Rędzińska",
+    "precinct": "Maślice",
+    "parcel_numbers": [
+      "obręb Maślice",
+      "21/1",
+      "25/1",
+      "AR-22"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((356396.7300562693 367158.34319675714,356392.5122802279 367150.3133333707,356381.84401124064 367155.3167284429,356371.71043780947 367131.27284622565,356357.8186035573 367136.69101618696,356340.88153667154 367097.0696472889,356336.77034201357 367096.8589637717,356368.994037863 367169.6965741338,356396.7300562693 367158.34319675714)),((356482.22465661424 367123.3522885861,356485.4812204243 367115.8305806387,356474.18262951646 367090.6529395934,356455.1955120594 367049.2154786363,356444.8789097207 367052.144801761,356429.60293199786 367058.6703470228,356428.3794553684 367064.2650635652,356447.0134575794 367056.94411440194,356464.34242056776 367087.447895132,356441.7042611324 367097.30243973155,356420.62658768176 367095.4697812516,356441.1787284554 367110.11517764535,356462.70010236424 367131.345121976,356482.22465661424 367123.3522885861)),((356411.2655905475 367117.94937765505,356415.8315904413 367129.5332809603,356407.6261088988 367133.3335891152,356399.72116636223 367116.59687749017,356389.31363759725 367122.39645112585,356401.5118258324 367156.3888245011,356437.25050240883 367141.7577192616,356424.16781858384 367125.7911743829,356411.2655905475 367117.94937765505)),((356405.3758181005 367032.5388905648,356414.1938392011 367054.6713258391,356451.47251851857 367040.07926586736,356441.0730711591 367016.9196967734,356405.3758181005 367032.5388905648)),((356410.4808616759 367087.44055282604,356412.9093825462 367077.10107749794,356403.15502354305 367058.8900294062,356394.60741074465 367062.52504738234,356378.23806391936 367033.4877044549,356362.79010083294 367026.6301946053,356352.57220946177 367030.93770086765,356382.61037497176 367096.2566288598,356410.4808616759 367087.44055282604)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PD PROJEKT 16 S.A.",
+      "address": "ul. Szczęśliwa 33 53-445",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "21/1",
+        "25/1"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,26 - 0,37 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,33 - 1,06 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,22 - 0,88 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,14 - 0,36 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,34 - 83 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,26 - 0,93mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,21 - 0,48 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,42 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "38 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,58 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,13 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-04-16",
+    "legal_basis": null,
+    "case_reference": "WSI.515.3.2024.ŁJ",
+    "decisions": [
+      {
+        "issue_date": "2024-10-21",
+        "reference": "WSI.515.3.2024.ŁJ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PD PROJEKT 16 S.A.",
+        "address": "ul. Szczęśliwa 33 53-445",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2025-05-30",
+    "actual_end": "2025-06-01",
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "WSI.515.3.2024.ŁJ"
+}

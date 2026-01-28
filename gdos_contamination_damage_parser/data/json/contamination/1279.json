@@ -1,0 +1,70 @@
+{
+  "registry_id": 1279,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Mazurska",
+    "precinct": "0001 miasta Elbląga",
+    "parcel_numbers": [
+      "61",
+      "62/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((525023.6234442403 702706.0278552109,525213.5946575103 702711.8487001816,525212.5363220603 702808.1572261313,525194.0154516902 702808.6863938617,525200.8946321103 702903.4074166408,525150.6236982404 702906.5824229913,525145.3320209901 702977.4908981416,525149.5653627901 702978.0200658618,525149.0361950602 703033.5826769909,525032.6192955602 703031.4660060899,525031.5609601103 703035.6993478909,525022.0359410603 703035.1701801633,525023.0942765102 703031.4660060909,524979.7025230604 703029.3493351918,525017.8025992601 702913.4616034115,525028.9151214903 702837.2614510125,525031.0317923903 702761.5904663326,525023.6234442403 702706.0278552109))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Zidentyfikowane przez Prezydenta Elbląga potencjalne historyczne zanieczyszczenie powierzchni ziemi związane jest z prowadzeniem na tym terenie w przeszłości (tj. przed 30 kwietnia 2007 r.) działalności w zakresie produkcji wyrobów tartacznych (PKD 16.10). Od co najmniej 1991 r. do około 1998 r. (lecz nie później niż do 2005 r.) na tym terenie funkcjonował zakład przemysłu drzewnego."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja wyrobów tartacznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "61",
+        "62/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "42-140 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-12",
+    "legal_basis": "art. 101d ust. 6,8,9 POŚ",
+    "case_reference": "WSI.513.29.2020.KPi",
+    "decisions": [
+      {
+        "issue_date": "2021-05-05",
+        "reference": "WSI.513.29.2020.KPi.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

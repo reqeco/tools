@@ -1,0 +1,152 @@
+{
+  "registry_id": 1404,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": null,
+    "precinct": "0136",
+    "parcel_numbers": [
+      "1/40"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((439560.9799999148 580169.2999997763,439636.8099999157 580154.6899997769,439633.31999991555 580137.3199997758,439624.9999999155 580095.9299997771,439613.5299999154 580038.7999997782,439641.9799999157 580028.7799997777,439634.2099999156 580012.1599997785,439567.8499999149 580036.809999777,439555.62999991485 580040.1199997794,439544.5499999147 580042.1499997787,439519.2299999144 580045.9299997771,439499.22999991424 580050.599999777,439500.0699999144 580054.099999778,439507.0799999144 580081.5499997763,439516.39999991446 580118.2899997775,439522.23999991454 580140.4999997756,439504.5599999143 580144.019999777,439505.7099999143 580149.7199997772,439511.53999991436 580178.6499997778,439560.9799999148 580169.2999997763)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2012-12-30",
+    "description": "po 30 kwietnia 2007 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "organ ochrony środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Rozbiórka instalacji do produkcji DNT użytkowanej przez Zachem bez wymaganych zezwoleń. Zanieczyszczenie  w glebie na głębokości 0-0,25 m ppt 2,4-Dinitrotoluen 840 mg/kg s.m., 2,6-dinitrotoluenem - 2,4 mg/kg s.m. Dla głębokości powyżej 0,25 m ppt 2-Nitrotoluen od 8,4 do 11 000 mg/kg s.m., 3-Nitrotoluen od 24 do 670 mg/kg s.m., 2,3-Dinitrotoluen od 6 do <500 mg/kg s.m., 2,4-Dinitrotoluen od 11 do 10 000 mg/kg s.m., 2,6-Dinitrotoluen od 1,9 do 4200 mg/kg s.m., 3,4-Dinitrotoluen od od 3,4 do <500 mg/kg s.m., 2,4,6-Trinitrotoluen <500 mg/kg s.m. W wodach podziemnych Odczyn pH, 5,3, Ogólny węgiel organiczny 34,4 mg C/l, Przewodność elektrolityczna 2787 μS/cm, Amonowe jony 67,2 mg NH₄/l, Azotany 430 mg NO₃/l, Azotyny mg NO₂/l, Glin 12.2 mg Al/l, Mangan 9 mg Mn/l, Nikiel 0,233 mg Ni/l, Potas 37,2 mg K/l, Siarczany 1820 mg SO₄/l, Wapń 648 mg Ca/l, Wodorowęglany 617 mg HCO₃/l, Żelazo 74,1 mg Fe/l. Ponadto wykonano badania w kierunku: Lit 0,131 mg/l, Fenole 5,9 μg/l, Nitrobenzen 8,8 μg/l, 2-Nitrotoluen 6,6 μg/l, 3-Nitrotoluen 0,029 μg/l, 4-Nitrotoluen 4,2 μg/l, 2,3-Dinitrotoluen 1,2 μg/l, 2,4-Dinitotoluen 12 μg/l, 2,6-Dinitrotoluen 9,4 μg/l, 3,4-Dinitrotoluen 2,1 μg/l, 2,4,6-Trinitotoluen 0,028 μg/l",
+  "total_area_ha": 1.5642,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Infrastruktura Kapuściska w upadłości likwidacyjnej",
+      "address": "ul. Wojska Polskiego 65 85-825 Bydgoszcz",
+      "economic_activity_code": "20.14.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "pH"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "OWO - Ogólny węgiel organiczny"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Przewodność elektrolityczna"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Amonowy jon"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Azotany"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Azotyny"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Glin"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Mangan"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Nikiel"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Potas"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Siarczany"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Wapń"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Wodorowęglany"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Żelazo"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Benzo(a)piren"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Fenole"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2020-03-11",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-01-18",
+        "reference": "WSS.512.13.2020.BW.20",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2023-01-31",
+        "reason": "Wniosek o uchylenie decyzji i przywrócenie postępowania; ustalenie następcy prawnego majątku pochodzącego z likwidacji spółki Infrastruktura Kapuściska S.A.; zobowiązanie następcy prawnego do naprawienia szkód wyrządzonych środowisku.",
+        "appealed_decision_reference": "WSS.512.13.2020.BW.20",
+        "resolution_reference": "DOA-WSzOP.512.5.2023.MBA",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2023-08-04",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "utrzymanie w mocy zaskarżonej decyzji"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Postępowanie znak: WSS.512.13.2020; podmiot odpowiedzialny nie istnieje - został wykreślony z KRS w dniu 07.09.2021 r.  Zobowiązany do remediacji RDOŚ w Bydgoszczy opracowuje projekt planu remediacji"
+}

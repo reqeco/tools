@@ -1,0 +1,155 @@
+{
+  "registry_id": 1937,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.469,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "ul. Policka  71-800 Szczecin",
+    "precinct": "Nad Odrą 203",
+    "parcel_numbers": [
+      "39/12",
+      "39/11",
+      "39/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((207500.790697310003452 634758.7062984659569338, 207492.44388619498931803 634758.90899675094988197, 207420.94033869000850245 634760.67441424401476979, 207389.73087490501347929 634761.43702508904971182, 207351.87818590900860727 634762.02201727603096515, 207334.37911873799748719 634762.30441199196502566, 207321.14680971900816076 634782.5171741460217163, 207275.51263122601085342 634884.17044978798367083, 207280.54124638301436789 634897.39491771394386888, 207270.30519811899284832 634920.21067063801456243, 207292.12340740498621017 634930.00526503403671086, 207320.26917570701334625 634868.40707316598854959, 207348.40547648898791522 634881.25614712899550796, 207367.80954259200370871 634877.3068100200034678, 207396.8141086749965325 634890.5948014670284465, 207407.87626073500723578 634895.53781652904581279, 207409.55594605501391925 634891.6582073230529204, 207431.33601769100641832 634901.56213874800596386, 207427.58675916300853714 634909.72879314504098147, 207477.98934783900040202 634932.75669582700356841, 207496.32702720101224259 634892.49750943400431424, 207509.34796780999749899 634858.18851084297057241, 207511.50609544001054019 634851.48405328404624015, 207512.93723221498657949 634845.57196606800425798, 207513.72197785301250406 634838.14312243997119367, 207513.99410116299986839 634831.75511659099720418, 207513.87017717800335959 634825.62985614803619683, 207511.24125845899106935 634768.35315134702250361, 207500.790697310003452 634758.7062984659569338))",
+    "site_description": "na terenie funkcjonował w przeszłości Kombinat Budownictwa nr 1"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "od ok. 1975 do ok. 2004 roku"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "działalność nieznana",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "JWG INVEST Sp. z o.o.,",
+      "address": "ul. 1 Maja 39 71-627 Szczecin,",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "39/12",
+        "39/11",
+        "39/10"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "35,6 - 354 mg/kg s.m.",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,107 - 0,207 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,132 - 0,159 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,112 - 0,198 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,127 - 0,151 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,228 mg/kg s.m.",
+      "area_ha": 0.343
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "374 - 1090 mg/kg s.m.",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "65,4mg/kg s.m.",
+      "area_ha": 0.056
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-12-05",
+    "legal_basis": "art. 101 c ust. 3 pkt 3",
+    "case_reference": "WONS.513.14.2023.MR",
+    "decisions": [
+      {
+        "issue_date": "2023-12-21",
+        "reference": "WONS.513.14.2023.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3 pkt. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-02-09",
+        "reference": "WONS.515.9.2023.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-05-02",
+        "reference": "WONS.515.9.2023.MR.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "JWG INVEST Sp. z o.o.,",
+        "address": "ul. 1 Maja 39 71-627 Szczecin,",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2024-03-01",
+    "planned_end": "2024-06-01",
+    "actual_end": "2024-10-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia będzie odbywało się przy zastosowaniu metody ex situ (kontrolowane wydobycie zanieczyszczonej gleby i ziemi oraz jej przekazanie do unieszkodliwienia uprawnionym odbiorcom) w obszarze wyznaczonym w projekcie planu remediacji (sekcje 7 i 11 na głębokości 0,0 - 0,25 m p.p.t i w rejonie wokół otworów OB12, OB.12.1 na głębokości 0,25-1,0 m p.p.t.) oraz bioremediacji in-situ, która wykonana zostanie w sekcjach 4, 10 i podsekcjach 6.3, 8.1.",
+    "ecological_effect": "Potwierdzeniem osiągnięcia efektu ekologicznego będą wyniki badań próbek gleby, co najmniej 10 próbek łącznie z ww. sekcji, potwierdzające osiągnięcie dopuszczalnych zawartości dla stwierdzonych w badanych obszarach substancji powodujących ryzyko.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

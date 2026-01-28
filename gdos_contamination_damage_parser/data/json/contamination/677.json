@@ -1,0 +1,60 @@
+{
+  "registry_id": 677,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Pruszcz Gdański (gmina miejska)",
+    "address": "ul. Obrońców Westerpatte\tPruszcz Gd.\t83-000",
+    "precinct": "0009 Pruszcz Gdański",
+    "parcel_numbers": [
+      "1/37 obr.9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((477531.34 711390.97,477540.41 711388.83,477538.46 711419.16,477520.91 711401.82,477539.40 711396.85,477532.39 711392.01,477531.34 711390.97))",
+    "site_description": "zlikwidowana stacja paliw byłego PGR Pruszcz Pole"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miejska Pruszcz Gdański ul. Grunwaldzka 20, 83-000 Pruszcz Gdański",
+      "address": "Gmina Miejska Pruszcz Gdański ul. Grunwaldzka 20, 83-000 Pruszcz Gdański",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "1/37 obr.9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.104.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-08",
+        "reference": "RDOŚ-Gd-WZS.513.104.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

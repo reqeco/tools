@@ -1,0 +1,121 @@
+{
+  "registry_id": 463,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.55,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "lubliniecki",
+    "municipality": "Boronów",
+    "address": "ul. Sienkiewicza 12, Boronów",
+    "precinct": "0001 Boronów a. m. 1",
+    "parcel_numbers": [
+      "240702_2.0001.AR_1.1341/137"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((491942.797100 310629.217200,491996.737600 310633.022900,492042.629500 310636.249000,492089.340000 310638.885000,492136.651500 310641.855200,492179.894200 310645.033100,492223.350000 310647.586200,492417.189600 310659.338700,492472.219800 310662.785400,492531.317700 310666.788200,492637.029200 310674.301000,492643.601500 310613.964100,492573.104100 310544.245900,492548.073400 310509.193600,492525.782300 310479.075500,492528.495300 310445.166600,492496.180400 310433.953000,492443.383500 310413.931600,492368.715400 310383.495300,492283.597600 310328.384900,492262.957700 310324.984900,492261.931700 310330.750200,492214.442700 310322.421100,492171.752500 310315.752700,492124.541600 310307.876300,492079.678500 310300.394900,492031.653200 310292.422800,491980.584300 310284.370300,491942.797100 310629.217200))",
+    "site_description": "Teren Bazy Paliw nr 3 (obecnie PERN S.A.; dawniej Operator Logistyczny Paliw Płynnych Sp. z o.o.) przy ul. Sienkiewicza 12  w Boronowie, gm. Boronów, powiat lubliniecki"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż hurtowa paliw i produktów pochodnych",
+    "current": "Sprzedaż hurtowa paliw i produktów pochodnych"
+  },
+  "land_holders": [
+    {
+      "name": "PERN",
+      "address": "ul. Wyszogrodzka 133; 09-410 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "49.50.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "7803",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "10073",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "428",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "886",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-03-24",
+    "legal_basis": "art. 101l ust. 2 POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-08-25",
+        "reference": "WSI.515.2.2017.SA.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": null,
+        "reference": "WSI.515.2.2017.SA.2 (zmiana po uwzględnieniu odwołania)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-08-14",
+        "reference": "WSI.515.2.2018.SA (decyzja zmieniająca)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PERN",
+        "address": "ul. Wyszogrodzka 133; 09-410 Płock",
+        "economic_activity_code": "49.50.B"
+      }
+    ],
+    "planned_start": "2017-10-31",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi polegać będzie na usunięciu zanieczyszczenia poprzez napowietrzanie gruntu z wykorzystaniem systemu 12 istniejących oraz 57 projektowanych otworów napowietrzająco – odpowietrzających  z dyfuzorem zlokalizowanym ponad gruntami słaboprzepuszczalnymi.  Ponadto, zastosowane będą biopreparaty z wyselekcjonowanych, autochtonicznych szczepów bakterii naturalnie bytujących w ziemi, odpowiednio namnożonych  i odżywionych. Biopreparaty aplikowane będą 2 razy w roku w ilościach ok. 40 - 50 l na każdy otwór technologiczny, jeśli nie będzie w nim wolnego produktu ropopochodnego. Dodatkowo, w rejonie sondy S10bis preparaty będą dwa razy  w roku stosowane powierzchniowo w płytkich wykopach o głębokości do 0,5 m  w ilości 500 l jednorazowo.  Postęp remediacji będzie monitorowany poprzez badania jakości wód gruntowych  w minimum 10 punktach 1 raz w roku w zakresie substancji ropopochodnych oraz BTEX, oraz 2 sesje badań próbek ziemi w zakresie wskaźników wymienionych  w punkcie I.2. niniejszej decyzji po 3 i po 6 latach prowadzenia remediacji  z wytypowanych 6 lokalizacji z poziomu występowania wód podziemnych.",
+    "ecological_effect": "Zgodnie z decyzją Regionalnego Dyrektora Ochrony Środowiska w Katowicach (RDOŚ) z 25 sierpnia 2017 r. znak WSI.515.2.2017.SA.1, zmienioną decyzją z 9 marca 2022 r. znak WSI.515.2.2017.SA.MB.3,  w latach 2019-2025 na terenie Bazy Paliw nr 3 w Boronowie zrealizowano szereg działań remediacyjnych ukierunkowanych na usunięcie historycznego zanieczyszczenia powierzchni ziemi substancjami ropopochodnymi. Proces ten został wdrożony zgodnie z decyzją administracyjną i w oparciu o nowoczesne technologie in-situ, takie jak system automatycznego wentingu oraz wspomaganie biopreparatem bakteryjnym. Na podstawie wyników badań próbek gruntów pobranych w kwietniu 2024 r. oraz kwietniu 2025 r. nie stwierdzono przekroczeń dopuszczalnych stężeń substancji powodujących ryzyko w zakresie BTEX, węglowodorów C6-C12 oraz węglowodorów C12-C35.  Ww. wyniki badań zostały porównane z dopuszczalnymi wartościami stężeń substancji powodujących ryzyko zgodnie z Rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz.U. z 2016 r., poz. 1395) [dalej Rozporządzenie] dla gruntów gr. IV.  Wyniki badań wykonanych w kwietniu 2025 r. w wyznaczonych punktach poboru wynoszą odpowiednio: - suma węglowodorów C6-C12 - <5,0 mg/kg s.m. - suma węglowodorów C12-C35 - <50 mg/kg s.m. - benzen <2 mg/kg s.m. - toluen <2 mg/kg s.m. - etylobenzen - <2 mg/kg s.m. - ksylen - <2 mg/kg s.m. - styren - <2 mg/kg s.m.   Na podstawie ww. wyników badań próbek gruntów nie stwierdzono ponadnormatywnych stężeń substancji powodujących ryzyko zgodnie z Rozporządzeniem. Efekt ekologiczny został osiągnięty zgodnie z warunkami decyzji RDOŚ.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

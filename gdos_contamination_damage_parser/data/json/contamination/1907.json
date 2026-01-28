@@ -1,0 +1,80 @@
+{
+  "registry_id": 1907,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.65,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Lębork",
+    "address": "ul. Warszawska 15, Lębork",
+    "precinct": "7",
+    "parcel_numbers": [
+      "409/41",
+      "409/42"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((418957.7247896411 741827.7982384814,418936.2934967697 741852.9337054221,418941.0560062999 741856.1087117698,418929.6789002092 741868.2795694424,418930.47265179915 741878.3337562224,418982.3310888527 741925.1650998816,419006.9373880646 741899.2358813537,418999.5290399141 741893.6796202417,419011.699897595 741879.3920916729,419010.9061460049 741874.1004144214,418957.7247896411 741827.7982384814))POLYGON((418957.67187121115 741827.1367779216,418982.5427542829 741798.0325530516,419025.14075614605 741821.5805168133,418998.417786034 741863.6493509514,418998.41778603406 741862.8555993624,418957.67187121115 741827.1367779216))",
+    "site_description": "Teren dawnej gazowni."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "address": "ul. W. Bandowskiego 16, 33-100 Tarnów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "409/41",
+        "409/42"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2020-09-17",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia  14 czerwca 1960 r. Kodeks postępowania administracyjnego",
+    "case_reference": "RDOŚ-Gd-WZS.515.3.2020.LK/MK",
+    "decisions": [
+      {
+        "issue_date": "2020-11-02",
+        "reference": "RDOŚ-Gd-WZS.515.3.2020.LK/MK.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+        "address": "ul. W. Bandowskiego 16, 33-100 Tarnów",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-03-01",
+    "planned_end": "2025-12-01",
+    "actual_end": "2023-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "1. Remediacja metodą in-situ: a)\tz wykorzystaniem biopreparatów, z wyselekcjonowanych szczepów bakterii aerobowych, na terenie sekcji I-V, w zakresie głębokości 0,0 – 0,25 m p.p.t., na powierzchniach biologicznie czynnych (ok. 1 050 m2). Gotowe biopreparaty należy aplikować 2 razy. Drugą aplikację należy wykonać po okresie 1 miesiąca od pierwszego dawkowania. Proces bioremediacji należy przeprowadzić w okresie wiosenno – letnim. b)\tpoprzez samooczyszczenie w rejonie otworów O-1, O-2, O-7, O-9, O-10; c)\tz wykorzystaniem solidyfikacji, polegającej na wtłoczeniu suspensji cementowej  w poszczególne warstwy gruntu za pomocą otworów iniekcyjnych, w rejonie otworów O-6, O-8, gdzie zanieczyszczenie występuje na głębokości 0,00 – 3,00 m p.p.t.  2. Remediacja metodą ex-situ: a)\twydobycie zanieczyszczonych gruntów w rejonie otworów O-3 i O-4, do głębokości 2,5 m p.p.t., z powierzchni ok. 225 m2. Część obszaru „A” (w rejonie istniejącego budynku) pozostawić do samooczyszczenia. b)\twydobycie zanieczyszczonych gruntów w promieniu ok. 3 m od otworu O-5, do głębokości ok. 2,0 m p.p.t.",
+    "ecological_effect": "Przeprowadzone działania remediacyjne doprowadzą do osiągnięcia na przedmiotowym terenie, wartości dopuszczalnych stężeń substancji powodujących ryzyko szczególnie istotne dla ochrony powierzchni ziemi określonych dla gruntów grupy I,  zgodnie z Rozporządzeniem Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

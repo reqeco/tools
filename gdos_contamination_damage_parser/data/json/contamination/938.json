@@ -1,0 +1,200 @@
+{
+  "registry_id": 938,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.58,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "tarnogórski, będziński",
+    "municipality": "Ożarowice, Mierzęcice",
+    "address": null,
+    "precinct": "0005 Pyrzowice, 0004 Nowa Wieś",
+    "parcel_numbers": [
+      "497/66",
+      "497/67",
+      "579/7",
+      "579/8",
+      "579/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((507253.210000 289286.860000,507267.330000 289285.300100,507282.340000 289282.810000,507304.240000 289311.930000,507311.030000 289307.800000,507362.510000 289271.950000,507401.060000 289242.710000,507476.500000 289185.850000,507589.580000 289099.060000,507581.920000 289084.140000,507567.260000 289069.950000,507540.490000 289034.760000,507523.110000 289011.850000,507483.750000 288959.960000,507406.970000 289017.570000,507317.770000 289084.820000,507309.720000 289090.870000,507310.790000 289094.020000,507311.510000 289096.170000,507312.410000 289098.790000,507314.030000 289103.600000,507315.480000 289107.869900,507316.910000 289112.130000,507306.910000 289119.600000,507303.060000 289122.470000,507298.910000 289125.570100,507294.260000 289129.040000,507281.520000 289138.560000,507275.510000 289143.040000,507265.030000 289150.860000,507260.070000 289154.580000,507253.180000 289159.720000,507244.690000 289166.060000,507238.200000 289170.890000,507229.950000 289177.050000,507214.820000 289188.359900,507251.320000 289237.890000,507260.460000 289250.270100,507239.890000 289281.640000,507253.210000 289286.860000))",
+    "site_description": "Teren byłej powojskowej bazy paliw - działki o numerach ewidencyjnych 497/66, 497/67, obręb ewidencyjny Pyrzowice, gmina Ożarowice, powiat tarnogórski oraz 579/7, 579/8, 579/9 obręb ewidencyjny Nowa Wieś, gmina Mierzęcice, powiat będziński"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Górnośląskie Towarzystwo Lotnicze S.A.",
+      "address": "al. Korfantego 38 40-161 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "52.23.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-04-11",
+    "legal_basis": "art. 101h  ust. 1, art. 101l ust. 2 i 4",
+    "case_reference": "WSI.515.8.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-08-07",
+        "reference": "WSI.515.8.2019.SA.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Górnośląskie Towarzystwo Lotnicze S.A.",
+        "address": "al. Korfantego 38 40-161 Katowice",
+        "economic_activity_code": "52.23.Z"
+      }
+    ],
+    "planned_start": "2019-08-01",
+    "planned_end": "2022-06-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi zostanie przeprowadzona w dwóch etapach, tj. Etap I na obszarze o powierzchni 1,35 ha w zachodniej części terenu byłej bazy paliw (w tym 0,93 ha grunty grupy I oraz 0,42 ha grunty grupy IV) oraz Etap II na obszarze o powierzchni 1,23 ha we wschodniej części terenu (całość grunty grupy I) i polegać będzie na usunięciu zanieczyszczenia poprzez wydobycie zanieczyszczonej gleby i ziemi do głębokości stwierdzonego zanieczyszczenia, tj. ok. 4,5 m ppt.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

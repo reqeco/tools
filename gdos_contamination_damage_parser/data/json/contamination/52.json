@@ -1,0 +1,174 @@
+{
+  "registry_id": 52,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.41,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Warszawa, ul. Ostrobramska 71",
+    "precinct": "3-06-08",
+    "parcel_numbers": [
+      "51/2",
+      "52/2",
+      "53/2",
+      "13/4 obręb 3-05-24",
+      "6/6",
+      "6/7",
+      "15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((644421.8049177909 487201.8139858814,644426.3028434578 487194.1410538703,644444.8237138551 487157.8930647103,644419.1590791534 487128.5242559705,644279.4587995313 487055.23452605493,644281.0463027074 487132.4930139147,644287.131731557 487133.5513493633,644300.0963408374 487139.37219433486,644308.8276083214 487145.98679089267,644421.8049177912 487202.3431536099,644421.8049177909 487201.8139858814))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "LC Corp Invest XV Sp.z  o.o. Projekt 9 sp. K.",
+      "address": "ul. Powstańców Śląskich, Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "5,1-350 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "280-910 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "510-4200 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "120-1100 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "110-1000 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "250-680 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "63-140 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "34-520 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "490 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "(w wodach podziemnych rtęć)",
+      "concentration": "15-84 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "4,7-15 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "8.6999999999999993 [mg/kg]",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "20-35 [mg/kg]",
+      "area_ha": 0.41
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-03-19",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-05-28",
+        "reference": "WSI.511.2.2015.KW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "LC Corp Invest XV Sp.z  o.o. Projekt 9 sp. K.",
+        "address": "ul. Powstańców Śląskich, Wrocław",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2015-06-01",
+    "planned_end": "2021-12-31",
+    "actual_end": "2017-04-27",
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "ex-situ - wydobycie zanieczyszczonego gruntu i przekazanie do unieszkodliwienia",
+    "ecological_effect": "spełnione zostały wymagane prawem standardy",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

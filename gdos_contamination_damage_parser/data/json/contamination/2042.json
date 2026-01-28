@@ -1,0 +1,121 @@
+{
+  "registry_id": 2042,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.105,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Antoniewska",
+    "precinct": "1-05-07",
+    "parcel_numbers": [
+      "16/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((642707.5925030471 483266.92280799244,642727.4362927665 483280.6811688412,642739.6203796436 483264.0123855034,642715.4109561875 483246.1529747825,642701.9171791887 483262.954050052,642707.5925030471 483266.92280799244))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-09-05",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Dom Development S.A.",
+      "address": "Plac Piłsudskiego 3, 00-078 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "16/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.105
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.105
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.105
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.105
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.105
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.105
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-08-01",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.30.2024",
+    "decisions": [
+      {
+        "issue_date": "2024-09-05",
+        "reference": "WOOŚ-IV.515.30.2024.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Dom Development S.A.",
+        "address": "Plac Piłsudskiego 3, 00-078 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-09-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

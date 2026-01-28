@@ -1,0 +1,144 @@
+{
+  "registry_id": 141,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 17.0,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Ruda Śląska",
+    "municipality": "Ruda Śląska",
+    "address": "41-700 Ruda Śląska, ul. Zabrzańska",
+    "precinct": "0001 Ruda a. m. 7",
+    "parcel_numbers": [
+      "13229/85",
+      "1330/85",
+      "1331/85",
+      "1332/85",
+      "1333/85",
+      "1334/85",
+      "1335/85",
+      "1336/85",
+      "1337/85",
+      "1338/85",
+      "1341/85",
+      "1342/85",
+      "1343/85",
+      "1344/85",
+      "1345/85",
+      "1346/85",
+      "1347/85",
+      "1348/85",
+      "1349/85",
+      "1350/85",
+      "1351/85",
+      "1352/85",
+      "1353/85",
+      "1354/85",
+      "1355/85",
+      "1356/85",
+      "1357/85",
+      "1358/85",
+      "1359/85",
+      "1360/85",
+      "1361/85",
+      "1362/85",
+      "1363/85",
+      "772/85",
+      "773/85",
+      "774/85",
+      "776/98",
+      "777/98",
+      "778/98",
+      "779/98"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((489961.740000 270646.308000,489962.065000 270655.659000,489964.504000 270702.549000,489969.836000 270702.927000,489973.827000 270703.203000,490023.596000 270706.732000,490035.030000 270707.548000,490070.393000 270710.002000,490075.465000 270710.343000,490081.379000 270707.915000,490086.617000 270705.766000,490107.809000 270708.300000,490147.169000 270713.008000,490149.291000 270713.269100,490168.291000 270714.803000,490199.056000 270717.258000,490226.772000 270721.094000,490228.708000 270720.198000,490232.314000 270718.551000,490233.562000 270709.489000,490234.399000 270703.331000,490275.036000 270709.372000,490335.423000 270718.395000,490343.964000 270719.650000,490434.332000 270733.068000,490468.273000 270738.268000,490530.235000 270747.820000,490545.714000 270708.215000,490566.148000 270667.724000,490568.961000 270662.139000,490588.551000 270623.366000,490588.687000 270623.217000,490592.115000 270608.329000,490598.506000 270580.380000,490605.295000 270551.635000,490605.890000 270547.530000,490606.614000 270537.426000,490608.050000 270520.836000,490609.877000 270502.072000,490614.291000 270455.690000,490600.952000 270435.861000,490550.992000 270429.985000,490532.151000 270427.590000,490523.090000 270426.412000,490501.406000 270423.705000,490452.060000 270418.122000,490448.016000 270417.686000,490415.378000 270414.177000,490402.357000 270412.773000,490385.571000 270410.899000,490352.671000 270407.243000,490241.468000 270394.735000,490204.063000 270390.540000,490191.168000 270388.854000,490155.445000 270384.167000,490141.486000 270382.895000,490106.634000 270379.736000,490104.733000 270379.561000,490054.725000 270374.606000,490050.161000 270374.118000,490032.817000 270372.302000,490020.184000 270381.206000,490000.522000 270387.687000,489993.147000 270395.142000,489991.602000 270409.594000,489977.132000 270544.460000,489988.902000 270545.682000,489987.037000 270563.077000,489975.297000 270561.805100,489958.672000 270560.010000,489940.106000 270560.269000,489942.342000 270585.374000,489959.639000 270587.361000,489960.185000 270602.715000,489961.740000 270646.308000))",
+    "site_description": "Tereny zabudowane. Centralną cześć terenu stanowi hala magazynowa sieci handlowej dyskontów spożywczych wraz z zapleczem technicznym oraz pojedyncze zabudowania (biura, magazyny) usytuowane w południowo-wschodniej części terenu."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "teren użytkowany przemysłowo przed 30 kwietnia 2007 r. Na przedmiotowym obszarze funkcjonował zakład produkujący prefabrykaty budowlane, którego pozostałością są m. in. silosy cementowe oraz betonowe konstrukcje suwnic"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja wyrobów budowlanych z betonu",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MAKSIMUM Sp. z o.o. INWESTUM S.K.A.",
+      "address": "ul. Zabrzańska 38, 41-700 Ruda Śląska",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Arsen (As)",
+      "concentration": "21.5",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Cynk (Zn)",
+      "concentration": "352, 375, 592, 4170",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Kadm (Cd)",
+      "concentration": "5.43, 28.1",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Ołów (Pb)",
+      "concentration": "109, 121, 313",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-03-19",
+    "legal_basis": "101l ust. 2 POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-05-11",
+        "reference": "WSI.511.4.2015.MMŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MAKSIMUM Sp. z o.o. INWESTUM S.K.A.",
+        "address": "ul. Zabrzańska 38, 41-700 Ruda Śląska",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,97 @@
+{
+  "registry_id": 1771,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0348,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. 28 Czerwca 1956 r. 189/191, 61-493 Poznań",
+    "precinct": "Wilda",
+    "parcel_numbers": [
+      "9/8",
+      "18/3",
+      "18/13"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((358113.060422741 503919.20929534175,358108.5624970745 503914.4467858132,358146.1334055996 503896.19049930293,358149.0438280937 503901.7467604121,358113.060422741 503919.20929534175)) POLYGON((358058.8207308558 503834.0132916104,358052.73530200694 503834.2778754709,358043.73945066624 503778.71526434924,358037.91860569123 503692.19634131156,358044.0040345404 503685.3171608895,358046.12070544355 503685.0525770206,358046.12070544355 503685.0525770206,358046.1207054434 503690.60883814096,358058.8207308558 503834.0132916104)) POLYGON((358156.4521762514 503974.2427387424,358135.0208833604 503974.5073226029,358120.20418704033 503937.7301657116,358139.51880902855 503932.70307232067,358162.27302124107 503944.6093461402,358162.27302124095 503945.4030977227,358156.4521762514 503974.2427387424))",
+    "site_description": "Teren po byłym zakładzie H. Cegielskiego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "I Am Poznań Sp. z o.o.",
+      "address": "ul. 28 Czerwca 1956 r. 189/191, 61-493 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "9/8",
+        "18/3",
+        "18/13"
+      ],
+      "economic_activity_code": "28.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "967 mg/kg s.m.",
+      "area_ha": 0.0179
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "47900 mg/kg s.m.",
+      "area_ha": 0.069
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-01-05",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.3.2023.ASB",
+    "decisions": [
+      {
+        "issue_date": "2023-03-02",
+        "reference": "WSS.515.3.2023.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "I Am Poznań Sp. z o.o.",
+        "address": "ul. 28 Czerwca 1956 r. 189/191, 61-493 Poznań",
+        "economic_activity_code": "28.11.Z"
+      }
+    ],
+    "planned_start": "2023-03-20",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

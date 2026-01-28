@@ -1,0 +1,67 @@
+{
+  "registry_id": 177,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "sochaczewski",
+    "municipality": "Młodzieszyn",
+    "address": "Helenka, gm. Młodzieszyn",
+    "precinct": "Helenka",
+    "parcel_numbers": [
+      "12"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((585843.8040191652 491543.696172365,585839.8352612249 491510.3586056847,585059.5774506611 491208.73300244194,585031.7961450993 491228.0476244008,585843.8040191652 491543.696172365))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2009-12-06",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu produktami ropopochodnymi na terenie działki o nr ew. 12 położonej w miejscowości Helenka, gm. Młodzieszyn, w wyniku wycieku oleju napędowego z rurociągu produktowego DN245 Płock-Emilianów",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": "Płock Wyszogrodzka",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2009-12-11",
+    "detection_date": "2009-12-06",
+    "decisions": [
+      {
+        "issue_date": "2010-09-08",
+        "reference": "RDÓS-14-WSI-MGł-6661-27/1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2010-11-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ,,ex situ\" polegającej na usunięciu zanieczyszczonej ziemi",
+    "ecological_effect": "gleba po przeprowadzeniu  działań spełnia określone prawem standardy",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

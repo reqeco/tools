@@ -1,0 +1,108 @@
+{
+  "registry_id": 185,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.182,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "Gorzów Wielkopolski",
+    "municipality": "Gorzów Wielkopolski",
+    "address": "66-400 Gorzów (Wieprzyce)",
+    "precinct": "obręb 9-Wieprzyce",
+    "parcel_numbers": [
+      "nr 706",
+      "obręb 9 Wieprzyce"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((242418.6354071883 546160.4307661168,242428.689595671 546154.6099211108,242432.65835436556 546142.7036472792,242448.26880495407 546126.034863878,242398.79161481542 546094.2848005602,242369.95196916757 546080.7910236763,242352.4894312041 546100.3702295795,242391.64784898792 546136.3536347356,242389.00200989982 546138.999473365,242417.84165546874 546161.4891015729,242418.6354071883 546160.4307661168))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2003-10-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A. z Płocka",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "C6-C12",
+      "concentration": "C6-C12 w ilości od 58 mg/kg s.m. do 1430 mg/kg s.m.   C12-C35 w ilości od 1490 mg/kg s.m. do 7440 mg/kg s.m.  BTEX  - 5,18 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "C12-C35 oraz BTEX",
+      "concentration": "C6-C12 w ilości od 58 mg/kg s.m. do 1430 mg/kg s.m.   C12-C35 w ilości od 1490 mg/kg s.m. do 7440 mg/kg s.m.  BTEX  - 5,18 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-10-13",
+    "legal_basis": "art. 64 kpa",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-11-02",
+        "reference": "WSI-I.511.9.2015.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-09-12",
+        "reference": "WZŚ.511.2.2016.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 155 kpa, art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-09-09",
+        "reference": "WZŚ.512.21.2019.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A. z Płocka",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "46.71.Z"
+      }
+    ],
+    "planned_start": "2016-04-01",
+    "planned_end": "2025-12-31",
+    "actual_end": "2022-04-04",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Kontorlowane wydobycie gruntu, przekazanie zanieczyszczonej gleby/ziemi do utylizacji, zasypanie i zagęszcznie wyrobisk ziemia wolną od zanieczyszczeń, aplikacja do środowiska biocenoz mikroorganizmów",
+    "ecological_effect": "Załączone wyniki analiz laboratoryjnych, potwierdzają uzyskanie zakładanego efektu ekologicznego, określonego w decyzji Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wlkp. z dnia 12 września 2016 r., znak: WZŚ.511.2.2016.KM.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

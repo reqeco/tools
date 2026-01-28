@@ -1,0 +1,104 @@
+{
+  "registry_id": 637,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "szczycieński",
+    "municipality": "Szczytno (gmina wiejska)",
+    "address": "Linowo",
+    "precinct": "Trelkowo",
+    "parcel_numbers": [
+      "100/2",
+      "100/3",
+      "100/4",
+      "100/5",
+      "100/6",
+      "100/9",
+      "100/11",
+      "100/13",
+      "101"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((630003.7717788436 643690.5352203939,630008.5342883783 643688.418549493,630006.4176174749 643638.1476156125,629995.8342629636 643625.9767579427,630024.4093201426 643600.5767071415,630065.684402736 643604.8100489397,630071.5052477113 643576.7641595127,630041.8718550801 643576.2349917935,630047.1635323348 643539.1932510426,629978.9008957413 643470.9306145133,629933.3924713423 643414.3096679458,629893.7048919204 643397.3763007447,629803.7463785753 643341.2845218955,629684.6836403393 643585.7600108478,629933.392471351 643720.1686129933,630003.2426111248 643750.3311733129,630056.6885514015 643775.2020563912,630058.2760545824 643756.681186012,630004.8301142948 643691.5935558425,630003.7717788436 643690.5352203939))",
+    "site_description": "Teren wysypiska odpadów w Linowie oraz znajdujący się pod nim GZWP Nr 213."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Bezpośrednie zagrożenie szkodą w środowisku w wodach podziemnych jest związane z eksploatacją składowiska odpadów w Linowie, które funkcjonuje na tym terenie od 1985 r. W 2007 r. na terenie składowiska rozpoczęto badania parametrów wskaźnikowych, zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 grudnia 2002 r. w sprawie zakresu, czasu, sposobu oraz warunków prowadzenia monitoringu składowisk odpadów. Analiza wyników badań z lat 2007-2010 wykazała w wodach podziemnych podwyższone wartości przewodności elektrolitycznej oraz ogólnego węgla organicznego (OWO)."
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "Bezpośrednie zagrożenie szkodą w środowisku w wodach podziemnych, w granicach eksploatowanego składowiska odpadów w Linowie, gm. Szczytno.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Stowarzyszenie Ekologiczne \"Piękne Dąbrowy\"",
+      "address": "(…)",
+      "legal_form": "Stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zakład Usług Komunalnych w Szczytnie",
+      "address": "Nowe Gizewo 16/1, 12-100 Szczytno",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "OWO - Ogólny węgiel organiczny"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Przewodność elektrolityczna"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-04-19",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2011-01-31",
+        "reference": "WSI.512.1.2011.JK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2011-02-14",
+        "reason": "1. Brak stwierdzenia, iż w obrębie składowiska odpadów w Linowie występuje skażenie GZWP Nr 213; 2. Brak zaleceń podjęcia działań mających na celu ustalenie, co jest źródłem skażenia; 3. Brak zaleceń podjęcia działań mających na celu usunięcie źródła skażenia; 4. Brak zaleceń zmierzających do wyjaśnienia rozbieżności pomiędzy dwoma laboratoriami w oznaczaniu kadmu i ołowiu w wodzie pobieranej z piezometrów w obrębie składowiska; 5. Błędne wskazanie w decyzji, iż zgłoszenia szkody dokonali Panowie (...), zamiast Stowarzyszenie; 6. Błędne wskazanie terminu zgłoszenia szkody poprzez przywołanie pisma z dnia 22 września 2010 r., zamiast pisma z dnia 6 kwietnia 2010 r.; 7. Konieczność zastąpienia w pkt. I.4 stwierdzenia \"podejmowanie przez właściciela i zarządcę składowiska działań zmierzających do jego rozbudowy jest niewskazane\" stwierdzeniem \"podejmowanie przez właściciela i zarządcę składowiska działań zmierzających do jego rozbudowy jest zakazane\".",
+        "appealed_decision_reference": "WSI.512.1.2011.JK",
+        "resolution_reference": "DOP-ks. 512.8.2011.at",
+        "appellant_name": "Stowarzyszenie Ekologiczne \"Piękne Dąbrowy\"",
+        "appellant_address": "(…)",
+        "resolution_date": "2011-05-27",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Decyzją z dnia 27 maja 2011 r., znak: DOP-ks. 512.8.2011.at umorzono postępowanie odwoławcze z uwagi na złożenie odwołania przez osoby fizyczne nie będące stroną postępowania. Natomiast decyzją z dnia 25 sierpnia 2011 r., znak: DOP-ks.512.8.2011.at.3 stwierdzono nieważność decyzji Regionalnego Dyrektora Ochrony Środowiska w Olsztynie z dnia 31 stycznia 2011 r., znak: WSI.512.1.2011.JK."
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "1. W celu zabezpieczenie wód podziemnych przed migracją zanieczyszczeń należy: a) odcieki z kwatery nr 1 i nr 2 ujmować szczelnym drenażem; b) ujęte odcieki gromadzić w szczelnych zbiornikach bezodpływowych, nie dopuszczając do ich przepełnienia, a następnie wywozić do oczyszczalni ścieków; c) odpady przykrywać warstwą izolacyjną o grubości około 0,2 m w celu ograniczenia infiltracji wód opadowych poprzez opady. 2. W przypadku stwierdzenia znacznych zmian w składzie wód podziemnych należy: a) kilkakrotnie odpompować wodę z zanieczyszczonego piezometru; b) wypompować odcieki z kwatery do szczelnego zbiornika; c) ograniczyć powierzchnię użytkowego sektora kwatery w możliwie największym stopniu w celu ograniczenia powierzchni mającej bezpośredni kontakt z wodami opadowymi; d) przykryć wszystkie pozostałe, nieeksploatowane sektory kwatery warstwą izolacyjną, aby ograniczyć pionowy przepływ wód opadowych przez odpady; e) dokonać naprawy (uszczelnienia) uszkodzonego sektora; f) w przypadku braku możliwości naprawy wykonać - w porozumieniu z Burmistrzem Miasta Szczytno - pionowe ekrany w miejscu dopływu wód podziemnych do kwatery. Pionowy ekran powinien sięgać do naturalnej warstwy izolacyjnej; g) wykonać dodatkowy drenaż odwadniający na wysokości podnóża kwatery składowej, ujmujący część spływających w ten sposób odcieków. 3. Monitoring składu wód podziemnych oraz składu wód odciekowych należy prowadzić zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 grudnia 2002 r. w sprawie zakresu, czasu, sposobu oraz warunków prowadzenia monitoringu składowisk odpadów (Dz. U. z 2002 r. Nr 220 poz. 1858, z późn. zm.), tj. co 3 miesiące, obejmując badaniem następujące parametry wskaźnikowe: odczyn, przewodność elektrolityczną, miedź , ołów, kadm, cynk, chrom, rtęć, ogólny węgiel organiczny (OWO), sumę wielopierścieniowych węglowodorów aromatycznych (WWA). W celu zapewnienia porównywalności wyników, wodę do analiz labolatoryjnych należy pobierać z 8 piezometrów.  4. W celu ochrony wód podziemnych pod składowiskiem i w jego najbliższym otoczeniu niewskazanym jest podejmowanie przez właściciela i zarządcę składowiska działań zmierzających do jego rozbudowy.",
+    "ecological_effect": "Ograniczenie migracji do wód podziemnych zanieczyszczeń z terenu składowiska odpadów w Linowie.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

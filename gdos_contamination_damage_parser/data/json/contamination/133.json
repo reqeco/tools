@@ -1,0 +1,219 @@
+{
+  "registry_id": 133,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.77,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "81-341 Gdynia, ul. Węglowa 22",
+    "precinct": "0026 Śródmieście",
+    "parcel_numbers": [
+      "922",
+      "923",
+      "924 obręb 0026 Śródmieście"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((470358.0009101492 740055.9231646201,470357.6040343592 740048.2502326099,470362.1019600192 740049.1762761176,470364.6155067192 740089.1284393594,470365.5415502392 740116.7774529904,470365.4092582992 740128.2868510084,470361.83737615927 740132.5201928094,470360.77904070925 740105.797222699,470360.1175810492 740088.3346877685,470362.23425194924 740056.1877484797,470358.2654940192 740056.1877484787,470358.0009101492 740055.9231646201))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "druga połowa XXw."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "INVEST KOMFORT S.A. SP.K",
+      "address": "ul. Hryniewickiego 6C/47, 81-340 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "93-1200 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "7,81-11,1 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Naftalen",
+      "concentration": "0,244->25 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fenantren",
+      "concentration": "0,159->25 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Antracen",
+      "concentration": "0,238->25 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fluoranten",
+      "concentration": "0,134->25 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Chryzen",
+      "concentration": "0,216->25 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,176->25 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,037->25 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,118->25 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "1,34->225 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)fluoranten",
+      "concentration": "0,196-22,4 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "0,12-0,16 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "15000-20000 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "18->1400 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Benzen",
+      "concentration": "0,54-0,95 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Etylobenzen",
+      "concentration": "5,85-19,20 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Ksyleny",
+      "concentration": "1,05-64,60 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "1,51-84,80 mg/kg s.m.",
+      "area_ha": 0.77
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Fenantren",
+      "concentration": "7,86-8,22 mg/kg s.m.",
+      "area_ha": 0.77
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-06-24",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WSI.I.511.23.2016.AHR.5",
+    "decisions": [
+      {
+        "issue_date": "2016-09-05",
+        "reference": "RDOŚ-Gd-WSI.I.511.23.2016.AHR.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "INVEST KOMFORT S.A. SP.K",
+        "address": "ul. Hryniewickiego 6C/47, 81-340 Gdynia",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2016-09-21",
+    "planned_end": "2018-11-30",
+    "actual_end": "2017-05-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja gruntów:  1. Usunięcie nawierzchni utwardzonej,  2. Usuwanie zanieczyszczeń w nasypach i gruntach,  3. Przeprowadzenie remediacji wód podziemnych,  4. Wykonanie całościowej obudowy wykopu budowlanego i odwodnienia,  5. Prowadzenie prac ziemnych,  6. Monitoring remediacji Remediacja wód podziemnych: 1. Wykonanie ściany szczelnej,   2. Likwidacja podziemnych zbiorników stacji paliw,  3. Likwidacja budynków stacji obsługi i hali stacji obsługi, 4. Wykonanie wykopów pompowych,  5. Wykonanie rowów rozsączających, 6. Wykonanie piezometów kontrolnych,  7. Pompowanie oczyszczające,  8. Monitoring remediacji,  9. Działania dodatkowe -  stosowanie surfaktantów",
+    "ecological_effect": "spodziewany efekt: osiągnięto wymagany przepisami dopuszczalne zawartości w glebie i ziemi substancji powodujących ryzyko",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,64 @@
+{
+  "registry_id": 1879,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "lubliniecki",
+    "municipality": "Woźniki",
+    "address": "Kamienica",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "240708_5.0002.AR_14.228/31"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((499759.98 308421.39,499717.81 308443.01,499701.62 308454.33,499691.34 308461.57,499683.46 308464.8,499685.31 308471.44,499686 308472.46,499717.89 308469.23,499764.65 308459.05,499796.34 308460.64,499792.85 308418.78,499759.98 308421.39))",
+    "site_description": "zanieczyszczenie rzeki Kamieniczka w okolicach skrzyżowania ulic Gliwickiej i Tysiąclecia, prawdopodobne zanieczyszczenie powierzchni ziemi na działce 228/31"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-02-18",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda, gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "doszło do wycieku z autocysterny oleju opałowego na terenie stacji paliw N&W Ziółkowscy zlokalizowanej w Kamienicy (pow. Lubliniecki) przy ul. Częstochowskiej 54.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw N&W Ziółkowscy",
+      "address": "ul. Częstochowska 54 42-287 Kamienica",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    }
+  ],
+  "protected_species": [
+    "Castor fiber bóbr europejski"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-02-28",
+    "detection_date": "2024-02-28",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

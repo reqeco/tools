@@ -1,0 +1,75 @@
+{
+  "registry_id": 460,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina wiejska)",
+    "address": "Szklary Górne",
+    "precinct": "obręb Szklary Górne",
+    "parcel_numbers": [
+      "nr 636/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((301935.14269999973475933 400957.33290000073611736, 301949.06099999975413084 400946.26590000092983246, 301972.6226000003516674 400974.87639999948441982, 302003.37289999984204769 400949.94329999946057796, 302050.76910000015050173 400911.50650000013411045, 302131.46929999999701977 400846.40230000019073486, 302150.57230000011622906 400831.14130000025033951, 302169.99450000002980232 400815.62539999932050705, 302216.25 400778.67400000058114529, 302265.75439999997615814 400739.12560000084340572, 302310.46810000017285347 400696.44339999929070473, 302311.03170000016689301 400681.05100000090897083, 302300.74469999969005585 400668.39120000042021275, 302305.37469999957829714 400664.66689999960362911, 302310.90500000026077032 400660.21079999953508377, 302325.98060000035911798 400668.8397000003606081, 302327.03760000038892031 400668.18310000002384186, 302338.54409999959170818 400661.02250000089406967, 302385.26449999958276749 400613.78140000067651272, 302393.69060000032186508 400605.26129999943077564, 302441.4102999996393919 400562.60490000061690807, 302438.10219999961555004 400560.68960000015795231, 302434.78980000037699938 400558.77339999936521053, 302421.66060000006109476 400551.17620000056922436, 302420.20930000022053719 400550.33530000038444996, 302390.21069999970495701 400532.97980000078678131, 302346.90369999967515469 400567.56839999929070473, 302293.22049999982118607 400612.91530000045895576, 302298.28309999965131283 400653.69070000015199184, 302184.75800000037997961 400745.44510000012814999, 302106.69159999955445528 400808.51679999940097332, 302019.61440000031143427 400844.11460000090301037, 301973.29629999957978725 400881.32080000080168247, 301958.48689999990165234 400892.66389999911189079, 301914.17559999972581863 400931.77170000039041042, 301935.14269999973475933 400957.33290000073611736))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2007-12-27",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w środowisku w powierzchni ziemi powstała w skutek wycieku wód przemysłowych z rurociągu i zalania terenów w m. Szklary Górne, w okolicy pompowni Gilów",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A. Oddział Zakład Hydrotechniczny",
+      "address": "Rudna Polkowicka 52",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Miedź (Cu)",
+      "concentration": "587,8 mg/kg",
+      "area_ha": 0.08
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2007-12-27",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "WSI.511.1.2012.AS.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-06-30",
+    "planned_end": "2012-10-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Usunięcie zanieczyszczonego gruntu metodą ex – situ, z powierzchni ok. 800 m2  o miąższości do 0,30 m, poprzez wydobycie, oczyszczenie lub unieszkodliwienie  poza miejscem jego pierwotnego występowania oraz dowiezienie czystego gruntu  do wykopu. Prace należy przeprowadzić ręcznie, w sposób najmniej szkodzący roślinności drzewiastej, występującej na i w obrębie przedmiotowego terenu.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,100 @@
+{
+  "registry_id": 341,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0001,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "gorlicki",
+    "municipality": "Gorlice (gmina miejska)",
+    "address": "ulica Garncarska",
+    "precinct": "obręb 1",
+    "parcel_numbers": [
+      "120501_1.0001.799/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POINT(655722.8220889134 201638.96249146946)",
+    "site_description": "nieużytek, źródłem zanieczyszczenia są grunty nasypowe, nawiezione przed 2007 rokiem."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "MWM Development Spółka z ograniczona odpowiedzialnościa  Spółka komandytowa",
+      "address": "Kraków ul. Opatkowicka 1, 30-499 Kraków",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "198 mg/kg suchej masy",
+      "area_ha": 0.0001
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-06-23",
+    "legal_basis": "61 § 1 Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.515.10.2017.MKub",
+    "decisions": [
+      {
+        "issue_date": "2017-11-28",
+        "reference": "ZS.515.10.2017.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-04-06",
+        "reference": "ZS.515.4.2018.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4, art 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-12-28",
+        "reference": "ZS.515.15.2018.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4, art 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MWM Development Spółka z ograniczona odpowiedzialnościa  Spółka komandytowa",
+        "address": "Kraków ul. Opatkowicka 1, 30-499 Kraków",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-04-28",
+    "planned_end": "2019-04-30",
+    "actual_end": "2019-01-08",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usuniecie gruntów niespełniających wymagań określonych dla I grupy gruntów.",
+    "ecological_effect": "z terenu działki 799/18 zlokalizowanej w Gorlicach przy ul. Garncarskiej usunięto grunt niespełniający wymagań dla I grupy gruntów, co zostało potwierdzone badaniami laboratoryjnymi próbki gruntu pobranej z dnia wykopu.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

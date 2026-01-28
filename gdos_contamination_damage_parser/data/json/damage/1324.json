@@ -1,0 +1,66 @@
+{
+  "registry_id": 1324,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "świdnicki",
+    "municipality": "Strzegom",
+    "address": "ul. Olszańska 69",
+    "precinct": "Stanowice",
+    "parcel_numbers": [
+      "604/2",
+      "obręb Stanowice"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((313995.43053835310274735 343253.42349138949066401, 314095.35619655100163072 343286.07537299208343029, 314143.32105115370359272 343301.74382425472140312, 314186.70868198911193758 343188.41083222068846226, 314045.0349404223379679 343134.17659928929060698, 314038.48234818637138233 343133.53099640179425478, 313995.43053835310274735 343253.42349138949066401)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": 0.02,
+  "reporters": [
+    {
+      "name": "Dolnośląski Wojewódzki Inspektor Ochrony Środowiska Delegatura w Wałbrzychu",
+      "address": "ul. Mickiewicza 16 58-300 Wałbrzych",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2020-03-09",
+    "detection_date": "2019-07-24",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

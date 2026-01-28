@@ -1,0 +1,168 @@
+{
+  "registry_id": 570,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "ul. Targowa 18",
+    "precinct": null,
+    "parcel_numbers": [
+      "65/49 - przed podziałem była dz. 65/31"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532548.2029455848 433258.4307260709,532646.0989747049 433270.8661676096,532650.3323165049 433279.3328512125,532653.7719067149 433288.857870264,532654.3010744449 433298.6474731676,532654.0364905848 433308.96624381654,532641.3364651848 433394.6914152615,532634.7218686249 433424.5893917205,532587.8905249549 433416.91645971127,532588.1551088148 433409.2435277002,532563.2842257449 433391.2518250486,532530.2112429349 433387.01848325226,532548.2029455848 433258.4307260709))",
+    "site_description": "teren po dawnej gazowni klasycznej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "zakończono działalność ok. 1975 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Dystrybucja paliw gazowych w systemie sieciowym"
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "address": "ul. Krucza 6/14, 00-537 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.22.Z"
+    },
+    {
+      "name": "Prezydent Miasta Łodzi",
+      "address": "ul. Piotrkowska 104, 90-926 Łódź",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "40,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "40,1 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "41,1 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "20,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "20,5 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-03",
+    "legal_basis": "101d",
+    "case_reference": "WSI.513.3.2023.MG",
+    "decisions": [
+      {
+        "issue_date": "2018-12-17",
+        "reference": "WSI.513.24.2018.MG.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-02-26",
+        "reference": "WSI.513.3.2019.MG.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-06-24",
+        "reference": "WSI.513.2.2020.PS.ML.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-05-31",
+        "reference": "WSI.513.11.2021.PS.MG.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-01-05",
+        "reference": "WSI.513.3.2023.MG.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2020-07-10",
+      "reason": "przeprowadzenie przez GDOŚ postępowania wyjaśniającego",
+      "appealed_decision_reference": "WSI.513.2.2020.PS.ML.7",
+      "resolution_reference": null,
+      "appellant_name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "appellant_address": "Bandrowskiego 16",
+      "resolution_date": null,
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": null
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+        "address": "ul. Krucza 6/14, 00-537 Warszawa",
+        "economic_activity_code": "35.22.Z"
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Prezydent Miasta Łodzi",
+        "address": "ul. Piotrkowska 104, 90-926 Łódź",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "wykonano decyzję znak: WSI.513.11.2021.PS.MG.10 z art. 101f poś i wykryto zanieczyszczenie, odmówiono decyzją z 25.01.2024 r., wykreślenia z rejestru"
+}

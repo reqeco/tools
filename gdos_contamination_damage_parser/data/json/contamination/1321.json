@@ -1,0 +1,284 @@
+{
+  "registry_id": 1321,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 6.8182,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Komandoria 5 w Poznaniu",
+    "precinct": "0003 Komandoria",
+    "parcel_numbers": [
+      "2/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((361504.63328303373 506420.36533636693,361452.24567819975 506365.8610606957,361861.29233013705 506164.7773252027,361891.4548905019 506234.6274649026,361504.63328303373 506420.36533636693))",
+    "site_description": "Teren byłych Poznańskich Zakładów Przemysłu Spirytusowego POLMOS w Poznaniu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Poznańskie Ośrodki Sportu i Rekreacji",
+      "address": "ul. Jana Spychalskiego 34,  61-553 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "2/5"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "83,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,252 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "5,81 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "15,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "16,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "13,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "17,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,22 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "8,16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "10,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "7840 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "1810 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "5400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "384 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "736 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "8,24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "7,42 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "6,39 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "9,06 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "3,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "6,39 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "41 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "29 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "28 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-05-06",
+    "legal_basis": "art. 101c ust. 3 pkt 2 ustawy Prawo ochrony środowiska",
+    "case_reference": "WSS.513.8.2021.ASB",
+    "decisions": [
+      {
+        "issue_date": "2021-06-29",
+        "reference": "WSS.513.8.2021.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-12-29",
+        "reference": "WSS.515.28.2022.ASB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-11-06",
+        "reference": "WSS.515.26.2023.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Poznańskie Ośrodki Sportu i Rekreacji",
+        "address": "ul. Jana Spychalskiego 34,  61-553 Poznań",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Decyzja o wpisie potencjalnego z 29.06.2021, decyzja ustalająca plan z 29.12.2022, dec. zm. terminy z 06.11.2023"
+}

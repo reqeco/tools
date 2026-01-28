@@ -1,0 +1,81 @@
+{
+  "registry_id": 1272,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": "działka nr 523 obręb Biedrzychowa",
+    "precinct": "Biedrzychowa",
+    "parcel_numbers": [
+      "działka nr 523 obręb Biedrzychowa"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((299519.65763905830681324 407089.03525397926568985, 299509.89932572015095502 407102.76206696778535843, 299506.72222704527666792 407107.30525035224854946, 299545.23487832600949332 407120.64733918104320765, 299519.65763905830681324 407089.03525397926568985)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-11-12",
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Lubin)",
+  "land_owner": "Skarb Państwa (Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Lubin)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Uszkodzenie i miejscowa nieszczelność rurociągu stalowego RW2 DN 1000 przesyłającego wodę technologiczną z Obiektu Unieszkodliwiania Odpadów Wydobywczych „Żelazny Most” do procesu produkcji O/ZWR.",
+  "total_area_ha": 0.05,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A. z siedzibą w Lubinie, Oddział Zakład Hydrotechniczny",
+      "address": "ul. Polkowicka 52, 59-305 Rudna",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A. z siedzibą w Lubinie",
+      "address": "ul. Marii Skłodowskiej-Curie 48, 59-301 Lubin",
+      "economic_activity_code": "24.44.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "552-517 mg/kg s.m.",
+      "area_ha": 0.012
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2020-01-03",
+    "detection_date": "2018-11-12",
+    "decisions": [
+      {
+        "issue_date": "2020-11-27",
+        "reference": "WSI.511.2.2020.AS.NL.14",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-12-07",
+    "planned_end": "2021-12-28",
+    "actual_end": "2021-12-28",
+    "method": null,
+    "description": "Przeprowadzenie remediacji metodą ex-situ, polegającą na wydobyciu zanieczyszczonego gruntu do głębokości 0,25 m ppt i przekazaniu go, jako odpad uprawnionemu podmiotowi, w ilości ok. 30 m3.",
+    "ecological_effect": "Remediacja doprowadziła do osiągnięcia zawartości miedzi w glebie i ziemi na poziomie nie wyższym niż określony w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1359) dla III grupy gruntów, z uwzględnieniem głębokości oraz wodoprzepuszczalności.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

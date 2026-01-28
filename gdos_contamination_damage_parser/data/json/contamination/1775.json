@@ -1,0 +1,76 @@
+{
+  "registry_id": 1775,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "elbląski",
+    "municipality": "Pasłęk",
+    "address": null,
+    "precinct": "0041 Surowe",
+    "parcel_numbers": [
+      "280407_5.0041.AR_1.258/9"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Dawna stacja paliw funkcjonująca na potrzeby Państwowego Gospodarstwa Rolnego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Krajowy Ośrodek Wsparcia Rolnictwa Oddział Terenowy w Olsztynie",
+      "address": "ul. Głowackiego 6, 10-448 Olsztyn",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "280407_5.0041.AR_1.258/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2023-01-20",
+    "legal_basis": "art. 101c ust. 3 pkt 2 Poś",
+    "case_reference": "WSI.513.3.2023",
+    "decisions": [
+      {
+        "issue_date": "2023-03-07",
+        "reference": "WSI.513.3.2023.JJ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-08-30",
+        "reference": "WSI.515.12.2023.KPi.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-03-06",
+        "reference": "WSI.515.1.2024.KPi.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

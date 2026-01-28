@@ -1,0 +1,98 @@
+{
+  "registry_id": 55,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.007,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "03-775 Warszawa, ul. Kawęczyńska 9/11/13",
+    "precinct": "4-14-05",
+    "parcel_numbers": [
+      "85"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639917.1323604145 489827.8088213047,639907.6073413513 489808.4941993449,639932.4782244633 489795.79417394474,639923.482373121 489776.74413584545,639963.169952552 489755.3128429847,640012.6471349075 489780.7128937822,639916.8677765541 489827.80882130563,639917.1323604145 489827.8088213047))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Fabryka na Pradze Sp. Z o.o.",
+      "address": "ul. Kawęczyńska 9/11/13, 03-775 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "20.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "92",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "43",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "135",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-01-14",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-01-27",
+        "reference": "WSI.511.3.2012.ES.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Fabryka na Pradze Sp. Z o.o.",
+        "address": "ul. Kawęczyńska 9/11/13, 03-775 Warszawa",
+        "economic_activity_code": "20.30.Z"
+      }
+    ],
+    "planned_start": "2016-02-15",
+    "planned_end": "2016-04-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - wydobycie zanieczyszczonego gruntu i przekazanie do unieszkodliwienia",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

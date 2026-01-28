@@ -1,0 +1,149 @@
+{
+  "registry_id": 525,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.57,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "Rakietowa 39",
+    "precinct": "obręb 0046 Strachowice AM-15",
+    "parcel_numbers": [
+      "1/112",
+      "obręb Strachowice",
+      "AM-15"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((354445.30793541821185499 361178.88180025294423103, 354449.0396538550266996 361178.9178649540990591, 354449.41802101698704064 361174.83441369142383337, 354445.55263457074761391 361174.53985392581671476, 354445.30793541821185499 361178.88180025294423103)),((354465.78656168491579592 361226.80591250583529472, 354469.81896253634477034 361226.62016547843813896, 354469.59182349621551111 361222.67559732403606176, 354465.7282053716480732 361222.51116949878633022, 354465.78656168491579592 361226.80591250583529472)),((354483.58816963242134079 361173.50241363141685724, 354487.83923545776633546 361173.44465117529034615, 354487.6958974085864611 361169.28151856642216444, 354483.6581812035292387 361169.07607078365981579, 354483.58816963242134079 361173.50241363141685724)),((354480.55156157590681687 361202.26528436038643122, 354488.46233738248702139 361196.9514689389616251, 354486.1548542344244197 361193.1648239865899086, 354478.0751848075306043 361198.82801596727222204, 354480.55156157590681687 361202.26528436038643122)),((354518.56239958538208157 361247.30456940177828074, 354523.07597786106634885 361247.41618045698851347, 354522.92557051900075749 361242.7328215716406703, 354518.66989239625399932 361242.44376546423882246, 354518.56239958538208157 361247.30456940177828074)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Transport lotniczy pasażerski",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "REDECO Sp. z o. o.",
+      "address": "ul. Gen. Hallera 81a Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-03-03",
+    "legal_basis": "art.61 par.4 Kpa",
+    "case_reference": "WSI.515.8.2020.KMA",
+    "decisions": [
+      {
+        "issue_date": "2021-01-27",
+        "reference": "WSI.515.8.2020.KMA.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art.101l ust.2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "REDECO Sp. z o. o.",
+        "address": "ul. Gen. Hallera 81a Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,71 @@
+{
+  "registry_id": 1660,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.8173,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "Gdańsk, ul. Wałowa",
+    "precinct": "81 Gdańsk",
+    "parcel_numbers": [
+      "223/10; 223/13"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Analizowane nieruchomości znajdują się na terenie średniowiecznej i nowożytnej stoczni remontowej Brabank, później Zakładów Elektrotechnicznych ELMOR, w sąsiedztwie, w sąsiedztwie nabrzeża rzeki Motławy, służącego do cumowania statków."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-07-30",
+    "description": "działalność stoczniowa o d 1434 r. do 2007 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Invest Komfort SA Sk",
+      "address": "Antoniego Hryniewickiego 6c/47, 81-340 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

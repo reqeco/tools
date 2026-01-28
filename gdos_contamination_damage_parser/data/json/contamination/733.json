@@ -1,0 +1,84 @@
+{
+  "registry_id": 733,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.1,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "tomaszowski",
+    "municipality": "Tomaszów Mazowiecki (gmina miejska)",
+    "address": null,
+    "precinct": "3",
+    "parcel_numbers": [
+      "dz. 1/40"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((571622.8132582976 409363.7592139933,571642.741572384 409374.79865226615,571659.9520085884 409341.28404570837,571641.8881335943 409329.89984264504,571622.8132582976 409363.7592139933))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "KA-MED. Sp. z o. o. zs. w Aleksandrowie Łódzkim",
+      "address": "WOJSKA POLSKIEGO 69; 95-070 ALEKSANDRÓW ŁÓDZKI",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-18",
+    "legal_basis": "101c, 101f",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-05-27",
+        "reference": "WSI.513.13.2019.MG.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-05-27",
+        "reference": "WSI.513.10.2019.MG.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-06-27",
+        "reference": "WSI.513.10.2021.MG.AM.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-06-14",
+      "reason": "niezadowolenie strony",
+      "appealed_decision_reference": "WSI.513.13.2019.MG.2",
+      "resolution_reference": "DOA-WSzOP.512.25.2019.JP",
+      "appellant_name": "KA-MED Sp. z o.o.",
+      "appellant_address": "95-070 Aleksandrów  Łódzki, ul. Wojska Polskiego 69",
+      "resolution_date": "2021-09-01",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "uchylenie w całości zaskarżonej decyzji i przekazanie sprawy do ponownego rozpatrzenia"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "umorzenie postępowania"
+}

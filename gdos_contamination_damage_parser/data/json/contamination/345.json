@@ -1,0 +1,85 @@
+{
+  "registry_id": 345,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0571,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Lublańska, Kraków",
+    "precinct": "0004 Śródmieście",
+    "parcel_numbers": [
+      "126105_9.0004.1/47",
+      "126105_9.0004.1/52"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((569565.6840023549 247038.6087120613,569572.4308908448 247059.51083720103,569589.7611338351 247053.689992222,569603.2549108253 247052.76394869853,569653.393552766 247061.2306322977,569654.1873043561 247053.2931164289,569565.6840023549 247038.6087120613))",
+    "site_description": "tereny parkingów z płyt ażurowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Działalność usługowa wspomagająca transport lądowy",
+    "current": "Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi"
+  },
+  "land_holders": [
+    {
+      "name": "Buma Inwestor 21 Sp. z o.o.",
+      "address": "ul. Wadowicka 6, Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3600 [mg/kg s.m.]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-12-22",
+    "legal_basis": "art. 61 § 3 Kodeks postępowania administracyjnego",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-03-26",
+        "reference": "ZS.515.18.2017.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Buma Inwestor 21 Sp. z o.o.",
+        "address": "ul. Wadowicka 6, Kraków",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2018-06-01",
+    "planned_end": "2019-12-31",
+    "actual_end": "2018-10-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Z terenu działek o nr 1/47 i 1/52 usunięto całą warstwę gleby i ziemi o przekroczonych zawartościach substancji powodujących ryzyko tj. zawartość sumy węglowodorów C12-C35, składników frakcji oleju. Miąższość warstwy usuniętej - 0,5 m.",
+    "ecological_effect": "W wyniku remediacji, zawartości w ziemi substancji powodujących ryzyko (w zakresie których stwierdzono zanieczyszczenia) mieścić się w granicach dopuszczalnych zawartości określonych dla I grupy gruntów, ustalonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395), tj. nie przekracza wartości 1000 mg/kg s.m.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,151 @@
+{
+  "registry_id": 1234,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Kujota 25-31, Szczecin",
+    "precinct": "1084 Śródmieście M. Szczecin",
+    "parcel_numbers": [
+      "38/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((206754.0956638159987051 626004.40211169002577662, 206746.34415319300023839 626006.66555242903996259, 206723.35174935500253923 626014.69696904195006937, 206630.50513005099492148 626045.84585421695373952, 206687.73364514100831002 626231.13255996396765113, 206731.79830992399365641 626216.30360048299189657, 206782.76586368499556556 626197.4511594120413065, 206814.42558339700917713 626184.99429810303263366, 206754.0956638159987051 626004.40211169002577662))",
+    "site_description": "Zakład Produkcji Paliw, powierzchnia ziemi,"
+  },
+  "occurrence_time": {
+    "date": "2016-09-28",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wyciek substancji ropopochodnych do gruntu na skutek rozszczelnienia zaworu zamykającego kanalizacje deszczową z rura PCV śr. 150 mm, prowadzącą do studni z pompą odprowadzającą wody zaolejone do zbiornika podziemnego.",
+  "total_area_ha": 0.02,
+  "reporters": [
+    {
+      "name": "EUROECO FUELS POLAND Sp. z o.o.",
+      "address": "ul. Kujota 25-31 Szczecin",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "EUROECO FUELS POLAND Sp. z o.o.",
+      "address": "ul. Kujota 25-31 Szczecin",
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "mg/kg s.m.2800",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "mg/kg s.m.110",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "mg/kg s.m.120",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "mg/kg s.m.43",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "mg/kg s.m.14",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "mg/kg s.m.13",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "mg/kg s.m.8,1",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.11",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "mg/kg s.m.9,8",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "mg/kg s.m.5,2",
+      "area_ha": 0.02
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-01-10",
+    "detection_date": "2016-09-28",
+    "decisions": [
+      {
+        "issue_date": "2019-07-08",
+        "reference": "WONS-NS.511.3.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2019-10-01",
+    "planned_end": "2021-10-31",
+    "actual_end": "2021-01-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Sposób przeprowadzenia remediacji powierzchni ziemi.  1.\tCelem orzeczonego sposobu remediacji jest usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodującej ryzyko.  2.\tRemediacja metodą in-situ będzie polegała na bioremediacji zanieczyszczonego terenu.  3.\tTechnologia remediacji:  - wykonanie 10 otworów aplikacyjnych o głębokości do 5,5 m p.p.t. i średnicy 110 mm (otwory iniekcyjne będą posiadały dno, część filtracyjna znajdować się będzie w przedziale głębokości 1-5 m p.p.t., od góry będą zabezpieczone deklami); - aplikacja biopreparatu w pierwszym roku remediacji – październik 2019 r. - w kolejnym okresie od kwietnia do października, raz na kwartał;",
+    "ecological_effect": "Z dokumentacji powykonawczej (wyniki badań laboratoryjnych) wynika, że osiągnięto efekt ekologiczny, którym była redukcja stężeń zanieczyszczeń węglowodorami aromatycznymi, benzynami i olejami oraz wielopierścieniowymi węglowodorami aromatycznymi do dopuszczalnych wartości dla IV  grupy gruntów przy wodoprzepuszczalności wyższej lub równej 1x10(-7) m/s",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": "Władający terenem nie jest tożsamy ze sprawcą szkody"
+}

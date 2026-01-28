@@ -1,0 +1,56 @@
+{
+  "registry_id": 1725,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kwidzyński",
+    "municipality": "Sadlinki",
+    "address": "Bronisławowo 49, 82-522 Sadlinki",
+    "precinct": "Bronisławowo",
+    "parcel_numbers": [
+      "54/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((487766.38303279 641967.7631020313,487787.28515792 642024.9132163338,487838.61442724994 641991.0464819316,487856.34154604 642023.5902970126,487966.6730167 641947.3901446126,487944.1833883901 641882.0379305836,487766.38303279 641967.7631020313))",
+    "site_description": "Teren, na którym prowadzona jest działalnośc gospodarcza - skup i sprzedać pojazdów mechanicznych. Podczas kontroli PWIOŚ stwierdzono liczne nieprawidłowości."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "wrzesień 2018 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Stwierdzone zanieczyszczenie gleby na skutek prowadzonej działalności gospodarczej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Pomorski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "Trakt św. Wojciecha 293, 80-001 Gdańsk",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "AUTO-ABC (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2019-02-13",
+    "detection_date": "2018-12-31",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

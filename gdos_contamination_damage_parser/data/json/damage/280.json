@@ -1,0 +1,62 @@
+{
+  "registry_id": 280,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "ciechanowski",
+    "municipality": "Ciechanów (gmina miejska)",
+    "address": "Ciechanów, ul. Płocka 19",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((607232.2827115358 556874.855091528,607248.0254513603 556847.9998294758,607192.992007944 556816.6466417788,607178.3076035697 556842.1789845079,607178.3076035697 556842.1789845079,607180.1596906105 556843.2373199603,607232.2827115358 556874.855091528))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2010-10-19",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w powierzchni ziemi polegająca na zanieczyszczeniu gruntu olejem mineralnym oraz suma benzyn na terenie Stacji Paliw nr 994 przy ulicy Płockiej w Ciechanowie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN",
+      "address": "ul. Chemików 7  Płock",
+      "legal_form": "podmiot korzystajcy ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 994 w Ciechanowie - PKN ORLEN S.A",
+      "address": "ul. Płocka 19, Ciechanów, SP 994",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2010-10-19",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,161 @@
+{
+  "registry_id": 1605,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2069,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Galopu",
+    "precinct": "1-08-22",
+    "parcel_numbers": [
+      "14/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636902.821015239 478623.87287176494,636896.2064186712 478619.3749461053,636891.1793252743 478576.7769442452,636971.8774034353 478569.10401223414,636970.8190679854 478616.1999397529,636902.821015239 478623.87287176494))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "RONSON DEVELOPMENT SpV5 sp. z o.o.",
+      "address": "ul. Aleja Komisji Edukacji Narodowej 57, 02-979 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.2069
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.2069
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-04-13",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.14.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-05-25",
+        "reference": "WOOŚ-IV.515.14.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "RONSON DEVELOPMENT SpV5 sp. z o.o.",
+        "address": "ul. Aleja Komisji Edukacji Narodowej 57, 02-979 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-07-01",
+    "planned_end": "2022-08-31",
+    "actual_end": "2022-08-25",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

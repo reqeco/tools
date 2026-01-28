@@ -1,0 +1,353 @@
+{
+  "registry_id": 2138,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.61,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Ostrobramska",
+    "precinct": "3-05-24",
+    "parcel_numbers": [
+      "30",
+      "32",
+      "33"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((643896.2986045332 486959.4053037502,643974.0862602317 486926.59690479934,644007.9529946849 486947.23444606736,643989.9612920085 486978.9845095696,643916.4069781164 487009.67623761855,643896.2986045332 486959.4053037502))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "URBAN HOME WARSZAWA OSTROBRAMSKA sp. z o. o.",
+      "address": "ul. Ostrobramska 75c, Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "30",
+        "32",
+        "33"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "CH PROMENADA sp. z o. o.",
+      "address": "ul. Ostrobramska 75 c, Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "30",
+        "32",
+        "33"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.074
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.61
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.61
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-03-05",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.4.2025.PBu",
+    "decisions": [
+      {
+        "issue_date": "2025-04-01",
+        "reference": "WOOŚ-IV.515.5.2025.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "URBAN HOME WARSZAWA OSTROBRAMSKA sp. z o. o.",
+        "address": "ul. Ostrobramska 75c, Warszawa",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "CH PROMENADA sp. z o. o.",
+        "address": "ul. Ostrobramska 75 c, Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-04-01",
+    "planned_end": "2027-12-31",
+    "actual_end": "2028-12-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zmniejszenie ilości zanieczyszczeń, zwolnienie z obowiązku przeprowadzenia działań naprawczych",
+    "description": "remediacja ex- situ, częściowe zwolnienie z obowiązku przeprowadzenia prac remediacyjnych",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

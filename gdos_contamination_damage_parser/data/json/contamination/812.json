@@ -1,0 +1,58 @@
+{
+  "registry_id": 812,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Żory",
+    "municipality": "Żory",
+    "address": "ul. Kleszczowska 38 44-240 Żory",
+    "precinct": "0004 Kleszczów a. m. 3",
+    "parcel_numbers": [
+      "247901_1.0004.AR_3.238/30"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((481860.335000 239965.821000,481883.730000 240021.696000,481905.101000 240072.721000,481926.513000 240123.836100,481930.208000 240132.641000,481994.717000 240109.071000,482046.345000 240090.221000,482060.428000 240085.075000,482124.549000 240061.660100,482126.369000 240060.996000,482127.844000 240062.965000,482128.998000 240065.558000,482131.087000 240070.748000,482137.530000 240087.722000,482142.220000 240122.268900,482148.169000 240145.647000,482155.024000 240144.805100,482138.785000 240087.405000,482126.705000 240057.004000,482122.774000 240046.323000,482104.791000 239998.251000,482074.256000 239939.772000,482064.235000 239917.629000,481968.669000 239931.849900,481853.408000 239949.313000,481860.335000 239965.821000))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Mega Service Recycling Sp. z o.o.",
+      "address": "ul. Kleszczowska 36 44-240 Żory",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-01",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.59.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-07-25",
+        "reference": "WSI.513.59.2019.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

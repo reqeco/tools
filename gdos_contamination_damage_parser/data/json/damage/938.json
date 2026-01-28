@@ -1,0 +1,53 @@
+{
+  "registry_id": 938,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "żniński",
+    "municipality": "Janowiec Wielkopolski",
+    "address": "Janowiec Wielkopolski przy ul. Gnieźnieńskiej",
+    "precinct": null,
+    "parcel_numbers": [
+      "588/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((397934.98393135704 543876.1338154273,397971.7610882548 543874.2817283869,397968.1892061144 543808.5326385554,397942.9214472392 543810.9138933159,397934.98393135704 543876.1338154273))",
+    "site_description": "stacja paliw PKN ORLEN S.A. nr 1047"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "modernizacja stacji paliw PKN ORLEN S.A. nr 1047 w Janowcu Wlkp. przy ul. Gnieźnieńskiej",
+  "total_area_ha": 0.2066,
+  "reporters": [],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2008-07-25",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2008-09-25",
+        "reference": "WŚRRW-III-DL/6642/9/08",
+        "issuing_authority": "Wojewoda Kujawsko-Pomorski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

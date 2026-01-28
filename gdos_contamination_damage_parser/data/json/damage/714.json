@@ -1,0 +1,103 @@
+{
+  "registry_id": 714,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Jordanów Śląski",
+    "address": "55-065 Jordanów Śląski, ul. Wrocławska 49",
+    "precinct": "obręb Jordanów Śląski",
+    "parcel_numbers": [
+      "118/1",
+      "118/6 AM-4"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((349954.88521661749109626 335192.88507167529314756, 349952.48468251572921872 335183.19082093983888626, 349938.53046471788547933 335185.48910117521882057, 349924.30126409116201103 335188.15098582021892071, 349928.30480640282621607 335199.58294160664081573, 349934.0297581753693521 335215.59005304425954819, 349958.02716815064195544 335208.607270747423172, 349954.88521661749109626 335192.88507167529314756))",
+    "site_description": "nieczynna stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "2011 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie w trakcie częciowej likwidacji stacji paliw",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy Orlen S. A.,",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "Spółka akcyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN Spółka Akcyjna z siedzibą w Płocku",
+      "address": "Ul. Chemików 7 09-411 Płock",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "950-1100 mg/kg suchej masy",
+      "area_ha": 0.028
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4600 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "304 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1530 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2016-01-15",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2016-02-18",
+        "reference": "WSI.511.18.2015.MR.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "-1.0",
+    "planned_end": "2016-04-30",
+    "actual_end": "2016-02-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczonego gruntu metodą ex – situ, poprzez wydobycie i przekazanie do odzysku lub unieszkodliwienia poza miejscem jego pierwotnego występowania oraz dowiezienie czystego gruntu do wykopów i jego zagęszczenie.  W razie napływu zanieczyszczonych wód, odpompowanie ich i przekazanie do unieszkodliwienia.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

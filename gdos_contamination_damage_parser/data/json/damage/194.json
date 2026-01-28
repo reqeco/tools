@@ -1,0 +1,73 @@
+{
+  "registry_id": 194,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Warszawa ul. Fort Wola 22",
+    "precinct": "6-07-09",
+    "parcel_numbers": [
+      "25/7 obręb 6-07-09"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((631377.5337141497 486630.0280238334,631364.304521001 486323.11074333265,631511.1485648154 486047.9435263304,631683.1280756015 486104.8290567687,631681.8051562796 486083.6623477675,631749.2740412812 486102.18321813643,631745.3052833381 486125.995765768,631861.7221829449 486167.0062644454,631836.5867159938 486247.70434251614,631839.2325546178 486305.9127922654,631845.8471511863 486418.3609338254,631812.7741683492 486542.71534919366,631804.8366524727 486570.4966547657,631823.3575228623 486684.2677156348,631726.7844129647 486689.55939288717,631631.5342223782 486671.0385225164,631620.9508678686 486661.7780873282,631620.9508678686 486661.7780873282,631590.5237236512 486657.80932938773,631589.2008043401 486657.8093293896,631556.1278215001 486653.84057145845,631377.5337141497 486630.0280238334))",
+    "site_description": "teren zakładu"
+  },
+  "occurrence_time": {
+    "date": "2009-03-10",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu ołowiem i kadmem w wyniku uszkodzenia metalowego zbiornika przylegającego do ściany starej galwanizerni na terenie Zakładu Mechanicznego \"PZL-Wola\" S.A. w Warszawie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektorat Ochorny Środowiska w Warszawie",
+      "address": "ul. Bartycka 110 A, 00-716 Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zakład Mechaniczny \"PZL-Wola\" S.A.",
+      "address": "Warszawa Fort Wola 22",
+      "economic_activity_code": "29.10.D"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2009-04-20",
+    "detection_date": "2009-03-10",
+    "decisions": [
+      {
+        "issue_date": "2009-06-02",
+        "reference": "RDOŚ-14-WSI-EB-6661-14/09",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2010-12-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Na przedmiotowym terenie została przeprowadzona rekultywacja metodą ,,ex situ”. Prace polegały na wydobyciu zanieczyszczonego gruntu w ilości 52,2 Mg. Po całkowitym  wydobyciu zanieczyszczonej ziemi została ona zabrana i przetransportowana do specjalistycznej firmy. Kolejno z powstałego wykopu pobrano 8 prób gleby w celu potwierdzenia iż pozostały grunt w wykopie spełnia standardy",
+    "ecological_effect": "Przedmiotowy teren spełnia standardy jakości gleby i ziemi dla grupy gruntów ,,C” zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r., w sprawie standardów jakości gleby oraz standardów jakości ziemi ( Dz. U. Nr 165, poz. 1359).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

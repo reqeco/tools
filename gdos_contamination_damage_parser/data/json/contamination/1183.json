@@ -1,0 +1,64 @@
+{
+  "registry_id": 1183,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "Gołębia 15-19, 81-185 Gdynia",
+    "precinct": "0026 Śródmieście",
+    "parcel_numbers": [
+      "434",
+      "436",
+      "440"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((467832.7142070786 741662.1687407931,467972.4144864788 741888.6525271013,468126.9314621786 741795.519007503,468038.5604521086 741680.6896111723,468009.4562272288 741699.7396492716,467997.81453727867 741680.1604434438,467979.82283462875 741688.0979593229,467959.18529335863 741657.9353989912,467978.23533145874 741648.4103799434,467971.3561510287 741640.4728640737,467924.2602235086 741635.7103545424,467878.22263142874 741638.3561931727,467829.0100330086 741656.3478958225,467835.3600457087 741665.8729148721,467832.7142070786 741662.1687407931))",
+    "site_description": "Teren spółki EUROGAZ-Gdynia Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja gazów technicznych",
+    "current": "Produkcja gazów technicznych"
+  },
+  "land_holders": [
+    {
+      "name": "EUROGAZ-Gdynia Sp. z o.o.",
+      "address": "ul. Gołębia 19 81-185 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "434",
+        "436",
+        "440"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-04",
+    "legal_basis": "art. 61 par. 1 i 4 k.p.a. w związku z art. 101c ust. 3 pkt 1 ustawy poś.",
+    "case_reference": "RDOŚ-Gd-WZS.513.24.2019.TW",
+    "decisions": [
+      {
+        "issue_date": "2019-04-04",
+        "reference": "RDOŚ-Gd-WZS.513.24.2019.TW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,329 @@
+{
+  "registry_id": 426,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2087,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Toruńska 20, Gdańsk",
+    "precinct": "0099 Gdańsk",
+    "parcel_numbers": [
+      "277 i 278 obręb 0099 Miasta Gdańsk"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((477488.7816442698 719762.0332727861,477527.80776398996 719793.9156282162,477528.46922363987 719795.6354233259,477498.04207944986 719825.1365239853,477462.45554994995 719787.6979074478,477488.7816442698 719762.0332727861))",
+    "site_description": "Działki znajdują się na Starym Przedmieściu w dzielnicy Śródmieście miasta Gdańsk przy ul. Toruńskiej 20."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "W drugiej połowie XIX w. wybudowano pierwszą w Gdańsku gazownię klasyczną. Od 1853 r. rozpoczęto produkcję gazu. Gazownia działała do 1973 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Dystrybucja paliw gazowych w systemie sieciowym",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "Marvipol Dwie Motławy Sp. z o.o.",
+      "address": "Aleja Grunwaldzka 411, 80-309 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "600 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "443 - 627 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "147 - 183 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,998 - 3,13 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "10,7 - 14,9 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "3,72 - 8,45 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "12,1 - 16,2 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "1,77 - 2,10 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "12,6 - 18,5 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "15,8 - 20,3 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,96 - 8,01 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "8,37 - 9,73 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,38 - 9,40 mg/kg s.m.",
+      "area_ha": 0.2087
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1140 - 3080 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "1,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "1,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,48 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,32 - 4,25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "0,16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "6,75 - 303 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "5,69 - 146 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "6,44 - 105 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "7,55 - 90,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "7,52 - 10,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "14,7 - 131 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,5 - 99,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,06 - 51,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "7,6 - 56,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,17 - 70,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "40,1 - 82,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "340 - 1740 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "170 - 1380 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "127mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "122 - 21700 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "3,75 - 5,54 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,29 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-07-27",
+    "legal_basis": "art. 61 § 1 i 4 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WZS.515.14.2018.AK.4",
+    "decisions": [
+      {
+        "issue_date": "2018-09-12",
+        "reference": "RDOŚ-Gd-WZS.515.14.2018.AK.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4 p.o.ś., art. ust.1 p.o.ś., art. 104 k.p.a.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Marvipol Dwie Motławy Sp. z o.o.",
+        "address": "Aleja Grunwaldzka 411, 80-309 Gdańsk",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-09-28",
+    "planned_end": "2019-03-31",
+    "actual_end": "2018-12-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Wydobycie zanieczyszczonej  ziemi metodą ex-situ. Miąższość zanieczyszczonych gruntów na przedmiotowym terenie jest zróżnicowana. Remediacja metodą ex-situ prowadzona będzie w różnych sektorach do rożnych głębokości :  •\tw rejonie otworu T1 do głębokości około 0,3 m p.p.t.  •\tw rejonie otworu T2 do głębokości 4,7 m p.p.t., •\tw rejonie otworu T3 do głębokości 4,2 m p.p.t., •\tw rejonie otworu T4 do głębokości około 1 m p.p.t.,  •\tw rejonie otworów T5, T6, T7 i T8 do głębokości 2,5 - 3 m p.p.t. -  pobór próbek gruntu ze ścian i dna wykopów (ok. 6-10 próbek) po zakończeniu prac związanych z usuwaniem zanieczyszczonego gruntu oraz przeprowadzeniu badań i analiz przez laboratorium, akredytowane, w zakresie oznaczenia na obecność metali ciężkich, wielopierścieniowych węglowodorów aromatycznych, sumy węglowodorów C12 – C35, składników frakcji oleju, węglowodorów aromatycznych i fenolu, -  przewiduje się wybranie zanieczyszczonego gruntu w ilości około 5 200 m3. Dokładna ilość zanieczyszczonego gruntu zostanie określona przez osobę pełniącą nadzór  w trakcie prowadzenia prac.",
+    "ecological_effect": "Przeprowadzono prace remediacyjne, polegające na etapowym wydobyciu zanieczyszczonego gruntu metodą ex situ. W trakcie wybierania gruntu prowadzono monitoring gruntu spektrometrem XRF (metale ciężkie) oraz detektorem PID LZO (węglowodory), w celu przeprowadzenia wstępnej klasyfikacji zanieczyszczenia gruntu. Prace remediacyjne prowadzone były pod stałym nadzorem specjalisty ds. ochrony środowiska i gospodarki odpadami. Ponadto, pobrano próbki gruntu rodzimego, które zostały zbadane przez akredytowane laboratorium ALS Czech Republic s.r.o. w Pradze. Wyniki wykonanych badań laboratoryjnych próbek gruntu rodzimego potwierdziły, że  stężenia substancji powodujących ryzyko we wszystkich miejscach poboru i głębokościach są dopuszczalne dla gruntów grupy „I\". Wydobyty zanieczyszczony grunt, jako odpad przekazano odbiorcy posiadającemu stosowne zezwolenia, zgodnie z ustawą z dnia 14 grudnia 2012 r.  o odpadach. Potwierdzeniem wywiezienia zanieczyszczonego gruntu do uprawnionego odbiorcy są  kserokopie kart przekazania odpadów. Zgodnie z kartami przekazania odpadów wybrano i wywieziono 5 643,0 Mg odpadów, w tym odpady zanieczyszczone  (gleba i ziemia, w tym kamienie zawierające substancje niebezpieczne) w ilości 2107,0 Mg.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

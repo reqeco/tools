@@ -1,0 +1,98 @@
+{
+  "registry_id": 1987,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "oświęcimski",
+    "municipality": "Oświęcim (gmina miejska)",
+    "address": "ul. Krasickiego, 32-600 Oświęcimiu",
+    "precinct": "M. Oświęcim",
+    "parcel_numbers": [
+      "121301_1.0001.1998/53"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Teren, na którym były składowane odpady."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miasto Oświęcim",
+      "address": "ul. Zaborska 2,  32-600 Oświęcim",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,118 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,149 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,195 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-02",
+    "legal_basis": "art. 61 § 1 Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.14.2021.MK",
+    "decisions": [
+      {
+        "issue_date": "2024-04-23",
+        "reference": "ZS.513.14.2021.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Miasto Oświęcim",
+        "address": "ul. Zaborska 2,  32-600 Oświęcim",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

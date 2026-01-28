@@ -1,0 +1,178 @@
+{
+  "registry_id": 1813,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 3.502,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "ul. Policka 7 71-800 Szczecin",
+    "precinct": "Nad Odrą 203",
+    "parcel_numbers": [
+      "39/1",
+      "39/2",
+      "39/3",
+      "39/4",
+      "39/5",
+      "39/6",
+      "39/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((207543.86599146499065682 634844.98543839901685715, 207542.60854793200269341 634824.93601709604263306, 207541.47520934301428497 634807.09403346898034215, 207538.50259067199658602 634759.56606007402297109, 207538.32450999799766578 634756.82075621304102242, 207507.44621144898701459 634758.54587420495226979, 207500.790697310003452 634758.7062984659569338, 207511.24125845899106935 634768.35315134702250361, 207513.87017717800335959 634825.62985614803619683, 207513.99410116299986839 634831.75511659099720418, 207513.72197785301250406 634838.14312243997119367, 207512.93723221498657949 634845.57196606800425798, 207511.50609544001054019 634851.48405328404624015, 207509.34796780999749899 634858.18851084297057241, 207496.32702720101224259 634892.49750943400431424, 207477.98934783900040202 634932.75669582700356841, 207427.58675916300853714 634909.72879314504098147, 207425.82625583300250582 634913.52514465304557234, 207404.25240705101168714 634903.88639758294448256, 207407.87626073500723578 634895.53781652904581279, 207396.8141086749965325 634890.5948014670284465, 207367.80954259200370871 634877.3068100200034678, 207348.40547648898791522 634881.25614712899550796, 207320.26917570701334625 634868.40707316598854959, 207292.12340740498621017 634930.00526503403671086, 207339.28615826301393099 634951.17590989300515503, 207322.95135174199822359 634986.60312371503096074, 207421.7529498339863494 635032.13026405300479382, 207435.39377037298982032 635026.31328328000381589, 207446.28766021301271394 635031.34206357703078538, 207425.54403143099625595 635076.92690085701178759, 207485.48319669999182224 635104.18809641501866281, 207484.23730180101119913 635129.96941804501693696, 207483.61722376299439929 635143.00019753095693886, 207480.86248810699908063 635183.82618521200492978, 207479.77062563301296905 635200.0498050149763003, 207505.60918351900181733 635203.91770290897693485, 207510.51530759601155296 635198.8623365480452776, 207519.41858238499844447 635201.27758519595954567, 207525.8484501680068206 635209.42304394405800849, 207534.02119133999804035 635200.62692735705059022, 207547.54243549599777907 635186.08925664704293013, 207591.37885262898635119 635183.75492110196501017, 207603.22267229101271369 635157.73849514301400632, 207628.03464586500194855 635103.24766989098861814, 207666.51964664898696356 635018.73984962003305554, 207678.18505997699685395 634993.1142393050249666, 207691.48405401498894207 634963.92988224094733596, 207598.37462070200126618 634921.8001800780184567, 207588.02944245300022885 634922.43189450504723936, 207582.77105961399502121 634920.15239153103902936, 207582.70479597500525415 634918.97375983698293567, 207590.91851373898680322 634918.39173824898898602, 207577.62489889201242477 634912.2052929219789803, 207574.79531567200319842 634916.41244451503735036, 207533.94334270400577225 634897.86762010701932013, 207543.86599146499065682 634844.98543839901685715))",
+    "site_description": "na terenie funkcjonował w przeszłości Zakład Produkcji Prefabrykatów Budowlanych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "od ok. 1973 do ok. 2006 roku"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "działalność nieznana",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Trei Real Estate Poland Sp. z o.o.",
+      "address": "ul. Wspólna 47/49  00-684 Warszawa.",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "39/1",
+        "39/2",
+        "39/3",
+        "39/4",
+        "39/5",
+        "39/6",
+        "39/8"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "248 mg/kg s.m.",
+      "area_ha": 0.4604
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,104-0,269 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,207-0,267 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,258-0,269 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,101- 0,32 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,239-0,259 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,202-0,242 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,213-0,253 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "38,2-113 mg/kg s.m.",
+      "area_ha": 3.502
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-12-29",
+    "legal_basis": "art. 101 c ust. 3 pkt 3",
+    "case_reference": "WONS.513.9.2022.MR",
+    "decisions": [
+      {
+        "issue_date": "2022-11-18",
+        "reference": "WONS.515.4.2022.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101 l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-04-19",
+        "reference": "WONS.513.9.2022.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101 c ust. 3 pkt 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-06-21",
+        "reference": "WONS.515.13.2022.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-05",
+        "reference": "WONS.515.13.2023.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Trei Real Estate Poland Sp. z o.o.",
+        "address": "ul. Wspólna 47/49  00-684 Warszawa.",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2023-09-01",
+    "planned_end": "2025-09-30",
+    "actual_end": "2023-12-04",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia będzie odbywało się przy zastosowaniu metody ex situ (kontrolowane wydobycie zanieczyszczonej gleby i ziemi oraz jej przekazanie do unieszkodliwienia uprawnionym odbiorcom) w obszarze wyznaczonym w projekcie planu remediacji (sekcje S-1, S-2, S-7, S-8, S-10, S-11, S-16, S-17, S-18)",
+    "ecological_effect": "Potwierdzeniem osiągnięcia efektu ekologicznego będą wyniki badań próbek gleby, co najmniej 2 próbki w każdej z ww. sekcji, potwierdzające osiągnięcie dopuszczalnych zawartości dla stwierdzonych w badanych obszarach substancji powodujących ryzyko.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

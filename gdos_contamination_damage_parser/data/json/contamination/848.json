@@ -1,0 +1,72 @@
+{
+  "registry_id": 848,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 23.1222,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bieruńsko-lędziński",
+    "municipality": "Bojszowy",
+    "address": "Rejon ul. Jedlińskiej 43-220 Bojszowy",
+    "precinct": "0003 Jedlina a. m. 4",
+    "parcel_numbers": [
+      "241404_2.0003.AR_4.27"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((509000.356000 243321.391000,509006.365000 243338.050000,509026.841000 243348.420000,509042.124000 243359.778000,509086.927000 243400.853100,509125.355000 243431.610000,509139.940000 243436.381000,509160.000000 243438.052000,509182.696000 243435.809000,509200.298000 243427.778000,509223.883000 243418.068000,509270.088000 243396.613100,509311.816000 243376.766000,509322.640000 243373.054000,509337.594000 243370.295000,509347.806000 243369.399000,509392.688000 243372.386000,509442.467000 243378.286000,509487.492000 243382.960000,509536.439000 243392.509000,509571.981000 243397.959000,509595.325000 243400.085000,509647.041000 243402.212000,509679.078000 243401.963000,509719.513000 243407.888000,509762.928000 243417.740000,509811.771000 243433.666000,509828.709000 243437.997000,509839.327000 243440.533000,509832.062000 243427.199000,509823.640000 243405.695000,509814.606000 243405.016000,509766.596000 243400.601900,509745.119000 243396.102000,509717.767000 243380.468000,509710.771000 243378.992000,509705.403000 243379.614000,509698.637000 243378.875000,509665.475000 243385.405000,509639.917000 243384.378000,509616.326000 243380.996000,509555.860000 243360.598000,509522.077000 243352.066000,509499.737000 243351.845000,509469.551000 243361.953000,509453.448000 243371.443000,509427.316000 243370.084000,509371.287000 243360.890000,509326.099000 243346.264000,509316.922000 243346.786000,509297.178000 243354.576000,509288.085000 243364.402000,509232.928000 243406.874000,509203.759000 243416.849000,509188.616000 243419.610000,509168.771000 243422.064000,509145.740000 243420.973000,509120.525000 243411.996100,509106.016000 243400.927000,509096.802000 243385.250000,509089.144000 243366.384000,509080.607000 243358.044000,509036.278000 243340.358000,509013.886000 243326.477000,508992.510000 243308.624000,509000.356000 243321.391000))",
+    "site_description": "Tereny przylegające do zlikwidowanego zbiornika słonych wód dołowych odprowadzanych z KWK \"Piast\" i KWK \"Czeczot\"."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Spółdzielnia Kółek Rolniczych w Bojszowach",
+      "address": "ul. Jedlińska 86 43-220 Bojszowy",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.68.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-08-02",
+        "reference": "WSI.513.68.2019.MB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

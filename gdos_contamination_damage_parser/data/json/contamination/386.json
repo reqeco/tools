@@ -1,0 +1,91 @@
+{
+  "registry_id": 386,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Domaniewska",
+    "precinct": "1-02-30",
+    "parcel_numbers": [
+      "3/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638173.8729386801 481599.098170232,638270.1814647459 481607.56485382933,638262.2439488649 481565.7606035508,638169.9041807447 481579.2543805409,638173.8729386801 481599.098170232))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zorn Development Sp. z o.o.",
+      "address": "Al. Solidarności 173 00-877 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,36-0,43 [mg/kg]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzen",
+      "concentration": "0,42-0,47 [mg/kg]",
+      "area_ha": 0.2
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-04-27",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.31.2018",
+    "decisions": [
+      {
+        "issue_date": "2018-06-20",
+        "reference": "WSI.515.31.2018.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Zorn Development Sp. z o.o.",
+        "address": "Al. Solidarności 173 00-877 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-06-20",
+    "planned_end": "2018-11-30",
+    "actual_end": "2018-11-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "sprawozdanie zgodne z decyzją, oraz z rozporządzeniem MŚ",
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "registry_id": 1311,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": null,
+    "precinct": "Biedrzychowa",
+    "parcel_numbers": [
+      "470/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((299299.06153977051144466 407145.13581817835802212, 299305.06357201380888 407147.97461721237050369, 299323.15077728766482323 407119.42440978460945189, 299317.31096213200362399 407116.42339366296073422, 299299.06153977051144466 407145.13581817835802212)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W wyniku rozszczelnienia, należącego do KGHM Polska Miedź S.A. Oddział Zakład Hydrotechniczny, rurociągu przesyłającego wodę technologiczną doszło do zanieczyszczenia powierzchni ziemi.",
+  "total_area_ha": 0.017,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. M. Skłodowskiej-Curie 48, 59-301 Lubin",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1650 - 4110 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "107 - 134 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2020-09-07",
+    "detection_date": "2020-02-22",
+    "decisions": [
+      {
+        "issue_date": "2020-11-27",
+        "reference": "WSI.511.9.2020.AS.NL.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 17b ust. 3 ustawy szkodowej",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "decyzja zwalniająca podmiot korzystający ze środowiska z obowiązku przeprowadzenia remediacji"
+}

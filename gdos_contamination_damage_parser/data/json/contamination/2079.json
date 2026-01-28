@@ -1,0 +1,140 @@
+{
+  "registry_id": 2079,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.012,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Nocznickiego",
+    "precinct": "7-11-08",
+    "parcel_numbers": [
+      "35"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((631370.5708830606 493322.4324772777,631362.6333671829 493297.5615942087,631431.9543392143 493250.4656666769,631439.3626873713 493274.2782143075,631370.5708830606 493322.4324772777))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "WSD SPV 6 Sp. z o.o.",
+      "address": "ul.Żaryna 2b 02-593 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.012
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-09-20",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.35.2024.AGi",
+    "decisions": [
+      {
+        "issue_date": "2024-11-21",
+        "reference": "WOOŚ-IV.515.35.2024.AGi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "WSD SPV 6 Sp. z o.o.",
+        "address": "ul.Żaryna 2b 02-593 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-11-01",
+    "planned_end": "2030-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,73 @@
+{
+  "registry_id": 538,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "grodziski",
+    "municipality": "Grodzisk Mazowiecki",
+    "address": "Kozerki Gen.Orlicz-Dreszera 57",
+    "precinct": null,
+    "parcel_numbers": [
+      "53/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((607545.2446065376 470503.22978525516,607683.886550534 470482.063076254,607673.3031960316 470528.10066833626,607627.7947716695 470533.9215133041,607545.2446065376 470503.22978525516))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2012-04-23",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu powierzchni ziemi w związku z nielegalną działalnością polegającą na demontażu pojazdów przez Pana (…) na terenie przy ul. Gen.Orlicz-Dreszera 57 w m.Kozerki",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ",
+      "address": "ul. Bartycka 110a, 00-716 Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2012-06-11",
+    "detection_date": "2012-04-23",
+    "decisions": [
+      {
+        "issue_date": "2012-08-20",
+        "reference": "WSI.510.16.2012.MGł.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-09-15",
+    "planned_end": "2013-06-11",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - wybranie zanieczyszczonego gruntu",
+    "ecological_effect": "grunt spełnia wymagane prawem standardy",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

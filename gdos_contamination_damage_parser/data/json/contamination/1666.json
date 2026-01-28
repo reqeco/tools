@@ -1,0 +1,62 @@
+{
+  "registry_id": 1666,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Jaworzno",
+    "municipality": "Jaworzno",
+    "address": "ul. Młynarska w Jaworznie",
+    "precinct": "165",
+    "parcel_numbers": [
+      "246801_1.0165.3196",
+      "246801_1.0165.3197"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((518315.83347663102904335 258422.14202545100124553, 518338.81698290299391374 258316.16022223400068469, 518203.8188393340096809 258312.21407960299984552, 518158.0994963439879939 258310.86837743199430406, 518158.03682503098389134 258313.64747308500227518, 518155.62802041799295694 258394.85879414700320922, 518201.15615538397105411 258402.81290469798841514, 518315.83347663102904335 258422.14202545100124553))",
+    "site_description": "Teren po byłych Zakładach Chemicznych \"organika-Azot\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "lata 80' i 90' XX w."
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Produkcja pestycydów i pozostałych środków agrochemicznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Anex Polska Sp. z o.o.",
+      "address": "ul. Młynarska 8 Jaworzno",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246801_1.0165.3196",
+        "246801_1.0165.3197"
+      ],
+      "economic_activity_code": "14.19.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2020-02-19",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.129.2020",
+    "decisions": [
+      {
+        "issue_date": "2022-10-11",
+        "reference": "WSI.513.129.2020.MB1.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

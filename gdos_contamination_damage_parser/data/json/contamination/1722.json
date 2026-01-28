@@ -1,0 +1,85 @@
+{
+  "registry_id": 1722,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0544,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "piaseczyński",
+    "municipality": "Góra Kalwaria",
+    "address": "Szymanów",
+    "precinct": "0041",
+    "parcel_numbers": [
+      "103/12",
+      "103/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((645310.0261737909 465645.24066438153,645197.8426159129 465624.6031231126,645223.2426667472 465494.4278627597,645329.0762119154 465516.1237394819,645333.3095537224 465523.0029199105,645300.5011547284 465699.21577233076,645228.0051762933 465685.9865792114,645198.3717836535 465837.85771628283,645389.4013326772 465873.31195386034,645417.9763898657 465719.853313609,645299.9719870077 465698.6866046116,645310.0261737909 465645.24066438153))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PPM Inwest sp. z o.o.",
+      "address": "Plac Konesera 9, budynek \"O\", 03-736 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-12-29",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.38.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2022-12-29",
+        "reference": "WOOŚ-IV.515.38.2022.PBu",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PPM Inwest sp. z o.o.",
+        "address": "Plac Konesera 9, budynek \"O\", 03-736 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-01-01",
+    "planned_end": "2027-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

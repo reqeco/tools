@@ -1,0 +1,86 @@
+{
+  "registry_id": 487,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "radzyński",
+    "municipality": "Komarówka Podlaska",
+    "address": "ul. Lubelska 38",
+    "precinct": "0006 Komarówka Podlaska",
+    "parcel_numbers": [
+      "061505_2.0006.998/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((772034.2786194419 443908.18028439395,771982.4201790277 443921.9386451645,771980.0389243683 443997.34504597634,772033.2202842721 444006.87006511446,772034.0140355569 443908.97403598577,772034.2786194419 443908.18028439395))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 1444 w Komarówce Podlaskiej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2011-12-07",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw PKN ORLEN S.A. Nr 1444 w Komarówce Podlaskiej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "497-4054 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "5990-14751 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-03-14",
+    "detection_date": "2011-12-07",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2011-12-20",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach działań zapobiegawczych usunięto zanieczyszczone grunty, wykopy po wydobytych masach ziemnych wypełniono czystym gruntem.",
+    "ecological_effect": "Doprowadzenie gruntów na terenie stacji paliw do standardów jakości gleby i ziemi obowiązujących dla grupy B.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

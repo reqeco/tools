@@ -1,0 +1,71 @@
+{
+  "registry_id": 77,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "iławski",
+    "municipality": "Lubawa (gmina miejska)",
+    "address": "ul. Olsztyńska, Lubawa",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((549410.9069300226 627867.3354498185,549441.3340742025 627770.762339998,549487.6362501428 627782.933197679,549457.4736898227 627883.2104815664,549411.7006816026 627867.8646175386,549410.9069300226 627867.3354498185))",
+    "site_description": "Teren modernizowanej Stacji Paliw PKN ORLEN nr 497 w Lubawie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2008-04-25",
+    "description": "Pismem z dnia 25.04.2008 r. ORLEN Prewencja Sp. z o.o. wystąpiła do Wojewody Warmińsko-Mazurskiego z wnioskiem o uzgodnienie warunków przeprowadzenia działań naprawczych na terenie modernizowanej stacji paliw w Lubawie. Zanieczyszczenie środowiska zostało spowodowane wieloletnią działalnością stacji paliw w zakresie dystrybucji produktów naftowych."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Eksploatacja stacji paliw, w wyniku której nastąpiło zanieczyszczenie gruntu substancjami ropopochodnymi w miejscowości Lubawa przy ul. Olsztyńskiej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "ORLEN Prewencja Sp. z o.o. Regionalny Zespół Prewencji w Nowej Wsi Wielkiej",
+      "address": "Gutkowo 54 11-041 Olsztyn",
+      "legal_form": "osoba prawna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2008-04-22",
+    "decisions": [
+      {
+        "issue_date": "2008-05-05",
+        "reference": "ŚE.I.6650-016/08",
+        "issuing_authority": "Wojewoda Warmińsko-Mazurski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2008-04-01",
+    "planned_end": "2008-05-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Działania naprawcze prowadzone będą technologią ex-situ. Metoda polega na wydobyciu zanieczyszczonego gruntu, jego odtransportowaniu i unieszkodliwieniu w uprawnionym zakładzie utylizacji oraz wypełnieniu powstałego wykopu warstwą betonu. Przewiduje się wydobycie około 1000 Mg gruntu.",
+    "ecological_effect": "Docelowe uznaje się spełnienie warunków stawianym gruntom zaliczanym do grupy C w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,163 @@
+{
+  "registry_id": 1642,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0838,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Szwedzka 20",
+    "precinct": "4-13-02",
+    "parcel_numbers": [
+      "6/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639262.7228260862 490785.55854608584,639282.302031932 490808.5773421237,639313.2583438904 490781.06062042434,639287.3291253266 490751.9563955534,639262.7228260862 490785.55854608584))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Szwedzka B sp. z o. o.",
+      "address": "Aleje Jerozolimskie 181A, Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "6/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": 0.0818
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0818
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0818
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0818
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0818
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0818
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0818
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.0818
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.0818
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.002
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-04-26",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.20.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-07-05",
+        "reference": "WOOŚ-IV.515.20.2022.PBu4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Szwedzka B sp. z o. o.",
+        "address": "Aleje Jerozolimskie 181A, Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-07-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-10-26",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "osiągnięcie zakładanego efektu ekologicznego",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

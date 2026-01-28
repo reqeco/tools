@@ -1,0 +1,92 @@
+{
+  "registry_id": 2006,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 5.7523,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "rejon ul. Porcelanowej oraz ul. Hutniczej w Katowicach.",
+    "precinct": "0002 Dz. Bogucice-Zawodzie",
+    "parcel_numbers": [
+      "246901_1.0002.AR_49.20/31",
+      "246901_1.0002.AR_49.20/32",
+      "246901_1.0002.AR_49.20/33"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((503582.28 265277.44,503571.25 265119.84,503569.12 265103.77,503565.9 265079.5,503560.88 265080.05,503523.23000000004 265070.55,503517.18 265086.09,503482.2 265072.74,503463.14 265071.36,503469.14 265136.04,503472.77 265208.42,503474.37 265227.85,503483.96 265301.07,503484.55 265307.53,503499.59 265302.02,503500.95 265302.66000000003,503503.25 265345.34,503488.13 265346.03,503490.09 265367.18,503496.25 265433.45,503497.29000000004 265459.82,503497.37 265463.9,503497.7 265482.8,503498.5 265527.26,503530.28 265544.3,503530.4 265549.12,503545.89 265557.21,503565.15 265562.46,503627.04000000004 265563.38,503640.18 265563.42,503668.55 265563.06,503697.60000000003 265561.66000000003,503696.95 265462.76,503626.22000000003 265443.22000000003,503604.63 265439.18,503593.4 265421.54,503591.65 265399.24,503588.45 265399.51,503554.03 265402.34,503551.36 265367.27,503585.76 265364.6,503588.9 265364.35,503582.28 265277.44))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Ferrum S.A.",
+      "address": "ul. Porcelanowa 11 40-246 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246901_1.0002.AR_49.20/31",
+        "246901_1.0002.AR_49.20/32",
+        "246901_1.0002.AR_49.20/33"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-09",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2019 r. poz. 1396  z późn. zm.)",
+    "case_reference": "WSI.513.86.2019",
+    "decisions": [
+      {
+        "issue_date": "2021-07-08",
+        "reference": "WSI.513.86.2019.MB1.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Skarga z dnia 22 listopada 2023 r. Ferrum S.A., ul. Porcelanowa 11, 40-246 Katowice,",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2021-07-22",
+      "reason": null,
+      "appealed_decision_reference": "WSI.513.86.2019.MB1.8",
+      "resolution_reference": "DOA-WSzOP.513.9.2021.AP",
+      "appellant_name": "Ferrum S.A.",
+      "appellant_address": "ul. Porcelanowa 11, 40-246 Katowice,",
+      "resolution_date": "2023-10-17",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "Utrzymanie w mocy zaskarżonej decyzji."
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Ferrum S.A.",
+        "address": "ul. Porcelanowa 11 40-246 Katowice",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

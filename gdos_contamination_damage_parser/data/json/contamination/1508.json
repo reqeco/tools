@@ -1,0 +1,67 @@
+{
+  "registry_id": 1508,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Bytom",
+    "municipality": "Bytom",
+    "address": "ul. Wawrzyńca Hajdy 1A",
+    "precinct": "obręb Dąbrowa, a. m. 2",
+    "parcel_numbers": [
+      "923/108",
+      "925/108"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((493708.33742799999890849 278218.37642400001641363, 493711.82976200000848621 278268.51016000000527129, 493715.83188299997709692 278294.86093099997378886, 493762.95690500002820045 278294.30734699999447912, 493818.87723899999400601 278359.20720399997662753, 493836.65147400001296774 278345.42616400000406429, 493886.4854300000006333 278306.99827300000470132, 493888.94699899997795001 278302.01807200000621378, 493876.25089199998183176 278286.88769900001352653, 493889.18099500000244007 278277.04951899999286979, 493863.65292999998200685 278241.14389700000174344, 493847.41858100000536069 278222.27330200001597404, 493809.25321699999039993 278193.45352300000376999, 493794.28497099998639897 278185.49951499997405335, 493760.03161499998532236 278168.15040799998678267, 493740.75505199999315664 278160.13438699999824166, 493723.11351300001842901 278157.02350800001295283, 493706.26014899997971952 278159.75861000001896173, 493708.33742799999890849 278218.37642400001641363))",
+    "site_description": "Działki o numerach ewidencyjnych: 923/108 oraz 925/108 (obręb Dąbrowa, a. m. 2)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Bytom",
+      "address": "ul. Parkowa 2 41-902 Bytom",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-08",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.32.2019",
+    "decisions": [
+      {
+        "issue_date": "2020-02-19",
+        "reference": "WSI.513.32.2019.TK.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-07-16",
+        "reference": "WSI.516.12.2024.AH.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

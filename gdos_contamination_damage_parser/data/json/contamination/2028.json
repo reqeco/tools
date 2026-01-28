@@ -1,0 +1,93 @@
+{
+  "registry_id": 2028,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0012,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Drwęcka",
+    "precinct": "3-02-12",
+    "parcel_numbers": [
+      "17/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641836.0003673995 489734.1461338913,641834.9420319472 489712.97942489386,641861.9295859656 489711.3919217214,641865.1045923198 489708.2169153718,641865.8983438996 489675.1439325623,641880.1858725 489675.93768414296,641878.0692015993 489735.46905321255,641836.0003673995 489734.1461338913))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Grapo Services sp. z o. o.",
+      "address": "ul. Arkuszowa 12, Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "17/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0012
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-06-25",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.22.2024.PBu",
+    "decisions": [
+      {
+        "issue_date": "2024-08-09",
+        "reference": "WOOŚ-IV.515.22.2024.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Grapo Services sp. z o. o.",
+        "address": "ul. Arkuszowa 12, Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-08-01",
+    "planned_end": "2024-12-31",
+    "actual_end": "2024-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex situ",
+    "ecological_effect": "Zawartość substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadziła remediacja jest zgodna z dopuszczalnymi zawartościami substancji powodujących ryzyko określonymi dla grupy I w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

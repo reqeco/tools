@@ -1,0 +1,59 @@
+{
+  "registry_id": 1679,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "tarnowski",
+    "municipality": "Skrzyszów",
+    "address": "Pogórska Wola 199 A",
+    "precinct": "0003 Pogórska Wola",
+    "parcel_numbers": [
+      "121608_2.0003.2329",
+      "121608_2.0003.2330"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((651511.3956594585 240142.0021579666,651513.2477464888 240080.35411800537,651545.7915616251 240021.35191666428,651572.5145317861 240039.07903545443,651594.2104085371 240002.30187856592,651677.5543253546 240052.8373963032,651597.1208310379 240154.43759950437,651511.3956594585 240142.0021579666))",
+    "site_description": "teren stacji demontażu i magazynowania pojazdów"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2022-02-10",
+    "description": "stwierdzenie zanieczyszczeń podczas kontroli WIOŚ"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi substancjami ropopochodnymi w związku z prowadzonym demontażem pojazdów samochodowych i magazynowaniem części samochodowych",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Krakowie, Delegatura w Tarnowie",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "170 - 670 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2023-02-23",
+    "detection_date": "2022-02-11",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,102 @@
+{
+  "registry_id": 588,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "Katowice ul. Ceglana",
+    "precinct": "0002 Dz. Bogucice-Zawodzie",
+    "parcel_numbers": [
+      "246901_1.0002.AR_66.101/2",
+      "246901_1.0002.AR_66.86/34"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((501205.134000 263956.136000,501176.360000 263927.029900,501147.497000 263897.965000,501214.931000 263875.962100,501214.983000 263871.584000,501215.104000 263869.484000,501156.409000 263858.299000,501110.454000 263846.922000,501103.944000 263854.096000,501100.667000 263851.921000,501094.083000 263845.363000,501089.484000 263840.778000,501079.476000 263830.778000,500974.715000 263726.257000,500999.123000 263701.894000,500994.785000 263695.856000,500971.585000 263688.112000,500957.577000 263681.714100,500949.704000 263675.133000,500911.719000 263704.406000,500873.755000 263733.648000,500829.482000 263668.931000,500785.658000 263604.868000,500783.566000 263606.125000,500782.104000 263603.626000,500781.521000 263602.635000,500779.357000 263605.252000,500742.687000 263649.808000,500738.991000 263667.057100,500766.307000 263688.058000,500736.297000 263715.055000,500728.661000 263744.069900,500723.085000 263760.495000,500718.773000 263770.577000,500713.847000 263778.878100,500660.068000 263846.530000,500659.232000 263847.580000,500652.217000 263855.800000,500643.790000 263862.388900,500633.511000 263867.964000,500623.450000 263871.876000,500612.962000 263874.526000,500603.806000 263876.697000,500602.930000 263876.909000,500594.884000 263877.596000,500597.517000 263891.323000,500624.123000 263968.190000,500625.090000 263971.025000,500631.046000 263971.735000,500621.010000 263936.580000,500696.021000 263921.342000,500702.986000 263922.028000,500712.864000 263923.814900,500779.813000 263885.739000,500795.791000 263876.650100,500846.473000 263888.702000,500868.612000 263927.641000,500883.734000 263943.339000,500896.616000 263956.698000,500923.838000 263963.298000,500932.592000 263965.430000,500955.566000 264007.006000,500966.987000 264006.853000,500979.977000 264000.003100,501003.951000 264022.158000,501003.575000 264029.169000,501044.731000 264018.792000,501120.880000 263996.063000,501217.854000 263964.170000,501210.616000 263958.801000,501205.134000 263956.136000))",
+    "site_description": "Zbiornik wodny w rejonie ul. Ceglanej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2012-10-30",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w chronionyh gatunkach w związku z prowadzeniem prac ziemnych w rejonie zbiornika wodnego przy ul. Ceglanej w Katowicach",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Górnośląskie Towarzystwo Przyrodnicze im. A. Czudka",
+      "address": "ul. Św. Huberta 35; Katowice",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "LC Corp Invest Xi Sp.zo.o.",
+      "address": "Wrocław Powstańców Śląskich 2-4",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "siedliska płazów"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2013-06-14",
+    "detection_date": "2012-10-30",
+    "decisions": [
+      {
+        "issue_date": "2014-01-22",
+        "reference": "WSI.512.1.2.2013.MMŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-10-11",
+        "reference": "WSI.512.1.14.2013.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2014-02-07",
+        "reason": "przedwczesne orzeczenie o szkodzie w środowisku",
+        "appealed_decision_reference": "WSI.512.1.2.2013.MMŁ",
+        "resolution_reference": "DOA-ks.512.8.2014.at.3",
+        "appellant_name": "LC Corp Invest XI Sp. z o.o.",
+        "appellant_address": "ul. Powstańców Śląskich 2-4; 53-333 Wrocław",
+        "resolution_date": "2015-03-23",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchylenie i przekazanie do ponownego rozpatrzenia"
+      },
+      {
+        "date": "2016-11-10",
+        "reason": null,
+        "appealed_decision_reference": "WSI.512.1.14.2013.SA",
+        "resolution_reference": "DOA-ks.512.8.2014.mg.4",
+        "appellant_name": "Górnośląskie Towarzystwo Przyrodnicze im. A. Czudka",
+        "appellant_address": "ul. Św. Huberta 35; 40-543 Katowice",
+        "resolution_date": "2017-01-12",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "Postanowienie stwierdzające niedopuszczalność odwołania"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

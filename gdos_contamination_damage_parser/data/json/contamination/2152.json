@@ -1,0 +1,49 @@
+{
+  "registry_id": 2152,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Starogard Gdański (gmina miejska)",
+    "address": "Działka nr 11/8 Starogard Gdański ul. Skarszewska 1 83-200 Starogard Gdański",
+    "precinct": "4 Starogard Gdański",
+    "parcel_numbers": [
+      "221303_1.0004.11/8"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Destylarnia Sobieski S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Destylarnia Sobieski S.A.",
+      "address": "ul. Skarszewska 1 83-200 Starogard Gdański",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

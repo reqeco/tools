@@ -1,0 +1,134 @@
+{
+  "registry_id": 1692,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "jasielski",
+    "municipality": "Skołyszyn",
+    "address": "Skołyszyn",
+    "precinct": "0012 Skołyszyn",
+    "parcel_numbers": [
+      "180509_2.0012.668",
+      "180509_2.0012.696/2",
+      "180509_2.0012.669/18",
+      "180509_2.0012.693/1",
+      "180509_2.0012.667/58",
+      "180509_2.0012.697/4",
+      "180509_2.0012.698/1",
+      "180509_2.0012.667/56",
+      "180509_2.0012.667/60"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((668371.831659677 211312.877154121,668371.676223718 211287.191134999,668333.474343412 211289.033126951,668305.381324536 211288.694377296,668259.466020993 211283.890310091,668213.866426903 211271.744126193,668203.53711256 211268.688612191,668200.504012827 211271.047946227,668189.956062281 211279.947471041,668119.342011962 211326.058819713,668087.058781376 211348.230011369,668063.877840838 211357.582869133,668063.92195506 211368.684843868,668096.696908188 211391.099975778,668105.571500728 211390.576463814,668108.355993867 211359.648445386,668117.318674364 211359.947339462,668118.651705991 211350.832209518,668178.905688099 211375.609884201,668183.114982516 211426.675767043,668145.65793518 211424.58730572,668134.533563419 211423.970772958,668125.546495368 211423.461211654,668123.4069646 211436.945161952,668128.749143189 211436.127483604,668121.260162026 211465.710021229,668118.64960649 211479.981473976,668192.494821597 211487.490164733,668196.44617032 211487.82550176,668266.303277766 211494.877870489,668289.757807142 211497.023145437,668339.079065632 211501.237981639,668340.825287081 211501.384533303,668339.625271469 211513.763453154,668338.748018281 211529.041186818,668353.783438077 211579.155577053,668354.366061971 211584.311481993,668353.00465703 211594.865967495,668347.139140721 211623.571730825,668337.405291534 211663.835233913,668309.906544921 211696.354680317,668295.67746039 211716.916928641,668305.019070427 211714.255718152,668316.144580017 211697.571031832,668341.186501601 211665.676148713,668351.135536053 211624.468311492,668356.437311872 211598.527724477,668357.04688735 211595.543753421,668357.952626082 211588.577385076,668358.495295845 211584.351540073,668357.815656743 211578.332986349,668342.881376158 211528.551315336,668343.532523505 211514.627653989,668347.350494255 211515.089445913,668442.265588601 211526.790022051,668450.489292534 211527.799278109,668487.137220854 211469.821775876,668471.984841419 211434.975372134,668473.059083459 211434.443963967,668470.902523414 211429.056091465,668442.519195904 211422.34912378,668427.073073638 211403.7760915,668428.119998251 211403.14394786,668398.818287342 211414.383819922,668408.248342486 211325.858671332,668407.225097517 211313.220475159,668395.507233466 211313.108165738,668371.831659677 211312.877154121)),((668120.034011567 211423.164270787,668092.233611858 211421.6032184,668114.542969719 211432.568601391,668118.762785063 211430.71093453,668120.034011567 211423.164270787)),((668111.275958152 211440.702115244,668107.24315419 211437.044368349,668089.254247143 211426.824188243,668071.677595601 211415.394909845,668067.882022454 211415.593764143,668076.759655924 211553.030270605,668092.31525689 211569.746072663,668094.624408427 211566.407376968,668111.275958152 211440.702115244)))",
+    "site_description": "Bz - tereny rekreacyjno-wypoczynkowe, W - grunty pod rowami"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2023-02-09",
+    "to": "2023-02-17",
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Gmina Skołyszyn)",
+  "land_owner": "jednostka samorządu terytorialnego (Gmina Skołyszyn)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "Zniszczenie stanowisk Pachnicy dębowej Osmoderma eremita, w efekcie wycinki drzew prowadzonych w latach 2023-2024 w parku podworskim w Skołyszenie oraz w innych chronionych gatunkach przez Wykonawcę - Park-M Poland Sp.‍ ‍z‍ ‍o.o. W odniesieniu do ptaków, wg sporządzonej w kwietniu 2023 r. ekspertyzy ornitologicznej, na terenie parku stwierdzono następujące gatunki ptaków objęte ochroną ścisłą: bogatka Parus major, cierniówka Sylvia communis, dzięcioł duży Dendrocopos major, dzięcioł zielony Picus viridis, gawron Corvus frugilegus, kapturka Sylvia atricapilla, kawka Corvus monedula, kos Turdus merula, kowalik Sitta europaea, kwiczoł Turdus pilaris, modraszka Cyanistes caeruleus, pełzacz leśny Certhia familiaris, pierwiosnek Phylloscopus collybita, pustułka Falco tinnunculus, rudzik Erithacus rubecula, szpak Sturnus vulgaris, strzyżyk Troglodytes troglodytes, śpiewak Turdus philomelos, uszatka Asio otus, zięba Fringilla coelebs. Ponadto, w zgłoszeniach zgromadzonych w aktach sprawy wskazywano na możliwą obecność na terenie parku: dzięcioła średniego Dendrocopos medius, dzięcioła zielonosiwego Picus canus i muchołówki białoszyjowej Ficedula albicollis. W korespondencji podnoszona była kwestia ewentualnego prawdopodobnego, zimowania oraz wykorzystywania kryjówek w starych drzewach na terenie parku przez nietoperze, które również należą do gatunków objętych ochroną. W przypadku mszaków na podstawie dokumentacji na drzewach w parku w‍ ‍Skołyszynie stwierdzono następujące gatunki mszaków objętych ochrona ścisłą: parzoch szerokolistny Porella platyphylla oraz objętych ochroną częściową: pędzliczek brodawkowaty Syntrichia papillosa, pędzliczek zielonawy Syntrichia virescens, miedzik płaski Frullania dilatata, szurpek porosły Orthotrichum lyellii, widłoząb miotłowy Dicranum scoparium, zwiślik maczugowaty Anomodon attenuatus i zwiślik wiciowy Anomodon viticulosus.",
+  "total_area_ha": 6.9,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Gmina Skołyszyn",
+      "address": "Skołyszyn 12 38-242 Skołyszyn",
+      "economic_activity_code": "81.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "pachnica dębowa (Osmoderma eremita)",
+    "dzięcioł średni (Dendrocopos medius)",
+    "dzięcioł zielonosiwy (Picus canus)",
+    "gawron (Corvus frugilegus)",
+    "parzoch szerokolistny (Porella platyphylla)",
+    "zwiślik długolistny (Anomodon longifolius)",
+    "bogatka (Parus major)",
+    "cierniówka (Sylvia communis)",
+    "dzięcioł duży (Dendrocopos major)",
+    "dzięcioł zielony (Picus viridis)",
+    "kapturka (Sylvia atricapilla)",
+    "kawka (Corvus monedula)",
+    "kos (Turdus merula)",
+    "kowalik (Sitta europaea)",
+    "kwiczoł (Turdus pilaris)",
+    "modraszka (Cyanistes caeruleus)",
+    "pierwiosnek (Phylloscopus collybita)",
+    "pustułka (Falco tinnunculus)",
+    "rudzik (Erithacus rubecula)",
+    "szpak (Sturnus vulgaris)",
+    "śpiewak (Turdus philomelos)",
+    "uszatka (Asio otus)",
+    "zięba (Fringilla coelebs)",
+    "miedzik płaski (Frullania dilatata)",
+    "szurpek porosły (Orthotrichum lyellii)",
+    "widłoząb miotlasty (Dicranum scoparium)",
+    "zwiślik maczugowaty (Anomodon attenuatus)",
+    "zwiślik wiciowy (Anomodon viticulosus)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-03-08",
+    "detection_date": "2023-02-20",
+    "decisions": [
+      {
+        "issue_date": "2024-07-30",
+        "reference": "WSI.512.2.1.2023.KT.86",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2024-08-12",
+        "reason": "Fundacja ToPole zarzuciła brak przeprowadzenia pełnej inwentaryzacji pachnicy dębowej na terenie parku.",
+        "appealed_decision_reference": "WSI.512.2.1.2023.KT.86",
+        "resolution_reference": null,
+        "appellant_name": "Fundacja ToPole",
+        "appellant_address": "ul. Janusza Kusocińskiego 1A/3, 24-100 Puławy",
+        "resolution_date": null,
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": null
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-02-01",
+    "planned_end": null,
+    "actual_end": "2024-04-01",
+    "method": "inne działania tj. działania zapobiegawcze, o których mowa w art. 6 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+    "description": "Działania zapobiegawcze - Ścięte drzewa z pachnicą dębową pozostawiono lub osadzono pionowo.",
+    "ecological_effect": "Pozostawiono topolę szarą G129, co da możliwość przeniesienia się dojrzałym osobnikom pachnicy dębowej na inne potencjalne stanowiska w parku, w zasięgu dyspersji (ok. 500‍ ‍m) przez okres kilku lat, zanim wskutek rozkładu kłoda przestanie istnieć. Zarazem działania zapobiegawcze podjęto w‍ ‍stosunku do stanowisk w‍ ‍wierzbach G533 oraz G359. Kłody ww. wierzb zawierające próchnowiska posadowiono pionowo, w pobliżu dziuplastej lipy drobnolistnej nr G1078 oraz zabezpieczono otwory w nich przed wysychaniem. Przeprowadzone przez tut. Organ oględziny 28‍ ‍maja 2024 r. potwierdzają powyższe, co więcej, stwierdzono zielone odrosty na wierzbach, co wskazuje na ich przyjęcie się na nowym miejscu.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": null,
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "Sprawa znak: WSI.512.2.1.2023.AL - podmiot przeprowadził działania zapobiegawcze"
+}

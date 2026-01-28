@@ -1,0 +1,169 @@
+{
+  "registry_id": 1669,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.11,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Siechnice",
+    "address": "ul. Radomierzycka",
+    "precinct": "Iwiny",
+    "parcel_numbers": [
+      "487/4",
+      "493"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((363605.51096909085754305 355027.65693438914604485, 363621.8782610084163025 355026.28585234365891665, 363625.64873663341859356 355013.68903605104424059, 363617.50793698854977265 355004.77700275561073795, 363606.28220274142222479 355005.11977326701162383, 363595.99908740050159395 355012.57503188913688064, 363605.51096909085754305 355027.65693438914604485)),((363466.34614147711545229 354996.55051048286259174, 363528.3876040339237079 354984.55354258517036214, 363544.84058857936179265 354959.53129525564145297, 363558.55140903388382867 354903.65970190335065126, 363537.64240784069988877 354882.06515968748135492, 363577.40378715889528394 354861.15615849429741502, 363615.79408443160355091 354812.82551639206940308, 363401.56251482939114794 354854.98628928977996111, 363400.53420329530490562 354861.49892900564009324, 363402.59082636353559792 354869.72542127838823944, 363466.34614147711545229 354996.55051048286259174)),((363630.01906065340153873 354898.00398846587631851, 363745.01856721588410437 354875.89529048290569335, 363735.76376340904971585 354833.73451758519513533, 363622.47810940339695662 354855.84321556816576049, 363630.01906065340153873 354898.00398846587631851)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Archicom Nieruchomości JN2 Sp. z o.o.",
+      "address": "ul. Traugutta 45, 50-416 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "213 - 615 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "33-99,8 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,142-0,214 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,106-2,63 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,108-0,66 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,115-2,96 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,11-4,3 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,107-4,62 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,273-1,75 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,3-3  mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,243-2,56 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,228-2,3 mg/kg s.m.",
+      "area_ha": 2.11
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "82,7  mg/kg s.m.",
+      "area_ha": 0.08
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-07-29",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.515.12.2022.NŁ",
+    "decisions": [
+      {
+        "issue_date": "2022-11-02",
+        "reference": "WSI.515.12.2022.NŁ.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Archicom Nieruchomości JN2 Sp. z o.o.",
+        "address": "ul. Traugutta 45, 50-416 Wrocław",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2023-03-01",
+    "planned_end": "2026-03-01",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

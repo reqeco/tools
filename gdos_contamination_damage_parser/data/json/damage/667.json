@@ -1,0 +1,48 @@
+{
+  "registry_id": 667,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Al.Solidarności 102",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635300.9326681532 487679.42011590675,635314.6910290167 487635.49919473566,635372.3703110996 487681.5367868049,635364.9619629419 487695.29514765367,635300.9326681532 487679.42011590675))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w powierzchni ziemi polegajaca na zanieczyszczweniu gruntu substancjami ropochodnymi na terenie Stacji Paliw nr 682 przy Al. Solidarności 102 w Warszawie.",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 682 w Wrszawie - PKN ORLEN S.A.",
+      "address": "Warszawa Al. Solidarności 102",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2013-11-04",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "registry_id": 1164,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "świdnicki",
+    "municipality": "Świdnica (gmina miejska)",
+    "address": "ul. Wokulskiego 14 58-100 Świdnica",
+    "precinct": "obręb 0003 Fabryczna",
+    "parcel_numbers": [
+      "1433",
+      "obęb Fabryczna"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((325272.67628972209058702 334517.55462912563234568, 325299.87697853869758546 334516.84106143284589052, 325393.89816102047916502 334496.33813360333442688, 325357.06244177324697375 334327.42060281801968813, 325268.45983846706803888 334304.2028999337926507, 325266.52037573850248009 334303.69736545719206333, 325269.54233550862409174 334408.94721856620162725, 325271.05437093204818666 334461.22171062976121902, 325272.67628972209058702 334517.55462912563234568))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie cynkiem w związku z eksploatacją instalacji IPPC",
+  "total_area_ha": 2.0496,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Ocynkownia Śląsk Sp. z o. o.",
+      "address": "ul. Wokulskiego 14 58-100 Świdnica",
+      "economic_activity_code": null
+    },
+    {
+      "name": "Antikor Sp. z o. o.",
+      "address": "ul. Wokulskiego 14 58-100 Świdnica",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "2760-3310 mg/kg s.m.",
+      "area_ha": 0.0184
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "693-2270 mg/kg s.m.",
+      "area_ha": 0.0184
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-06-07",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2019-11-13",
+        "reference": "WSI.511.3.2019.KMA.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2019-11-01",
+    "planned_end": "2019-10-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Metoda remediacji: ex-situ.",
+    "ecological_effect": "Usunięto zanieczyszczenia przynajmniej do osiągnięcia dopuszczalnej zawartości substancji powodujących ryzyko w glebie i ziemi",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

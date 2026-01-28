@@ -1,0 +1,121 @@
+{
+  "registry_id": 1257,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Wrotkowska 4",
+    "precinct": "0043 Wrotków",
+    "parcel_numbers": [
+      "066301_1.0043.AR_1.82/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((747878.7949627548 378598.46421351936,747947.5867694397 378635.3736623833,747964.5201371727 378604.28505855333,747947.9836451705 378591.717325069,747912.6616982829 378574.51937398687,747906.0471014803 378571.8735353518,747902.6075111664 378580.7370947525,747878.6626708203 378598.4642135184,747878.7949627548 378598.46421351936))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 4340"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1975-01-01",
+    "to": "2019-07-01",
+    "description": "podczas modernizacji podziemnych zbiorników magazynowych"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W trakcie prac polegających na odkrywaniu instalacji technologicznej na potrzeby modernizacji podziemnych zbiorników magazynowych na terenie Stacji Paliw Nr 4340 w Lublinie organoleptycznie stwierdzono występowanie zanieczyszczonych gruntów. Podjęto działania zapobiegawcze polegające na usunięciu wyeksploatowanej infrastruktury podziemnej i zanieczyszczonego gruntu oraz wypełnieniu wykopów gruntem spełniającym standardy jakości gleby i ziemi dla grupy gruntów I.",
+  "total_area_ha": 0.0115,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 04-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 04-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "407-1339 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1553->3000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">3000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "3,31-13,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,87-10,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "20,9-84,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "3,58-4,68 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2019-06-27",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2019-09-05",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach działań zapobiegawczych usunięto zanieczyszczone grunty, wykopy po wydobytych masach ziemnych wypełniono czystym gruntem.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

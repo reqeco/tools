@@ -1,0 +1,141 @@
+{
+  "registry_id": 1621,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0777,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Aleje Jerozolimskie",
+    "precinct": "2-02-03",
+    "parcel_numbers": [
+      "47",
+      "7/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634564.349461077 485680.58906852826,634597.422443919 485611.5326804202,634675.7392673115 485670.00571402814,634654.0433905601 485713.6620513378,634564.349461077 485680.58906852826))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Marvipol Aleje Jerozolimskie sp. z o.o.",
+      "address": "ul. Prosta 32, 00-838 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": 0.0777
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.0777
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.0777
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0777
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0777
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": 0.0777
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0777
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0777
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0777
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-05-10",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.24.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2022-06-22",
+        "reference": "WOOŚ-IV.515.24.2022.PBu",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Marvipol Aleje Jerozolimskie sp. z o.o.",
+        "address": "ul. Prosta 32, 00-838 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-07-01",
+    "planned_end": "2027-07-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

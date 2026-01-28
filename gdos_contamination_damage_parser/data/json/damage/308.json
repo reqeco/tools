@@ -1,0 +1,81 @@
+{
+  "registry_id": 308,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "giżycki",
+    "municipality": "Giżycko (gmina miejska)",
+    "address": "ul. Suwalska 23 11-500 Giżycko",
+    "precinct": null,
+    "parcel_numbers": [
+      "348"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((682907.8485881985 689450.7324944129,682916.844439574 689383.2636094745,683016.0633888795 689397.0219703317,683006.0092020454 689466.0783584407,682907.3194204641 689450.9970782725,682907.8485881985 689450.7324944129))",
+    "site_description": "Punkt skupu złomu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2010-07-29",
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie działki nr 348 przy ulicy Suwalskiej 23 w Giżycku w wyniku działalności firmy PHU (…)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Warmińsko-Mazurski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Łuczańska 5 11-500 Giżycko",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "P.H.U(…)",
+      "address": "(…)",
+      "economic_activity_code": "46.77.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "20200 mg/kg s.m.",
+      "area_ha": 0.0013
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-07-29",
+    "detection_date": "2010-06-29",
+    "decisions": [
+      {
+        "issue_date": "2010-08-24",
+        "reference": "RDOŚ-28-WSI-6650-009/10/jk",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2010-08-01",
+    "planned_end": "2010-09-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Działania naprawcze będą prowadzone metodą ex-situ, która polega na wymianie usunięciu zanieczyszczonego gruntu i zastąpieniu go gruntem wolnym od zanieczyszczeń. Prace będą prowadzone na powierzchni około 13 m2 i do głębokości około 0,30 m.",
+    "ecological_effect": "Osiągnięcie poziomu jakości gleby i ziemi odpowiadającego co najmniej standardom jakościowym przewidzianym dla gruntów grupy B, określonym w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359)",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

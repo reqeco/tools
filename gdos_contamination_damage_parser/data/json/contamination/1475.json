@@ -1,0 +1,200 @@
+{
+  "registry_id": 1475,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5095,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Bednarska 2/4 dzielnica Śródmieście Warszawa",
+    "precinct": "5-04-01",
+    "parcel_numbers": [
+      "35"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637870.38 488565.08,637877.96 488569.31,637878.24 488572.24,637886.94 488575.77,637890.35 488571.48,637910.56 488582.64,637908.60 488587.34,637945.41 488607.37,637937.96 488611.55,637930.50 488616.45,637911.01 488631.99,637865.62 488670.19,637835.23 488695.66,637803.48 488665.17,637861.34 488573.96,637863.08 488577.30,637870.38 488565.08))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Uniwersytet Warszawski",
+      "address": "Krakowskie Przedmieście 26/28 00-927 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "35"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.2875
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.2875
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.2875
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": 0.2875
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-08-11",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.53.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-11-25",
+        "reference": "WOOŚ-IV.515.53.2021.DŚc.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-08-08",
+        "reference": "WOOŚ-IV.515.53.2021.DŚc.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.155 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-11",
+        "reference": "WOOŚ-IV.515.53.2021.DŚc.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.155",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Uniwersytet Warszawski",
+        "address": "Krakowskie Przedmieście 26/28 00-927 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-12-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

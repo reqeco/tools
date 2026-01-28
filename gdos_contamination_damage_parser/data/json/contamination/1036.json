@@ -1,0 +1,293 @@
+{
+  "registry_id": 1036,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.2,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Karwińska 8, Wrocław",
+    "precinct": "Księże Małe",
+    "parcel_numbers": [
+      "8 AM-1",
+      "obręb Księże Małe"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((365301.81085162155795842 358888.4251199197024107, 365216.57176955678733066 358954.2367382263764739, 365270.13697913254145533 359038.45859171263873577, 365281.04607189720263705 359055.60618746839463711, 365347.35880279168486595 358990.52048367541283369, 365358.26021424145437777 358977.37207642942667007, 365345.25903794751502573 358957.80777887906879187, 365325.48949116334551945 358925.82091898377984762, 365301.81085162155795842 358888.4251199197024107)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Odlewnictwo żeliwa",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Napollo 14 Sp. z o.o.",
+      "address": "ul. Osmańska 12, 02-823 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "24,8-112 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "645-1150 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,15 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "225-1270 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "271-339 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "30,6-129 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,47 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,70-1,27 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,67-1,54 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,66-1,48 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,11-1,71 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,362-0,60 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,53-0,86 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,391-0,843 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "154->5000 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "115-3810 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "7,1-11,7 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "5,5-16,5 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,8-33,4 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,1-42 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "1,82-3,46 mg/kg s.m. ??? (norma do 5,0)",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,2-40,0 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,5-23,9 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,2-16,2 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "7,6-20,7 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "6,9-18,6 mg/kg s.m.",
+      "area_ha": 1.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "348-5500 mg/kg s.m.",
+      "area_ha": 1.2
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-01-16",
+    "legal_basis": "art. 101l ust. 4 Poś",
+    "case_reference": "WSI.515.4.2020.AS",
+    "decisions": [
+      {
+        "issue_date": "2020-06-25",
+        "reference": "WSI.515.4.2020.AS.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-03-30",
+        "reference": "WSI.515.3.2022.NŁ.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-12-05",
+        "reference": "DOA-WSzOP.515.5.2022.MBK",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 § 1 pkt 2 i art. 155 § 1 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2022-04-12",
+      "reason": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu odmówił zmiany decyzji znak: WSI.515.4.2020.AS.5 z dnia 25 czerwca 2020 r. ustalająca plan remediacji historycznego zanieczyszczenia powierzchni ziemi występującego na terenie działki oznaczonej nr ewid. 8, AM-1, obręb Księże Małe, przy ul. Karwińskiej 8 we Wrocławiu.",
+      "appealed_decision_reference": "WSI.515.3.2022.NŁ.2",
+      "resolution_reference": null,
+      "appellant_name": "NPark Karwińska Sp. z o.o. reprezentowany przez: (…)",
+      "appellant_address": "Remea Sp. z o.o. ul. Powązkowska 44C 01-797 Warszawa",
+      "resolution_date": null,
+      "reviewing_authority": null,
+      "resolution_content": null
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Napollo 14 Sp. z o.o.",
+        "address": "ul. Osmańska 12, 02-823 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-07-01",
+    "planned_end": "2021-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń",
+    "description": "Remediacja polegać będzie na zmniejszeniu ilości zanieczyszczeń w glebie i ziemi, poprzez zastosowanie metody ex-situ oraz in-situ z wykorzystaniem bioremediacji i dodatkowo zastosowana zostanie metoda stabilizacji, przy uwzględnieniu planowanego sposóbu zagospodarowania terenu.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

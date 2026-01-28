@@ -1,0 +1,81 @@
+{
+  "registry_id": 1664,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "gołdapski",
+    "municipality": "Gołdap",
+    "address": null,
+    "precinct": "0002 Gołdap",
+    "parcel_numbers": [
+      "2089"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((712419.9013519776 721215.4000105113,712423.401352142 721219.6000105143,712424.9013522101 721220.3000105154,712425.2013522185 721217.8000105154,712428.5013523665 721218.3000105144,712431.6013524703 721201.5000105212,712422.8013520752 721199.8000105126,712425.401352162 721185.400010515,712421.8013520006 721184.7000105102,712423.701352126 721205.2000105139,712422.201352084 721217.6000105133,712424.4013521832 721218.1000105124,712419.9013519776 721215.4000105113))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "W ramach czynności kontrolnych Inspekcja Ochrony Środowiska dokonała trzykrotnie (04.10.2022 r., 06.10.2022 r., 18.10.2022 r.) oględzin nieruchomości, podczas których potwierdzono nielegalny demontaż pojazdów"
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi w następstwie prowadzenia demontażu pojazdów.",
+  "total_area_ha": 0.019,
+  "reporters": [
+    {
+      "name": "Warmińsko-Mazurski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "Delegatura WIOŚ w Giżycku Łuczańska 5, 11-500 Giżycko",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "154,5 mg/kg s.m.",
+      "area_ha": 0.019
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2023-01-13",
+    "detection_date": "2022-10-04",
+    "decisions": [
+      {
+        "issue_date": "2024-03-26",
+        "reference": "WSI.512.10.2022.JJ.29",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15 ust. 1 pkt 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-04-01",
+    "planned_end": "2025-11-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja będzie prowadzona na podstawie art. 101q ust. 1 pkt 1 ustawy z dnia 27 kwietnia  2001 r. Prawo ochrony środowiska (Dz.U. z 2024 r. poz. 54 t.j.), tj. w sposób prowadzący do usunięcia zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodującej ryzyko. W przedziale 0-0,25 m ppt remediacja będzie prowadzona metodą in situ. W obrębie sekcji badawczej, na terenach biologicznie czynnych o powierzchni około 190 m2, remediacja będzie prowadzona z wykorzystaniem mikroorganizmów zdolnych do rozkładu substancji powodujących ryzyko z okresowym monitorowaniem stężenia substancji zanieczyszczającej, tj. sumy węglowodorów C12-C35, składników frakcji oleju. Remediacja in situ będzie polegała na wspomaganiu naturalnych procesów bioremediacyjnych, zachodzących w środowisku, poprzez napowietrzanie (spulchnianie) i aplikację biopreparatów na spulchnioną powierzchnię gruntu. Spulchnianie gleby będzie się odbywać dwa razy w roku, w kwietniu oraz w sierpniu, a następnie każdorazowo zostanie zaaplikowany biopreparat w ilości 1 dm3/m2. Jako biopreparat należy wykorzystać preparat zawierający wyselekcjonowane bakterie, substancje odżywcze, związki mineralne i posiadający atest higieniczny  wydany przez Narodowy Instytut Zdrowia Publicznego PZH – Państwowy Instytut Badawczy. Proces remediacji metodą in situ będzie trwał 2 lata i w związku z tym przewidziano czterokrotną (dwa razy w 2024 r. i dwa razy w 2025 r.) aplikację mikroorganizmów i pobór prób w celu oceny skuteczności prowadzonej remediacji. W każdym roku (począwszy od 2024 r.) nastąpi pobór dwóch uśrednionych próbek (15 próbek pojedynczych  na 1 próbkę uśrednioną) z przedziału 0-0,25 m ppt. Łącznie w trakcie 2-letnego okresu prowadzonej remediacji in situ zostaną pobrane 4 próbki, które zostaną poddane analizom laboratoryjnym pod kątem oceny skuteczności prowadzonej remediacji. Pierwszego poboru próby należy dokonać po upływie 3  miesięcy od pierwszej aplikacji biopreparatu, czyli w lipcu 2024 r., kolejnej po upływie 3 miesięcy od aplikacji zaplanowanej na sierpień, czyli w listopadzie 2024 r. Tożsame czynności powinny zostać przeprowadzone w 2025 r., we wskazanych powyżej miesiącach. Działania naprawcze mogą być prowadzone krócej niż 2 lata pod warunkiem wcześniejszego osiągnięcia efektu ekologicznego, co zostanie udokumentowane wynikami badań z kolejnych dwóch serii monitoringowych. Badania (pobór i analizy laboratoryjne) zostaną wykonane przez akredytowane laboratorium  w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z 2023 r. poz. 215 t.j.) lub własne laboratorium, pod warunkiem, że laboratorium to jest objęte systemem zarządzania jakością.",
+    "ecological_effect": "Osiągnięcie stężenia substancji powodującej ryzyko – suma węglowodorów C12-C35, składników frakcji oleju odpowiadającego co najmniej dopuszczalnej zawartości, określonej dla I grupy gruntów i głębokości 0-0,25 m ppt w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz.U. z 2016 r. poz. 1395).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

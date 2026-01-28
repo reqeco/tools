@@ -1,0 +1,84 @@
+{
+  "registry_id": 1989,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.13,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "dąbrowski",
+    "municipality": "Olesno",
+    "address": "Wielopole",
+    "precinct": "Wielopole",
+    "parcel_numbers": [
+      "120405_2.0011.1069/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635715.8682314936 257944.01506988052,635717.1911508146 257944.01506988239,635747.2214192289 257955.39217597153,635741.1359903845 257977.08805270214,635726.3192940727 257986.34848788194,635697.47965304 257983.43806540035,635715.8682314937 257948.77757941186,635715.8682314936 257944.01506988052))",
+    "site_description": "Teren na którym w przeszłości działała Wytwórnia Mas Asfaltowych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Pierwsze informacje o zanieczyszczeniu terenu pozostałościami mieszanek bitumicznych pojawiły się w pierwszej połowie lat 80-tych XX wieku"
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": "Produkcja pozostałych wyrobów z mineralnych surowców niemetalicznych, gdzie indziej niesklasyfikowana",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Olesno",
+      "address": "33-210 Olesno ul. Wł. Jagiełły 1",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "mg/kg s.m.1280",
+      "area_ha": 0.13
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-02-13",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.4.2024.APw",
+    "decisions": [
+      {
+        "issue_date": "2024-04-29",
+        "reference": "ZS.513.4.2024.APw",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Olesno",
+        "address": "33-210 Olesno ul. Wł. Jagiełły 1",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

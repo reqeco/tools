@@ -1,0 +1,73 @@
+{
+  "registry_id": 2096,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Czechowice-Dziedzice",
+    "address": "ul. Łukasiewicza 2",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "240204_4.0001.3762/159"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((501332.09679713501827791 226780.95212099800119177, 501295.8623456169734709 226728.84752319799736142, 501318.78685829497408122 226713.00072811899008229, 501323.2602314890245907 226715.69933890999527648, 501334.95101583300856873 226729.75470168198808096, 501355.79677058599190786 226761.80694256100105122, 501357.80700188601622358 226764.90822223201394081, 501334.36128045298391953 226779.89249998700688593, 501332.09679713501827791 226780.95212099800119177)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2006-03-31",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN OIL Sp. z o.o.",
+      "address": "80-718 Gdańsk ul. Elbląska 135",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-09-25",
+    "legal_basis": "art. 101c ust 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.614.2024",
+    "decisions": [
+      {
+        "issue_date": "2024-11-15",
+        "reference": "WSI.513.614.2024.MS2.3",
+        "issuing_authority": null,
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

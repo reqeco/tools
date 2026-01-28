@@ -1,0 +1,170 @@
+{
+  "registry_id": 2167,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Toruń",
+    "municipality": "Toruń",
+    "address": "ul. Batorego 42-44",
+    "precinct": "0048 Toruń",
+    "parcel_numbers": [
+      "169",
+      "170"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((474739.6699999998 573610.8499998869,474670.4499999997 573605.719999887,474664.0899999998 573703.0999998851,474679.96999999986 573720.2399998875,474704.6899999997 573732.849999886,474727.5399999998 573737.3799998872,474731.7299999998 573693.599999886,474734.43999999977 573667.1699998882,474738.59999999986 573621.9799998887,474739.6699999998 573610.8499998869))),MULTIPOLYGON(((474740.42999999976 573602.7999998871,474719.6599999997 573601.0799998865,474714.66999999987 573600.7399998885,474670.97999999986 573597.7099998873,474670.4499999997 573605.719999887,474739.6699999998 573610.8499998869,474740.42999999976 573602.7999998871)))",
+    "site_description": "Teren po dawnej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "lata 90- te XX wieku"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Pozostała działalność usługowa, gdzie indziej niesklasyfikowana"
+  },
+  "land_holders": [
+    {
+      "name": "Budlex Batorego II Sp. z o.o.",
+      "address": "ul. Targowa 16b/1 87-100 Toruń",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,591mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "4,73 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "25,8 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "29,9 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "6,41 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "37,2 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "70,9 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "17,2 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "27,1 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "25,9 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3010 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "750 mg/kg s.m.",
+      "area_ha": 0.01
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-02-28",
+    "legal_basis": "art.101e Prawo ochrony środowiska",
+    "case_reference": "WSS.513.4.2025.SG",
+    "decisions": [
+      {
+        "issue_date": "2025-04-09",
+        "reference": "WSS.513.4.2025.SG.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-04-15",
+        "reference": "WSS.515.5.2025.SG.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Budlex Batorego II Sp. z o.o.",
+        "address": "ul. Targowa 16b/1 87-100 Toruń",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2025-06-01",
+    "planned_end": "2025-12-01",
+    "actual_end": "2025-05-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Proces remediacji został przeprowadzony metodą ex-situ.",
+    "ecological_effect": "Na  podstawie  wyników  analiz  laboratoryjnych  próbek  gruntu  pobranych  po  przeprowadzeniu procesu remediacji metodą ex-situ stwierdza się, iż w glebie i ziemi występującej na  remediowanym obszarze  zgodnie z rozporządzeniem Ministra Środowiska  z  dnia  1  września  2016  roku  w sprawie  sposobu  prowadzenia  oceny zanieczyszczenia  powierzchni  ziemi,  nie  występują  przekroczenia  dopuszczalnych  wartości stężeń substancji powodujących ryzyko.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "WSS.513.4.2025.SG"
+}

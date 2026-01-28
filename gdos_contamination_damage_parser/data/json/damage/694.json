@@ -1,0 +1,102 @@
+{
+  "registry_id": 694,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "janowski",
+    "municipality": "Godziszów",
+    "address": "Zdziłowice Drugie",
+    "precinct": "0011 Zdziłowice Drugie",
+    "parcel_numbers": [
+      "060504_2.0011.1075/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((748802.2058577603 332738.0960863298,748833.1621707184 332752.1190310605,748845.9944884431 332732.6721171783,748812.3923367714 332715.2095822375,748802.3381496946 332737.9637944037,748802.2058577603 332738.0960863298))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 334 w Zdziłowicach Drugich"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2013-01-02",
+    "description": "2.01.2013 r. jest to data wyłączenia z eksploatacji Stacji Paliw PKN ORLEN S.A. Nr 334 w Zdziłowicach Drugich"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu środowiska gruntowego na terenie Stacji Paliw PKN ORLEN S.A. Nr 334 w Zdziłowicach Drugich.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "65 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "61 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2014-04-11",
+    "detection_date": "2013-10-16",
+    "decisions": [
+      {
+        "issue_date": "2014-08-22",
+        "reference": "WSI.511.6.2014.RSZ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2014-09-01",
+    "planned_end": "2014-12-31",
+    "actual_end": "2014-10-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Likwidację zanieczyszczenia wykonano metodą ex-situ, usuwając zanieczyszczone substancjami ropopochodnymi grunty i wypełniając wykopy gruntami czystymi.",
+    "ecological_effect": "Doprowadzono środowisko gruntowe w zakresie zawartości substancji ropopochodnych do standardów jakości gleby i ziemi określonych dla obszarów typu C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

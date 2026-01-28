@@ -1,0 +1,65 @@
+{
+  "registry_id": 1861,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "kłobucki",
+    "municipality": "Przystajń",
+    "address": "ul. Przemysłowa 4 42-141 Przystajń",
+    "precinct": "Przystajń",
+    "parcel_numbers": [
+      "11/17"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((476586.9330000001937151 336592.26099999994039536, 476636.05700000002980232 336596.73299999907612801, 476686.18499999959021807 336598.62299999967217445, 476685.69400000013411045 336564.64800000004470348, 476654.01699999999254942 336563.58799999952316284, 476626.39699999988079071 336563.1919999998062849, 476587.42200000025331974 336562.67100000008940697, 476586.9330000001937151 336592.26099999994039536)))",
+    "site_description": "Na terenie firmy ZAM-ART Sp. z o.o. z siedzibą przy ul. Przemysłowej 4 w miejscowości Przystajń (działka o nr ewid. 11/17), która prowadzi stację demontażu pojazdów wycofanych z eksploatacji, stwierdzono w pobranych próbkach gleby zanieczyszczenie."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2015-06-15",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na terenie firmy ZAM-ART Sp. z o.o. z siedzibą przy ul. Przemysłowej 4 w miejscowości Przystajń (działka o nr ewid. 11/17), która prowadzi stację demontażu pojazdów wycofanych z eksploatacji, stwierdzono w pobranych próbkach gleby zanieczyszczenie.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach",
+      "address": "Delegatura w Częstochowie ul. Rząsawska 24/28 42-200 Częstochowa",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "ZAM-ART Sp. z o.o.",
+      "address": "ul. Powstańców Śląskich 107 42-141 Przystajń",
+      "economic_activity_code": "38.31.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2015-07-28",
+    "detection_date": "2015-06-15",
+    "decisions": [
+      {
+        "issue_date": "2024-03-25",
+        "reference": "WSI.510.22.2015.MB.16",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

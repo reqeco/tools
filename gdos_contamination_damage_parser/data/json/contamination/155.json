@@ -1,0 +1,156 @@
+{
+  "registry_id": 155,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.267,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "gnieźnieński",
+    "municipality": "Gniezno (gmina wiejska)",
+    "address": "Pyszczynek",
+    "precinct": null,
+    "parcel_numbers": [
+      "51/1 obręb Pyszczyn",
+      "gmina Gniezno",
+      "51/2 obręb Pyszczyn",
+      "gmina Gniezno",
+      "52/1  obręb Pyszczyn",
+      "gmina Gniezno",
+      "52/2 obręb Pyszczyn",
+      "gmina Gniezno",
+      "53/1 obręb Pyszczyn",
+      "gmina Gniezno",
+      "53/2 obręb Pyszczyn",
+      "gmina Gniezno",
+      "54/1 obręb Pyszczyn",
+      "gmina Gniezno",
+      "54/2",
+      "obręb Pyszczyn",
+      "gmina Gniezno",
+      "55/1 obręb Pyszczyn",
+      "gmina Gniezno",
+      "55/2 obręb Pyszczyn",
+      "gmina Gniezno",
+      "56/1 obręb Pyszczyn",
+      "gmina Gniezno",
+      "56/2 obręb Pyszczyn",
+      "gmina Gniezno",
+      "57/2",
+      "obręb Pyszczyn",
+      "gmina Gniezno",
+      "37/7",
+      "obręb Pyszczynek",
+      "gmina Gniezno"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((404093.79146363004 523783.9243920725,403974.1995577628 523740.5326386094,404038.22885249247 523615.1198877925,404352.0253134667 523738.94513544533,404363.13783568784 523855.3620349439,404093.79146363004 523783.9243920725))",
+    "site_description": "Obszar drogi S5"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1990-01-01",
+    "to": "2007-04-30",
+    "description": "w latach 90 XX w. funkcjonowała w pobliżu garbarnia, zakończyła swoją działalnośc pod koniec lat 90, ale torf mając własciwości sorpcyjne mógł skumulować metale ciężkie"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Poznaniu",
+      "address": "ul. Siemiradzkiego 5a, 60-763 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "42.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Chrom (Cr)",
+      "concentration": "od 3,5 do 2800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Cynk (Zn)",
+      "concentration": "od 7,1 do 1400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Arsen (As)",
+      "concentration": "od 3 do 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Bar (Ba)",
+      "concentration": "od 20 do 1100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Cynk (Zn)",
+      "concentration": "od 7,1 do 1400 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Kadm (Cd)",
+      "concentration": "od 0,2 do 12 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Miedź (Cu)",
+      "concentration": "od 2,8 do 680 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-01-05",
+    "legal_basis": "art. 101l",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-03-01",
+        "reference": "WSS.511.1.2016.MP.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Poznaniu",
+        "address": "ul. Siemiradzkiego 5a, 60-763 Poznań",
+        "economic_activity_code": "42.11.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Nie dotyczy",
+    "ecological_effect": "nie dotyczy",
+    "effect_assessment": null
+  },
+  "notes": null
+}

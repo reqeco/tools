@@ -1,0 +1,101 @@
+{
+  "registry_id": 1360,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.049,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Klasyków Etap C",
+    "precinct": "4-04-05",
+    "parcel_numbers": [
+      "21/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634084.9367310768 498078.26125971787,634082.2908924539 498077.20292426925,634153.7285353936 497952.3193411678,634296.6038212928 498029.0486612851,634171.7202380688 498197.3239978375,634171.1910703483 498196.265662387,634084.9367310768 498078.26125971787))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "YIT DEVELOPMENT Sp. z o.o.",
+      "address": "ul. Twarda 18 00-078 Warszawa",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "21/6"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.049
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": 0.049
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-20",
+    "legal_basis": "art.101l ust.4",
+    "case_reference": "WOOŚ-IV.515.5.2020.MB.",
+    "decisions": [
+      {
+        "issue_date": "2020-07-30",
+        "reference": "WOOŚ-IV.515.5.2020.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-03-21",
+        "reference": "WOOŚ-IV.515.5.2020.MB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "YIT DEVELOPMENT Sp. z o.o.",
+        "address": "ul. Twarda 18 00-078 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-11-01",
+    "planned_end": "2023-06-30",
+    "actual_end": "2023-08-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "Zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "etap C sekcja 10"
+}

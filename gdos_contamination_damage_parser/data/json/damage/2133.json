@@ -1,0 +1,61 @@
+{
+  "registry_id": 2133,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "sławieński",
+    "municipality": "Darłowo (gmina wiejska)",
+    "address": "Dąbkowice",
+    "precinct": "Dąbki",
+    "parcel_numbers": [
+      "296"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((321607.32729190902318805 723314.88516085094306618, 321610.37705613300204277 723312.11267674097325653, 321618.73428281297674403 723281.79284365405328572, 321658.69515589502407238 723350.3057903399458155, 321665.15724623197456822 723353.40317076502833515, 321699.11184111697366461 723379.78357668605167419, 321703.2618858459754847 723384.8032160879811272, 321718.81650281097972766 723435.46774426603224128, 321714.54315874498570338 723438.6674720230512321, 321705.81332399498205632 723423.70572115399409086, 321689.53447224601404741 723403.02277862094342709, 321653.35061967297224328 723363.96768940205220133, 321607.32729190902318805 723314.88516085094306618))",
+    "site_description": "brzeg jeziora Bukowo na wysokości dz. 296"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "05.2025"
+  },
+  "land_surface_holder": "Skarb Państwa (Zarząd Zlewni w Koszalinie, PGW Wody Polskie)",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "niszczenie i uszkadzanie brzegu jeziora Bukowo wraz z roślinnością, na wysokości dz. nr 296 obręb ewidencyjny Dąbki",
+  "total_area_ha": 0.05,
+  "reporters": [
+    {
+      "name": "Zarząd Zlewni w Koszalinie, PGW Wody Polskie",
+      "address": "ul. Zwycięstwa 111 75-601 Koszalin",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PUH  (…)",
+      "address": "(…)",
+      "economic_activity_code": "43.99.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Laguny przybrzeżne",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-06-26",
+    "detection_date": "2025-05-28",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

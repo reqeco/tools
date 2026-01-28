@@ -1,0 +1,64 @@
+{
+  "registry_id": 2112,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "aleksandrowski",
+    "municipality": "Aleksandrów Kujawski (gmina wiejska)",
+    "address": null,
+    "precinct": "Przybranowo 29",
+    "parcel_numbers": [
+      "241/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((476498.16803867 552019.8231829582,476498.56491446984 552023.2627731683,476500.41700150975 552022.8658973798,476499.4909579899 552019.294015239,476498.16803866986 552019.4263071679,476498.16803867 552019.8231829582)))",
+    "site_description": "Teren prowadzenia demontażu pojazdów i zbierania odpadów"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-10-08",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wyciek do gruntu płynów eksploatacyjnych na skutek demontażu pojazdu poza stacja demontażu. Zbieranie odpadów na działce.",
+  "total_area_ha": 0.0002,
+  "reporters": [
+    {
+      "name": "KUJAWSKO-POMORSKI WOJEWÓDZKI INSPEKTORAT OCHRONY ŚRODOWISKA",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "osoba fizyczna",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "125 mg/kg s.m.",
+      "area_ha": 0.0002
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2025-05-09",
+    "detection_date": "2024-10-08",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSS.512.9.2025.SG"
+}

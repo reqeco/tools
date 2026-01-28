@@ -1,0 +1,192 @@
+{
+  "registry_id": 1178,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2009,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "kraśnicki",
+    "municipality": "Kraśnik (gmina miejska)",
+    "address": "w rejonie ul. Kolejowej",
+    "precinct": "0008 Stacja Kolejowa",
+    "parcel_numbers": [
+      "060701_1.0008.56/3"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "grunty przeznaczone pod budowę dróg publicznych lub linii kolejowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
+      "address": null,
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "060701_1.0008.56/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "335-380 mg/kg s.m.",
+      "area_ha": 0.2009
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "396-1250 mg/kg s.m.",
+      "area_ha": 0.156
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1230-21100 mg/kg s.m.",
+      "area_ha": 0.1916
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "15,2-31,9 mg/kg s.m.",
+      "area_ha": 0.0946
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "14,05-82,2 mg/kg s.m.",
+      "area_ha": 0.0946
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "13,1-54,7 mg/kg s.m.",
+      "area_ha": 0.1916
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "11,7-56,0 mg/kg s.m.",
+      "area_ha": 0.1916
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "14,3-68,3 mg/kg s.m.",
+      "area_ha": 0.1916
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "10,2-50,6 mg/kg s.m.",
+      "area_ha": 0.1916
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "12,8-63,5 mg/kg s.m.",
+      "area_ha": 0.1916
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,03-24,3 mg/kg s.m.",
+      "area_ha": 0.1916
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "25,6 mg/kg s.m.",
+      "area_ha": 0.0946
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,86-32,1 mg/kg s.m.",
+      "area_ha": 0.1916
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "760-1032 mg/kg s.m.",
+      "area_ha": 0.0946
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3290-5850 mg/kg s.m.",
+      "area_ha": 0.156
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-09-18",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.515.3.2020.SG",
+    "decisions": [
+      {
+        "issue_date": "2021-01-18",
+        "reference": "WSI.515.3.2020.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-03-11",
+        "reference": "WSI.515.1.2021.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-03-15",
+    "planned_end": "2021-09-30",
+    "actual_end": "2021-05-17",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediację należy przeprowadzić metodą ex situ poprzez usunięcie zanieczyszczonych gruntów do głębokości występowania zanieczyszczenia w następujących etapach: (a) z obszaru A o powierzchni 970,0 m2 na działce ewidencyjnej nr 56/3 – nasypy zalegające pod warstwą asfaltu na głębokości 0,25 – 0,8 m ppt, zanieczyszczone substancjami ropopochodnymi i barem, (b) z obszaru C o powierzchni 614,0 m2, w całości zawierającego się w granicach obszaru A, na działce ewidencyjnej nr 56/3 – grunty zanieczyszczone substancjami ropopochodnymi w przedziale głębokości 0,3 – 3,9 m ppt, (c) z obszaru D o powierzchni 93,0 m2 na działce ewidencyjnej nr 56/3 – grunty zanieczyszczone barem w przedziale głębokości 0,9 – 4,6 m ppt, (d) zabezpieczenie południowo-wschodniej granicy działki ewidencyjnej nr 57/3, w okolicy budynku zlokalizowanego na sąsiedniej działce, ścianką szczelną na długości ok. 20 mb do głębokości 8 m ppt, (e) z obszaru B o łącznej powierzchni 997,0 m2, na działkach ewidencyjnych nr: 56/3 (na powierzchni 946,0 m2), 57/1 (na powierzchni 44,0 m2), 57/3 (na powierzchni 7,0 m2) – nadkład ziemny z przedziału głębokości 0,25 – 0,3 m ppt, a następnie grunty zanieczyszczone substancjami ropopochodnymi i częściowo barem w przedziale głębokości 0,3 – 7,2 m ppt, (f) po uzyskaniu wyników badań laboratoryjnych próbek gruntów, potwierdzających usunięcie zanieczyszczenia w całości, zasypanie wykopów czystym kruszywem, spełniającym dopuszczalne zawartości substancji powodujących ryzyko dla grupy gruntów IV, z odpowiednim zagęszczeniem. Remediację należy przeprowadzić przy zachowaniu następujących warunków: (a) prace remediacyjne metodą ex situ powinny być prowadzone z zachowaniem zasad bezpieczeństwa oraz zdrowia i życia ludzi, w tym przepisów BHP, a teren prowadzonych prac remediacyjnych powinien być ogrodzony i zabezpieczony przed dostępem osób postronnych, (b) wydobyte, zanieczyszczone masy ziemne należy zagospodarować zgodnie z przepisami o odpadach, w tym przekazać do przetworzenia podmiotom posiadającym stosowne zezwolenia na prowadzenie gospodarowania odpadami, udzielone zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach (tekst jedn. Dz. U. z 2020 r., poz. 797, ze zm.).",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,78 @@
+{
+  "registry_id": 530,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.21,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Szczęsna, Cegielniana, Techników i Drukarzy",
+    "precinct": "2-08-11",
+    "parcel_numbers": [
+      "3/30",
+      "3/31",
+      "77"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((631620.7613834331 484318.9082202595,631595.3613326091 484261.75810595974,631623.9363897842 484248.52891282924,631686.3781813907 484254.8789255284,631699.6073745231 484282.39564722776,631620.7613834331 484318.9082202595))",
+    "site_description": "obecnie działka 3/31 i 77 (dawniej 3/30)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "VENTON Sp. zo.o.",
+      "address": "ul. Tyszkiewicza 13 lok.U4 01-157 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2013-11-15",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2014-03-10",
+        "reference": "WSI.511.1.2014",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.106 ust.2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "VENTON Sp. zo.o.",
+        "address": "ul. Tyszkiewicza 13 lok.U4 01-157 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2014-03-10",
+    "planned_end": "2014-09-30",
+    "actual_end": "2014-10-14",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "zgodny z rozporządzeniem MŚ, zgodny z projektem planu remediacji",
+    "effect_assessment": null
+  },
+  "notes": null
+}

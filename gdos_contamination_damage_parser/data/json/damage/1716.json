@@ -1,0 +1,124 @@
+{
+  "registry_id": 1716,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Pucka w Gdyni Chyloni",
+    "precinct": "010 Chylonia",
+    "parcel_numbers": [
+      "1356",
+      "1362/2",
+      "1363",
+      "1366",
+      "1367",
+      "1362/1",
+      "1369/1",
+      "1357",
+      "1358",
+      "1359",
+      "1360"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "nieruchomości położone są w przy ul. Puckiej w Gdyni - Chyloni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "zanieczyszczenie powstało po dacie wejścia w życie ustawy o zapobieganiu szkodom w środowisku i ich naprawie"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wystąpienie szkody nastąpiło ok. 2013 r.",
+  "total_area_ha": 0.2149,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.1074
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.1074
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.2149
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.2149
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.2149
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.2149
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.2149
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.2149
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.2149
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-08-12",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

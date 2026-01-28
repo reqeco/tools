@@ -1,0 +1,95 @@
+{
+  "registry_id": 1348,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2741,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Zaruby",
+    "precinct": "01-11-13",
+    "parcel_numbers": [
+      "83/11",
+      "83/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641809.0128127905 475567.66467602365,641838.1170377096 475530.62293527275,641928.3401349459 475555.49381835107,641908.2317613695 475593.85847841296,641850.5524792688 475579.5709498422,641809.0128127905 475567.66467602365))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Miasto Stołeczne Warszawa - Burmistrz Dzielnicy Ursynów",
+      "address": "Al. Komisji Edukacji Narodowej 61 02-777 Warszawa",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "83/11",
+        "83/14"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.2741
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": null,
+      "area_ha": 0.2741
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-05",
+    "legal_basis": "art.101l ust.4",
+    "case_reference": "WOOŚ-IV.515.18.2020.TM.3",
+    "decisions": [
+      {
+        "issue_date": "2020-09-09",
+        "reference": "WOOŚ-IV.515.18.2020.TM.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Miasto Stołeczne Warszawa - Burmistrz Dzielnicy Ursynów",
+        "address": "Al. Komisji Edukacji Narodowej 61 02-777 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-10-01",
+    "planned_end": "2021-08-30",
+    "actual_end": "2020-12-17",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

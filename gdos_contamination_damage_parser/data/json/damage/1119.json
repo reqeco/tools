@@ -1,0 +1,64 @@
+{
+  "registry_id": 1119,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "włocławski",
+    "municipality": "Fabianki",
+    "address": "Skórzno 37",
+    "precinct": null,
+    "parcel_numbers": [
+      "6/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((508087.38584796013 536858.6556175901,508082.3587545701 536826.1118025016,508170.20059692 536805.20967736,508175.75685803004 536840.6639149394,508087.38584796013 536858.6556175901))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-05-21",
+    "from": null,
+    "to": null,
+    "description": "nielegalny demontaż pojazdów stwierdzono podczas kontroli WIOŚ prowadzonej w dniach 21.05-19.07.2018. próby pobrano 2.07.2018"
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": 0.31,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Bydgoszczy Delegatura we Włocławku",
+      "address": "ul. Kopernika 2, 87-800 Włocławek",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "próba 623 - 500 mg/kg s.m., próba 625 - 1828 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2018-08-08",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "postępowanie znak: WSS.512.29.2018.SS"
+}

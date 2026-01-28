@@ -1,0 +1,290 @@
+{
+  "registry_id": 1912,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.7282,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Chorzów",
+    "municipality": "Chorzów",
+    "address": "rejon ul. 16 Lipca w Chorzowie",
+    "precinct": "0003",
+    "parcel_numbers": [
+      "246301_1.0003.AR_1.1951/64"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((495709.8 267758.16,495699.39 267727.86,495700.78 267727.42,495699.88 267725.33,495702.26 267724.49,495713.34 267720.59,495706.87 267722.02,495705.88 267717.25,495703.28 267716.76,495690.61 267714.49,495688.27 267727.88,495682.75 267726.92,495682.85 267726.37,495677.24 267725.37,495652.54 267733.29,495632.98 267729.71,495673.37 267846.2,495697.71 267837.88,495697.34 267836.8,495715.44 267830.97,495732.77 267824.79,495709.57 267758.24,495709.8 267758.16))",
+    "site_description": "działka o nr ew. 1951/64, a. m. 1, obręb 0003, położona w rejonie ul. 16 Lipca w Chorzowie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Trei Real Estate Poland Sp. z o.o.",
+      "address": "ul. Wspólna 47/49 00-684 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246301_1.0003.AR_1.1951/64"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-04",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096) oraz w związku z art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799 z późn. zm.),",
+    "case_reference": "WSI.513.18.2019",
+    "decisions": [
+      {
+        "issue_date": "2023-09-28",
+        "reference": "WSI.513.18.2019.MO.16",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-11-12",
+        "reference": "WSI.515.11.2024.MO.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Trei Real Estate Poland Sp. z o.o.",
+        "address": "ul. Wspólna 47/49 00-684 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-11-01",
+    "planned_end": "2026-12-31",
+    "actual_end": "2025-02-01",
+    "method": null,
+    "description": "Częściowe zwolnienie z przeprowadzenia remediacji na podstawie art. 101p ust.2. Remediacja metodą ex-situ obszaru R02 .",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

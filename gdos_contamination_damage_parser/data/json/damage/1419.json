@@ -1,0 +1,61 @@
+{
+  "registry_id": 1419,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "inowrocławski",
+    "municipality": "Inowrocław (gmina wiejska)",
+    "address": "miejscowość Dulsk 5",
+    "precinct": "0008",
+    "parcel_numbers": [
+      "33"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((456180.5999999912 543375.3299998557,456305.95999999135 543470.689999856,456455.1299999915 543595.439999856,456488.06999999157 543583.5499998564,456583.3499999918 543529.8599998578,456478.72999999166 543444.9599998565,456408.72999999154 543388.149999857,456387.5899999915 543369.6299998565,456339.3199999914 543327.3699998567,456249.82999999146 543249.0299998559,456180.5999999912 543375.3299998557)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "W toku kontroli przeprowadzonej przez Wójta Gminy Inowrocław w ramach postępowania w sprawie usunięcia odpadów z miejsca nieprzeznaczonego do ich składowania i magazynowania, tj. z terenu działki ewidencyjnej nr 33 w miejscowości Dulsk, gmina Inowrocław „stwierdzono znaczne zanieczyszczenie środowiska gruntowo-wodnego”. Decyzją z dnia 19 grudnia 2019 r., znak: GOŚ.I.6236.37.14.2019, Wójt Gminy Inowrocław nakazał posiadaczowi odpadów, ich usunięcie z terenu nieruchomości w miejscowości Dulsk 5",
+  "total_area_ha": 5.26,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Inowrocław",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    },
+    {
+      "water_type": "podziemne",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2019-12-18",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "postępowanie znak: WSS.512.29.2019.SS"
+}

@@ -1,0 +1,89 @@
+{
+  "registry_id": 1294,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "piotrkowski",
+    "municipality": "Aleksandrów",
+    "address": "Dąbrowa nad Czarną 63",
+    "precinct": "0005",
+    "parcel_numbers": [
+      "260/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((567954.8122158853 383410.93955578376,567956.8941553673 383412.315958865,567957.9991104698 383410.65651017986,567955.91744325 383409.2701171078,567954.8122158853 383410.93955578376))",
+    "site_description": "część działki rolnej w okolicach transformatora nasłupowego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "rok 2019"
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby na skutek rozszczelnienia transformatora i wycieku oleju",
+  "total_area_ha": 0.0005,
+  "reporters": [
+    {
+      "name": "PGE Dystrybucja S.A. Oddział w Łodzi",
+      "address": "ul. Tuwima 58 90-021 Łódź",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PGE Dystrybucja S.A. Oddział w Łodzi",
+      "address": "ul. Tuwima 58 90-021 Łódź",
+      "economic_activity_code": "35.12.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 300 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2020-06-01",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2021-02-09",
+        "reference": "WSI.511.1.2020.AK.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-01-31",
+        "reference": "WSI.511.2.2021.AK.PS.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2022-02-01",
+    "planned_end": "2022-06-01",
+    "actual_end": "2022-06-01",
+    "method": null,
+    "description": "usunięto zanieczyszczenie metodą exsitu",
+    "ecological_effect": "doprowadzono do standardów jakości gleby dla gruntów grupy III według Rozporządzenia Ministra Środowiska z 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395)",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

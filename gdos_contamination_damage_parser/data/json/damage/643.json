@@ -1,0 +1,76 @@
+{
+  "registry_id": 643,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "zielonogórski",
+    "municipality": "Czerwieńsk",
+    "address": "Czerwieńsk",
+    "precinct": null,
+    "parcel_numbers": [
+      "37",
+      "obręb1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((252195.99215532056 467763.07188903727,252194.1400682185 467763.0718890382,252195.99215532056 467763.07188903727))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2014-06-03",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszzeniu środowiska gruntowego węglowodorowymi frakcjami benzyn na terenie stacji paliw płynnych zlokalizowanych na terenie Jednostki Wojskowej 1517 w Czerwieńsku (działka 37, obreb 1)",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Zielonej górze",
+      "address": "Zielona Góra Chrobrego 7",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2014-06-05",
+    "detection_date": "2014-06-03",
+    "decisions": [
+      {
+        "issue_date": "2014-08-26",
+        "reference": "WSI-I.511.10.2014.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2015-05-01",
+    "planned_end": "2015-12-31",
+    "actual_end": "2015-03-21",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Rekultywacja została przeprowadzona metodą ex-situ, polegającą na usunięciu zanieczyszczonych gruntów.",
+    "ecological_effect": "Doprowadzenie gleby/ziemi do dopuszczalnych stężeń dla gruntów grypy „C”, zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359)",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

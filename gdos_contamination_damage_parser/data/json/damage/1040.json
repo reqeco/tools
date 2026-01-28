@@ -1,0 +1,129 @@
+{
+  "registry_id": 1040,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "ostrołęcki",
+    "municipality": "Myszyniec",
+    "address": "ul. Plac Wolności 60 Myszyniec",
+    "precinct": "0007",
+    "parcel_numbers": [
+      "640"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((655516.4923395864 615957.8694424108,655539.7757195537 615944.3756654197,655527.3402779736 615908.3922601203,655498.23605302 615929.5589691196,655516.4923395864 615957.8694424108))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-07-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda powstała w wyniku użytkowania stacji Paliw",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "legal_form": "podmiot korzystajcy ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN",
+      "address": "ul. Chemików 7  09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "120-240",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "57-7300",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1200",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "1,5",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "10",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "39-73",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2017-07-12",
+    "detection_date": "2017-06-06",
+    "decisions": [
+      {
+        "issue_date": "2017-08-23",
+        "reference": "WSI.511.6.2017.ES.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2017-08-25",
+    "planned_end": "2017-12-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "podmiot",
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

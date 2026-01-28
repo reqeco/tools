@@ -1,0 +1,79 @@
+{
+  "registry_id": 1096,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Energetyków 28",
+    "precinct": "0043 Wrotków",
+    "parcel_numbers": [
+      "066301_1.0043.AR_19.50/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((747819.5549953753 377164.52086237445,747817.9674921312 377158.70001739357,747810.0299759929 377161.34585600905,747812.6758147234 377167.16670099087,747819.0258276307 377166.6375332745,747819.5549953753 377164.52086237445))",
+    "site_description": "miejsce prowadzenia prac budowlanych"
+  },
+  "occurrence_time": {
+    "date": "2018-04-03",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W dniu 3 kwietnia 2018 r. podczas wykonywania wykopu pod ławę fundamentową przy użyciu koparki natrafiono na zbiornik stalowy niewiadomego pochodzenia, który został uszkodzony przez łyżkę koparki. Z uszkodzonego zbiornika do wykopu wyciekła woda z zawartością nieznanych materiałów ropopochodnych. Zbiornik nie był ujęty w Planie Zagospodarowania Terenu.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Przedsiębiorstwo Dystrybucji Farmaceutycznej Slawex Sp. z o.o.",
+      "address": "ul. Budowlana 28, 20-469 Lublin",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiębiorstwo Dystrybucji Farmaceutycznej Slawex Sp. z o.o.",
+      "address": "ul. Budowlana 28, 20-469 Lublin",
+      "economic_activity_code": "46.46.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2018-04-03",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2018-04-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach działań zapobiegawczych odpompowano ciecz, która wydostała się ze zbiornika - 1 Mg, usunięto stalowe zbiorniki i zanieczyszczony grunt - 1,75 Mg oraz wymieniono grunt.",
+    "ecological_effect": "Po przeprowadzeniu działań zapobiegawczych w pobranych próbach gruntu zawartość węglowodorów C12-C35 na głębokości do 0,25 m wyniosła < 30 mg/kg s.m., a na  głębokości > 0,25m - 137 mg/kg s.m.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

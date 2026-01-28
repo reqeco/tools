@@ -1,0 +1,105 @@
+{
+  "registry_id": 41,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.079,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "olkuski",
+    "municipality": "Wolbrom",
+    "address": "32-340 Wolbrom, ul. 1 Maja 100",
+    "precinct": null,
+    "parcel_numbers": [
+      "5173/34",
+      "5173/36",
+      "5173/37"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((555160.44599999999627471 278316.39399999898159876, 555202.69400000001769513 278318.58899999997811392, 555261.4529999999795109 278321.64899999997578561, 555258.26699999999254942 278473.18500000098720193, 555370.46699999994598329 278474.49300000100629404, 555376.39000000001396984 278474.6720000000204891, 555379.86800000001676381 278325.26289999997243285, 555386.22600000002421439 278277.66899999999441206, 555386.27199999999720603 278274.1120000000228174, 555384.69599999999627471 278273.96900000097230077, 555378.75399999995715916 278273.38000000099418685, 555376.28099999995902181 278273.14299999899230897, 555340.98499999998603016 278269.68500000098720193, 555316.78700000001117587 278267.31509999901754782, 555269.82600000000093132 278262.69309999997494742, 555265.95700000005308539 278262.31900000001769513, 555259.62699999997857958 278261.66899999999441206, 555249.33799999998882413 278260.63299999898299575, 555209.31999999994877726 278256.55699999997159466, 555204.69499999994877726 278256.06299999897601083, 555192.62300000002142042 278254.78900000097928569, 555183.75100000004749745 278253.84999999997671694, 555179.50500000000465661 278253.40599999902769923, 555171.15000000002328306 278252.55199999897740781, 555164.71999999997206032 278251.87900000100489706, 555160.44599999999627471 278316.39399999898159876))",
+    "site_description": "zanieczyszczony obszar zlokalizowany jest na terenie Przedsiębiorstwa Produkcyjnego Wyrobów Gumowych \"Wolmot\" w obrębie terenu byłych Zakładów \"Stomil\" w Wolbromiu . Podstawową działalnością firmy jest produkcja detali gumowych dla motoryzacji oraz węży gumowych. Przy południowej granicy obszaru Firmy w rejonie stwierdzonych zanieczyszczeń  usytuowanych jest siedem zbiorników  podziemnych , w których magazynowano m.in. benzynę ekstrakcyjną, dwuchloroetan, octan metylu naftę lotniczą i olej parafinowy. Użytkownikiem obiektów były Zakłady \"Stomil\" Wolbrom. Od roku 1992 zbiorniki nie były używane. W listopadzie  2005 roku zbiorniki były wypełnione wodą  a ich stan oceniono jako dobry."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2004-01-14",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pozostałych wyrobów z gumy",
+    "current": "Produkcja pozostałych wyrobów z gumy"
+  },
+  "land_holders": [
+    {
+      "name": "PPWG \"Wolmot\" sp.z o.o.",
+      "address": "ul. 1 Maja 100, 32-340 Wolbrom",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "22.19.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "węglowodory aromatyczne",
+      "concentration": "10,085-41,88 [mg/kg s.m.]",
+      "area_ha": 0.079
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "węglowodory alifatyczne",
+      "concentration": "3602,98 [mg/kg s.m.]",
+      "area_ha": 0.079
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "suma węglowodorów",
+      "concentration": "3644,86 [mg/kg s.m.]",
+      "area_ha": 0.079
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3519,22 [mg/kg s.m.]",
+      "area_ha": 0.079
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "125,64 [mg/kg s.m.]",
+      "area_ha": 0.079
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 3 ustawy",
+        "entity_type": "regionalny dyrektor ochrony środowiska",
+        "name": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "address": "ul. Mogilska 25",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

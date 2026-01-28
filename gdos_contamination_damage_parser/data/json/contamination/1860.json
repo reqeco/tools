@@ -1,0 +1,169 @@
+{
+  "registry_id": 1860,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Forteczna 14, 61-362 Poznań",
+    "precinct": "Starołęka, 0011",
+    "parcel_numbers": [
+      "19/9",
+      "19/11",
+      "19/18",
+      "19/20",
+      "35/11",
+      "37/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((359610.870093856 502215.77859517746,359570.38876283565 502094.59918614663,359655.3201828205 502103.5950374799,359744.74952845834 502175.297264209,359610.870093856 502215.77859517746))",
+    "site_description": "Teren po byłym zakładzie CENTRA S.A., produkcja akumulatorów"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja baterii i akumulatorów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "19/9",
+        "19/11",
+        "19/18",
+        "19/20",
+        "35/11",
+        "37/6"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "19/9",
+        "19/11",
+        "19/18",
+        "19/20",
+        "35/11",
+        "37/6"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-04-25",
+    "legal_basis": "art. 101c POŚ",
+    "case_reference": "WSS.513.7.2023.ASB",
+    "decisions": [
+      {
+        "issue_date": "2023-07-06",
+        "reference": "WSS.513.7.2023.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

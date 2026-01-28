@@ -1,0 +1,59 @@
+{
+  "registry_id": 1890,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "tarnogórski",
+    "municipality": "Radzionków",
+    "address": "ul. Nieznanego Żołnierza 26a",
+    "precinct": null,
+    "parcel_numbers": [
+      "241303_1.0001.AR_20.2108/47"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((493392.12258693599142134 279729.62800750101450831, 493444.9770032599917613 279645.28612640197388828, 493470.04786264197900891 279660.55990904802456498, 493484.29650393198244274 279669.25313372298842296, 493508.02722670900402591 279683.715418188017793, 493454.95097461302066222 279767.91036421497119591, 493392.12258693599142134 279729.62800750101450831)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2024-03-21",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2024-10-04",
+        "reference": "WSI.512.8.2024.MS2.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

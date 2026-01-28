@@ -1,0 +1,396 @@
+{
+  "registry_id": 736,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.27,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Świnoujście",
+    "municipality": "Świnoujście",
+    "address": "dz. nr 347/3 obręb 0010 Świnoujście ul. Steyera 26 Świnoujście (nowy podział działek 347/4, 347/5, 347/6, 347/7)",
+    "precinct": "0010 Miasto Świnoujście",
+    "parcel_numbers": [
+      "347/4",
+      "347/5",
+      "347/6",
+      "347/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((187802.34410799999022856 681165.88359700003638864, 187806.35318899998674169 681164.65923500002827495, 187798.42880600001080893 681147.72748899995349348, 187787.70250499999383464 681150.68316400004550815, 187783.2874209999863524 681150.28746899997349828, 187772.58890500001143664 681152.80173900001682341, 187682.05305399998906069 681180.73974200000520796, 187682.33677600001101382 681181.57247100002132356, 187676.01277999999001622 681183.41247800004202873, 187668.72677499998826534 681186.02017300005536526, 187669.27414100000169128 681187.81585599994286895, 187662.74839399999473244 681190.08877699996810406, 187652.88391800000681542 681213.25465400004759431, 187651.06829799999832176 681225.79265299998223782, 187656.43979599999147467 681249.68316500005312264, 187650.58469300001161173 681252.17020499997306615, 187650.05119599998579361 681254.18732000002637506, 187650.23313000000780448 681256.6087050000205636, 187653.26302700000815094 681268.54140999994706362, 187656.94960699998773634 681281.46108399995137006, 187658.45936700000311248 681281.04504100000485778, 187659.75440400000661612 681285.87231300002895296, 187658.27461299998685718 681286.28666199999861419, 187660.77408699999796227 681295.22478399996180087, 187661.28008999998564832 681303.11309999995864928, 187668.15819099999498576 681318.59824399999342859, 187686.36288100000820123 681355.30169300001580268, 187722.78944799999590032 681335.56286399997770786, 187728.75033899999107234 681318.73933600005693734, 187776.48677499999757856 681305.09016599995084107, 187793.52530999999726191 681303.44798499997705221, 187814.82614799999282695 681299.27325299999210984, 187816.31948599999304861 681298.99086699995677918, 187802.34410799999022856 681165.88359700003638864))",
+    "site_description": "Teren po byłej klasycznej gazowni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-07-30",
+    "description": "koniec XIX do 1993"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": "Dystrybucja paliw gazowych w systemie sieciowym"
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "address": "ul.  W. Bandrowskiego 16, 33-100 Tarnów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "347/4",
+        "347/6",
+        "347/5",
+        "347/7"
+      ],
+      "economic_activity_code": "35.22.Z"
+    },
+    {
+      "name": "Miasto Świnoujście",
+      "address": "Wojska Polskiego 1/5 72-600 Świnoujście",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "232 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "508 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,89 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "22,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "20,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "3,05 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "16,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "23,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "8,13 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "10,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,29 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki wolne",
+      "concentration": "1,19 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1091 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "5,41 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "268 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "7,01 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "20,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "28,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "27,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "20,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "27,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "11 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "14,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "13,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "11,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "540 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "103 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3729 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "2228 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "1384 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "1077 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "667 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "686 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "458 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "386 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "290 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "37,50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "45,50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "253 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-22",
+    "legal_basis": "61 kpa",
+    "case_reference": "WONS-NS.513.3.2019.AS",
+    "decisions": [
+      {
+        "issue_date": "2019-04-09",
+        "reference": "WONS-NS.513.3.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-07-28",
+        "reference": "WONS.515.5.2022.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-28",
+        "reference": "WONS.515.14.2023.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-05-20",
+        "reference": "WONS.515.5.2022.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+        "address": "ul.  W. Bandrowskiego 16, 33-100 Tarnów",
+        "economic_activity_code": "35.22.Z"
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Miasto Świnoujście",
+        "address": "Wojska Polskiego 1/5 72-600 Świnoujście",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-07-01",
+    "planned_end": "2028-11-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zmniejszenie ilości zanieczyszczeń, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "1. Kontrolowane wydobycie i usunięcie zanieczyszczonych gruntów (ex situ)  2. Samooczyszczanie powierzchni ziemi (bioremediacja) z kontrolowaniem zanieczyszczenia poprzez okresowe prowadzenie badań.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Podział działki nr 347/6 na działkę nr 347/9 (Miasto Świnoujście) oraz 347/10 )PSG. W dniu 25.05.2025 r. pełnomocnik Gminy Miasto Świnoujście przedłożył dokumenty, z których wynika, że działka nr 347/9 jest wolna od zanieczyszczeń (sprawa w teczce WONS. 515.2.2024.AS)"
+}

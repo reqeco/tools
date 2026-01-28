@@ -1,0 +1,321 @@
+{
+  "registry_id": 2098,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Zabrze",
+    "municipality": "Zabrze",
+    "address": null,
+    "precinct": "0011",
+    "parcel_numbers": [
+      "247801_1.0011.AR_3.1667/16",
+      "247801_1.0011.AR_3.1668/16",
+      "247801_1.0011.AR_3.1671/20",
+      "247801_1.0011.AR_3.1672/20",
+      "247801_1.0011.AR_3.1674/19",
+      "247801_1.0011.AR_3.1676/3",
+      "247801_1.0011.AR_3.1678/15"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((485977.69435786601388827 269849.69079795898869634, 485992.49974994198419154 269884.21215216798009351, 486007.96083739999448881 269920.67358638002770022, 485990.37848912499612197 269900.40140976599650458, 485957.49401349102845415 269857.73762479901779443, 485942.57277280901325867 269840.63787727197632194, 485927.8249023340176791 269825.28480213397415355, 485922.71729901398066431 269820.0364265670068562, 485928.72161515598418191 269814.6588203189894557, 485930.60128595301648602 269816.20268281997414306, 485957.26928813999984413 269802.30229736701585352, 485962.91472252097446471 269815.59885072702309117, 485969.71299709199229255 269831.38849017897155136, 485977.69435786601388827 269849.69079795898869634)),((485928.72161515598418191 269814.6588203189894557, 485940.06839908799156547 269804.48217068199301139, 485953.65812609897693619 269793.87562987202545628, 485957.26928813999984413 269802.30229736701585352, 485930.60128595301648602 269816.20268281997414306, 485928.72161515598418191 269814.6588203189894557)),((485835.13813536200905219 269844.65912320697680116, 485830.63929032400483266 269786.50276564399246126, 485866.40727954998146743 269802.01332001999253407, 485893.38758983701700345 269820.30036230897530913, 485921.07213309098733589 269838.18816839199280366, 485944.91779650398530066 269864.18292498297523707, 485958.82566341297933832 269885.45390633400529623, 485972.18500013399170712 269914.99753323901677504, 485978.60421851498540491 269950.19118441001046449, 485944.2006926640169695 269975.25913985201623291, 485938.43035610497463495 269979.45427889900747687, 485880.93528925499413162 269902.21091760601848364, 485876.7805683389888145 269903.9157695840112865, 485835.13813536200905219 269844.65912320697680116)),((485922.71729901398066431 269820.0364265670068562, 485911.93732461502077058 269805.43960437999339774, 485892.75930883700493723 269792.86446672299643978, 485879.22572675999253988 269783.09188775002257898, 485854.79171303199836984 269768.35860186099307612, 485838.04079861397622153 269755.67091462999815121, 485832.44712320901453495 269751.43848874198738486, 485837.64926042599836364 269740.65474645397625864, 485911.35869057098170742 269804.02818493300583214, 485921.56601632898673415 269808.72835179301910102, 485928.72161515598418191 269814.6588203189894557, 485922.71729901398066431 269820.0364265670068562)),((485866.40727954998146743 269802.01332001999253407, 485830.63929032400483266 269786.50276564399246126, 485819.61909104202641174 269783.04281180497491732, 485809.10334696801146492 269779.93587831198237836, 485785.85822105000261217 269774.10153756098588929, 485755.7081353300018236 269731.88073721597902477, 485790.77544776501599699 269736.14712869998766109, 485819.00629940698854625 269743.36369239800842479, 485832.44712320901453495 269751.43848874198738486, 485838.04079861397622153 269755.67091462999815121, 485854.79171303199836984 269768.35860186099307612, 485879.22572675999253988 269783.09188775002257898, 485892.75930883700493723 269792.86446672299643978, 485911.93732461502077058 269805.43960437999339774, 485922.71729901398066431 269820.0364265670068562, 485927.8249023340176791 269825.28480213397415355, 485942.57277280901325867 269840.63787727197632194, 485957.49401349102845415 269857.73762479901779443, 485990.37848912499612197 269900.40140976599650458, 486007.96083739999448881 269920.67358638002770022, 486010.51043500599917024 269926.70588352100457996, 486010.51486323098652065 269927.03563570597907528, 485978.60421851498540491 269950.19118441001046449, 485972.18500013399170712 269914.99753323901677504, 485958.82566341297933832 269885.45390633400529623, 485944.91779650398530066 269864.18292498297523707, 485921.07213309098733589 269838.18816839199280366, 485893.38758983701700345 269820.30036230897530913, 485866.40727954998146743 269802.01332001999253407)),((485809.10334696801146492 269779.93587831198237836, 485819.61909104202641174 269783.04281180497491732, 485830.63929032400483266 269786.50276564399246126, 485835.13813536200905219 269844.65912320697680116, 485812.41675410000607371 269812.33286801201757044, 485785.85822105000261217 269774.10153756098588929, 485809.10334696801146492 269779.93587831198237836)),((485854.0292175660142675 269713.80998408899176866, 485840.79956481599947438 269726.67040020902641118, 485841.47367837000638247 269724.77242599602323025, 485853.58766071498394012 269712.18684346100781113, 485854.0292175660142675 269713.80998408899176866)),((485841.47367837000638247 269724.77242599602323025, 485840.79956481599947438 269726.67040020902641118, 485837.64926042599836364 269740.65474645397625864, 485832.44712320901453495 269751.43848874198738486, 485819.00629940698854625 269743.36369239800842479, 485790.77544776501599699 269736.14712869998766109, 485755.7081353300018236 269731.88073721597902477, 485753.64791975700063631 269728.80017670098459348, 485770.37708603497594595 269714.5635236999951303, 485849.80196775699732825 269698.20568946399725974, 485853.58766071498394012 269712.18684346100781113, 485841.47367837000638247 269724.77242599602323025)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-07-18",
+    "legal_basis": "art. 101c ust 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.590.2024.MS2",
+    "decisions": [
+      {
+        "issue_date": "2024-10-17",
+        "reference": "WSI.513.590.2024.MS2.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-11-15",
+        "reference": "WSI.515.6.2024.MS2.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": null,
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2025-05-04",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

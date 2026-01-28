@@ -1,0 +1,108 @@
+{
+  "registry_id": 1416,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "chełmiński",
+    "municipality": "Unisław",
+    "address": "Raciniewo  dz. ew. 1165/1, 1165/2",
+    "precinct": "0009 Unisław",
+    "parcel_numbers": [
+      "1165/1",
+      "1165/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((458290.56850240345 592972.8918275628,458328.66857861343 593018.9294196311,458285.80599288334 593050.6794831296,458363.06448073336 593128.9963064287,458421.8020982035 593084.546217531,458309.61854051333 592957.0167958112,458290.56850240345 592972.8918275628)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2020-11-13",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Pożar na składowisku opon",
+  "total_area_ha": 1.0,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "50,6-2837 mg/kg s.m.",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,19-0,66 mg/kg s.m.",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,20-0,68 mg/kg s.m.",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,20-0,68 mg/kg s.m.",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,12 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "433-1863 mg/kg s.m.",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,13-0,20 mg/kg s.m.",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,28-0,43 mg/kg s.m.",
+      "area_ha": 1.0
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2020-12-03",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSS.512.29.2020.BW"
+}

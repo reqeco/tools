@@ -1,0 +1,76 @@
+{
+  "registry_id": 1893,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "będziński",
+    "municipality": "Sławków",
+    "address": "ul. Fabryczna Sławków",
+    "precinct": "0001 Sławków",
+    "parcel_numbers": [
+      "240108_1.0001.2110/61"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((528243.17 271129.29,528232.55 271173.08,528229.76 271190.97,528230.57 271209.06,528232.38 271216.15,528245.58 271240.73,528263.7 271232.86,528290.43 271145.35,528243.17 271129.29))",
+    "site_description": "Dawny teren Zakładów Wyrobów z Drutu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Lata 60-90 XIX w."
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Odlewnictwo żeliwa",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polland Alloys Sp. z o.o.",
+      "address": "ul. Porcelanowa 25; 40-241 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "240108_1.0001.2110/61"
+      ],
+      "economic_activity_code": "--"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2023-05-09",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.232.2023",
+    "decisions": [
+      {
+        "issue_date": "2023-09-05",
+        "reference": "WSI.513.232.2023.MB1.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-02-21",
+        "reference": "WSI.516.21.2023.AH",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101f ust. 1, art. 101m ust. 1 pkt 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-07-03",
+        "reference": "WSI.516.21.2023.AH.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

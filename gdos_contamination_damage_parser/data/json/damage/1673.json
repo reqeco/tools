@@ -1,0 +1,74 @@
+{
+  "registry_id": 1673,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": null,
+    "precinct": "Dąbrowa",
+    "parcel_numbers": [
+      "673/5",
+      "obręb Dąbrowa"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((301057.176395157 407698.8696693247,301056.8526579216 407694.7821229184,301124.1241644871 407720.1392066274,301122.325706937 407722.0398983797,301057.176395157 407698.8696693247)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2022-10-15",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Do zdarzenie doszło w wyniku awarii rurociągu przebiegającego w obrębie działki ewid. nr 673/5 obręb Dąbrowa, gmina Polkowice, należącego do KGHM Polska Miedź S.A. Oddział Zakład Hydrotechniczny, skutkującej wyciekiem odpadów poflotacyjnych na ww. działkę oraz na działkę ewid. nr 689 obręb Dąbrowa, gmina Polkowice.",
+  "total_area_ha": 0.07,
+  "reporters": [
+    {
+      "name": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Lubin",
+      "address": "ul. Spółdzielcza 18, 59-300 Lubin.",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. Polkowicka 52, 59-305 Rudna",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2022-10-28",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2024-03-26",
+        "reference": "WSI.512.51.2022.ŁJ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-02-08",
+        "reference": "WSI.511.2.2023.ŁJ.5",
+        "issuing_authority": null,
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSI.512.51.2022.ŁJ  >> WSI.511.2.2023.ŁJ"
+}

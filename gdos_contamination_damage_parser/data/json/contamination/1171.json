@@ -1,0 +1,164 @@
+{
+  "registry_id": 1171,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.24,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Ibn Siny Awicenny",
+    "precinct": "Oporów AM-19",
+    "parcel_numbers": [
+      "4",
+      "obręb Oporów",
+      "AM-19"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((356615.67843984480714425 359662.35255343001335859, 356631.97503572091227397 359658.99668161105364561, 356652.75426739687100053 359667.30837428144877777, 356662.72829860128695145 359680.19149792054668069, 356690.57246904709609225 359671.87980525015154853, 356682.6409886518958956 359654.45126994699239731, 356652.75426739687100053 359644.45121943787671626, 356647.75635561643866822 359626.2200721949338913, 356640.70231302478350699 359628.65900336415506899, 356608.28671161032980308 359642.37329627032158896, 356615.67843984480714425 359662.35255343001335859)),((356635.7152974225464277 359571.30832393851596862, 356673.53349907277151942 359616.19146435859147459, 356701.37766951858066022 359631.15251116530271247, 356725.04540947102941573 359637.37950975418789312, 356743.81015965098049492 359578.38692987704416737, 356758.7283489442197606 359533.4901222882908769, 356769.11796478217002004 359498.16542843915522099, 356738.32797909574583173 359486.98422934859991074, 356715.46134641044773161 359501.86473151500103995, 356676.05693450110265985 359557.23699800542090088, 356635.7152974225464277 359571.30832393851596862)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "7R Projekt   21 Sp. z o.o.",
+      "address": "ul. Ludwinowska 7,  30-331 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "65mg/kg s.m.",
+      "area_ha": 1.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,22mg/kg s.m.",
+      "area_ha": 1.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,58mg/kg s.m.",
+      "area_ha": 1.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "4,7mg/kg s.m.",
+      "area_ha": 1.24
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "4,0mg/kg s.m.",
+      "area_ha": 1.24
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "4,6mg/kg s.m.",
+      "area_ha": 1.24
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,5mg/kg s.m.",
+      "area_ha": 1.24
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,6mg/kg s.m.",
+      "area_ha": 1.24
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "2,7mg/kg s.m.",
+      "area_ha": 1.24
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "2,2mg/kg s.m.",
+      "area_ha": 1.24
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,51mg/kg s.m.",
+      "area_ha": 1.045
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-03-20",
+    "legal_basis": "art.61 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.10.2020.JS",
+    "decisions": [
+      {
+        "issue_date": "2020-07-14",
+        "reference": "WSI.515.10.2020.JS.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-01-05",
+        "reference": "WSI.515.21.2020.JS.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art.155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "7R Projekt   21 Sp. z o.o.",
+        "address": "ul. Ludwinowska 7,  30-331 Kraków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-02-01",
+    "planned_end": "2020-12-31",
+    "actual_end": "2021-02-18",
+    "method": null,
+    "description": "Prace remediacyjne przeprowadzono metodą ex situ, poprzez wydobycie zanieczyszczonego gruntu w ilości 3100 m3 i przekazanie go uprawnionemu podmiotowi.",
+    "ecological_effect": "Zgodnie z Rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczeń powierzchni ziemi (Dz. U. z 2016 r., poz.1395) badane parametry tj. suma węglowodorów C12-C35, składników frakcji oleju,  wielopierścieniowe węglowodorów aromatyczne WWA, nie przekraczają dopuszczalnych zawartości substancji powodujących ryzyko dla I grupy gruntów.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "WSI.515.10.2020.JS sprawozdanie WSI.501.18.2021.JS"
+}

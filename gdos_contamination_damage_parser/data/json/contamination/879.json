@@ -1,0 +1,411 @@
+{
+  "registry_id": 879,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.2466,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Stoczniowa 2 82-300 Elbląg",
+    "precinct": "0012",
+    "parcel_numbers": [
+      "90/64",
+      "90/59"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((525552.5530437703 699982.0046988325,525576.3655913902 699982.0046988325,525575.0426720803 699995.233891963,525593.5635424503 699997.8797305813,525586.9489458902 699985.973456772,525610.7614935202 699985.973456772,525655.7407501404 699963.4838284627,525670.2928625803 699967.4525863919,525700.7200067702 699954.2233932726,525739.0846668303 699925.1191683924,525826.3973414503 699939.6712808311,525875.3453560203 699946.2858773926,525870.0536787703 699993.9109726427,525848.8869697703 699984.650537462,525825.0744221404 699988.619295394,525858.1474049602 700136.786258392,525875.3453560204 700238.6510454621,525866.0849208303 700320.6720428308,525822.4285835203 700314.0574462712,525782.7410041402 700318.0262042135,525754.9596985803 700409.3076367732,525671.6157818903 700393.4326050235,525711.3033612703 700246.5885613319,525740.4075861403 700213.5155785233,525732.4700702702 700056.0881803334,525654.4178308302 700056.0881803334,525631.9282025202 700077.2548893318,525634.5740411403 700091.8070017733,525576.3655913902 700101.0674369624,525575.0426720802 700077.2548893308,525536.6780120202 700073.2861313913,525552.5530437704 699983.3276181435,525552.5530437703 699982.0046988325))",
+    "site_description": "Obecnie na terenie nieruchomości nr 90/64 i 90/59 obręb 0012 miasta Elbląga funkcjonuje Zakład Turbin, który - wraz z Zakładem Metalurgicznym znajdującym się przy ul. Dolnej 5 w Elblągu - wchodzi w skład Zakładu Produkcji Turbin."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Działalność przemysłową mogącą powodować historyczne zanieczyszczenie powierzchni ziemi prowadzono na terenie nieruchomości nr 90/64 i 90/59 obręb 0012 miasta Elbląga już od 1837 r. Funkcjonował tu wówczas niemiecki zakład produkujący lokomotywy, kotły i turbiny parowe. Od 1948 r. do 1989 r. działalność na terenie przedmiotowych nieruchomości prowadziły państwowe zakłady Zamech, produkujące turbiny parowe, odlewy staliwa i żeliwa oraz śruby okrętowe. Od lat 60. XX wieku na terenie zakładu (w budynku A13) zaczęto prowadzić procesy galwanotechniczne. Obecnie galwanizację wykonuje firma Metal Expert. W 1990 r. zakład nabyła firma ABB. Następnie w latach 1999-2000 obiekt został zakupiony przez koncern Alstom. GE Power przeprowadził akwizycję zakładu w 2015 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja silników i turbin, z wyłączeniem silników lotniczych, samochodowych i motocyklowych",
+    "current": "Produkcja silników i turbin, z wyłączeniem silników lotniczych, samochodowych i motocyklowych"
+  },
+  "land_holders": [
+    {
+      "name": "GE Power Sp. z o.o.",
+      "address": "ul. Inflancka 4 00-189 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "90/64",
+        "90/59"
+      ],
+      "economic_activity_code": "28.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "252-1600 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "27,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "1210 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "23,2-1320 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "34-150 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,376-1,01 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,262-2,51 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,256-5,09 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,321-5,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,239-3,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,251-2,91 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,214-4,27 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,491-2,25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,134-0,64 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,351-1,92 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "435 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "225-312 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "203 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1410 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "154-1890 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "341-704 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "104-1160 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "303-3920 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "30,3-536 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "380-536 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1800-7200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "0,12-1,05 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "6,89-15,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "7-53,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "18,6-76,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "19,3-70 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "9,4-40,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "10,2-25,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "11,4-39,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,32-22,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "5,8-6,63 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "8,12-18,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "87,9-177 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "20,3-21,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,51-8,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "3,14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "0,164 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Krezole",
+      "concentration": "0,194-1,25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Alifatyczne chlorowane",
+      "concentration": "0,13-0,3 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-11-04",
+    "legal_basis": "art. 101l ust. 2 POŚ",
+    "case_reference": "WSI.515.11.2019.JJ",
+    "decisions": [
+      {
+        "issue_date": "2020-11-27",
+        "reference": "WSI.515.11.2019.JJ.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-09-16",
+        "reference": "WSI.513.31.2019.KPi.JJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "GE Power Sp. z o.o.",
+        "address": "ul. Inflancka 4 00-189 Warszawa",
+        "economic_activity_code": "28.11.Z"
+      }
+    ],
+    "planned_start": "2021-03-01",
+    "planned_end": "2025-12-01",
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Remediacja będzie prowadzona na podstawie art. 101q ust. 1 pkt 2 ustawy z dnia 27 kwietnia  2001 r. Prawo ochrony środowiska (Dz.U. z 2020 r. poz. 1219, z późn. zm.), tj. w sposób prowadzący do usunięcia znaczącego zagrożenia dla zdrowia ludzi i stanu środowiska,  z uwzględnieniem obecnego i, o ile jest to możliwe, planowanego sposobu użytkowania terenu.  Remediacja w obszarze A będzie prowadzona na podstawie art. 101q ust. 1 pkt 2 lit. c Prawa ochrony środowiska poprzez samooczyszczanie powierzchni ziemi, ewentualne działania wspomagające samooczyszczanie, kontrolowanie zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie, ewentualne ograniczenie dostępu ludzi do zanieczyszczonego terenu i ewentualna konieczność zmiany sposobu użytkowania zanieczyszczonego terenu.  Remediacja tym sposobem zostanie wykonana z wykorzystaniem metody naturalnej atenuacji chlorowanych węglowodorów w celu usunięcia występowania znaczącego zagrożenia na inhalacyjnej drodze narażenia, z uwagi na obecność trichloroetenu. Metoda naturalnej atenuacji chlorowanych węglowodorów polega na wykorzystaniu szeregu naturalnych procesów fizycznych, chemicznych i biologicznych zachodzących w środowisku, które prowadzą do rozpadu produktów macierzystych (zwykle trichloroeten i tetrachloroeten) na mniej złożone związki pochodne (zmniejszanie liczby atomów chloru wraz z przebiegiem rozpadu).  Zasięg remediacji będzie obejmował nieutwardzony teren zielony o powierzchni około 167 m2, którego zasięg wskazano w pkt II.1. niniejszej decyzji. Kontrola skuteczności remediacji będzie realizowana poprzez monitoring gleby i ziemi, powietrza gruntowego oraz wód podziemnych. Monitoring gleby i ziemi będzie realizowany poprzez pobór próbek gleby i ziemi w sąsiedztwie otworów W15 i W16 (zlokalizowanych w obszarze A). W przypadku wód podziemnych, siatka monitoringowa obejmować będzie istniejące już otwory monitoringowe w celu kontroli stropu warstwy wodonośnej, tj. W15, W16 (zlokalizowane w obszarze A) i W17 (zlokalizowany w bezpośrednim sąsiedztwie obszaru A) oraz dwa nowe otwory (MWD-1 i MWD-2), które zostaną zainstalowane w obszarze A w sposób umożliwiający kontrolę spągu warstwy wodonośnej. Monitoring powietrza gruntowego będzie prowadzony w istniejących otworach SGS-1 i SGS-2 (zlokalizowanych w obszarze A). Monitoring będzie prowadzony 1 raz w roku przez 5 lat.   Objęcie monitoringiem gleby i ziemi, wody podziemnej oraz powietrza gruntowego pozwoli na pełną charakterystykę zachodzących procesów oraz pomoże kontrolować potencjalne ryzyka dla zidentyfikowanych odbiorców.  Uzyskane wyniki badań próbek gleby i ziemi będą porównywane do stężenia trichloroetenu określonego w pkt II.2. lit. a niniejszej decyzji.   Natomiast wyniki pełnego monitoringu (z uwzględnieniem wody podziemnej i powietrza gruntowego) z każdej serii monitoringowej, będą służyły do oceny warunków geochemicznych środowiska gruntowo-wodnego i jego potencjału do samooczyszczania, w tym spadku stężeń substancji oraz zmiany proporcji między produktami macierzystymi a produktami rozpadu. Jeśli na podstawie wyników pełnego monitoringu, z którejś z zaplanowanych pięciu serii monitoringowych, nastąpi zauważalny spadek efektywności procesów samooczyszczania (lub  w ogóle brak jego przebiegu) i konieczność wdrożenia działania, o którym mowa w art. 101q ust. 1 pkt 2 lit. c Prawa ochrony środowiska, tj. zastosowanie działań wspomagających samooczyszczanie, władający powierzchnią ziemi wystąpi o zmianę niniejszej decyzji w zakresie sposobu przeprowadzenia remediacji.",
+    "ecological_effect": "Substancją, której stężenie stwarza prawdopodobieństwo wystąpienia znaczącego  i nieakceptowalnego ryzyka w kontekście oddziaływania toksycznego jest: •\ttrichloroeten na głębokości przekraczającej 0,25 m ppt.  Po przeprowadzeniu remediacji zawartość trichloroetenu powinna odpowiadać co najmniej docelowym wartościom substancji chemicznych (SSTL), przy których uznaje się, że dany teren zanieczyszczony nie stanowi znaczącego zagrożenia dla zdrowia ludzkiego lub stanu środowiska, obliczonych na podstawie specjalistycznego modelowania numerycznego w ramach ilościowej oceny zagrożeń, tj. stężenie trichloroetenu nie powinno być wyższe niż 0,75 mg/kg",
+    "effect_assessment": null
+  },
+  "notes": null
+}

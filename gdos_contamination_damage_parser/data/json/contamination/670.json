@@ -1,0 +1,60 @@
+{
+  "registry_id": 670,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Kolbudy",
+    "address": "Bielkówko\t83-050",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "126/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((467160.49 710297.24,467074.37 710272.76,466975.82 710366.19,466917.85 710466.99,466936.13 710483.59,466955.76 710492.52,466968.99 710486.15,466977.41 710490.27,466988.78 710516.68,467007.73 710528.39,467078.08 710596.21,467272.16 710670.11,467280.37 710646.35,467276.77 710631.74,467274.40 710592.02,467264.32 710550.96,467129.45 710549.13,467130.53 710406.91,467125.59 710399.28,467182.70 710373.77,467159.79 710295.85,467160.49 710297.24))",
+    "site_description": "żwirownia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Pozostałe doradztwo w zakresie prowadzenia działalności gospodarczej i zarządzania",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "126/1"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-06",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.97.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.97.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

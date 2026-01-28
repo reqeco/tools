@@ -1,0 +1,60 @@
+{
+  "registry_id": 1102,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Kolbudy",
+    "address": "ul. Przemysłowa 4, Kolbudy, 83-050",
+    "precinct": "Kolbudy",
+    "parcel_numbers": [
+      "55/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((464569.4328168674 712338.217254892,464581.8682584074 712342.9797644131,464610.17873169744 712361.2360509234,464633.9912793174 712386.6361017236,464662.3017526075 712363.8818895537,464701.98933197756 712349.3297771132,464643.25171450747 712273.9233763032,464632.4037761475 712274.1879601637,464605.6808060274 712286.887985561,464570.7557361774 712338.217254892,464569.4328168674 712338.217254892))",
+    "site_description": "stacja paliw , teren przemysłowy, zgodnie z poz. Lit. 1 w roku 1993 wyciek oleju opałowego w nieznanej ilości do gruntu w firmie MIKOS Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Produkcja maszyn dla rolnictwa i leśnictwa"
+  },
+  "land_holders": [
+    {
+      "name": "Przedsiębiostwo Usługowo - Produkcyjno - Handlowe Pomkol sp. z o.o.",
+      "address": "ul. Przemysłowa 4, 83-050 Kolbudy",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "55/2"
+      ],
+      "economic_activity_code": "28.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-04-01",
+    "legal_basis": "art. 61 par. 1  i par. 4 kpa, art. 103 c ust. 3 pkt. 1 ustawy Poś",
+    "case_reference": "513.171.2019.LK.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-23",
+        "reference": "513.171.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

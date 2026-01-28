@@ -1,0 +1,124 @@
+{
+  "registry_id": 1426,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": null,
+    "precinct": "Tarnówek",
+    "parcel_numbers": [
+      "55/2",
+      "obręb Tarnówek"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((303850.0335265442263335 409172.23938619997352362, 303855.83839862537570298 409174.02442442066967487, 303862.14636038563912734 409177.68433667160570621, 303864.25423909770324826 409170.46003155875951052, 303850.86398656538221985 409167.28775509633123875, 303850.0335265442263335 409172.23938619997352362))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2021-02-09",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": 0.0079,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. M. Skłodowskiej–Curie 48, 59-301 Lubin",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. M. Skłodowskiej–Curie 48, 59-301 Lubin",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "23,2 - 36,4 mg/kg s.m.",
+      "area_ha": 0.0079
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": null,
+      "concentration": "mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "66,4 - 103 mg/kg s.m.",
+      "area_ha": 0.0029
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2021-09-29",
+    "detection_date": "2021-02-09",
+    "decisions": [
+      {
+        "issue_date": "2021-12-22",
+        "reference": "WSI.511.5.2021.KMA.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2022-01-01",
+    "planned_end": "2022-11-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Prace remediacyjne przeprowadzić metodą ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": "środki podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": "Działania sfinansowane ze środków podmiotu korzystającego ze środowiska"
+  },
+  "notes": null
+}

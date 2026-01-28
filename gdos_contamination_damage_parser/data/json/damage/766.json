@@ -1,0 +1,73 @@
+{
+  "registry_id": 766,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "sierpecki",
+    "municipality": "Mochowo",
+    "address": "09-228 Ligowo, m. Osiek 22",
+    "precinct": null,
+    "parcel_numbers": [
+      "83/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((530386.3433451809 550068.2763947854,530403.6735881707 550085.4743458461,530468.8935102806 550027.2658960959,530447.1976335506 550007.9512741361,530386.3433451809 550068.2763947854))",
+    "site_description": "teren prowadzonej działalności"
+  },
+  "occurrence_time": {
+    "date": "2015-06-10",
+    "from": null,
+    "to": null,
+    "description": "działalność prowadzona w sposób ciągły"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi wskutek prowadzonej działalności",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Delegatura Płock",
+      "address": "ul. 3 Maja 16, 09-402 Płock",
+      "legal_form": "instytucja państwowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "P.P.H.U (…)",
+      "address": "(…)",
+      "economic_activity_code": "46.77.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "540",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-10-28",
+    "detection_date": "2015-06-10",
+    "decisions": [
+      {
+        "issue_date": "2015-11-24",
+        "reference": "WSI.510.33.2015.ES.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

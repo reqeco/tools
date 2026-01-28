@@ -1,0 +1,58 @@
+{
+  "registry_id": 1621,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "róg ul. Łuczniczej/ ul. Gorąca  Dzielnica Mokotów, sąsiedztwo Elektrociepłowni Siekierki PGNiG Termika S.A.",
+    "precinct": "1-05-60 Warszawa",
+    "parcel_numbers": [
+      "55/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLIGON(643224.15 482660.96,643229.84 482679.79,643228.04 482678.64,643222.89 482679.22,643205.16 482683.46,643164.51 482693.63,643111.31 482706.73,643033.66 482727.90,643022.58 482730.51,643018.85 482732.60,643017.27 482736.58,643014.85 482731.39,643011.50 482720.68,643011.15 482719.94,643028.65 482723.73,643215.26 482676.44,643222.97 482663.49)",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2020-08-14",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Miasto Stołecznego Waszawa)",
+  "land_owner": "jednostka samorządu terytorialnego (Miasto Stołeczne Warszawea)",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Bezpośrednie zagrożenie szkodą w środowisku - wylanie silnie żrącej substancji (prawdopodobnie kwasu solnego) przed bramą Elektrociepłowni Siekierki. Działania zapobiegawcze dotyczą wyeliminowania emisji wystąpienia szkody w środowisku z powodu działania substancji stwarzającej ryzyko, zgodnie z definicją zawartą w art 3 pkt 10a ustawy szkodowej",
+  "total_area_ha": 0.0025,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Bartycka 110A 00-716 Warszawa",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2020-12-01",
+    "method": "inne działania tj. działania zapobiegawcze, o których mowa w art. 6 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "usunięcie warstwy zanieczyszczonej gleby",
+    "ecological_effect": "uzyskano załozony efekt ekologiczny",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,121 @@
+{
+  "registry_id": 1055,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0435,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Sopot",
+    "municipality": "Sopot",
+    "address": "ul. Artura Grottgera 7, 81-809 Sopot",
+    "precinct": "0001 Sopot",
+    "parcel_numbers": [
+      "35"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((471278.01943103946 731253.1750061484,471347.07581915933 731250.2645836566,471347.07581915945 731214.5457622148,471294.4236305193 731217.4561847067,471293.6298789294 731221.6895265067,471278.81318262935 731223.0124458158,471278.54859876935 731252.116670697,471278.01943103946 731253.1750061484))",
+    "site_description": "Na terenie działki, objętej przedmiotowym planem remediacji, w roku 1897 uruchomiono elektrownie miejską. W roku 1910 przeprowadzono rozbudowę elektrowni. Po okresie II wojny światowej, elektrownia pełniła rolę rozdzielni wysokiego i niskiego napięcia. W roku 2002 przeprowadzony został remont kapitalny budynku, któremu towarzyszyła przebudowa wnętrza, co było związane z usunięciem pierwotnego wyposażenia elektrowni. Obecnie, na terenie nieruchomości znajduje się budynek przeznaczony do remontu lub sprzedaży, użytkowany doraźnie."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed dniem 30 kwietnia 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie energii elektrycznej",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Energa Oświetlenie sp. z o.o.",
+      "address": "ul. Rzemieślniczej 17/19, 81-855 Sopot",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "35"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,30 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,30 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,30 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "13 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki wolne",
+      "concentration": "2 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "15 mg/kg s.m.",
+      "area_ha": 0.0175
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-26",
+    "legal_basis": "101l ust. 4",
+    "case_reference": "RDOŚ-Gd-WZS.515.16.2020.LK",
+    "decisions": [
+      {
+        "issue_date": "2020-08-18",
+        "reference": "RDOŚ-Gd-WZS.515.16.2020.LK.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Energa Oświetlenie sp. z o.o.",
+        "address": "ul. Rzemieślniczej 17/19, 81-855 Sopot",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-09-01",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-11-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja przedmiotowego terenu polegać będzie na zastosowaniu metody ex-situ, tj. wydobycia zanieczyszczonego gruntu z miejsca jego występowania:  a)\tz przedziału głębokości 0-0,25 m p.p.t. – z powierzchni ok. 260 m2; b)\tz warstwy gruntu poniżej 0,25 m p.p.t. – z powierzchni ok. 175 m2, do głębokości ok. 2 m p.p.t.",
+    "ecological_effect": "Przeprowadzone prace remediacyjne doprowadzą do całkowitego usunięcia zanieczyszczenia, tj. osiągnięcia dopuszczalnych stężeń substancji powodujących ryzyko szczególnie istotne dla ochrony powierzchni ziemi, określonych dla I grupy gruntów, zgodnie z Rozporządzeniem Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

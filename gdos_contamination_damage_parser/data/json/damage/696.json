@@ -1,0 +1,100 @@
+{
+  "registry_id": 696,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "hrubieszowski",
+    "municipality": "Werbkowice",
+    "address": "ul. Zamojska 13a",
+    "precinct": "0167 Werbkowice",
+    "parcel_numbers": [
+      "060408_2.0167.854/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((837318.6110588863 331916.25406031404,837332.3694225383 331914.66655722726,837325.2256553967 331810.68509916216,837264.1067706621 331813.595521234,837318.6110588863 331916.25406031404))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 4211 w Werbkowicach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1975-01-01",
+    "to": "2013-07-16",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi w wyniku niewłaściwej eksploatacji Stacji Paliw PKN ORLEN S.A. Nr 4211 w Werbkowicach.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "865-1043 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4755-17938 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "126-235 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1046 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-10-18",
+    "detection_date": "2013-07-16",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2013-07-24",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach działań zapobiegawczych usunięto zanieczyszczone grunty, wykopy po wydobytych masach ziemnych wypełniono czystym gruntem.",
+    "ecological_effect": "Doprowadzenie gruntów na terenie stacji paliw do standardów jakości gleby i ziemi obowiązujących dla grupy C",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

@@ -1,0 +1,194 @@
+{
+  "registry_id": 54,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.056,
+  "status": null,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "03-355 Warszawa, ul. Kiejstuta 1",
+    "precinct": "4-18-04",
+    "parcel_numbers": [
+      "1/9",
+      "1/10",
+      "1/12",
+      "1/13",
+      "1/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637625.4392325993 492964.71509510186,637772.0186926052 493007.04851309955,637800.0645820511 492773.1563786501,637709.5769009722 492741.40631515253,637709.0477332415 492744.05215377174,637625.4392325993 492964.71509510186))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "4 Home Invest sp. z o.o. sp. k",
+      "address": "ul. Jana Kaziemierza 64, 01-248 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    },
+    {
+      "name": "HI Poborzańska I",
+      "address": null,
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "HI Poborzańska II",
+      "address": null,
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "HI Poborzańska III",
+      "address": null,
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "HI Poborzańska IV",
+      "address": null,
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "77->1400",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "210-13000",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "402",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "1070",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "198",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "170",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "172",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-12-23",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy POŚ",
+    "case_reference": "WSI.511.17.2011.ES (WOOŚ-515.17.2021.DŚc)",
+    "decisions": [
+      {
+        "issue_date": "2016-02-16",
+        "reference": "WSI.511.17.2011.ES.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-03-24",
+        "reference": "WOOŚ-515.17.2021.DŚc.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 162 § 1 pkt 1 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "4 Home Invest sp. z o.o. sp. k",
+        "address": "ul. Jana Kaziemierza 64, 01-248 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HI Poborzańska I",
+        "address": null,
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HI Poborzańska II",
+        "address": null,
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HI Poborzańska III",
+        "address": null,
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HI Poborzańska IV",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2016-03-03",
+    "planned_end": "2020-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ wydobycie zanieczysczonego gruntu, in-situ - ciśnieniowa aplikacja substancji odżywczych oraz biopreparatu",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "4 Home Invest sp. z o.o. sp. k. wyzbyła się prawa użytkowania wieczystego. Obecnymi współużytkownikami wieczystymi wymienionych nieruchomości są spółki HI Poborzańska I, HI Poborzańska II, HI Poborzańska III, HI Poborzańska IV"
+}

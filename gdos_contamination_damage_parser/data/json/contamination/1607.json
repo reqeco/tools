@@ -1,0 +1,120 @@
+{
+  "registry_id": 1607,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Biała Podlaska",
+    "municipality": "Biała Podlaska",
+    "address": "ul. Młyńska 66",
+    "precinct": "0003 Obręb 3",
+    "parcel_numbers": [
+      "066101_1.0003.AR_30.2007"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((784676.4344601554 469870.3805076359,784771.4200757511 469957.29630671255,784792.4544947138 469957.82547448296,784688.2084430452 469861.38465633336,784676.434460156 469870.5127995657,784676.4344601554 469870.3805076359))",
+    "site_description": "grunty zadrzewione i zakrzewione na użytkach rolnych, grunty orne"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1958-01-01",
+    "to": "1996-10-31",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2007"
+      ],
+      "economic_activity_code": "-"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2007"
+      ],
+      "economic_activity_code": "-"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2007"
+      ],
+      "economic_activity_code": "-"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2007"
+      ],
+      "economic_activity_code": "-"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2007"
+      ],
+      "economic_activity_code": "-"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2007"
+      ],
+      "economic_activity_code": "-"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-18",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.513.16.2019.AWF",
+    "decisions": [
+      {
+        "issue_date": "2022-05-05",
+        "reference": "WSI.513.16.2019.AWF",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

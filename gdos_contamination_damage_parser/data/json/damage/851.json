@@ -1,0 +1,79 @@
+{
+  "registry_id": 851,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "konecki",
+    "municipality": "Gowarczów",
+    "address": "26-225 Brzeźnica",
+    "precinct": null,
+    "parcel_numbers": [
+      "220",
+      "223 i 224 obr. Brzeźnica"
+    ],
+    "coordinates_ewkt": "SRID=2180;GEOMETRYCOLLECTION(MULTIPOLYGON(((604183.9900028671 380261.33999955095,603788.5700027916 380145.89999955334,603510.020002741 380460.42999955546,603507.8000027412 380613.64999955613,603897.9100028146 380775.27999955136,604122.3500028576 380868.26999954786,604546.8300029383 380452.8499995461,604511.4400029312 380400.48999954574,604430.6600029151 380326.0599995479,604329.0100028953 380307.96999954805,604183.9900028671 380261.33999955095))))",
+    "site_description": "łąka na dz. 220 , wzdłuż cieku wodnego Drzewiczka (nazwa zwyczajowa Brzeźniczanka) oraz przywrócenie poziomu wód w tym cieku i rowach na dz. 220,223,224.   Rubryka współrzędne dot. działki nr 220 (na działce tej jest siedlisko), prace są wykonywane na dz. nr 220, 223 i 224)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "prace prowadzono na przełomie 2012/2013 roku oraz w okresach zimowych na przełomie 2013/2014 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "zniszczenie siedliska przyrodniczego w obrębie łąki poprzez pogłębienie dopływu rzeki i składowanie urobku",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…) (Mazowiecko-Świętokrzyskie Towarzystwo-Ornitologiczne)",
+      "address": "(…)",
+      "legal_form": "stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) reprezentowana przez pełnomocnika (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Zmiennowilgotne łąki trzęślicowe (Molinion)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2014-08-05",
+    "detection_date": "2014-05-14",
+    "decisions": [
+      {
+        "issue_date": "2014-09-22",
+        "reference": "WSI.511.3.2014.IŁ zmieniona decyzją znak: WSI. 511.3.2014.IŁ.1 z dn. 26.05.2015 r.",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Kielcach",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2015-05-31",
+    "planned_end": "2015-12-31",
+    "actual_end": "2016-12-28",
+    "method": null,
+    "description": "Zapewnienie właściwego reżimu wodnego dla siedliska przyrodniczego o kodzie 6410 Zmiennowilgotne łąki trzęślicowe (podtyp łąki olszewnikowo-trzęślicowe) zlokalizowanego na działce nr ew. 220 w miejscowości Brzeźnica (gm. Gowarczów) poprzez wykonanie na dopływie rzeki Drzewiczka i na rowach bocznych zastawek i przetamowań.",
+    "ecological_effect": "Zapewnienie właściwego reżimu wodnego dla siedliska przyrodniczego o kodzie 6410 Zmiennowilgotne łąki trzęślicowe (podtyp łąki olszewnikowo-trzęślicowe) zlokalizowanego na działce nr ew. 220 w miejscowości Brzeźnica (gm. Gowarczów).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

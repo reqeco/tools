@@ -1,0 +1,126 @@
+{
+  "registry_id": 1836,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Graniczna 32",
+    "precinct": "0002 Dz. Bogucice-Zawodzie",
+    "parcel_numbers": [
+      "246901_1.0002.AR_54.20/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((502409.01154759299242869 265068.66397553501883522, 502374.17315116600366309 265005.19589395401999354, 502319.0713740480132401 265011.98476845998084173, 502320.45218111999565735 265025.43615677201887593, 502326.50199816899839789 265084.37256005202652887, 502409.01154759299242869 265068.66397553501883522))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Life Spot Katowice Graniczna Sp. z o.o.",
+      "address": "Graniczna 29 40-017 Katowice",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-08-26",
+    "legal_basis": "art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.515.12.2022.MS2",
+    "decisions": [
+      {
+        "issue_date": "2022-10-24",
+        "reference": "WSI.515.12.2022.MS2.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Life Spot Katowice Graniczna Sp. z o.o.",
+        "address": "Graniczna 29 40-017 Katowice",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2023-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Remediacja ma być realizowana w następujący sposób: 1.) Dla obszaru nr 1 – usunięcie powierzchniowej warstwy gruntu (głębokość 0- 0,25 m.) z powierzchni ok. 687 m2. 2.) Dla obszaru nr 2 – usunięcie najsilniej zanieczyszczonej warstwy gruntu z powierzchni 30 m2 i głębokości 2 m. 3.) Dla obszaru nr 3/1, 3/2 oraz 4 – zwolnienie władającego powierzchnią ziemi, z obowiązku przeprowadzenia remediacji na tej części omawianego terenu.   Wydobyty, zanieczyszczony grunt, ma zostać zagospodarowany w sposób zapewniający przestrzeganie przepisów z zakresu ochrony środowiska, ze szczególnym uwzględnieniem przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (tekst jedn. Dz. U. 2022, poz. 699 ze zm.).  Usunięta ziemia ma być zastąpiona ziemią w odpowiedniej ilości spełniającą warunki stawiane gruntom zaliczanym do I grupy zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (tekst jedn. Dz. U. z 2016 r., poz. 1395) [dalej Rozporządzenie].",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

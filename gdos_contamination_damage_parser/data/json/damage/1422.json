@@ -1,0 +1,98 @@
+{
+  "registry_id": 1422,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Toruń",
+    "municipality": "Toruń",
+    "address": "Toruń, ul. Kanałowa 40-42",
+    "precinct": "0043, 0049",
+    "parcel_numbers": [
+      "713 obręb 0043",
+      "116/5 obręb 0049",
+      "117/8 obręb 0049"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((475871.2377908898 574505.9494778095,475884.9961517398 574508.595316438,475886.0544871898 574496.424458757,475872.29612633993 574493.2494524093,475873.35446178983 574494.8369555892,475871.2377908898 574505.9494778095)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "po 2018 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Rozlanie cieczy w czasie przepompowywania ścieków ze studzienki gromadzącej ścieki z lakierni na terenie zakładu.",
+  "total_area_ha": 0.0052,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "NOMET Sp. z o.o.",
+      "address": "Toruń, ul. Kanałowa 40/42",
+      "economic_activity_code": "22.29.Z, 24.54.B, 25.11.Z, 25.50.Z, 25.61.Z, 25.62.Z, 25.72.Z, 25.73.Z, 25.99.Z, 47.52.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1840 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "4350 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "2230 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "5,09 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2021-08-23",
+    "detection_date": "2021-04-29",
+    "decisions": [
+      {
+        "issue_date": "2021-11-03",
+        "reference": "WSS.511.6.2021.BW.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-11-01",
+    "planned_end": "2021-12-31",
+    "actual_end": "2021-12-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięto zanieczyszczoną glebę",
+    "ecological_effect": "Przeprowadzone badania nie wykazały przekroczeń dopuszczalnych zawartości substancji stwarzających ryzyko",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

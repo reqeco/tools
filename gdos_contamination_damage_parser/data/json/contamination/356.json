@@ -1,0 +1,159 @@
+{
+  "registry_id": 356,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.0,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Światowida",
+    "precinct": "4-03-09",
+    "parcel_numbers": [
+      "63/8",
+      "66/5",
+      "67/1",
+      "69/11",
+      "77/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634122.3092017809 496477.7273295298,634255.9240524803 496554.4566496564,634286.3511966998 496492.2794419667,634152.7363460008 496424.8105570292,634122.3092017809 496477.7273295298))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MOJA PÓŁNOCNA Sp. z o.o.",
+      "address": "ul. Bukowińska 24A 02-703",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,005-0,091 [mg/kg]",
+      "area_ha": 2.0
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,012-0,126 [mg/kg]",
+      "area_ha": 2.0
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,069-2,400 [mg/kg]",
+      "area_ha": 2.0
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,092-2,350 [mg/kg]",
+      "area_ha": 2.0
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,016-0,037 [mg/kg]",
+      "area_ha": 2.0
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,078-2,090 [mg/kg]",
+      "area_ha": 2.0
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,088-1,670 [mg/kg]",
+      "area_ha": 2.0
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,083-1,970 [mg/kg]",
+      "area_ha": 2.0
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,064-0,797 [mg/kg]",
+      "area_ha": 2.0
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,072-0,851 [mg/kg]",
+      "area_ha": 2.0
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-02-14",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.28.2019",
+    "decisions": [
+      {
+        "issue_date": "2018-03-20",
+        "reference": "WSI.515.48.2017.MB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-04-04",
+        "reference": "WOOŚ-IV.515.28.2019.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 154 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MOJA PÓŁNOCNA Sp. z o.o.",
+        "address": "ul. Bukowińska 24A 02-703",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-04-01",
+    "planned_end": "2019-06-30",
+    "actual_end": "2019-03-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": "efekt ekologiczny został osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

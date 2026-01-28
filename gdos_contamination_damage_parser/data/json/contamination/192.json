@@ -1,0 +1,203 @@
+{
+  "registry_id": 192,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2702,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Skierniewicka 21",
+    "precinct": "6-04-02",
+    "parcel_numbers": [
+      "26"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634398.2040243866 487126.14300132263,634432.8645104024 487140.4305298999,634433.6582619931 487134.3451010613,634452.4437162514 487106.29921162874,634457.2062257756 487082.22208015155,634463.8208223524 487078.51790606976,634482.6062765995 487004.16984071024,634410.1102982048 486985.64897033013,634398.7331921046 487036.7136558024,634400.849863007 487036.7136558015,634392.6477632592 487069.5220547514,634405.876956403 487071.6387256514,634408.7873788959 487071.903309511,634405.0832048125 487090.6887637498,634396.0873534835 487096.77419258,634401.6436145997 487108.15129867103,634402.7019500508 487113.9721436519,634398.468608247 487125.87841746025,634398.2040243866 487126.14300132263))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Ronson IS Sp. z o.o. Sp.k",
+      "address": "al. KEN 57, 02-737 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "23,4-216",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "983-1740",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "232",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "546",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,177",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,226 -1,38",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,39-2,78",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,120-5,99",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,181-3,08",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,379-5,29",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,83",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "540-520",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,82",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "177-314",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "236-1110",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "64,3-333",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "839-2400",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "6,02",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-04-19",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-11-08",
+        "reference": "WSI.510.7.2016.ES.24",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Ronson IS Sp. z o.o. Sp.k",
+        "address": "al. KEN 57, 02-737 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2016-11-23",
+    "planned_end": "2016-12-31",
+    "actual_end": "2017-03-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięcie zanieczyszczenia do dopuszczalny zwartości",
+    "ecological_effect": "pow. ziemi po wykonaniu działań remediacyjnych spełnia określone prawem standardy.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,137 @@
+{
+  "registry_id": 1024,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.5118,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "Łódź, ul.  Targowa",
+    "precinct": "W-24",
+    "parcel_numbers": [
+      "dz. nr ewid. 65/50"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532647.2715640806 433270.7959465515,532685.3565005767 433276.2112045698,532657.503191561 433462.07595171407,532635.6835145195 433459.7195987338,532641.0991255615 433423.5797170261,532635.1827724113 433422.80307425186,532642.794915871 433390.3685423983,532648.6046730486 433350.5393353272,532651.764082972 433319.9211713588,532654.4791928646 433300.7433876246,532654.5486575777 433290.03867868613,532652.3808645444 433281.90344132576,532647.6344621141 433271.90573651064,532647.6392517609 433271.16747722775,532647.2715640806 433270.7959465515))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miasto Łódź",
+      "address": "ul. Piotrkowska 104 90-926 Łódź",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "Zarząd Dróg i Transportu",
+      "address": "ul. Piotrkowska 173, 90-447 Łódź",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "powyżej 10 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "powyżej 10 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "powyżej 10 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-03-09",
+    "legal_basis": "art. 101c ust. 3 p.o.ś",
+    "case_reference": "WSI.516.1.2020.PS",
+    "decisions": [
+      {
+        "issue_date": "2020-05-11",
+        "reference": "WSI.513.4.2020.AK (stary znak sprawy: WSI.516.1.2020.PS)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-09-14",
+        "reference": "WSI.513.5.2020.AK.MG.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "wpłynęły wyniki badań, potwierdzające potwierdzenie historycznego zanieczyszczenia powierzchni ziemi"
+}

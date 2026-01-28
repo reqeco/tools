@@ -1,0 +1,56 @@
+{
+  "registry_id": 1196,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "lubaczowski",
+    "municipality": "Narol",
+    "address": "Łukawica 93, 37-610 Narol",
+    "precinct": "0010 Łukawica",
+    "parcel_numbers": [
+      "180905_5.0010.843/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((811249.39800000004470348 283262.44189999997615814, 811279.44999999995343387 283277.07000000000698492, 811380.12699999997857958 283286.97690000000875443, 811401.33400000003166497 283273.00199999997857958, 811404.44700000004377216 283270.70400000002700835, 811409.83299999998416752 283268.31900000001769513, 811412.40200000000186265 283267.981000000028871, 811431.50800000003073364 283265.86800000001676381, 811435.06999999994877726 283170.20899999997345731, 811421.17099999997299165 283156.64809999999124557, 811424.50699999998323619 283118.72499999997671694, 811421.71900000004097819 283116.93300000001909211, 811357.90899999998509884 283075.98499999998603016, 811258.51000000000931323 283066.61499999999068677, 811249.39800000004470348 283262.44189999997615814))",
+    "site_description": "Ba - tereny przemysłowe, Lzr-Ps - grunty zadrzewione i zakrzewione na użytkach rolnych, Ws - grunty pod wodami powierzchniowymi stojącymi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2018-08-01",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Składowanie substancji chemicznych na działce o nr ewid. 843/5 w m. Łukawica, na terenie nieczynnego tartaku, w sposób mogący spowodować ich przedostanie się do środowiska",
+  "total_area_ha": 3.44,
+  "reporters": [
+    {
+      "name": "Podkarpacki Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Gen. M. Langiewicza 26, 35-101 Rzeszów",
+      "legal_form": "Instytucja rządowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "SINUS Sp. z o.o.",
+      "address": "Łukawica 93, 37-610 Narol",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2018-10-31",
+    "detection_date": "2018-08-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Sprawa znak: WSI.512.4.4.2018.AF"
+}

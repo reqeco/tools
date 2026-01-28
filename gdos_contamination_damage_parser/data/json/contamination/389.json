@@ -1,0 +1,123 @@
+{
+  "registry_id": 389,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.74,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "sanocki",
+    "municipality": "Sanok (gmina miejska)",
+    "address": "ul. Przemyska 24, 38-500 Sanok",
+    "precinct": "nr 0005 Olchowce",
+    "parcel_numbers": [
+      "181701_1.0005.583/46"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((733463.96114323101937771 191812.58577693099505268, 733439.63744043000042439 191834.64596226598951034, 733409.79542761505581439 191801.27268983700196259, 733366.44306661898735911 191838.49169845698634163, 733397.39666151895653456 191874.0751836400013417, 733078.02155680803116411 192153.56077896201168187, 733017.60667868598829955 192083.83393371000420302, 733017.23332835303153843 192071.54030521400272846, 733207.5071509019471705 191905.75766721600666642, 733156.90439201705157757 191843.58391962299356237, 733388.88857086200732738 191726.04424054600531235, 733463.96114323101937771 191812.58577693099505268))",
+    "site_description": "Tereny przemysłowe Ba"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Okres rozbudowy zakładu, tj. lata 1972-78"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja pozostałych wyrobów z gumy",
+    "current": "Produkcja pozostałych wyrobów z gumy"
+  },
+  "land_holders": [
+    {
+      "name": "Sanok Rubber Company S.A.",
+      "address": "ul. Przemyska 24, 38-500 Sanok",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "181701_1.0005.583/46"
+      ],
+      "economic_activity_code": "22.19.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "360-2174 mg/kg",
+      "area_ha": 0.74
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "7426 mg/kg",
+      "area_ha": 0.74
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1800-3700 mg/kg",
+      "area_ha": 0.74
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4800-12000 mg/kg",
+      "area_ha": 0.74
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-07-02",
+    "legal_basis": "art. 61 § 1 i § 4 Kpa w związku z art. 101l ust. 2 Prawo ochrony środowiska",
+    "case_reference": "WSI.515.4.1.2018.AF / WSI.513.29.2018.AF",
+    "decisions": [
+      {
+        "issue_date": "2018-07-26",
+        "reference": "WSI.515.4.1.2018.AF.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-11-29",
+        "reference": "WSI.515.4.2.2018.AF.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 155 Kpa, art. 101l ust. 4",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-12-17",
+        "reference": "WSI.513.29.2018.AF.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Sanok Rubber Company S.A.",
+        "address": "ul. Przemyska 24, 38-500 Sanok",
+        "economic_activity_code": "22.19.Z"
+      }
+    ],
+    "planned_start": "2018-08-14",
+    "planned_end": "2019-01-14",
+    "actual_end": "2019-01-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą wykonywane metodą „ex-situ” polegającą na: - kontrolowanym usunięciu zanieczyszczonej warstwy gleby z 5 wydzielonych obszarów o łącznej powierzchni 7400 m2, do maksymalnej głębokości (obszar nr 1 -1 m; obszar nr 2 - 5 m; obszar nr 3 - 6 m; obszar nr 4 - 3,5 m; obszar nr 5 - 5,5, m), - przekazaniu zanieczyszczonej gleby uprawnionemu podmiotowi do unieszkodliwienia lub odzysku, - w trakcie wydobywania zanieczyszczonej ziemi oraz po zakończeniu wydobycia; pobraniu kontrolnych próbek gleby z dna i ścian wykopu, i wykonaniu analizy ze względu na zawartość substancji powodujących ryzyko (suma węglowodorów C12-C35, składników frakcji oleju; cynk), - zasypaniu powstałych wykopów odpowiednio zagęszczoną glebą spełniającą standardy dla gruntów grupy IV.  Przed przystąpieniem do prac teren wymagający przeprowadzenia remediacji zostanie zabezpieczony przed napływem wód gruntowych poprzez zamontowanie systemu igłofiltrów, z odprowadzeniem wód do zakładowej kanalizacji deszczowej. Prace remediacyjne realizowane będą bezpośrednio po wydobyciu zalegających w ziemi odpadów. Przez rok od zakończenia prac polegających na wydobyciu zanieczyszczonej gleby prowadzony będzie monitoring stanu fizykochemicznego wód podziemnych, obejmujący pobór prób wody z istniejącej/projektowanej na terenie Zakładu sieci pomiarowej (piezometry P-1’, P-2, P-3, P-4 i P-5), z częstotliwością raz na kwartał oraz analizę w zakresie zawartości: wielopierścieniowych węglowodorów aromatycznych (WWA) oraz węglowodorów ropopochodnych C12-C35.",
+    "ecological_effect": "Usunięto zanieczyszczenie do dopuszczalnej zawartości w glebie substancji powodujących ryzyko na poziomie dopuszczalnym dla gruntów grupy IV (tereny przemysłowe, oznaczone symbolem Ba), dla głębokości przekraczającej 0,25 m p.p.t. i wodoprzepuszczalności wyższej lub równiej 1x10-7 m/s, określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "WSI.513.29.2018.AF - postępowanie w sprawie wpisu o potencjalny, historycznym zanieczyszczeniu powierzchni ziemi; WSI.515.4.1.2018.AF - ustalenie planu remediacji, WSI.515.4.2.2018.AF - zmiana decyzji WSI.515.4.1.2018.AF.8"
+}

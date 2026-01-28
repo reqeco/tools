@@ -1,0 +1,82 @@
+{
+  "registry_id": 981,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Kościuszki 45A, Trzebinia",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "796/103",
+      "796/114",
+      "796/93"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532864.6788163606 254506.9960206123,532885.4486495608 254516.6533315936,532916.1403776109 254452.88862073235,532913.0976632008 254440.5854711337,532892.592413851 254430.2667004941,532883.067394801 254449.7136143837,532863.2236051109 254491.91474045347,532860.974642281 254489.5334856948,532858.5933875209 254502.63038688246,532864.4142325008 254505.01164164394,532864.4142325008 254505.14393358398,532864.6788163606 254506.9960206123))",
+    "site_description": "Teren po byłych Zakładach Metalurgicznych \"Trzebinia\" w Trzebini"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "796/103",
+        "796/114",
+        "796/93"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-30",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.40.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-12-12",
+        "reference": "ZS.513.40.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

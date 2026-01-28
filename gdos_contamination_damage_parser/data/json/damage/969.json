@@ -1,0 +1,75 @@
+{
+  "registry_id": 969,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "inowrocławski",
+    "municipality": "Inowrocław (gmina wiejska)",
+    "address": "m. Góra",
+    "precinct": null,
+    "parcel_numbers": [
+      "dz. nr 49/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((456979.3378206823 542758.8020487772,457072.4713402823 542760.3895519497,457107.39641013235 542711.7061212482,457153.4340022024 542710.1186180795,457192.0632461327 542712.7644566996,457241.27584455255 542716.4686307795,457247.62585725274 542384.6804671995,457158.1965117325 542380.4471253986,457133.85479638237 542407.4346793797,457027.4920836524 542400.0263312282,457003.6795360323 542398.9679957787,456987.80450428237 542459.2931164298,456982.5128270323 542667.7852000771,456980.3961561323 542757.7437133295,456979.3378206823 542758.8020487772))",
+    "site_description": "teren zakładu SOLINO"
+  },
+  "occurrence_time": {
+    "date": "2012-09-27",
+    "from": null,
+    "to": null,
+    "description": "27.09.2012 awaria zbiornika"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda powstała w wyniku wycieku oleju solarnego na dz. nr 49/2 w m. Góra gm. Inowrocław",
+  "total_area_ha": 0.017,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Inowrocławskie Kopalnie Soli \"SOLINO\" S.A.",
+      "address": "ul. Św. Ducha 26a, 88-100 Inowrocław",
+      "economic_activity_code": "08.93.Z, 46.75.Z, 49.41.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "max. 28900 mg/kg s.m.",
+      "area_ha": 0.017
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-11-20",
+    "detection_date": "2012-09-27",
+    "decisions": [
+      {
+        "issue_date": "2013-11-05",
+        "reference": "WSI.511.17.2012.AP.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2014-01-31",
+    "method": null,
+    "description": "Wydobyto zanieczyszczoną ziemię w ilości 248,7 m3 (kod 17 05 03*). Sprawozdanie z zakończenia działań naprawczych pod sygn.: WSI.511.2.1.2014.AP. Osiągnięto założony efekt ekologiczny",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

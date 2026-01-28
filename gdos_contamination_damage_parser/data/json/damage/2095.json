@@ -1,0 +1,55 @@
+{
+  "registry_id": 2095,
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "municipality": "Kędzierzyn-Koźle",
+    "address": null,
+    "precinct": "Blachownia",
+    "parcel_numbers": [
+      "602/683"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "teren zlokalizowany w Parku Przemysłowym Blachownia"
+  },
+  "occurrence_time": {
+    "date": "2025-03-06",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wyciek substancji ropopochodnych ze zbiorników",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "GIOŚ",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    },
+    {
+      "name": "WIOŚ Opole",
+      "address": "ul. Nysy Łużyckiej 42, 45-035 Opole",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-04-11",
+    "detection_date": "2025-03-06",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

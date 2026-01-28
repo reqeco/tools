@@ -1,0 +1,183 @@
+{
+  "registry_id": 804,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.471,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Wyspiarska",
+    "precinct": "4-07-01",
+    "parcel_numbers": [
+      "16/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635987.4269964634 496635.02243573684,636075.7980066419 496636.6099389065,636070.5063293878 496695.8767241053,636057.2771362439 496721.805942636,635960.9686101864 496711.7517558569,635987.4269964634 496635.02243573684))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "adres w aktach sprawy",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "16/8"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "adres w aktach sprawy",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,101-0,708 [mg/kg s.m.]",
+      "area_ha": 0.0471
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,345-1,03 [mg/kg s.m.]",
+      "area_ha": 0.0471
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,103-0,190 [mg/kg s.m.]",
+      "area_ha": 0.0471
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,106-0,791 [mg/kg s.m.]",
+      "area_ha": 0.0471
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,104-0,879 [mg/kg s.m.]",
+      "area_ha": 0.0471
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,100-0,839 [mg/kg s.m.]",
+      "area_ha": 0.0471
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,173-0,478 [mg/kg s.m.]",
+      "area_ha": 0.0471
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,100-0,536 [mg/kg s.m.]",
+      "area_ha": 0.0471
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-03-07",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.60.2019",
+    "decisions": [
+      {
+        "issue_date": "2018-03-21",
+        "reference": "WSI.515.10.2017.SSz.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-09-11",
+        "reference": "WSI.515.10.2017.SSz.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-05-16",
+        "reference": "WSI.515.10.2017.ES.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-09-19",
+        "reference": "DOA-ks.515.2.2017.mg",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2017-05-26",
+      "reason": "nie podjęcie wszelkich czynności niezbędnych do załatwienia sprawy; brak wyjaśnień stroną przesłanek, którymi kierowano się podczas załatwiania sprawy",
+      "appealed_decision_reference": "WSI.515.10.2017.ES.4",
+      "resolution_reference": "DOA-ks.515.2.2017.mg",
+      "appellant_name": "(…); Bouygues Immobilier Polska sp. z o.o.",
+      "appellant_address": "(…)",
+      "resolution_date": "2017-09-19",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "uchylenie w całości zaskarżonej decyzji i przekazanie sprawy do ponownego rozpatrzenia przez organ I instancji"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "adres w aktach sprawy",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "adres w aktach sprawy",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-04-04",
+    "planned_end": "2019-09-30",
+    "actual_end": "2019-07-09",
+    "method": null,
+    "description": "remediacja ex-situ",
+    "ecological_effect": "spełnia wymogi  określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,64 @@
+{
+  "registry_id": 1122,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Hryniewieckiego, 81-340 Gdynia  (dz.ew.3100); ul. Rybickiego, 81-340 Gdynia",
+    "precinct": "0026 Śródmieście",
+    "parcel_numbers": [
+      "2975",
+      "3100",
+      "3112"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((470645.4162114594 740032.7651446695,470703.0954934793 740034.3526478494,470716.3246866094 740006.835926149,470745.42891147925 739976.6733658202,470752.8372596293 739924.2857610416,470746.48724692926 739917.4065806214,470697.80381622934 739904.177387489,470669.75792680937 739898.3565425193,470656.5287336794 739907.8815615708,470652.2953918793 739961.3275017897,470648.59121780936 739960.7983340686,470643.29954055935 740015.3026097501,470647.5328823592 740019.0067838207,470645.4162114594 740032.7651446695)) POLYGON((470860.79370176926 739980.5565223796,470866.0853790194 739981.0856901007,470865.02704356925 739991.6690446017,470884.07708166935 739992.1982123293,470886.72292028926 739984.2606964512,470953.92722136935 739989.0232059816,470956.0438922693 739984.7898641797,470973.5064271893 739985.3190318998,470980.3856076193 739992.1982123302,471084.6316494393 740000.6648959313,471086.74832033936 739982.1440255512,471067.16911451943 739979.4981869292,471070.3441208693 739954.0981361307,471068.75661768945 739950.9231297811,471055.52742456936 739949.8647943307,471052.88158593926 739953.0398006812,470983.03144623927 739945.6314525306,470977.7397689894 739953.0398006812,470962.39390496927 739952.5106329499,470956.04389226943 739942.9856139002,470865.5562112894 739934.5189302992,470860.79370176926 739980.5565223796)) POLYGON((471179.35267221933 739906.4730408806,471134.9025833194 739902.7688668016,471131.72757696925 739908.0605440522,471113.20670658926 739905.9438731512,471110.5608679693 739937.1647689315,471212.69023889943 739946.1606202507,471214.27774206933 739915.9980599303,471178.29433676944 739910.7063826816,471177.7651690495 739911.2355504017,471179.35267221933 739906.4730408806))",
+    "site_description": "nieruchomości po dawnym Dalmorze, dawniej magazyny, garaże, warsztat"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Działalność usługowa wspomagająca transport morski",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "PHN SPVPHN4 Sp z o.o.",
+      "address": "Aleja Jana Pawła II 12/V/4, 00-828 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "2975",
+        "3100",
+        "3112"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-22",
+    "legal_basis": "art. 61 par. 1 i 4 z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego art. 101 c ust. 3  ustawy z dnia 27 kwietnia 2001",
+    "case_reference": "RDOŚ-Gd-WZS.513.11.2019.AK",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.11.2019.AK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

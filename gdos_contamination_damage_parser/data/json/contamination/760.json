@@ -1,0 +1,91 @@
+{
+  "registry_id": 760,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1812,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Toruń",
+    "municipality": "Toruń",
+    "address": "ul. Żółkiewskiego",
+    "precinct": null,
+    "parcel_numbers": [
+      "398/3 obręb 0049"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((475981.6277673697 573272.5897336798,475925.5359885196 573268.6209757477,475914.4234662895 573251.6876085475,475919.97972740966 573169.4020273061,475987.1840284796 573150.6165730665,475988.24236392963 573162.7874307483,475981.6277673697 573272.5897336798)))",
+    "site_description": "Działka z budynkiem usługowym i parkingiem, teren dawnej gwoździarni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "lata 40te XIX w."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi"
+  },
+  "land_holders": [
+    {
+      "name": "Atrium Copernicus Sp. z o.o.",
+      "address": "ul. Ostrobramska 75c 04-175",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "33 mg/kg s.m.",
+      "area_ha": 0.1812
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "0,2 - 1,2 mg/kg s.m.",
+      "area_ha": 0.1812
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-28",
+    "legal_basis": "art. 101l Poś",
+    "case_reference": "WSS.515.1.2019.BW",
+    "decisions": [
+      {
+        "issue_date": "2019-04-05",
+        "reference": "WSS.515.1.2019.BW.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Atrium Copernicus Sp. z o.o.",
+        "address": "ul. Ostrobramska 75c 04-175",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2019-04-17",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-04-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięcie zanieczyszczonego gruntu do głębokości 0,25 m ppt",
+    "ecological_effect": "uzyskanie standardów jakości przewidzianych dla I grupy gruntów zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 kwietnia 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

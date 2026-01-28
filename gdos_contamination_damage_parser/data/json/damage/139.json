@@ -1,0 +1,67 @@
+{
+  "registry_id": 139,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "ciechanowski",
+    "municipality": "Glinojeck",
+    "address": "Małużyn",
+    "precinct": "Dreglin",
+    "parcel_numbers": [
+      "196/23"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((584861.030756078 551443.5491910521,584915.2704479019 551449.1054521734,584966.3351333655 551428.4679108933,584983.7976682967 551413.122046872,584996.2331098275 551376.3448899826,585024.0144153996 551314.6968500214,585017.135234969 551312.0510113938,585023.2206638095 551298.0280666826,584983.5330844267 551299.6155698514,584939.6121632534 551349.3573360033,584911.3016899615 551353.0615100833,584918.180870382 551368.6719579753,584914.2121124517 551419.7366434326,584914.2121124517 551419.7366434326,584914.4766963118 551419.7366434345,584861.030756078 551443.5491910521))",
+    "site_description": "Dreglin 39, likwidowana stacja paliw"
+  },
+  "occurrence_time": {
+    "date": "2009-01-17",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu olejem transformatorowym w wyniku kradzieży transformatora w Malużynie",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Zakład Energetyczny Płock-Dystrybucja Wschód Sp. z o.o.",
+      "address": "Ciechanów ul. Mławska 3",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2009-01-17",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "RDOŚ-14-WSI-MN-6661-11/09",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex - situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,181 @@
+{
+  "registry_id": 2020,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.0026,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "Aleja 29 Listopada 94, Kraków",
+    "precinct": "22 Śródmieście",
+    "parcel_numbers": [
+      "126105_9.0022.254/5",
+      "126105_9.0022.254/6",
+      "126105_9.0022.253"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((568170.2735163458 247251.7634830242,568283.5154094973 247365.00537617598,568307.8571248475 247339.0761576565,568320.5571502479 247333.78448040597,568403.6364830787 247271.34268885478,568399.9323089988 247264.46350842435,568421.6281857291 247247.00097350404,568361.8322327983 247146.98827347532,568342.2530269781 247164.45080840588,568300.4487766975 247195.67170417495,568268.1695454771 247216.83841317613,568235.3611465265 247238.00512217637,568170.2735163458 247251.7634830242))",
+    "site_description": "teren na którym w przeszłości funkcjonował zakład produkcji pasty do butów i pasty do podłóg"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja mydła i detergentów, środków myjących i czyszczących",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Adamczak Skawiński spółka komandytowa",
+      "address": "Królowej Jadwigi 110, 30-209 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "126105_9.0022.254/5",
+        "126105_9.0022.253",
+        "126105_9.0022.254/6"
+      ],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "od  282,3 do 479,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 40,2 do 47,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "od 0,107  do 0,869 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "od 0,215 do 0,878 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "od 0,138 do 0,635 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "od 0,131 do 0,605 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,242  do 0,54 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "1,09 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "od 0,222 do 0,465 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "od 0,222 do 0,465  mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od 51,9 mg/kg sm do 1085 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "od 1,49 mg/kg sm do 1,84 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "od 5,61 mg/kg sm do 8,698 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "827,1 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-05-16",
+    "legal_basis": "art. 101l ust.4 Poś",
+    "case_reference": "ZS.515.2.2024.MKub",
+    "decisions": [
+      {
+        "issue_date": "2024-07-16",
+        "reference": "ZS.515.2.2024.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Adamczak Skawiński spółka komandytowa",
+        "address": "Królowej Jadwigi 110, 30-209 Kraków",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2024-07-01",
+    "planned_end": "2025-06-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "W wyniku remediacji metodą ex-situ usunięty zostanie cały zanieczyszczony grunt do głębokości ok 3,0 m ppt. Zanieczyszczenie występujące głębiej pozostawiono do samooczyszczenia z jednoczesnym prowadzeniem monitoringu. Docelowo w wyniku remediacji metodą ex- situ i samooczyszczania zawartości substancji powodujących ryzyko w glebie i ziemi mieścić się będą w granicach dopuszczalnych zawartości określonych dla I grupy gruntów i głębokości poniżej 0,25 m ppt., ustalonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "ecological_effect": "W wyniku remediacji metodą ex-situ osiągnięto zakładany efekt ekologiczny.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

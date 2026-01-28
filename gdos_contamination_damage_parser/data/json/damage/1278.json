@@ -1,0 +1,51 @@
+{
+  "registry_id": 1278,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Lębork",
+    "address": "ul. Słupska 18, Lębork",
+    "precinct": "0005 Lębork",
+    "parcel_numbers": [
+      "302/17",
+      "302/18 obręb 6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((417337.8741417884 741860.8872232987,417390.5263304325 741851.0976203894,417402.6971881035 741913.2748280801,417350.5741671894 741928.0915243803,417337.8741417884 741860.8872232987))",
+    "site_description": "Nieruchomość"
+  },
+  "occurrence_time": {
+    "date": "2019-04-24",
+    "from": null,
+    "to": null,
+    "description": "Na omawianych nieruchomościach prowadzona była nielegalna działalność demontażu pojazdów wycofanych z eksploatacji. W toku kontroli WIOŚ w Gdańsku na terenie ww. działek stwierdzono zaolejone plany na powierzchni ziemi spowodowane wyciekiem substancji ropopochodnych z demontowanych pojazdów."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na terenie działek 302/107, 302/108  prowadzona była nielegalna działalność demontażu pojazdów wycofanych z eksploatacji. W toku kontroli WIOŚ w Gdańsku na terenie ww. działek stwierdzono zaolejone plany na powierzchni ziemi spowodowane wyciekiem substancji ropopochodnych z demontowanych pojazdów. Do czasu usunięcia odpadów z miejsca nieprzeznaczonego do ich magazynowania postępowanie zostało zawieszone",
+  "total_area_ha": 0.358,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2019-12-06",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

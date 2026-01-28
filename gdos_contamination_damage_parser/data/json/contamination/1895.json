@@ -1,0 +1,125 @@
+{
+  "registry_id": 1895,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.98,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "żarski",
+    "municipality": "Żary (gmina miejska)",
+    "address": "ul. Kolejowa 52",
+    "precinct": "Mirostowice Dolne",
+    "parcel_numbers": [
+      "665",
+      "666",
+      "664"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((234042.15570701042 418770.56243078783,234031.57235200232 418743.04570910055,234038.9807006147 418725.58317415975,234055.9140687628 418722.93733552005,234080.78495313053 418751.51239263825,234096.65998567682 418780.61661749147,234081.3141207808 418789.083301113,234065.96825588658 418793.31664293166,234061.20574611292 418789.61246886756,234042.15570701042 418770.56243078783)) POLYGON((234222.28018908494 418777.5739655057,234231.01145699812 418791.3323263461,234225.45519554452 418800.32817768306,234204.55306922755 418810.9115322102,234175.18425886222 418810.6469483869,234162.74881669861 418788.1573200803,234159.309226354 418768.8426981233,234157.72172312601 418755.0843372727,234187.09053353552 418740.2676409371,234207.72807595547 418741.0613925019,234231.8052087559 418745.03015040886,234240.5364766749 418756.67184035014,234224.3968600952 418779.95522027276,234222.28018908494 418777.5739655057)) POLYGON((234402.21947786474 418629.67164838966,234401.16114236106 41POLYGON((234463.49292079895 418500.4224931933,234463.49292079895 418500.4224931933))8628.0841452116,234402.21947786474 418629.67164838966)) POLYGON((234188.89942117932 418618.03014351334,234173.5535563642 418595.80509908125,234170.37854986906 418585.2217445839,234194.19109887222 418566.1717064548,234255.04539058637 418573.580054529,234291.02879790455 418562.9966999842,234310.07883698738 418586.80924759153,234312.72467567347 418618.0301433597,234305.3163270536 418639.19685237017,234277.79960382945 418640.78435558546,234255.57455817272 418633.37600746285,234223.29532518552 418623.8509884523,234188.89942117932 418618.03014351334))",
+    "site_description": "teren czynnej bazy paliw/teren po byłej radzieckiej bazie paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "335",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "347",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "5280",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "11200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "7230 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "4,90 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "42,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "39,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "100 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 3 ustawy",
+        "entity_type": "regionalny dyrektor ochrony środowiska",
+        "name": "RDOŚ Gorzów Wielkopolski",
+        "address": "ul. Jagiellończyka 13 66-400 Gorzów Wlkp.",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

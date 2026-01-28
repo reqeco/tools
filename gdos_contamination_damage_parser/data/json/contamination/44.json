@@ -1,0 +1,173 @@
+{
+  "registry_id": 44,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 3.44,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "31-553 Kraków, ul. róg ulic Fabrycznej i Alei Pokoju",
+    "precinct": "5 Śródmieście",
+    "parcel_numbers": [
+      "1261_9.0005.398/6",
+      "1261_9.0005.398/7",
+      "1261_9.0005.398/8",
+      "1261_9.0005.398/9",
+      "1261_9.0005.398/10",
+      "1261_9.0005.398/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((569465.1998562128 244165.128143101,569632.4168573152 244104.80302244984,569628.1835155153 244130.73224097863,569640.3543731953 244131.26140870154,569606.4876387948 244319.11595107988,569573.1500721143 244349.27851140965,569559.3917112642 244375.207729931,569550.395859944 244400.6077807285,569540.8708408941 244391.0827616807,569536.6374990939 244396.90360666066,569490.0707392932 244351.39518230967,569473.137372093 244322.82012516167,569457.7915080627 244288.42422303,569453.0289985426 244232.3324441798,569451.4414953626 244225.4532637503,569459.3790112427 244170.41982035153,569465.1998562128 244165.128143101))",
+    "site_description": "teren na którym działalność prowadziło Przedsiębiorstwo Budowy Maszyn Drogowych (MADRO) oraz prowadzone były inne działalności, w tym: produkcja drzwi przesuwnych i składanych, usługi dezynfekcji i dezynsekcji, magazyny i składy gazów technicznych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "Atrium Verde Sp. zo.o.",
+      "address": "ul. Armii Krajowej 19, 30-150 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "236  [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "140  [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,318  [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "fenantren",
+      "concentration": "7,14  [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "1,91 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "fluoranten",
+      "concentration": "16,6  [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "14,8 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "10,8 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "9,84  [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "benzo(a)fluoranten",
+      "concentration": "1,08  [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,82  [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "67,9 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,33  [mg/kg s.m.]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-08-18",
+    "legal_basis": "art. 61 § 3 Kpa",
+    "case_reference": "ZS.516.1.4.2015.Mkub",
+    "decisions": [
+      {
+        "issue_date": "2016-02-26",
+        "reference": "ZS.516.1.4.2015.Mkub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 3 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Atrium Verde Sp. zo.o.",
+        "address": "ul. Armii Krajowej 19, 30-150 Kraków",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2016-03-31",
+    "planned_end": "2017-12-31",
+    "actual_end": "2016-09-12",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "wydobyty zanieczyszczony grunt jako odpad będzie przetransportowany i zagospodarowany zgodnie z ustawą o odpadach.",
+    "ecological_effect": "doprowadzenie stanu gruntu do wartości grupy B",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,123 @@
+{
+  "registry_id": 30,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.61,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "92-320 Łódź Łódź, ul. Niciarniana 54",
+    "precinct": "W-27",
+    "parcel_numbers": [
+      "28/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((535400.31000000005587935 432324.34999999997671694, 535398.90000000002328306 432333.52000000001862645, 535395.67000000004190952 432336.77000000001862645, 535386.80000000004656613 432337.57000000000698492, 535380.05000000004656613 432330.36999999999534339, 535373.14000000001396984 432324.77000000001862645, 535363 432323.94000000000232831, 535355.36999999999534339 432332.09999999997671694, 535346.07999999995809048 432341.90999999997438863, 535336.17000000004190952 432335.84000000002561137, 535334.4599999999627471 432323.44000000000232831, 535336.21999999997206032 432311.28999999997904524, 535339.81999999994877726 432297.26000000000931323, 535344.71999999997206032 432286.27000000001862645, 535350.61999999999534339 432275.5, 535357.96999999997206032 432258.46000000002095476, 535366.71999999997206032 432247.63000000000465661, 535374.55000000004656613 432246.33000000001629815, 535382 432248.71000000002095476, 535386.2900000000372529 432252.92999999999301508, 535390.13000000000465661 432257.77000000001862645, 535389.82999999995809048 432278.86999999999534339, 535392.19999999995343387 432304.34999999997671694, 535396.9599999999627471 432314.71999999997206032, 535400.31000000005587935 432324.34999999997671694)), ((535302.98999999999068677 432270.07000000000698492, 535313.36999999999534339 432265.86999999999534339, 535316.57999999995809048 432259.94000000000232831, 535312.88000000000465661 432252.53000000002793968, 535301.51000000000931323 432251.03999999997904524, 535292.35999999998603016 432255.25, 535294.08999999996740371 432267.10999999998603016, 535302.98999999999068677 432270.07000000000698492)), ((535358.59999999997671694 432226.33000000001629815, 535369.71999999997206032 432223.60999999998603016, 535374.67000000004190952 432215.70000000001164153, 535366.51000000000931323 432209.77000000001862645, 535354.40000000002328306 432206.79999999998835847, 535343.28000000002793968 432212.72999999998137355, 535343.03000000002793968 432223.60999999998603016, 535358.59999999997671694 432226.33000000001629815)), ((535364.78000000002793968 432192.21999999997206032, 535377.14000000001396984 432185.78999999997904524, 535378.36999999999534339 432173.67999999999301508, 535370.7099999999627471 432167.5, 535359.08999999996740371 432169.47999999998137355, 535352.67000000004190952 432178.86999999999534339, 535356.38000000000465661 432189.5, 535364.78000000002793968 432192.21999999997206032)), ((535353.16000000003259629 432153.16999999998370185, 535360.57999999995809048 432150.70000000001164153, 535360.57999999995809048 432144.27000000001862645, 535353.90000000002328306 432141.30999999999767169, 535345.5 432143.78000000002793968, 535346 432151.69000000000232831, 535353.16000000003259629 432153.16999999998370185)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "SCHOLZ  RECYCLING POLSKA SP.ZO.O.",
+      "address": "ul. Waryńskiego 32-36, 86-300 Grudziądz,",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "28/3"
+      ],
+      "economic_activity_code": "38.32.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "55 - 630 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1200 - 37000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "10 000 - 200 000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "20 - 250 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-12-02",
+    "legal_basis": "101 l ust.2 poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-02-19",
+        "reference": "WSI-I.516.12.2015.AJ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-04-13",
+        "reference": "WSI-I.516.1.2016.AJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-01-21",
+        "reference": "WSI-I.516.11.2015.AJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "SCHOLZ  RECYCLING POLSKA SP.ZO.O.",
+        "address": "ul. Waryńskiego 32-36, 86-300 Grudziądz,",
+        "economic_activity_code": "38.32.Z"
+      }
+    ],
+    "planned_start": "2016-03-09",
+    "planned_end": "2016-05-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona będzie metodą ex-situ i polegać będzie na usunięciu zanieczyszczonego gruntu oraz jednoczesne odpompowywanie zanieczyszczonej wody z wykopu. Wypompowywana woda będzie na miejscu poddawana procesowi doczyszczania przed zrzutem jej do gruntu lub kanalizacji miejskiej.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

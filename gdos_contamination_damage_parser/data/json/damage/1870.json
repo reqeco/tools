@@ -1,0 +1,50 @@
+{
+  "registry_id": 1870,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "głogowski",
+    "municipality": "Głogów (gmina miejska)",
+    "address": "działka o nr ew. 10/2 obręb Nadodrze, gm. Miasto Głogów, powiat głogowski",
+    "precinct": "Miasto Głogów",
+    "parcel_numbers": [
+      "020301_1.0001.10/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((295696.13718237577 427073.07141636685,295705.3976176651 427067.7797391163,295698.38614523923 427056.93180075753,295690.5809211972 427060.9005586868,295690.9777970017 427061.1651425585,295690.4486292656 427060.9005586868,295696.13718237577 427073.07141636685))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "kwiecień 2023 r."
+  },
+  "land_surface_holder": "Skarb Państwa (Prezydent Miasta Głogowa)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "niewłaściwuie składowane odpady, prawdopodobne przecieki",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Prezydent Miasta Głogowa",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2023-12-29",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "postępowanie zawieszone postanowieniem z dnia 10.01.2024 r. znak: WSI.512.33.2023.MR.2 do czasu usunięcia odpadów z miejsca nieprzeznaczonego do ich składowania lub magazynowania."
+}

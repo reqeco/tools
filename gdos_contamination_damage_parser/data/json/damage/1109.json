@@ -1,0 +1,123 @@
+{
+  "registry_id": 1109,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Ostrołęka",
+    "municipality": "Ostrołęka",
+    "address": "ul. Szpitalna 24",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "20418"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((672098.0654684273 583508.249173155,672106.6644440014 583507.8522973564,672113.6759163956 583497.4012347953,672111.9561212721 583471.868892055,672098.0654684191 583464.4605439063,672097.0071329661 583476.8959854441,672098.0654684273 583508.249173155))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi spowodowane likwidacja stacji benzynowej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2400-4670 [mg/kg]",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3000-10846 [mg/kg]",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "13,1 [mg/kg]",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "8,66 [mg/kg]",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "249 [mg/kg]",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "9,42 [mg/kg]",
+      "area_ha": 0.012
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2018-05-14",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2018-06-26",
+        "reference": "WSI.511.4.2018.MB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-09-10",
+    "planned_end": "2019-03-10",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usuniecie zanieczyszczonej warstwy gleby metoda ex-situ",
+    "ecological_effect": "osiągnieto załozony efekt ekologiczny",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki podmiotu zobowiązanego do przeprowadzenia działań",
+    "covered_by_obligee": "całość",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

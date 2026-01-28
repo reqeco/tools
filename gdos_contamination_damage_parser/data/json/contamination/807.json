@@ -1,0 +1,112 @@
+{
+  "registry_id": 807,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1979,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Karczunkowska",
+    "precinct": "1-09-70",
+    "parcel_numbers": [
+      "3/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636526.4108253502 473368.70819286536,636529.0566639813 473311.5580785638,636489.8982522881 473305.7372335857,636484.0774073025 473331.66645211633,636477.7273945955 473334.3122907365,636475.6107236942 473366.062354235,636486.7232459366 473364.4748510653,636486.1940782062 473378.23321191594,636526.4108253502 473368.70819286536))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MDR Warszawa Sp. z o.o.",
+      "address": "ul. Przeskok 2, 00-032 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "3/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "32-96",
+      "area_ha": 0.1979
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-07-12",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.73.2019.MGł",
+    "decisions": [
+      {
+        "issue_date": "2019-10-07",
+        "reference": "WOOŚ-IV.515.73.2019.MGł.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-02-10",
+        "reference": "DOA-WSzOP.515.5.2019.AW.7",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-07-07",
+        "reference": "WOOŚ-IV.515.73.2019.DŚc.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-10-23",
+      "reason": "rozbieżność między rozstrzygnięciem i uzasadnieniem dotycząca terminu zakończenia remediacji",
+      "appealed_decision_reference": "WOOŚ-IV.515.73.2019.MGł.3",
+      "resolution_reference": "DOA-WSzOP.515.5.2019.AW.7",
+      "appellant_name": "MDR Warszawa sp. z o.o.",
+      "appellant_address": "ul. Przeskok 2, 00-032 Warszawa",
+      "resolution_date": "2021-02-10",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "utrzymuję w mocy zaskarżoną decyzję"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MDR Warszawa Sp. z o.o.",
+        "address": "ul. Przeskok 2, 00-032 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-09-30",
+    "planned_end": "2021-12-31",
+    "actual_end": "2021-09-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex situ - usunięcie zanieczyszczonej gleby i ziemi",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

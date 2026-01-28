@@ -1,0 +1,95 @@
+{
+  "registry_id": 1264,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Czernica",
+    "address": "ul. Swobodna  55-002 Gajków",
+    "precinct": "Gajków",
+    "parcel_numbers": [
+      "15/10 Gajków"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((373646.76997863554 357076.54999855533,373646.7453553168 357076.23712962493,373646.6720916682 357075.93196456507,373646.55199168384 357075.64201755356,373646.3880126239 357075.3744280506,373646.18419219746 357075.135784992,373645.9455491392 357074.93196456693,373645.6779596339 357074.76798550505,373645.388012623 357074.64788552374,373645.0828475639 357074.57462187205,373644.7699786334 357074.54999855347,373644.4571097027 357074.57462187205,373644.151944644 357074.64788552374,373643.86199763283 357074.76798550505,373643.5944081275 357074.93196456693,373643.35576506925 357075.13578499015,373643.15194464277 357075.37442804966,373642.98796558264 357075.6420175554,373642.8678655984 357075.93196456507,373642.79460194986 357076.23712962214,373642.76997863094 357076.54999855626,373642.79460194975 357076.86286748573,373642.8678655984 357077.16803254373,373642.98796558275 357077.4579795562,373643.1519446424 357077.725569061,373643.35576506925 357077.9642121196,373643.5944081273 357078.16803254373,373643.8619976326 357078.3320116047,373644.15194464393 357078.452111586,373644.45710970275 357078.5253752358,373644.76997863327 357078.54999855533,373645.08284756367 357078.5253752358,373645.3880126226 357078.4521115869,373645.67795963364 357078.33201160375,373645.94554913923 357078.1680325456,373646.1841921974 357077.9642121168,373646.388012624 357077.7255690601,373646.55199168395 357077.4579795562,373646.67209166824 357077.1680325456,373646.7453553168 357076.8628674848,373646.76997863554 357076.54999855533)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2019-03-06",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Działka nr 15/10 obręb Gajków była czasowo wykorzystywana na potrzeby działalności w  zakresie gospodarki odpadami prowadzonej przez wspólników (…)",
+  "total_area_ha": 0.0013,
+  "reporters": [
+    {
+      "name": "Dolnośląski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Chełmońskiego 14 51-630 Wrocław",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "39.00.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,163-0,192 mg/kg s.m.",
+      "area_ha": 0.44
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "71-1670 mg/kg s.m.",
+      "area_ha": 0.1108
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1422-14512 mg/kg s.m.",
+      "area_ha": 0.1108
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2020-09-07",
+    "detection_date": "2019-06-27",
+    "decisions": [
+      {
+        "issue_date": "2020-12-07",
+        "reference": "WSI.511.8.2020.KMA.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-01-01",
+    "planned_end": "2021-02-28",
+    "actual_end": "2021-01-01",
+    "method": "zmniejszenie ilości zanieczyszczeń",
+    "description": "Remediacja polegać będzie na zmniejszeniu ilości substancji powodujących w glebie i ziemi, poprzez wydobycie części zanieczyszczonego gruntu z powierzchni ok. 0,00125 ha.",
+    "ecological_effect": "Remediacja metodą ex situ w rejonie otworu O-1 doprowadzi do osiągnięcia zawartości naftalenu,  sumy węglowodorów C6-C12 składników frakcji benzyn oraz sumy węglowodorów C12-C35 składników frakcji oleju w glebie i ziemi na poziomie nie wyższym niż określony w rozporządzeniu dla I grupy gruntów, z uwzględnieniem głębokości oraz wodoprzepuszczalności.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": "WSI.511.8.2020"
+}

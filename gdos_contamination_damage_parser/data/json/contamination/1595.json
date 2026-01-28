@@ -1,0 +1,78 @@
+{
+  "registry_id": 1595,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.078,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Częstochowa",
+    "municipality": "Częstochowa",
+    "address": "ul. Legionów, działki o nr ew. 72/3, 72/5 obręb 222 oraz 107/3, 107/6 obręb 221",
+    "precinct": "obręb 222 oraz 221",
+    "parcel_numbers": [
+      "246401_1.0221.107/3",
+      "246401_1.0221.107/6",
+      "246401_1.0222.72/3",
+      "246401_1.0221.72/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((513257.80246899998746812 326160.47191700001712888, 513300.55768399999942631 326134.72904499998548999, 513326.17524800001410767 326119.46169600001303479, 513343.43523399997502565 326109.16441199998371303, 513386.16073800000594929 326083.44193899998208508, 513420.68476199998985976 326063.14713599998503923, 513471.31926000001840293 326031.06153700000140816, 513514.38705499999923632 326005.52432700002100319, 513556.86328200000571087 325979.10567199997603893, 513608.65227999998023733 325948.88331200001994148, 513626.50190400000428781 325937.10896799998590723, 513623.60807999997632578 325853.20986499998252839, 513620.1870529999723658 325753.97735100000863895, 513486.26486400002613664 325831.20241299999179319, 513367.73415700002806261 325899.63459899998269975, 513357.00456999999005347 325905.82601299998350441, 513371.96971600002143532 325931.26777899998705834, 513388.71998499997425824 325921.7069469999987632, 513404.18192300002556294 325949.15075400000205263, 513380.39759700000286102 325962.52444599999580532, 513353.55452800000784919 325978.06820500001776963, 513315.34845500002847984 325999.52212799998233095, 513247.53356700000585988 326038.18622799997683614, 513221.92244400002527982 326050.97501499997451901, 513146.8531139999977313 326092.67545199999585748, 513154.23454099998343736 326104.19844399997964501, 513208.97904100001323968 326189.76474399998551235, 513215.02672800002619624 326186.17509400000562891, 513257.80246899998746812 326160.47191700001712888))",
+    "site_description": "Zgodnie z informacjami zawartymi w rozpatrywanych dokumentach, przedmiotowy teren w przeszłości był własnością huty stali Częstochowa. Huta Częstochowa powstała na przełomie XIX oraz XX wieku, znacznie rozbudowana została w latach 40-60 XX wieku. W 2005 r. hutę przejął ukraiński Przemysłowy Związek Donbasu, we wrześniu 2006 zmieniono nazwę na „ISD Huta Częstochowa”.  Przedmiotowy teren został wydzielony z obszarów Koksowni Nowa Częstochowa (część dawnej huty), w ramach Częstochowskiej podstrefy KSSE, która zaczęła działać wokół Huty Częstochowa w 2000 roku. Ostatnie zakłady działające na nieruchomości to: ZF TRW Polska Sp. z o.o. – produkcja samochodowych pasów bezpieczeństwa i zamków samochodów osobowych oraz GST Automotive Safety Poland Sp. z o.o. - produkcja samochodowych poduszek powietrznych. Obecnie na działkach znajdują się zabudowania przeznaczone do przebudowy lub rozbiórki wraz z drogami i powierzchnią utwardzoną."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "TS Tech Deutschland GmbH z siedzibą w Wolfsburgu",
+      "address": null,
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.078
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-02-04",
+    "legal_basis": null,
+    "case_reference": "WSI.515.19.2021.MS2",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TS Tech Deutschland GmbH z siedzibą w Wolfsburgu",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2024-02-28",
+    "actual_end": "2022-04-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi została przeprowadzona metodą ex-situ.  Zanieczyszczony grunt został usunięty z miejsc i głębokości zidentyfikowanych podczas IV i V etapu badań. Grunt zanieczyszczony został wydobyty i przetransportowany do odbiorcy posiadającego stosowne uprawnienia i pozwolenia. Remediacja metodą ex situ została przeprowadzona do momentu uzyskania w ścianach i dnie powstałych wykopów zawartości substancji powodujących ryzyko na poziomie nie przekraczającym dopuszczalnych stężeń dla gruntów grupy IV.  Wydobyty, zanieczyszczony grunt, został zagospodarowany w sposób zapewniający przestrzeganie przepisów z zakresu ochrony środowiska, ze szczególnym uwzględnieniem przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (tekst jedn. Dz. U. 2021, poz. 779 ze zm.).",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

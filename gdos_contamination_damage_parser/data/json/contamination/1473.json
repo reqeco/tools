@@ -1,0 +1,122 @@
+{
+  "registry_id": 1473,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0204,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Cybernetyki 7 Warszawa, Dzielnica Mokotów",
+    "precinct": "0813",
+    "parcel_numbers": [
+      "8/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636477.3062827643 480638.51727105863,636525.4605457971 480623.4359908998,636507.2042592554 480567.3442120496,636457.9916607813 480584.2775792498,636477.3062827643 480638.51727105863))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "WSD SPV 1 sp. z o.o.",
+      "address": "ul. Stanisława Żaryna 2B 05-593 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "8/11"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0204
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-05-26",
+    "legal_basis": "101l ust.1",
+    "case_reference": "WOOŚ-IV.515.34.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-08-17",
+        "reference": "WOOŚ-IV.515.34.2021.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-11-02",
+        "reference": "WOOŚ-IV.515.34.2021.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.155",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "WSD SPV 1 sp. z o.o.",
+        "address": "ul. Stanisława Żaryna 2B 05-593 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-09-01",
+    "planned_end": "2021-09-30",
+    "actual_end": "2024-01-08",
+    "method": null,
+    "description": "Metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

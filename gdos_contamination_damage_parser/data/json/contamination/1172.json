@@ -1,0 +1,162 @@
+{
+  "registry_id": 1172,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "ząbkowicki",
+    "municipality": "Kamieniec Ząbkowicki",
+    "address": "ul. Krótka 6",
+    "precinct": "0005 Kamieniec Ząbkowicki II",
+    "parcel_numbers": [
+      "329",
+      "334/1",
+      "obręb Kamieniec Ząbkowicki II"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((351041.28729116637259722 298580.2499796450138092, 351051.22999999998137355 298580.72999999998137355, 351050.52000000001862645 298576.55999999999767169, 351047.23999999999068677 298574.5, 351042.79999999998835847 298576.10999999998603016, 351041.28729116637259722 298580.2499796450138092)),((351121.40000000002328306 298567.71999999997206032, 351130.46000000002095476 298564.84999999997671694, 351129.04999999998835847 298561.53999999997904524, 351124.32000000000698492 298560.15999999997438863, 351120.84000000002561137 298563.16999999998370185, 351121.40000000002328306 298567.71999999997206032)),((351062.70000000001164153 298581.45000000001164153, 351088.61415781482355669 298574.90919842181028798, 351085.55999999999767169 298568.57000000000698492, 351078.34000000002561137 298563.71000000002095476, 351047.35999999998603016 298559.17999999999301508, 351046.34999999997671694 298565.97999999998137355, 351049.80999999999767169 298571.07000000000698492, 351056.65000000002328306 298574.73999999999068677, 351059.03000000002793968 298580.95000000001164153, 351062.70000000001164153 298581.45000000001164153)),((351047.48999999999068677 298547.03999999997904524, 351054.38000000000465661 298549.63000000000465661, 351057.02000000001862645 298550.52000000001862645, 351062 298552.52000000001862645, 351064.71999999997206032 298555.26000000000931323, 351066.01000000000931323 298559.05999999999767169, 351068.72999999998137355 298562.11999999999534339, 351072.96000000002095476 298562.67999999999301508, 351075.92999999999301508 298561.09000000002561137, 351077.55999999999767169 298559.41999999998370185, 351077.59000000002561137 298556.10999999998603016, 351077.59000000002561137 298554.05999999999767169, 351076.71999999997206032 298550.66999999998370185, 351075.54999999998835847 298547.88000000000465661, 351074.94614756084047258 298547.58801110141212121, 351065.70000000001164153 298544.32000000000698492, 351065.03999999997904524 298543.97999999998137355, 351060.01000000000931323 298542.75, 351054.22999999998137355 298541.90000000002328306, 351049.58000000001629815 298541.65000000002328306, 351046.61999999999534339 298543.75, 351047.48999999999068677 298547.03999999997904524)),((351122.29999999998835847 298512.40999999997438863, 351114.21889542846474797 298507.14643145212903619, 351108.09999999997671694 298499.22999999998137355, 351104.21999999997206032 298490.14000000001396984, 351102.32000000000698492 298480.41999999998370185, 351104.19000000000232831 298470.90999999997438863, 351112.57000000000698492 298467.48999999999068677, 351119.28999999997904524 298474.47999999998137355, 351121.29999999998835847 298484.11999999999534339, 351125.55656371160876006 298493.12045007082633674, 351132.23999999999068677 298500.09999999997671694, 351131.17999999999301508 298509.46000000002095476, 351122.29999999998835847 298512.40999999997438863)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "25,8mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "12,2mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3800mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "15500mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "177mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "119mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "399mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "7,53mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "11,6mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,92mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "10,4mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "14,5mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,77mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-07-28",
+    "legal_basis": "art.61 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.11.2019",
+    "decisions": [
+      {
+        "issue_date": "2021-02-04",
+        "reference": "WSI.515.11.2019.JS.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": null,
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-02-28",
+    "planned_end": "2028-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

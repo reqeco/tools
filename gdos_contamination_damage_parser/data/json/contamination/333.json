@@ -1,0 +1,315 @@
+{
+  "registry_id": 333,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.53,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Droga Dębińska, 61-555 Poznań",
+    "precinct": "0061 Wilda",
+    "parcel_numbers": [
+      "27/1",
+      "27/2",
+      "27/3",
+      "27/4",
+      "27/5",
+      "27/6",
+      "26/1",
+      "26/2",
+      "26/3",
+      "26/4",
+      "17/1",
+      "17/2",
+      "17/3",
+      "arkusz 08",
+      "obręb 61 Wilda"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((359527.33626922744 505476.7943855347,359502.99455384735 505395.30255588423,359659.0990329416 505355.08580878656,359658.0406974864 505449.8068315564,359527.33626922744 505476.7943855347))",
+    "site_description": "Nieużytek przeznaczony pod zabudowę mieszkaniową"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Zanieczyszczenie głównie w nasypach, które powstały w latach dwudziestych XX w. podczas podwyższania wałów przeciwpowodziowych rzeki Warty."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ACE 12 Sp.z.o.o.",
+      "address": "ul. 17 Stycznia 48, 02-146 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "203 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "321 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "176 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "190 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "0,68 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "30 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,3 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "8,44 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "8,17 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "11,1 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,26 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "12,2 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "8,6 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "6,36 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "2,77 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "4,28 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "414 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "481 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "206 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "401 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "12,5 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1184 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "22,2 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "21,9 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "30,6 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "30,6 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "1,30 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "44 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "23,3 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "17,8 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "11,5 mg/kg s.m.",
+      "area_ha": 1.53
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,3 mg/kg s.m.",
+      "area_ha": 1.53
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-11-21",
+    "legal_basis": "art. 101l ustawy Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-01-15",
+        "reference": "WSS.515.28.2017.ASB.4/WSS.515.1.2018.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ACE 12 Sp.z.o.o.",
+        "address": "ul. 17 Stycznia 48, 02-146 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-01-22",
+    "planned_end": "2018-03-31",
+    "actual_end": "2018-03-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona metodą ex-situ. Z wyznaczonych obszarów o  powierzchni zanieczyszczenia około 15.300 m2 usunięty zostanie zanieczyszczony grunt do głębokości ok. 0,8 m ppt. Ponadto wybrany zostanie grunt wokół otworów badawczych, w których na głębokości poniżej 0,5 m ppt stwierdzono przekroczenia dopuszczalnych wartości metali ciężkich oraz w zakresie wskaźnika suma węglowodorów C12-C35, składników frakcji oleju. Zagospodarowanie powstałych odpadów należy prowadzić zgodnie z przepisami o odpadach. Powstałe wykopy zostaną zasypane ziemią wolną od zanieczyszczeń, przy czym zasypanie nastąpi po uzyskaniu wyników pobranych próbek gleby z dna i ścian wykopów wskazujących na spełnianie norm jakości gleby i ziemi.",
+    "ecological_effect": "Z treści sprawozdania złożonego wraz z pismem 9 marca 2018 r., a także uzupełnienia z 5 kwietnia 2018 r. wynika, że remediacja została przeprowadzona zgodnie z ustalonym planem remediacji, a wyniki badań pobranych próbek gleby wskazują, że osiągnięto założony efekt ekologiczny, zatem remediację przedmiotowego terenu można uznać za zakończoną.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

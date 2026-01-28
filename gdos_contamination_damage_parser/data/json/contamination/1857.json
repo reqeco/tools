@@ -1,0 +1,114 @@
+{
+  "registry_id": 1857,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Chorzów",
+    "municipality": "Chorzów",
+    "address": "Chorzów ul. Metalowców 9",
+    "precinct": "0004",
+    "parcel_numbers": [
+      "246301_1.0004.AR_1.3651/449"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((496953.28 270877.15,496958.14 270853.18,496955.28 270846.85,496944.81 270833.94,496950.78 270801.76,496953.41 270765.13,496954.11 270755.43,496953.59 270749.88,496948.99 270735.68,496942.85 270729.29,496887.66 270719.34,496818.55 270706.81,496817.25 270713.97,496812.31 270713.02,496812.52 270711.86,496810.24 270711.44,496810.01 270712.61,496808.16 270712.29,496807.46 270716.08,496801.33 270714.98,496790.66 270800.63,496786.04 270799.79,496784.65 270807.47,496784.33 270807.38,496772.51 270805.52,496727.55 270797.88,496690.01 270798.65,496670.2 270801.95,496669.51 270802.06,496657.39 270804.09,496648.68 270805.77,496635.82 270809.14,496576.79 270827.81,496576.73 270828.31,496571.86 270861.36,496598.83 270854.2,496671.94 270835.4,496702.46 270834.23,496706.24 270871.59,496753.25 270868.92,496776.32 270868.24,496809.05 270868.86,496936.15 270873.94,496953.28 270877.15))",
+    "site_description": "Chorzów ul. Metalowców 9"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja konstrukcji metalowych i ich części",
+    "current": "Produkcja lokomotyw kolejowych oraz taboru szynowego"
+  },
+  "land_holders": [
+    {
+      "name": "Alstom Konstal S.A.",
+      "address": "ul. Metalowców 9 41-500 Chorzów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246301_1.0004.AR_1.3651/449"
+      ],
+      "economic_activity_code": "30.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "140 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "390 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "38 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "30000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "22000mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-31",
+    "legal_basis": "Na podstawie art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096) oraz w związku z art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799 z późn. zm.)",
+    "case_reference": "WSI.513.6.2019.MO",
+    "decisions": [
+      {
+        "issue_date": "2023-06-27",
+        "reference": "WSI.513.6.2019.MO.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Alstom Konstal S.A.",
+        "address": "ul. Metalowców 9 41-500 Chorzów",
+        "economic_activity_code": "30.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

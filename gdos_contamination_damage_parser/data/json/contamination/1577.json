@@ -1,0 +1,90 @@
+{
+  "registry_id": 1577,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Karowa, ul. Dymarek",
+    "precinct": "40 Nowa Huta, 41 Nowa Huta",
+    "parcel_numbers": [
+      "126103_9.0041.227",
+      "126103_9.0040.11",
+      "126103_9.0040.359/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((578506.4637840933 242894.99724812526,578559.9097243149 242901.34726082534,578748.2934344205 242842.60964335408,578683.2058042486 242756.8844719045,578655.1599148177 242681.21348722465,578655.6890825476 242673.27597135399,578505.9346163634 242751.5927946549,578504.8762809131 242752.1219623778,578506.4637840933 242894.99724812526),(578896.8175856655 244069.48501376156,578939.1510036669 244093.8267291123,578898.9342565656 244158.91435929295,578896.8175856655 244069.48501376156),(579142.8805778032 244153.62268204242,579150.2889259534 244154.15184976067,579144.9972487033 244184.3144100923,579140.7639069031 244191.722758241,579131.768055573 244186.43108099047,579142.8805778032 244153.62268204242)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miejska Kraków",
+      "address": null,
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "126103_9.0041.227",
+        "126103_9.0040.11",
+        "126103_9.0040.359/8"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2020-05-20",
+    "legal_basis": "art. 61 § 1 Kpa",
+    "case_reference": "ZS.513.1.2020.PD",
+    "decisions": [
+      {
+        "issue_date": "2020-10-28",
+        "reference": "ZS.513.1.2020.PD",
+        "issuing_authority": null,
+        "legal_basis": "art. 101c ust. 3 i 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-10-19",
+        "reference": "ZS.513.1.2020.PD",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 132  § 2 Kpa, art. 101 c pkt. 3 i 4 poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Miejska Kraków",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

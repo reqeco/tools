@@ -1,0 +1,147 @@
+{
+  "registry_id": 1603,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.25,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Kobierzyce",
+    "address": "ul. Handlowa",
+    "precinct": "Bielany Wroclawskie",
+    "parcel_numbers": [
+      "022305_2.0001.284/189"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((357390.52250265015754849 354723.48439720628084615, 357379.1774905759957619 354700.79437305801548064, 357461.86517473176354542 354683.34050832857610658, 357467.53768076881533489 354706.24870578595437109, 357495.46386433596489951 354740.5019153174944222, 357466.88316084147663787 354746.61076797283021733, 357448.77477618469856679 354701.01254636712837964, 357390.52250265015754849 354723.48439720628084615))",
+    "site_description": "część sekcji XVII"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "EELVF IV Poland Dev B1 Sp. z o.o.",
+      "address": "Ul. Złota 59 00-120 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,6 mg/kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,4 mg/kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "3,2 mg/kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,2 mg/kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "2,2 mg/kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,2 mg/kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,1 mg/kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,9 mg/kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,5 mg/kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,9 mg/kg s.m.",
+      "area_ha": 0.25
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-03-31",
+    "legal_basis": "art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, w związku z art. 101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.515.6.2022.MR",
+    "decisions": [
+      {
+        "issue_date": "2022-07-13",
+        "reference": "WSI.515.6.2022.MR.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "EELVF IV Poland Dev B1 Sp. z o.o.",
+        "address": "Ul. Złota 59 00-120 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "zwolnienie z obowiązku przeprowadzenia działań naprawczych",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "zwolniono z remediacji, powiązana z kartą 1602"
+}

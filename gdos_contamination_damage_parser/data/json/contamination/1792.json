@@ -1,0 +1,105 @@
+{
+  "registry_id": 1792,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1517,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "warszawski zachodni",
+    "municipality": "Błonie",
+    "address": "ul. Ekologiczna Błonie",
+    "precinct": "0029 Błonie",
+    "parcel_numbers": [
+      "4/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((610402.1145591917 480965.5723472452,610404.2312300919 480916.7566246148,610449.8719463863 480918.60871164594,610447.3583996859 480967.821310075,610402.1145591917 480965.5723472452))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Future Eco sp. z o.o.",
+      "address": "ul. Puławska 99 02-595 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-12-28",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.63.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2023-03-29",
+        "reference": "WOOŚ-IV.515.63.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Future Eco sp. z o.o.",
+        "address": "ul. Puławska 99 02-595 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-04-01",
+    "planned_end": "2027-12-01",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

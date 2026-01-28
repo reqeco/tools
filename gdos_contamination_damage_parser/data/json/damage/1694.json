@@ -1,0 +1,51 @@
+{
+  "registry_id": 1694,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "wejherowski",
+    "municipality": "Linia",
+    "address": null,
+    "precinct": "Zakrzewo",
+    "parcel_numbers": [
+      "167/4",
+      "220"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Jezioro Morzyc"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2013-01-01",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione",
+  "event_description": "Obniżanie się poziomu wody w Jeziorze Morzyc.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Wejherowski",
+      "address": "ul. 3 Maja 4, 84-200 Wejherowo",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": null,
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

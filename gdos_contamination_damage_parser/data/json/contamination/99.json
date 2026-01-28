@@ -1,0 +1,99 @@
+{
+  "registry_id": 99,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0144,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "municipality": "Brzeg",
+    "address": "49-300 Brzeg, ul. Ziemi Tarnowskiej 3",
+    "precinct": "Brzeg",
+    "parcel_numbers": [
+      "dz. 126/12",
+      "126/13   Brzeg"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((393738.0932300908 333290.3619493842,393715.8681856273 333303.0619747853,393746.0307459748 333353.8620763859,393763.7578647755 333343.8078896059,393756.8786843415 333328.4620255828,393784.65998992894 333312.8515776945,393786.51207695995 333300.6807200145,393807.4142021129 333288.5098623466,393785.7183253801 333247.7639475148,393731.4786335267 333278.45567556284,393660.8347421952 333160.18668902107,393724.07028537436 333131.611631874,393767.4620388505 333105.4178294977,393829.63924657716 333217.07221946586,393874.6185032347 333190.8784170896,393896.04979610734 333229.7722448651,393895.52062837663 333235.5930898469,393844.1913590253 333265.49106630776,393849.2184524184 333274.7515014997,393853.45179422095 333277.39734011516,393864.29973258707 333296.4473782191,393865.0934841774 333313.1161615569,393892.6102058942 333291.9494525576,393939.17696572223 333309.1474036183,393924.88943713316 333320.5245097084,393857.9497198821 333406.2496811589,393820.11422751984 333342.74955415726,393772.22454838024 333386.1413076017,393738.0932300892 333412.07052613236,393686.4993768779 333378.99754331075,393687.0285445986 333372.3829467511,393718.77860811807 333349.09956685454,393619.82424349 333178.9721432617,393660.83474219526 333159.65752129816,393738.0932300908 333290.3619493842))",
+    "site_description": "Brzeg, ul. Ziemi Tarnowskiej 3"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 30 kwietnia 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja margaryny i podobnych tłuszczów jadalnych",
+    "current": "Produkcja margaryny i podobnych tłuszczów jadalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Zakłady Tłuszczowe Kruszwica S.A. - Zakład w Brzegu",
+      "address": "ul. Ziemi Tarnowskiej 3   49-300 Brzeg",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "10.42.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "420 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,2 - 7,3 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "6 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-09-16",
+    "legal_basis": "art. 101l ust.2",
+    "case_reference": "WOOŚ.511.1.9.2016.ER",
+    "decisions": [
+      {
+        "issue_date": "2017-06-06",
+        "reference": "WOOŚ.511.1.9.2016.ER.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Zakłady Tłuszczowe Kruszwica S.A. - Zakład w Brzegu",
+        "address": "ul. Ziemi Tarnowskiej 3   49-300 Brzeg",
+        "economic_activity_code": "10.42.Z"
+      }
+    ],
+    "planned_start": "2017-07-01",
+    "planned_end": "2019-06-30",
+    "actual_end": "2019-06-30",
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Remediacja przedmiotowego terenu będzie przeprowadzona zgodnie z art. 101 q ust. 1 pkt 2 b ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519), zwanej dalej Poś i polegać będzie na: 3.1.\tograniczeniu możliwości rozprzestrzeniania się zanieczyszczeń poprzez:  a)\tzakaz wstępu osób postronnych na teren zakładu, b)\tmonitoring terenu zakładu, c)\tzaniechanie inwestycji w rejonie występowania zanieczyszczeń do czasu zakończenia remediacji;  3.2.\tkontrolowaniu zanieczyszczenia poprzez okresowe badania gleby i ziemi                            w następujący sposób: a)\trejon otworu B10 – na zawartość cynku, w przedziale głębokościowym 0-0,25 oraz 0,25-1,0 m z częstotliwością raz w roku, przez okres kolejnych 3 lat; b)\trejon placu szlakowego – otwór D11, D12 i D13 - na zawartość WWA,  w przedziale głębokościowym 0-0,25 oraz 0,25-1,0 m z częstotliwością raz w roku, przez okres kolejnych 3 lat.",
+    "ecological_effect": "Wyniki badań gruntu w odniesieniu do dopuszczalnych wartości parametrów zależnych od współczynnika filtracji mieszczą się w podanych limitach dla współczynnika filtracji poniżej 1x10-7.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

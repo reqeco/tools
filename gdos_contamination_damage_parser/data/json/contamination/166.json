@@ -1,0 +1,273 @@
+{
+  "registry_id": 166,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.015,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "pilski",
+    "municipality": "Piła",
+    "address": "64-920 Piła, ul. Okrzei 2a",
+    "precinct": null,
+    "parcel_numbers": [
+      "278/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((348564.4154925775 588927.8554724362,348540.8675287636 588890.5491478182,348557.80089600635 588865.1490970189,348617.06768134725 588892.1366509991,348564.4154925775 588927.8554724362))",
+    "site_description": "teren byłego Kombinatu Budownictwa Komunalnego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Do końca lat 80-tych znajdował się tu tartak Kombinatu Budownictwa Komunalnego w Pile. Jego działalność polegała m. in. na nasączaniu drewna materiałami smołopochodnymi oraz olejami kreozotowymi. Następnie na początku XXI wieku na tym terenie znajdowały się garaże, obiekty warsztatowe i parking. Od sierpnia 2013 r. funkcjonuje tu stacja paliw."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "LOTOS Paliwa sp. z o.o.",
+      "address": "ul. Elbląska 135, 80-718 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od < 0,8 do 2010 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od < 6 do 6000 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "od < 0,07 do 176 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Naftalen",
+      "concentration": "od 0,03 do 2510 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Fenantren",
+      "concentration": "od 0,038 do 28400 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Antracen",
+      "concentration": "od 0,012 do 12800 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Fluoranten",
+      "concentration": "od 0,075 do 20200 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Chryzen",
+      "concentration": "od 0,033 do 1560 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Benzo(a)antracen",
+      "concentration": "od 0,036 do 1630 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Benzo(a)piren",
+      "concentration": "od 0,034 do 990 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "od 0,009 do 279 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "od 0,02 do 510 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "od 0,293 do 68800 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Fenol",
+      "concentration": "od < 0,6 do 200 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od < 0,8 do 2010 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od < 6 do 6000 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "od < 0,07 do 176 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Naftalen",
+      "concentration": "od 0,03 do 2510 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Fenantren",
+      "concentration": "od 0,038 do 28400 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Antracen",
+      "concentration": "od 0,012 do 12800 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Fluoranten",
+      "concentration": "od 0,075 do 20200 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Chryzen",
+      "concentration": "od 0,033 do 1560 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(a)antracen",
+      "concentration": "od 0,036 do 1630 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(a)piren",
+      "concentration": "od 0,034 do 990 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "od 0,009 do 279 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "od 0,02 do 510 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "od 0,293 do 68800 mg/kg s.m.",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Fenol",
+      "concentration": "od < 0,6 do 200 mg/kg s.m.",
+      "area_ha": 0.015
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-10-19",
+    "legal_basis": "art. 101l",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-02-05",
+        "reference": "WSS.511.35.2015.KL.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "LOTOS Paliwa sp. z o.o.",
+        "address": "ul. Elbląska 135, 80-718 Gdańsk",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2016-04-01",
+    "planned_end": "2021-12-31",
+    "actual_end": "2021-12-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja i monitoring stanu środowiska gruntowo-wodnego prowadzony był zgodnie z decyzją. Intensywną remediację rozpoczęto w lipcu 2016 r., a zakończono do grudnia 2016 r. Wydobyto najbardziej zanieczyszczony grunt i przekazano do unieszkodliwiania, analizy gruntu pozostałego w wykopie nie wykazały ponadnormatywnej zawartości badanych substancji. Następnie przez 5 lat prowadzono monitoring stanu środowiska gruntowo-wodnego.",
+    "ecological_effect": "Wyniki badań laboratoryjnych próbek gleby wykazały wielokrotnie mniejsze stężenie badanych substancji, niż określiły to wymagania decyzji z 2016 r. Remediację można uznać za zakończoną.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

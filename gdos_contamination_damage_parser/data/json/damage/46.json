@@ -1,0 +1,80 @@
+{
+  "registry_id": 46,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Szczecin ul. Romera/Benesza",
+    "precinct": null,
+    "parcel_numbers": [
+      "57"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((200683.84280000001308508 630388.46959999902173877, 200723.2798999999940861 630386.27370000095106661, 200721.42069999998784624 630356.21670000103767961, 200750.18189999999594875 630354.48030000005383044, 200746.78950000001350418 630274.13690000004135072, 200769.57079999998677522 630272.79680000094231218, 200776.17060000001220033 630272.37580000096932054, 200790.35050000000046566 630272.57109999994281679, 200791.22459999998682179 630284.02540000004228204, 200803.71009999999660067 630283.31370000005699694, 200802.05470000000786968 630303.6078999990131706, 200803.87479999999050051 630339.20830000005662441, 200815.88539999999920838 630338.60359999898355454, 200826.594600000011269 630322.32979999994859099, 200871.86160000000381842 630319.38550000102259219, 200868.35939999998663552 630263.47800000000279397, 200872.83110000001033768 630252.64519999898038805, 200854.29110000000218861 630250.10970000002998859, 200836.90229999998700805 630247.72999999998137355, 200813.14420000000973232 630244.52569999895058572, 200808.87839999998686835 630243.86350000102538615, 200731.12059999999473803 630233.17220000002998859, 200725.4995000000053551 630232.46589999995194376, 200691.91490000000339933 630227.71950000000651926, 200689.91769999999087304 630227.8418000009842217, 200687.45470000000204891 630228.59139999898616225, 200684.88049999999930151 630230.75020000000949949, 200682.50729999999748543 630234.70140000095125288, 200682.38649999999324791 630236.83239999995566905, 200682.85060000000521541 630295.73640000098384917, 200682.92019999999320135 630299.65049999998882413, 200683.72570000000996515 630377.11300000001210719, 200683.84280000001308508 630388.46959999902173877))",
+    "site_description": "Budynek wielorodzinny"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2009-04-01",
+    "to": null,
+    "description": "okres lęgowy jerzyków"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "zablokowanie otworów wentylacyjnych w wyniku ocieplenia budynku przy ul. Romera/Benesza w Szczecinie, będących miejscem corocznego wyprowadzenia lęgu jerzyka",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "ZSM \"DĄB\" Szczecin",
+      "address": "Szczecin Zawadzkiego 88a",
+      "economic_activity_code": "68.32.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "jerzyk (Apus apus)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "jerzyk (Apus apus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-05-22",
+    "detection_date": "2009-04-01",
+    "decisions": [
+      {
+        "issue_date": "2009-06-02",
+        "reference": "RDOŚ-32-wsi-6660/2-3/09/AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Zdjęcie kratek wentylacyjnych z otworów prowadzących do stropodachu nieruchomości - umożliwienie jerzykom dolotu do miejsc lęgowych.",
+    "ecological_effect": "przywrócenie siedliska dla ptaków",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

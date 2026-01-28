@@ -1,0 +1,80 @@
+{
+  "registry_id": 499,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "strzelecko-drezdenecki",
+    "municipality": "Dobiegniew",
+    "address": "gm.Dobiegniew",
+    "precinct": null,
+    "parcel_numbers": [
+      "1/3 i 1/4 obręb Słonów",
+      "gmina Dobiegniew"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((280252.10874499055 569691.157315678,280255.8129191387 569693.8031543065,280252.10874499055 569691.157315678))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2010-11-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "szkoda polegająca na zanieczyszczeniu 9podwyższenie wartości ogólnej węgla organicznego i przewodności elektrolitycznej właściwej) użytkowanego poziomu wód podziemnych na terenie zamkniętego składowiska odpadów komunalnych (działka nr ew.1/3 i 1/4 obręb Słonów, gm. Dobiegniew.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Zielona Góra-Delegatura w Gorzowie Wlkp.",
+      "address": "ul. Kostrzyńska 48, 66-400 Gorzów Wlkp.",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "MaxEko Sp.zo.o.",
+      "address": "Wiry, Komorniki Czereśniowa",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-11-15",
+    "detection_date": "2010-11-01",
+    "decisions": [
+      {
+        "issue_date": "2011-01-26",
+        "reference": "WSI.511.10.2011.KS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-01-01",
+    "planned_end": "2011-06-01",
+    "actual_end": "2013-02-01",
+    "method": null,
+    "description": "1.1.\tBezwzględne przestrzeganie warunków decyzji Starosty Strzelecko-Drezdeneckiego  z dnia 19 maja 2008 r., znak: GP.M./7645/08/2008, zmienionej dnia 26 listopada  2008 r., szczególnie w zakresie miejsca prowadzenia odzysku odpadów, tj. na wydzielonej części działki o nr 1/4 obręb Słonów, gmina Dobiegniew o powierzchni 200 m2.  1.2.\tWykonanie badań sprawdzających wód podziemnych z piezometru nr 1 – w terminie do końca marca 2011 r. 1.3.\tWykonanie dodatkowego piezometru, na głębokości 25-30 m na kierunku spływu wód podziemnych, pod nadzorem uprawnionego geologa – do końca kwietnia  2011 r. 1.4.\tMonitoring składowiska odpadów ze zwiększoną częstotliwością badań tj. co kwartał – do końca 2012 r.  1.5.\tWzmożony nadzór nad przebiegiem prac rekultywacyjnych zarówno ze strony przeprowadzającego rekultywację tj. Firmy MaxEko jak i ze strony zarządzającego składowiskiem tj. Przedsiębiorstwa Usług Komunalnych w Dobiegniewie.",
+    "ecological_effect": "Działania zostały zrealizowane zgodnie z decyzją Regionalnego  Dyrektora Ochrony Środowiska w Gorzowie Wlkp. z dnia 26 stycznia 2011 r.,  znak: WSI.511.10.2011.KS, w celu poprawy jakości wód podziemnych na ww. terenie.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

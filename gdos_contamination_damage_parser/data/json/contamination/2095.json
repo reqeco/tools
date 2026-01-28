@@ -1,0 +1,80 @@
+{
+  "registry_id": 2095,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Czechowice-Dziedzice",
+    "address": "ul. Łukasiewicza 2",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "240204_4.0001.3762/137"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((501456.4681602920172736 226880.94032885300111957, 501427.0759972520172596 226842.78595343700726517, 501430.75614274299005046 226839.96847186499508098, 501439.54076939699007198 226833.22514270301326178, 501450.26452360901748762 226825.00678932399023324, 501479.69133102998603135 226863.51049145599245094, 501460.22011899197241291 226878.26180422600009479, 501456.4681602920172736 226880.94032885300111957)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2006-03-31",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN OIL Sp. z o.o.",
+      "address": "80-718 Gdańsk ul. Elbląska 135",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-09-25",
+    "legal_basis": "art. 101c ust 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.612.2024.MS2",
+    "decisions": [
+      {
+        "issue_date": "2024-11-15",
+        "reference": "WSI.513.612.2024.MS2.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

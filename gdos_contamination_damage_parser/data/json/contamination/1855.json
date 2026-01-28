@@ -1,0 +1,207 @@
+{
+  "registry_id": 1855,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.233,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "warszawski zachodni",
+    "municipality": "Łomianki",
+    "address": "ul. Wiślana, ul. Fabryczna",
+    "precinct": "0010 Łomianki Dolne",
+    "parcel_numbers": [
+      "512/8",
+      "1339/2",
+      "1341/2",
+      "1342/1",
+      "1345/1",
+      "1346/2",
+      "1346/3",
+      "1346/11",
+      "1347/1",
+      "1347/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((629479.1666820453 499537.37511555385,629468.3187436766 499547.69388618413,629500.7302668547 499604.31483276654,629525.336566096 499648.1034620041,629528.2469885788 499658.0253568534,629529.3053240302 499679.19206585176,629527.0563611984 499685.8066624133,629518.7219695216 499692.02438318357,629507.6094472923 499692.9504267052,629493.5865025708 499689.77542035375,629481.6802287406 499683.29311571363,629472.4197935527 499674.69414018467,629447.4166185211 499631.5669706045,629408.258206839 499651.80763608404,629415.9311388556 499665.0368292043,629441.0666058161 499651.9399280157,629460.2489358628 499683.6899915142,629470.832290372 499694.27334601525,629487.3687817958 499703.79836506397,629502.7146458287 499707.8994149342,629518.1928018016 499707.76712300256,629530.3636594815 499705.2535763029,629540.5501381999 499700.887942574,629550.8689088485 499689.6431284137,629586.7200222482 499691.2306315927,629591.7471156324 499683.0285318522,629569.7866550336 499661.86182285193,629588.0429415584 499644.002412132,629570.9772824141 499635.0065608118,629542.7991010298 499605.37316821143,629557.2189215515 499591.2179315621,629573.6231210349 499575.60748368315,629558.674132792 499560.7907873839,629558.4095489319 499557.74807296414,629541.2115978572 499543.72512825206,629546.9001509021 499551.3980602659,629542.5345171685 499554.5730666127,629541.2115978575 499563.8335018018,629535.1261690127 499572.3001854038,629509.5938262619 499590.42417998426,629479.1666820453 499537.37511555385))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Łomianki",
+      "address": "ul. Warszawska 115, 05-092 Łomianki",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "512/8",
+        "1339/2",
+        "1341/2",
+        "1342/1",
+        "1345/1",
+        "1346/2",
+        "1346/3",
+        "1346/11",
+        "1347/1",
+        "1347/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-10-27",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.72.2021.PBu",
+    "decisions": [
+      {
+        "issue_date": "2023-07-26",
+        "reference": "WOOŚ-IV.515.72.2021.PBu.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-06-02",
+        "reference": "WOOŚ-IV.515.72.2021.PBu.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-02-16",
+        "reference": "DOA-WSzOP.515.7.2022.MGO",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 101l ust. 4, art. 138 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2022-06-24",
+      "reason": "naruszenie przepisów postępowania oraz prawa materialnego",
+      "appealed_decision_reference": "WOOŚ-IV.515.72.2021.PBu.6",
+      "resolution_reference": "DOA-WSzOP.515.7.2022.MGO",
+      "appellant_name": "Gmina Łomianki",
+      "appellant_address": "ul. Warszawska 115, 05-092 Łomianki",
+      "resolution_date": "2023-02-16",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "uchylenie zaskarżonej decyzji i przekazanie sprawy do ponownego rozpatrzenia przez organ I instancji"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Łomianki",
+        "address": "ul. Warszawska 115, 05-092 Łomianki",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-07-01",
+    "planned_end": "2026-10-31",
+    "actual_end": "2024-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Zanieczyszczony grunt został usunięty z powierzchni 794 m2, a odstąpiono od usunięcia zanieczyszczenia gruntów z powierzchni ok. 1536 m2. W miejscach, gdzie nie usunięto gruntów zanieczyszczonych, prace remediacyjne przeprowadzane metodą in-situ, obejmowały będą aplikacje preparatów stabilizujących zanieczyszczenia, co ma na celu ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń. Dodatkowo w miejscu planowanego budynku B9 zanieczyszczenia zostały odizolowane poprzez szczelnie wykonany fundament budynku i posadzkę. Pozostałe obszary, gdzie nie usunięto gruntów zanieczyszczonych zostały odizolowane przez nawierzchnie utwardzone (m. in. drogi i parkingi) i mineralne oraz roślinność okrywową oraz wzmocnionym trawnikiem, co uniemożliwi kontakt człowieka z zanieczyszczonym gruntem.",
+    "ecological_effect": "remediacja doprowadziła do zmniejszenia ilości zanieczyszczeń",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

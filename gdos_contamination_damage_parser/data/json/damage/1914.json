@@ -1,0 +1,221 @@
+{
+  "registry_id": 1914,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Łodygowa 20 B",
+    "precinct": "4-09-17",
+    "parcel_numbers": [
+      "144"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641930.6224999105 493115.37541135866,641929.5641644595 493128.07543675695,641930.6224999105 493115.37541135866))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-07-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "po wykonaniu badań gleby przez spółkę stwierdzono przekroczenia stężeń substancji powodujących ryzyko w glebie",
+  "total_area_ha": 0.0403,
+  "reporters": [
+    {
+      "name": "MOL Polska sp. z o. o.",
+      "address": "al. Grunwaldzkiej 50 a, 80-241 Gdańsk",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "MOL Polska sp. z o. o.",
+      "address": "al. Grunwaldzkiej 50 a, 80-241 Gdańsk",
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.0204
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.0204
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2024-05-09",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2024-09-26",
+        "reference": "WOOŚ-IV.511.12.2024.PBu.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-10-01",
+    "planned_end": "2029-10-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "in situ bioremediacja",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

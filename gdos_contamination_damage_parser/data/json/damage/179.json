@@ -1,0 +1,82 @@
+{
+  "registry_id": 179,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "wąbrzeski",
+    "municipality": "Wąbrzeźno (gmina miejska)",
+    "address": "Wąbrzeźno, ul. Chełmińska",
+    "precinct": null,
+    "parcel_numbers": [
+      "dz. 27  obręb 6 Wąbrzeźno"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((495608.8970663 601595.5269239554,495631.65127848 601637.4634661544,495652.68569554994 601646.7239013445,495716.18582255003 601627.0124035971,495705.60246805014 601577.932097096,495608.8970663 601595.5269239554))",
+    "site_description": "stacja paliw PKN ORLEN nr 71"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu środowiska gruntowo-wodnego w rejonie modernizowanej Stacji Paliw nr 71 w Wąbrzeźnie",
+  "total_area_ha": 0.4883,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "Wąbrzeźno",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2008-06-12",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2008-07-11",
+        "reference": "WŚRRW-III-DL/6642/6/08",
+        "issuing_authority": "Wojewoda Kujawsko-Pomorski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "w ramach modernizacji stacji dokonano wymiany zbiorników podziemnych na paliwa, w tym usunięcie starych i posadowienie nowego zbiornika wielokomorowego",
+    "ecological_effect": "przedłożono \"Audyt środowiska gruntowego na terenie modernizowanej stacji paliw PKN ORLEN nr 71 przy ul. Chełmińskiej w m. Wąbrzeźno\" z lipca 2008 (oprac. GEOBIOS), z którego wynika brak przekroczeń standardów jakości środowiska, dołączone do akt: WSRRW-III-DL/6642/6/08",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

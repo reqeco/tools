@@ -1,0 +1,51 @@
+{
+  "registry_id": 1613,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "żarski",
+    "municipality": "Żary (gmina miejska)",
+    "address": null,
+    "precinct": "5 miasto Żary",
+    "parcel_numbers": [
+      "40/3",
+      "40/4"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-09-28",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Burmistrz Miasta Żary ( działka nr 40/3), Starosta Żarski (działka nr 40/4))",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": null,
+  "event_description": "potencjalne zagrożenie  polega na obumieraniu drzew",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Zielona Góra",
+      "address": "Siemiradzkiego 19 65-231 Zielona Góra",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": null,
+    "detection_date": "2018-09-28",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "teren jest podmokły, na działce nr 40/3 (teren częściowo usypany z gruzu, trawa proces inwestycyjny prowadzony przez Burmistrza Żar)"
+}

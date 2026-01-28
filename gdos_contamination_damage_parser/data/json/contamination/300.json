@@ -1,0 +1,148 @@
+{
+  "registry_id": 300,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0122,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "słupecki",
+    "municipality": "Powidz",
+    "address": "ul. Witkowska 8, 62-430 Powidz",
+    "precinct": null,
+    "parcel_numbers": [
+      "401"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((424520.6573529397 506323.94610928,424537.8553040105 505923.10155760124,424758.7828291977 505852.98683403153,424954.57488746406 505859.6014306033,424986.3249509648 506353.050334163,424520.6573529397 506323.94610928))",
+    "site_description": "teren kompleksu wojskowego 33 BLTr."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Stacja Paliw funkcjonująca od lat 60-tych XX w., wyłączona z eksploatacji w 2015 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Wojskowy Zarząd Infrastruktury w Poznaniu",
+      "address": "ul. T. Kościuszki 92/98, 61-716 Poznań",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "od 0,03 do 33,2 mg/kg s.m.",
+      "area_ha": 0.0065
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "od 0,01 do 20,6 mg/kg s.m.",
+      "area_ha": 0.0065
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od 1,0 do 1550 mg/kg s.m.",
+      "area_ha": 0.0057
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 13 do 19900 mg/kg s.m.",
+      "area_ha": 0.0057
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "od 0,01 do 10,0 mg/kg s.m.",
+      "area_ha": 0.0057
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "od 0,02 do 11,7 mg/kg s.m.",
+      "area_ha": 0.0057
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "od 0,02 do 65,5 mg/kg s.m.",
+      "area_ha": 0.0057
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "od 0,1 do 8,03 mg/kg s.m.",
+      "area_ha": 0.0057
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "od 0,03 do 353 mg/kg s.m.",
+      "area_ha": 0.0057
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-07-03",
+    "legal_basis": "art. 101l ustawy Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-08-29",
+        "reference": "WSS.515.19.2017.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-08-17",
+        "reference": "WSS.515.26.2018.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Wojskowy Zarząd Infrastruktury w Poznaniu",
+        "address": "ul. T. Kościuszki 92/98, 61-716 Poznań",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-01-31",
+    "planned_end": "2018-12-31",
+    "actual_end": "2017-12-31",
+    "method": "zmniejszenie ilości zanieczyszczeń",
+    "description": "Remediacja prowadzona metodą ex-situ. Ze wszystkich trzech wyznaczonych w Projekcie obszarów o łącznej powierzchni zanieczyszczenia 122,1 m2 usunięty został zanieczyszczony grunt. Grunt zanieczyszczony z obszaru nr 1 o powierzchni 65,5 m2 został usunięty do głębokości 5 m ppt, a z obszarów nr 2 i nr 3 o powierzchniach po 28,3 m2 do głębokości stwierdzonego zanieczyszczenia. Zagospodarowanie powstałych odpadów prowadzono zgodnie z przepisami o odpadach. Powstałe wykopy zasypane ziemią wolną od zanieczyszczeń, przy czym w obszarach nr 2 i nr 3 zasypanie nastąpi po uzyskaniu wyników pobranych próbek gleby z dna i ścian wykopów wskazujących na spełnianie norm jakości gleby i ziemi.",
+    "ecological_effect": "Remediacja przebiegała zgodnie z decyzją Regionalnego Dyrektora Ochrony Środowiska w Poznaniu",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

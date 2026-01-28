@@ -1,0 +1,80 @@
+{
+  "registry_id": 1983,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": null,
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.2323/6",
+      "120305_4.0013.2323/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((533130.0687071409 254339.4793412313,533125.3061976109 254328.36681901477,533171.872957411 254241.58331211377,533294.110701891 254240.52497666236,533248.6022775408 254328.89598673303,533182.4563119108 254292.3834137125,533173.4604605908 254314.60845816322,533130.0687071409 254339.4793412313))",
+    "site_description": "teren na którym w przeszłości prowadzona była działalność w zakresie metalurgii proszków metali i tlenków metali, wyrobów spiekanych dla przemysłu motoryzacyjnego."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Das Company Sp. z o.o.",
+      "address": "ul. Przemysłowa 10, 32-540 Trzebinia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "120305_4.0013.2323/6",
+        "120305_4.0013.2323/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2022-03-30",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.161.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2022-06-28",
+        "reference": "ZS.513.161.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Das Company Sp. z o.o.",
+        "address": "ul. Przemysłowa 10, 32-540 Trzebinia",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,51 @@
+{
+  "registry_id": 2038,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "bydgoski",
+    "municipality": "Białe Błota",
+    "address": null,
+    "precinct": "ul. Kolejowa 1 Zielonka, obręb Białe Błota",
+    "parcel_numbers": [
+      "39/16",
+      "39/17"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((430870.57183500000974163 578306.81115800002589822, 430822.69536800001515076 578290.41711799998302013, 430870.13004499999806285 578337.47299399995245039, 430894.97240600001532584 578362.11470499995630234, 430910.90434000000823289 578344.16070400003809482, 430924.53379700001096353 578328.81762400001753122, 430890.24781999998958781 578315.06264699995517731, 430870.57183500000974163 578306.81115800002589822))",
+    "site_description": "Teren  na którym są składowane części samochowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Składowanie części samochodowych z demontażu pojazdu bezpośrednio na gruncie powodujące wyciek smarów i olejów.",
+  "total_area_ha": 0.2265,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Białe Błota",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2024-10-11",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSS.512.17.2024.SG"
+}

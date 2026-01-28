@@ -1,0 +1,220 @@
+{
+  "registry_id": 1606,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.93,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "Teren pomiędzy ul. Mechaniczną, Lodową, Milionową i Przybyszewskiego",
+    "precinct": "W-21",
+    "parcel_numbers": [
+      "533/4",
+      "533/6",
+      "542/29",
+      "542/30"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((535763.5071551818 431876.26236249413,535755.1727635219 431914.8916064231,535727.126874092 431909.9968049647,535688.3653382418 432113.1972113643,535701.8591152219 432116.1076338524,535697.0966057017 432146.4024861129,535780.7051062519 432161.35147434473,535786.5259512218 432132.51183332317,535801.3426475218 432135.28996388335,535838.384388272 431932.08955748286,535837.0614689618 431928.64996727183,535808.6187037418 431922.56453843415,535811.529126232 431905.4988793023,535811.396834302 431905.4988793032,535763.5071551818 431876.26236249413)),((535846.5864880119 431947.03854571376,535848.7031589119 431934.73539611325,535858.8896376219 431937.7781105321,535851.216705612 431980.7729881825,535854.1271280919 431981.3021559138,535855.714631272 432042.8179039415,535846.8510718719 432088.4586202223,535831.2406239818 432171.14107725304,535815.8947599619 432168.230654764,535823.964567772 432124.04514972307,535811.264542372 432121.26701917313,535846.5864880119 431947.03854571376)))",
+    "site_description": "teren pomiędzy ul. Mechaniczną, Lodową, Milionową i Przybyszewskiego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Budomal",
+      "address": "ul. Beli Bartoka 24 lok u8 92-547 Łódź",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "powyżej  500 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-05-17",
+    "legal_basis": "101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.515.9.2022.PS",
+    "decisions": [
+      {
+        "issue_date": "2023-11-16",
+        "reference": "WSI.515.9.2022.PS.33",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Budomal",
+        "address": "ul. Beli Bartoka 24 lok u8 92-547 Łódź",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "wydano decyzję odmawiającą uzgodnienia projektu planu remediacji historycznego zanieczyszczenia powierzchni ziemi na terenie działek o nr ewid. nr 533/4, 533/6, 542/29, 542/30, obręb W-21 w Łodzi, w związku z przedłożonym wnioskiem Spółki Budomal Estate Sp. z o.o. Sp. k."
+}

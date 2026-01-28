@@ -1,0 +1,193 @@
+{
+  "registry_id": 1423,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.95,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Żupnicza- Etap IIA",
+    "precinct": "3-02-02",
+    "parcel_numbers": [
+      "18/16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((640572.8902352434 489064.8812537147,640574.4777384254 489058.5312410146,640581.3569188548 489060.6479119137,640581.356918855 489066.4687568955,640782.9698223597 489153.7814315092,640786.144828714 489152.1939283414,640819.4823954299 489170.7147987103,640835.8865949307 489135.2605611412,640870.282497098 489152.19392834045,640848.5866203504 489200.8773590382,640819.4823954304 489187.6481659105,640785.6156609874 489264.37748604175,640642.2112073217 489200.877359041,640676.6071094852 489127.8522129925,640568.6568934384 489077.0521113938,640572.8902352434 489064.8812537147))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Yawa. Sp. z o. o.4 Sp. k.",
+      "address": "ul. Mokotowska49, Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "18/16"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 3.34
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 3.34
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 3.34
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 3.34
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 3.34
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 3.34
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 3.34
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.6665
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.6665
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.6665
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.6665
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.6665
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.6665
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.6665
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-11-14",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "WOOŚ-IV.515.108.2019",
+    "decisions": [
+      {
+        "issue_date": "2020-01-21",
+        "reference": "WOOŚ-IV.515.108.2019.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-03-29",
+        "reference": "WOOŚ-IV.515.108.2019.MB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-08-31",
+        "reference": "WOOŚ-IV.515.108.2019.MB.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Yawa. Sp. z o. o.4 Sp. k.",
+        "address": "ul. Mokotowska49, Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-04-01",
+    "planned_end": "2023-09-01",
+    "actual_end": "2023-09-05",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

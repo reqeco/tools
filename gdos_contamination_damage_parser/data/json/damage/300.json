@@ -1,0 +1,95 @@
+{
+  "registry_id": 300,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "bolesławiecki",
+    "municipality": "Nowogrodziec",
+    "address": "Zgorzelec",
+    "precinct": "obręb Czerna",
+    "parcel_numbers": [
+      "29/2",
+      "30",
+      "34/6 AM1",
+      "obręb Czerna"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((245450.44000000040978193 382550.67999999970197678, 245486.61000000033527613 382556.86999999918043613, 245488.36000000033527613 382399.55000000074505806, 245468.58999999985098839 382396.44999999925494194, 245447.25 382372.47000000067055225, 245427.96999999973922968 382350.59999999962747097, 245425.90000000037252903 382390.30000000074505806, 245421.80999999959021807 382430.10999999940395355, 245411.75999999977648258 382450.25999999977648258, 245406.65000000037252903 382504.16999999992549419, 245450.44000000040978193 382550.67999999970197678))",
+    "site_description": "odcinek rzeki Czerna Wielka przy moście MA-25 w ciągu autostrady A-4 Zgorzelec-Krzyżowa"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2010-09-22",
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w środowisku w chronionych siedliskach przyrodniczych oraz siedliskach i miejscach rozrodu gatunków chronionych, a także w wodach powstała w wyniku prac związanych z odmuleniem odcinka rzeki Czerna Wielka przy moście MA-25, w ciągu autostrady A-4 Zgorzelec-Krzyżowa.",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad - Oddział we Wrocławiu",
+      "address": "Wrocław Powstańców Śl.186",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Nizinne i podgórskie rzeki ze zbiorowiskami włosieniczników (Ranunculion fluitantis)",
+      "other": "piskorz (Misgurnus fossilis) - siedlisko gatunku chronionego"
+    },
+    {
+      "natura_2000": "Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe",
+      "other": "minóg strumieniowy (Lampetra planeri) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-09-22",
+    "detection_date": "2010-09-13",
+    "decisions": [
+      {
+        "issue_date": "2010-10-21",
+        "reference": "RDOŚ-02-WSI-6614-3/42-3/10/ap",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2010-12-15",
+        "reference": "RDOŚ-02-WSI-6614-3/42-5/10/ap",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2011-02-28",
+        "reference": "WSI.511.3.2011.MR.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-04-30",
+    "actual_end": null,
+    "method": null,
+    "description": "•\tPozostawienie do naturalnej regeneracji chronionego siedliska przyrodniczego – nizinne i podgórskie rzeki ze zbiorowiskami włosieniczników (Ranunculion fluitantis) (kod 3260), ponieważ jest dobrze wykształcone i stabilne, z utrzymaniem sprzyjających warunków, tj. brakiem jakiejkolwiek ingerencji w koryto  i zachowaniem dobrego stanu siedlisk przylegających. •\tUsunięcie warstwy mułu zdeponowanej na prawym brzegu rzeki Czerna Wielka  podczas prowadzenia regulacji koryta, bez użycia ciężkiego sprzętu – wyłącznie  za pomocą łopat i wywiezienie taczkami w miejsce przeznaczone do składowania tego typu materiału. •\tPo wykonaniu czynności polegających na zebraniu mułu, przedmiotowy teren należy wygrabić, w taki sposób, aby usunąć resztki mulistych osadów i również wywieźć  je taczkami w miejsce przeznaczone do składowania tego typu materiału. Należy przy tym zachować ostrożność i nie zniszczyć roślinności przygniecionej zdeponowanym materiałem.  •\tNie należy wykorzystywać zebranego materiału do zasypywania lub wyrównywania lokalnych obniżeń, oczek wodnych etc. •\tPo przeprowadzeniu ww. prac, pozostawienie do naturalnej regeneracji chronionego siedliska przyrodniczego – łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo – fragilis, Populetum albae, Alnenion glutinoso – incanae, olsy źródliskowe) (91E0*).",
+    "ecological_effect": "Przywrócenie do stanu początkowego lub przybliżonego do stanu początkowego, poprzez:  –\todtworzenie zniszczonego chronionego siedliska przyrodniczego – nizinne  i podgórskie rzeki ze zbiorowiskami włosieniczników (Ranunculion fluitantis) (kod 3260), –\tpoprawę stanu chronionego siedliska przyrodniczego –  łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo – fragilis, Populetum albae, Alnenion glutinoso – incanae, olsy źródliskowe) (91E0*), –\todtworzenie siedlisk i miejsc rozrodu gatunków chronionych: piskorza (Misgurnus fossilis), trzepli zielonej (Ophiogomphus Cecilia), łątki ozdobnej (Coenagrion ornatum) i minoga strumieniowego (Lampetra planeri).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,100 @@
+{
+  "registry_id": 1487,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.6279,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Kościuszki 59 w Trzebini",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.795/117",
+      "120305_4.0013.847/32",
+      "120305_4.0013.847/34"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532433.7113919108 254280.77681817487,532439.1353611008 254276.8080602344,532457.9208153307 254296.51955799386,532488.0833756608 254329.06337308418,532543.6459867806 254278.26327147428,532502.5031961607 254231.29963588435,532492.9781771108 254228.38921339344,532457.9208153308 254246.38091604412,532448.7926720808 254251.01113364566,532430.6686775008 254258.28718986455,532418.7624036807 254262.91740745492,532433.7113919108 254280.77681817487))",
+    "site_description": "Działki po Zakładach Metalurgicznych \"Trzebinia\" w Trzebini"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": "Hotele i podobne obiekty zakwaterowania"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "120305_4.0013.795/117",
+        "120305_4.0013.847/32",
+        "120305_4.0013.847/34"
+      ],
+      "economic_activity_code": "55.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-28",
+    "legal_basis": "Art. 61 § 1 Kpa",
+    "case_reference": "ZS.513.33.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-07-15",
+        "reference": "ZS.513.33.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-10-14",
+        "reference": "DOA-WSzOP.513.58.2019.MBA",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-08-19",
+      "reason": "nierozpatrzenie w sposób prawidłowy materiału dowodowego zgromadzonego w sprawie",
+      "appealed_decision_reference": "ZS.513.33.2019.HCh",
+      "resolution_reference": "DOA-WSzOP.513.58.2019.MBA",
+      "appellant_name": "(…)",
+      "appellant_address": "(…)",
+      "resolution_date": "2021-10-14",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "utrzymanie w mocy zaskarżonej decyzji"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": "55.10.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

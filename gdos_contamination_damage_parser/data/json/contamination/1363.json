@@ -1,0 +1,150 @@
+{
+  "registry_id": 1363,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0205,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Krasińskiego",
+    "precinct": "7-03-04",
+    "parcel_numbers": [
+      "15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634390.7030719551 490266.4888653895,634413.8541599482 490247.8357030768,634394.9364137589 490241.7502742382,634380.252009384 490253.1273803292,634390.7030719551 490266.4888653895))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "K 43 Sp. z o.o.",
+      "address": "ul. Sułkowskiego 35 01-610 Warszawa",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "15"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.0205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.0205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.0205
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-09-30",
+    "legal_basis": "art.101l ust.4",
+    "case_reference": "WOOŚ-IV.515.60.2020.DŚc",
+    "decisions": [
+      {
+        "issue_date": "2020-12-21",
+        "reference": "WOOŚ-IV.515.60.2020.DŚc.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-01-30",
+        "reference": "WOOŚ-IV.515.60.2020.DŚc.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "K 43 Sp. z o.o.",
+        "address": "ul. Sułkowskiego 35 01-610 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-02-01",
+    "planned_end": "2024-10-31",
+    "actual_end": "2025-02-19",
+    "method": null,
+    "description": null,
+    "ecological_effect": "Efekt ekologiczny osiągnięto",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

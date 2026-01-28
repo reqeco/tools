@@ -1,0 +1,122 @@
+{
+  "registry_id": 1118,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "mogileński",
+    "municipality": "Mogilno",
+    "address": "m. Wszedzień",
+    "precinct": "Wszedzień",
+    "parcel_numbers": [
+      "dz. nr 111 i  112 obręb Wszedzień"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((430316.40733193426 537706.2026074994,430268.51765282307 537667.3087797202,430367.4720174052 537548.2460415903,430414.0387772064 537588.99195641,430316.40733193426 537706.2026074994))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-05-28",
+    "from": null,
+    "to": null,
+    "description": "pożar na terenie miejsca gromadzenia odpadów"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "pożar",
+  "total_area_ha": 0.9433,
+  "reporters": [
+    {
+      "name": "Starosta Mogileński",
+      "address": "ul. Narutowicza 1, 88-300 Mogilno",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "MULTIKARBON  Sp. z o.o.",
+      "address": "Kletówki 13, 38-400 Krosno",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "91440 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzen",
+      "concentration": "9,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "338 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "371 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "568 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,79 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,27 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Fenantren",
+      "concentration": "1,32 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2018-07-25",
+    "detection_date": "2018-06-05",
+    "decisions": [
+      {
+        "issue_date": "2019-02-21",
+        "reference": "WSS.512.20.2018.BW.22",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "postępowanie umorzone w części dot. wód, w pozostałej części zawieszone"
+}

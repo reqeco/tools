@@ -1,0 +1,63 @@
+{
+  "registry_id": 866,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 2.413,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Chorzów",
+    "municipality": "Chorzów",
+    "address": "ul. Metalowców 13 Chorzów",
+    "precinct": "0004 k.m. 3 oraz k. m. 5",
+    "parcel_numbers": [
+      "665/99",
+      "obręb 0004",
+      "k.m. 3",
+      "4269/23 i 4271/29",
+      "obręb 0004",
+      "k.m. 5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((497173.033000 270413.139000,497210.022000 270454.098000,497213.292000 270452.005000,497221.253000 270436.867000,497222.835000 270431.080000,497312.664000 270449.861000,497317.817000 270445.095000,497316.744000 270437.413900,497317.562000 270427.579000,497341.284000 270389.382000,497354.361000 270369.588000,497361.165000 270362.760900,497358.446000 270355.242000,497346.817000 270346.623000,497350.820000 270323.963000,497354.487000 270299.338000,497334.988000 270293.374000,497326.241000 270290.993000,497315.689000 270288.136000,497296.052000 270284.482000,497292.168000 270284.075000,497286.744000 270283.518000,497276.159000 270282.640900,497256.198000 270281.719000,497236.326000 270282.926000,497216.756000 270286.536900,497202.667000 270291.173100,497198.186000 270309.543000,497175.593000 270402.801000,497173.033000 270413.139000))",
+    "site_description": "Teren dawnej Huty Kościuszko, działającej pod różnymi nazwami od 1799 r. W 1998 r. z przedsiębiorstwa państwowego została przekształcona w spółkę akcyjną."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Przedsiębiorstwo Remontowo-Montażowe HPR Sp. z o.o.",
+      "address": "ul. Metalowców 13 41 - 500 Chorzów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-31",
+    "legal_basis": "art. 101c ust. 3",
+    "case_reference": "WSI.513.12.2019.KN",
+    "decisions": [
+      {
+        "issue_date": "2019-08-27",
+        "reference": "WSI.513.12.2019.KN",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

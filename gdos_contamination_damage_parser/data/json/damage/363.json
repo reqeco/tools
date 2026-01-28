@@ -1,0 +1,88 @@
+{
+  "registry_id": 363,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "municipality": "Głogów Małopolski",
+    "address": "36-061 Wysoka Głogowska 301",
+    "precinct": "nr 0012 Wysoka Głogowska",
+    "parcel_numbers": [
+      "181606_5.0012.1922/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((715748.9020444949856028 258669.83026828899164684, 715723.76051926997024566 258674.5072142560093198, 715712.41965645796153694 258650.19719466799870133, 715722.16161700105294585 258645.73734906798927113, 715736.10551289794966578 258642.39945363899460062, 715748.9020444949856028 258669.83026828899164684))",
+    "site_description": "Użytek Bi - inne tereny zabudowane"
+  },
+  "occurrence_time": {
+    "date": "2011-04-09",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi olejem mineralnym (napędowo-grzewczym) w wyniku wycieku ze zbiornika typu Mauser znajdującego się na stacji paliw.",
+  "total_area_ha": 0.0005,
+  "reporters": [
+    {
+      "name": "PWIOŚ Rzeszów",
+      "address": "ul. Langiewicza 26, 35-101 Rzeszów",
+      "legal_form": "administracja rządowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "MULTI Sp. z o.o.",
+      "address": "Rzeszów Grunwaldzka 26",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 5000 mg/kg s.m.",
+      "area_ha": 0.0005
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-04-20",
+    "detection_date": "2011-04-11",
+    "decisions": [
+      {
+        "issue_date": "2011-05-20",
+        "reference": "WSI.512.5.8.2011.JT",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-05-20",
+    "planned_end": "2011-06-15",
+    "actual_end": "2011-06-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Wydobycie zanieczyszczonej gleby do głębokości 0,30 m p.p.t. W przypadku stwierdzenia, w trakcie realizacji działań naprawczych, zanieczyszczenia na większej głębokości niż 0,30 m - zostanie zebrana dodatkowo, taka ilość ziemi, która zapewni usuniecie całości zanieczyszczenia. Miejsce po usuniętej zanieczyszczonej ziemi zostanie uzupełnione czystą (niezanieczyszczoną ziemią.",
+    "ecological_effect": "Osiągnięcie standardów jakości gleby i ziemi w zakresie stężenia oleju mineralnego (węglowodory C12-C35) dla gruntów grupy „C”, zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

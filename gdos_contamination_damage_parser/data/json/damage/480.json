@@ -1,0 +1,81 @@
+{
+  "registry_id": 480,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "rybnicki",
+    "municipality": "Czerwionka-Leszczyny",
+    "address": "Czerwionka-Leszczyny",
+    "precinct": "0001 Czerwionka a. m. 1",
+    "parcel_numbers": [
+      "241201_4.0001.AR_1.1801/178"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((476559.415000 254682.962000,476596.702000 254699.963000,476612.298000 254666.023000,476609.814000 254655.192000,476578.481000 254641.700000,476559.415000 254682.962000))",
+    "site_description": "na terenie stacji WN 110/20/6 kV \"Dębieńsko\" w Czerwionce-Leszczynach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2011-11-15",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu olejem transformatorowym w wyniku uszkodzenia transformatora na terenie stacji WN 110/20/6 kV \"Dębieńsko\" w Czerwionce-Leszczynach",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Hydrogeotechnika Sp. z o.o. w imieniu Vattenfall",
+      "address": "ul. Ściegiennego 262A; Kielce",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Vattenfall Distribution S.A.",
+      "address": "Gliwice Portowa 14a",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "21537",
+      "area_ha": 0.002
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2011-11-15",
+    "detection_date": "2011-11-01",
+    "decisions": [
+      {
+        "issue_date": "2011-12-31",
+        "reference": "WSI.512.87.2011.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-12-31",
+    "actual_end": "2011-12-31",
+    "method": null,
+    "description": "Działania naprawcze metodą „ex situ” i polegać będą na usunięciu zanieczyszczonego gruntu na obszarze o powierzchni ok. 20 m2 i przekazaniu go do unieszkodliwienia lub odzysku uprawnionemu podmiotowi, a następnie wypełnieniu powstałych wykopów gruntem spełniającym wymogi jakościowe i odtworzeniu pierwotnej morfologii terenu.",
+    "ecological_effect": "Przywrócono stan środowiska gruntowo-wodnego na terenie przedmiotowej stacji transformatorowej w zakresie wskaźnika olej mineralny (węglowodory C12-C35) do wymogów dla gruntów grupy C określonych w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

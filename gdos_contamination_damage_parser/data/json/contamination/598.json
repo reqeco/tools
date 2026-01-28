@@ -1,0 +1,135 @@
+{
+  "registry_id": 598,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 5.0,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "municipality": "Nowa Sól (gmina miejska)",
+    "address": "Aleja Wolności 4",
+    "precinct": "obręb 0004 Nowa Sól miasto",
+    "parcel_numbers": [
+      "1347",
+      "134/17",
+      "134/19 obręb 0004 Nowa Sól"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((273970.993206311 442014.92965051066,273932.89312927326 442028.6880113734,273988.7203253582 442145.3694947278,274025.7620669155 442138.49031428434,273970.993206311 442014.92965051066))",
+    "site_description": "teren Terminala Paliw PKN ORLEN S.A. nr 93 przy Alei Wolności 4 w Nowej Soli"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-13",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern naftowy S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2132",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "11177",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "54,4",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-15",
+    "legal_basis": "art. 61 kpa",
+    "case_reference": "WZŚ.512.2.2019.KM",
+    "decisions": [
+      {
+        "issue_date": "2019-02-25",
+        "reference": "WZŚ.512.2.2019.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polski Koncern naftowy S.A.",
+        "address": "ul. Chemików 7 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2019-03-15",
+    "planned_end": "2023-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,50 @@
+{
+  "registry_id": 1827,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "inowrocławski",
+    "municipality": "Inowrocław (gmina wiejska)",
+    "address": null,
+    "precinct": "Krusza Duchowna",
+    "parcel_numbers": [
+      "48/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((448510.5140921036 541040.9797463818,448536.9724783536 541054.2089395002,448587.5079960938 540954.1962394817,448563.6954484636 540942.0253818026,448511.0432598234 541040.71516251,448510.5140921036 541040.9797463818)))",
+    "site_description": "Teren nieruchomości na której zgromadzono przeciekające pojemniki typu mauzer."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2023-09-22",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Podejrzenie wystąpienia szkody w środowisku w związku z wyciekiem nieznanej substancji do gruntu,  pochodzącej z pojemników znajdujących się na terenie nieruchomości.",
+  "total_area_ha": 0.3107,
+  "reporters": [
+    {
+      "name": "Gmina Inowrocław",
+      "address": "ul. Królowej Jadwigi 43 88-100 Inowrocław",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2023-12-01",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSS.512.18.2023.SG"
+}

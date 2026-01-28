@@ -1,0 +1,86 @@
+{
+  "registry_id": 2166,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Częstochowa",
+    "municipality": "Częstochowa",
+    "address": "dz. o nr ew. 710/33, obręb 0422, położonej w Częstochowie, ul. Żyzna 13k",
+    "precinct": "0422",
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((507042.22 321823.75,507066.95 321827.33,507087.82 321830.36,507087.78 321829.66,507086.57 321810.05,507085.62 321794.55,507084.9 321782.6,507084.16 321770.65,507083.44 321758.7,507082.71 321746.75,507081.99 321734.8,507081.25 321722.86,507080.52 321710.91,507073.87 321601.97,507073 321587.86,507044.3 321576.22,506990.32 321554.36,506913.45 321641.95,507009.4 321696.25,507031.28 321781.23,507033.77 321790.94,507042.22 321823.75))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "16000mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "320 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-01-10",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2022 r., poz. 2556 ze zm.)",
+    "case_reference": "WSI.513.20.2023.MB1",
+    "decisions": [
+      {
+        "issue_date": "2023-03-06",
+        "reference": "WSI.513.20.2023.MB1.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-04-29",
+        "reference": "WSI.513.20.2023.JR.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": null,
+        "reference": "WSI.516.2.2025",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

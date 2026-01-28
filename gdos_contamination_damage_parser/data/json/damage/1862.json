@@ -1,0 +1,57 @@
+{
+  "registry_id": 1862,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Dąbrowa Górnicza",
+    "municipality": "Dąbrowa Górnicza",
+    "address": "ul. Puszkina 41 42-530 Dąbrowa Górnicza",
+    "precinct": "0013 Strzemieszyce Wielkie",
+    "parcel_numbers": [
+      "246501_1.0013.644/9",
+      "246501_1.0013.4533/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((520411.76543933502398431 272893.55922710802406073, 520404.76195966498926282 272907.10482886002864689, 520391.33073538000462577 272930.93035451101604849, 520381.93907878897152841 272945.98710911499802023, 520431.61064681300194934 272962.56888005399378017, 520467.64973086002282798 272974.60678630298934877, 520470.79261034802766517 272886.45018476201221347, 520474.09558847500011325 272793.84424112498527393, 520474.42822512198472396 272784.38574033800978214, 520477.03027160500641912 272711.01707684097345918, 520472.46898636798141524 272709.21952964999945834, 520465.9678604620276019 272740.81697883101878688, 520463.39926400798140094 272751.21494516497477889, 520458.84284969797590747 272769.86442552402149886, 520454.46539061702787876 272786.21295291400747374, 520449.81069176300661638 272801.26602532301330939, 520443.19742661801865324 272820.05307068902766332, 520436.95626021799398586 272837.52594376000342891, 520432.53239588998258114 272848.18868507002480328, 520426.76194492197828367 272862.01753085100790486, 520411.76543933502398431 272893.55922710802406073)))",
+    "site_description": "Na terenie działek o nr ewidencyjnych 644/9 i 4533/10 położonych w Dąbrowie Górniczej przy ul. Puszkina 41 ujawniono zmagazynowanie ok. 380 metalowych beczek z płynnymi odpadami. Na beczkach stwierdzono ślady uszkodzeń mechanicznych, na skutek których następował wyciek zawartości do gruntu. W rejonie magazynowania beczek widoczne były liczne przebarwienia gruntu i wyczuwalna woń podobna do zapachu lakierów i rozpuszczalników."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2016-05-29",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na terenie działek o nr ewidencyjnych 644/9 i 4533/10 położonych w Dąbrowie Górniczej przy ul. Puszkina 41 ujawniono zmagazynowanie ok. 380 metalowych beczek z płynnymi odpadami. Na beczkach stwierdzono ślady uszkodzeń mechanicznych, na skutek których następował wyciek zawartości do gruntu. W rejonie magazynowania beczek widoczne były liczne przebarwienia gruntu i wyczuwalna woń podobna do zapachu lakierów i rozpuszczalników.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Prezydent Miasta Dąbrowa Górnicza",
+      "address": "ul. Graniczna 21 41-300 Dąbrowa Górnicza",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "IDAK KALARUS KRYSTYNA, CZERWIŃSKA DOROTA SPÓŁKA JAWNA",
+      "address": "ul. PUSZKINA 41 42-530 DĄBROWA GÓRNICZA",
+      "economic_activity_code": "46.77.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2015-09-07",
+    "detection_date": "2015-05-29",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

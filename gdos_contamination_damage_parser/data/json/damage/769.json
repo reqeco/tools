@@ -1,0 +1,65 @@
+{
+  "registry_id": 769,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "grodziski",
+    "municipality": "Podkowa Leśna",
+    "address": "05-807 Podkowa Leśna, ul. Myśliwska 17",
+    "precinct": "0004",
+    "parcel_numbers": [
+      "73",
+      "84"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((618402.2417106002 474886.0102863414,618432.8011467345 474875.82380764186,618407.7979717216 474795.2580215018,618404.6229653704 474795.91948116105,618400.389623568 474782.9548719032,618396.5002407861 474768.13817560114,618363.6918418207 474774.48818830214,618402.2417106002 474886.0102863414))",
+    "site_description": "teren prowadzonej działalności oraz działka sąsiednia leśna"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Pierwsze półrocze 2016r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi wskutek odprowadzania ścieków ze zbiornika",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Delegatura Płock",
+      "address": "ul. 3 Maja 16, 09-402 Płock",
+      "legal_form": "instytucja państwowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "VITAPOL Zakład Przetwórstwa Owocowo - Warzywnego",
+      "address": "ul. Myśliwska 17, Podkowa Leśna",
+      "economic_activity_code": "37.00.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "6400->10000",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2016-05-23",
+    "detection_date": "2016-04-21",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

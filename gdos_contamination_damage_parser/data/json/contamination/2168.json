@@ -1,0 +1,69 @@
+{
+  "registry_id": 2168,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "elbląski",
+    "municipality": "Młynary",
+    "address": null,
+    "precinct": "0013 Podgórze",
+    "parcel_numbers": [
+      "280406_5.0013.51/1"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Nieczynna stacja paliw, która funkcjonowała na potrzeby Państwowego Gospodarstwa Rolnego Podgórze. Szacuje się, że powierzchnia terenu objętego zanieczyszczeniem wynosi 0,0150 ha"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Stacja paliw funkcjonowała od lat 80. XX wieku"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "280406_5.0013.51/1"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "280406_5.0013.51/1"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2025-01-30",
+    "legal_basis": "art. 101d ust. 6, 8 i 9 Poś",
+    "case_reference": "WSI.513.5.2025.KPi",
+    "decisions": [
+      {
+        "issue_date": "2025-03-14",
+        "reference": "WSI.513.5.2025.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

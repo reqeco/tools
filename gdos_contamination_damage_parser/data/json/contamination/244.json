@@ -1,0 +1,103 @@
+{
+  "registry_id": 244,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.13,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "żyrardowski",
+    "municipality": "Puszcza Mariańska",
+    "address": "Puszcza Mariańska",
+    "precinct": null,
+    "parcel_numbers": [
+      "248/1202",
+      "240/1202"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((592292.6499039213 459315.44839521777,592710.6924067138 458589.1656926442,592817.8488710356 458795.54110539146,593045.39099281 458794.2181860814,593041.4222348697 458840.52036201954,593206.7871489582 459028.3749043904,592292.6499039213 459315.44839521777))",
+    "site_description": "teren Kompleksu Wojskowego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Stołeczny Zarząd Infrastruktury",
+      "address": "Al. Jerozolimskie 97, 00-001 Warszawa",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "248/1202",
+        "240/1202"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1100-4500",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "96-663",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-08-19",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy POŚ",
+    "case_reference": "WOOŚ-IV.515.59.2020",
+    "decisions": [
+      {
+        "issue_date": "2017-03-14",
+        "reference": "WSI.511.28.2016.ES.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-06-14",
+        "reference": "WOOŚ-IV.515.59.2020.DŚc.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Stołeczny Zarząd Infrastruktury",
+        "address": "Al. Jerozolimskie 97, 00-001 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-03-01",
+    "planned_end": "2022-11-01",
+    "actual_end": "2021-12-20",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja zgodna z decyzją",
+    "ecological_effect": "zakładany efekt ekologiczny został osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

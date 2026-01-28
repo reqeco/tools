@@ -1,0 +1,132 @@
+{
+  "registry_id": 727,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.005,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "lubaczowski",
+    "municipality": "Lubaczów (gmina miejska)",
+    "address": "ul. Budowlanych 12 37-600 Lubaczów",
+    "precinct": "nr 0001 Lubaczów",
+    "parcel_numbers": [
+      "180901_1.0001.1843"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((794538.1205288025 263642.831743096,794554.7893135035 263637.67235780787,794568.5476754067 263618.22544394433,794570.6643463951 263599.3076977758,794568.6799672453 263596.13269142155,794519.202780782 263582.5066223983,794516.5569419535 263584.8878771523,794530.5798878425 263588.0628835326,794531.7705153767 263599.9691573456,794534.4163542287 263600.4983250825,794538.1205288018 263642.6994511662,794538.1205288025 263642.831743096))",
+    "site_description": "inne tereny zabudowane Bi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Sprzedaż hurtowa paliw i produktów pochodnych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "180901_1.0001.1843"
+      ],
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "129 - 750 mg/kg s.m.",
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "222 - 480 mg/kg s.m.",
+      "area_ha": 0.0038
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2650 - 6290 mg/kg s.m.",
+      "area_ha": 0.0038
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-04-14",
+    "legal_basis": "art. 61 § 1 i § 4 Kpa oraz art. 101l ust. 2 i 4 Poś",
+    "case_reference": "WSI.515.3.2022.JŁ.4",
+    "decisions": [
+      {
+        "issue_date": "2019-04-05",
+        "reference": "WSI.513.52.2018.AF.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-07-01",
+        "reference": "WSI.515.3.2022.JŁ.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-07-04",
+        "reference": "WSI.515.3.2022.JŁ.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-02-21",
+        "reference": "WSI.515.5.2021.JŁ.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-04-06",
+        "reference": "WSI.513.1.1.2019.KN.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polski Koncern Naftowy ORLEN S.A.",
+        "address": "ul. Chemików 7 09-411 Płock",
+        "economic_activity_code": "46.71.Z"
+      }
+    ],
+    "planned_start": "2022-07-01",
+    "planned_end": "2022-12-01",
+    "actual_end": "2022-11-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia metodą \"ex-situ\" polegającą na: - kontrolowanym wydobyciu zanieczyszczonej gleby z głębokości 0-0,25 m p.p.t., - przekazaniu zanieczyszczonej gleby do unieszkodliwienia bądź odzysku, - potwierdzeniu usunięcia całej zanieczyszczonej gleby poprzez pobranie próbek gleby z dna wykopu oraz dokonaniu ich analizy ze względu na zawartość substancji: suma węglowodorów C12-C35, składników frakcji oleju, - wypełnieniu wykopu, glebą spełniającą wymagania dla gruntów grupy I.  Zwolnienie z obowiązku przeprowadzenia remediacji dla zanieczyszczenia gleby/ziemi występującego na głębokości 3,0 - 5,0 m p.p.t.",
+    "ecological_effect": "Szacowana łączna powierzchnia terenu wymagającego przeprowadzenia remediacji, na którym stwierdzono zanieczyszczenie powierzchni ziemi dla głębokości 0 - 0,25 m p.p.t. wynosiła 0,005 ha. W wyniku remediacji zawartość substancji powodujących ryzyko w glebie i ziemi tj. sumy węglowodorów C12-C35, składników frakcji oleju, zgodna jest z dopuszczalnymi zawartościami określonymi dla głębokości 0 - 0,25 m p.p.t., dla gruntów grupy I (inne tereny zabudowane, oznaczone symbolem Bi), w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395), tj. nie więcej niż 30 mg/kg s.m.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Teren byłego Zakładu Produktów Naftowych Nr 7 w Lubaczowie PKN ORLEN S.A. Sprawa znak: WSI.513.52.2018.AF - wpis o potencjalnym historycznym zanieczyszczeniu powierzchni ziemi do rejestru historycznych zanieczyszczeń powierzchni ziemi WSI.513.1.1.2019.KN - nałożenie obowiązku przeprowadzenia badań wstępnych oraz szczegółowych gleby i ziemi WSI.515.5.2021 - nałożenie obowiązku przeprowadzenia remediacji (umorzone) WSI.515.3.2022.JŁ - ustalenie planu remediacji historycznego zanieczyszczenia powierzchni ziemi + zwolnienie z remediacji WSI.501.14.2022.JŁ - sprawozdanie z przeprowadzenia remediacji"
+}

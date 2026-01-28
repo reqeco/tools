@@ -1,0 +1,80 @@
+{
+  "registry_id": 509,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "zawierciański",
+    "municipality": "Szczekociny",
+    "address": "Szczekociny",
+    "precinct": "0001 Bonowice a. m. 2",
+    "parcel_numbers": [
+      "241608_5.0001.AR_2.1401/1",
+      "241608_5.0001.AR_2.1400/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((556806.260000 306669.236900,556804.496000 306643.477000,556739.078000 306676.381000,556741.344000 306702.454000,556744.806000 306736.037000,556808.672000 306704.331000,556806.260000 306669.236900))",
+    "site_description": "teren Stacji Paliw nr 431 w Szczekocinach; Bonowice 57a"
+  },
+  "occurrence_time": {
+    "date": "2012-05-10",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zagrożenie szkodą - możliwość zanieczyszczenia gruntu substancjami ropopochodnymi na terenie Stacji Paliw nr 431 w Szczekocinach",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7;Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7;Płock",
+      "economic_activity_code": "47.30.Z, 19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2012-05-10",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2012-05-22",
+    "method": null,
+    "description": "podmiot we własnym zakresie podjął działania o których mowa w art. 9 ust. 2 pkt 1 ustawy szkodowej; metoda ex-situ - wydobycie zanieczyszczonego gruntu",
+    "ecological_effect": "spełnienie wymogów określonych dla obszaru C",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

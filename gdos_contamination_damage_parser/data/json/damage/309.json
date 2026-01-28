@@ -1,0 +1,139 @@
+{
+  "registry_id": 309,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "wadowicki",
+    "municipality": "Andrychów",
+    "address": "Rzyki",
+    "precinct": "4 Rzyki",
+    "parcel_numbers": [
+      "121801_5.0004.6901/1",
+      "121801_5.0004.6902",
+      "121801_5.0004.6905/1",
+      "121801_5.0004.6906",
+      "121801_5.0004.6914",
+      "121801_5.0004.6915/1",
+      "121801_5.0004.6989",
+      "121801_5.0004.6990",
+      "121801_5.0004.6991",
+      "121801_5.0004.6992",
+      "121801_5.0004.6995/1",
+      "121801_5.0004.7000/1",
+      "121801_5.0004.7000/2",
+      "121801_5.0004.7001",
+      "121801_5.0004.7003",
+      "121801_5.0004.7007",
+      "121801_5.0004.7008",
+      "121801_5.0004.7009",
+      "121801_5.0004.7010",
+      "121801_5.0004.7011",
+      "121801_5.0004.7013",
+      "121801_5.0004.7014",
+      "121801_5.0004.7015",
+      "121801_5.0004.7016",
+      "121801_5.0004.7017",
+      "121801_5.0004.7018",
+      "121801_5.0004.7019/1",
+      "121801_5.0004.7019/2",
+      "121801_5.0004.7029",
+      "121801_5.0004.7030",
+      "121801_5.0004.7031",
+      "121801_5.0004.7035",
+      "121801_5.0004.7065",
+      "121801_5.0004.7066"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((527999.4702396402 211491.6835999852,527985.9764626502 211400.66675128601,528039.6869867402 211390.87714837585,528053.9745153203 211467.34188463725,527999.4702396402 211491.6835999852), (528084.0973880702 211701.63089486677,528067.9577724603 211681.52252131607,528061.0785920303 211686.0204469869,528047.3202311804 211668.82249591686,528032.5035348802 211681.2579374574,528036.7368766803 211692.63504354656,528040.9702184803 211693.95796285663,528042.5577216604 211710.3621623367,528048.9077343602 211728.0892811278,528054.1994116103 211769.0997798061,528060.5494243102 211787.35606632754,528060.0202565803 211790.00190494582,528064.5181822502 211792.38315970637,528099.9724198203 211772.01020229608,528087.5369782804 211745.28723218758,528085.4203073803 211736.82054858655,528066.8994370104 211730.47053588647,528060.5494243102 211729.14761657733,528063.7244306604 211698.1913046576,528084.0973880702 211701.63089486677), (528087.8015621502 211959.33557694778,528114.5245322603 211946.10638382658,528129.8703962803 211933.93552614655,528133.3099865002 211937.37511635572,528141.5120862303 211930.76051979605,528148.3912666603 211920.17716529686,528162.6787952303 211870.96456687525,528155.0058632202 211864.8791380357,528140.4537507803 211886.83959862683,528139.1308314702 211885.78126317635,528151.5662730102 211849.53327400424,528143.8933410001 211843.18326130603,528120.3453772302 211806.93527214695,528117.1703708803 211797.93942082673,528099.9724198203 211771.21645070612,528064.5181822502 211792.9123274358,528065.0473499702 211801.908178756,528074.0432013002 211828.10198114626,528073.7786174304 211832.8644906776,528078.0119592303 211847.94577083644,528072.9848658502 211894.77711449564,528084.6265558003 211928.11468117684,528087.8015621502 211959.33557694778), (528142.5704216802 211840.27283882722,528120.3453772302 211807.46443987638,528117.1703708803 211797.93942082673,528099.9724198204 211770.68728298787,528088.8598976003 211746.3455676362,528085.4203073804 211735.4976292774,528091.5057362203 211687.6079501575,528102.8828423104 211682.05168904644,528113.4661968102 211673.58500544727,528146.0100119002 211680.19960200507,528205.2767971003 211739.7309710756,528251.8435569005 211804.55401738547,528247.3456312303 211838.15616792534,528221.6809965704 211847.4166031042,528185.4330074104 211843.18326130603,528142.5704216802 211840.27283882722), (528121.9328804102 212049.82325792778,528099.9724198203 212031.30238754582,528101.5599230002 212027.598213478,528096.7974134703 212006.43150447588,528095.4744941603 211990.55647272803,528087.5369782804 211959.33557694685,528113.7307806703 211946.63555154763,528130.1349801504 211933.40635842644,528133.3099865002 211937.37511635572,528143.0995894104 211928.90843275655,528148.1266828004 211920.1771652978,528157.1225341202 211929.17301662732,528136.7495767102 211949.2813901771,528148.9204343803 211955.36681900546,528157.9162857102 211964.62725419644,528171.6746465602 211970.18351530656,528188.3434299004 212026.27529415768,528121.9328804102 212049.82325792778), (528347.3583312604 211895.30628222506,528418.2668064103 211923.3521716455,528450.0168699103 211949.81055789534,528473.3002498102 211916.20840735734,528483.3544365802 211931.02510365658,528499.4940522003 211946.90013540536,528523.8357675504 211924.14592323638,528491.0273686005 211859.85204464663,528475.1523368503 211861.17496395577,528468.5377402804 211892.39585973695,528465.0981500703 211895.0416983571,528440.7564347202 211877.04999570642,528443.6668572102 211870.6999830054,528459.2773051002 211847.41660310514,528412.9751291602 211819.89988140576,528398.9521844503 211846.09368379507,528351.8562569204 211872.81665390544,528347.3583312604 211895.30628222506)))",
+    "site_description": "zbocza Czarnego Gronia, stok narciarski"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2009-11-30",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w środowisku polegająca na zniszczeniu chronionych siedlisk przyrodniczych, do której doszło w wyniku budowy wyciągu narciarskiego i infrastruktury towarzyszącej na zboczu góry Czarny Groń w miejscowości Rzyki.",
+  "total_area_ha": 4.5,
+  "reporters": [
+    {
+      "name": "Pracownia na rzecz Wszystkich Istot",
+      "address": "ul. Jasna 17 43-360 Bystra",
+      "legal_form": "stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Czarny Groń Spółka z ograniczona odpowiedzialnością Spółka Komandytowa",
+      "address": "Rzyki Os.Praciaki 91 34-125 Sułkowice",
+      "economic_activity_code": "85.51.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion)",
+      "other": null
+    },
+    {
+      "natura_2000": "Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-09-18",
+    "detection_date": "2009-11-29",
+    "decisions": [
+      {
+        "issue_date": "2014-04-02",
+        "reference": "ZS.511.3.4.2013.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-01-23",
+        "reference": "DOA-ks.511.3.2015.mg",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-11-21",
+        "reference": "ZS.512.5.1.2017.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 20",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": {
+    "issue_date": "2015-06-11",
+    "case_number": "IV SA/Wa 804/15",
+    "challenged_decision_reference": "DOA-ks.511.3.2015.mg",
+    "ruling_type": "wyrok",
+    "verdict": "1. Sąd uchylił zaskarżone postanowienie; 2. stwierdził, że zaskarżone postanowienie nie podlega wykonaniu do czasu uprawomocnienia się niniejszego wyroku; 3. zasądził od Generalnego Dyrektora Ochrony Środowiska na rzecz skarżącego Stowarzyszenia",
+    "court": "Wojewódzki Sąd Administracyjny w Warszawie",
+    "cassation_appeal_to_nsa": null
+  },
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2016-10-30",
+    "actual_end": "2016-10-01",
+    "method": null,
+    "description": "Prace polegające na zbiorze nasion na terenach o odpowiednim składzie gatunkowym oraz na ich wysiewie na tereny na których doszło do zniszczenia roślinności. Dodatkowo miejscowe darniowanie. Proces odtwarzania wspomagany wypasem owiec.",
+    "ecological_effect": "Doprowadzono miejscowo do otworzenia siedlisk oraz do stworzenia warunków do ich odtwarzania. Stan taki wymagał dalszych obserwacji postępu odtwarzania stąd wydano decyzję na prowadzenie monitoringu.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

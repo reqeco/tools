@@ -1,0 +1,162 @@
+{
+  "registry_id": 1993,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.8579,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "piaseczyński",
+    "municipality": "Piaseczno",
+    "address": "ul. Energetyczna",
+    "precinct": "0008",
+    "parcel_numbers": [
+      "2/4",
+      "2/5",
+      "2/6",
+      "2/7",
+      "2/8",
+      "2/12",
+      "2/14",
+      "2/15",
+      "2/17",
+      "2/18",
+      "2/20"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638878.9940546863 471247.9154172968,638890.9003285059 471099.7484542951,639140.9320788751 471201.61324135214,639148.8695947705 471366.9781554211,638878.9940546863 471247.9154172968))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "SIEN REAL sp. z o. o.",
+      "address": "ul. Wspólna 75, 00-687 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "2/4",
+        "2/5",
+        "2/6",
+        "2/7",
+        "2/8",
+        "2/12",
+        "2/14",
+        "2/15",
+        "2/17",
+        "2/18",
+        "2/20"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.8579
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.8579
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.8579
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.8579
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.8579
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.8579
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.8579
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.8579
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.8579
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-03-20",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.2.2024.AGi.4",
+    "decisions": [
+      {
+        "issue_date": "2024-05-16",
+        "reference": "WOOŚ-IV.515.2.2024.AGi.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "SIEN REAL sp. z o. o.",
+        "address": "ul. Wspólna 75, 00-687 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-05-01",
+    "planned_end": "2024-06-30",
+    "actual_end": "2025-02-27",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "efekt ekologiczny został osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

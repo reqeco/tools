@@ -1,0 +1,167 @@
+{
+  "registry_id": 1448,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6645,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Marsa",
+    "precinct": "3-00-75",
+    "parcel_numbers": [
+      "4/1",
+      "20/1",
+      "20/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((646011.59826406 488549.98145519476,646333.5968252628 488307.6226371387,646347.8843538567 488296.77469877806,646382.015672177 488341.7539553968,646397.0969523741 488368.2123416485,646372.7552369836 488389.64363450743,646378.0469142436 488405.78325012606,646373.8135724384 488447.5875003971,646357.4093729313 488466.37295463774,646276.1821270064 488535.4293427495,646269.5675304359 488548.6585358791,646202.8923969753 488605.54406630807,646073.2463041316 488711.377611313,646060.2816948488 488691.79840549175,646030.9128860573 488650.7879068032,646015.3024381499 488630.67953325436,646013.1857672464 488629.0920300726,646003.6607481783 488586.4940282125,646007.1003383927 488557.3898033425,646010.0107608872 488550.51062291395,646011.59826406 488549.98145519476))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "12 Terenowy Oddział Lotniskowy w Warszawie",
+      "address": "Al. Jerozolimskie 97 00-909 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "4/1",
+        "20/1",
+        "20/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.617
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0475
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-04-01",
+    "legal_basis": "art.101l ust.2",
+    "case_reference": "WOOŚ-IV.515.26.2021.DŚc.",
+    "decisions": [
+      {
+        "issue_date": "2021-09-30",
+        "reference": "WOOŚ-IV.515.26.2021.DŚc.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "12 Terenowy Oddział Lotniskowy w Warszawie",
+        "address": "Al. Jerozolimskie 97 00-909 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-10-01",
+    "planned_end": "2028-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

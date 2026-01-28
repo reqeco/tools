@@ -1,0 +1,196 @@
+{
+  "registry_id": 456,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.25,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Ordona",
+    "precinct": "6-05-05",
+    "parcel_numbers": [
+      "28/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((633532.4062501525 485721.99644304626,633644.5898079638 485763.27152559534,633649.3523174883 485755.3340097144,633683.2190519217 485764.85902876314,633691.6857355295 485737.8714747932,633729.2566440472 485750.0423324639,633761.0067075759 485660.6129869437,633765.7692171002 485639.4462779341,633763.1233784774 485631.5087620644,633719.2024572536 485612.9878916852,633711.7941090965 485629.92125888355,633576.3271713632 485633.09626523685,633560.4521395976 485638.38794248644,633532.4062501525 485721.99644304626))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Projekt Echo - 136 Sp. z o.o.",
+      "address": "Al. Solidarności 36 25-323 Kielce",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "61-420 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,22 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,24-0,60 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,59-3,1 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,47-2,3 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,55-0,72 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,73-3,2 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,51-4 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,17-1,3 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,89-2,2 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,32-21 [mg/kg]",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "34 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,3-5,9 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,3-5,3 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,4 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,8-6,7 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,8 [mg/kg]",
+      "area_ha": 0.03
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-08-07",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-09-13",
+        "reference": "WSI.515.51.2018.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Projekt Echo - 136 Sp. z o.o.",
+        "address": "Al. Solidarności 36 25-323 Kielce",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-10-04",
+    "planned_end": "2030-12-31",
+    "actual_end": "2018-10-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "Zgodne z rozporządzeniem MŚ oraz z projektem planu remediacji",
+    "effect_assessment": null
+  },
+  "notes": null
+}

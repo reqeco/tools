@@ -1,0 +1,61 @@
+{
+  "registry_id": 692,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Pruszcz Gdański (gmina wiejska)",
+    "address": "ul. Gdańska,  Bystra, 83-021 Wiślina",
+    "precinct": "obręb Bystra",
+    "parcel_numbers": [
+      "51/33",
+      "obr. Bystra"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((484291.68 715749.24,484244.83 715723.64,484277.77 715662.60,484323.21 715685.42,484291.68 715748.54,484291.68 715749.24))",
+    "site_description": "Gospodarstwo rolne Skarbu Państwa, zlikwidowana stacja paliw w latach 90-ch wyciek ropopochodnych do gruntu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "51/33"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-14",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.119.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.119.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

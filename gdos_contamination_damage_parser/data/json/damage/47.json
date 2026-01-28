@@ -1,0 +1,102 @@
+{
+  "registry_id": 47,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Szczecin dawniej ul. Wkrzańska, obecnie Królewskiego/Łączna",
+    "precinct": null,
+    "parcel_numbers": [
+      "1/167 obręb 3085 zmiana 1/169"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((205518.54878172199823894 631859.03557705204002559, 205552.2624730620009359 631876.79170638602226973, 205554.57984024001052603 631874.17631338094361126, 205521.67418895399896428 631852.54305995104368776, 205544.15477127800113522 631825.69940389203839004, 205562.52165224400232546 631803.75432313303463161, 205520.13068425099481829 631796.14340572105720639, 205510.27115265099564567 631793.8528067460283637, 205480.37866437100456096 631871.69396237703040242, 205438.90196698499494232 631887.02677931403741241, 205501.42807726500905119 632048.91040851804427803, 205552.64082628098549321 632008.12457206705585122, 205526.37609738498576917 631975.98774453601799905, 205506.37750242499168962 631933.10988329304382205, 205506.99567444098647684 631892.74514616094529629, 205518.54878172199823894 631859.03557705204002559))",
+    "site_description": "oczko wodne (zastoisko), miejsce bytowania i rozrodu kumaka nizinnego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Maj 2009 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "częściowe zasypanie zbiornika, w którym bytują chronione gatunki zwierząt (kumak nizinny i inne) w wyniku prac budowlanych przy ul. Wkrzańskiej w Szczecinie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Fundacja Ratujmy Ptaki",
+      "address": "Szafera 196/18 Szczecin",
+      "legal_form": "Fundacja"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zakład Wodociągów i Kanalizacji Sp.z o.o.",
+      "address": "Szczecin Golisza 10",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "kumak nizinny (Bombina bombina)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "kumak nizinny (Bombina bombina) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-05-21",
+    "detection_date": "2009-05-15",
+    "decisions": [
+      {
+        "issue_date": "2009-08-18",
+        "reference": "RDOŚ-32-WSI-6660/4-7/09/as",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2009-09-07",
+        "reason": "niewystarczające działania naprawcze",
+        "appealed_decision_reference": "RDOŚ-32-WSI-6660/4-7/as",
+        "resolution_reference": null,
+        "appellant_name": "(…)",
+        "appellant_address": null,
+        "resolution_date": "2010-01-07",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "umorzenie postępowania odwoławczego"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2009-09-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Przecisk sterowany - bezinwazyjne dla gatunku chronionego położenie magistrali wodnej",
+    "ecological_effect": "Monitoring liczebności płazów wykazał, że gatunek dobrze funkcjonuje w przedmiotowym oczku wodnym.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

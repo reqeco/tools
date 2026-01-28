@@ -1,0 +1,121 @@
+{
+  "registry_id": 431,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0141,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubański",
+    "municipality": "Leśna",
+    "address": "Stankowice",
+    "precinct": "obręb Stankowice",
+    "parcel_numbers": [
+      "604/3",
+      "AM-1",
+      "obręb Stankowice"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((240170.36679255319177173 357623.89202127658063546, 240185.35260106372879818 357623.9988085106597282, 240185.35260106372879818 357616.91525531921070069, 240170.33119680851814337 357616.91525531921070069, 240170.36679255319177173 357623.89202127658063546)),((240166.98519680852768943 357631.26034042547689751, 240173.00087765956413932 357631.18914893612964079, 240173.00087765956413932 357625.13787234044866636, 240166.98519680852768943 357625.13787234044866636, 240166.98519680852768943 357631.26034042547689751)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "96,6 mg/kg s.m.",
+      "area_ha": 0.0105
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "12900-5930 mg/kg s.m.",
+      "area_ha": 0.0105
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "11,6 mg/kg s.m.",
+      "area_ha": 0.0036
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "13,7 mg/kg s.m.",
+      "area_ha": 0.0036
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "6,56 mg/kg s.m.",
+      "area_ha": 0.0036
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,46 mg/kg s.m.",
+      "area_ha": 0.0036
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-04-30",
+    "legal_basis": "art.61 par.4 Kpa oraz art. 101l ust. 2 ustawy Prawo ochrony środowiska",
+    "case_reference": "WSI.515.6.2018.AB",
+    "decisions": [
+      {
+        "issue_date": "2020-09-15",
+        "reference": "WSI.515.6.2018.AS.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7 09-411 Płock",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-09-01",
+    "planned_end": "2020-12-15",
+    "actual_end": "2021-02-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja zostanie przeprowadzona metodą ex-situ, polegającą na wydobyciu zanieczyszczonego gruntu i przekazaniu go, jako odpad uprawnionemu podmiotowi, w ilości ok. 198 m3.",
+    "ecological_effect": "Osiągnięto zakładany efekt ekologiczny.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

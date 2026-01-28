@@ -1,0 +1,144 @@
+{
+  "registry_id": 1033,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.24,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "leżajski",
+    "municipality": "Nowa Sarzyna",
+    "address": "ul. Chemików 1, 37-310 Nowa Sarzyna",
+    "precinct": "nr 0007 Nowa Sarzyna",
+    "parcel_numbers": [
+      "180805_4.0007.2/300"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((735045 278342, 735038 278382, 735097 278392, 735104 278352, 735045 278342))",
+    "site_description": "użytek Ls - Lasy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1980-09-01",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Qemetica Agricultural Solutions Poland S.A.",
+      "address": "ul. Chemików 1, 37-310 Nowa Sarzyna",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "180805_4.0007.2/300"
+      ],
+      "economic_activity_code": "20.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Alifatyczne chlorowane",
+      "concentration": "0,04 mg/kg s.m. (1,1,2,2-tetrachloroetan)",
+      "area_ha": 0.24
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "0,04 mg/kg s.m.",
+      "area_ha": 0.24
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": null,
+      "concentration": "chloronitrobenzeny - 9,1 mg/kg s.m. (przyjęta dopuszczalna zawartość 0,1 mg/kg s.m.).",
+      "area_ha": 0.24
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Alifatyczne chlorowane",
+      "concentration": "do 33,9 mg/kg s.m. (1,1,2,2-tetrachloroetan)",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "do 3,57 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "do 0,14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": null,
+      "concentration": "chloronitrobenzeny - do 7,2 mg/kg s.m. (przyjęta dopuszczalna zawartość 1,0 mg/kg s.m.),",
+      "area_ha": 0.24
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-11-09",
+    "legal_basis": "art. 101l ust. 2 Poś",
+    "case_reference": "WSI.515.3.3.2018.KT",
+    "decisions": [
+      {
+        "issue_date": "2020-06-18",
+        "reference": "WSI.515.3.3.2018.KT.35",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-03-20",
+        "reference": "WSI.513.1.2020.KT.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-01-22",
+        "reference": "WSI.515.5.2024.KT.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Qemetica Agricultural Solutions Poland S.A.",
+        "address": "ul. Chemików 1, 37-310 Nowa Sarzyna",
+        "economic_activity_code": "20.20.Z"
+      }
+    ],
+    "planned_start": "2020-12-01",
+    "planned_end": "2035-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja środowiska gruntowego będzie przeprowadzona metodą „in-situ”, polegającą na:  Wykonaniu do końca 2021 r. nowych otworów sozologicznych nr: SO-19, SO-20, SO 21, SO-22 i SO-23, do spągu czwartorzędowej warstwy wodonośnej oraz likwidacji do końca 2024 r. istniejących otworów sozologicznych nr: SO-10, SO-11, SO-17.  Pompowaniu wód podziemnych z otworów sozologicznych i ich oczyszczaniu w Komunalnej Biologicznej Oczyszczalni Ścieków Sp. z o.o. z/s w Sarzyna 768/b, 37-310 Nowa Sarzyna.  Poborze prób gleby/ziemi z częstotliwością raz na 5 lat (2025 r., 2030 r., 2035 r. - w kwietniu), w następujących przedziałach: powierzchniowej próbki zbiorczej z przynajmniej 15 punktów pobierania próbek pojedynczych, z przedziału głębokości 0,0 – 0,25 m p.p.t., z przedziału miąższości: 0,25 – 1,0 m p.p.t., 1,0 – 2,0 m p.p.t., 2,0 – 3,0 m p.p.t., oraz z przedziału miąższości: 3,0 – 4,0 m p.p.t., 4,0 – 5,0 m, p.p.t. 5,0 – 6,0 m p.p.t. 6,0 – 7,0 m p.p.t., 7,0 – 8,0 m p.p.t., 8,0 – 9,0 m p.p.t., 9,0 – 10,0 m p.p.t. – w jednym punkcie. Próbki gleby i ziemi zostaną przebadane ze względu na zawartość substancji powodujących ryzyko określonych w pkt 2 niniejszej decyzji.  Prowadzony będzie monitoring stanu wód powierzchniowych w oparciu o istniejącą lokalną sieć monitoringu, z częstotliwością jeden raz na rok (w kwietniu), w zakresie: pomiary hydrologiczne: poziom lustra wody (m n.p.m.), 3 razy w roku (w kwietniu, lipcu i październiku), parametry fizyczne: odczyn pH, przewodność elektrolityczna właściwa w 20°C, elementy nieorganiczne: cynk (Zn), miedź (Cu), chlorki, elementy organiczne: BTEX – benzen, toluen, ksylen, styren, Σ BTEX, monochlorobenzen, chloronitrobenzeny – suma izomerów, trichloroeten, 1,1,2,2-tetrachloroetan, tetrachloroeten, indeks fenolowy, krezole (suma izomerów).  Prowadzony będzie monitoring stanu wód podziemnych w oparciu o istniejącą lokalną sieć monitoringu, z częstotliwością jeden raz na rok (w kwietniu), w zakresie: pomiary hydrogeologiczne w studniach i otworach sozologicznych (parametry eksploatacyjne: wydajność (m3/h), depresja (m) i ustabilizowane lustro wody (m n.p.m.)), pomiary hydrogeologiczne w piezometrach: ustabilizowane lustro wody (m n.p.m.), parametry fizyczne: odczyn pH, przewodność elektrolityczna właściwa w 20°C, elementy nieorganiczne: cynk (Zn), miedź (Cu), chlorki, elementy organiczne: BTEX – benzen, toluen, ksylen, styren, Σ BTEX, monochlorobenzen, chloronitrobenzeny – suma izomerów, trichloroeten, 1,1,2,2-tetrachloroetan, tetrachloroeten, indeks fenolowy, krezole (suma izomerów).  Prowadzący remediację będzie przedkładał: Sprawozdania cząstkowe z postępu procesu remediacji oraz wykonanych prac w postaci tekstowej, tabelarycznej i graficznej, do 31 grudnia każdego roku. Wyniki monitoringu zanieczyszczenia powierzchni ziemi będą inwentaryzowane na mapie w skali 1:500.  Dokumentację powykonawczą - raport końcowy z przeprowadzonej remediacji historycznego zanieczyszczenia powierzchni ziemi, obejmującego ocenę skuteczności procesu remediacji powierzchni ziemi w kolejnych latach, na podstawie wyników monitoringu obejmującego: glebę, ziemię, wody powierzchniowe i wody podziemne, zawierającego dane o objętości usuniętej wody, w postaci tekstowej, tabelarycznej i graficznej, w terminie nie później niż do 31 grudnia 2035 r.",
+    "ecological_effect": "Osiągniecie zawartości substancji powodujących ryzyko w glebie i ziemi, na poziomie dopuszczalnym dla gruntów grupy III.",
+    "effect_assessment": null
+  },
+  "notes": "Sprawa znak: WSI.515.3.3.2018.KT - dokonano wpisu jak potencjalne zanieczyszczenie pod znakiem sprawy WSI.513.1.2020.KT; sprawa WSI.515.5.2024.KT - zmiana nazwy zobowiązanego z CIECH Sarzyna S.A."
+}

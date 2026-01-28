@@ -1,0 +1,60 @@
+{
+  "registry_id": 1032,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Przemysłowa 2 w Trzebini",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.795/195"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532788.2008508807 254293.14611365367,532793.6248200608 254277.53566576168,532788.333142811 254262.85126139317,532752.7466133106 254247.50539737474,532711.6038226907 254225.6772287134,532696.6548344608 254244.5949748857,532697.4485860409 254254.5168697238,532788.3331428109 254293.41069751326,532788.4654347409 254293.1461136546,532788.2008508807 254293.14611365367))",
+    "site_description": "Teren po byłych Zakładach Metalurgicznych \"Trzebinia\" w Trzebini"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zam-Trzebinia Sp. z o.o.",
+      "address": "40-956 Katowice, ul. Graniczna 29",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "120305_4.0013.795/195"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-29",
+    "legal_basis": "Art. 61 Kpa",
+    "case_reference": "ZS.513.49.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-12-16",
+        "reference": "ZS.513.49.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

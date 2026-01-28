@@ -1,0 +1,78 @@
+{
+  "registry_id": 7,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "wieluński",
+    "municipality": "Wierzchlas",
+    "address": "Kochlew",
+    "precinct": "0005 Kochlew",
+    "parcel_numbers": [
+      "46/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((483531.36999999999534339 369538.5500000009778887, 483613.51000000000931323 369471.38000000099418685, 483602.19000000000232831 369415.21000000101048499, 483596.02000000001862645 369355.5, 483593.33000000001629815 369321.36999999900581315, 483582.69000000000232831 369304.04990000097313896, 483587.38000000000465661 369287.65000000002328306, 483590.47999999998137355 369271.82000000000698492, 483587.85999999998603016 369273.3000000009778887, 483582.45000000001164153 369290.64000000100350007, 483558.82000000000698492 369325.88000000099418685, 483546.63000000000465661 369354.93999999901279807, 483557.79999999998835847 369410.85999999899649993, 483555.07000000000698492 369475.60999999899649993, 483541.51000000000931323 369503.89000000100350007, 483531.36999999999534339 369538.5500000009778887))",
+    "site_description": "Załęczański Park Krajobrazowy"
+  },
+  "occurrence_time": {
+    "date": "2008-08-12",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "naruszenie naturalnej linii brzegowej rzeki Warty, obszar ten bezpośrednio przylega do działki nr 46/2 znajdującej się na terenie Załeczańskiego Parku Krajobrazowegio w m. Kochlew, gm. Wierzchlas, zniszczenia obejmowały przekopanie odcinka ok. 50 m wzdłuż brzegu skutkiem czego zniszczona została flora i fauna terenu",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dyrekcja Sieradzkich Parków Krajobrazowych",
+      "address": "ul. Rycerka 2 a, Sieradz",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "siedlisko gatunków chronionych"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2008-10-17",
+    "detection_date": "2008-08-12",
+    "decisions": [
+      {
+        "issue_date": "2009-10-19",
+        "reference": "RDOŚ-10-WSI-o-6620-d-23/404/2009/mr",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-04-01",
+    "actual_end": null,
+    "method": "zaniechanie dalszych działań naprawczych",
+    "description": "pozostawienie terenu do samoistnego wkroczenia roślinności po uprzednim zasypaniu utworzonego kanału, odsłonięcie szyi korzeniowych i dolnych części pni drzew porastających brzeg, usunięcie nasadzonych obcych gatunków drzew i krzewów, nasadzenia drzew gatunków rodzimych charakterystycznych dla siedlisk nadrzecznych tj. olsza czarna, olsza szara, wierzba iwa",
+    "ecological_effect": "nastąpiła samoistna regeneracja niekorzystnie przekształconego brzegu rzeki Warty oraz wtórne odnowienie się pierwotnej roślinności na terenie działki",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,84 @@
+{
+  "registry_id": 237,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "bartoszycki",
+    "municipality": "Bartoszyce (gmina miejska)",
+    "address": "Bartoszyce  ul. Kętrzyńska/Bohaterów Warszawy",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;LINESTRING(618336.0721896163 711049.2162382519,618408.5681679936 711017.995342481,618476.5662206972 710941.5306062093)",
+    "site_description": "Odcinek drogi wojewódzkiej nr 592 w ciągu ulic Kętrzyńskiej i Bohaterów Warszawy w miejscowości Bartoszyce"
+  },
+  "occurrence_time": {
+    "date": "2010-03-03",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Szkoda polegająca na zniszczeniu siedlisk gatunku chronionego-pachnicy dębowej, w wyniku wycinki drzew na odcinku drogi wojewódzkiej nr 592 w ciągu ulic Kętrzyńskiej i Bohaterów Warszawy w miejscowości Bartoszyce",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "mieszkańcy Bartoszyc",
+      "address": "Bartoszyce",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zarząd Dróg Wojewódzkich w Olsztynie",
+      "address": "ul. Pstrowskiego 28 B,  10-602 Olsztyn",
+      "economic_activity_code": "52.21.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "pachnica dębowa (Osmoderma eremita) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-03-03",
+    "detection_date": "2010-03-04",
+    "decisions": [
+      {
+        "issue_date": "2010-03-09",
+        "reference": "RDOŚ-28-WSIZ-6650-001/10/jk/kp",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2010-05-17",
+        "reference": "RDOŚ-28-WSIZ-6650-001/10/jk/kp",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2010-06-14",
+    "actual_end": null,
+    "method": null,
+    "description": "Działania naprawcze będą polegały na wybraniu próchnowisk z pozostawionych przy drodze kłód, a następnie wybraniu z nich larw pachnicy dębowej. Pozyskane larwy zostaną umieszczone w specjalnych pojemnikach zabezpieczonych od góry materiałem łatwo przepuszczającym powietrze, co umożliwi właściwą cyrkulację oraz odpowiednie warunki wilgotnościowe. Każdej larwie należy zapewnić co najmniej 2 litry próchnowiska. Pojemniki z larwami zostaną umieszczone w pomieszczeniu  o zbliżonych warunkach termicznych do otoczenia. Dalsze działania naprawcze będą polegały na przesiedleniu larw do dziupli drzew, znajdujących się w pobliżu istniejących stanowisk pachnicy. Działania naprawcze należy prowadzić pod ścisłym nadzorem wykwalifikowanego entomologa. W celu sprawdzenia powodzenia działań, należy przez kolejne 4 lata zlecić entomologowi-specjaliście ocenę kondycji i trwałości populacji pachnicy.",
+    "ecological_effect": "Zachowanie populacji pachnicy dębowej, której dotychczasowe siedliska uległy zniszczeniu.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

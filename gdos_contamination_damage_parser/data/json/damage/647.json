@@ -1,0 +1,48 @@
+{
+  "registry_id": 647,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Warszawa ul. Lazurowa 40",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((629506.7841994433 487603.74913133215,629486.4112420063 487581.7886707438,629480.3258131699 487520.4052146422,629498.5820996949 487514.84895353206,629550.4405367873 487516.70104056224,629543.032188633 487600.30954111274,629506.7841994433 487603.74913133215))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczysczeniu gruntu substancjami ropochodnymi na terenie Stacji Paliw nr 1536 przy ul. Lazurowej 40 w Warszawie",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 1536 w Warszawie - PKN ORLEN",
+      "address": "Warszawa Lazurowa",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2013-11-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

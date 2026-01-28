@@ -1,0 +1,123 @@
+{
+  "registry_id": 918,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1798,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Nałęczowska",
+    "precinct": "1-05-37",
+    "parcel_numbers": [
+      "171",
+      "172"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641166.1534014146 480899.4263811307,641204.2534776642 480841.7470990997,641210.0743226518 480838.57209274825,641277.2786238149 480877.73050440755,641279.395294718 480884.0805171076,641238.6493798448 480945.4639732102,641166.1534014146 480899.4263811307))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "YIT Development Sp. z o.o.",
+      "address": "ul. Twarda 18, 00-105 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "171",
+        "172"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.1400",
+      "area_ha": 0.0248
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "mg/kg s.m.31-38",
+      "area_ha": 0.0248
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "mg/kg s.m.11",
+      "area_ha": 0.115
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "mg/kg s.m.11",
+      "area_ha": 0.115
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "mg/kg s.m.7,5",
+      "area_ha": 0.115
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.11",
+      "area_ha": 0.115
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-08-29",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.88.2019.MGł",
+    "decisions": [
+      {
+        "issue_date": "2019-10-25",
+        "reference": "WOOŚ-IV.515.88.2019.MGł.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "YIT Development Sp. z o.o.",
+        "address": "ul. Twarda 18, 00-105 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-10-30",
+    "planned_end": "2020-05-30",
+    "actual_end": "2019-12-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "ex-situ - usunięcie zanieczyszczonego gruntu in-situ - pozostawienie gruntu w rejonie drzew do samooczyszczenia",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

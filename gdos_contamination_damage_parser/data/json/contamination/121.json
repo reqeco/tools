@@ -1,0 +1,84 @@
+{
+  "registry_id": 121,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.385,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "Gdańsk, ul. Marynarki Polskiej",
+    "precinct": "0070 Gdańsk",
+    "parcel_numbers": [
+      "93/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((477261.22629327996 724889.0070669018,477276.04298957996 724867.3111901721,477161.74276097986 724793.227708674,477146.92606467986 724790.0527023207,477111.4718270998 724769.9443287728,477100.3593048798 724766.7693224214,477100.3593048798 724773.1193351224,477259.63879009977 724888.4778991714,477261.22629327996 724889.0070669018))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "1970-1994"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Prezydent Miasta Gdańska",
+      "address": "ul. Nowe Ogrody 8/12,  80-803 Gdańsk",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "257,2 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-03-02",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WSI-I.511.1.2015.AK.2",
+    "decisions": [
+      {
+        "issue_date": "2015-03-27",
+        "reference": "RDOŚ-Gd-WSI-I.511.1.2015.AK.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Prezydent Miasta Gdańska",
+        "address": "ul. Nowe Ogrody 8/12,  80-803 Gdańsk",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

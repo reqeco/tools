@@ -1,0 +1,89 @@
+{
+  "registry_id": 420,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "legnicki",
+    "municipality": "Chojnów (gmina wiejska)",
+    "address": "Ostenica",
+    "precinct": "obręb 3",
+    "parcel_numbers": [
+      "nr 267/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((279681.9009512633 381766.5126537187,279716.56143783854 381775.37621311285,279709.9468411361 381802.36376708373,279705.71349925327 381816.51900373306,279671.71447234927 381807.6554443408,279681.9009512633 381766.5126537187))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2011-04-04",
+    "from": "2007-04-30",
+    "to": null,
+    "description": "W dniu 4 kwietnia 2011 r. doszło  do wycieku oleju transformatorowego do gruntu."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gleby spowodowane było wylaniem oleju na nieutwardzony teren przez nieznanych sprawców, przy próbie kradzieży złomu, z dwóch transformatorów w łącznej ilości 8,00 Mg. Do zanieczyszczenia doszło w obrębie Podstacji Trakcyjnej należącej do PKP Energetyka S.A.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKP Energetyka S.A. - Zakład Dolnośląski",
+      "address": "PKP Energetyka S.A. z siedzibą w Warszawie ul. Hoża 63/67,  00-681 Warszawa, Zakład Dolnośląski, ul. Joannitów 13, 50-525 Wrocław",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKP Energetyka S.A. - Zakład Dolnośląski",
+      "address": "PKP Energetyka S.A. z siedzibą w Warszawie ul. Hoża 63/67,  00-681 Warszawa, Zakład Dolnośląski, ul. Joannitów 13, 50-525 Wrocław",
+      "economic_activity_code": "35.13.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.195
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2011-04-21",
+    "detection_date": "2011-04-04",
+    "decisions": [
+      {
+        "issue_date": "2011-04-28",
+        "reference": "WSI.511.1.2011.APC.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2011-05-31",
+        "reference": "WSI.511.1.2011.APC.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie ok. 1950 m2, o miąższości ok. 1,00 m zanieczyszczonego gruntu metodą ex – situ  i oczyszczenie go poza miejscem jego pierwotnego występowania oraz dowiezienie czystego gruntu do wykopu.",
+    "ecological_effect": "PKP Energetyka S.A., pimem z dnia 21 września 2011 r., znak: EZ12 Ez12-461/50/2011, przekazała w załączeniu opracowanie pn. „Sprawozdanie z wykonanych prac i badań środowiska gruntowego po przeprowadzonej rekultywacji ex-situ w miejscu wycieku oleju transformatorowego na terenie PT Osetnica w miejscowości Osetnica”, z lipca 2011 r. wykonane przez DEKONTA Polska Sp. z o.o., ul. Ściegiennego 252, 25-116 Kielce, potwierdzając zakończenie prac rekultywacyjnych na przedmiotowym terenie. \tWyniki analiz laboratoryjnych kontrolnych próbek gruntu wykonanych przez Laboratorium Ochrony Środowiska WESSLING Polska Sp. z o.o. (PCA Nr AB 918), nie wykazały przekroczeń wartości dopuszczalnych stężeń substancji w glebie lub ziemi w zakresie zawartości substancji ropopochodnych w odniesieniu do standardów jakości gleby oraz standardów jakości ziemi dla funkcji terenu zakwalifikowanego do grupy „C”, zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

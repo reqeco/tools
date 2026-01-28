@@ -1,0 +1,99 @@
+{
+  "registry_id": 367,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "człuchowski",
+    "municipality": "Rzeczenica",
+    "address": "Rzeczenica",
+    "precinct": "0008 Rzeczenica",
+    "parcel_numbers": [
+      "901"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((375969.55408051243 656241.2508862484,376013.2104179278 656236.4883767255,376052.36882967164 656243.6321410118,376080.94388689066 656235.9592090063,376139.4169206411 656230.1383640356,376149.47110744484 656235.9592090119,376156.8794556125 656238.07587991,376167.46281013766 656238.3404637706,376194.9795319026 656249.4529859992,376207.1503896116 656250.7759053111,376275.94219402527 656249.1884021331,376331.76938913716 656261.3592598196,376361.6673656767 656278.0280431602,376365.1069558955 656273.0009497702,376334.67981163407 656257.1259180186,376284.4088776457 656244.9550603349,376203.975383254 656247.6008989653,376195.77328349464 656246.2779796543,376168.2565617296 656233.8425381118,376153.4398653943 656233.3133703806,376140.21067223337 656226.1696060989,376081.20847076154 656230.9321156163,376069.8313646441 656234.9008735567,376053.42716512433 656238.0758799035,376013.2104179281 656231.990451063,375974.05200618354 656234.3717058226,375969.55408051243 656241.2508862484))",
+    "site_description": "rzeka Czernica, rzeka Brzęczek"
+  },
+  "occurrence_time": {
+    "date": "2011-03-20",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda, chronione siedliska przyrodnicze",
+  "event_description": "szkoda polegająca na zanieczyszczeniu wód rzeki Czernicy przez ścieki z wiejskiej oczyszczalni ścieków w Rzeczenicy, której eksploatatorem jest Urząd Gminy w Rzeczenicy",
+  "total_area_ha": 0.1994,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Urząd Gminy  Rzeczenica",
+      "address": "ul. Człuchowska 26 77-304 Rzeczenica",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym",
+      "substance": "Zawiesina ogólna"
+    },
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym",
+      "substance": "Chzt-Cr"
+    },
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym",
+      "substance": "Chlorki"
+    },
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym",
+      "substance": "Bzt5"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Nizinne i podgórskie rzeki ze zbiorowiskami włosieniczników (Ranunculion fluitantis)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-05-17",
+    "detection_date": "2011-03-20",
+    "decisions": [
+      {
+        "issue_date": "2011-08-31",
+        "reference": "RDOŚ-Gd-WSI-I.512.3.1.2011.KG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2016-05-31",
+    "actual_end": "2015-12-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "a)\tudrożniono rów melioracyjny R 7 z jednoczesnym usunięciem zalegających na jego dnie zanieczyszczonych osadów dennych tak aby po wykonaniu tych prac przekrój rowu był zgodny z projektem technicznym – w terminie jednego miesiąca od daty uprawomocnienia się niniejszej decyzji; b)\tumożliwiono naturalną regenerację elementów przyrodniczych w omawianych rzekach poprzez zaniechanie wszelkich działań mogących mieć negatywny wpływ na ich stan jakościowy; c)\tpo uzyskaniu parametrów jakościowych wód rzeki Brzęczek (Bagnicy) i rzeki Czernicy, określonych w rozporządzeniu Ministra Środowiska z dnia 4 października 2002 roku w sprawie wymagań, jakim powinny odpowiadać wody śródlądowe będące środowiskiem życia ryb w warunkach naturalnych (Dz. U. Nr 176, poz. 1455), zarybiono ww rzeki pod nadzorem Zarządu Okręgu Polskiego Związku Wędkarskiego w Słupsku; d) doprowadzono do parametrów  jakościowych wody rzeki Brzęczek (Bagnicy) i rzeki Czernicy, określonych w rozporządzeniu Ministra Środowiska z dnia 4 października 2002 roku w sprawie wymagań, jakim powinny odpowiadać wody śródlądowe będące środowiskiem życia ryb w warunkach naturalnych (Dz. U. Nr 176, poz. 1455),  e) odtworzono stanowiska i siedliska włosienicznika na odcinku rzeki Brzęczek (Bagnicy), powyżej zrzutu ścieków z rowu melioracyjnego R 7 do jej ujścia do rzeki Czernicy oraz na odcinku rzeki Czernicy od ujścia wód rzeki Brzęczek (Bagnicy) na odcinku 400 m w dół rzeki.",
+    "ecological_effect": "a)\tosiągnięto parametry jakości wód obu rzek nie gorsze niż określone w rozporządzeniu Ministra Środowiska z dnia 4 października 2002 roku w sprawie wymagań, jakim powinny odpowiadać wody śródlądowe będące środowiskiem życia ryb w warunkach naturalnych (Dz. U. Nr 176, poz. 1455);  b)\tzarybiono pstrągiem potokowym i lipieniem rzeki Brzęczek (Bagnicy) i rzeki Czernicy do poziomu określonego przez Zarząd Okręgu Polskiego Związku Wędkarskiego w Słupsku; c)\todtworzono stanowiska występowania gatunku włosienicznika na odcinku rzeki Brzęczek (Bagnicy), powyżej zrzutu ścieków z rowu melioracyjnego R 7 do jej ujścia do rzeki Czernicy oraz na odcinku rzeki Czernicy od ujścia wód rzeki Brzęczek (Bagnicy) na odcinku 400 m w dół rzeki.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

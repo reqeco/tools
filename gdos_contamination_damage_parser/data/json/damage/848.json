@@ -1,0 +1,85 @@
+{
+  "registry_id": 848,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "zawierciański",
+    "municipality": "Ogrodzieniec",
+    "address": "Ogrodzieniec, ul. Kościuszki 107c",
+    "precinct": "obr. 0001 Ogrodzieniec a.m. 3",
+    "parcel_numbers": [
+      "241606_4.0001.AR_3.625/40"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((535040.020000 288268.200000,535106.320000 288196.899900,535067.040000 288162.120000,535061.730000 288157.419900,534996.180000 288227.910000,535040.020000 288268.200000))",
+    "site_description": "Teren zakładu PROZŁOM Wojciech Michalski w Ogrodzieńcu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2015-05-11",
+    "description": "zgłoszone zanieczyszczenie stwierdzono w trakcie kontroli WIOŚ 11.05.2015 r., ale już w 2013 r. stwierdzono przekroczenia na terenie zakładu"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "WIOŚ prowadził kontrolę zakładu w związku ze zgłoszeniami o uciążliwościach powodowanych przez działalność zakładu w zakresie gospodarowania odpadami",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach Delegatura w Częstochowie",
+      "address": "Ul. Rząsawska 24/28; 42-200 Częstochowa",
+      "legal_form": "Administracja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PROZŁOM Wjciech Michalski",
+      "address": "Słowackiego 21b; 42-440 Ogrodzieniec",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Cynk (Zn)",
+      "concentration": "2700",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Miedź (Cu)",
+      "concentration": "1600",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Ołów (Pb)",
+      "concentration": "1300",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Arsen (As)",
+      "concentration": "72",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2015-07-21",
+    "detection_date": "2015-05-11",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,106 @@
+{
+  "registry_id": 368,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.65,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "wielicki",
+    "municipality": "Niepołomice",
+    "address": "ulica Grabska",
+    "precinct": "1 Niepołomice",
+    "parcel_numbers": [
+      "1514/1  1514/2 (obręb 1)"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((585111.0618920536 241600.31060005724,585238.5913137896 241595.54809053615,585220.5996111387 241411.92688995413,585102.0660407331 241422.51024445612,585111.0618920536 241600.31060005724))",
+    "site_description": "teren bo oczyszczalni ścieków garbarskich, która funkcjonowała do końca lat 90-tych XX wieku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres funkcjonowania oczyszczalni tj pomiędzy końcem lat 80-tych XX wieku a końcem lat 90-tych XX wieku"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "ODPROWADZANIE I OCZYSZCZANIE ŚCIEKÓW",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "TECHNOBUD Sp. z o.o., Sp.k.",
+      "address": "ul. Grodzka 5 w Nowym Sączu",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "351 mg/kg suchej masy] do 23 800 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,02 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "7840 [mg/kg suchej masy]",
+      "area_ha": 0.0004
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-01-11",
+    "legal_basis": "art.61 § 3 ustawy Kodeks postępowania administracyjnego",
+    "case_reference": "ZS.515.1.2018.MKub",
+    "decisions": [
+      {
+        "issue_date": "2018-04-13",
+        "reference": "ZS.515.1.2018.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-08-01",
+        "reference": "ZS.515.7.2018.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4, art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TECHNOBUD Sp. z o.o., Sp.k.",
+        "address": "ul. Grodzka 5 w Nowym Sączu",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-04-16",
+    "planned_end": "2018-12-31",
+    "actual_end": "2018-09-27",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięcie zanieczyszczonej gleby i ziemi",
+    "ecological_effect": "Przeprowadzone badania próbek gruntu pobranego z dna wykopów, potwierdziły, iż z terenu objętego remediacja osunięto całość zanieczyszczonej gleby i ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

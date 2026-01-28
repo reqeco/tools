@@ -1,0 +1,58 @@
+{
+  "registry_id": 1789,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "jeleniogórski",
+    "municipality": "Kowary",
+    "address": "ul. Bielarska 12 58-530 Kowary",
+    "precinct": "0001 Kowary",
+    "parcel_numbers": [
+      "633/3",
+      "635",
+      "0001 Kowary"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((276269.83040917100152001 330315.57246172399027273, 276240.4622125779860653 330291.63156559300841764, 276228.46172086702426895 330311.53017882601125166, 276266.70304157002829015 330342.74579070700565353, 276268.77378322597360238 330344.54205558699322864, 276284.60494580800877884 330327.51161074597621337, 276279.10305271600373089 330323.13536606397246942, 276269.83040917100152001 330315.57246172399027273))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na terenie działek nr 635 i 633/3, obręb 0001 Kowary, gm. Kowary, w wyniku nielegalnego demontażu pojazdów doszło do zanieczyszczenia powierzchni ziemi.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dolnośląski Wojewódzki Inspektor Ochrony Środowiska we Wrocławiu",
+      "address": "ul. Józefa Chełmońskiego 14 51-630 Wrocław",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Osoba fizyczna",
+      "address": null,
+      "economic_activity_code": "38.31.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-06-06",
+    "detection_date": "2021-10-26",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSI.512.17.2022.ŁJ"
+}

@@ -1,0 +1,68 @@
+{
+  "registry_id": 1326,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "szamotulski",
+    "municipality": "Duszniki",
+    "address": "Ceradz Dolny, gm. Duszniki",
+    "precinct": "0602 Ceradz Dolny",
+    "parcel_numbers": [
+      "226/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((336701.75542435545 508497.5491689006,336675.2970380159 508498.0783366207,336675.2970380221 508443.83864481,336693.2887407327 508444.63239640184,336701.75542435545 508497.5491689006))",
+    "site_description": "Teren, na którym prowadzono poszukiwanie i rozpoznawanie złóż kopalin metodą otworów wiertniczych i wydobywanie gazu ziemnego ze złoża metodą otworów wiertniczych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polskie Górnictwo Naftowe i Gazownictwo SA",
+      "address": "ul. M. Kasprzaka 25 01-224 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "226/6"
+      ],
+      "economic_activity_code": "35.23.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "3850 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-05-26",
+    "legal_basis": "art. 101c ust. 3 pkt 3 ustawy Prawo ochrony środowiska",
+    "case_reference": "WSS.513.9.2021.ASB",
+    "decisions": [
+      {
+        "issue_date": "2021-07-01",
+        "reference": "WSS.513.9.2021.ASB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Oddział w Zielonej Górze, ul. Bohaterów Westerplatte 15, 65-034 Zielona Góra"
+}

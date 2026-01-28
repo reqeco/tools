@@ -1,0 +1,210 @@
+{
+  "registry_id": 2046,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.257,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "Płk. Jana Kilińskiego 245 93-138 Łódź",
+    "precinct": "G-4",
+    "parcel_numbers": [
+      "313/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((532834.86453680251725018 430487.24023697897791862, 532841.2469273250317201 430529.68763531837612391, 532862.19021771941334009 430540.60734964068979025, 532884.53695579944178462 430543.31410148926079273, 532906.08646406140178442 430545.82091656513512135, 532927.69497147784568369 430550.8822772866114974, 532948.08059296361170709 430552.90536712110042572, 532966.60188698780257255 430554.81709947157651186, 532967.92043284862302244 430487.91609790362417698, 532949.99232061847578734 430488.08688643667846918, 532929.50120301358401775 430488.28281245846301317, 532909.07503066852223128 430488.47784826811403036, 532902.29928353242576122 430488.54274130612611771, 532902.98510232463013381 430439.78572851419448853, 532911.9189301811857149 430439.60930821485817432, 532927.20796373044140637 430439.30880158115178347, 532942.90561581123620272 430438.99969599116593599, 532956.65005698020104319 430438.72935514152050018, 532971.19791163236368448 430438.45399812236428261, 532986.68503985658753663 430438.2427170230075717, 533000.92720354674383998 430438.04850052110850811, 533014.81566120276693255 430437.85913222935050726, 533027.33925422863103449 430437.68847199250012636, 533032.14470200566574931 430363.50634286180138588, 533017.67722179018892348 430363.95848180446773767, 533001.52392753504682332 430366.45942316576838493, 532986.43074719002470374 430371.86195583455264568, 532971.90245409845374525 430374.07479516882449389, 532957.22357378236483783 430376.31068515032529831, 532942.46391108841635287 430378.55867542047053576, 532926.96825841197278351 430380.91868821810930967, 532912.40508883958682418 430383.13900148961693048, 532895.06554674240760505 430385.78512038569897413, 532874.6634045394603163 430388.89994315057992935, 532852.30146927537862211 430392.30246070306748152, 532824.09311354637611657 430398.09762562345713377, 532836.59328288631513715 430440.1091318903490901, 532834.86453680251725018 430487.24023697897791862)))",
+    "site_description": "była zajezdnia tramwajowa nr 2 przy ul. Dąbrowskiego w Łodzi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Ochnik Development Dąbrowskiego Sp. z o.o.",
+      "address": "ul. Dzielna 60 01-029 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "powyżej 20 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "powyżej 200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "powyżej 200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "powyżej 400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "powyżej 30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "powyżej 150 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "powyżej 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "powyżej 300 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-09-30",
+    "legal_basis": "101l ustawy poś",
+    "case_reference": "WSI.515.13.2024.MG",
+    "decisions": [
+      {
+        "issue_date": "2024-12-30",
+        "reference": "WSI.515.13.2024.MG.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Ochnik Development Dąbrowskiego Sp. z o.o.",
+        "address": "ul. Dzielna 60 01-029 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-01-01",
+    "planned_end": "2026-03-30",
+    "actual_end": null,
+    "method": null,
+    "description": "ex-situ oraz in-situ (bioremediacja)",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

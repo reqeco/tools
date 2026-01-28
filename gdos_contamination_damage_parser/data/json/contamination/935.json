@@ -1,0 +1,79 @@
+{
+  "registry_id": 935,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": null,
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.1141/23",
+      "120305_4.0013.1160/1",
+      "120305_4.0013.1160/2",
+      "120305_4.0013.1141/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532923.6016425409 254201.7985352138,532980.2225891209 254239.36944368295,532990.276775891 254235.92985347472,533095.845737031 254231.43192781322,533120.1874523809 254235.13610188197,533126.2728812209 254236.98818892334,533144.529167731 254234.8715180233,533179.9834053108 254234.60693416465,533162.256286521 254192.80268388242,533176.5438150909 254186.18808732182,533184.2167471111 254197.03602568246,533192.4188468409 254186.71725505125,533186.5980018709 254171.63597488217,533227.8730844209 254162.64012356382,533252.743967501 254192.53810002375,533258.8293963309 254186.71725505218,533255.9189738508 254180.63182621356,533197.975107961 254113.9566928642,533181.3063246208 254102.5795867741,532927.5704004809 254185.65891960263,532923.6016425409 254201.7985352138))",
+    "site_description": "Hałda odpadów poprzemysłowych na terenie byłych zakładów metalurgicznych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-08",
+    "legal_basis": "art 61 kpa",
+    "case_reference": "ZS.513.117.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2019-09-02",
+        "reference": "ZS.513.117.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

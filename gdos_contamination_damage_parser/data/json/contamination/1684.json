@@ -1,0 +1,76 @@
+{
+  "registry_id": 1684,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": null,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Ujastek",
+    "precinct": "NH-20",
+    "parcel_numbers": [
+      "126103_9.0020.1/636"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((577535.6659052571 246316.33117396012,577527.1992216569 246384.06464276183,577385.9114390829 246372.95212053973,577398.0822967534 246315.27283851057,577405.4906449036 246292.51862633973,577405.4906449035 246275.58525914047,577472.6949459853 246280.876936391,577496.5074936061 246282.4644395588,577495.4491581559 246293.04779405892,577507.0908481063 246293.04779405985,577506.0325126562 246320.56451576017,577526.6700539369 246322.152018941,577533.5492343571 246317.9186771391,577535.6659052571 246316.33117396012),(577285.3695713303 246263.9435691908,577281.1362295302 246368.18961101305,577385.3822713529 246371.36461735982,577398.6114644834 246314.2145030601,577351.5155369521 246311.56866444182,577352.5738724022 246289.8727877112,577340.9321824517 246289.87278771028,577340.4030147317 246271.35191734135,577341.4613501816 246261.8268982917,577285.3695713303 246263.9435691908),(577341.4613501817 246270.82274961192,577474.2824491553 246280.87693639006,577474.2824491555 246272.4102527909,577462.1115914851 246270.29358188994,577463.1699269351 246261.82689829078,577475.3407846055 246260.23939510994,577484.8658036557 246256.53522104025,577538.8409116071 246258.65189193934,577540.4284147873 246220.5518157389,577426.6573539042 246213.67263531126,577423.4823475541 246264.47273690905,577385.911439083 246261.82689829078,577341.4613501817 246260.2393951118,577341.4613501817 246270.82274961192)))",
+    "site_description": "działka na terenie Huty ArcelorMittal Poland S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres działalność Huty Arcelor Mittal Poland S.A. (dawniej Kombinat Metalurgiczny Huta im. Lenina, Huta im. T. Sendzimira)tj. od lat 50-tych XX wieku"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych"
+  },
+  "land_holders": [
+    {
+      "name": "ArcelorMittal Poland S.A.",
+      "address": "ul. T. Sendzimira 1 31-752 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-15",
+    "legal_basis": "art. 61 § 1 Kpa",
+    "case_reference": "ZS.513.34.2021.MKub",
+    "decisions": [
+      {
+        "issue_date": "2022-06-06",
+        "reference": "ZS.513.34.2021.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "101 c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ArcelorMittal Poland S.A.",
+        "address": "ul. T. Sendzimira 1 31-752 Kraków",
+        "economic_activity_code": "24.10.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

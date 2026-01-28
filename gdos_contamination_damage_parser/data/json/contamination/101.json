@@ -1,0 +1,141 @@
+{
+  "registry_id": 101,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 7.3553,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "oleski",
+    "municipality": "Dobrodzień",
+    "address": "46-375 Pludry, ul. AL. Wyzwolenia 18",
+    "precinct": "Pludry",
+    "parcel_numbers": [
+      "dz. 151/1 obręb  Pludry"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((461992.0146473776 310787.52459565457,461995.1896537277 310761.0662094038,461973.4937769976 310751.01202263404,461980.90212514764 310631.94928450417,462226.43594954774 310703.3869273858,462224.84844637755 310720.84946230333,462273.0027093478 310753.6578612551,462258.18601304764 310772.7078993544,462384.12793159764 310823.508000955,462382.5404284277 310971.14579623565,462295.2277537978 310967.44162216503,461992.0146473776 310787.52459565457))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 30 kwietnia 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja wyrobów tartacznych",
+    "current": "Produkcja wyrobów tartacznych"
+  },
+  "land_holders": [
+    {
+      "name": "Nasycalnia Podkładów w Pludrach",
+      "address": "AL. Wyzwolenia 18                 46-375 Pludry",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "16.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "258 - 7460 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "700 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "40626 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "203 - 950 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1447 - 32273",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "20,10 - 4670 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Fenol",
+      "concentration": "6,30- 181,0 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": null,
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2012-12-10",
+    "legal_basis": "art.101 l ust.2",
+    "case_reference": "WOOŚ.511.1.4.2016.ER",
+    "decisions": [
+      {
+        "issue_date": "2012-12-31",
+        "reference": "WOOŚ.511.6.2012.ER.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-09-02",
+        "reference": "WOOŚ.511.1.4.2016.ER.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Nasycalnia Podkładów w Pludrach",
+        "address": "AL. Wyzwolenia 18                 46-375 Pludry",
+        "economic_activity_code": "16.10.Z"
+      }
+    ],
+    "planned_start": "2017-04-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Do oczyszczenia środowiska gruntowo-wodnego zostanie zastosowana technologia bioremediacji in situ, polegająca na aplikacji ciśnieniowej preparatu drożdżowego, lub innego preparatu, zawierającego mikroorganizmy, posiadające zdolność do rozkładu oleju kreozotowego. Aby zagwarantować optymalną dostępność tlenu, a tym samym odpowiednią prędkość rozkładu zanieczyszczeń, do strefy saturacji zostanie dostarczona odpowiednia ilość tlenu, poprzez zastosowanie napowietrzania strefy zanieczyszczonej, tzw. biowentylacji.",
+    "ecological_effect": "Remediacja ma doprowadzić do oczyszczenia powierzchni ziemi w zakresie substancji powodujących ryzyko w glebie i w ziemi (węglowodorów C6-C12, węglowodorów C12-C35,  Ʃ WWA oraz fenolu)  do stanu wymaganego standardami jakości gleby i ziemi dla gruntów grupy C, zgodnie  z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r. Nr 165, poz. 1359).",
+    "effect_assessment": null
+  },
+  "notes": null
+}

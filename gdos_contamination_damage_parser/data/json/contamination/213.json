@@ -1,0 +1,113 @@
+{
+  "registry_id": 213,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.003,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Księcia Witolda 25",
+    "precinct": "obręb Plac Grunwaldzki AM-24",
+    "parcel_numbers": [
+      "54 obręb Plac Grunwaldzki",
+      "AM-24"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((362081.83999999985098839 362786.82010000012814999, 362093.59999999962747097 362788.05000000074505806, 362100.05999999959021807 362788.56000000052154064, 362112.92999999970197678 362788.22010000050067902, 362148.11000000033527613 362784.73000000044703484, 362176.30999999959021807 362781.25, 362175.41000000014901161 362774.89000000059604645, 362165.66999999992549419 362710.68999999947845936, 362159.2099999999627471 362711.46000000089406967, 362149.12999999988824129 362712.80000000074505806, 362139.34999999962747097 362713.97000000067055225, 362109.30999999959021807 362718.37989999912679195, 362102.91000000014901161 362719.35999999940395355, 362088.26999999955296516 362720.81000000052154064, 362060.57000000029802322 362732.41990000009536743, 362081.83999999985098839 362786.82010000012814999))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "BPI Wrocław Sp. z o.o.",
+      "address": "ul. 17 Stycznia 48, 02-146 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,35 mg/kg",
+      "area_ha": 0.0015
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,85 mg/kg",
+      "area_ha": 0.0015
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "7,6 mg/kg",
+      "area_ha": 0.0015
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,59 mg/kg",
+      "area_ha": 0.0015
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "8,92 mg/kg",
+      "area_ha": 0.0015
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-08-26",
+    "legal_basis": "art. 61 par. 4 Kpa",
+    "case_reference": "WSI.511.6.2016.AB",
+    "decisions": [
+      {
+        "issue_date": "2016-10-13",
+        "reference": "WSI.511.6.2016.AB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "BPI Wrocław Sp. z o.o.",
+        "address": "ul. 17 Stycznia 48, 02-146 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2016-10-28",
+    "planned_end": "2016-12-31",
+    "actual_end": "2016-11-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Oczyszczenie powierzchni ziemi przeprowadzone zostało metodą ex – situ, poprzez wydobycie i usunięcie zanieczyszczonej ziemi w wyniku wykonania dwóch wykopów  o powierzchni ok. 15 m2 i miąższości ok. 1 m, z głębokości od 2 do 3 m ppt. Całkowita objętość zanieczyszczonego gruntu wynosi ok. 30 m3.",
+    "ecological_effect": "W wyniku przeprowadzonych prac remediacyjnych na przedmiotowym terenie osiągnięto dopuszczalne zawartości wielopierścieniowych węglowodorów aromatycznych,  odpowiadające I grupie gruntów oraz wodoprzepuszczalności wyższej lub równej 1x10-7m/s, na głębokości przekraczającej 0,25 m ppt, w myśl rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

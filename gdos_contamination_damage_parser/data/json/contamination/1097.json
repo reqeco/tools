@@ -1,0 +1,102 @@
+{
+  "registry_id": 1097,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.3158,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Czarnucha w Poznaniu",
+    "precinct": "050, Naramowice",
+    "parcel_numbers": [
+      "513/85",
+      "513/86",
+      "513/87",
+      "513/88",
+      "513/89",
+      "513/90",
+      "513/91",
+      "513/92",
+      "513/93"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((360982.6933321471 511247.4497068655,360962.05579084466 511126.27029783465,361054.3955589746 511109.3369306354,361064.1851619072 511108.0140113272,361063.65599417646 511108.54317904543,361124.510282635 511102.1931663472,361144.61865620676 511218.61006584857,361143.8249046158 511217.8163142679,360982.6933321471 511247.4497068655))",
+    "site_description": "teren, na którym w przeszłości prowadzono działalność ogrodniczą i rolniczą"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Kupno i sprzedaż nieruchomości na własny rachunek"
+  },
+  "land_holders": [
+    {
+      "name": "NOVAFORM NARAMOWICE Sp. z o.o.",
+      "address": "ul. Tylne Chwaliszewo 23 61-103 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "513/85",
+        "513/86",
+        "513/87",
+        "513/88",
+        "513/89",
+        "513/90",
+        "513/91",
+        "513/92",
+        "513/93"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,1566 mg/kg s.m.",
+      "area_ha": 2.3158
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-25",
+    "legal_basis": "art. 101l ustawy Prawo ochrony środowiska",
+    "case_reference": "WSS.515.14.2020.ASB",
+    "decisions": [
+      {
+        "issue_date": "2020-09-14",
+        "reference": "WSS.515.14.2020.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "NOVAFORM NARAMOWICE Sp. z o.o.",
+        "address": "ul. Tylne Chwaliszewo 23 61-103 Poznań",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-09-30",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-12-04",
+    "method": null,
+    "description": "Remediacja prowadzona metodą ex-situ. Z wyznaczonej w Projekcie powierzchni do głębokości 0,25 m ppt, jednak do głębokości występowania zanieczyszczenia usunięto zanieczyszczony grunt. W wyznaczonych powierzchniach remediacyjnych, po usunięciu zanieczyszczonego gruntu w poszczególnych sekcjach pobrano próbki do badań. Po uzyskaniu wyników wskazujących na spełnianie wymagań jakości gleby i ziemi, wykopy będą zagospodarowane zgodnie z planami inwestycyjnymi. Zagospodarowanie powstałych odpadów należało prowadzić zgodnie z przepisami o odpadach.",
+    "ecological_effect": "Z treści złożonych dokumentów wynika, że sposób remediacji terenu przebiegał w ramach ustalonego planu remediacji. Wykopy nie zostały zasypane, co łączy się z zakresem planowanej inwestycji budowlanej i jest zgodne z treścią decyzji. Wykonane prace i wyniki analiz próbek gleby pobranych z dna wykopów, pozwalają na stwierdzenie, że remediację przedmiotowego terenu polegającą na usunięciu zanieczyszczenia, można uznać za zakończoną.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

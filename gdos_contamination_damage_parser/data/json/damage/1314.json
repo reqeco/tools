@@ -1,0 +1,80 @@
+{
+  "registry_id": 1314,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "sulęciński",
+    "municipality": "Sulęcin",
+    "address": "JW nr K-2818",
+    "precinct": "0054 Żubrów",
+    "parcel_numbers": [
+      "605"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((243089.014975338 515326.9733526325,243089.54414309986 515325.3858494628,243089.014975338 515326.9733526325))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2016-10-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Ministerstwo Obrony Narodowej)",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": 0.28,
+  "reporters": [
+    {
+      "name": "Zakład Inwestycji Organizacji  Traktatu Północnoatlantyckiego",
+      "address": "ul. Nowowiejska 28a, 02-010 Warszawa",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Jednostka Wojskowa  K-2818",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2017-09-01",
+    "detection_date": "2016-10-01",
+    "decisions": [
+      {
+        "issue_date": "2017-10-11",
+        "reference": "WZŚ.511.7.2015.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-09-01",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-12-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "wyniki badań",
+    "ecological_effect": "Analizując wyniki przeprowadzonego opróbowania na tle badań archiwalnych, stwierdza się, że wykazany w „Planie remediacji” zatwierdzonym decyzją Regionalnego Dyrektora Ochrony Środowiska z dnia 11 października 2017 r., znak: WZ.511.7.2015.KM zasięg zanieczyszczenia gruntów, nie ma odzwierciedlenia w aktualnych badaniach.  Wyniki analiz laboratoryjnych nie wskazują na występowanie zanieczyszczenia. Stężenia wszystkich oznaczonych wskaźników mieszczą się w dopuszczalnych zawartościach  dla grupy IV - zgodnie z Rozporządzeniem Ministra środowiska z dnia 1 września 2016 r.  w sprawie sposobu oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

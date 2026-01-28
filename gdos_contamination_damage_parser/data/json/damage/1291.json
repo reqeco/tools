@@ -1,0 +1,89 @@
+{
+  "registry_id": 1291,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "międzychodzki",
+    "municipality": "Międzychód",
+    "address": "ul. Chrobrego 11, 64-400 Międzychód",
+    "precinct": "0014 Międzychód",
+    "parcel_numbers": [
+      "125/2",
+      "121"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((290360.4681629642 531503.2465513358,290359.938995247 531471.4964878364,290423.43912324077 531466.7339783041,290426.0849618933 531494.7798677254,290360.4681629642 531503.2465513358))",
+    "site_description": "Teren zakładu dystrybucji energii elektrycznej, magazyny ENEA Operator Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": "2016-01-01",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Do szkody miało dojść w związku z działalnością spółki polegającą na przechowywaniu i wykorzystywaniu substancji niebezpiecznych, tj. produktów rafinacji ropy naftowej",
+  "total_area_ha": 0.0076,
+  "reporters": [
+    {
+      "name": "ENEA Operator Sp. z o.o.",
+      "address": "ul. Strzeszyńska 58, 60-479 Poznań",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "ENEA Operator Sp. z o.o.",
+      "address": "ul. Strzeszyńska 58, 60-479 Poznań",
+      "economic_activity_code": "35.13.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 56 do 134  mg/kg s.m.",
+      "area_ha": 0.0055
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1850 mg/kg s.m.",
+      "area_ha": 0.0021
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2020-03-27",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2020-07-09",
+        "reference": "WSS.511.1.2020.ASB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-03-03",
+    "planned_end": "2022-12-31",
+    "actual_end": "2021-07-27",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona metodą ex-situ. Z wyznaczonych do remediacji w Projekcie czterech obszarów do głębokości minimum 0,25 m ppt, został usunięty zanieczyszczony grunt, nastąpiło wybranie zanieczyszczenia do głębokości jego zalegania wokół odwiertu P2. Z ww. wykopów pobranych było po 5 próbek gruntu, w tym jedna z dna wykopu i 4 ze ścian, poddane były analizie na zawartość substancji, których obecność spowodowała obowiązek remediacji.  Po uzyskaniu wyników wskazujących na spełnianie wymagań jakości gleby i ziemi, wykopy zostały zasypane ziemią wolną od zanieczyszczeń. Zagospodarowanie powstałych odpadów należało prowadzić zgodnie z przepisami o odpadach.",
+    "ecological_effect": "Z treści złożonych w lipcu 2021 r. dokumentów wynika, że sposób remediacji terenu przebiegał w ramach ustalonego planu remediacji, choć powiększono powierzchnię remediowaną ze względu na przekroczenia zawartości badanych substancji w kontrolnych próbkach gruntu. Wyniki badań gruntu po przeprowadzeniu remediacji wskazują, że działania naprawcze prowadzone w ramach ww. decyzji można uznać za zakończone.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

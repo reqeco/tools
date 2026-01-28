@@ -1,0 +1,124 @@
+{
+  "registry_id": 1246,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2091,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "piski",
+    "municipality": "Ruciane-Nida",
+    "address": null,
+    "precinct": "0001 Ruciane Nida",
+    "parcel_numbers": [
+      "192/344"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((667737.2985874752 644200.0975771835,667654.7484219515 644104.0536350943,667689.9380758356 644072.5681554545,667740.7381776903 644130.7766052056,667734.3881649605 644136.332866325,667761.6403029371 644167.2891782364,667737.2985874752 644200.0975771835))",
+    "site_description": "Zidentyfikowane na tym terenie potencjalne historyczne zanieczyszczenie powierzchni ziemi jest związane z funkcjonowaniem wewnętrznej stacji paliw dawnej Fabryki Płyt Drewnopochodnych S.A. w Rucianem-Nidzie (wcześniejsza nazwa: Zakłady Płyt Pilśniowych i Wiórowych)."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1954-12-11",
+    "to": "2007-04-30",
+    "description": "Zakład działał na tym terenmie od 11 grudnia 1954 r. W 1995 r. Fabryka Płyt Drewnopochodnych ogłosiła upadłość."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "192/344"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "356 mg/kg s.m.",
+      "area_ha": 0.0687
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "34,4-79,3 mg/kg s.m.",
+      "area_ha": 0.2091
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,273 mg/kg s.m.",
+      "area_ha": 0.0687
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,122-0,262 mg/kg s.m.",
+      "area_ha": 0.2091
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,132-0,343 mg/kg s.m.",
+      "area_ha": 0.2091
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,202-0,493 mg/kg s.m.",
+      "area_ha": 0.2091
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,118 i 0,167 mg/kg s.m.",
+      "area_ha": 0.1425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,263 mg/kg s.m.",
+      "area_ha": 0.0687
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,266 mg/kg s.m.",
+      "area_ha": 0.0687
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-06",
+    "legal_basis": "art. 101d ust. 6,8,9 POŚ",
+    "case_reference": "WSI.513.33.2020.JJ.10",
+    "decisions": [
+      {
+        "issue_date": "2021-03-16",
+        "reference": "WSI.513.33.2020.JJ.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie, działając zgodnie z art. 101g ust. 1 Prawa ochrony środowiska, wykonał na terenie przedmiotowej  nieruchomości badania zanieczyszczenia gleby i ziemi w celu potwierdzenia występowania historycznego zanieczyszczenia powierzchni ziemi. Badania przeprowadzono 14 września 2022 r."
+}

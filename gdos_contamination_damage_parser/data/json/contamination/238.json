@@ -1,0 +1,84 @@
+{
+  "registry_id": 238,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.5062,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "Równa 2",
+    "precinct": "214",
+    "parcel_numbers": [
+      "13/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((437987.5124035778 583988.1666240981,438058.95004645863 583992.1353820385,438130.3876893292 583996.1041399799,438129.0647700194 583923.8727455195,438108.9563964691 583924.6664970992,438109.750148059 583898.7372785788,438095.198035619 583900.0601978889,438081.7042586288 583877.8351534382,437983.5436456477 583882.0684952391,437986.18948426767 583944.2457029279,437987.2478197176 583988.166624099,437987.5124035778 583988.1666240981))",
+    "site_description": "teren byłego działu  mechanicznego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 1989 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi"
+  },
+  "land_holders": [
+    {
+      "name": "Neupack Polska Sp.z o.o.",
+      "address": "ul. Równa 2, 85-846 Bydgoszcz",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "8800 mg/kg s.m.",
+      "area_ha": 1.5062
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-06-02",
+    "legal_basis": "art. 101p ust. 2 POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-06-16",
+        "reference": "WSI.511.8.2015.AP.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Neupack Polska Sp.z o.o.",
+        "address": "ul. Równa 2, 85-846 Bydgoszcz",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "zwolniono z wykonywania remediacji na podstawie art. 101p ust. 2 Poś",
+    "ecological_effect": "zwolniono z wykonywania remediacji na podstawie art. 101p ust. 2 Poś",
+    "effect_assessment": null
+  },
+  "notes": null
+}

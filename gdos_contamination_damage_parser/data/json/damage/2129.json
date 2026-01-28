@@ -1,0 +1,75 @@
+{
+  "registry_id": 2129,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "oświęcimski",
+    "municipality": "Oświęcim (gmina wiejska)",
+    "address": "Rejon ulic Władysława Jagiełły i Grójeckiej w m. Grójec",
+    "precinct": "Grójec",
+    "parcel_numbers": [
+      "121306_2.0005.1604/5",
+      "121306_2.0005.1608/4",
+      "121306_2.0005.1612",
+      "121306_2.0005.1610",
+      "121306_2.0005.1590",
+      "121306_2.0005.1595",
+      "121306_2.0005.1598",
+      "121306_2.0005.1588",
+      "121306_2.0005.1589",
+      "121306_2.0005.1585",
+      "121306_2.0005.1586",
+      "121306_2.0005.1591",
+      "121306_2.0005.1592",
+      "121306_2.0005.1593",
+      "121306_2.0005.1594",
+      "121306_2.0005.2150",
+      "121306_2.0005.2148"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((515287.7888409201 238836.67593765818,514967.64236729 238230.7788925385,515482.2579798601 238008.52844803035,515528.56015579007 238075.99733296968,515720.38345610996 238012.49720596801,515893.68588604993 238307.50821265858,516285.2700025501 238135.5287020374,516488.99957667006 238557.53996271733,516142.39471680013 238803.6029548496,515867.22749980004 238971.61370753963,515639.6853780501 238970.29078822955,515287.7888409201 238836.67593765818))",
+    "site_description": "Teren Stawów Adolfińskich, Stawy: Krzemieńczyk Duży, Kościelecki Stary, Kościelecki Nowy, gmina Oświęcim"
+  },
+  "occurrence_time": {
+    "date": "2024-06-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Krajowy Ośrodek Wsparcia Rolnictwa Oddział terenowy w Krakowie)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Spuszczenie wody ze stawów: Kościelecki Stary, Kościelecki Nowy, Krzemieńczyk Duży w wyniku którego doszło do zniszczenia chronionych siedlisk przyrodnicych",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "Zausznik (Podiceps nigricollis)",
+    "rybitwa białowąsa (Chlidonias hybrida)",
+    "rybitwa rzeczna (Sterna hiduro)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "rybitwa rzeczna (Sterna hiduro) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-05-22",
+    "detection_date": "2025-04-24",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

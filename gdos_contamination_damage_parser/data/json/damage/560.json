@@ -1,0 +1,73 @@
+{
+  "registry_id": 560,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Warszawa ul. 1 Sierpnia 10",
+    "precinct": "2-04-01",
+    "parcel_numbers": [
+      "35/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635277.0236001337 482635.6054516081,635239.4526916104 482507.54686215054,635371.2154552783 482465.2134441491,635400.3196801832 482601.7387172086,635277.0236001337 482635.6054516081))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2012-04-13",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu barem oraz olejem mineralnym na terenie przy ul. 1 Sierpnia 10 w Warszawie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "CARSERVICE S.A.",
+      "address": "Warszawa 1 Sierpnia 10",
+      "legal_form": "podmiot korzystajcy ze srodowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "CARSERVICE S.A.",
+      "address": "Warszawa 1 Sierpnia 10",
+      "economic_activity_code": "45.32.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2013-07-02",
+    "detection_date": "2012-04-13",
+    "decisions": [
+      {
+        "issue_date": "2013-07-11",
+        "reference": "WSI.511.7.2013.ES.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2013-07-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania naprawcze polegały na usuwaniu gruntu, których stopień zanieczyszczeń przekraczał dopuszczalne stężenia dla gruntów grupy ,,B” zgodnie z Rozporządzeniem Ministra Środowiska z dnia 9 września 2002r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359).",
+    "ecological_effect": "Na podstawie przedstawionych wyników badań laboratoryjnych można stwierdzić, że w miejscu prowadzenia działań naprawczych został osiągnięty optymalny efekt ekologiczny. Grunty pozostałe w podłożu odpowiadają standardom jakości dla obszarów grupy ,,B” według ww. Rozporządzenia.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,170 @@
+{
+  "registry_id": 1736,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.063,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Fabryczna w Trzebini",
+    "precinct": "0014 Trzebionka",
+    "parcel_numbers": [
+      "120305_4.0014.479/63"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532096.2734104008 254486.98484458495,532081.9858818208 254495.58382011298,532076.1650368507 254491.4827702567,532059.3639615808 254485.9265091354,532059.0993777207 254482.48691892624,532062.9358437207 254470.3160612546,532088.3358945207 254471.50668863486,532096.2734104008 254486.98484458495))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN Południe Spółka Akcyjna",
+      "address": "ul. Fabryczna 22, 32-540 Trzebinia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "120305_4.0014.479/63"
+      ],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "310 - 1400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6 - 14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "200 - 490 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "18 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "19 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "16 i 43 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "6,7 - 13 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,1 - 36 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "11 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "7 - 21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "6,6 - 24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1400 - 2400 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-07-14",
+    "legal_basis": "art. 61 § 1  Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.515.6.2022",
+    "decisions": [
+      {
+        "issue_date": "2023-01-11",
+        "reference": "ZS.515.6.2022.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ORLEN Południe Spółka Akcyjna",
+        "address": "ul. Fabryczna 22, 32-540 Trzebinia",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Zwolnienie dotyczy fragmentu działki 479/63 i jest uwarunkowane zachowaniem sposobu użytkowania terenu ww. działki pozwalającego zakwalifikować go do IV grupy gruntów, zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395). Zmiana sposobu użytkowania działki, powodująca zmianę grupy gruntów, będzie wymagała ponownego przedłożenia wniosku o ustalenie planu remediacji historycznego zanieczyszczenia powierzchni ziemi i przeprowadzenia postępowania zmierzającego do wydania decyzji ustalającej plan remediacji.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Rozpoznanie zanieczyszczenia i zwolnienie z remediacji obejmuje fragment działki."
+}

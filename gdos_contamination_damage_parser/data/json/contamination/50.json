@@ -1,0 +1,105 @@
+{
+  "registry_id": 50,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.05,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Warszawa, ul. Siedmiogrodzka",
+    "precinct": "6-04-05",
+    "parcel_numbers": [
+      "39"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634866.9416846848 486934.3034449937,634867.4708524148 486914.7242391631,634939.9668308111 486929.0117677422,634963.7793784626 486812.59486823995,635027.2795055297 486824.7657259088,634997.6461129028 486971.34518574085,634866.9416846848 486934.3034449937))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "OKAM INCITY Sp. z o.o. S.K.A",
+      "address": "ul. Grójecka 214/44, 02-390 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "280-350 [mg/kg]",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "100-4500 [mg/kg]",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "110-1600 [mg/kg]",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "460-4200 [mg/kg]",
+      "area_ha": 0.05
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-07-08",
+    "legal_basis": "61 § 1 Kpa w ziweązuz art. 101 l ust 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-07-28",
+        "reference": "WSI.511.8.2015.KW",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "OKAM INCITY Sp. z o.o. S.K.A",
+        "address": "ul. Grójecka 214/44, 02-390 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2015-08-18",
+    "planned_end": "2015-10-31",
+    "actual_end": "2015-12-03",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - wydobycie zanieczyszczonego gruntu",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

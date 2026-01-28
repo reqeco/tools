@@ -1,0 +1,57 @@
+{
+  "registry_id": 1816,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Bielsko-Biała",
+    "municipality": "Bielsko-Biała",
+    "address": "ul. Polna 117C w Bielsku-Białej",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;Polygon ((507268.23460130201419815 217527.47602936299517751, 507280.81142376601928845 217537.41226558201014996, 507289.06333019898738712 217515.17301262399996631, 507298.79678233899176121 217497.54977041899110191, 507311.09858181001618505 217498.12259792198892683, 507313.89178277098108083 217435.44418181199580431, 507374.3723061159835197 217439.76788989899796434, 507375.41494468197925016 217427.82553666399326175, 507375.98095859499881044 217421.35967641000752337, 507378.75144219497451559 217389.69994637000490911, 507378.88055358099518344 217388.26086679799482226, 507378.88940940500469878 217386.21227253600955009, 507355.61372170399408787 217382.9673225260048639, 507311.16103509801905602 217376.73608435099595226, 507307.48286607599584386 217375.44899531899136491, 507271.17530684499070048 217370.60231255699181929, 507269.20967758499318734 217411.9949176000081934, 507244.5750384529819712 217408.95057177898706868, 507243.83390674798283726 217421.74804669100558385, 507243.12991613300982863 217433.90420474900747649, 507240.97921626502647996 217465.92336890898877755, 507239.07108627702109516 217493.44681843600119464, 507232.60182569298194721 217502.94734937298926525, 507229.69053851801436394 217507.21359545999439433, 507248.69943369901739061 217511.85753245401429012, 507268.23460130201419815 217527.47602936299517751))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2023-06-29",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": null,
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Naczelnik Drugiego Urzędu Skarbowego w Bielsku-Białej",
+      "address": "ul. Gen. Maczka 73 43-300 Bielsko-Biała",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2023-07-14",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2024-01-18",
+        "reference": "WSI.512.13.2023.MS2.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

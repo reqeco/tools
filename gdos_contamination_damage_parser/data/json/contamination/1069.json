@@ -1,0 +1,217 @@
+{
+  "registry_id": 1069,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.18,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Kwidzyńska 23 we Wrocławiu",
+    "precinct": "Kowale",
+    "parcel_numbers": [
+      "działka nr 176 AM-23 obręb Kowale"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((366124.65216073079500347 364713.97831035318085924, 366124.55890046514105052 364714.60659003752516583, 366163.09115277649834752 364706.75404572760453448, 366179.16147601534612477 364676.62218965479405597, 366174.77866058656945825 364675.3438684880384244, 366183.72690875362604856 364601.0186235083383508, 366187.19663763477001339 364573.07817514991620556, 366176.97006830095779151 364571.79985398316057399, 366172.22201825311640278 364569.24321164970751852, 366170.03061053872806951 364579.65239829308120534, 366158.16048541909549385 364586.59185605531092733, 366135.88117365614743903 364595.72272153192898259, 366135.33332172757945955 364601.38385812740307301, 366120.54131965542910621 364598.09674655582057312, 366045.32581529195886105 364633.47885027783922851, 366047.33460569678572938 364635.21371471841121092, 366060.27760750974994153 364652.69932210602564737, 366060.27760750974994153 364657.62998946342850104, 366059.72975558112375438 364660.91710103501100093, 366052.42506319982931018 364696.52747639379231259, 366077.26101729623042047 364704.74525532277766615, 366081.27859810594236478 364682.64856086933286861, 366101.00126753543736413 364687.94446284580044448, 366101.00973049114691094 364687.91708269488299266, 366101.36650215450208634 364709.85853998968377709, 366124.65216073079500347 364713.97831035318085924),(366101.16367944213561714 364687.41901255946140736, 366107.2102560595376417 364667.85655879724072292, 366128.39386396529152989 364668.22179341630544513, 366128.02862934622680768 364691.23157441738294438, 366126.17018552083754912 364703.75161703047342598, 366128.05145650991471484 364691.1859200899489224, 366101.16367944213561714 364687.41901255946140736)))",
+    "site_description": "176 AM-23 obręb Kowale"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-07-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp. z o.o.",
+      "address": "Al. Armii Ludowej 14,  00-638 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "690 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "517-10000 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,14-16,7 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "36-4400 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,119-0,824 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,204-7,05 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,239-9,61 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,134-10,0 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,131-0,334 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,124-3,41 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,124-2,83 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,104-1,67 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,226-3,52 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,212-2,25 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "0,31-0,65 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,12-2,24 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,13-2,72 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Styren",
+      "concentration": "1,29 mg/kg s.m.",
+      "area_ha": 1.18
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "352 mg/kg s.m.",
+      "area_ha": 0.007
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "256 mg/kg s.m.",
+      "area_ha": 0.007
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-09",
+    "legal_basis": "art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego",
+    "case_reference": "WSI.515.12.2020.AS",
+    "decisions": [
+      {
+        "issue_date": "2020-07-31",
+        "reference": "WSI.515.12.2020.AS.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp. z o.o.",
+        "address": "Al. Armii Ludowej 14,  00-638 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2020-08-01",
+    "planned_end": "2020-12-15",
+    "actual_end": "2020-12-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja została przeprowadzona metodą ex-situ, polegającą na wydobyciu zanieczyszczonego gruntu i przekazaniu go, jako odpad uprawnionemu podmiotowi, w ilości ok. 3 337 m3.",
+    "ecological_effect": "Badania kontrolne gruntu dla głębokości poniżej 0,25 m ppt, wykonane po wydobyciu zanieczyszczonego gruntu, nie wykazały przekroczeń zwartości substancji powodujących ryzyko dla środowiska i zdrowia ludzi, w odniesieniu do terenów odpowiadających I grupie gruntów.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

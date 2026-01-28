@@ -1,0 +1,100 @@
+{
+  "registry_id": 1459,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1945,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Jagiellońska 82 Etap III Warszawa",
+    "precinct": "4-18-09",
+    "parcel_numbers": [
+      "3/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637456.6185374481 491678.18520048447,637457.6768729006 491715.7561089555,637609.0188424311 491774.4937264314,637604.256332896 491788.78125501424,637743.4274447423 491826.35216348246,637896.3569174429 491451.17224645056,637918.0527941856 491352.217881877,637921.7569682699 491352.217881877,637930.2236518783 491297.7136062002,637979.9654180798 491042.6547627477,637968.8528958362 491041.0672595659,637962.5028831307 491101.9215479465,637955.0945349738 491161.71750087943,637947.1570190953 491196.11340299714,637928.6361486958 491277.07606492843,637924.9319746215 491278.66356809717,637882.5985565746 491394.5512998784,637867.2526925267 491412.54300252814,637855.081834832 491405.66382209957,637846.6151512219 491412.0138348006,637742.3691092762 491371.79708770197,637705.3273684852 491460.697265503,637601.0813265401 491419.42218295485,637593.1438106505 491407.78049300425,637594.2021461015 491408.3096607346,637603.7271651621 491381.32210675254,637636.0063964284 491329.46366970334,637633.3605577954 491328.9345019832,637625.9522096366 491329.9928374337,637582.0312884168 491391.9054612536,637570.3895984439 491422.06802158337,637561.3937471134 491426.3013633834,637456.0893697175 491677.1268650349,637456.6185374481 491678.18520048447))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Asbud Praga Sp. z o.o.",
+      "address": "ul. Karolkowa 30 01-207 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "3/5"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.1445
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-06-17",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.41.2021.DŚc",
+    "decisions": [
+      {
+        "issue_date": "2021-10-11",
+        "reference": "WOOŚ-IV.515.41.2021.DŚc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 2 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Asbud Praga Sp. z o.o.",
+        "address": "ul. Karolkowa 30 01-207 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-07-01",
+    "planned_end": "2026-12-31",
+    "actual_end": "2022-09-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

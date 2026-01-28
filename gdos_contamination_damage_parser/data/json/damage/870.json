@@ -1,0 +1,65 @@
+{
+  "registry_id": 870,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "kościański",
+    "municipality": "Śmigiel",
+    "address": "64-030 Czacz, ul. Wielichowska 42",
+    "precinct": "obręb Czacz",
+    "parcel_numbers": [
+      "172/9 (wcześniej 172/4) obręb Czacz",
+      "gm. Śmigiel",
+      "173/2 (wcześniej 173/1) obręb Czacz",
+      "gm. Śmigiel"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((330951.85639806045 467360.99185391795,330862.69163606525 467243.51661896985,330920.37091832823 467198.5373623492,331011.3877673603 467312.30842321925,330951.85639806045 467360.99185391795))",
+    "site_description": "Zbieranie odpadów na terenie po wyrobisku, możliwy negatywny wpływ substancji zawartych w odpadach (głównie fluor) na wody podziemne i powierzchnię ziemi. Badania WIOŚ w Poznaniu z 2014 r. stwierdzają podwyższoną zawartośc fluorków w badanych próbkach gleby i wody w wyrobisku."
+  },
+  "occurrence_time": {
+    "date": "2009-12-08",
+    "from": "2007-01-10",
+    "to": null,
+    "description": "od czasu uzyskania zezwolenia na zbieranie odpadów"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Zbieranie od 2007 r. odpadów na terenie po wyrobisku, możliwy negatywny wpływ substancji zawartych w odpadach (glin i fluor) na wody podziemne i powierzchnię ziemi",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Kościański",
+      "address": "al. Kościuszki 22, 64-000 Kościan",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiebiorstwo Wielobranżowe(…)",
+      "address": "(…)",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": "fluor"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2015-05-20",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

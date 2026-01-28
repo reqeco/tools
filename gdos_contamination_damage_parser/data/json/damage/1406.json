@@ -1,0 +1,68 @@
+{
+  "registry_id": 1406,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "wołomiński",
+    "municipality": "Tłuszcz",
+    "address": "ul. Lipowa, 05-240 Jasienica.",
+    "precinct": null,
+    "parcel_numbers": [
+      "542/4",
+      "542/3",
+      "542/2",
+      "541/2",
+      "541/3 i 541/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((662403.0618827003 507495.8508156771,662347.2346875364 507573.37388738804,662316.0137916622 507550.6196752172,662321.5700527907 507554.8530170182,662370.2534836419 507485.2674611779,662376.6034963626 507482.8862064164,662403.0618827003 507495.8508156771))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "null, null",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wioś Delegatura w Mińsku mazowieckim",
+      "address": "Plac Kilińskiego 10, 05-300 Mińsk Mazowiecki",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "PHU (…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2021-03-18",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

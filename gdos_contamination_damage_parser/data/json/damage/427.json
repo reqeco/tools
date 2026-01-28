@@ -1,0 +1,96 @@
+{
+  "registry_id": 427,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "krośnieński",
+    "municipality": "Jedlicze",
+    "address": "ul. Rejtana,  38-460 Jedlicze",
+    "precinct": "0001 Jedlicze",
+    "parcel_numbers": [
+      "180704_4.0001.1372"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((691100.28581395104993135 208355.87696096100262366, 691105.75291803304571658 208350.76181808399269357, 691127.46875503100454807 208330.39719466399401426, 691137.3808848459739238 208320.98980537100578658, 691151.37838231504429132 208307.65064380300464109, 691165.91969846596475691 208293.79588873501052149, 691166.50455998699180782 208293.24138393701286986, 691180.01114591502118856 208303.58278047700878233, 691117.63300786702893674 208369.97124655399238691, 691100.28581395104993135 208355.87696096100262366))",
+    "site_description": "Użytki: Ł - łąki trwałe"
+  },
+  "occurrence_time": {
+    "date": "2012-01-12",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "organ ochrony środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Emisja oleju hydraulicznego w wyniku rozszczelnienia cysterny OILER ONE Sp. z o.o.",
+  "total_area_ha": 0.0393,
+  "reporters": [
+    {
+      "name": "Podkarpacki Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Langiewicz 26, 35-101 Rzeszów",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "OILER ONE Sp. z o.o.",
+      "address": "ul. Bielska 6A, 43-356 Kobiernice, gmina Porąbka, powiat bielski, woj. śląskie,",
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "do 370 mg/kg s.m.",
+      "area_ha": 0.0393
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2012-02-28",
+    "detection_date": "2012-01-10",
+    "decisions": [
+      {
+        "issue_date": "2012-08-07",
+        "reference": "WSI.512.2.2.2012.KG-26",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": "nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-01-15",
+        "reference": "WSI.510.1.2024.AF.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 17",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2025-04-01",
+    "planned_end": "2025-05-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja będzie polegała na usunięciu zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie substancji powodującej ryzyko, metodą „ex-situ” polegającą na: a) wyznaczeniu terenu wymagającego przeprowadzenia remediacji (prace geodezyjne), b) kontrolowanym wydobyciu zanieczyszczonej gleby z wyznaczonego terenu do głębokości 0,25 m p.p.t., c) przekazaniu zanieczyszczonej gleby do unieszkodliwienia lub odzysku podmiotowi posiadającemu stosowne zezwolenia, d) po zakończeniu wydobywania zanieczyszczonej gleby, równomiernym pobraniu kontrolnych próbek gleby z dna (4 próbki) i ścian (po 1 próbce z każdej ściany) wykopu, i wykonaniu analizy ze względu na zawartość substancji powodującej ryzyko (suma węglowodorów C12-C35, składników frakcji oleju), e) wypełnieniu powstałego wykopu glebą spełniającą standardy jakości dla gruntów grupy II oraz spełniającą wymagania dla III klasy bonitacyjnej gleb łąk trwałych, f) obsianiu miejsca prowadzonych prac mieszanką traw, zawierającą gatunki wskaźnikowe dla III klasy bonitacyjnej gleb łąk trwałych.",
+    "ecological_effect": "Osiągnięcie zawartości substancji powodującej ryzyko w glebie, zgodnie z dopuszczalną zawartością substancji powodującej ryzyko szczególnie istotne dla ochrony powierzchni ziemi, określoną dla głębokości 0-0,25 m p.p.t., dla gruntów grupy II (łąki trwałe, oznaczone symbolem Ł), w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395, ze zm.), zwanego dalej „rozporządzeniem”, tj. maksymalnie 50 mg/kg s.m.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "Sprawa znak: WSI.510.2.1.2021,KG - decyzja nakładająca obowiązek przeprowadzenia działań naprawczych. Zobowiązany do przeprowadzenia działań naprawczych podmiot korzystający ze środowiska nie wykonał nałożonego obowiązku. RDOŚ w Rzeszowie złożył wniosek do Wojewody Podkarpackiego o wszczęcie egzekucji administracyjnej.    Umorzone postępowanie egzekucyjne - egzekucja wobec podmiotu korzystającego ze środowiska okazała się bezskuteczna. Sprawa znak: WSI.510.1.2024.AF - decyzja określająca zakres udostępnienia powierzchni ziemi przez władającego powierzchnią ziemi oraz ustalająca plan remediacji."
+}

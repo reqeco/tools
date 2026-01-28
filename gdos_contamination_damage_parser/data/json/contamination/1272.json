@@ -1,0 +1,98 @@
+{
+  "registry_id": 1272,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "działdowski",
+    "municipality": "Działdowo (gmina miejska)",
+    "address": null,
+    "precinct": "0001 miasto Działdowo",
+    "parcel_numbers": [
+      "2176/9",
+      "2175"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((577990.857950744 596978.7297431501,578058.8560034072 596938.5129960487,578127.6478076604 597048.579882849,578071.2914449478 597082.9757849677,578054.358077747 597053.6069762288,578020.7559272053 597073.7153497804,578015.7288338151 597059.9569889326,577990.857950744 596979.7880785987,577990.857950744 596980.0526624592,577990.857950744 596978.7297431501))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Od lat 60. XX w. na terenie nieruchomości była prowadzona działalność w zakresie magazynowania, produkcji  i obrotu produktami ropopochodnymi. Do 2003 r. (przez 40 lat) funkcjonował tu Zakład Produktów Naftowych Nr 6 należący do CPN, później do PKN ORLEN S.A."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Pryzmat Nieruchomości Sp. z.o.o",
+      "address": "Jarzębinowa 6, 82-300 Elbląg",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "2176/9",
+        "2175"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "12,4-14,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "26,8-46,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "15,9-24,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "74,6-541 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1400-26800 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-06",
+    "legal_basis": "art. 101d ust. 6,8,9 POŚ",
+    "case_reference": "WSI.513.35.2020.JJ",
+    "decisions": [
+      {
+        "issue_date": "2021-04-23",
+        "reference": "WSI.513.35.2020.JJ.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

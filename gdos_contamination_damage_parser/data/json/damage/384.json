@@ -1,0 +1,48 @@
+{
+  "registry_id": 384,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "grójecki",
+    "municipality": "Grójec",
+    "address": "Grójec ul. Mszczonowska",
+    "precinct": "Grójec",
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((627451.656477145 446344.25006271433,627524.6816232459 446325.20002461504,627490.2857210899 446215.66230553575,627427.3147617764 446257.73113967665,627451.656477145 446344.25006271433))",
+    "site_description": "teren stacji paliw ORLEN"
+  },
+  "occurrence_time": {
+    "date": "2011-07-25",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zagrożenie szkodą w środowisku polegające na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw nr.707 przy ul.Mszczonowskiej w Grójcu. Zagrożenie zostało stwierdzone podczas wydołowania dwóch starych zbiorników paliw i likwidacji starej instalacji technologicznej.",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 707 w Grójcu-PKN ORLEN S.A",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2011-07-25",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

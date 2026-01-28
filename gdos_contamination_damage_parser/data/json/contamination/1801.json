@@ -1,0 +1,242 @@
+{
+  "registry_id": 1801,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0228,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Grudziądz",
+    "municipality": "Grudziądz",
+    "address": "ul. Mickiewicza 34; 86-300 Grudziądz",
+    "precinct": "0036",
+    "parcel_numbers": [
+      "17",
+      "18",
+      "19/8",
+      "19/10",
+      "20/12"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((483666.96528656996 625098.7280076668,483693.95284054 625085.2342306767,483684.42782149 625065.9196087169,483724.3799847299 625048.7216576478,483729.93624584004 625055.0716703469,483737.87376171997 625052.425831724,483724.64456859 625020.4111843668,483739.1966810299 625011.9445007667,483729.14249426004 624996.3340528775,483719.0883074801 624968.8173311781,483707.44661752996 624973.8444245663,483674.10905085993 624993.4236303857,483678.87156038 624999.7736430867,483686.01532467 625004.0069848867,483702.1549402801 625038.9320547367,483698.9799339299 625041.5778933661,483702.6841080101 625047.1341544753,483671.72779608995 625063.5383539461,483668.2882058799 625062.4800184974,483653.7360934399 625068.8300311957,483666.96528656996 625098.7280076668))",
+    "site_description": "Teren dawnej gazowni klasycznej w Grudziądzu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "-1.0",
+    "to": "1974-12-31",
+    "description": "przed 30.04.2007 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "address": "ul. Wojciecha Bandrowskiego 16; 33-100 Tarnów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "17",
+        "18",
+        "19/8",
+        "19/10",
+        "20/12"
+      ],
+      "economic_activity_code": "35.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "33,4 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,304; 0,319; 0,139; 0,73; 0,172 mg/kg s.m.",
+      "area_ha": 0.0228
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,35; 0,374; 0,166; 0,781; 0,199 mg/kg s.m.",
+      "area_ha": 0.0228
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,572; 0,619; 0,286; 1,35; 0,311 mg/kg s.m.",
+      "area_ha": 0.0228
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,272; 0,271; 0,463 mg/kg s.m.",
+      "area_ha": 0.018
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,204; 0,192; 0,437; 0,109 mg/kg s.m.",
+      "area_ha": 0.0203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,302; 0,332; 0,778 mg/kg s.m.",
+      "area_ha": 0.018
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,121 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,281; 0,3; 0,514 mg/kg s.m.",
+      "area_ha": 0.018
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,352 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "102; 196 mg/kg s.m.",
+      "area_ha": 0.0048
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "6,29 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "16,8 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "13,9 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "18,3 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "7,96 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "6,93 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "16,4 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,61 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "10 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "0,29 mg/kg s.m.",
+      "area_ha": 0.0025
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-11-14",
+    "legal_basis": "101c ust. 3 pkt 3 i ust 4 POŚ",
+    "case_reference": "WSS.513.1.2022.BW",
+    "decisions": [
+      {
+        "issue_date": "2023-03-21",
+        "reference": "WSS.513.1.2022.BW.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-02-12",
+        "reference": "WSS.515.2.2023.BW.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+        "address": "ul. Wojciecha Bandrowskiego 16; 33-100 Tarnów",
+        "economic_activity_code": "35.22.Z"
+      }
+    ],
+    "planned_start": "2025-04-01",
+    "planned_end": "2026-04-30",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Zraszanie biopreparatem, solidyfikacja",
+    "ecological_effect": "uzyskanie standardów przewidzianych dla gruntów grupy I zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposoby prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "effect_assessment": null
+  },
+  "notes": "WSS.513.1.2022.BW"
+}

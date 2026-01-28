@@ -1,0 +1,81 @@
+{
+  "registry_id": 1181,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "zgierski",
+    "municipality": "Zgierz (gmina miejska)",
+    "address": "ul. Boruty, Kwasowa i Energetyków, Zgierz",
+    "precinct": "121",
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;Polygon ((526742.75880618498194963 441511.10700987558811903, 526994.4869656692026183 441465.49772662407485768, 527049.74436653160955757 441723.36559731530724093, 527005.01218488113954663 441733.8908165271859616, 526994.4869656692026183 441761.08096615789690986, 527007.64348968409467489 441807.56735101039521396, 526799.7704102493589744 441837.38880544406129047, 526742.75880618498194963 441511.10700987558811903))",
+    "site_description": "na i w okolicach terenu eksploatowanego pomiędzy ulicami: Boruty, Kwasową i Energetyków w Zgierzu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2018-05-25",
+    "to": null,
+    "description": "pożar odpadów, który rozpoczął się 25 maja 2018 r. objął obszar znajdujący się na i w okolicach terenu eksploatowanego pomiędzy ulicami: Boruty, Kwasową i Energetyków w Zgierzu"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "zanieczyszczenie gleby i wód spowodowane pożarem odpadów obejmujące obszar znajdujący się na i w okolicach terenu eksploatowanego pomiędzy ulicami: Boruty, Kwasową i Energetyków w Zgierzu",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Fundacja Greenpeace Polska",
+      "address": "ul. Altowa 4, 02 – 386 Warszawa",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "4110 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1800-2080 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,103-1,66 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie ekologicznym",
+      "substance": null
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2018-09-24",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

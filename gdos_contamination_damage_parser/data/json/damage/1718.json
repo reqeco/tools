@@ -1,0 +1,59 @@
+{
+  "registry_id": 1718,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "wejherowski",
+    "municipality": "Szemud",
+    "address": "ul. Młyńska 6, Koleczkowo",
+    "precinct": "Koleczkowo",
+    "parcel_numbers": [
+      "319/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((458288.53928543185 736816.8444667803,458306.0018203618 736815.7861313298,458346.747735182 736834.5715855695,458291.44970792194 736977.7114551794,458279.808017972 736988.8239774108,458245.4121158419 736967.9218522701,458288.53928543185 736816.8444667803))",
+    "site_description": "Teren przemysłowy na którym stwierdzono nieprawidłowe gospodarowanie odpadami."
+  },
+  "occurrence_time": {
+    "date": "2022-03-15",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Rozlana substancja na nieutwardzonym podłożu.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Wejherowski",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2022-09-07",
+    "detection_date": "2022-03-15",
+    "decisions": [
+      {
+        "issue_date": "2023-09-29",
+        "reference": "RDOŚ-Gd-WZS.511.6.2022.MG.MJ.AK.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "105 § 1 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

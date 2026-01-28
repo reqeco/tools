@@ -1,0 +1,190 @@
+{
+  "registry_id": 1932,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Wodna w Krakowie",
+    "precinct": "29 Podgórze",
+    "parcel_numbers": [
+      "126104_9.0029.140/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((569409.6472569215 241414.91512137093,569406.0753747714 241408.16823287122,569407.1337102215 241387.13381581102,569439.9421091719 241370.0681566717,569435.973351242 241401.15676052216,569409.6472569215 241414.91512137093))",
+    "site_description": "teren po byłej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zakład Gospodarki Komunalnej Sp. z o.o.",
+      "address": "ul. Wodna 4 30-556 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,15 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "348 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,303 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,355 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,396 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,401 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,268 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,207 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,263 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-18",
+    "legal_basis": "Art. 61 § 1 Kpa",
+    "case_reference": "ZS.513.10.2019.MK",
+    "decisions": [
+      {
+        "issue_date": "2019-12-13",
+        "reference": "ZS.513.10.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-03-30",
+        "reference": "DOA-WSzOP.513.2.2020.SS",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 § 1 pkt 1 Kpa, art. 101c ust. 3",
+        "complaint_to_wsa": "skarga",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-06-27",
+        "reference": "DOA-WSzOP.513.2.2020.MGO",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 § 2 Kpa, art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-06-20",
+        "reference": "ZS.513.10.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-05",
+        "reference": "DOA-WSzOP.513.11.2023.EP",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 § 1 pkt 1 Kpa, art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2020-01-02",
+      "reason": "Naruszenie przepisów art. 101d Poś, art. 101c ust3 pkt 1 Poś, art. 7 Kpa i art. 107 par. 3 Kpa",
+      "appealed_decision_reference": "ZS.513.10.2019.MK",
+      "resolution_reference": "DOA-WSzOP.513.2.2020.SS",
+      "appellant_name": "Zakład Gospodarki Komunalnej Sp. z o.o. w Krakowie",
+      "appellant_address": "ul. Wodna 4, 30-556 Kraków",
+      "resolution_date": "2020-03-30",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "Utrzymanie w mocy decyzji RDOŚ"
+    }
+  },
+  "court_proceedings": {
+    "issue_date": "2020-09-16",
+    "case_number": "IV SA/Wa 1257/20",
+    "challenged_decision_reference": "ZS.513.10.2019.MK",
+    "ruling_type": "wyrok",
+    "verdict": "Wojewódzki Sąd Administracyjny w Warszawie po rozpoznaniu na rozprawie w dniu 16 września 2020 r. sprawy ze skargi Zakładu Gospodarki Komunalnej  Sp. z o.o. z siedzibą w Krakowie na decyzję Generalnego Dyrektora Ochrony Środowiska z dnia 30 marca 2020 r. nr DOA-WSzOP.513.2.2020.SS w przedmiocie dokonania wpisu o potencjalnym historycznym zanieczyszczeniu powierzchni ziemi na terenie działki oddala skargę",
+    "court": "WSA",
+    "cassation_appeal_to_nsa": "Tak"
+  },
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Zakład Gospodarki Komunalnej Sp. z o.o.",
+        "address": "ul. Wodna 4 30-556 Kraków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

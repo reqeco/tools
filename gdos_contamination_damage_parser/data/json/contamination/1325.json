@@ -1,0 +1,94 @@
+{
+  "registry_id": 1325,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.17,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Jedności Narodowej",
+    "precinct": "Plac Grunwaldzki",
+    "parcel_numbers": [
+      "12/2",
+      "13/15",
+      "AM-10",
+      "Obręb Plac Grunwaldzki"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((363697.3489785178 364260.3989600688,363699.67355832085 364250.50088202674,363695.0011891546 364239.9081939906,363690.41236769245 364230.3140135603,363686.92664048716 364224.6534303846,363681.41987294715 364221.06958772894,363674.0782168505 364220.0197912855,363668.10448209266 364222.5301245367,363665.85308137327 364225.30974685866,363666.2674256932 364235.2005850151,363668.8976355499 364240.43295410275,363678.76426046574 364251.474852548,363689.90541603987 364258.4708631383,363697.3489785178 364260.3989600688)),((363694.88690874114 364180.02111064456,363692.57647020265 364179.1928224247,363689.1065822097 364179.110033961,363685.9677968455 364179.8524489505,363683.3189406919 364181.3379370533,363681.34325410286 364183.0741822645,363680.92724792816 364186.29868877865,363681.9215841588 364188.1145205265,363684.5597290725 364189.5181474881,363687.1178586893 364190.1831259271,363689.8490981866 364190.34592961986,363693.31430856435 364189.3491667211,363694.97125512187 364187.697225539,363696.45823511225 364185.3078585593,363696.7011899628 364183.3252621945,363696.5442254662 364181.33810538426,363694.88690874114 364180.02111064456)),((363659.2012164453 364205.8771272395,363662.2533111215 364205.3758048704,363664.31908485293 364203.64833143074,363665.06613503187 364200.50929292385,363664.5725563697 364198.0268897908,363662.5018706097 364195.7158703767,363659.5261418381 364195.2165112002,363655.2300219121 364196.1246041842,363652.26582201547 364197.9442611756,363651.9276575485 364201.7475029947,363653.25078706234 364204.2186303055,363656.14001953544 364205.7088122042,363659.2012164453 364205.8771272395)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Altona Investment sp. z o.o.",
+      "address": "Traugutta 45 50-416 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "107-218 mg/kg s.m.",
+      "area_ha": 0.04
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "58-113 mg/kg s.m.",
+      "area_ha": 0.15
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-06-10",
+    "legal_basis": "art. 101l ust. 2",
+    "case_reference": "WSI.515.9.2021.PB",
+    "decisions": [
+      {
+        "issue_date": "2021-09-20",
+        "reference": "WSI.515.9.2021.PB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Altona Investment sp. z o.o.",
+        "address": "Traugutta 45 50-416 Wrocław",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2021-09-01",
+    "planned_end": "2022-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex - situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

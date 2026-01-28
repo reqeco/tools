@@ -1,0 +1,239 @@
+{
+  "registry_id": 1590,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.5,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Wyzwolenia 4, 80-537 Gdańsk",
+    "precinct": "0046 Miasta Gdańska",
+    "parcel_numbers": [
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((477522.6219202298 726380.0694266129,477389.27165352996 726468.440436692,477397.73833713 726498.0738292905,477404.08834982995 726513.948861042,477452.77178052976 726594.9115229612,477494.0468630798 726522.9447123613,477551.1969773799 726476.3779525636,477577.65536363 726514.4780287622,477651.2096773999 726458.386249911,477646.44716788 726449.3903985908,477522.6219202298 726380.0694266129))",
+    "site_description": "Z przekazanej dokumentacji wynika, że teren nieruchomości wskazanych we wniosku był miejscowo podmokły i użytkowany rolniczo. W związku z tym, wielokrotnie podejmowano próby podnoszenia rzędnej terenu, poprzez nawożenie „ziemi z wykopów” nieznanego pochodzenia."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "działalność nieznana",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "ROBYG Marina Tower sp. z o.o.",
+      "address": "Al. Rzeczypospolitej 1, 02-972 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "35",
+        "36",
+        "37",
+        "38"
+      ],
+      "economic_activity_code": "--"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "244 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "542 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "2,928 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "6,327 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "18,805 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "18,127 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "1,966 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "14,724 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "21.757 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,038 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "9,167 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "9,846 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "5801 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "2164 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1347 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "476 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "13,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "11,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "10,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "14,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "6,02 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,38 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-01-12",
+    "legal_basis": "art.101l ust. 4 i art. 101p ust. 1 ustawy poś",
+    "case_reference": "RDOŚ-Gd-WZS.515.22.2021.MK",
+    "decisions": [
+      {
+        "issue_date": "2022-04-12",
+        "reference": "RDOŚ-Gd-WZS.515.22.2021.MK.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 104 § 1 kpa; art. 101l ust. 4 p.o.ś.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ROBYG Marina Tower sp. z o.o.",
+        "address": "Al. Rzeczypospolitej 1, 02-972 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-05-01",
+    "planned_end": "2022-09-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Zanieczyszczony grunt zostanie usunięty, z wykorzystaniem metody ex situ, z przedziału głębokości: a)\tod 0,00 do 0,25 m p.p.t., z powierzchni całego terenu – ok. 2,5 ha, w ilości ok. 9 994,8 Mg; b)\tod 0,25 do 1,0 m p.p.t., w rejonie otworu nr PR-2 w sekcji S-2, otworu nr PR-1 i PR-2 w sekcji S-3, otworu nr PR-1 i PR-2 w sekcji S-4, otworu nr PR-1 i PR-2 w sekcji S-7 oraz PR-3 w sekcji S-8; c)\tod 0,25 do 3,0 m p.p.t., w rejonie otworu nr PR-1 i PR-2 w sekcji S-5.  Zanieczyszczony grunt występujący na głębokości poniżej 0,25 m p.p.t., wynosi ok. 14 750 m2, a jego masa - ok. 24 909,2 Mg.",
+    "ecological_effect": "Usunięto zanieczyszczenie do dopuszczalnej zawartości.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,125 @@
+{
+  "registry_id": 291,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.012,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Stara Stocznia, Gdańsk",
+    "precinct": "0090 Gdańsk",
+    "parcel_numbers": [
+      "336/6 obręb 90"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((477972.38917116984 721450.8517905055,477984.03086112 721449.7934550559,477984.03086112 721446.6184486933,478040.12263997 721315.9140206259,478045.9434849499 721316.9723560754,478088.2769029499 721197.3804502254,478065.52269076987 721215.9013205953,478059.70184578997 721228.6013459954,478063.9351875998 721229.6596814459,478032.7142918199 721312.7390142744,477972.38917116984 721450.8517905055))",
+    "site_description": "zanieczyszczenie gruntu na odcinku 76 - 100 m w ulicy Stara Stocznia w Gdańsku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed dniem 30.04.2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "29,0 - 352,5 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "20158,0 - 70031,0 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzen",
+      "concentration": "9,0 - 13,0 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "6,3 - 217,3 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Toluen",
+      "concentration": "0,45 - 20,0 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Styren",
+      "concentration": "0,25 - 5,6 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Etylobenzen",
+      "concentration": "0,83 - 15 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Naftalen",
+      "concentration": "14,9 - 35,9 mg/kg s.m.",
+      "area_ha": 0.012
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-06-01",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WZS.515.5.2017.AK.4",
+    "decisions": [
+      {
+        "issue_date": "2017-08-08",
+        "reference": "RDOŚ-Gd-WZS.515.5.2017.AK.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": null,
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

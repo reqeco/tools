@@ -1,0 +1,95 @@
+{
+  "registry_id": 1058,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "dębicki",
+    "municipality": "Dębica (gmina miejska)",
+    "address": "ul. Krucza 59, 39-200 Dębica",
+    "precinct": "0005 Dębica",
+    "parcel_numbers": [
+      "180301_1.0005.806/1",
+      "180301_1.0005.806/13"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((671445.28899999998975545 243394.94200000001001172, 671450.60499999998137355 243383.5530000000144355, 671457.98699999996460974 243354.72800000000279397, 671456.518999999971129 243354.65900000001420267, 671451.9719999999506399 243373.19899999999324791, 671420.12300000002142042 243364.84500000000116415, 671419.21499999996740371 243383.0530000000144355, 671447.4030000000493601 243386.60699999998905696, 671445.60199999995529652 243391.85999999998603016, 671445.50399999995715916 243392.15700000000651926, 671444.07200000004377216 243394.82899999999790452, 671445.28899999998975545 243394.94200000001001172))",
+    "site_description": "Br - grunty rolne zabudowane, Bi - inne tereny zabudowane"
+  },
+  "occurrence_time": {
+    "date": "2017-08-30",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna, jednostka samorządu terytorialnego (Gmina Miasto Dębica)",
+  "land_owner": "osoba fizyczna, jednostka samorządu terytorialnego (Gmina Miasto Dębica)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Uwolnienie substancji ropopochodnej magazynowanej w garażu na działce nr 806/13. Substancja poprzez system odwodnienia przedostała się do gruntu a następnie do wód potoku Wolickiego.",
+  "total_area_ha": 0.026,
+  "reporters": [
+    {
+      "name": "Urząd Miejski w Dębicy",
+      "address": "ul. Ratuszowa 2  39-200 Dębica",
+      "legal_form": "władza publiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) Firma Handlowo – Usługowa (…)",
+      "address": "(…)",
+      "economic_activity_code": "52.10.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "35 mg/kg s.m.",
+      "area_ha": 0.026
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2017-09-13",
+    "detection_date": "2017-08-30",
+    "decisions": [
+      {
+        "issue_date": "2017-12-28",
+        "reference": "WSI.510.1.5.2017.IK.22",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2017-09-04",
+    "method": "inne działania tj. działania zapobiegawcze, o których mowa w art. 6 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+    "description": "działania zapobiegawcze -  w ramach działań mających na celu ograniczenie emisji, usunięte zostały umocnienia oraz cześć skarpy potoku Wolickiego, do poziomu zwierciadła wody oraz do granicy działki. W trakcie usuwania ziemi zidentyfikowany został wylot drenu. Do przedmiotowego wylotu podpięta został rura z wylotem do zbiornika – tymczasowej wanny wychwytowej. Na bieżąco monitorowano napełnienie zbiornika oraz usuwano jego zawartość. Założono bariery ograniczającej rozprzestrzenianie się zanieczyszczenia (kostki słomy w korycie potoku) oraz ułożono worki z piaskiem, uszczelnione geowłókniną oraz folią budowlaną. Władający terenem, w obecności przedstawicieli Wojewódzkiego Inspektoratu Ochrony Środowiska w Rzeszowie, usunął płyty betonowe na terenie pomiędzy fundamentem garażu a granicą działki od strony potoku Wolickiego. Kolejno,  prowadzono wykop, warstwami do głębokości 1,5 m p.p.t. W trakcie wydobywania zanieczyszczonej ziemi, przedstawiciele Wojewódzkiego Inspektoratu Ochrony Środowiska  w Rzeszowie organoleptycznie ustalali powierzchnię zanieczyszczenia oraz dokonywali poboru prób gleby. Wydobycie gleby prowadzone było do głębokości, na której nie stwierdzono śladów węglowodorów ropopochodnych. Próby gleby do badań pobierano z głębokości w przedziale do 0,5 m p.p.t, do 1 m p.p.t. i do 1,5 m p.p.t. Gleba zanieczyszczona przekazana została do utylizacji.",
+    "ecological_effect": "zawartości substancji powodujących ryzyko szczególnie istotnych dla ochrony powierzchni ziemi, określonych dla głębokości przekraczającej 0,25 m p.p.t., dla gruntów grupy I (grunty rolne zabudowane, oznaczone symbolem Br) w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395)",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "Sprawa znak: WSI.510.1.5.2017.IK"
+}

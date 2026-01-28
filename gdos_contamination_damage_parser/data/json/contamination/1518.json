@@ -1,0 +1,176 @@
+{
+  "registry_id": 1518,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.104,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Klemensa Janickiego 23/25, 60-542 Poznań",
+    "precinct": "Jeżyce",
+    "parcel_numbers": [
+      "16/2",
+      "20/2",
+      "22/2",
+      "24/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POINT(356905.1888603837 507663.90754270926)",
+    "site_description": "Teren po byłym zakładzie APATOR Powogaz SA"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja instrumentów i przyrządów pomiarowych, kontrolnych i nawigacyjnych",
+    "current": "Kupno i sprzedaż nieruchomości na własny rachunek"
+  },
+  "land_holders": [
+    {
+      "name": "Galeria Nova - \"Grupa Echo\" Sp. z o.o., Spółka Komandytowo-Akcyjna",
+      "address": "Al. Solidarności 36,  25-323 Kielce",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "20/2",
+        "16/2",
+        "22/2",
+        "24/2"
+      ],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "77 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1700 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "340 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1600 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "210 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "780 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "500 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "9,4 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "4300 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1200 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "260 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "51 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "2800 mg/kg s.m.",
+      "area_ha": 0.104
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-10-20",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.33.2021.ASB",
+    "decisions": [
+      {
+        "issue_date": "2021-12-28",
+        "reference": "WSS.515.33.2021.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Galeria Nova - \"Grupa Echo\" Sp. z o.o., Spółka Komandytowo-Akcyjna",
+        "address": "Al. Solidarności 36,  25-323 Kielce",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2022-08-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-11-18",
+    "method": null,
+    "description": "Remediacja prowadzona metodą ex-situ. Z terenu części działek 16/2, 20/2, 22/2 i 24/2 obręb Jeżyce, o łącznej powierzchni zanieczyszczenia około 1040 m2 został usunięty zanieczyszczony grunt do głębokości zalegania zanieczyszczenia. Zagospodarowanie powstałych odpadów należało prowadzić zgodnie z przepisami o odpadach. Powstałe wykopy nie podlegały zasypaniu ponieważ jest kontynuowana inwestycja polegająca na budowie domów wielorodzinnych.",
+    "ecological_effect": "Sposób remediacji terenu przebiegał w ramach ustalonego planu remediacji, choć prace rozpoczęto w późniejszym terminie, nie miało to wpływu na wyznaczony termin jej zakończenia. Wyniki badań gruntu wskazują, że prace remediacyjne prowadzone w ramach ww. decyzji można uznać za zakończone.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

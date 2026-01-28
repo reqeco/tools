@@ -1,0 +1,64 @@
+{
+  "registry_id": 2090,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "słupecki",
+    "municipality": "Ostrowite",
+    "address": null,
+    "precinct": "Giewartów",
+    "parcel_numbers": [
+      "160"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "dz. nr ewid. 160 obręb Giewartów, stanowiąca Jezioro Powidzkie, na wysokości dz. nr ewid nr 137/1 obręb Giewartów, gm. Ostrowite"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-06-28",
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Państwowe Gospodarstwo Wodne Wody Polskie)",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "PGW Wody Polskie Nadzór Wodny w Słupcy w wyniku wizji terenowej z 28.06.2024 r. stwierdził w obrębie wskazanego terenu prostopadle do brzegu jeziora wykonanie pięciu nasypów rozmieszczonych co ok. 50 m, wykonanych z tłucznia o różnych frakcjach oraz zniszczenie trzciny. Powyższą informację wraz z załącznikiem graficznym oraz dokumentacją fotograficzną przesłał do RDOŚ w Poznaniu celem służbowego wykorzystania. W wyniku postępowania wyjaśniającego oraz przeprowadzonej wizji tut. organ ustalił, że w przedmiotowym miejscu wykonano cztery nasypy prowadzące wgłąb Jeziora Powidzkiego i ingerujące w jego linię brzegową oraz znaleziono ślady po likwidacji piątego nasypu.",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Fundacja Giewartów",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Twardowodne oligo- i mezotroficzne zbiorniki z podwodnymi łąkami ramienic (Charcteria spp.)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-03-20",
+    "detection_date": "2024-06-28",
+    "decisions": [
+      {
+        "issue_date": "2025-03-20",
+        "reference": "WPN-I.512.3.2025.KS.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

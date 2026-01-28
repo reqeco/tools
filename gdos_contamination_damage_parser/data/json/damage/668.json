@@ -1,0 +1,54 @@
+{
+  "registry_id": 668,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "płoński",
+    "municipality": "Raciąż (gmina miejska)",
+    "address": "ul. Płocka",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((574020.4609266025 546191.5797559014,574128.1465586359 546225.4464902999,574154.3403610266 546147.658834721,574102.2173401149 546132.0483868308,574052.4755739635 546154.5380151514,574041.363051733 546160.3588601202,574026.0171877126 546173.3234693818,574020.4609266025 546191.5797559014))",
+    "site_description": "SP 1334"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "szkoda w wodach podziemnych polegająca na skażeniu wody we wskaźniku olej mineralny oraz sum benzyn na terenie modernizowanej Stacji Paliw nr 1334 w Raciążu przy ul. Płockiej",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7, Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "Raciąż, ul. Płocka",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": "2014-02-03",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

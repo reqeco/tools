@@ -1,0 +1,206 @@
+{
+  "registry_id": 2088,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5364,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Góralska",
+    "precinct": "Stare Miasto",
+    "parcel_numbers": [
+      "3/6",
+      "3/12",
+      "AM-21",
+      "obręb Stare Miasto"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((360227.33000000001629815 362007.03000000002793968, 360226.78000000002793968 362000.02000000001862645, 360229.28999999997904524 361995.17999999999301508, 360233.80999999999767169 361992.78000000002793968, 360240.71999999997206032 361991.89000000001396984, 360257.27000000001862645 361996.61999999999534339, 360293.16999999998370185 361982.19000000000232831, 360318.38000000000465661 361974.13000000000465661, 360340.98999999999068677 361965.02000000001862645, 360328.07000000000698492 361933.65000000002328306, 360321.5 361932.61999999999534339, 360278.86999999999534339 361948.63000000000465661, 360273.51943841727916151 361951.83362778153968975, 360244.85999999998603016 361963.28999999997904524, 360240.35999999998603016 361952.73999999999068677, 360220.03999999997904524 361960.75, 360228.63000000000465661 361981.13000000000465661, 360228.83649890968808904 361981.04427808785112575, 360228.88000000000465661 361981.15000000002328306, 360230.67999999999301508 361986.11999999999534339, 360220.63000000000465661 361990.21999999997206032, 360212.14000000001396984 361993.96999999997206032, 360215.69522511854302138 362002.44768345396732911, 360220.22999999998137355 362013.94000000000232831, 360220.47706363373436034 362013.85031251650070772, 360224.56134404934709892 362023.58956540387589484, 360224.29999999998835847 362023.78999999997904524, 360226.48999999999068677 362029.16999999998370185, 360226.87449053407181054 362029.10542530770180747, 360229.11999999999534339 362034.46000000002095476, 360280.86999999999534339 362013.13000000000465661, 360279.88000000000465661 362010.55999999999767169, 360235.64000000001396984 362028.14000000001396984, 360235.04534518590662628 362026.63771415379596874, 360235.39000000001396984 362026.08000000001629815, 360234.95000000001164153 362022.59000000002561137, 360232.80776789574883878 362020.98488731548422948, 360227.31240212346892804 362007.10185799602186307, 360227.33000000001629815 362007.03000000002793968),(360247.17999999999301508 361976.26000000000931323, 360244.11230130796320736 361974.70298072427976876, 360263.81492026912746951 361966.52402145165251568, 360262.10999999998603016 361969.28999999997904524, 360256.57000000000698492 361973.60999999998603016, 360247.17999999999301508 361976.26000000000931323)),((360342.29999999998835847 362000.19000000000232831, 360335.70000000001164153 361984.97999999998137355, 360342.34999999997671694 361968.96000000002095476, 360311.97999999998137355 361981.33000000001629815, 360323.14000000001396984 362008.19000000000232831, 360342.29999999998835847 362000.19000000000232831)))",
+    "site_description": "Teren działek stanowią w głównej mierze nawierzchnie utwardzone, z lokalnymi wykształconą warstwą glebową, w miejscach porośniętych roślinnością niską i pojedynczymi drzewami i krzewami. Warstwa biologicznie czynna stanowi ok. 0,2587 ha."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Archicom Nieruchomości 9 Sp. z o.o.",
+      "address": "ul. Powstańców Śląskich 9 53-332 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,02-26,2 mg/kg s.m.",
+      "area_ha": 0.1223
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "472-598 mg/kg s.m.",
+      "area_ha": 0.0558
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "206 mg/kg s.m.",
+      "area_ha": 0.0665
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "173-8026,63 mg/kg s.m.",
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "27,6 mg/kg s.m.",
+      "area_ha": 0.0558
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "35-304 mg/kg s.m.",
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,289-1,47 mg/kg s.m.",
+      "area_ha": 0.0558
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,311-1,398 mg/kg s.m.",
+      "area_ha": 0.0558
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,326-1,37 mg/kg s.m.",
+      "area_ha": 0.0558
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,306-1,21 mg/kg s.m.",
+      "area_ha": 0.0558
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,325-1,16 mg/kg s.m.",
+      "area_ha": 0.0558
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,236-0,795 mg/kg s.m.",
+      "area_ha": 0.0558
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,262-1,01 mg/kg s.m.",
+      "area_ha": 0.0558
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "138-249 mg/kg s.m.",
+      "area_ha": 0.0071
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "361-1860 mg/kg s.m.",
+      "area_ha": 0.0303
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "138-438 mg/kg s.m.",
+      "area_ha": 0.3795
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "52,3 mg/kg s.m.",
+      "area_ha": 0.0303
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,19 mg/kg s.m.",
+      "area_ha": 0.0166
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-05-10",
+    "legal_basis": "art. 101l ust. 4 i art. 101p ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.515.6.2024.ASZ",
+    "decisions": [
+      {
+        "issue_date": "2024-12-31",
+        "reference": "WSI.515.6.2024.ASZ.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4 i 101p ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Archicom Nieruchomości 9 Sp. z o.o.",
+        "address": "ul. Powstańców Śląskich 9 53-332 Wrocław",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2025-01-01",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metodą ex-situ, poprzez wydobycie zanieczyszczonego gruntu z łącznej powierzchni ok. 0,2030 ha, do głębokości ok. 0,25 m ppt oraz z głębokości poniżej 0,25 m ppt z łącznej powierzchni ok. 0,3795 ha. Powstały odpad, w postaci zanieczyszczonego gruntu, należy przekazać uprawnionemu podmiotowi. Prace należy prowadzić do osiągnięcia zakładanego niniejszą decyzją efektu ekologicznego. W przypadku wydobywania gruntu metodą na odkład miejsce odkładania zanieczyszczonego gruntu zabezpieczyć przed wtórnym zanieczyszczeniem. W przypadku uzupełniania powstałego wykopu lub jego części, użyć gruntu niezanieczyszczonego, o zawartościach substancji powodujących ryzyko nieprzekraczających wartości dopuszczalnych dla I grupy gruntów, określonych w rozporządzeniu",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

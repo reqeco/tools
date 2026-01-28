@@ -1,0 +1,181 @@
+{
+  "registry_id": 551,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 3.8,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Na Ostatnim Groszu i ul. Horbaczewskiego we Wrocławiu",
+    "precinct": "obręb Gądów Mały",
+    "parcel_numbers": [
+      "17/50",
+      "17/51",
+      "17/52",
+      "17/53",
+      "17/64 – AM 3 obręb Gądów Mały"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((358498.97500356805 363993.6732210424,358499.63402345986 363994.9056735998,358509.0401744771 363989.33204224426,358457.7420072723 363902.9933397826,358418.9762609479 363846.0952283703,358415.87028103246 363848.009394845,358313.3083394997 363901.7428318355,358313.40110682277 363902.3540050294,358247.6161392571 363878.6053686915,358242.72470649146 363964.4382470092,358241.3195494742 363964.3113699695,358287.67292659334 364055.55530882906,358314.5588474317 364107.45138845965,358479.0006423471 364023.66735628713,358472.74810261803 364008.03600700106,358498.97500356805 363993.6732210424),(358415.87028103246 363848.009394845,358451.48946754204 363904.8691016948,358350.8235778741 364024.29261025134,358349.83953065734 364024.7797623025,358324.2445483082 363972.39933327306,358324.24454834627 363972.3993332749,358324.11116220884 363971.5376998093,358415.87028103246 363848.009394845)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Projekt 17 – Grupa Echo Sp. z o.o. Sp. K.A.,",
+      "address": "Al. Solidarności 36, 25-323 Kielce",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "> 0,2mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "> 0,1mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "> 0,2mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "> 0,1mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "> 0,1mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "> 0,1mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "> 0,2mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "> 0,1mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "> 0,2mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "> 0,1mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "> 1mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "> 30mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-12-13",
+    "legal_basis": "art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego",
+    "case_reference": "WSI.515.8.2017.MR",
+    "decisions": [
+      {
+        "issue_date": "2018-06-21",
+        "reference": "WSI.515.8.2017.MR.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-08-05",
+        "reference": "WSI.515.7.2019.KMA.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 155 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-05-22",
+        "reference": "WSI.515.13.2025.MR.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Projekt 17 – Grupa Echo Sp. z o.o. Sp. K.A.,",
+        "address": "Al. Solidarności 36, 25-323 Kielce",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2018-06-21",
+    "planned_end": "2027-02-28",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Oczyszczenie powierzchni ziemi na przedmiotowym terenie przeprowadzone zostanie metodą ex-situ, poprzez wydobycie zanieczyszczonego gruntu. Wydobyty zanieczyszczony grunt należy przekazać jako odpad uprawnionemu podmiotowi.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

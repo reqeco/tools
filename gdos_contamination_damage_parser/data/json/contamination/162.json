@@ -1,0 +1,102 @@
+{
+  "registry_id": 162,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0315,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Leszno",
+    "municipality": "Leszno",
+    "address": "64-100 Leszno, ul. Lipowa 72",
+    "precinct": null,
+    "parcel_numbers": [
+      "117/2 obręb Leszno",
+      "118/3 obręb Leszno",
+      "118/4 obręb Leszno",
+      "95/1 obręb Leszno",
+      "96/5 obręb Leszno"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((333266.91393860686 443382.53492230177,333246.5409811258 443381.34429491963,333250.2451552206 443365.46926317085,333266.3847708868 443366.79218249116,333266.9139386088 443366.7921824921,333266.91393860686 443382.53492230177))",
+    "site_description": "teren byłej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1964-01-01",
+    "to": "2007-04-30",
+    "description": "Stacja paliw funkcjonowała od 1964 r. do marca 2008 r., do zanieczyszczenia doszło w czasie eksploatacji, przed 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Miasto Leszno",
+      "address": "ul. Karasia 15, 64-100 Leszno",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "29412 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "13617 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "6410 mg/kg s.m.",
+      "area_ha": 0.0315
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-03-10",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-05-25",
+        "reference": "WSS.511.18.2016.ASB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 2 ustawy",
+        "entity_type": "inny sprawca",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2016-06-27",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-11-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja polegała na prowadzeniu działań wspomagających samooczyszczanie powierzchni ziemi oraz okresowym prowadzeniu badań zanieczyszczenia gleby i ziemi. Działania wspomagające samooczyszczenie polegały na pompowaniu wody podziemnej z otworów technologicznych, kierowaniu jej na kontenerową stację uzdatniania, a następnie odprowadzaniu do gruntu systemem drenażu rozsączającego i/lub do otworów chłonnych. Proces wspomagany metodą bioremediacji, polegającą na iniekcji do środowiska gruntowo-wodnego odżywek i biopreparatów opartych o wyselekcjonowane szczepy bakterii zdolnych do rozkładu zanieczyszczeń substancji ropopochodnych. System wspomagany przez instalację napowietrzania środowiska gruntowo-wodnego.",
+    "ecological_effect": "Remediacja powyższego terenu była prowadzona zgodnie z ww. decyzją Regionalnego Dyrektora Ochrony Środowiska w Poznaniu, w związku z osiągnięciem zamierzonych wartości badanych substancji remediację można uznać za zakończoną.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

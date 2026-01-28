@@ -1,0 +1,277 @@
+{
+  "registry_id": 429,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 6.7,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Korczaka w Katowicach",
+    "precinct": "0004 Dąbrówka Mała a. m. 9; 0005 Roździeń a. m. 5",
+    "parcel_numbers": [
+      "1077/8",
+      "306/17",
+      "307/17",
+      "866/17",
+      "867/17",
+      "312/18",
+      "313/18",
+      "314/18",
+      "317/27",
+      "318/27",
+      "319/27",
+      "859/30",
+      "860/30",
+      "861/30",
+      "862/30",
+      "863/30",
+      "864/31",
+      "865/31",
+      "175/36",
+      "197/38",
+      "208/17",
+      "209/17",
+      "326/31",
+      "193/40",
+      "186/39",
+      "194/39",
+      "195/39",
+      "196/38",
+      "179/35",
+      "180/35",
+      "198/35",
+      "199/35",
+      "316/19",
+      "407/19",
+      "406/19",
+      "308/43",
+      "309/43",
+      "853/43",
+      "854/43",
+      "855/43",
+      "856/32",
+      "857/32",
+      "858/32",
+      "870/34",
+      "868/34",
+      "869/34",
+      "1239/13",
+      "1253/33",
+      "1257/493",
+      "1590/31",
+      "1591/31",
+      "1592/31",
+      "1593/15",
+      "1594/15",
+      "1595/15",
+      "1596/14",
+      "1597/14",
+      "1598/14",
+      "1599/33",
+      "1600/33",
+      "1601/33",
+      "1602/13",
+      "1603/13",
+      "1604/13",
+      "1605/16",
+      "1606/16",
+      "1608/16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((506010.716000 267466.613000,506041.040000 267447.457000,506104.405000 267407.460000,506107.289000 267405.643000,506108.726000 267404.744000,506122.343000 267396.226000,506138.397000 267386.087000,506170.535000 267365.787000,506196.746000 267349.215000,506212.505138 267339.262652,506222.938000 267332.674000,506216.768000 267318.955000,506214.775000 267314.184000,506201.538000 267282.531000,506195.676000 267285.099000,506173.912000 267295.035000,506163.291000 267299.675000,506140.824956 267255.114122,506122.959769 267265.081016,506097.696000 267212.179100,506078.397000 267256.042000,506067.609000 267279.522000,506059.259000 267300.742000,506057.264000 267301.018000,506055.035000 267307.754000,506041.643000 267281.630000,505973.870000 267300.739000,505969.935000 267301.661000,505966.632000 267295.358900,505946.367000 267256.835000,505950.281000 267255.823000,505938.343000 267233.087000,505934.511000 267234.278000,505924.671000 267210.704000,505863.117000 267225.522000,505862.828000 267225.606000,505855.220000 267227.587000,505809.447000 267239.504000,505819.475000 267261.346000,505829.327000 267282.771000,505856.525000 267341.970000,505837.741000 267346.739000,505844.379000 267368.517000,505839.401000 267378.828000,505913.892000 267359.908000,505918.971000 267371.253000,505925.912000 267383.543000,505901.137000 267388.772000,505891.929000 267390.735000,505880.844000 267394.312000,505849.092000 267404.652000,505828.091000 267409.631000,505837.666527 267426.894337,505838.999000 267429.311900,505840.534577 267432.480043,505840.420212 267432.244089,505844.447000 267440.552000,505845.663372 267443.314384,505845.662642 267443.312726,505848.292767 267449.285745,505848.293825 267449.288147,505849.137000 267451.203000,505869.123000 267496.497000,505879.090000 267519.039000,505894.365000 267516.366000,505934.157000 267509.376000,505933.955000 267491.369000,505939.881000 267487.631900,505950.563000 267504.568000,505999.815000 267473.485000,506004.245000 267470.688000,506010.716000 267466.613000))",
+    "site_description": "rejon ul. Korczaka, teren niezabudowany, nieużytkowany"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Działalność przemysłowa prowadzona na terenie Katowic od XIX w."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miasta Katowice",
+      "address": "ul. Młyńska 4; 40-098 Katowice",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "MDR Katowice 2 Sp z o.o.",
+      "address": "ul. Przeskok 2 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "45",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "23,6±6,5",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "3429±899",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "36±11",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "4877±1320",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,21±0,035",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,282±0,071",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,371±0,096",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,108±0,03",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,371±0,096",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,376±0,093",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,211±0,055",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "44±12",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "82±21",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "52±14",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1140±299",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-07-02",
+    "legal_basis": "art. 101l ust. 2 POŚ",
+    "case_reference": "WSI.515.10.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-02-07",
+        "reference": "WSI.515.10.2019.SA.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-12-31",
+        "reference": "WSI.515.12.2020.SA.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Miasta Katowice",
+        "address": "ul. Młyńska 4; 40-098 Katowice",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MDR Katowice 2 Sp z o.o.",
+        "address": "ul. Przeskok 2 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

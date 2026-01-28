@@ -1,0 +1,109 @@
+{
+  "registry_id": 398,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "municipality": "Bychawa",
+    "address": "ul. A. Mickiewicza 8",
+    "precinct": "0001 Bychawa Miasto",
+    "parcel_numbers": [
+      "060903_4.0001.1450"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((748610.4807274658 355334.92493499536,748614.4494855255 355325.6644998146,748625.958883936 355325.26762402244,748629.530766212 355334.1311834259,748630.7213936344 355335.32181080617,748610.6130194004 355335.18951886334,748610.4807274658 355334.92493499536))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 1231 w Bychawie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1961-01-01",
+    "to": "2011-05-19",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w powierzchni ziemi polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw PKN ORLEN S.A. Nr 1231 w Bychawie.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "578-5309 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2195-37174 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "56,9-6572,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2195-37174 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-10-10",
+    "detection_date": "2011-05-19",
+    "decisions": [
+      {
+        "issue_date": "2011-12-07",
+        "reference": "WSI.511.7.2011.RSZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-12-15",
+    "planned_end": "2012-08-30",
+    "actual_end": "2012-01-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczonej gleby i gruntów metodą ex-situ.",
+    "ecological_effect": "Środowisko gruntowe doprowadzone zostało do stanu spełniającego standardy jakości ziemi i gleby określone w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

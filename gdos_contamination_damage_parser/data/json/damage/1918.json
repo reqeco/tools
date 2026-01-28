@@ -1,0 +1,56 @@
+{
+  "registry_id": 1918,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "gryfiński",
+    "municipality": "Gryfino",
+    "address": "dz. nr 155/3, obr. Sobieradz",
+    "precinct": "Sobieradz",
+    "parcel_numbers": [
+      "155/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((210138.90235050700721331 605895.93017944495659322, 210138.9342708209878765 605902.40112493105698377, 210139.0440631470119115 605923.31613208097405732, 210110.89330495000467636 606199.14304428501054645, 210102.21768943101051264 606198.09614468901418149, 210078.36750549401040189 606059.98813233501277864, 210101.90685654198750854 606050.74358950403984636, 210101.13358548399992287 606047.85114058898761868, 210077.83610778898582794 606056.94185441604349762, 210073.39894227701006457 606031.21936988201923668, 210064.149077150010271 605977.72135709295980632, 210073.73179977299878374 605973.67752584395930171, 210091.99685708500328474 605945.04979942599311471, 210092.70325305900769308 605927.43563892599195242, 210101.94168145398725756 605911.1670114389853552, 210111.17264657598570921 605899.05698541598394513, 210108.79615730600198731 605897.23629724397324026, 210096.56712066999170929 605913.24164115497842431, 210089.7340451070049312 605926.66015267500188202, 210089.02868288700119592 605944.11394013802055269, 210071.70296613499522209 605971.26623494899831712, 210063.62822905299253762 605974.6845072970027104, 210053.79183854401344433 605917.6924114340217784, 210028.06879064199165441 605768.50725379900541157, 210119.74680264299968258 605757.19841879198793322, 210127.4494156010041479 605812.94737179600633681, 210138.90235050700721331 605895.93017944495659322))",
+    "site_description": "mokradło w pobliżu drogi Drzenin-Sobieradz"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "kwiecień 2024 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Ze zgłoszenia wynika, że w dniu 29.04.2024 między godziną 11.50 a 13.30 dwukrotnie zaobserwowano samochód ciężarowy wysypujący ziemię na skraju stałego lądu i zajmującego część działki 155/3 mokradła, stopniowo powodując jego zmniejszanie. Przy czym wg. zgłaszającego mokradło jest stopniowo zasypywane piaskiem i ziemią od około 2 tygodni, a w zasypywanym rozlewisku odbywały się w tym okresie gody kumaka nizinnego, a obecnie także ropuchy zielonej oraz żab należących do kompleksu żab zielonych. Mokradło i jego najbliższe sąsiedztwo jest też miejscem lęgów takich gatunków ptaków jak: czajka, sieweczka rzeczna, gęgawa (w dniu 29.04.2024 z pisklętami), błotniak stawowy, żuraw, krzyżówka i łyska.",
+  "total_area_ha": 0.069,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Prace Ziemne, Roboty Drogowe, Usługi Budowlane (…)",
+      "address": "(…)",
+      "economic_activity_code": "42.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-05-26",
+    "detection_date": "2024-04-29",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

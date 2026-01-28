@@ -1,0 +1,100 @@
+{
+  "registry_id": 1193,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2608,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Piekary Śląskie",
+    "municipality": "Piekary Śląskie",
+    "address": "ul. Bytomska w Piekarach Śląskich",
+    "precinct": "0002 Piekary Wielkie",
+    "parcel_numbers": [
+      "247101_1.0002.AR_11-1.591/100"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((496048.25141700002131984 278145.20408300001872703, 496052.9318910000147298 278150.64792100002523512, 496086.61585800000466406 278153.90290799998911098, 496090.28043300000717863 278154.40331999998306856, 496091.24206499999854714 278126.31690899998648092, 496096.34260999999241903 278118.40295600000536069, 496107.38639100000727922 278114.70657600002596155, 496104.31467100000008941 278105.52329899999313056, 496091.01405300002079457 278110.09951799997361377, 496090.64916799997445196 278106.92765099997632205, 496087.74876300001051277 278102.60226999997394159, 496088.70011699997121468 278093.35049799998523667, 496050.27936899999622256 278092.35789300000760704, 496049.59948799997800961 278092.33704999997280538, 496049.66463800001656637 278101.69418799999402836, 496049.38292800000635907 278120.83319899998605251, 496048.25141700002131984 278145.20408300001872703)))",
+    "site_description": "Obszar ten prawdopodobnie stanowił lub był położony w bezpośrednim sąsiedztwie miejsca składowania odpadów pochodzących z eksploatacji rud (skały rodzime, które w ówczesnych czasach, ze względu na niższą niż wymagana przemysłowo wartość stężeń metali w rudach górniczych dla kopalni rud cynku i ołowiu „Orzeł Biały”, stanowiła tzw. skałę płoną). Ponadto, na terenie będącym  przedmiotem  wniosku,  prowadzona  była  działalność  związana  z  utrzymaniem technicznym  i  konserwacją  urządzeń  stacji  transformatorowej,mogąca być  potencjalnym źródłem  zanieczyszczenia  gruntów. Działalność  ww.  stacji   transformatorowej została zakończona w latach 90. XX w."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "SIGMAGROUP DK  Sp. z o.o.Sp. k.",
+      "address": "SIGMAGROUP DK  Sp. z o.o.Sp. k. al.Korfantego 141b 40-145 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "591/100"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "10300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "54 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1550 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-08-02",
+    "legal_basis": "art. 101l ust. 2 ustawy Poś",
+    "case_reference": "WSI.515.12.2018",
+    "decisions": [
+      {
+        "issue_date": "2018-12-21",
+        "reference": "WSI.515.12.2018.SA.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "SIGMAGROUP DK  Sp. z o.o.Sp. k.",
+        "address": "SIGMAGROUP DK  Sp. z o.o.Sp. k. al.Korfantego 141b 40-145 Katowice",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,100 @@
+{
+  "registry_id": 1587,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "inowrocławski",
+    "municipality": "Inowrocław (gmina wiejska)",
+    "address": "Szosa Bydgoska 21a",
+    "precinct": "Jaksice",
+    "parcel_numbers": [
+      "243/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((445893.447265082 553986.1252997657,445920.43481906207 553942.9981301762,445984.19952992233 553986.6544674868,445953.2432180122 554028.1941338945,445893.447265082 553986.1252997657)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2022-06-14",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Bezpośrednie zagrożenie szkodą w środowisku na skutek pożaru hali magazynowej zlokalizowanej na działce ewidencyjnej nr 243/10 w miejscowości Jaksice, w której zgromadzone zostały odpady w postaci baterii, akumulatorów, beczek z nieznanymi substancjami. Beczki na skutek zdarzenia uległy rozszczelnieniu i substancje wraz z odciekami pogaśniczymi spłynęły na nieutwardzony teren wokół hali.",
+  "total_area_ha": 0.39,
+  "reporters": [
+    {
+      "name": "Kujawsko-Pomorski Wojewódzki Inspektor Ochrony Środowiska w Bydgoszczy",
+      "address": "ul. Piotra Skargi 2 85-018 Bydgoszcz",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "108 mg/kg s.m. 1115 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "1,51 mg/kg s.m. 4,74 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "2,29 mg/kg s.m. 6,95 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1855 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "961 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "267 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,71 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2022-09-26",
+    "detection_date": "2022-06-14",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSS.512.28.2022.SS"
+}

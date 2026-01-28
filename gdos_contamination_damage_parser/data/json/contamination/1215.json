@@ -1,0 +1,62 @@
+{
+  "registry_id": 1215,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Skarszewy",
+    "address": null,
+    "precinct": "Mirowo Duże",
+    "parcel_numbers": [
+      "30/22",
+      "30/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((468570.691516369 694907.554398234,468702.983447619 694850.6688677948,468717.535560059 694887.7106085438,468841.88997542905 694865.2209802354,468786.327364309 694609.8975529261,468726.7959952389 694633.7101005446,468573.3373549889 694656.1997288549,468586.5665481189 694685.3039537333,468546.878968739 694699.8560661739,468544.2331301188 694717.0540172337,468532.32685630897 694721.0227751732,468528.35809836886 694711.7623399831,468540.2643721789 694691.9185502939,468573.33735498897 694682.6581151038,468523.06642111886 694619.1579881059,468423.8474726789 694676.0435185432,468508.514308679 694807.0125304824,468524.389340429 694807.0125304824,468572.014435679 694908.8773175431,468570.691516369 694907.554398234))",
+    "site_description": "Obszar działalności: \"Tartaki\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Produkcja wyrobów tartacznych"
+  },
+  "land_holders": [
+    {
+      "name": "Krajowy Ośrodek Wsparcia Rolnictwa",
+      "address": "ul. Powstańców Warszawy 28, 83-000 Pruszcz Gdański",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "30/22",
+        "30/1"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-10-02",
+    "legal_basis": null,
+    "case_reference": "RDOŚ-Gd-WZS.515.230.2019",
+    "decisions": [
+      {
+        "issue_date": "2021-01-12",
+        "reference": "RDOŚ-Gd-WZS.515.230.2019.IK.MK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

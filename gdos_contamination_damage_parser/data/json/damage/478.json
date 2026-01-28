@@ -1,0 +1,115 @@
+{
+  "registry_id": 478,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "ostródzki",
+    "municipality": "Morąg",
+    "address": "Morąg",
+    "precinct": null,
+    "parcel_numbers": [
+      "143/8"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Zanieczyszczony teren, o wymiarach: 12,5 m x 23,5 m, stanowi część działki nr 143/8 obręb 2 miasta Morąg i znajduje się w sąsiedztwie ujścia rowu melioracyjnego do rzeki Antonówki. Zanieczyszczenie terenu nastąpiło wskutek magazynowania odpadów zawierających substancje ropopochodne (urobek z prac konserwacyjnych rowu melioracyjnego)."
+  },
+  "occurrence_time": {
+    "date": "2012-10-03",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu ziemi substancjami ropopochodnymi na terenie działki nr 143/8 obręb 2 miasta Morąg wskutek magazynowania odpadów. Zaobserwowano przekroczenia WWA, oleju mineralnego oraz sumy benzyn.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Warmińsko-Mazurski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. 1 Maja 13b 10-117 Olsztyn",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Gmina Morąg",
+      "address": "ul. 11 Listopada 9, 14-300 Morąg",
+      "economic_activity_code": "38.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "<1400 mg/kg s.m",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3400 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "od 58 mg/kg s.m. do >425 mg/kg s.m.",
+      "area_ha": 0.01
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2012-12-19",
+    "detection_date": "2012-10-03",
+    "decisions": [
+      {
+        "issue_date": "2013-01-14",
+        "reference": "WSI.512.1.2013.JK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-07-31",
+        "reference": "WSI.512.1.2013.JK.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2013-01-25",
+        "reason": "W odwołaniu wskazano, że Burmistrz Morąga nie jest podmiotem korzystającym ze środowiska, bowiem jest on organem wykonawczym Gminy Morąg. Wskazano, że decyzja jest wadliwa merytorycznie bowiem postępowanie zakończone jej wydaniem zostało oparte na badaniach ziemi i wody przez jednostkę i laboratorium, które nie posiadają akredytacji. Osady denne wykopane w trakcie bieżącej konserwacji rzeki zostały zagospodarowane poprzez złożenie i rozplantowanie bez świadomości, że są zanieczyszczone substancjami ropopochodnymi. Badania gruntu wykonane przez akredytowaną jednostkę po usunięciu odpadów, nie może być podstawą do stwierdzenia, że zanieczyszczenia gruntu pochodzą z osadu. Nie pobrano bowiem prób gruntu z dna rzeki. Bezspornym jest fakt zanieczyszczenia gruntu, ale kto i kiedy odpady wytworzył jest niemożliwe obecnie do ustalenia. Prawdopodobnym wytwórcą odpadów mógłby być nieistniejący Zakład Gazowniczy, do 1978 r. właściciel działki 5/13. Możliwymi sprawcami mogliby być również właściciele garaży znajdujących się na sąsiednich działkach.",
+        "appealed_decision_reference": "WSI.512.1.2013.JK.3",
+        "resolution_reference": "DOP-ks.512.1.2013.mp",
+        "appellant_name": "Burmistrz Morąga",
+        "appellant_address": "ul. 11 Listopada 9, 14-300 Morąg",
+        "resolution_date": "2013-06-07",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Organ odwoławczy uchylił w całości zaskarżoną decyzję i przekazał sprawę do ponownego rozpatrzenia przez organ I instancji."
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2014-04-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania naprawcze będą prowadzone metodą ex-situ, która polega na wydobyciu zanieczyszczonego gruntu i zastąpieniu go nowym, wolnym od zanieczyszczeń. Prace będą prowadzone na powierzchni 106,45 m2, do głębokości 0,8-1,0 m p.p.t. Łącznie zostanie wydobyte 95,7 m3 zanieczyszczonych gruntów.",
+    "ecological_effect": "Osiągnięcie poziomu jakości gleby i ziemi odpowiadającego co najmniej standardom jakościowym przewidzianym dla gruntów grupy B, przy uwzględnieniu wodoprzepuszczalności gruntów poniżej 1x10-7 m/s, określonych w załączniku do rozporządzenia Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi dla następujących wskaźników zanieczyszczeń: benzyny suma, olej mineralny oraz suma WWA.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

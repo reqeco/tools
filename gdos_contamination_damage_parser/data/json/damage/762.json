@@ -1,0 +1,65 @@
+{
+  "registry_id": 762,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "radomski",
+    "municipality": "Pionki (gmina miejska)",
+    "address": "26-670 Pionki, ul. Zakładowa 7",
+    "precinct": null,
+    "parcel_numbers": [
+      "1464/183",
+      "1464/148"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((668964.7023768432 402722.5518146837,668985.3399181997 402742.52789630275,668992.4836825052 402743.1893559629,669025.5566654393 402703.50177658256,669025.8212492994 402697.5486396719,669009.8139255603 402684.84861427266,669001.744117721 402680.350688613,668964.7023768432 402722.5518146837))",
+    "site_description": "teren prowadzonej działalności przy ul. Zakładowej 7 (nie można odnaleźć wskazanych działek na mapie geoserwisu)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "działalność prowadzona w sposób ciągły"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi wskutek prowadzonej działalności",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Delegatura Radom",
+      "address": "ul. Pułaskiego 9, 26-600 Radom",
+      "legal_form": "instytucja państwowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "52.10.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "8600->10000",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2014-09-18",
+    "detection_date": "2014-07-23",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

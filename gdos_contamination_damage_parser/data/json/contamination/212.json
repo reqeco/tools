@@ -1,0 +1,84 @@
+{
+  "registry_id": 212,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Belgradzka Warszawa",
+    "precinct": "1-12-16",
+    "parcel_numbers": [
+      "3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639559.2827109001 476530.22076672874,639632.3078570431 476550.8583080014,639764.0706207411 476574.14168789703,639811.6957160521 476582.079203777,639845.0332827646 476581.0208683256,639898.4792230623 476566.2041720245,640008.016942271 476518.5790767716,640065.1670566443 476510.1123931715,640077.3379143395 476500.5873741219,640090.5671074733 476404.8080158932,639990.0252395938 476400.5746740941,639949.2793247213 476402.69134499505,639861.4374822595 476415.39137039613,639755.6039371256 476446.083098446,639701.0996613775 476475.71649104636,639559.2827108998 476527.04576038383,639559.2827109001 476530.22076672874))",
+    "site_description": "teren Parku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Burmisrz Dzielnicy Ursynów",
+      "address": "Al Komisji Edukacji Narodowej 61, 02-777 Warszawa",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "67-94 [mg/kg]",
+      "area_ha": 0.6
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-11-18",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-01-25",
+        "reference": "WSI.511.37.2016.ES.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Burmisrz Dzielnicy Ursynów",
+        "address": "Al Komisji Edukacji Narodowej 61, 02-777 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2017-03-01",
+    "planned_end": "2018-12-31",
+    "actual_end": "2017-10-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Zastosowanie metody fitoremediacji.",
+    "ecological_effect": "teren spełnia standardy określone w rozporządzeniu",
+    "effect_assessment": null
+  },
+  "notes": null
+}

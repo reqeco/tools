@@ -1,0 +1,99 @@
+{
+  "registry_id": 49,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.054,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Św. Wincentego 82",
+    "precinct": "4-10-02",
+    "parcel_numbers": [
+      "67 obręb 4-10-02"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639518.2457288732 492190.54271339905,639538.8832701696 492188.9552102303,639545.7624506083 492183.1343652513,639552.6416310357 492142.38845042884,639509.7790452591 492101.11336787976,639514.5415547839 492069.89247210044,639447.3372536273 492058.77994988207,639482.2623235261 492166.7301657805,639484.3789944288 492165.671830331,639493.3748457609 492183.1343652522,639516.6582256907 492179.9593588989,639518.2457288732 492190.54271339905))",
+    "site_description": "działka podzielona na 67/1 i 67/2"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp. Z o.o.",
+      "address": "ul. Lecha Kaczyńskiego 14, 00-638 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "DDE",
+      "concentration": "6.5699999999999995E-2",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "DDT",
+      "concentration": "7.3099999999999998E-2",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-10-29",
+    "legal_basis": "61 § 1 Kpa w ziweązuz art. 101 l ust 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-11-29",
+        "reference": "WSI.511.10.2015.AK.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-01-21",
+        "reference": "WSI.511.10.2015.ES.5 (zmiana)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp. Z o.o.",
+        "address": "ul. Lecha Kaczyńskiego 14, 00-638 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2016-12-01",
+    "planned_end": "2017-02-02",
+    "actual_end": "2018-06-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - wydobycie zanieczyszczonego gruntu i przekazanie do unieszkodliwienia",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": null
+  },
+  "notes": null
+}

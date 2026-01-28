@@ -1,0 +1,45 @@
+{
+  "registry_id": 2066,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "b.d.",
+    "municipality": "b.d.",
+    "address": "działki nr 9/2 oraz 9/3 obręb Maczków, gm. Cybinka",
+    "precinct": "Maczków",
+    "parcel_numbers": [
+      "9/2",
+      "9/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((212010.21534370445 494041.9799729241,211999.7642801992 494023.98827030044,212007.17262910912 494019.88722040784,212017.35910872743 494038.01121496316,212010.21534370445 494041.9799729241))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "bezpośrednie zagrożenie wystąpienia szkody w środowisku"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "zalegające odpady -w tym niebezpieczne (dach grozi zawaleniem)",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2024-12-30",
+    "detection_date": "2024-12-30",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "na terenie nieruchomości zalegają znaczne ilości odpadów"
+}

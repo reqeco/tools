@@ -1,0 +1,140 @@
+{
+  "registry_id": 91,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0884,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "namysłowski",
+    "municipality": "Namysłów",
+    "address": "46-100 Namysłów, ul. część większego kompleksu zlokalizowanego wzdłuz ulic Bohaterów Warszawy oraz Gen. Sikorskiego 17A",
+    "precinct": "0038 Namysłów",
+    "parcel_numbers": [
+      "1264/1  i 1264/2 obręb 0038 Namysłów"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((410687.2759687088 357575.58568192646,410674.84052716615 357460.75628560316,410687.2759687091 357458.6396147059,410686.7468009888 357457.31669538654,410755.80318911426 357445.67500543594,410745.4844184723 357375.82486573793,410755.2740213944 357373.9727786975,410750.5115118633 357337.19562182017,410746.2781700627 357317.0872482676,410752.62818276393 357316.028912819,410755.53860525467 357323.43726096954,410760.30111477536 357355.4519083258,410764.00528885645 357380.85195912886,410759.5073631955 357381.38112684805,410753.95110207406 357387.995723417,410780.409488329 357584.316949388,410687.2759687088 357575.58568192646))",
+    "site_description": "część większego kompleksu zlokalizowanego wzdłuz ulic Bohaterów Warszawy oraz Gen. Sikorskiego 17A"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "w czasie prowadzenia działalności przez firmę STOLBUD, która wykorzystywała do impregnacji drewna różne związki chemiczne, tj. przez 1997r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pozostałych wyrobów stolarskich i ciesielskich dla budownictwa",
+    "current": "Sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach z przewagą żywności, napojów i wyrobów tytoniowych"
+  },
+  "land_holders": [
+    {
+      "name": "EYEMAXX 6 Sp. z o.o.",
+      "address": "02-972 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "280 - 3700 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Fenantren",
+      "concentration": "9,5 - 400 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Antracen",
+      "concentration": "8,7 - 45 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Fluoranten",
+      "concentration": "7,2 - 440 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,2 - 110 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Chryzen",
+      "concentration": "5,8 - 140 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Benzo(a)piren",
+      "concentration": "24 - 100 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "13 - 59 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "22 - 1299,9 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-03-03",
+    "legal_basis": "art. 101 l ust. 2",
+    "case_reference": "WOOS.511.1.1.2016.KM.",
+    "decisions": [
+      {
+        "issue_date": "2016-04-27",
+        "reference": "WOOS.511.1.1.2016.KM.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "EYEMAXX 6 Sp. z o.o.",
+        "address": "02-972 Warszawa",
+        "economic_activity_code": "47.11.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

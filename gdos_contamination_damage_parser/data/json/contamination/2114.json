@@ -1,0 +1,233 @@
+{
+  "registry_id": 2114,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.77,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "działki o nr. ewid.: 21/12 oraz 21/13, a. m. 13, obręb 0002 dz. Bogucice-Zawodzie, położone przy ul. Konduktorskiej w Katowicach.",
+    "precinct": "0002 dz. Bogucice-Zawodzie",
+    "parcel_numbers": [
+      "246901_1.0002.AR_13.21/12",
+      "246901_1.0002.AR_13.21/13"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((501595.45252941298531368 268122.19148638600017875, 501603.70328498602611944 268101.77286443597404286, 501634.41020318900700659 268110.35520714498125017, 501650.13878297799965367 268055.86652175500057638, 501655.53992729901801795 268050.23733199102571234, 501655.54850378702394664 268047.89861665200442076, 501599.97794857400003821 268044.63710503099719062, 501593.56832988798851147 268051.07935656700283289, 501592.76778305397601798 268062.91302919498411939, 501591.59921815997222438 268080.08844905701698735, 501588.93759354698704556 268119.30073902098229155, 501595.45252941298531368 268122.19148638600017875)),((501670.35483984602615237 268155.47531346400501207, 501679.5286207830067724 268048.97582218999741599, 501655.54850378702394664 268047.89861665200442076, 501655.53992729901801795 268050.23733199102571234, 501650.13878297799965367 268055.86652175500057638, 501634.41020318900700659 268110.35520714498125017, 501603.70328498602611944 268101.77286443597404286, 501595.45252941298531368 268122.19148638600017875, 501599.98692422400927171 268124.20936297898879275, 501670.35483984602615237 268155.47531346400501207)))",
+    "site_description": "skrzyżowanie ulic Konduktorska i Owocowa w Katowicach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Murapol Real Estate S.A.",
+      "address": "ul. Dworkowa 4, 43-300 Bielsko-Biała",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "91,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "626 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "6720 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "26,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1480 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "84,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "2,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "6,75 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,85 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "8,57 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "3,53 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "3,46 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "6,95 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,825 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "4,47 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,72 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "143 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "2260 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "12100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "73,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "6140 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-12-16",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2024 r. poz. 572) [dalej Kpa], w związku z art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2024 r. poz. 54 z późn. zm.)",
+    "case_reference": "WSI.513.638.2024",
+    "decisions": [
+      {
+        "issue_date": "2025-01-15",
+        "reference": "WSI.513.638.2024.AS.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2024 r., poz. 572) oraz art. 101c ust. 3 pkt 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2024 r. poz. 54 z późn. zm.)",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-01-24",
+        "reference": "WSI.515.16.2024.AS.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 104 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2024 r. poz. 572) [dalej Kpa], art. 101l ust. 4 oraz art. 101p ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2024 r. poz. 54 z późn. zm.)",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Murapol Real Estate S.A.",
+        "address": "ul. Dworkowa 4, 43-300 Bielsko-Biała",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-02-10",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Należy usunąć całą warstwę zanieczyszczonego gruntu w obrysie projektowanego garażu podziemnego i placu zabaw. Ponadto należy usunąć całą warstwę zanieczyszczonego gruntu poza obrysem garażu z głębokości 0,5 m. Dodatkowo, w miejscu projektowanych powierzchni biologicznie czynnych oraz placu zabaw, poza obrysem garażu podziemnego, należy nawieźć warstwę czystej ziemi o grubości min. 50 cm, spełniającej standardy jak dla grupy gruntów I, zgodnie z rozporządzeniem.",
+    "ecological_effect": "Należy przedłożyć dokumentację powykonawczą potwierdzającą przeprowadzenie remediacji, w tym karty przekazania odpadów oraz raport z badań wykonanych zgodnie z decyzją, w terminie do końca lutego 2027 r. do Regionalnego Dyrektora Ochrony Środowiska w Katowicach.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

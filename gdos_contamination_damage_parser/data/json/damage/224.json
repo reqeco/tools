@@ -1,0 +1,87 @@
+{
+  "registry_id": 224,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "gryfiński",
+    "municipality": "Gryfino",
+    "address": "droga publiczna NR 1353Z fragment do ul. Smoczej w Szczecinie",
+    "precinct": "4131",
+    "parcel_numbers": [
+      "15"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((207433.64096900000004098 619139.80420500005129725, 207451.98844600000302307 619121.36215699999593198, 207458.9067839999916032 619115.45362399995792657, 207461.41842999999062158 619110.41171400004532188, 207465.37628500000573695 619103.41808199998922646, 207477.47604899998987094 619081.47977600002195686, 207488.48194399999920279 619060.35018900001887232, 207505.4365690000122413 619019.84338900004513562, 207513.56243499999982305 619001.32771300000604242, 207521.3072589999937918 618985.82168000005185604, 207507.52674199998728 618981.98392399994190782, 207485.97101000000839122 619036.78045900003053248, 207469.68523900001309812 619069.92326199996750802, 207445.28440100001171231 619109.57022100000176579, 207387.45355800000834279 619159.02630000002682209, 207340.49513900000602007 619184.85959500004537404, 207299.11562399999820627 619205.87442500004544854, 207303.37529399999766611 619218.01404999999795109, 207367.88900600001215935 619183.49813700001686811, 207381.60629600001266226 619176.27612000005319715, 207403.51957400000537746 619162.99712499999441206, 207433.64096900000004098 619139.80420500005129725))",
+    "site_description": "droga publiczna NR 1353Z fragment do ul. Smoczej w Szczecinie, w kierunku stawu"
+  },
+  "occurrence_time": {
+    "date": "2011-04-04",
+    "from": null,
+    "to": null,
+    "description": "Migracja ropuchy szarej do miejsc rozrodu"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione",
+  "event_description": "szkoda w gatunku chronionym ropucha szara powstałej na skutek masowego rozjeżdżania osobników przez pojazdy poruszające się po drogach publicznych",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Zachodniopomorskie Towarzystwo Przyrodnicze",
+      "address": "ul. Wąska 13 Szczecin",
+      "legal_form": "Towarzystwo"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zarząd Powiatu w Gryfinie",
+      "address": "Gryfino Sprzymierzonych 4, 74-100",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "ropucha szara (Bufo bufo)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-03-02",
+    "detection_date": "2011-04-05",
+    "decisions": [
+      {
+        "issue_date": "2012-03-29",
+        "reference": "WSI.512.6.2012.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2012-04-16",
+        "reason": "naruszenie prawa materialnego i kpa",
+        "appealed_decision_reference": "WSI.512.6.2012.AS",
+        "resolution_reference": null,
+        "appellant_name": "Zarząd Powiatu Gryfinskiego",
+        "appellant_address": "Sprzymierzonych 4 Gryfino",
+        "resolution_date": "2012-07-19",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchylenie I akapitu decyzji i orzeczenie, utrzymanie pozostałej części decyzji w mocy"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "cykliczne co roku płotki i przenoszenie oraz liczenie płazów",
+    "ecological_effect": "brak znaczących zniszczeń w gatunku chronionym",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

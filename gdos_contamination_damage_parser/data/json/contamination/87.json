@@ -1,0 +1,84 @@
+{
+  "registry_id": 87,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0009,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "strzelecki",
+    "municipality": "Strzelce Opolskie",
+    "address": "47-100 Strzelce Opolskie, ul. Opolska 12",
+    "precinct": "Strzelce Opolskie",
+    "parcel_numbers": [
+      "dz. 3731"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((450047.7714630344 294083.2324527046,450044.1995808944 294067.35742095485,450051.21105324454 294065.63762584515,450051.74022097443 294064.8438742561,450054.9152273245 294063.78553880565,450055.0475192544 294062.7272033561,450080.5798619846 294057.30323417485,450075.6850605244 294078.0730673857,450047.7714630344 294083.2324527046))",
+    "site_description": "Strzelce Opolskie, ul. Opolska 12"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 30 kwietnia 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A. z siedzibą w Płocku",
+      "address": "09-411 Płock ul. Chemikow",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "S1 (gł. 1,8-2,0 m) - 6900 mg/kg                       S2 (gł. 1,8-2,0 m) - 7100 mg/kg",
+      "area_ha": 0.0009
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-09-16",
+    "legal_basis": "art. 101 l ust.2 ustawy Poś",
+    "case_reference": "WOOŚ.511.1.5.2015.KM",
+    "decisions": [
+      {
+        "issue_date": "2016-02-10",
+        "reference": "WOOŚ.511.1.5.2015.KM.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A. z siedzibą w Płocku",
+        "address": "09-411 Płock ul. Chemikow",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2016-03-01",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-12-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "3.1. W części dotyczącej obszaru nr 1 remediacja polegać będzie na przeprowadzeniu procesu samooczyszczania, przy wykorzystaniu procesu bioremediacji naturalnej polegającej na usuwaniu zanieczyszczeń przez rodzime mikroorganizmy. 3.2. W części dotyczącej obszaru nr 2:  3.2.1. Sczerpywać wolną fazę węglowodorów z powierzchni wód gruntowych  w otworze P-3 i przekazywać uprawnionemu podmiotowi.   3.2.2. Prowadzić monitoring jakości wód podziemnych w 4 istniejących otworach obserwacyjnych z częstotliwością 2 razy w roku (wiosną i jesienią) w zakresie substancji ropopochodnych oraz sumy węglowodorów aromatycznych BTEX. 3.2.3. Prowadzić monitoring jakości gleby i ziemi w rejonie otworu eksploatacyjnego P-3 z częstotliwością raz w roku w zakresie sumy benzyn (węglowodory C6-C12) oraz oleju mineralnego (węglowodory C12-C35), poprzez pobór próbki gruntu ze strefy wahań zwierciadła wody.  3.2.4. Sprawozdania z przeprowadzonych prac przekazywać organowi ochrony środowiska w ciągu dwóch miesięcy od daty wykonania analiz laboratoryjnych.",
+    "ecological_effect": "Wyniki badań laboratoryjnych wykazały, że w zakresie analizowanych substancji żadna z pobranych próbek wody podziemnej nie przekracza wartości granicznych stężeń dla klas wód podziemnych w odniesieniu do Rozporządzenia Ministra Środowiska z dnia 21 grudnia 2015 r. w sprawie kryteriów i sposobu oceny stanu jednolitych wód podziemnych”.] W związku z powyższym można uznać iż, teren podlegający remediacji uległ oczyszczeniu zgodnie z zakładanym planem. Pobrano 4 próbki gruntu - 3 próbki gruntu (P-1, P-2, P-4) pobrano z Obszaru 1 oraz jedną próbkę (P-3) z obszaru 2. Zakres analiz obejmował: suma benzyn, oleju mineralnego oraz BTEX . Wyniki analiz laboratoryjnych próbek gruntu pobranych ze strefie wahań zwierciadła wody zarówno w obszarze 1 oraz w obszarze 2 nie wskazują na przekroczenia obowiązujących norm.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

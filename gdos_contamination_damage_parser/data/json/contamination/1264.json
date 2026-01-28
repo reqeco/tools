@@ -1,0 +1,51 @@
+{
+  "registry_id": 1264,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.108,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "municipality": "Czeremcha",
+    "address": "17-240 Czeremcha",
+    "precinct": "Czeremcha",
+    "parcel_numbers": [
+      "200503_2.0003.1203"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((795186.1078392069 524286.0529246796,795230.5579337282 524324.1530010495,795194.0453565938 524364.3697480289,795149.5952621028 524329.9738457268,795149.5952621028 524329.9738457268,795155.4161077255 524322.0363298757,795186.1078392069 524286.0529246796))",
+    "site_description": "Grunty orne – teren biologicznie czynny w sąsiedztwie Nasycalni Podkładów w Czeremsze"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "200503_2.0003.1203"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

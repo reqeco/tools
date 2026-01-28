@@ -1,0 +1,119 @@
+{
+  "registry_id": 1312,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.35,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Giełdowa",
+    "precinct": "6-04-05",
+    "parcel_numbers": [
+      "32/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634838.2071073607 486776.69385939464,634856.4633938972 486689.91035249364,634900.3843151133 486699.6999554038,634882.3926124468 486786.21887844335,634838.2071073607 486776.69385939464))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "YAWA 33 Sp. z o.o.",
+      "address": "ul. Mokotowska 49, 00-542 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.35
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-10-20",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.69.2020.DŚc",
+    "decisions": [
+      {
+        "issue_date": "2021-01-20",
+        "reference": "WOOŚ-IV.515.69.2020.DŚc.3",
+        "issuing_authority": null,
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "YAWA 33 Sp. z o.o.",
+        "address": "ul. Mokotowska 49, 00-542 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-08-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-01-18",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

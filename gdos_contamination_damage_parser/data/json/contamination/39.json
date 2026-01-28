@@ -1,0 +1,183 @@
+{
+  "registry_id": 39,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.0,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul.Fabryczna 22, 32-540 Trzebinia",
+    "precinct": "14 Trzebionka",
+    "parcel_numbers": [
+      "120305_4.0014.2216",
+      "120305_4.0014.2200/2",
+      "120305_4.0014.2202",
+      "120305_4.0014.2205"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((531791.1949877206 254751.30412321538,531778.2303784607 254747.33536528517,531762.8845144407 254788.8750316957,531765.5303530608 254793.37295735534,531820.5637964607 254813.48133090418,531834.3221573108 254813.74591476656,531846.2284311209 254806.602150484,531851.5201083706 254796.01879598573,531856.0180340407 254721.9353144858,531852.5784438207 254716.6436372362,531847.2867665705 254713.7332147453,531805.7471001607 254702.35610865522,531791.1949877206 254751.30412321538), (531869.1281644306 254768.89895007573,531903.1271907607 254771.4124967642,531899.8198924807 254769.42811779585,531903.5240665508 254739.13326554466,531869.9219160207 254728.5499110464,531869.1281644306 254768.89895007573), (531835.4863263106 254893.78253318556,531830.0623571307 254893.91482511535,531806.2498095107 254887.3002285557,531808.7633562007 254877.9075014349,531779.6591313207 254870.8960290756,531788.5226907207 254841.52722033486,531795.0049953508 254843.37930737622,531803.8685547406 254811.49695194513,531822.7863009106 254817.8469646452,531831.2529845106 254820.09592747595,531834.4279908605 254824.06468541455,531849.9061468209 254848.80327655654,531849.2446871606 254854.75641346537,531841.7040470807 254887.03564468492,531839.0582084607 254891.26898648404,531835.4863263106 254893.78253318556)))",
+    "site_description": "Teren instalacji hydrorafinacji parafin eksploatowanej przez ORLEN POŁUDNIE S.A. Zakład Trzebinia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej"
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN Południe S.A.",
+      "address": "ul.Fabryczna 22, 32-540 Trzebinia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1325 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "653 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "21456-81183 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "fenantren",
+      "concentration": "73,2 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "283 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1234-3419 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "249-2756 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "26 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1198-52288 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "85-170 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "15 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "fenantren",
+      "concentration": "34 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "fluoranten",
+      "concentration": "19 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "23-118 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "14 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "22 [mg/kg s.m.]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": "ZS.516.6.2015.MK",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ORLEN Południe S.A.",
+        "address": "ul.Fabryczna 22, 32-540 Trzebinia",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Dane wpisane na podstawie raportu początkowego - brak okonturowania, brak badań na podstawie obowiązujących przepisów. Jako powierzchnię zanieczyszczenia podano przybliżoną powierzchnię całego zakładu."
+}

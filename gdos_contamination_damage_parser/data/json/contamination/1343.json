@@ -1,0 +1,147 @@
+{
+  "registry_id": 1343,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2866,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Białostocka",
+    "precinct": "4-14-03",
+    "parcel_numbers": [
+      "3/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638972.1446358528 489440.1934627127,639419.2913640596 489765.63161358424,639908.7715103318 490051.38218507543,639866.4380922788 490109.59063482564,639884.9589626734 490128.1115051955,639760.6045471468 490268.3409523284,638882.1861224964 489614.81881196424,638937.7487336926 489524.86029871274,638927.165379179 489511.6311055934,638961.5612813403 489464.00601034146,638972.1446358528 489440.1934627127))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Projekt Białostocka Sp. z o.o. Sp. k.",
+      "address": "Wileńska 14 m. 140 03-414 Warszawa",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.29
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-04-30",
+    "legal_basis": "art.13 ust.3 pkt.2",
+    "case_reference": "WOOS-IV.515.29.2020",
+    "decisions": [
+      {
+        "issue_date": "2020-10-20",
+        "reference": "WOOS-IV.515.29.2020.TM.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Projekt Białostocka Sp. z o.o. Sp. k.",
+        "address": "Wileńska 14 m. 140 03-414 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-10-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2020-11-25",
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i zgodnie z ustawą o zapobieganie szkodom w środowisku",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,148 @@
+{
+  "registry_id": 1427,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 4.0,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Irysowa",
+    "precinct": "Poświętne",
+    "parcel_numbers": [
+      "1/19",
+      "AM-2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((361411.41314100002637133 367975.16590000002179295, 361380.81528400001116097 368011.94518300000345334, 361373.9417080000275746 367999.74299599998630583, 361362.53243899997323751 367982.59425700001884252, 361317.02813099999912083 367917.14638099999865517, 361285.47664100001566112 367866.23355699999956414, 361273.06294600002001971 367849.46834199997829273, 361303.90066200000001118 367826.57690200000070035, 361329.09829699998954311 367811.61939200002234429, 361357.86910599999828264 367797.7229010000010021, 361527.20441200002096593 367745.16785199998412281, 361605.70758300001034513 367728.32586699997773394, 361613.32166999997571111 367735.43977499997708946, 361603.70507299999007955 367830.26711100002285093, 361603.35748100001364946 367834.11048199998913333, 361602.90346200001658872 367841.15417200000956655, 361602.70291599998017773 367847.72457999998005107, 361602.68732999998610467 367850.25389900000300258, 361602.72756199998548254 367853.21230700000887737, 361602.81734900001902133 367857.60953199997311458, 361603.39690900000277907 367867.14828000002307817, 361550.88848999998299405 367886.99859099998138845, 361411.41314100002637133 367975.16590000002179295))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "TAURON Dystrybucja S.A.",
+      "address": "ul. Powstańców Śląskich 20,  53-314 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "33.14.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,52 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,12-0,89 mg/kg s.m.",
+      "area_ha": 3.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,14  -  1,25 mg/kg s.m.",
+      "area_ha": 4.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,46  –  0,88 mg/kg s.m.",
+      "area_ha": 2.46
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,25 - 0,52 mg/kg s.m.",
+      "area_ha": 2.46
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,11 – 0,96 mg/kg s.m.",
+      "area_ha": 3.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,34 - 0,78 mg/kg s.m.",
+      "area_ha": 2.46
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,33 - 0,74mg/kg s.m.",
+      "area_ha": 2.46
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "509 i 928 mg/kg s.m.",
+      "area_ha": 0.99
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "45,4 - 135,0 mg/kg s.m.",
+      "area_ha": 2.99
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-05-10",
+    "legal_basis": "art. 61 §  4 w związku z art.101c ust. 3",
+    "case_reference": "WSI.513.11.2021.PB.1",
+    "decisions": [
+      {
+        "issue_date": "2021-08-11",
+        "reference": "WSI.513.11.2021.PB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TAURON Dystrybucja S.A.",
+        "address": "ul. Powstańców Śląskich 20,  53-314 Wrocław",
+        "economic_activity_code": "33.14.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

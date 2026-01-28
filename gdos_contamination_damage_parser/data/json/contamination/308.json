@@ -1,0 +1,123 @@
+{
+  "registry_id": 308,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.28,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "Kraków, ul. Kapelanka/Zielińskiego",
+    "precinct": null,
+    "parcel_numbers": [
+      "88/2",
+      "85/2",
+      "84/11",
+      "84/13",
+      "89/9 obręb 9 Podgórze"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((565863.49569999997038394 242383.62080000000423752, 565873.70860000001266599 242385.27370000100927427, 565880.39469999994616956 242386.84239999900455587, 565894.90260000003036112 242390.49970000100438483, 565897.57490000000689179 242387.02220000000670552, 565912.57750000001396984 242390.50290000101085752, 565928.41440000000875443 242394.1859000010008458, 565933.91559999994933605 242399.31159999998635612, 565941.74219999997876585 242398.9813000000140164, 565966.92229999997653067 242352.76860000001033768, 565972.35979999997653067 242339.35799999898881651, 565959.49970000004395843 242354.80939999999827705, 565948.50890000001527369 242345.61769999901298434, 565947.84849999996367842 242346.38979999898583628, 565937.39709999994374812 242337.96240000100806355, 565933.90509999997448176 242341.80780000099912286, 565923.16960000002291054 242332.79290000000037253, 565911.20530000003054738 242322.99540000001434237, 565882.67229999997653067 242358.89129999998840503, 565878.8715000000083819 242363.81799999999930151, 565872.18130000005476177 242372.48660000000381842, 565865.20050000003539026 242381.55710000000544824, 565863.49569999997038394 242383.62080000000423752))",
+    "site_description": "Teren, położony w bardzo bliskim sąsiedztwie skrzyżowania ulic o intensywnym nasileniu ruchu drogowego. W przeszłości stanowił własność prywatną. Obecnie planowana budowa kompleksu biurowego."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Ghelamco GP Sp. z o.o. Cann S.K.A.",
+      "address": "00-844 Warszawa, Plac Europejski 1",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,63 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,119 - 0,384  [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,313 - 4,438  [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,112 - 0,337  [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,139 - 0,349  [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,137 - 0,362  [mg/kg suchej masy]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-05-16",
+    "legal_basis": "art. 101l ustawy z dna 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-06-29",
+        "reference": "ZS.515.4.2017.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Ghelamco GP Sp. z o.o. Cann S.K.A.",
+        "address": "00-844 Warszawa, Plac Europejski 1",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2017-07-01",
+    "planned_end": "2017-08-31",
+    "actual_end": "2017-07-31",
+    "method": null,
+    "description": "Wydobycie gleby i ziemi niespełniających wartości dopuszczalnych substancji powodujących ryzyko ustalonych dla I grupy gruntów, ustalonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu przeprowadzenia oceny zanieczyszczenia powierzchni ziemi i przekazaniu ich stosownemu podmiotowi, posiadającemu uregulowany stan formalno-prawny w zakresie gospodarowania tego typu odpadami.",
+    "ecological_effect": "Osiągnięcie w glebie i w ziemi wartości dopuszczalnych substancji powodujących ryzyko.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

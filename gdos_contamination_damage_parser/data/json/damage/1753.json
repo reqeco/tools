@@ -1,0 +1,118 @@
+{
+  "registry_id": 1753,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "sieradzki",
+    "municipality": "Warta",
+    "address": "Rożdżały 11,  98-290 Warta",
+    "precinct": "Rożdżały",
+    "parcel_numbers": [
+      "339",
+      "340",
+      "344",
+      "345",
+      "346",
+      "347"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((487019.80724690994 429344.81025362853,486965.5675551001 429239.24129248783,487038.0635334199 429200.8766324306,487065.58025511994 429253.52882106975,487039.9156204599 429267.55176577903,487066.6385905701 429320.4685382778,487019.80724690994 429344.81025362853))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "sprzed kwietnia 2023 r."
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Gmina Warta)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "nieprawidłowe magazynowanie pojazdów wycofanych z eksploatacji m.in. przez stałe wydobywanie się z nich płynów eksploatacyjnych",
+  "total_area_ha": 0.7937,
+  "reporters": [
+    {
+      "name": "Wojewódzkiego Inspektoratu Ochrony Środowiska w Łodzi – Delegatura w Sieradzu",
+      "address": "P.O.W. 70/72  98-200 Łódź",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "45.32.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2,55 ± 0,59 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,212 ± 0,075 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,82 ± 0,69 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,73 ± 0,66 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,68 ± 0,64 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,91 ± 0,35 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,94 ± 0,36 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,02 ± 0,39  mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-06-15",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

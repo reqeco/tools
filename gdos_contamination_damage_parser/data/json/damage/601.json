@@ -1,0 +1,100 @@
+{
+  "registry_id": 601,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "municipality": "Wysokie",
+    "address": null,
+    "precinct": "0010 Józefin",
+    "parcel_numbers": [
+      "060915_2.0010.315/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((757703.6978319136 345407.3233597372,757729.8916353949 345407.9848194076,757734.389561244 345408.910862932,757715.8686902034 345462.0922192801,757710.7093046792 345462.4890950741,757703.6978319136 345407.3233597372))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 1293 w Wysokiem"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1974-01-01",
+    "to": "2013-04-08",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu środowiska gruntowego na terenie Stacji Paliw PKN ORLEN S.A. Nr 1293 w Wysokiem.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1269-13455 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "12922-102073 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "68,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "28125 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-07-25",
+    "detection_date": "2013-04-08",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2013-04-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach działań zapobiegawczych usunięto zanieczyszczone grunty, wykopy po wydobytych masach ziemnych wypełniono czystym gruntem.",
+    "ecological_effect": "Doprowadzenie gruntów na terenie stacji paliw do standardów jakości gleby i ziemi obowiązujących dla grupy C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

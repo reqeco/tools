@@ -1,0 +1,56 @@
+{
+  "registry_id": 1872,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "zduńskowolski",
+    "municipality": "Zduńska Wola (gmina wiejska)",
+    "address": "Janiszewice 3c Zduńska Wola",
+    "precinct": "0008 Janiszewice",
+    "parcel_numbers": [
+      "150/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((497425.1532166784 417570.5849251654,497516.84060965286 417556.83908530977,497509.7580276325 417497.5989288306,497624.8288562914 417470.8837196147,497615.1356249179 417383.8724800348,497417.64427632804 417405.4458332136,497409.85954264854 417427.66666242015,497425.1532166784 417570.5849251654))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2023-07-04",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna, osoba fizyczna, osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "bezpośrednie zagrożenie szkodą w uwagi na nielegalne składowanie odpadów niebezpiecznych",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektor Ochrony Środowiska w Łodzi, Delegatura w Sieradzu",
+      "address": "ul. P.O.W. 70/72 98-200 Sieradz",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Z.H.U. (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie sądowoadministracyjne w toku",
+    "initiation_date": "2024-01-24",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "wszczęcie postępowania w sprawie wydania decyzji zobowiązującej podmiot korzystający ze środowiska do przeprowadzenia działań zapobiegawczych, wpływ zgłoszenia z art. 11 ustawy szkodowej"
+}

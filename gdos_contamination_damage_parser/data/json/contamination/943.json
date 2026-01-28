@@ -1,0 +1,67 @@
+{
+  "registry_id": 943,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "warszawski zachodni",
+    "municipality": "Ożarów Mazowiecki",
+    "address": "ul. Lipowa 34  Józefów",
+    "precinct": "SHR Płochocin",
+    "parcel_numbers": [
+      "6/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((616049.477273942 482561.7787649203,616112.9774009689 482580.82880301774,616128.0586811354 482583.21005778015,616154.5170674059 482489.28278658725,616160.8670801085 482490.0765381772,616168.0108443911 482467.5869098576,616118.0044943598 482460.17856170796,616112.4482332479 482479.49318367895,616103.9815496441 482478.17026435863,616093.13361127 482509.920327859,616066.9398088788 482503.57031515986,616049.477273942 482561.7787649203))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Emsur Polska Sp. z o.o.",
+      "address": "ul. Lipowa 34 05-860 Józefów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Emsur Polska Sp. z o.o.",
+        "address": "ul. Lipowa 34 05-860 Józefów",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

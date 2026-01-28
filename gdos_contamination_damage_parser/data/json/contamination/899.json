@@ -1,0 +1,230 @@
+{
+  "registry_id": 899,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.43,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "choszczeński",
+    "municipality": "Drawno",
+    "address": "ul. Kolejowa 20, 73-220 Drawno",
+    "precinct": "Drawno",
+    "parcel_numbers": [
+      "303/3",
+      "303/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((284030.38012500002514571 599651.73858799994923174, 284023.04534000001149252 599634.77555899997241795, 284008.77569500001845881 599613.42360900004860014, 284007.22815600002650172 599617.84849700005725026, 284003.95688800001516938 599629.35428199998568743, 284002.8891169999842532 599632.68536999996285886, 284000.99233799998182803 599638.58058800001163036, 283996.26690400001825765 599650.31692400004249066, 283991.35636899998644367 599658.6369890000205487, 283985.63721399998757988 599666.29927600000519305, 283976.61717500002123415 599676.13429299998097122, 283966.96038100001169369 599685.01662799995392561, 283962.47221999999601394 599688.38288399996235967, 283960.57244600000558421 599689.8563459999859333, 283958.13218800001777709 599688.8037880000192672, 283951.19547600002260879 599697.29029799997806549, 283951.32375899999169633 599697.22670300002209842, 283953.24956999998539686 599699.92425999999977648, 283960.06581699999514967 599708.67830999998841435, 283964.87073700001928955 599714.89725000003818423, 283967.755133000027854 599718.60856500000227243, 283966.07804100000066683 599719.81572399998549372, 283969.63667400000849739 599724.38864300004206598, 283982.89949300000444055 599734.72402199998032302, 284002.32787400000961497 599735.82401900005061179, 284003.46984500001417473 599722.93686400004662573, 284008.84027500002412125 599710.65233700000680983, 284013.45302199997240677 599689.11503099999390543, 284018.13246599998092279 599685.07317500002682209, 284019.74617599998600781 599676.91488399996887892, 284022.90320699999574572 599668.8537040000082925, 284027.21523999999044463 599663.83166200004052371, 284030.38012500002514571 599651.73858799994923174))",
+    "site_description": "teren położony w m. Drawno przy drodze nr 175 w niedalekiej odległości od jeziora Dubie, teren po stacji paliw, dawniej Fabryka Maszyn Budowlanych BUMAR Choszczno"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Działalność ogrodów botanicznych i zoologicznych oraz obszarów i obiektów ochrony przyrody"
+  },
+  "land_holders": [
+    {
+      "name": "Drawieński Park Narodowy",
+      "address": "ul. Leśników 2, 73-220 Drawno",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "303/3",
+        "303/4"
+      ],
+      "economic_activity_code": "91.04.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "38 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,19 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,239 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,351 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,224 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,128 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,235 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,216 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "245 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "2880 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "322 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "31,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "537 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "246 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "13200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,56 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,92 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,401 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-09-17",
+    "legal_basis": "101l POŚ",
+    "case_reference": "WONS-NS.515.9.2020.AS",
+    "decisions": [
+      {
+        "issue_date": "2019-10-08",
+        "reference": "WONS-NS.513.14.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-11-20",
+        "reference": "WONS-NS.515.9.2020.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-03-02",
+        "reference": "WONS.515.3.2023.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Drawieński Park Narodowy",
+        "address": "ul. Leśników 2, 73-220 Drawno",
+        "economic_activity_code": "91.04.Z"
+      }
+    ],
+    "planned_start": "2021-06-01",
+    "planned_end": "2026-05-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Sposób przeprowadzenia remediacji powierzchni ziemi.                 1. Usunięcie zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i ziemi substancji powodującej ryzyko.                 2. Usunięcie zanieczyszczenia prowadzące do usunięcia znaczącego zagrożenia dla zdrowia ludzi i stanu środowiska, z uwzględnieniem obecnego i planowanego sposobu użytkowania terenu poprzez :     a) zmniejszenie ilości zanieczyszczeń;     b) przeprowadzenie samooczyszczania powierzchni ziemi wraz z działaniami wspomagającymi oraz kontrolowanie zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby ziemi w określonym czasie. Remediacja IN SITU Na zanieczyszczonym terenie zostanie zastosowana głównie remediacja metodą IN SITU, w ramach której zostanie wykonanych: - 37 otworów aplikacyjnych do głębokości 2-3 m w rejonie północnym;  - 31 otworów aplikacyjnych do głębokości ok 1,0 m w rejonie północnym i centralnym; - 2 otwory technologiczne do pompowania wody do głębokości ok. 7 m p.p.t.; - biocentrum w północnej części działki. Prace związane z remediacją IN SITU będą polegać na wykonaniu otworów aplikacyjnych zlokalizowanych w rejonie stwierdzonych zanieczyszczeń o głębokości dobranej do zalegania skażenia oraz otworów technologicznych do pompowania wody gruntowej w celu namnażania w niej biopreparatu. System będzie wyposażony w elementy do podczyszczania pompowanych wód składające się ze specjalnych filtrów – filtra węglowego i separatora substancji ropopochodnych - podczas prac demontażowych stacji oczyszczania zanieczyszczony węgiel z filtra węglowego zostanie wybrany i oddany do utylizacji jako odpad 06 13 02* - zużyty węgiel aktywny (z wyłączeniem 06 07 02).  Namnażanie biopreparatu będzie prowadzone w biocentrum w postaci zamykanego kontenera, do którego kierowane będą wody z otworów technologicznych pompujących wodę z warstwy wodonośnej, następnie prowadzone będzie podczyszczanie wód (wewnątrz kontenera w zbiornikach zostanie zamontowany odpowiedni filtr węglowy), następnie wody te będą kierowane do namnażalnika w celu wykonania biopreparatu. Z namnażalnika będzie prowadzony pasaż biopreparatu do zbiorników roboczych, gdzie będzie dochodzić do dalszego namnażania bakterii wraz z dozowaniem pożywek, a następnie tak przygotowany preparat będzie kierowany do gruntu za pomocą pomp i systemu rur kierujących je do otworów aplikacyjnych. Otwory aplikacyjne będą perforowane w celu umożliwienia aplikacji biopreparatu do zanieczyszczonych gruntów. Dodatkowo raz na rok przewiduje się zraszanie biopreparatem warstwy powierzchniowej gruntu bezpośrednio za pomocą węża ze zraszaczem. Projektowana minimalna ilość biopreparatu, jaką należy aplikować do gruntu w pojedynczym cyklu aplikacyjnym wynosi 4 m3 – raz w miesiącu (w kwietniu, maju, czerwcu, lipcu, sierpniu, wrześniu, październiku oraz listopadzie). Do procesu remediacji wykorzystany zostanie preparat bakteryjny posiadający atest PZH. Wyselekcjonowane i rozmnożone mikroorganizmy dostarczane będą do stanowiska oczyszczania z laboratorium, transportem samochodowym, w szczelnych pojemnikach plastikowych. Dostarczana zawiesina bakteryjna z laboratorium do stanowiska oczyszczania będzie  niepatogenna, nietoksyczna i niedrażniąca. Zawiesina nie będzie wykazywać również toksycznych produktów rozkładu czy tendencji polimeryzacji.  W celu zapewnienia optymalnego procesu bioremediacji skażeń, do środowiska wodnego aplikowane będą zestawy nawozów mineralnych w odpowiednich proporcjach. Główne składniki mineralne wchodzące w skład nawozu to: N, P, Ca, Mg, K.  Otwory przeznaczone do aplikacji biopreparatu będą również służyć do napowietrzania gruntu w celu lepszego rozrostu kolonii bakterii rozkładających substancje ropopochodne. Aplikacja biopreparatu będzie się odbywać częściowo w sposób zautomatyzowany za pomocą systemu pompującego, a częściowo wymagający obsługi pracownika (włączanie/wyłączanie systemu, kontrola prawidłowości działań, zraszanie warstwy powierzchniowej gruntu, wymiana filtrów, czyszczenie zbiorników). Planuje się wykonywanie aplikacji biopreparatu raz w miesiącu poprzez wszystkie otwory aplikacyjne. Monitoring po remediacji IN SITU oraz samooczyszczaniu Po wyznaczonym okresie remadiacji (5 lat) zostaną wykonane ponownie badania stanu zanieczyszczenia gruntów. W celu wykonania badań należy wykonać przynajmniej 9 otworów, z czego przynajmniej 4 w rejonie północnym zanieczyszczenia, oraz przynajmniej po 1 w rejonie punktów nr 9 i 14, 3, 5 i 1 w rejonie centralnym badanego obszaru.  W rejonie północnym sondy badawcze należy wykonać do głębokości 6 m p.p.t. z poborem próbek gruntów z przedziałów głębokościowych: 0,0-0,25 m, 1,0 – 3,0 m; 3,0 – 6,0 m. W rejonie sondy nr 9 i 14, należy pobrać próbki gruntu z głębokości 0,0-0,25 m oraz z głębokości 0,75 m. Z obszaru centralnego należy pobrać próbki z głębokości 0,0-0,25 m, 0,25-1,0 m oraz 1,0-2,0 m. Z każdego otworu należy pobrać po 3 próby gruntu i przebadać w zakresie zawartości substancji powodujących ryzyko, które na danym obszarze zidentyfikowano. W rejonie otworów 3, 9 i 5 należy dodatkowo zbadać zawartość metali ciężkich.  Z każdego otworu należy pobrać próbki z głębokości 0,0-0,25 m p.p.t. Badania warstwy powierzchniowej oraz metali ciężkich będą służyły określeniu, czy stężenie metali oraz zanieczyszczeń warstwy powierzchniowej nie zwiększa się i czy w związku z tym nie wystąpiło zagrożenie dla zdrowia ludzi i stanu środowiska. Jeśli takie zagrożenie zostanie wykluczone, uznaje się skuteczność procesu samooczyszczania i kontroli oraz grunty te należy pozostawić bez stosowania dodatkowych metod remediacji.  Monitoring należy wykonać nie później niż w ciągu 3 miesięcy od daty zakończenia remediacji. Wszystkie próbki kontrolne należy przebadać na zawartość substancji powodujących ryzyko oraz wodoprzepuszczalność dla próbek z głębokości >0,25 m p.p.t.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

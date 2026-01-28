@@ -1,0 +1,171 @@
+{
+  "registry_id": 846,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.301,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "ul. Chodkiewicza 9-11 85-065 Bydgoszcz",
+    "precinct": "0170",
+    "parcel_numbers": [
+      "2/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((434389.2875284481 586067.0138004608,434406.22089564835 586068.8658874892,434417.59800173866 586053.2554396084,434437.97095914895 585964.355261799,434436.9126236988 585948.7448139191,434429.23969168885 585953.7719072998,434406.22089564847 585916.2009988297,434387.9646091382 585927.5781049207,434393.52087024826 585968.3240197385,434388.75836072816 585988.432393291,434383.20209960797 586045.8470914615,434389.2875284481 586067.0138004608))",
+    "site_description": "teren dawnej cegielni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Przed drugą wojną światową"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": "Szkoły wyższe"
+  },
+  "land_holders": [
+    {
+      "name": "Akademia Muzyczna im. Feliksa Nowowiejskiego",
+      "address": "ul. Słowackiego 7 85-008 Bydgoszcz",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "2/1"
+      ],
+      "economic_activity_code": "85.42.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "28 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "33 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "940 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,20 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "3,9 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "4,5 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,1 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "4,5 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,2 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "3,0 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,99 mg/kg s.m.",
+      "area_ha": 0.301
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "3,3 mg/kg s.m.",
+      "area_ha": 0.301
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-06-29",
+    "legal_basis": "art. 101l Poś",
+    "case_reference": "WSS.515.4.2018.WK; WSS.515.10.2019.BW",
+    "decisions": [
+      {
+        "issue_date": "2018-08-27",
+        "reference": "WSS.515.4.2018.WK.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "NIE",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-12-17",
+        "reference": "WSS.515.10.2019.BW.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4, art. 154, 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Akademia Muzyczna im. Feliksa Nowowiejskiego",
+        "address": "ul. Słowackiego 7 85-008 Bydgoszcz",
+        "economic_activity_code": "85.42.B"
+      }
+    ],
+    "planned_start": "2019-03-01",
+    "planned_end": "2021-04-30",
+    "actual_end": "2022-03-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex situ - wybranie gleby i ziemi do całkowitego usunięcia zanieczyszczenia",
+    "ecological_effect": "uzyskanie jakości gruntów przewidzianych dla klasy I zgodnie z rozporządzeniem MŚ z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

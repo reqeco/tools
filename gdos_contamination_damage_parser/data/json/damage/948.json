@@ -1,0 +1,144 @@
+{
+  "registry_id": 948,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "suwalski",
+    "municipality": "Suwałki",
+    "address": "Krzywe 16-402 Suwałki",
+    "precinct": "Krzywe",
+    "parcel_numbers": [
+      "505/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((762418.881350816 698908.418352792,762462.8022755461 698955.24969655,762491.9065026944 698964.5101318052,762483.9689860413 698925.7485959232,762449.3084971005 698855.8984561376,762410.4146663933 698867.1432702187,762418.881350816 698908.418352792))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "prace na działce wykonano w 2010 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Na zasypanej materiałem ziemnym działce 505/1 stwierdzono występowania następujących gatunków chronionych: kumak nizinny (Bombina bombina), żaba moczarowa (Rana arvalis), żaba trawna (Rana temporaria), żaba jeziorkowa (Rana lessonae)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Klub Przyrodników",
+      "address": "ul. 1 Maja 22 66-200 Świebodzin",
+      "legal_form": "stowarzyszenie"
+    },
+    {
+      "name": "Centrum Ochrony Mokradeł",
+      "address": "(…)",
+      "legal_form": "stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "kumak nizinny (Bombina bombina)",
+    "żaba moczarowa (Rana arvalis)",
+    "żaba trawna (Rana temporaria)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "kumak nizinny (Bombina bombina) - siedlisko gatunku chronionego"
+    },
+    {
+      "natura_2000": null,
+      "other": "żaba moczarowa (Rana arvalis) - siedlisko gatunku chronionego"
+    },
+    {
+      "natura_2000": null,
+      "other": "żaba trawna (Rana temporaria) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-10-11",
+    "detection_date": "2010-08-18",
+    "decisions": [
+      {
+        "issue_date": "2013-02-25",
+        "reference": "WSI.512.1.2012.JB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-08-13",
+        "reference": "DOP-ks.512.1.2011.at.7",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-07-30",
+        "reference": "WPN.512.2.2014.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-08-28",
+        "reference": "WPN.512.2.2014.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2013-03-07",
+        "reason": "nienależycie prowadzone postępowanie, bezpodstawne nałożenie działań naprawczych",
+        "appealed_decision_reference": "WSI.512.1.2012.JB",
+        "resolution_reference": "DOP-ks.512.1.2011.at.7",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2013-08-13",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "- uchylenie punktu I zaskarżonej decyzji i nadanie nowego brzmienia I punktowi decyzji - uchylenie punktu II ppkt 2 zaskarżonej decyzji - w pozostałym zakresie utrzymanie w mocy zaskarżonej decyzji"
+      }
+    ]
+  },
+  "court_proceedings": {
+    "issue_date": "2013-10-18",
+    "case_number": "IV SA/Wa 2271/13",
+    "challenged_decision_reference": "DOP-ks.512.1.2011.at.7",
+    "ruling_type": "postanowienie",
+    "verdict": "wstrzymanie wykonania zaskarżonej decyzji",
+    "court": "Wojewódzki Sąd Administracyjny w Warszawie",
+    "cassation_appeal_to_nsa": null
+  },
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "działania naprawcze, o których mowa w § 2 rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie działań naprawczych",
+    "description": "podstawowe działania naprawcze: usunięcie całej warstwy nawiezionego żwiru i ziemi do poziomu gruntu macierzystego; wykonanie 2 oczek wodnych dla płazów o parametrach: - powierzchnia ok. 100m2 każde, - maks. głębokość 1m, - łagodne brzegi, - zróżnicowana głębokość, - owalny kształt. uzupełniające działania naprawcze: wykonanie po 1 oczku wodnym dla płazów na następujących działkach położonych na terenie Wigierskiego Parku Narodowego (nr 18 obręb Rosochaty Róg gm. Krasnopol; nr 680 (71f) obręb Leszczewek gm. Suwałki; nr 646 (67f) obręb  Leszczewek gm. Suwałki)",
+    "ecological_effect": "Na działce 505/1 należy odtworzyć warunki siedliskowe odpowiednie dla występowania gat. chronionych: kumak nizinny, żaba moczarowa, żaba trawna, ropucha szara, żaba jeziorkowa, kukułka krwista, wawrzynek wilczełyko. Pozostawienie jedynie rodzimego gruntu oraz stworzenie dwóch oczek na dz. 505/1 zapoczątkują naturalny proces mokradła. Wykonanie oczek wodnych służącym płazom jako miejsca rozrodu przyczyni się do wzmocnienia populacji płazów na terenie Wigierskiego Parku Narodowego. Oczekiwanym efektem działań naprawczych jest przywrócenie funkcji zniszczonego terenu jako siedliska dla wszystkich ww. gatunków chronionych. Potwierdzeniem skuteczności działań uzupełniających będzie zasiedlenie oczek wodnych przez co najmniej 1 gatunek płazów spośród ww.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

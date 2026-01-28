@@ -1,0 +1,63 @@
+{
+  "registry_id": 1546,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "częstochowski",
+    "municipality": "Konopiska",
+    "address": "ul. Przyrodnicza",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((501871.02775954001117498 312849.39816539600724354, 501798.53287370299221948 312867.29705001198453829, 501754.02973170799668878 312879.90086662798421457, 501771.93541915202513337 312962.5196278520161286, 501781.69045122602256015 313014.38686784502351657, 501815.45307199697708711 313027.91258054098580033, 501881.39472118200501427 313050.18824964697705582, 501882.49586078198626637 313038.48035791801521555, 501884.07869872299488634 313036.54012775898445398, 501888.87689033302012831 313032.17789562500547618, 501889.81618517497554421 313029.20697653101524338, 501891.98944046598626301 313019.92315131600480527, 501890.83144986198749393 313002.25934098899597302, 501891.2912738110171631 312997.08621513500111178, 501894.93301445501856506 312969.25361794902710244, 501897.62667655199766159 312945.22156357299536467, 501906.40461672801757231 312939.53634620597586036, 501916.01261776400497183 312944.99326242902316153, 501916.98132262699073181 312944.94020460901083425, 501938.07962770701851696 312927.98523748602019623, 501962.49388306302716956 312908.6568822999834083, 501965.37490597099531442 312905.89959906897274777, 501967.47773707198211923 312904.7218880609725602, 501972.84532520401990041 312888.49904437502846122, 501971.94481861998792738 312887.68170019501121715, 501969.32473464700160548 312883.8593852780177258, 501963.41348312702029943 312874.62477235100232065, 501953.5735867089824751 312860.13638019602512941, 501948.42484012199565768 312851.8608911230112426, 501942.85248385899467394 312831.45836480497382581, 501940.88009798101847991 312831.93473164597526193, 501938.47939633397618309 312832.51682285399874672, 501932.38575221598148346 312834.19815755600575358, 501871.02775954001117498 312849.39816539600724354)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2020-07-23",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "woda",
+  "event_description": "Zanieczyszczeniu wód rzeki Liskonopki (Rększowiczanki)  w rejonie ul. Przyrodniczej w miejscowości Hutki (gmina Konopiska).",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "P.P.H.U. HUR-POL Sebastian Huras",
+      "address": "Rudnik Wielki, ul. Słoneczna 24 42-260 Kamienica Polska",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2020-07-31",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-03-24",
+        "reference": "WSI.512.8.2020.MS2.28",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,140 @@
+{
+  "registry_id": 548,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.035,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "municipality": "Kędzierzyn-Koźle",
+    "address": "Kędzierzyn -Koźle przy ul. Mostowej 30H",
+    "precinct": "Azoty",
+    "parcel_numbers": [
+      "296/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((446946.3638980113 270574.60871189926,447002.7202607318 270485.1793663716,447070.4669587225 270527.645076314,447018.87310553185 270609.7983656088,446998.1032723318 270596.5691724885,446993.20847087173 270603.5806448376,446946.3638980113 270574.60871189926))",
+    "site_description": "Kędzierzyn -Koźle przy ul. Mostowej 30H"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja nawozów i związków azotowych",
+    "current": "DZIAŁALNOŚĆ ZWIĄZANA Z REKULTYWACJĄ I POZOSTAŁA DZIAŁALNOŚĆ USŁUGOWA ZWIĄZANA Z GOSPODARKĄ ODPADAMI"
+  },
+  "land_holders": [
+    {
+      "name": "Grupa Azoty Jednostka Ratownictwa Chemicznego Sp. z o.o.",
+      "address": "ul. E. Kwiatkowskiego 8 33-101 Tarnów",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": "39.00.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2100,0 - 16000,0 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "14,1 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "12,9 - 18,0 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "13,7 - 21,0 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "7,5 - 21,0 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,55- 10,0 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,8- 16,0 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,55- 10,08,1 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,18- 9,0 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-08-21",
+    "legal_basis": "art.101 l ust.2 POŚ",
+    "case_reference": "WOOŚ.515.16.2018.ER",
+    "decisions": [
+      {
+        "issue_date": "2018-11-09",
+        "reference": "WOOŚ.515.16.2018.ER.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Grupa Azoty Jednostka Ratownictwa Chemicznego Sp. z o.o.",
+        "address": "ul. E. Kwiatkowskiego 8 33-101 Tarnów",
+        "economic_activity_code": "39.00.Z"
+      }
+    ],
+    "planned_start": "2019-06-01",
+    "planned_end": "2019-12-31",
+    "actual_end": "2022-07-26",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja przedmiotowego terenu, polegać będzie na usunięciu (ex-situ), przez uprawniony podmiot,  zanieczyszczonych gruntów w następujących etapach: a)\tOznakowanie obszarów prac remediacyjnych b)\tZdjęcie i tymczasowe złożenie niezanieczyszczonej warstwy gruntu z powierzchni do głębokości 1,0 m p.p.t. poza obszarem gruntów zanieczyszczonych. c)\tUsunięcie zanieczyszczonych gruntów z interwału głębokościowego 1,0-3,0 m p.p.t.,  o łącznej powierzchni ok. 350 m2 i objętości ok. 700 m3. d)\tCzasowe zgromadzenie wydobytych zanieczyszczonych gruntów w pobliżu wykopu, na pryzmach, o objętości ok. 50 m3 każda, po uprzednim zabezpieczeniu powierzchni terenu pod pryzmami geomembraną przed wtórnym zanieczyszczeniem e)\tPobranie z pryzm, uśrednionych próbek gruntu do analizy na zawartość: •\tWWA (antracen, benzo(a)antracen, chryzen, benzo(b)fluoranten, benzo(k)fluoranten, benzo(a)piren, indeno(1,2,3-cd)piren, dibenzo(a,h)antracen, benzo(g,h,i)perylen), •\tsumy węglowodorów C12 – C35 składników frakcji oleju. f)\tPrzekazanie, do unieszkodliwienia  gruntów zanieczyszczonych, tj. takich, które wykazały zawartości WWA i/lub sumy węglowodorów C12 – C35 składników frakcji oleju w glebie i ziemi, w stężeniach wyższych niż wartości dopuszczalne, dla gruntów grupy IV. g)\tWykorzystanie gruntów, które na podstawie laboratoryjnych analiz chemicznych uznano za czyste, w trakcie pozostałych prac ziemnych. h)\tW celu potwierdzenia usunięcia zanieczyszczenia, pobranie z dna i ścian bocznych powstałych wykopów, próbek gruntu do analizy laboratoryjnej na zawartość substancji,  w celu potwierdzenia osiągnięcia zakładanego efektu ekologicznego. i)\tZasypanie czystym gruntem wykopów, powstałych w wyniku wydobycia  zanieczyszczonych gruntów. Zagęszczenie gruntu podczas zasypywania wykopów, tak, by jego parametry geotechniczne w wykopie były zbliżone do parametrów gruntów, znajdujących się w sąsiedztwie planowanych prac. j)\tWyrównanie i zagospodarowanie terenu po remediacji.",
+    "ecological_effect": "usunięcia zanieczyszczenia, pobranie z dna i ścian bocznych powstałych wykopów, próbek gruntu do analizy laboratoryjnej na zawartość substancji,  w celu potwierdzenia osiągnięcia zakładanego efektu ekologicznego.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

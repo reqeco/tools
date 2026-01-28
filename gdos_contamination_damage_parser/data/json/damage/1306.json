@@ -1,0 +1,66 @@
+{
+  "registry_id": 1306,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "kielecki",
+    "municipality": "Sitkówka-Nowiny",
+    "address": "ul. Perłowa w miejscowości Nowiny (funkcjonująca administracyjnie pod adresem Wola Murowana, ul. Składowa 5A, gm. Sitkówka-Nowiny)",
+    "precinct": "Wola Murowana",
+    "parcel_numbers": [
+      "46/8",
+      "46/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((608324.8349031745 329293.077681358,608325.8932386243 329212.9087710278,608390.7162849591 329222.16920620855,608464.2705987459 329225.3442125553,608409.237155334 329336.9986025365,608324.8349031745 329293.077681358))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2020-04-19",
+    "from": null,
+    "to": null,
+    "description": "Pożar magazynowanych odpadów niebezpiecznych na działce nr 46/8 (obręb Wola Murowana) gm. Sitkówka – Nowiny"
+  },
+  "land_surface_holder": null,
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Pożar magazynowanych odpadów niebezpiecznych na działce nr 46/8 (obręb Wola Murowana) gm. Sitkówka – Nowiny",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Kielecki",
+      "address": "Wrzosowa 44, 25-211 Kielce",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2020-04-30",
+    "detection_date": "2020-04-19",
+    "decisions": [
+      {
+        "issue_date": "2024-07-30",
+        "reference": "WPN-II.512.5.2020.IŁ.24, WSI.512.4.2020.IŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Kielcach",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

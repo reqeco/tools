@@ -1,0 +1,151 @@
+{
+  "registry_id": 1653,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "warszawski zachodni",
+    "municipality": "Ożarów Mazowiecki",
+    "address": "ul. Poznańska 16/18 05-850 Mory",
+    "precinct": "0011",
+    "parcel_numbers": [
+      "93",
+      "11/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((627459.2372614159 485016.4713289989,627545.4916006601 485027.58385121543,627571.4208191996 485031.8171930155,627574.595825553 485088.96730731614,627419.0205142878 485100.6089972686,627414.2580047626 485012.76715491805,627414.2580047626 485012.76715491805,627461.8831000379 485017.00049671717,627459.2372614159 485016.4713289989))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Dot. rozszczelnienia podziemnego zbiornika na olej opałowy",
+  "total_area_ha": 0.0524,
+  "reporters": [
+    {
+      "name": "PGD RG MOTORS Sp. z o.o.",
+      "address": "Al. Jerozolimskie 156 02-326 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PGD RG MOTORS Sp. z o.o.",
+      "address": "ul. Poznańska 16/18 05-850 Mory",
+      "economic_activity_code": "45.20.Z, 45.32.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-06-22",
+    "detection_date": "2021-11-26",
+    "decisions": [
+      {
+        "issue_date": "2023-06-05",
+        "reference": "WOOŚ-IV.515.57.2021.DŚc.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-04-30",
+        "reference": "WOOŚ-IV.511.57.2021.DŚc.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2023-06-26",
+        "reason": "według wnoszącego zawartości substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadzi remediacja określone w decyzji są niezgodne z założeniami przedstawionymi w projekcie planu remediacji",
+        "appealed_decision_reference": "WOOŚ-IV.515.57.2021.DŚc.3",
+        "resolution_reference": "DOA-WSzOP.511.2.2023.AP",
+        "appellant_name": "PGD RG Motors sp. z o. o.",
+        "appellant_address": "Aleje Jerozolimskie 156, 02-326 Warszawa",
+        "resolution_date": "2024-03-13",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "uchylenie decyzji RDOŚ w Warszawie w całości i przekazanie sprawy do ponownego rozpatrzenia organowi I instancji"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-07-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

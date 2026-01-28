@@ -1,0 +1,122 @@
+{
+  "registry_id": 273,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "biłgorajski",
+    "municipality": "Biłgoraj (gmina miejska)",
+    "address": "ul. Janowska 9",
+    "precinct": "0001 Biłgoraj",
+    "parcel_numbers": [
+      "060201_1.0001.AR_19.68/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((762641.7500895958 303992.02782466076,762708.4252259325 304012.13619827013,762768.750349113 303951.2819099482,762699.9585417896 303935.93604585715,762641.2209218502 303990.96948920935,762641.7500895958 303992.02782466076))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 1441 w Biłgoraju"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2009-10-26",
+    "description": "okres eksplantacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gruntu, wód gruntowych substancjami ropopochodnymi na terenie Stacji Paliw PKN ORLEN S.A. Nr 1441 w Biłgoraju przy ul. Janowskiej 9.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3367-4249 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "283-300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "54,6-281 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1166-11664 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "31,1-182 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-10-30",
+    "detection_date": "2009-10-26",
+    "decisions": [
+      {
+        "issue_date": "2012-09-27",
+        "reference": "WSI.511.7.2011.RSZ.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-10-15",
+    "planned_end": "2014-10-15",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach działań naprawczych w latach 2012-2015, wykonano pompowania oczyszczające oraz pobierano próbki wody podziemnej do analiz laboratoryjnych. Działania te były prowadzone przez ORLEN Eko Sp. z o.o. Każdorazowo z piezometru wypompowano ok. 110 dm3 zanieczyszczonej wody. Wypompowana zanieczyszczona woda była kierowana do separatora koalescencyjnego, a następnie po jej oczyszczeniu odprowadzana do bezodpływowego zbiornika odparowywalnego na terenie stacji.",
+    "ecological_effect": "Wody podziemne zostały przywrócone do stanu zgodnego z wartością graniczną stężeń substancji ropopochodnych dla III klasy wód podziemnych - wody zadowalającej jakości.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

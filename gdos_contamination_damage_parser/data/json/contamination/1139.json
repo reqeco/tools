@@ -1,0 +1,60 @@
+{
+  "registry_id": 1139,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "wejherowski",
+    "municipality": "Rumia",
+    "address": "ul. Grunwaldzka. 84-230 Rumia",
+    "precinct": "10",
+    "parcel_numbers": [
+      "102/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((459868.79286256374 746067.2254675273,459975.1555752938 745993.6711537484,459995.7931165639 746024.3628817983,459922.23880279384 746073.5754802283,459868.79286256374 746067.2254675273))",
+    "site_description": "Polski Koncern Naftowy Orlen Spółka Akcyjna"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": "Sprzedaż hurtowa paliw i produktów pochodnych"
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern Naftowy Orlen Spółka Akcyjna",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "102/5"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-13",
+    "legal_basis": "art. 61 par. 1 i 4 kpa, art. 103 c ust. 3",
+    "case_reference": "RDOŚ-Gd-WZS.513.151.2019.TW.1",
+    "decisions": [
+      {
+        "issue_date": "2019-08-12",
+        "reference": "RDOŚ-Gd-WZS.513.151.219.TW.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

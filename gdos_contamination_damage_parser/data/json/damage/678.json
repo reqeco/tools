@@ -1,0 +1,88 @@
+{
+  "registry_id": 678,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Wrotkowska 4",
+    "precinct": "0043 Wrotków",
+    "parcel_numbers": [
+      "066301_1.0043.AR_1.71/9",
+      "066301_1.0043.AR_1.82/5",
+      "066301_1.0043.AR_1.82/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((747973.9654795169 378651.0625217287,747946.7133407132 378637.5687447209,747947.7716761963 378635.5843657525,747879.3767453148 378598.41033302806,747902.660125988 378580.6832142519,747906.2320082472 378572.2165306546,747913.1111889088 378574.73007735703,747914.963276004 378569.5706920391,747947.2425083737 378590.8696929896,747964.1758761802 378603.96659419034,747962.5883729631 378608.5968117919,747990.8988472591 378625.1333032092,747973.8331875728 378651.1948136594,747973.9654795169 378651.0625217287))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 4340"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1975-01-01",
+    "to": "2013-08-02",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw PKN ORLEN S.A. Nr 4340 w Lublinie przy ul. Wrotkowskiej 4.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 04-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 04-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "588-4042 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "5593-19277 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-10-18",
+    "detection_date": "2013-08-02",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2013-08-09",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach działań zapobiegawczych usunięto zanieczyszczone grunty, wykopy po wydobytych masach ziemnych wypełniono czystym gruntem.",
+    "ecological_effect": "Doprowadzenie gruntów na terenie stacji paliw do standardów jakości gleby i ziemi obowiązujących dla grupy C",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

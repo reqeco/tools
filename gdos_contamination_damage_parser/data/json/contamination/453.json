@@ -1,0 +1,192 @@
+{
+  "registry_id": 453,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.2119,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Anny German",
+    "precinct": "7-03-04",
+    "parcel_numbers": [
+      "28/3",
+      "29/1",
+      "29/3",
+      "36/2",
+      "36/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634436.661288882 490251.6721690595,634534.2927342376 490084.4551679585,634608.1116319553 490128.90525685344,634600.7032837978 490138.1656920444,634614.4616446624 490145.83862405457,634563.9261268724 490228.9179568868,634501.4843352587 490251.4075851971,634436.661288882 490251.6721690595))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Miasto Stołeczne Warszawa",
+      "address": "Pl. Bankowy 3/5 00-950 Warszawa",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "28/3",
+        "29/1",
+        "29/3",
+        "36/2",
+        "36/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "32-86 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,15-0,16 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,7 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,41-9,5 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,41-8,7 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,15-14 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,24-3,5 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,3-4,9 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,41-8,5 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,14-1,1 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,24-3,3 [mg/kg]",
+      "area_ha": 1.1619
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "37 [mg/kg]",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "439 [mg/kg]",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,7 [mg/kg]",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "205-1740 [mg/kg]",
+      "area_ha": 0.05
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-06-01",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.89.2019",
+    "decisions": [
+      {
+        "issue_date": "2018-09-03",
+        "reference": "WSI.515.35.2018.MB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Miasto Stołeczne Warszawa",
+        "address": "Pl. Bankowy 3/5 00-950 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-09-03",
+    "planned_end": "2020-11-30",
+    "actual_end": "2019-09-17",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,144 @@
+{
+  "registry_id": 113,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "piotrkowski",
+    "municipality": "Rozprza",
+    "address": "Gieski",
+    "precinct": "0007",
+    "parcel_numbers": [
+      "53"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((538266.53000000002793968 379645.76000000000931323, 538458.27000000001862645 379105.96000000101048499, 538437.78000000002793968 379105.77000000001862645, 538249.94999999995343387 379634.77999999898020178, 538266.53000000002793968 379645.76000000000931323))",
+    "site_description": "działka rolna"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2010-06-01",
+    "to": null,
+    "description": "czerwiec 2010 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gleby w wyniku wylania ścieków/odpadów",
+  "total_area_ha": 0.0435,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska Delegatura w Piotrkowie Trybunalskim",
+      "address": "ul. Bawełniana 18 97-300 Piotrków Trybunalski",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PPHU (…)",
+      "address": "(…)",
+      "economic_activity_code": "38.11.Z, 38.12.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)piren",
+      "concentration": "0.065 mg/kg suchej masy",
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fluoranten",
+      "concentration": "0,131 mg/kg suchej masy",
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "15360 mg/kg suchej masy",
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fenantren",
+      "concentration": "0,135 mg/kg/suchej masy",
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fluoranten",
+      "concentration": "0,168 mg/kg suchej masy",
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,133 mg.kg suchej masy",
+      "area_ha": 0.0435
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-04-18",
+    "detection_date": "2010-06-01",
+    "decisions": [
+      {
+        "issue_date": "2012-08-30",
+        "reference": "WSI.510.9.2012.AR.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2011-11-10",
+        "reference": "WSI.510.1.2011.AR.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2012-03-20",
+        "reference": "DOP-ks.512.28.2011.at",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2011-11-22",
+        "reason": "Nie powiadomiono zobowiązanego o przesłaniu wyników badań do RDOŚ w Łodzi, zobowiązany nie uczestniczył w poborze prób gleby do badań przez WIOŚ, zobowiązany nie otrzymał również informacji o przedłużeniu terminu i nowym terminie załatwienia sprawy.",
+        "appealed_decision_reference": "WSI.510.1.2011.AR.8",
+        "resolution_reference": "DOP-ks.512.28.2011.at",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2012-03-20",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "uchylenie w całości zaskarżonej decyzji RDOŚ w Łodzi z 10.11.2011, znak: WSI.510.1.2011.AR.8 i przekazanie sprawy do ponownego rozpatrzenia"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięcie zanieczyszczonej gleby do głębokości 0,3 m ppt",
+    "ecological_effect": "doprowadzono glebę do standardów dla grupy B zgodnie z Rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi w zakresie przekroczonych wskaźników: WWA, antracen, fluoranten, piren, benzo(a)antracen+chryzen, benzo(b)fluoranten, benzo(k)fluoranten, benzo(a)piren, dibenzo(a,h,)antracen, benzo (g,h,i)perylen, fenantren",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

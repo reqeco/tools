@@ -1,0 +1,95 @@
+{
+  "registry_id": 9,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "lidzbarski",
+    "municipality": "Lidzbark Warmiński (gmina miejska)",
+    "address": "Lidzbark Warmiński",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;LINESTRING(603474.834438263 697272.1694176923,603385.405092716 697106.5399197619)",
+    "site_description": "rzeka Łyna i rzeka Symsarna w granicach gminy Lidzbark Warmiński"
+  },
+  "occurrence_time": {
+    "date": "2010-08-31",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "Bezpośrednie zagrożenie szkodą w środowisku w wodach rzeki Łyny i Symsarny, do którego miało dojść w następstwie odprowadzania przez PWiK Sp. z.o.o. i POLMLEK Sp. z.o.o. ścieków komunalnych i przemysłowych do wód powierzchniowych.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Fundacja Wspierania Inicjatyw Ekologicznych",
+      "address": "ul. Czysta 17/4, 31-121 Kraków",
+      "legal_form": "Fundacja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiębiorstwo Wodociągów i Kanalizacji Sp.zo.o.",
+      "address": "Lidzbark Warmiński, ul. Piłsudskiego 18, 11-100 Lidzbark Warmiński",
+      "economic_activity_code": "37.00.Z"
+    },
+    {
+      "name": "POLMLEK Sp. z o.o. Zakład Mleczarski w Lidzbarku Warmińskim",
+      "address": "ul. Topolowa 1, 11-100 Lidzbark Warmiński",
+      "economic_activity_code": "10.51.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym, w stanie ekologicznym",
+      "substance": "Azot Kjeldahla"
+    },
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym, w stanie ekologicznym",
+      "substance": "Fosforany"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2011-11-19",
+    "detection_date": "2010-08-31",
+    "decisions": [
+      {
+        "issue_date": "2011-02-11",
+        "reference": "WSI.512.2-1.2011.JK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2011-02-11",
+        "reference": "WSI.512.2-2.2011.JK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Działania zapobiegawcze będą polegały na: 1. Prowadzeniu kontroli jakości oczyszczonych ścieków przemysłowych i komunalnych odprowadzanych do Łyny, zgodnie z rozporządzeniem Ministra środowiska z dnia 24 lipca 2006 r. w sprawie warunków jakie należy spełniać przy wprowadzaniu ścieków do wód lub do ziemi oraz w sprawie substancji szczególnie szkodliwych dla środowiska wodnego; 2. Kontrolowaniu jakości wód odbiornika - rzeki Łyny na wysokości 50 m oraz powyżej 50 m poniżej miejsca zrzutu ścieków; 3. Utrzymywaniu wylotu ścieków we właściwym stanie technicznym; 4. Zapobieganie przedostawania się drobnych odpadów produktu do głównego strumienia ścieków; 5. W przypadku wystąpienia awarii należy wykonać czynności zapobiegające ujemnym skutkom dla środowiska wodnego; 6.Prowadzeniu działalności produkcyjnej w sposób minimalizujący zużycie wody, a tym samym ilość wytwarzanych ścieków; 7.Prowadzeniu ciśnieniowego czyszczenia sieci kanalizacyjnej, w szczególności w miejscach, gdzie dochodzi do zatorów i wycieku ścieków komunalnych ze studzienek rewizyjnych; 8.Prowadzeniu bieżącego monitoringu pracy przepompowni ścieków, w szczególności w rejonie Ogródków Działkowych im. Mikołaja Kopernika w Lidzbarku Warmińskim; Zintensyfikowaniu działań zmierzających do modernizowania przepompowni \"Ornecka\" wraz z przebudową kanału tłocznego i dopływem ścieków z osiedla Ornecka.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

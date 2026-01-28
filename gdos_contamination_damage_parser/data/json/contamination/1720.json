@@ -1,0 +1,92 @@
+{
+  "registry_id": 1720,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0015,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Kopalniana (Bemowo)",
+    "precinct": "6-13-10",
+    "parcel_numbers": [
+      "8/15",
+      "8/18"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628980.3070378375 485638.3879425721,628977.5289072748 485626.6139606936,629039.7061150143 485614.4431030117,629046.8498792998 485605.1826678198,629046.8498793 485614.97227074206,629049.0988421418 485614.1785191512,629049.4957179321 485617.8826932218,629048.8342582718 485624.23270592187,628980.3070378375 485638.3879425721))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska sp. z o.o.",
+      "address": "ul. Armii Ludowej 14, 00-638 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dieldryna",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-07-25",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.36.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2022-09-21",
+        "reference": "WOOŚ-IV.515.36.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska sp. z o.o.",
+        "address": "ul. Armii Ludowej 14, 00-638 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-09-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-11-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

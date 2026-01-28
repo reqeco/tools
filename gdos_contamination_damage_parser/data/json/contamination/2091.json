@@ -1,0 +1,309 @@
+{
+  "registry_id": 2091,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 9.1977,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "Osobowickie Pola Irygacyjne",
+    "precinct": "Świniary, Rędzin",
+    "parcel_numbers": [
+      "29",
+      "11",
+      "obręb Świniary",
+      "AM-23",
+      "1",
+      "2",
+      "obręb Rędzin",
+      "AM-29",
+      "1",
+      "3",
+      "10",
+      "obręb Rędzin",
+      "AM-30",
+      "1",
+      "obręb Rędzin",
+      "AM-30"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((358331.6553916425 369529.90891847294,358297.76084709284 369594.1178048039,358265.5458309209 369655.39486377034,358299.11968853243 369665.3545647925,358414.864908727 369707.6449189633,358410.55547000363 369718.59974953067,358420.68312392343 369722.3606342524,358433.0508516868 369734.2682055887,358469.3816654091 369744.81018247735,358484.1170829503 369743.38017307874,358497.6978060079 369743.04549488425,358512.4472213597 369744.1144259842,358523.0661828177 369745.7793533411,358534.05102232477 369741.2714492623,358541.8084816082 369731.7292119032,358547.8819756637 369732.8761702487,358552.28509527975 369747.18128015194,358555.5353411064 369767.8598599704,358562.6101576489 369762.515451042,358577.2979763582 369761.9957723906,358577.34134941216 369763.71458420437,358590.30729484395 369763.74814284407,358590.3028128678 369761.94882988185,358624.9019824099 369763.5074911658,358621.0821245494 369737.6984499339,358622.66908163903 369722.0822903747,358634.0110268605 369711.49164523184,358656.5761879049 369717.5924761044,358683.1504553287 369739.1633691164,358704.701534029 369766.2506909901,358720.39309645037 369766.76699357666,358795.5094420905 369761.80660078954,358805.14244874264 369745.37124754675,358822.74222398817 369729.63724592887,358842.06115899445 369732.99320212007,358851.9141061236 369764.32821524143,358884.98379965144 369767.35717520025,358903.78505822725 369767.9311433537,358965.0627059576 369764.91837841924,359012.6854338643 369747.96627891157,359024.78639933455 369744.6727678813,359010.0279991179 369728.979059075,358994.71175820136 369705.345708088,358999.55818593944 369694.1836540336,359016.6669806696 369682.7748319274,359011.83203881833 369631.5784714017,358961.8421144041 369633.9778445279,358818.1962503905 369632.07308808435,358784.08056816424 369632.98697959445,358746.88285974215 369632.2033992233,358730.26858172007 369635.13844666723,358680.02857911994 369632.3830184182,358632.5149615464 369623.55260614306,358580.2889967585 369622.5136020705,358532.3823720752 369617.127337073,358471.3967611712 369601.19270366617,358450.48795967724 369583.843239611,358364.9486778737 369550.1088842582,358331.6553916425 369529.90891847294)))",
+    "site_description": "Osobowickie Pola Irygacyjne"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Wrocław",
+      "address": "plac Nowy Targ 1/8 50 - 141 Wrocław",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "Zarząd Dróg i Utrzymania Miasta we Wrocławiu",
+      "address": "ul. Długa 49 53-633 Wrocław",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II-1",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "11,42-17,3 mg/kg s.m.",
+      "area_ha": 0.5391
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "442 mg/kg s.m.",
+      "area_ha": 0.486
+    },
+    {
+      "soil_group": "II-1",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "341,8 mg/kg s.m.",
+      "area_ha": 5.3015
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "526,4-1795 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-3",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1160-1982 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-1",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,18 mg/kg s.m.",
+      "area_ha": 4.6132
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "47,83 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-3",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "7,66-46 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "933,4 mg/kg s.m.",
+      "area_ha": 1.1259
+    },
+    {
+      "soil_group": "II-3",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "598,2-742 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "285,5-305,3 mg/kg s.m.",
+      "area_ha": 2.4735
+    },
+    {
+      "soil_group": "II-3",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "501,2-738,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "6,26-6,7 mg/kg s.m.",
+      "area_ha": 3.4265
+    },
+    {
+      "soil_group": "II-3",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "5,18-16,63 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "52,2-2337 mg/kg s.m.",
+      "area_ha": 7.662
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,188-0,267 mg/kg s.m.",
+      "area_ha": 0.1869
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,202-1,47 mg/kg s.m.",
+      "area_ha": 4.8678
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,101-2,35 mg/kg s.m.",
+      "area_ha": 3.4638
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,102-2,55 mg/kg s.m.",
+      "area_ha": 5.6154
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,115-2,96 mg/kg s.m.",
+      "area_ha": 6.6978
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,103-1,88 mg/kg s.m.",
+      "area_ha": 6.0989
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,22-0,87 mg/kg s.m.",
+      "area_ha": 2.8088
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,28-1,84 mg/kg s.m.",
+      "area_ha": 4.8222
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,274-2,52 mg/kg s.m.",
+      "area_ha": 4.8667
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,287-2,45 mg/kg s.m.",
+      "area_ha": 4.9717
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "871,1-1064 mg/kg s.m.",
+      "area_ha": 3.1725
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "922,4-1614 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,12-10,28 mg/kg s.m.",
+      "area_ha": 3.1725
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,04-8,93 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-06-07",
+    "legal_basis": "art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.515.8.2024.KMA",
+    "decisions": [
+      {
+        "issue_date": "2025-03-28",
+        "reference": "WSI.515.8.2024.KMA.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 104 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego,art. 101l ust. 4 i  art. 101p ust. 2ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska,",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Wrocław",
+        "address": "plac Nowy Targ 1/8 50 - 141 Wrocław",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Zarząd Dróg i Utrzymania Miasta we Wrocławiu",
+        "address": "ul. Długa 49 53-633 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2026-03-01",
+    "planned_end": "2031-04-11",
+    "actual_end": null,
+    "method": null,
+    "description": "Prace remediacyjne będą prowadzone metodą ex situ poprzez wydobycie zanieczyszczonego gruntu z powierzchni ok. 8,1675 ha do głębokości ok. 0,25 m ppt oraz ok. 0,4434 ha do głębokości ok. 1 m ppt. Prace będą prowadzone do osiągnięcia efektu ekologicznego tj. do usunięcia zanieczyszczenia przynajmniej do dopuszczalnej wartości w glebie i ziemi substancji powodującej ryzyko. Powstały odpad, w postaci zanieczyszczonego gruntu, należy przekazać uprawnionemu podmiotowi.  W przypadku wydobywania gruntu metodą na odkład miejsce odkładania zanieczyszczonego gruntu zabezpieczyć przed wtórnym zanieczyszczeniem. W strefach remediacyjnych: 2B-1, 2B-2, 2B-3, 3, po usunięciu zanieczyszczonego gruntu, wykonane zostaną pokrywy ochronne, o miąższości ok. 0,25 m ppt, z gruntu spełniającego wymagania w zakresie substancji powodujących ryzyko określone dla grupy gruntów II-1.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Powiązane ze wpisem 2146. Wskazane powierzchnie zanieczyszczenia poszczególnymi substancjami dotyczą konkretnej substancji bez podziału na podgrupę gruntów w warstwie powierzchniowej i wodoprzepuszczalność w warstwie wgłębnej."
+}

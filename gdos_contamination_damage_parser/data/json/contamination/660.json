@@ -1,0 +1,60 @@
+{
+  "registry_id": 660,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Cedry Wielkie",
+    "address": "ul.Łokietka 7\tWocławy \t83-021",
+    "precinct": "0013",
+    "parcel_numbers": [
+      "127/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((485008.54 713766.94,485002.49 713832.08,485113.18 713840.77,485109.84 713778.44,485009.26 713767.27,485008.54 713766.94))",
+    "site_description": "magazyn i była stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "127/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-21",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.87.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-08",
+        "reference": "RDOŚ-Gd-WZS.513.87.2019.LK.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

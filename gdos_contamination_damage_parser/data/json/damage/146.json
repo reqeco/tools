@@ -1,0 +1,61 @@
+{
+  "registry_id": 146,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Władysławowo",
+    "address": "Władysławowo Kemping \"POLARIS\"",
+    "precinct": "0010 Władysławowo",
+    "parcel_numbers": [
+      "49/3 obręb 10 Władysławowo"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((466528.1217509082 767461.0340781519,467031.88942510844 767105.9625346716,467111.7937515883 767046.6957494738,467068.4019981384 766982.6664547529,467011.7810515584 767032.408220903,466906.4766742883 767079.5041484237,466733.96799593826 767113.9000505516,466708.56794513814 767132.9500886528,466456.154940308 767371.6047326317,466528.1217509082 767461.0340781519))",
+    "site_description": "Teren kampingu ''POLARIS''"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2009-03-20",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "zniszczenie siedlisk przyrodniczych na skutek nadbudowy brzegu zatokowego obcym materiałem ziemnym przez zarządcę kempingu \"POLARIS\" położonego na dz. Nr 49/3 obręb Władysławowo",
+  "total_area_ha": 8.36,
+  "reporters": [
+    {
+      "name": "Dyrektor Nadmorskiego Parku Krajobrazowego",
+      "address": "ul. Ks. Merkleina 1, 84-120 Władysławowo",
+      "legal_form": "Skarb Państwa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Kemping \"POLARIS\"- K.L. Budzisz",
+      "address": "Krystyna Budzisz zam. ul. Sztormowa 3, 84-120 Władysławowo, Leszek Budzisz zam. ul. Kaperska 14, 84-120 Władysławowo",
+      "economic_activity_code": "55.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Solniska nadmorskie (Glauco-Puccinellietalia Maritimae, część - zbiorowiska nadmorskie)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2009-04-28",
+    "detection_date": "2009-03-20",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

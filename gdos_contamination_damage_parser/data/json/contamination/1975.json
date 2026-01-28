@@ -1,0 +1,58 @@
+{
+  "registry_id": 1975,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Puck (gmina miejska)",
+    "address": "ul. Asnyka 4, 84-100 Puck",
+    "precinct": "Puck 2,5",
+    "parcel_numbers": [
+      "41"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((461536.9282228953 761199.9816701422,461479.77810859506 761146.5357299112,461542.74906786514 761087.2689447133,461590.9033308453 761127.4856918128,461589.31582766527 761167.7024389124,461551.7449191953 761186.7524770135,461537.9865583452 761198.3941669632,461536.9282228953 761199.9816701422))",
+    "site_description": "działka po byłej bazie PKS"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "2005 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Puckie Hospicjum p.w. Św. Ojca Pio.",
+      "address": "ul. Dziedzictwa Jana Pawła II 12, 84-100 Puck",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2023-10-12",
+    "legal_basis": null,
+    "case_reference": "RDOŚ-Gd-WZS.513.4.2023.AK.",
+    "decisions": [
+      {
+        "issue_date": "2024-03-08",
+        "reference": "RDOŚ-Gd-WZS.513.4.2023.AK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "na podstawie art. 104 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r., poz. 775, ze zm.), zwanej dalej k.p.a., w związku z art. 101c ust. 3 i ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2024 r., poz. 54",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

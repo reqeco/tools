@@ -1,0 +1,282 @@
+{
+  "registry_id": 1039,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 5.1061,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. J. H. Dąbrowskiego 81/85, 60-529 Poznań",
+    "precinct": "0021 Jeżyce",
+    "parcel_numbers": [
+      "29/2",
+      "33",
+      "34",
+      "35",
+      "38",
+      "39",
+      "40",
+      "41/2",
+      "48",
+      "50/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((357267.7745860951 507648.693970616,357201.0994526525 507462.95609913487,357247.6662125236 507441.2602224136,357278.35794061655 507520.63538116496,357389.48316303524 507482.53530496545,357427.5832392877 507588.3688499676,357267.7745860951 507648.693970616))",
+    "site_description": "teren zakładu Wiepofama"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "od prawie 100 lat na tym terenie prowadzona była produkcja obrabiarek zespołowych, obrabiarek specjalnych, urządzeń specjalnych"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Wiepofama Development Sp. z o.o. Sp. k.",
+      "address": "ul. J. H. Dąbrowskiego 81/85, 60-529 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "747 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "712 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "3000 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "140 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,221 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,09 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "3,56 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "4,27 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "3,48 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,35 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,28 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "2,93 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,82 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "2,52 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "9520 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "2290 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "3998 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "570 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "25 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "25 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "10,1 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "6,53 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "6,6 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,24 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "7,0 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,73 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "11,3 mg/kg s.m.",
+      "area_ha": 5.1061
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,11 mg/kg s.m.",
+      "area_ha": 5.1061
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-02-24",
+    "legal_basis": "art. 101l ust. 4 POŚ",
+    "case_reference": "WSS.515.8.2020.ASB",
+    "decisions": [
+      {
+        "issue_date": "2020-04-24",
+        "reference": "WSS.515.8.2020.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Wiepofama Development Sp. z o.o. Sp. k.",
+        "address": "ul. J. H. Dąbrowskiego 81/85, 60-529 Poznań",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-05-01",
+    "planned_end": "2020-08-31",
+    "actual_end": "2020-07-31",
+    "method": null,
+    "description": "Remediacja miała być prowadzona metodą ex-situ. Z wyznaczonych do remediacji obszarów miał być usunięty zanieczyszczony grunt z przedziałów głębokości, na których występuje zanieczyszczenie. W pierwszym etapie prace miały objąć części działek: 29/2, 33, 34, 35, 38, 39, 40, 41/2, o łącznej powierzchni 6.330 m2. Wybranie gruntu miało nastąpić z przedziału od 0,25 do 6,7 m ppt do głębokości występowania zanieczyszczenia metalami ciężkimi, tj. ołowiu, cynku i miedzi, a także WWA oraz oleju mineralnego. Z ww. wykopu miały być pobierane próbki gruntu, tj. co najmniej 5 z dna i po jednej ze ścian i poddane analizie na zawartość substancji, których obecność spowodowała obowiązek remediacji. W drugim etapie prace miały objąć części działek: 39, 48, 41/2 i 50/2, o łącznej powierzchni 1.705 m2. Wybranie gruntu miało nastąpić z przedziału od 0,25 do 1,0 m ppt do głębokości występowania zanieczyszczenia, tj. ołowiu. Z ww. wykopu miały być pobrane próbki gruntu, tj. co najmniej 1 z dna i po jednej ze ścian i poddane analizie na zawartość ołowiu. W trzecim etapie prace miały objąć części działek: 40, 41/2, o łącznej powierzchni 175 m2. Wybranie gruntu miało nastąpić z przedziału od 0,25 do 6,7 m ppt do głębokości występowania zanieczyszczenia metalami ciężkimi, tj. ołowiu, cynku i miedzi. Z ww. wykopu miały być pobrane próbki gruntu, tj. co najmniej 1 z dna i po jednej ze ścian i poddane analizie na zawartość substancji, których obecność spowodowała obowiązek remediacji. Po uzyskaniu wyników wskazujących na spełnianie wymagań jakości gleby i ziemi, wykopy miały być zagospodarowane zgodnie z planami inwestycyjnymi. Zagospodarowanie powstałych odpadów należało prowadzić zgodnie z przepisami o odpadach.",
+    "ecological_effect": "Sposób remediacji terenu przebiegał w ramach ustalonego planu remediacji. Wykopy nie zostały zasypane, co łączy się z zakresem planowanej inwestycji budowlanej i jest zgodne z treścią decyzji. Prace remediacyjne w całości obejmowały teren działek wyznaczonych w decyzji Regionalnego Dyrektora zamykając się w granicach terenu wyznaczonego do remediacji. Wykonane prace i wyniki analiz próbek gleby i ziemi pobranych z dna i ścian wykopów, pozwalają na stwierdzenie, że remediację przedmiotowego terenu polegającą na usunięciu zanieczyszczenia, można uznać za zakończoną.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

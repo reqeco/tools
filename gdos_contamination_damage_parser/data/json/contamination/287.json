@@ -1,0 +1,133 @@
+{
+  "registry_id": 287,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.38,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Tamka Warszawa",
+    "precinct": "5-04-05",
+    "parcel_numbers": [
+      "117"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638042.7276954101 487576.0678584799,638045.9027017631 487549.87405608874,638060.7193980811 487553.04906243924,638076.32984599 487557.9438638976,638108.2122014588 487569.3209699774,638102.7882322732 487600.14498997014,638080.5631877964 487596.043940098,638082.4152748383 487586.2543371776,638059.925646491 487581.2272437988,638042.7276954101 487576.0678584799))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "STRABAG Sp. zo.o.",
+      "address": "ul. Parzniewska 10 , 05-800 Pruszków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "78",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,270",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,284",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,350",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,355",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,204",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1530",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "180",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-04-27",
+    "legal_basis": "61§1 Kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.17.2017",
+    "decisions": [
+      {
+        "issue_date": "2017-06-23",
+        "reference": "WSI.515.17.2017.ES.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "STRABAG Sp. zo.o.",
+        "address": "ul. Parzniewska 10 , 05-800 Pruszków",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2017-07-10",
+    "planned_end": "2017-10-31",
+    "actual_end": "2017-08-17",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

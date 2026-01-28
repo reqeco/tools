@@ -1,0 +1,58 @@
+{
+  "registry_id": 1154,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "Gdynia",
+    "precinct": "0026 Gdynia Śródmieście",
+    "parcel_numbers": [
+      "439"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((467871.39636781864 741716.1438487321,467962.4132165186 741661.6395730618,467947.0673524887 741638.3561931634,467921.13813396863 741635.710354534,467906.8506053887 741637.297857712,467888.3297350187 741639.943696334,467851.8171619886 741684.3937852317,467871.9255355387 741716.1438487321,467871.39636781864 741716.1438487321))",
+    "site_description": "teren dawnej Stoczni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja statków i konstrukcji pływających",
+    "current": "Pozostałe badania i analizy techniczne"
+  },
+  "land_holders": [
+    {
+      "name": "MAKROMOR s.c. E i G Pyrłowscy",
+      "address": "ul. Dembińskiego 88, 81-237 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.54.A"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-29",
+    "legal_basis": "art. 61 par. 1  i par. 4 kpa, art. 103 c ust. 3 pkt. 1 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.169.2019.TW.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-15",
+        "reference": "RDOŚ-Gd-WZS.513.169.2019.TW.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

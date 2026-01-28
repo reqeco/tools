@@ -1,0 +1,161 @@
+{
+  "registry_id": 156,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.41,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "międzychodzki",
+    "municipality": "Międzychód",
+    "address": "64-400 Międzychód, ul. Przemysłowa 2",
+    "precinct": null,
+    "parcel_numbers": [
+      "12/12 (obręb Bielsko",
+      "ark.1)"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((291471.91883986315 532412.0259728786,291457.7636030527 532343.3664605599,291521.6606068198 532327.4914287999,291510.4157924452 532413.2166002495,291471.91883986315 532412.0259728786))",
+    "site_description": "Teren bazy paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1996-01-01",
+    "to": "2007-04-30",
+    "description": "Analizy gruntu wykonane w marcu 2004 r. wykazaly obecność substancji ropopochodnych. W 1996 r. miała miejsce awaria, w wyniku której ok. 70 Mg benzyny bezołowiowej przedostało się do środowiska gruntowo-wodnego, baza funkcjonuje od 1954 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od < 10 do 1800 mg/kg s.m.",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od < 10 do 8500 mg/kg s.m.",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzen",
+      "concentration": "od < 0,1 do 1 mg/kg s.m.",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Etylobenzen",
+      "concentration": "od < 0,1 do 52 mg/kg s.m.",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Toluen",
+      "concentration": "od < 0,1 do 71 mg/kg s.m.",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "od < 0,1 do 76 mg/kg s.m.",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "od < 0,1 do 275 mg/kg s.m.",
+      "area_ha": 0.41
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-12-08",
+    "legal_basis": "art. 101l",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-04-16",
+        "reference": "WSS.511.42.2014.BM.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-08-23",
+        "reference": "WSS.511.38.2016.ASB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "154 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-09-28",
+        "reference": "WSS.511.45.2016.ASB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "163 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-05-11",
+        "reference": "WSS.511.42.2014.BM.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "132 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2015-05-04",
+      "reason": "Prośba o zwiekszenie czestotliwości poboru próbek do analiz gruntu w toku remediacji",
+      "appealed_decision_reference": "WSS.511.42.2014.BM.5",
+      "resolution_reference": null,
+      "appellant_name": "PKN ORLEN S.A.",
+      "appellant_address": "ul. Chemików 7, 09-411 Płock",
+      "resolution_date": "2015-05-11",
+      "reviewing_authority": "RDOŚ w Poznaniu",
+      "resolution_content": "zmieniono decyzję RDOŚ w Poznaniu w żądanym przez stronę zakresie"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2015-04-30",
+    "planned_end": "2018-03-31",
+    "actual_end": "2018-03-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach prac remediacyjnych prowadzone jest pompowanie i oczyszczanie wód podziemnych, napowietrzanie warstwy wodonośnej i gruntów,w celu stymulacji procesów biodegradacji oraz usunięcia zanieczyszczeń i związków powstałych w procesie biodegradacji, a także bioremediacja, polegająca na wprowadzaniu do środowiska gruntowego mikroorganizmów zdolnych do rozkładu zanieczyszczeń ropopochodnych oraz iniekcji substancji odżywczych. W rejonie bocznicy kolejowej, poprzecznie do udokumentowanej strefy dopływu zanieczyszczonych wód podziemnych, zostanie wykonany rów drenażowy o długości 40-50 m, do którego będzie odprowadzana natleniona woda uzyskana z procesu remediacyjnego prowadzonego na terenie bazy.",
+    "ecological_effect": "Osiągnięto założony efekt, poprzez usunięcie zanieczyszczenia do dopuszczalnej zawartości",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,48 @@
+{
+  "registry_id": 1529,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Żory",
+    "municipality": "Żory",
+    "address": "ul. Sosnowa 23",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((482176.88914080813992769 241423.8851748114975635, 482171.41778665030142292 241389.86762504756916314, 482221.37362896098056808 241394.86320927864289843, 482227.32075304561294615 241469.08331785449991003, 482137.4002368864021264 241481.69122091383906081, 482131.92888272856362164 241448.62521100346930325, 482126.21964360732818022 241426.7397943721152842, 482176.88914080813992769 241423.8851748114975635, 482176.88914080813992769 241423.8851748114975635)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2019-02-19",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wystąpienie bezpośredniego zagrożenia szkodą w środowisku spowodowanego wyciekiem substancji zgromadzonych na nieruchomości zlokalizowanej przy ul. Sosnowej 23 w Żorach",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Prezydent Miasta Żory",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2019-04-01",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

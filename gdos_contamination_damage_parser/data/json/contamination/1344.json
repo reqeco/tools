@@ -1,0 +1,133 @@
+{
+  "registry_id": 1344,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.54,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Batalionów Chłopskich",
+    "precinct": "6-13-02",
+    "parcel_numbers": [
+      "7/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628794.00 486788.53,628830.97 486789.86,628795.10 486647.46,628725.40 486368.56,628690.75 486376.44,628794.39 486787.44,628794.00 486788.53))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp.z o.o.",
+      "address": "Al. Armii Krajowej 14 00-638 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.154
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.154
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.154
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.154
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.154
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Aldryna",
+      "concentration": null,
+      "area_ha": 0.154
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dieldryna",
+      "concentration": null,
+      "area_ha": 0.154
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 0.154
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-09",
+    "legal_basis": "art.101l ust.4",
+    "case_reference": "WOOŚ-IV.515.30.2020.DŚc.5",
+    "decisions": [
+      {
+        "issue_date": "2020-08-17",
+        "reference": "WOOŚ-IV.515.30.2020.DŚc.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp.z o.o.",
+        "address": "Al. Armii Krajowej 14 00-638 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-09-01",
+    "planned_end": "2022-06-30",
+    "actual_end": "2020-10-05",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Działka została podzielona nr. ew. dz (7/4) teren remediacji obejmuje (7/2)"
+}

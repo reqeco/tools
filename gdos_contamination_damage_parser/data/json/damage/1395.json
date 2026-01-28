@@ -1,0 +1,56 @@
+{
+  "registry_id": 1395,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "lipnowski",
+    "municipality": "Lipno (gmina wiejska)",
+    "address": "Złotopole 39A",
+    "precinct": "0036 Złotopole",
+    "parcel_numbers": [
+      "305/15"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((510506.36156055005 555185.3195586931,510547.63664310006 555168.915359213,510562.45333940006 555145.6319793127,510721.7328246199 555018.1025575902,510641.29933042004 554992.1733390717,510598.96591242 555023.9234025618,510533.34911451995 555083.1901877625,510506.36156055005 555185.3195586931)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2021-01-11",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Podejrzenie wystąpienia szkody - kontrola WIOŚ w Bydgoszczy w związku ze zgłoszeniem transportu odpadów do miejscowości Suradówek(...) wykazała magazynowanie wraków pojazdów, opon, tworzyw sztucznych, metali pochodzących z demontażu pojazdów, wycieki subst. pochodzących z pojazdów do gleby.",
+  "total_area_ha": 1.4537,
+  "reporters": [
+    {
+      "name": "WIOŚ w Bydgoszczy",
+      "address": "ul. ks. Piotra Skargi 2 85-018 Bydgoszcz",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiębiorstwo Usługowo-Handlowe(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2021-01-25",
+    "detection_date": "2020-10-15",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Postępowanie znak: WSS.512.3.2021.MW"
+}

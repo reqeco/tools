@@ -1,0 +1,101 @@
+{
+  "registry_id": 225,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "piski",
+    "municipality": "Ruciane-Nida",
+    "address": "Ruciane-Nida",
+    "precinct": null,
+    "parcel_numbers": [
+      "192/270",
+      "192/271"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((667324.6139059103 643902.7053157222,667385.4681945688 643896.8844707515,667399.2265554818 643882.0677744523,667451.6141605126 643888.9469548725,667529.9309841833 643867.7802458731,667519.8767973533 643856.1385559235,667537.8685000851 643830.7385051223,667532.5768228084 643821.7426538039,667538.3976678146 643813.2759702038,667552.6851964509 643800.0467770724,667567.5018928207 643793.1675966531,667588.1394341995 643793.167596654,667605.6019692074 643817.5093120029,667626.768678312 643833.9135114728,667648.4645551514 643866.7219104236,667667.514593346 643882.5969421742,667699.7938247268 643916.9928443059,667728.898049755 643965.1471072752,667741.0689074827 643958.267926855,667751.1230943125 643965.6762750056,667761.7064488597 643943.4512305548,667752.1814297625 643935.5137146749,667740.539739754 643922.8136892756,667717.256359739 643905.8803220745,667718.3146951932 643900.059477103,667696.0896506319 643873.601090854,667690.7979733567 643875.717761755,667661.6937483328 643852.4343818557,667647.4062196899 643827.5634987745,667643.1728778642 643795.2842675541,667632.0603555788 643783.6425776044,667581.2602537333 643772.530055372,667561.1518800874 643775.7050617235,667509.2934427941 643804.2801188733,667505.5892687064 643804.2801188733,667494.4767464241 643810.1009638533,667490.2434046039 643810.1009638524,667484.4225596065 643811.688467023,667473.8392050532 643794.7550998237,667447.9099864056 643832.3260083022,667326.201409088 643903.2344834516,667324.6139059103 643902.7053157222))",
+    "site_description": "Teren położony na obszarze specjalnej ochrony ptaków Puszcza Piska PLB 280008 i na specjalnym obszarze ochrony siedlisk Ostoja Piska PLH 280013, w strefie przybrzeżnej jeziora Nidzkiego."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2009-02-09",
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa, osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Szkoda w chronionych siedliskach przyrodniczych i gatunkach chronionych na działkach nr 192/270 i 192/271 w miejscowości Ruciane-Nida, w obrębie jeziora Nidzkiego polegająca na uszkodzeniu i zniszczeniu środowiska przyrodniczego oraz wodnego na skutek prowadzenia prac budowlanych, deponowania odpadów budowlanych i dokonania wycinki drzew. Szkoda wystąpiła w obrębie obszarów chronionych, tj. OSO Ptaków Natura 2000 \"Puszcza Piska\" oraz SOO Siedlisk Natura 2000 \"Ostoja Piska\"",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Stowarzyszenie na Rzecz Ochrony Krajobrazu Kulturowego Mazur \"Sadyba\"",
+      "address": "Kadzidłowo 1 12-100 Ukta",
+      "legal_form": "Stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "dzięcioł średni (Dendrocopos medius)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": "Grąd środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum)",
+      "other": null
+    },
+    {
+      "natura_2000": "Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe",
+      "other": null
+    },
+    {
+      "natura_2000": "Starorzecza i naturalne eutroficzne zbiorniki wodne ze zbiorowiskami z Nympheion, Potamion",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2009-03-30",
+    "detection_date": "2009-02-09",
+    "decisions": [
+      {
+        "issue_date": "2009-11-30",
+        "reference": "RDOŚ-28-WSIZ-6650-014/09/jk",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2009-12-11",
+        "reason": "W odwołaniu podniesiono, że z przeprowadzonego postępowania dowodowego jednoznacznie wynika, iż nie znaleziono przesłanek do stwierdzenia wystąpienia szkody w środowisku w powierzchni ziemi. Natomiast w odniesieniu do wycinki drzew skarżący podważył twierdzenie organu I instancji o powstaniu szkody w środowisku ze względu na posiadane przez (...) zezwolenie na wycinkę drzew. Z kolei samo zasypanie gruzem i odpadami terenu przyjeziornego nie stanowi szkody w środowisku w rozumieniu ustawy szkodowej.",
+        "appealed_decision_reference": "RDOŚ-28-WSIZ-6650-014/09/jk",
+        "resolution_reference": "GDOŚ-DKS-286/157/16/10/mp",
+        "appellant_name": "(…) - pełnomocnik (…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2010-03-12",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Decyzją z dnia 12 marca 2010 r., znak: GDOŚ-DKS-286/157/16/10/mp organ odwoławczy utrzymał w mocy zaskarżoną decyzję."
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Działania naprawcze będą polegały na: 1. usunięciu warstwy nasypanego gruzu oraz odpadów budowlanych w strefie przybrzeżnej jeziora Nidzkiego, co umożliwi naturalną regenerację litoralu; 2. ukształtowaniu zniekształconej rzeźby terenu poprzez dosypanie ubytków w gruncie; 3. nasadzeniu na skarpie nadbrzeżnej drzew gatunków rodzimych występujących na przedmiotowym terenie, tj. klon zwyczajny, wiąz górski, olsza czarna w ilości nie mniej niż 20 sztuk.",
+    "ecological_effect": "Działania naprawcze powinny spowodować przywrócenie środowiska, elementów przyrodniczych oraz ich funkcji do stanu początkowego lub przybliżonego do początkowego w możliwie najkrótszym czasie.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

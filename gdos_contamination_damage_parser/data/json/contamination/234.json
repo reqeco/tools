@@ -1,0 +1,134 @@
+{
+  "registry_id": 234,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Swojczycka 44",
+    "precinct": "obręb Swojczyce AM-20",
+    "parcel_numbers": [
+      "1",
+      "obręb Swojczyce"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((368486.87866532342741266 362681.36166683305054903, 368510.62042925483547151 362643.65865963045507669, 368512.08773378026671708 362640.85173628758639097, 368516.16200421459507197 362632.44841425120830536, 368534.93948205909691751 362571.93522640597075224, 368545.73145636357367039 362538.53370542731136084, 368501.72653892252128571 362536.62263843975961208, 368461.14138982858275995 362538.24379133898764849, 368454.7638263578992337 362537.95759709645062685, 368426.8543324344791472 362535.55389644671231508, 368403.37062144780065864 362527.95692284218966961, 368352.11368332139682025 362500.69369052164256573, 368349.47691066842526197 362499.24206604156643152, 368309.2887944218236953 362470.42391916550695896, 368307.7905058769392781 362469.33268575929105282, 368181.10529223794583231 362534.99099496379494667, 368223.70124494505580515 362615.93940765503793955, 368230.6579403291689232 362625.96017945092171431, 368238.75392735539935529 362635.59160437155514956, 368255.83254824223695323 362652.35131206084042788, 368271.58328038873150945 362663.3461731905117631, 368302.94794939248822629 362683.50841978006064892, 368306.56726443418301642 362685.83536669611930847, 368339.17388299398589879 362706.83642059378325939, 368387.31477325374726206 362737.83663504384458065, 368414.1459071229910478 362755.11655912641435862, 368415.78837949148146436 362756.81361037027090788, 368433.40428161679301411 362763.31074949353933334, 368429.59518313140142709 362781.29597249440848827, 368428.53655740094836801 362786.00264738593250513, 368420.43540623737499118 362819.09471027366816998, 368413.28787839959841222 362834.01643852144479752, 368422.41084967576898634 362838.4517911933362484, 368461.73629424965474755 362770.91279799770563841, 368468.97630360251059756 362757.279344342648983, 368486.87866532342741266 362681.36166683305054903))",
+    "site_description": "Terminal Paliw Nr 111 PKN ORLEN S.A. we Wrocławiu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-20",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": "Magazynowanie i przechowywanie pozostałych towarów"
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 44, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2144 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "7212 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-06-24",
+    "legal_basis": "art. 61 par. 4 Kpa",
+    "case_reference": "WSI.511.4.2016.MR",
+    "decisions": [
+      {
+        "issue_date": "2016-08-31",
+        "reference": "WSI.511.4.2016.MR.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 44, 09-411 Płock",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": "2016-09-16",
+    "planned_end": "2024-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Obniżenie stężenia substancji w powierzchni ziemi nastąpi poprzez: - zmniejszenie ilości zanieczyszczeń - odnosi się głównie do obszaru pływającego produktu ropopochodnego,  - ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń - dotyczy granic całego zanieczyszczenia na możliwych kierunkach migracji poza zakład,  - przeprowadzenie samooczyszczania powierzchni ziemi – dotyczy pozostałego zanieczyszczenia wód gruntowych na terenie instalacji przemysłowych i pól zbiornikowych, oraz ewentualnie poza zakładem.",
+    "ecological_effect": "Remediacja doprowadzi do obniżenia stężenia w powierzchni ziemi: - sumy benzyn (węglowodory C6-C12) do poziomu poniżej 1000 mg/kg s.m., - sumy oleju mineralnego (węglowodory C12-C36) poniżej 6000 mg/kg s.m., - sumy BTEX (węglowodorów aromatycznych) poniżej 200 mg/kg s.m.,  - sumy WWA (wielopierścieniowych węglowodorów aromatycznych) poniżej 250 mg/kg s.m.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

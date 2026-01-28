@@ -1,0 +1,57 @@
+{
+  "registry_id": 1554,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "zawierciański",
+    "municipality": "Zawiercie",
+    "address": "ul. Obrońców Poczty Gdańskiej 95",
+    "precinct": "0012 Zawiercie",
+    "parcel_numbers": [
+      "241602_1.0012.AR_64.6/126",
+      "241602_1.0012.AR_67.5/105"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((528923.17465800000354648 289719.22089799999957904, 528931.48687699995934963 289754.27059199998620898, 528949.58511600003112108 289749.97998699999880046, 528957.85683900001458824 289785.04858599998988211, 528880.35385600000154227 289803.4028180000022985, 528859.97178000002168119 289808.24165699997683987, 528843.34789400000590831 289738.12230799999088049, 528863.76992200000677258 289733.28454099997179583, 528923.17465800000354648 289719.22089799999957904))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2020-11-04",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wystąpienie bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku polegające na nagromadzeniu odpadów w halach zlokalizowanych na działkach o nr ewid. 6/126, k.m. 64, obręb Zawiercie oraz 5/105, k.m. 67, obręb Zawiercie, położonych przy ul. Obrońców Poczty Gdańskiej 95 w Zawierciu, na terenie Przędzalni Zawiercie S.A. w upadłości likwidacyjnej",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Agencja Rozwoju Przemysłu S.A. z siedzibą w Warszawie",
+      "address": null,
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przędzalnia Zawiercie S.A.",
+      "address": "ul. Legionów 59 p. 10 42-202 Częstochowa",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2021-02-16",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

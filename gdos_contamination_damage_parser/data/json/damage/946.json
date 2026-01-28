@@ -1,0 +1,78 @@
+{
+  "registry_id": 946,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "sejneński",
+    "municipality": "Sejny (gmina wiejska)",
+    "address": "Berżniki 16-500 Sejny",
+    "precinct": "31 Berżniki",
+    "parcel_numbers": [
+      "142/12"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((792975.1787601276 699977.596934556,793174.67502046 699800.8549153432,793184.2000410059 699809.3215989964,793229.7084716923 699761.6965039577,793138.1624406441 699654.2754552746,793058.7872691606 699552.1460839156,792842.3576395314 699763.8131729076,792975.1787601276 699977.596934556))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "Prowadzenie prac polegających na wydobywaniu kruszywa w obrębie działki 142/12 obręb 31 Berżniki zaobserwowano w dniu 11 czerwca 2011 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Na działce o nr geod. 142/12, obręb Berżniki, gmina Sejny, w dniu 11 czerwca 2011 r.  zaobserwowano prowadzenie prac polegających na wydobywaniu kruszywa. Na przedmiotowej działce znajduje się chronione siedlisko przyrodnicze – ciepłolubne śródlądowe murawy napiaskowe (kod 6120). Chronione gatunki roślin, które zostały stwierdzone na działce przed wystąpieniem szkody to: leniec bezpodkwiatkowy (Thesium ebracteaum), sasanka łąkowa (Pulsatilla pratensis) ostrołódka kosmata (Oxytropis pilosa), pierwiosnka lekarska (Primula veris) i goździk kartuzek (Dianthus carthusianorum).",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Centrum Ochrony Mokradeł",
+      "address": "(…)",
+      "legal_form": "stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "ZAKŁAD USŁUG ROLNICZYCH I TRANSPORTOWYCH ŻWIROWNIA LIPSK II (…)",
+      "address": "(…)",
+      "economic_activity_code": "08.12.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Ciepłolubne, śródlądowe murawy napiaskowe (Koelerion glaucae)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-08-12",
+    "detection_date": "2011-06-11",
+    "decisions": [
+      {
+        "issue_date": "2011-10-06",
+        "reference": "WSI.512.5.2011.MZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2012-02-29",
+    "actual_end": "2012-10-31",
+    "method": null,
+    "description": "Zgodnie z decyzją, pozbawiony roślinności fragment działki nr 142/12 obręb Berżniki należało pozostawić do odtworzenia warstwy roślinności poprzez naturalne odnowienie. Na pozostałej cześć działki należało wykonać działania kompensacyjne, tj. zabiegi ochrony czynnej prowadzące do poprawy stanu siedliska 6120. Usunięto nalot drzew i krzewów. Wykarczowano drzewa i krzewy w wieku poniżej 10 lat.  Prace przeprowadzono w porozumieniu z Centrum Ochrony Mokradeł.",
+    "ecological_effect": "Poprawa stanu siedliska śródlądowych ciepłolubnych muraw napiaskowych (6120*).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

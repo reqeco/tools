@@ -1,0 +1,141 @@
+{
+  "registry_id": 1298,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "bełchatowski",
+    "municipality": "Szczerców",
+    "address": "Chabielice 45a",
+    "precinct": "Chabielice",
+    "parcel_numbers": [
+      "440/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((507763.07838414994 379511.3643087335,507897.7515701699 379504.7497121729,507857.00565534 379375.3682034146,507761.49088098 379365.04943277314,507764.1367195999 379371.92861320265,507750.9075264699 379378.5432097642,507763.07838414994 379511.3643087335))",
+    "site_description": "działka rolna, na której składowane są odpady"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2020-01-29",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby na skutek składowania ciekłych opadów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WOJEWÓDZKI INSPEKTORAT OCHRONY ŚRODOWISKA W ŁODZI DELEGATURA W PIOTRKOWIE TRYBUNALSKIM",
+      "address": "ul. Bawialnia 18 97-300 Piotrków Trybunalski",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "47.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "powyżej dopuszczalnej wartości mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2020-04-21",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

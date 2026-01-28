@@ -1,0 +1,88 @@
+{
+  "registry_id": 2029,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0049,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Drwęcka",
+    "precinct": "3-02-12",
+    "parcel_numbers": [
+      "8/2",
+      "17/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641838.3948513563 489815.7702554716,641854.5344669891 489815.505671612,641890.7824562099 489798.307720541,641891.0470400698 489788.78270149324,641878.0824307894 489739.30551921204,641878.3470146498 489735.2044693427,641835.4844288591 489734.27842582203,641838.3948513563 489815.7702554716))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska sp. z o. o.",
+      "address": "Rondo ONZ 1-24 piętro",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "8/2",
+        "17/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0049
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-06-25",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.23.2024.PBu",
+    "decisions": [
+      {
+        "issue_date": "2024-08-09",
+        "reference": "WOOŚ-IV.515.23.2024.PBu.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska sp. z o. o.",
+        "address": "Rondo ONZ 1-24 piętro",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-08-01",
+    "planned_end": "2024-12-31",
+    "actual_end": "2024-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex- situ",
+    "ecological_effect": "Zawartość substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadziła remediacja jest zgodna z dopuszczalnymi zawartościami substancji powodujących ryzyko określonymi dla grupy I w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

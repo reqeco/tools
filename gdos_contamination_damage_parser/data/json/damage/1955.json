@@ -1,0 +1,51 @@
+{
+  "registry_id": 1955,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina miejska)",
+    "address": "ul. Księcia Ludwika I 1b w Lubinie.",
+    "precinct": "Obręb 4",
+    "parcel_numbers": [
+      "197/4 i 197/6",
+      "obręb 4 miasta Lubina"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((306209.83513699320610613 396639.58780262060463428, 306221.44623884442262352 396633.27060064021497965, 306216.70680509170051664 396626.22294258140027523, 306205.68839574459707364 396632.58156926278024912, 306209.83513699320610613 396639.58780262060463428)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Ślady olejów na powierzchni ziemi",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Prezydent Miasta Lubina",
+      "address": "ul. Kilińskiego 10, 59-300 Lubin",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-08-06",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSI.512.23.2024.ŁJ"
+}

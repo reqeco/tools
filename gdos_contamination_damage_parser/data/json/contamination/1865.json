@@ -1,0 +1,88 @@
+{
+  "registry_id": 1865,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.189,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "słubicki",
+    "municipality": "Słubice",
+    "address": "Osiedla Przemysłowe 9, działka nr: 74/180",
+    "precinct": "0003 Słubice",
+    "parcel_numbers": [
+      "POLYGON((201801.12165009906 505834.7971316762",
+      "201845.0425770157 505797.22622302826",
+      "201861.97594617167 505817.3345965184",
+      "201816.46751589893 505852.2596665509",
+      "201801.12165009906 505834.7971316762))"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "dawne zaplecze lotniska wojskowego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "po 1860 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "EEIC Poland 4 Spółka z o.o.",
+      "address": "ul. Złota 59 00-120 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "180 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-06-09",
+    "legal_basis": null,
+    "case_reference": "WZŚ.515.11.2023.KM",
+    "decisions": [
+      {
+        "issue_date": "2023-07-04",
+        "reference": "WZŚ.515.11.2023.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "EEIC Poland 4 Spółka z o.o.",
+        "address": "ul. Złota 59 00-120 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Zwolnienie z obowiązku wykonania remediacji. W przypadku zmiany użytkowania terenu, ponowne przeprowadzenie oceny zagrożenia dla zdrowia ludzi lub stanu środowiska i uzyskanie decyzji ustalającej plan remediacji hist. zanieczyszczenia pow. ziemi.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

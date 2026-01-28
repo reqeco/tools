@@ -1,0 +1,116 @@
+{
+  "registry_id": 629,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "Łódź ul. Rojna 5",
+    "precinct": "B-42",
+    "parcel_numbers": [
+      "32/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;Point (527026.77494573674630374 436412.75906466552987695)",
+    "site_description": "termomodernizowany budynek mieszkalny"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "czerwiec 2010"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "zniszczenie siedliska gatunku chronionego - jerzyk Apus Apus w  wyniku prac dociepleniowych na budynku mieszkalnym",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Administracja nieruchomości Łódź-Żbieniec",
+      "address": "ul. Wielkopolska 53, 91-024 Łódź",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "jerzyk (Apus apus)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie sądowoadministracyjne",
+    "initiation_date": "2010-07-12",
+    "detection_date": "2010-06-01",
+    "decisions": [
+      {
+        "issue_date": "2010-10-04",
+        "reference": "RDOŚ-10-WSIOs-6622-d-39/287/10.mr",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2010-10-20",
+        "reference": "RDOŚ-10-WSI-s-6620-d-39/287/10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2011-04-27",
+        "reference": "DOP-ks.512.3.2011.at",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2010-10-04",
+        "reason": null,
+        "appealed_decision_reference": "RDOŚ-10-WSIOs-6622-d-39/287/10.mr",
+        "resolution_reference": null,
+        "appellant_name": "Administracja Nieruchomości Łódź - Żabieniec",
+        "appellant_address": "ul. Wielkopolska 59, 93-024 Łódź",
+        "resolution_date": null,
+        "reviewing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "resolution_content": "uchylono decyzję RDOŚ w Łodzi i przekazano sprawę do ponownego rozpatrzenia"
+      },
+      {
+        "date": "2010-10-20",
+        "reason": null,
+        "appealed_decision_reference": "RDOŚ-10-WSI-s-6620-d-39/287/10",
+        "resolution_reference": null,
+        "appellant_name": "Administracja Nieruchomości Łódź - Żabieniec",
+        "appellant_address": "ul. Wielkopolska 59, 93-024 Łódź",
+        "resolution_date": null,
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "uchylono decyzję RDOŚ w Łodzi i GDOŚ określił nowe warunki przeprowadzenia działań naprawczych"
+      }
+    ]
+  },
+  "court_proceedings": {
+    "issue_date": "2011-10-14",
+    "case_number": "IV SA/Wa/998/11",
+    "challenged_decision_reference": "DOP-ks.512.3.2011.at",
+    "ruling_type": "wyrok",
+    "verdict": "oddalono skargę na decyzję GDOŚ z dnia 27 kwietnia 2011 r., znak: DOP-ks.512.3.2011.at",
+    "court": "Wojewódzki Sąd Administracyjny w Warszawie",
+    "cassation_appeal_to_nsa": null
+  },
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-05-31",
+    "actual_end": null,
+    "method": null,
+    "description": "a)\twstawienia rurek o średnicy 7,5 cm (czyli średnicy podobnej do starego otworu) dla 75 % otworów wentylacyjnych w stropodachu z zachowaniem następującej zasady, że dno nowej rurki (ceramicznej, bądź z blachy lub tworzywa sztucznego, posiadających szorstką powierzchnię dna rurki) musi być umieszczone na wysokości starego otworu, b)\twstawienia rurek o średnicy 10 cm (czyli średnicy zwiększonej wobec starego otworu) dla 15 % otworów wentylacyjnych w stropodachu z zachowaniem następującej zasady, że dno nowej rurki (ceramicznej, bądź z blachy lub tworzywa sztucznego, posiadających szorstką powierzchnię dna rurki) musi być umieszczone na wysokości starego otworu, c)\tpowieszenia równomiernie po obydwu stronach budynku przy ulicy Rojnej 5, 100 sztuk budek lęgowych dla jerzyka, jak najbliżej miejsc, w których poprzednio były otwory, d)\tpowieszenia 40 skrzynek lęgowych dla wróbla na okolicznych drzewach, przystosowanych do mocowania na elewacji lub typu A (według Sokołowskiego) na wysokości około 4 m, w odległości wzajemnej nie mniejszej niż 8 metrów, e)\tpowieszenia 10 skrzynek lęgowych dla kawki na drzewach w pobliżu budynku, na wysokości nie większej niż 6 metrów.",
+    "ecological_effect": "przywrócenie stanu siedlisk i gatunków chronionych  do stanu początkowego albo przybliżonego do stanu początkowego w możliwie najkrótszym terminie",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,119 @@
+{
+  "registry_id": 1612,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.11,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Sosnowiec",
+    "municipality": "Sosnowiec",
+    "address": "ul. Orląt Lwowskich w Sosnowcu",
+    "precinct": "12",
+    "parcel_numbers": [
+      "247501_1.0012.4076/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((513523.33431000000564381 263127.15129299997352064, 513437.58855500002391636 263031.15198399999644607, 513348.63445399998454377 262930.6585019999765791, 513366.76704900001641363 262910.08780099998693913, 513355.01796700002159923 262901.42090700002154335, 513290.47788600000785664 262829.91167599998880178, 513302.08651900000404567 262819.17247500002849847, 513312.26649100001668558 262809.21197200001915917, 513376.75307999999495223 262746.38512499997159466, 513408.61779300001217052 262759.3792820000089705, 513423.33043999999063089 262762.48983299999963492, 513555.42367099999682978 262853.73988800001097843, 513652.94254800002090633 262954.98788799997419119, 513767.75914799998281524 263039.7338480000034906, 513746.85784700000658631 263060.27173199999378994, 513696.81004499999107793 263008.96547400002600625, 513552.51783199998317286 263149.61555500002577901, 513523.33431000000564381 263127.15129299997352064))",
+    "site_description": "Teren byłej kopalni węgla kamiennego Jan Kanty"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "1999-2005"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wydobywanie węgla kamiennego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Exeter III Poland B Sp. z o.o.",
+      "address": "ul. Złota 59 00-120 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,240 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,250 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,240mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,138 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,233 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-27",
+    "legal_basis": "art. 101l ust. 4 Poś",
+    "case_reference": "WSI.515.18.2021",
+    "decisions": [
+      {
+        "issue_date": "2022-03-10",
+        "reference": "WSI.515.18.2021.MB1.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Exeter III Poland B Sp. z o.o.",
+        "address": "ul. Złota 59 00-120 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

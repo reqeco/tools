@@ -1,0 +1,48 @@
+{
+  "registry_id": 2099,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "tarnogórski",
+    "municipality": "Radzionków",
+    "address": "ul. Objazdowa 19A, 41-922 Radzionków (dz. o nr ew. 1447/23, arkusz mapy 20, obręb Radzionków).",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((492330.03 279389.56,492390.51 279387.88,492392.2 279340.29,492393.81 279285.25,492326.09 279334.16,492280.69 279345.01,492280.36 279384.73,492293.86 279382.5,492294.51 279390.56,492330.03 279389.56))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2024-04-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": null,
+  "event_description": "Kontrolę przedmiotowego zakładu przeprowadzono w związku ze zgłoszeniem Komendy Wojewódzkiej Policji w Katowicach w związku z podejrzeniem zwożenia odpadów sypkich na teren działki nr ewid. 1447/23 zlokalizowanej przy ul. Objazdowej 19A w Radzionkowie. Podczas oględzin na terenie placu zakładowego stwierdzono znaczne ilości spryzmowanych materiałów węglowych. Pomimo wezwania podmiot podczas kontroli nie przedstawił stanu magazynowego poszczególnych rodzajów materiałów znajdujących się na placu, kontrolowany jedynie oświadczył, że znajdujące się na terenie zakładu materiały w pryzmach to między innymi muł węglowy oraz flot. W strukturze niektórych pryzm oprócz węgla widoczne były fragmenty rozdrobnionych tworzyw sztucznych, kawałki drewna czy kawałki gumy. W tym zakresie kontrolowany poinformował, że jest to sprowadzona z Czech mieszanka energetyczna.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Śląski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Konstantego Damrota 16 40-022 Katowice",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSI.512.4.2025"
+}

@@ -1,0 +1,62 @@
+{
+  "registry_id": 2098,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "nidzicki",
+    "municipality": "Nidzica",
+    "address": null,
+    "precinct": "0012 Łyna",
+    "parcel_numbers": [
+      "281104_5.0012.130/2",
+      "281104_5.0012.124/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((593113.6604370775 619751.8060785523,593195.6814344686 619734.6081274794,593232.7231752241 619862.9313008022,593249.9211262863 619792.8165772296,593527.7341819538 619399.9095414188,593415.2860403784 619446.2117173597,593327.9733657362 619444.8887980506,593182.4522413464 619525.586876113,593179.8064027161 619562.628616862,593063.3895032004 619635.3891790546,592927.128813992 619725.3476923043,592876.8578801156 619868.2229780545,592976.076828559 619917.1709926147,592968.1393126879 619824.5666407328,593028.993601066 619802.0770124225,593113.6604370774 619749.1602399228,593113.6604370775 619751.8060785523))",
+    "site_description": "działki wykorzystywane rolniczo; na ich terenie planowana jest budowa farmy fotowoltaicznej"
+  },
+  "occurrence_time": {
+    "date": "2025-03-03",
+    "from": null,
+    "to": null,
+    "description": "w zgłoszeniu wskazano, że na dz. 130/2 szkoda w środowisku została dokonana w ciągu ostatnich kilku tygodni, a na dz. nr 124/1 w ciągu ostatnich kilkunastu miesięcy"
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Zgłaszający wskazał, że na dz. nr 124/1 i 130/2 obręb 0012 Łyna została przeprowadzona wycinka drzew, co doprowadziło do szkody w środowisku w chronionych siedliskach przyrodniczych.",
+  "total_area_ha": 10.0,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "RWE Solar Sp. z o.o.",
+      "address": "Rondo Daszyńskiego 1, 00-843 Warszawa",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-04-14",
+    "detection_date": "2025-03-25",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

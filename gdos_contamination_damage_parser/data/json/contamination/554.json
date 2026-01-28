@@ -1,0 +1,122 @@
+{
+  "registry_id": 554,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.228,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Przyokopowa ul. Hrubieszowska",
+    "precinct": null,
+    "parcel_numbers": [
+      "37/1",
+      "37/2",
+      "38/1",
+      "38/2 obręb 6-04-06"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635218.9696250836 486889.0758605469,635225.3196377904 486890.13419599645,635226.9071409618 486884.84251874685,635230.6113150456 486884.84251874685,635242.7821727244 486737.7338911975,635247.5446822593 486732.97138166614,635227.9654764085 486727.67970441654,635216.8529541777 486764.72144516837,635214.2071155463 486810.2298695268,635222.6737991553 486810.2298695268,635218.9696250836 486889.0758605469))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Flagstone Sp. z o.o.",
+      "address": "ul. Bonifraterska 17 00-203 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "760  [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "51 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "110-180 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "150-340 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,17-0,31 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Fluoranten",
+      "concentration": "7,2 [mg/kg]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-04-25",
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2014-05-07",
+        "reference": "WSI.511.6.2014.KW.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 106 ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Flagstone Sp. z o.o.",
+        "address": "ul. Bonifraterska 17 00-203 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2014-05-07",
+    "planned_end": "2015-12-31",
+    "actual_end": "2014-11-19",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex- situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,91 @@
+{
+  "registry_id": 1841,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3501,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Szeligowska  dzielnica Bemowo",
+    "precinct": "6-13-06",
+    "parcel_numbers": [
+      "5/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628950.4487489038 485650.29421640094,628926.9007851132 485557.16069680545,628968.7050354256 485508.74184997194,628970.2925385968 485515.0918626748,628963.6779420329 485574.0940640019,628980.3467253875 485638.123358733,628950.4487489038 485650.29421640094))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska sp. z o.o.",
+      "address": "ul. Rondo Organizacji Narodów Zjednoczonych 1, lok 24, 00-638 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 0.3501
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dieldryna",
+      "concentration": null,
+      "area_ha": 0.3501
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-05-18",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.29.2023.PBu",
+    "decisions": [
+      {
+        "issue_date": "2023-06-22",
+        "reference": "WOOŚ-IV.515.29.2023.PBu",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska sp. z o.o.",
+        "address": "ul. Rondo Organizacji Narodów Zjednoczonych 1, lok 24, 00-638 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-06-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-07-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

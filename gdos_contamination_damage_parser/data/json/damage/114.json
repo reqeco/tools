@@ -1,0 +1,74 @@
+{
+  "registry_id": 114,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Nadarzyn",
+    "address": "Młochów Al. Kasztanowa 160",
+    "precinct": null,
+    "parcel_numbers": [
+      "146",
+      "147"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((621743.3392272578 468734.23473807704,621867.1644749768 468789.79734920524,621867.1644749765 468764.3972984031,622337.594582762 468917.3267709194,622393.6863616409 468691.9013200663,621913.7312347993 468536.85517664347,621916.3770734204 468517.2759708259,621915.3187379699 468516.2176353736,621844.4102627811 468570.7219110457,621743.3392272578 468734.23473807704))",
+    "site_description": "działka obecnie podzielona"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Przed 16.05.2007r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "na skutek wypadku przy Al. Kasztanowej 160 w Mlochowie gmina Nadarzyn nastapil wyciek ze zbiornika paliwa, w wyniku którego zostala zanieczyszczona ziemia olejem mineralnym",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ",
+      "address": "ul. Bartycka 110a, Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2007-05-16",
+    "decisions": [
+      {
+        "issue_date": "2007-11-29",
+        "reference": "WŚR.V. GG.6621/12/2007",
+        "issuing_authority": "Wojewoda Mazowiecki",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2007-12-15",
+    "planned_end": "2007-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

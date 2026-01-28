@@ -1,0 +1,85 @@
+{
+  "registry_id": 59,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.032,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Michałowice",
+    "address": "Komorów, ul. Żwirowa",
+    "precinct": "Komorów Osiedle",
+    "parcel_numbers": [
+      "14",
+      "15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((623748.4548411451 477892.1413928503,623759.0381956508 477839.2246203497,623790.7882591704 477838.16628490016,623879.1592692952 477856.1579875499,623869.6342502399 477899.549740999,623810.3674650034 477899.549740999,623778.6174014837 477897.433070099,623750.0423443161 477892.6705605695,623748.4548411451 477892.1413928503))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Przesyłanie energii elektrycznej"
+  },
+  "land_holders": [
+    {
+      "name": "PGNiG Termika S.A.",
+      "address": "ul. Modlińska 15, 03-216 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.12.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "15.4",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-12-07",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-05-11",
+        "reference": "WSI.510.49.2015.ES.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PGNiG Termika S.A.",
+        "address": "ul. Modlińska 15, 03-216 Warszawa",
+        "economic_activity_code": "35.12.Z"
+      }
+    ],
+    "planned_start": "2016-06-01",
+    "planned_end": "2016-10-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - wydobycie zanieczyszczonego gruntu i przekazanie do unieszkodliwienia",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

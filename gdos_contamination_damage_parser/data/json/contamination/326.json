@@ -1,0 +1,205 @@
+{
+  "registry_id": 326,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1268,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Sienna 65",
+    "precinct": "6-01-08",
+    "parcel_numbers": [
+      "44/6",
+      "44/7",
+      "44/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636319.0475420861 486849.3680419093,636341.9340462219 486858.23160129786,636360.1903327506 486807.69608356897,636337.7007044153 486799.49398382753,636337.7007044153 486799.49398382753,636335.3194496528 486805.71170459874,636319.0475420861 486849.3680419093))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Yawa Sp. z o.o. 23 Sp.k.",
+      "address": "ul. Mokotowska 49, 00-542 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "280 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "610 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "35-62 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,34 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,23-0,24 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,30-0,98 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,18-1,0 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,22-0,27 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,26-0,96 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,31-1,4 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,40-0,63 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,24-0,91 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,44-0,57 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "31,0-37,0 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "550,0-740,0 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "210,0 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "6,0 [mg/kg]",
+      "area_ha": 0.1268
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "6,2 [mg/kg]",
+      "area_ha": 0.1268
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-12-15",
+    "legal_basis": "Art. 61 §1 Kpa w związku z art. 101 l Poś",
+    "case_reference": "WSI.515.50.2017",
+    "decisions": [
+      {
+        "issue_date": "2018-01-23",
+        "reference": "WSI.515.50.2017.SSz.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Yawa Sp. z o.o. 23 Sp.k.",
+        "address": "ul. Mokotowska 49, 00-542 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-01-24",
+    "planned_end": "2018-09-30",
+    "actual_end": "2018-10-15",
+    "method": null,
+    "description": "remediacja ex-situ",
+    "ecological_effect": "spełnia wymogi określone rozporzadzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,162 @@
+{
+  "registry_id": 1131,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "inowrocławski",
+    "municipality": "Inowrocław (gmina wiejska)",
+    "address": "Dulsk 11",
+    "precinct": "Dulsk",
+    "parcel_numbers": [
+      "10/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((455643.6793178805 543907.6696870225,455707.7086126105 543692.8275906751,455695.00858721056 543684.3609070741,455689.71690996055 543666.8983721435,455679.6627231806 543654.7275144737,455671.19603958045 543651.0233403947,455660.0835173606 543647.8483340433,455648.97099513054 543647.8483340442,455637.8584729106 543642.5566567928,455635.21263428044 543639.3816504432,455652.14600148064 543583.8190393234,455675.4293813805 543511.323060994,455670.6668718506 543505.5022160243,455629.39178931055 543495.9771969737,455582.2958617805 543633.0316377431,455519.85407023027 543869.0404430935,455641.0334792604 543906.6113515738,455643.6793178805 543907.6696870225))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2016-06-20",
+    "from": null,
+    "to": null,
+    "description": "Kontrola WIOŚ z dnia 20.06.2016 wykazała zanieczyszczenie na terenie działki 10/4 w m. Dulsk 11"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W dniach od 31 maja do 23 sierpnia 2016 r. Wojewódzki Inspektorat Ochrony Środowiska w Bydgoszczy przeprowadził kontrolę interwencyjną w Przedsiębiorstwie Wielobranżowym (...)z siedzibą w Białych Błotach połączoną z wizją na terenie działki ewidencyjnej nr 10/4 w miejscowości Dulsk 11. Podczas wizji w dniu 20 czerwca 2016 r., z zagłębienia terenu na ww. działce, przez które przepływa rów melioracyjny, została pobrana próbka gleby do badań. Badania te wykazały, że gleba zanieczyszczona jest substancjami organicznymi, w tym olejem mineralnym (przekroczenie dopuszczalnych norm ponad 800-krotnie), węglowodorami aromatycznymi i WWA w odniesieniu do standardów jakości przewidzianych w ówcześnie obowiązującym rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r., Nr. 165, poz. 1359).",
+  "total_area_ha": 3.93,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Bydgoszczy",
+      "address": "ul. Piotra Skargi 2, 85-018 Bydgoszcz",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiębiorstwo Wielobranżowe (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "39970 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Etylobenzen",
+      "concentration": "25,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Toluen",
+      "concentration": "17,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Ksyleny",
+      "concentration": "9,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Styren",
+      "concentration": "6,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fenantren",
+      "concentration": "2,89 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Antracen",
+      "concentration": "1,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fluoranten",
+      "concentration": "2,48 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Chryzen",
+      "concentration": "2,62 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)fluoranten",
+      "concentration": "0,14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "59,65 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "11,7 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2017-01-24",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "postępowanie znak: WSI.510.22.2016.AG1"
+}

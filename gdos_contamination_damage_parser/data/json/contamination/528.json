@@ -1,0 +1,93 @@
+{
+  "registry_id": 528,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.06,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Włodarzewska",
+    "precinct": "2-03-16",
+    "parcel_numbers": [
+      "18/1",
+      "18/2",
+      "18/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((633044.8575662635 483911.71365587413,633088.7784874749 483885.7844373463,633073.4326234355 483698.9882304277,633064.4367720969 483701.104901324,633062.3201011942 483678.87985687423,633026.8658635905 483683.6423663972,633044.8575662635 483911.71365587413))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "YAWA Sp. z o.o. 27 Sp. K.",
+      "address": "ul Mokotowska 49 00-542 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "680 [mg/kg]",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "100 [mg/kg]",
+      "area_ha": 0.06
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-10-31",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.49.2017",
+    "decisions": [
+      {
+        "issue_date": "2017-12-13",
+        "reference": "WSI.515.49.2017.SSz.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "YAWA Sp. z o.o. 27 Sp. K.",
+        "address": "ul Mokotowska 49 00-542 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2017-12-13",
+    "planned_end": "2018-04-30",
+    "actual_end": "2018-03-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "zgodne z rozporządzeniem MŚ, zgodne z projektem planu remediacji",
+    "effect_assessment": null
+  },
+  "notes": null
+}

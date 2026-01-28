@@ -1,0 +1,61 @@
+{
+  "registry_id": 1808,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Cewice",
+    "address": "miejscowość Bukowina, gmina Cewice",
+    "precinct": "Bukowina",
+    "parcel_numbers": [
+      "96/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((423273.40508791426 729553.488273235,423269.70091384434 729375.6879176348,423422.10121865186 729375.1587499045,423429.5095668022 729510.096519785,423397.75950330065 729529.6757256025,423273.40508791426 729553.488273235))",
+    "site_description": "odpadowa tkanka zwierzęca i padlina zostały nawiezione na dz. 95/2 w miejscowości Bukowina"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "czerwiec 2023 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Magazynowanie odpadów (odpadowa tkanka zwierzęca i padlina najprawdopodobniej pochodząca z osadników (po częściowym rozkładzie) z pobliskiej ubojni.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Cewice",
+      "address": "ul. W. Witosa 16, 84-312 Cewice",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": null,
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-07-20",
+    "detection_date": "2023-06-20",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

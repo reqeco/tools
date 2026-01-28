@@ -1,0 +1,72 @@
+{
+  "registry_id": 1765,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "szamotulski",
+    "municipality": "Wronki",
+    "address": "ul. Lipowa 14, 64-510 Nowa Wieś",
+    "precinct": "Nowa Wieś",
+    "parcel_numbers": [
+      "304/11",
+      "304/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((324013.37696688547 539407.275081234,324013.9061346218 539389.8125463054,324023.69573758566 539391.664633343,324022.3728182657 539405.6875780532,324013.37696688547 539407.275081234))",
+    "site_description": "teren zakładu i wokół (…)"
+  },
+  "occurrence_time": {
+    "date": "2023-04-24",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi podczas tankowania pojazdów na potrzeby prowadzonej działalności transportowej",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wielkopolski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Czarna Rola 4, 61-625 Poznań",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "49.41.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "17818 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-07-14",
+    "detection_date": "2023-04-24",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

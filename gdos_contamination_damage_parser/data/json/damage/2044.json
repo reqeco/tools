@@ -1,0 +1,51 @@
+{
+  "registry_id": 2044,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "zgierski",
+    "municipality": "Zgierz (gmina miejska)",
+    "address": "ul. Boruty 16A i ul. Boruty 18B w Zgierzu",
+    "precinct": "121",
+    "parcel_numbers": [
+      "370/3",
+      "370/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((526680.7507265384 441852.5973641528,526676.7083303854 441848.52224088926,526661.5209122957 441716.8809604272,526747.3238893942 441700.7540249182,526751.2799164881 441721.04383929167,526755.7153913206 441720.6989631597,526759.2704710945 441746.88288550265,526710.4452299098 441757.3098371243,526726.9731254433 441845.10457208287,526680.7507265384 441852.5973641528))",
+    "site_description": "ul. Boruty 16A i ul. Boruty 18B w Zgierzu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-06-03",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "gromadzenie odpadów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starostwo Powiatowe w Zgierzu",
+      "address": "Wydział Ochrony Środowiska, Rolnictwa i Leśnictwa Starostwa Powiatowego w Zgierzu ul. Sadowa 6A,  95-100 Zgierz",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-11-14",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "bezpośrednie zagrożenie szkodą w środowisku w powierzchni ziemi"
+}

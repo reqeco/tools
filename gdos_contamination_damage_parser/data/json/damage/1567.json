@@ -1,0 +1,56 @@
+{
+  "registry_id": 1567,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Mysłowice",
+    "municipality": "Mysłowice",
+    "address": "ul. Brzezińska 50 w Mysłowicach",
+    "precinct": "0001 Brzezinka",
+    "parcel_numbers": [
+      "247001_1.0001.AR_4.2171/78"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((511133.97012700000777841 259168.91530600000987761, 511106.07224700000369921 259264.08493599999928847, 511045.09457499999552965 259246.3210689999978058, 511066.7783519999939017 259172.05042600000160746, 511069.50643100001616403 259171.98895500000799075, 511076.10169999999925494 259171.68550500000128523, 511095.26795100001618266 259170.80547699998714961, 511129.61330899997847155 259169.21751499999663793, 511133.97012700000777841 259168.91530600000987761))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Od maja 2018 r. do 30 czerwca 2022 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Prowadzenie działalności w zakresie gospodarki odpadami, na nieruchomości o nr geod.:2171/78, zlokalizowanej przy ul. Brzezińskiej 50 niezgodnie z warunkami ujętymi w posiadanej decyzji na zbieranie odpadów oraz naruszając przepisy ochrony środowiska.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Urząd Miasta Mysłowice",
+      "address": "ul. Powstańców 1, 41-400 Mysłowice",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Spółka Mundo Trade Sp. z o.o.",
+      "address": "Laski 125A, 41-303 Dąbrowa Górnicza",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-07-15",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

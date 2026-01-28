@@ -1,0 +1,78 @@
+{
+  "registry_id": 893,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "70-346 Szczecin, ul. Żółkiewskiego 5",
+    "precinct": null,
+    "parcel_numbers": [
+      "117",
+      "obręb 2157"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((203570.49232117299106903 627603.55766633595339954, 203565.65930942998966202 627607.49772156903054565, 203568.48480422000284307 627615.93649729900062084, 203566.59956198799773119 627616.58155511901713908, 203568.09195620598620735 627621.04163096798583865, 203569.93784454799606465 627620.40896226605400443, 203575.61664741398999467 627637.42458786896895617, 203573.75841146500897594 627638.01794466201681644, 203575.20857505800086074 627642.61071726097725332, 203577.13729785100440495 627642.02311652700882405, 203578.45076594199053943 627646.01277151901740581, 203591.83359026801190339 627641.60591938905417919, 203592.7758329919888638 627641.27836143400054425, 203591.99380101999850012 627638.95038631896022707, 203585.9079088710132055 627635.41960561904124916, 203587.34224906101007946 627632.78728253301233053, 203584.32374441099818796 627631.09554743394255638, 203582.16139192500850186 627624.50128187297377735, 203579.96818088399595581 627623.20060647698119283, 203581.40375141298864037 627620.58825472998432815, 203584.7681482849875465 627622.52975017495919019, 203585.17545640599564649 627624.12874298403039575, 203588.40334278900991194 627625.96820325695443898, 203588.18723388400394469 627626.37212810898199677, 203588.6792900740110781 627627.71543212595861405, 203599.2296524140110705 627633.65224194596521556, 203605.09934772000997327 627623.15512709796894342, 203570.49232117299106903 627603.55766633595339954))",
+    "site_description": "Kamienica w centrum miasta. zniszczenie 10 gniazd wróbli, 1 gniazda kawki oraz 1 gniazda jerzyka w budynku przy ul. Żółkiewskiego 5 w Szczecinie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "maj - czerwiec-lipiec 2014 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "zniszczenie gniazd ptasich nastąpiło wskutek przeprowadzenia prac ociepleniowych elewacji frontowej",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Firma ogólnobudowlana (…)",
+      "address": "(…)",
+      "legal_form": "przedsiębiorca"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Firma ogólnobudowlana(…)",
+      "address": "(…)",
+      "economic_activity_code": "43.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "kawka (Corvus monedula)",
+    "jerzyk (Apus apus)",
+    "wróbel (Passe domesticus)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2014-11-05",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2014-12-15",
+        "reference": "WONS-NS.511.9.2014.KD",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Odtworzenie siedlisk lęgowych dla minimum 10 par wróbli, 1 pary jerzyka oraz 1 pary kawki na nieruchomości zlokalizowanej przy ul. Żółkiewskiego 5 w Szczecinie, bądź stworzenie siedlisk lęgowych dla minimum 10 par wróbli oraz 1 pary kawki na drzewach przylegających do elewacji.",
+    "ecological_effect": "odtworzenie siedlisk lęgowych",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

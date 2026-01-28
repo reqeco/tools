@@ -1,0 +1,293 @@
+{
+  "registry_id": 857,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.955,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Miedziana Katowice",
+    "precinct": "47, 120/48, 121/48, 122/48, 126/1, 131/1, a.m. 11, obręb 0004 Dąbrówka Mała, oraz 332/5, 333/5, 337/10, 597/10, a.m. 12, obręb 0004, Dąbrówka Mała",
+    "parcel_numbers": [
+      "47",
+      "120/48",
+      "121/48",
+      "122/48",
+      "126/1",
+      "131/1",
+      "332/5",
+      "333/5",
+      "337/10",
+      "597/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((505087.751000 266636.244000,505057.490000 266607.218000,505032.466000 266590.904000,504914.345000 266519.283000,504911.690000 266523.277100,504912.034000 266528.009000,504931.158000 266549.279000,504941.670000 266562.600000,504978.932000 266577.820000,505003.777000 266592.688000,505024.487000 266607.051000,505042.933000 266623.913000,505049.846000 266631.925000,505073.244000 266636.578000,505087.751000 266636.244000)),((504919.464000 266558.161000,504919.993000 266558.824000,504940.927000 266585.376000,504941.437000 266586.199000,504961.136000 266617.516000,504969.228000 266632.918000,504970.377000 266635.101000,504980.746000 266655.649000,504999.095000 266652.654000,504987.496000 266631.343000,505028.893000 266627.749000,504981.665000 266597.492000,504963.046000 266592.255000,504952.730000 266576.493000,504941.670000 266562.600000,504939.620000 266561.778000,504912.145000 266548.965100,504919.464000 266558.161000)),((504699.936000 266685.393000,504708.470000 266683.130000,504754.044000 266671.345000,504846.473000 266654.553000,504909.122000 266643.169000,504961.682000 266633.588000,504938.082000 266595.299000,504927.242000 266582.192000,504910.385000 266582.378000,504877.641000 266582.838100,504836.879000 266586.812900,504800.556000 266605.789100,504706.053000 266665.343000,504699.551000 266669.428000,504699.936000 266685.393000)),((504908.649000 266674.906000,504970.491000 266664.481000,504974.277000 266667.339000,504987.468000 266692.526000,504994.001000 266689.311000,504992.946000 266685.167000,504978.831000 266661.851100,504975.571000 266656.488000,504950.508000 266661.861000,504908.553000 266670.780000,504908.649000 266674.906000)))",
+    "site_description": "Teren jest nieużytkiem porośniętym ubogą roślinnością (trawy i pojedyncze drzewa), stanowiącym w przeszłości przestrzeń między trzema liniami kolejowymi (obecnie w znacznej mierze rozebranymi)."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Przed 30 kwietnia 2007 r. Dokładna data wystąpienia zanieczyszczenia nie jest znana.  Zidentyfikowane na przedmiotowym terenie zanieczyszczenie związane jest  z wieloletnią działalnością Huty Metali Nieżelaznych „Szopienice” (w 1981 r. zamknięto piec do wytapiania ołowiu, w latach następnych likwidowano zaś kolejne; w 2002 r. wstrzymano wytop cynku). Pozostałość po działalności huty stanowią m.in. nasypy oraz odpady pohutnicze o różnorodnym składzie chemicznym (zawierającym głównie metale ciężkie, w tym znaczne ilości cynku). Stwierdzone na rozpatrywanym obszarze zanieczyszczenie należy uznać za historyczne, z uwagi na historię terenu i jego wieloletni przemysłowy charakter, a także charakterystykę samych zanieczyszczeń, oraz brak innych przesłanek pozwalających na powiązanie stwierdzonego zanieczyszczenia powierzchni ziemi  ze źródłem jego powstania."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "brak działalności",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Katowice",
+      "address": "ul. Młyńska 4 40 - 098 Katowice",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "47",
+        "120/48",
+        "121/48",
+        "122/48",
+        "126/1",
+        "131/1",
+        "332/5",
+        "333/5",
+        "337/10",
+        "597/10"
+      ],
+      "economic_activity_code": "-"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "140 mg/kg s.m., 170 mg/kg s.m., 210 mg/kg s.m.",
+      "area_ha": 1.44
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "6100 mg/kg s.m., 8100 mg/kg s.m.",
+      "area_ha": 1.44
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "21 mg/kg s.m., 24 mg/kg s.m., 27 mg/kg s.m.",
+      "area_ha": 1.44
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "340 mg/kg s.m.",
+      "area_ha": 0.52
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "870 mg/kg s.m., 1100 mg/kg s.m., 1300 mg/kg s.m.",
+      "area_ha": 1.44
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,1 mg/kg s.m.",
+      "area_ha": 0.52
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,1 mg/kg s.m.",
+      "area_ha": 0.52
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "240 mg/kg s.m., 250 mg/kg s.m.",
+      "area_ha": 0.47
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "4400 mg/kg s.m., 21000 mg/kg s.m., 33000 mg/kg s.m.",
+      "area_ha": 0.51
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "27 mg/kg s.m., 130 mg/kg s.m., 140 mg/kg s.m.",
+      "area_ha": 0.51
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "770 mg/kg s.m., 6700 mg/kg s.m., 9300 mg/kg s.m.",
+      "area_ha": 0.51
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "22 mg/kg s.m., 23 mg/kg s.m., 24 mg/kg s.m., 27 mg/kg s.m., 30 mg/kg s.m., 32 mg/kg s.m., 33 mg/kg s.m., 58 mg/kg s.m., 59 mg/kg s.m.,120 mg/kg s.m., 160 mg/kg s.m., 170 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "310 mg/kg s.m., 350 mg/kg s.m., 340 mg/kg s.m., 370 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "380 mg/kg s.m., 470 mg/kg s.m., 590 mg/kg s.m., 1000 mg/kg s.m., 1300 mg/kg s.m., 1500 mg/kg s.m., 1700 mg/kg s.m., 1800 mg/kg s.m.,1900 mg/kg s.m., 3200 mg/kg s.m., 4100 mg/kg s.m., 4600 mg/kg s.m., 4900 mg/kg s.m., 5400 mg/kg s.m., 7000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,8 mg/kg s.m., 3,9 mg/kg s.m., 4,9 mg/kg s.m., 5,7 mg/kg s.m., 7,8 mg/kg s.m., 9,3 mg/kg s.m., 9,7 mg/kg s.m., 12 mg/kg s.m., 13 mg/kg s.m.,14 mg/kg s.m., 15 mg/kg s.m., 16 mg/kg s.m., 18 mg/kg s.m., 21 mg/kg s.m., 24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "320 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "110 mg/kg s.m., 150 mg/kg s.m., 300 mg/kg s.m., 330 mg/kg s.m., 360 mg/kg s.m., 390 mg/kg s.m., 420 mg/kg s.m., 460 mg/kg s.m., 580 mg/kg s.m., 650 mg/kg s.m., 760 mg/kg s.m., 850 mg/kg s.m., 1000 mg/kg s.m., 1200 mg/kg s.m.,2000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "56 mg/kg s.m., 61 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1100 mg/kg s.m., 1200 mg/kg s.m., 1700 mg/kg s.m., 4400 mg/kg s.m., 5800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,2 mg/kg s.m., 11 mg/kg s.m., 17 mg/kg s.m., 28 mg/kg s.m., 36 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "350 mg/kg s.m., 360 mg/kg s.m., 450 mg/kg s.m., 680 mg/kg s.m., 1000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "34 mg/kg s.m., 41 mg/kg s.m., 42 mg/kg s.m., 70 mg/kg s.m., 79 mg/kg s.m., 140 mg/kg s.m., 210 mg/kg s.m., 350 mg/kg s.m., 480 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "360 mg/kg s.m., 370 mg/kg s.m., 390 mg/kg s.m., 420 mg/kg s.m., 470 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "360 mg/kg s.m., 370 mg/kg s.m., 410 mg/kg s.m., 440 mg/kg s.m., 730 mg/kg s.m., 850 mg/kg s.m., 1400 mg/kg s.m., 3400 mg/kg s.m., 4200 mg/kg s.m., 4800 mg/kg s.m., 8300 mg/kg s.m., 11000 mg/kg s.m., 14000 mg/kg s.m., 35000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,9 mg/kg s.m., 7,3 mg/kg s.m., 13 mg/kg s.m., 18 mg/kg s.m., 33 mg/kg s.m., 37 mg/kg s.m., 55 mg/kg s.m., 300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "230 mg/kg s.m., 280 mg/kg s.m., 300 mg/kg s.m., 430 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "290 mg/kg s.m., 350 mg/kg s.m., 540 mg/kg s.m., 590 mg/kg s.m., 920 mg/kg s.m., 1600 mg/kg s.m., 1700 mg/kg s.m., 4000 mg/kg s.m., 6400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "6900 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-10",
+    "legal_basis": "art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.3.2019.KN",
+    "decisions": [
+      {
+        "issue_date": "2019-08-12",
+        "reference": "WSI.515.3.2019.KN",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Katowice",
+        "address": "ul. Młyńska 4 40 - 098 Katowice",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

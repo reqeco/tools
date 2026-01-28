@@ -1,0 +1,50 @@
+{
+  "registry_id": 1915,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "częstochowski",
+    "municipality": "Mykanów",
+    "address": "Miejscowość Rybna",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((508161.24262298044050112 341542.20390582323307171, 508137.83197181031573564 341485.84493078402010724, 508124.82605449354741722 341361.85518569772830233, 508203.72861954843392596 341350.58339068986242637, 508211.53216993849491701 341432.95420036255382001, 508172.51441798824816942 341499.71790925518143922, 508191.58976338617503643 341527.46386619756231084, 508161.24262298044050112 341542.20390582323307171)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Stowarzyszenie \"ZIMORODEK\"",
+      "address": "ul. Szara 4a 05-200 Wołomin",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "Castor fiber bóbr europejski"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-05-15",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

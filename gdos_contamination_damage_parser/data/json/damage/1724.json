@@ -1,0 +1,59 @@
+{
+  "registry_id": 1724,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "chojnicki",
+    "municipality": "Czersk",
+    "address": "Zawada Gmina Czersk",
+    "precinct": "obręb Wieck",
+    "parcel_numbers": [
+      "194/10",
+      "195 oraz 196/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((407593.32905954105 649551.1614615396,407597.56240134174 649541.9010263598,407657.0937704197 649575.5031768912,407685.9334114338 649524.7030752907,407782.24193739664 649577.0906800712,407690.43133709417 649617.3074271707,407657.6229381398 649619.6886819294,407652.06667702907 649582.6469411785,407593.32905954105 649551.1614615396))",
+    "site_description": "w okolicach MEW w Zawadach na rzece Niechwaszcz"
+  },
+  "occurrence_time": {
+    "date": "2020-07-24",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "na skutek gwałtownego spuszczenia wody ze zbiornika zaporowego doszło do zanieczyszczenia wody w rzece Niechwaszcz i Wda co spowodowało śniecie ryb.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Stowarzyszenie Miłośnikow Rzeki Wdy",
+      "address": "ul. Jana Kowalczyka, 03-193 Warszawa",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Elektrownia Wodna w Zawadach",
+      "address": "Zawady",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "minóg rzeczny (Lampetra planeri)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2020-07-30",
+    "detection_date": "2020-07-24",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

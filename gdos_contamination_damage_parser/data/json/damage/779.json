@@ -1,0 +1,64 @@
+{
+  "registry_id": 779,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Brwinów",
+    "address": "05-805 Kanie, ul. Warszawska 21",
+    "precinct": "Kanie",
+    "parcel_numbers": [
+      "17/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((621581.6920763303 477132.09131246246,621713.9840076534 477122.0371256927,621712.3965044711 477005.09105846286,621637.2546874793 477008.7952325335,621592.275430834 476970.1659886148,621555.2336900637 476970.6951563349,621555.2336900643 477020.43692248315,621583.8087472299 477020.43692248315,621581.6920763303 477132.09131246246))",
+    "site_description": "teren zakładu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "działalność prowadzona w sposób ciągły"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Kosmepol Sp. z o.o.",
+      "address": "ul. Warszawska 21, 05-805 Kanie",
+      "legal_form": "podmiot gospodarczy"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Kosmepol Sp. z o.o.",
+      "address": "ul. Warszawska 21, 05-805 Kanie",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "550-1030",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

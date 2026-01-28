@@ -1,0 +1,147 @@
+{
+  "registry_id": 404,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.317,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Śmidowicza i ul. Nasypowa",
+    "precinct": "21 Gdynia",
+    "parcel_numbers": [
+      "361 obręb 21 Gdynia"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((469137.7401362989 742472.7644566651,469138.5338878889 742496.3124204343,469070.5358352191 742536.5291675357,469035.610765369 742552.4041992817,469021.85240451887 742530.7083225539,469071.594170669 742508.2186942445,469114.192172539 742485.1998982048,469138.00472015905 742472.4998728046,469137.7401362989 742472.7644566651))",
+    "site_description": "Nadmorskie tarasy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "Murapol Śmidowicza Sp. z o.o.",
+      "address": "ul. Partyzantów 49, 43-300 Bielsko-Biała",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1307-4751 mg/kg s.m.",
+      "area_ha": 2.317
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "71-23484 mg/kg s.m.",
+      "area_ha": 2.317
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzen",
+      "concentration": "1,2 mg/kg s.m.",
+      "area_ha": 2.317
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "5,6-15 mg/kg s.m.",
+      "area_ha": 2.317
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "6,9-40 mg/kg s.m.",
+      "area_ha": 2.317
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "3,2 mg/kg s.m.",
+      "area_ha": 2.317
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "57-8778 mg/kg s.m.",
+      "area_ha": 2.317
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "333 mg/kg s.m.",
+      "area_ha": 2.317
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "1,2-1, mg/kg s.m.",
+      "area_ha": 2.317
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "2,8-6,7 mg/kg s.m.",
+      "area_ha": 2.317
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-09-01",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WZS.515.3.2018.PG",
+    "decisions": [
+      {
+        "issue_date": "2017-11-07",
+        "reference": "RDOŚ-Gd-WZS-515.3.2018.PG.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Murapol Śmidowicza Sp. z o.o.",
+        "address": "ul. Partyzantów 49, 43-300 Bielsko-Biała",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2017-11-17",
+    "planned_end": "2019-09-30",
+    "actual_end": "2019-07-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "a)\twybraniu zanieczyszczonych gruntów stwierdzonych od powierzchni terenu w sposób następujący: - do głębokości ok. 2 m p.p.t. w rejonie sond nr: 22, 23, 24, 6 oraz sondy nr 3’, co stanowi ok. 7 500 Mg zanieczyszczonego gruntu,  -  do głębokości ok. 5 m p.p.t. rejon sond nr: 9,10,11, 12, 8’, 9’ co stanowi ok. 15 000 Mg zanieczyszczonego gruntu,  - warstwy powierzchniowej do głębokości 0,03 m ppt w rejonie sond nr: 4’, 5’, 6’, 7’ i 8’ – co stanowi ok. 3000 Mg zanieczyszczonego gruntu,  b)\tprzykryciu miejsc po wydobyciu zanieczyszczonego gruntu, szczelną konstrukcją fundamentowych, wielkopowierzchniowych płyt betonowych (budynki, garaże), zgodną z projektem budowlanym, c)\tzabezpieczeniu w sposób trwały miejsc, po wydobytym zanieczyszczonym gruncie, geomembraną PEHD obszarów pomiędzy budynkami, d)\twykonaniu w miejscu wydobytego zanieczyszczonego gruntu szczelnej konstrukcji terenów komunikacyjnych (ulic, parkingów, chodników, dróg pożarowych) zgodnie z projektem budowlanym,",
+    "ecological_effect": "spodziewany efekt: ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

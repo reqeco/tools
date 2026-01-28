@@ -1,0 +1,88 @@
+{
+  "registry_id": 408,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "świdnicki",
+    "municipality": "Świdnik",
+    "address": "Al. Lotników Polskich 1",
+    "precinct": "0001 Miasto Świdnik",
+    "parcel_numbers": [
+      "061701_1.0001.1765/28"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((757994.1550304106 380626.7503365809,757979.0737494667 380571.7168931654,758177.2470710862 380520.65220787935,758178.0408227112 380520.65220787935,758180.9512453519 380530.7063946603,758210.8492231156 380523.5626303982,758209.790887616 380522.2397110881,758232.5451007849 380515.0959468167,758244.4513752126 380556.3710293807,758181.7449970603 380572.77522879466,758183.0679164487 380577.2731544571,757994.1550304117 380627.2795043122,757994.1550304106 380626.7503365809))",
+    "site_description": "teren w okolicy hangarów lotniczych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2012-03-01",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu powierzchni ziemi substancjami ropopochodnymi w wyniku wycieku zużytego oleju lotniczego z podziemnego zbiornika.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wytwórnia Sprzętu Komunikacyjnego \"PZL-ŚWIDNIK\" S.A.",
+      "address": "Al. Lotników Polskich 1, 21-045 Świdnik",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Wytwórnia Sprzętu Komunikacyjnego \"PZL-ŚWIDNIK\" S.A.",
+      "address": "Al. Lotników Polskich 1, 21-045 Świdnik",
+      "economic_activity_code": "30.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3800 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-06-06",
+    "detection_date": "2012-03-01",
+    "decisions": [
+      {
+        "issue_date": "2012-07-02",
+        "reference": "WSI.511.2.2012.RSZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-08-01",
+    "planned_end": "2012-12-31",
+    "actual_end": "2012-08-27",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Wydobyto i wywieziono zanieczyszczone grunty (ex-situ), wykopy zostały uzupełnione czystym kruszywem naturalnym.",
+    "ecological_effect": "Doprowadzono środowisko gruntowe w zakresie zawartości substancji ropopochodnych do standardów jakości gleby i ziemi określonych dla obszarów typu C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Wytwórnia Sprzętu Komunikacyjnego \"PZL-ŚWIDNIK\" S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

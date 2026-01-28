@@ -1,0 +1,84 @@
+{
+  "registry_id": 301,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.096,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Prandoty, Kraków",
+    "precinct": "7 Śródmieście",
+    "parcel_numbers": [
+      "126105_9.0007.141/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((568216.334349476 246241.05706530623,568211.0426722261 246242.1154007567,568135.3716875551 246067.75463536568,568137.7529423153 246066.69629991613,568216.334349476 246241.05706530623), (568180.8801119057 246217.77368540596,568176.9113539658 246219.62577243522,568152.3050547555 246162.74024200626,568156.2738126855 246161.68190655578,568180.8801119057 246217.77368540596), (568121.084158975 246208.51325021684,568118.438320355 246207.19033090863,568132.4612650651 246190.2569637075,568134.5779359651 246190.78613142576,568121.084158975 246208.51325021684), (568109.1778851647 246197.40072798543,568106.0028788148 246193.1673861863,568127.963339405 246181.79028010648,568129.5508425751 246186.28820576705,568109.1778851647 246197.40072798543), (568121.877910565 246183.6423671376,568107.590381985 246164.59232903738,568079.8090764246 246100.82761817705,568082.9840827745 246099.50469886512,568110.5008044748 246162.74024200533,568124.788333055 246182.0548639642,568121.877910565 246183.6423671376) , (568125.7276057651 246157.05168894492,568101.3858904149 246104.7963761054,568106.4129837949 246102.5474132765,568130.4901152852 246154.6704341853,568125.7276057651 246157.05168894492), (568124.5369783851 246126.2276689671,568109.984865945 246094.08072967548,568112.6307045647 246092.75781036634,568127.0505250752 246125.0370415859,568124.5369783851 246126.2276689671)))",
+    "site_description": "Zanieczyszczenie związane jest z intensywnym ruchem i obsługą pojazdów mechanicznych w długim okresie czasu poprzedzającym badania."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Działalność usługowa wspomagająca transport lądowy",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "Buma Development S.A.",
+      "address": "ul. Wadowicka 6, Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "56-93 [mg/kg s.m.]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-06-23",
+    "legal_basis": "art. 61 § 3 Kpa",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-09-01",
+        "reference": "ZS.515.11.2017.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Buma Development S.A.",
+        "address": "ul. Wadowicka 6, Kraków",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2017-12-01",
+    "planned_end": "2018-06-15",
+    "actual_end": "2018-04-17",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczonej gleby i ziemi z terenu działki nr 141/3 i przekazanie jej do unieszkodliwienia.",
+    "ecological_effect": "Zawartość sumy węglowodorów C12-C35, składników frakcji oleju, w ziemi mieści się w granicach zawartości dopuszczalnej określonej dla I grupy gruntów, ustalonej w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

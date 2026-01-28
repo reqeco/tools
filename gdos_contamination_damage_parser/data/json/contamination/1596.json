@@ -1,0 +1,206 @@
+{
+  "registry_id": 1596,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.2,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Gliwice",
+    "municipality": "Gliwice",
+    "address": "o nr ew. 509/2, 510 oraz 511 (obręb Ligota Zabrska) położonych przy ul. Pszczyńskiej w Gliwicach",
+    "precinct": "0030 Ligota Zabrska",
+    "parcel_numbers": [
+      "246601_1.0030.509/2",
+      "246601_1.0030.510",
+      "246601_1.0030.511"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((479744.7433539999765344 266864.18129600002430379, 479745.10301800002343953 266860.44855600001756102, 479753.50780199997825548 266861.15527599997585639, 479763.89802700001746416 266861.60547299997415394, 479764.98869600001489744 266861.70077100000344217, 479791.71487800002796575 266864.02051200001733378, 479791.49711699999170378 266858.96626800001831725, 479791.2743250000057742 266852.79272000002674758, 479751.4913679999881424 266848.67934799997601658, 479711.72825899999588728 266844.55571500002406538, 479671.98526699998183176 266840.44180600001709536, 479633.96669999998994172 266835.98492700001224875, 479594.27654900000197813 266831.34060300001874566, 479554.56627599999774247 266826.68655500002205372, 479548.50914699997520074 266825.1587629999849014, 479540.73503099998924881 266817.8272809999762103, 479530.14522200002102181 266824.84558299998752773, 479524.33013299998128787 266828.69153200002619997, 479505.94406599999638274 266810.34874200000194833, 479465.09076400002231821 266847.11685699998633936, 479424.24758800002746284 266883.89483599999221042, 479386.24834599997848272 266918.10606000002007931, 479351.24715000001015142 266946.34036500001093373, 479316.24595200002659112 266974.57467399997403845, 479281.24475399998482317 267002.80898700002580881, 479251.37498999998206273 267026.8966999999829568, 479216.37392400001408532 267055.1410110000288114, 479181.37272400001529604 267083.37533299997448921, 479146.38151500001549721 267111.60952499997802079, 479116.51174899999750778 267135.69725000002654269, 479104.87117300002137199 267146.33765000000130385, 479092.55711900000460446 267142.54516600002534688, 479064.06089899997459725 267165.46509900002274662, 479081.70886000001337379 267167.53690200002165511, 479107.23160300002200529 267170.29255299997748807, 479189.65790900000138208 267177.17159699997864664, 479267.61911600001621991 267184.23051099997246638, 479389.98062200000276789 267194.65117700002156198, 479494.72996199998306111 267199.71139700000640005, 479528.48290300002554432 267201.33713200001511723, 479645.72116499999538064 267211.30685400002403185, 479645.95528400002513081 267208.64520000002812594, 479648.03378400002839044 267185.5402229999890551, 479648.33764899999368936 267182.11805799999274313, 479619.22919500002171844 267179.53047800000058487, 479620.02845799998613074 267170.57475799997337162, 479621.06264600000577047 267159.01734000002034009, 479647.82189000002108514 266854.81829099997412413, 479744.7433539999765344 266864.18129600002430379))",
+    "site_description": "Zgodnie z informacjami zawartymi w rozpatrywanych dokumentach, na przedmiotowym terenie od początku lat 50-tych XX wieku funkcjonował zakład związany z obróbką metali nieżelaznych. Zakład prawdopodobnie zakończył działalność na przełomie lat 80 i 90 XX wieku. W 2002 r. na przedmiotowym terenie nie znajdowały się zabudowania dawnego zakładu, a jedynie pozostałości fundamentów dawnych budynków."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "GLERA Sp. z o.o.",
+      "address": null,
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-02-01",
+    "legal_basis": null,
+    "case_reference": "WSI.515.2.2022.MS2",
+    "decisions": [
+      {
+        "issue_date": "2022-03-23",
+        "reference": "WSI.515.2.2022.MS2.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-04-14",
+        "reference": "WSI.515.2.2022.MS2.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "GLERA Sp. z o.o.",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-06-01",
+    "planned_end": "2022-08-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi ma zostać przeprowadzona metodą ex-situ. Zanieczyszczony grunt ma zostać usunięty z miejsc i głębokości zidentyfikowanych podczas IV i V etapu badań. Grunt zanieczyszczony zostanie usunięty i zastąpiony nowo nawiezionym, spełniającym wymagania jakościowe określone dla gruntów grupy I lub uzupełniony innymi elementami infrastruktury przyszłego zagospodarowania terenu, jak powierzchnie utwardzone czy zabudowania, zgodnie z założeniami projektu budowlanego.  Remediacja ma być realizowana do głębokości 1 m p.p.t. Wydobyty, zanieczyszczony grunt, ma zostać zagospodarowany w sposób zapewniający przestrzeganie przepisów z zakresu ochrony środowiska, ze szczególnym uwzględnieniem przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (tekst jedn. Dz. U. 2021, poz. 779 ze zm.).  Usunięta ziemia ma być zastąpiona ziemią w odpowiedniej ilości spełniającą warunki stawiane gruntom zaliczanym do I grupy zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (tekst jedn. Dz. U. z 2016 r., poz. 1395)",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

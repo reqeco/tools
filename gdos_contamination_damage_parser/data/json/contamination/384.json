@@ -1,0 +1,98 @@
+{
+  "registry_id": 384,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2101,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Ogrodowa 31/35, obręb 6-01-02",
+    "precinct": "6-01-02",
+    "parcel_numbers": [
+      "124"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635733.4794045885 487697.9087281488,635784.8086739749 487728.07128846645,635799.0962025598 487700.55456676707,635746.708597732 487669.8628387181,635733.4794045885 487697.9087281488))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "DOM DEVELOPMENT S.A.",
+      "address": "Pl. Piłsudskiego 3, 00-078 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "813-2830 [mg/kg]",
+      "area_ha": 0.2101
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "17,8 [mg/kg]",
+      "area_ha": 0.2101
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "15,3 [mg/kg]",
+      "area_ha": 0.2101
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-05-16",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.23.2029.SSz",
+    "decisions": [
+      {
+        "issue_date": "2018-06-29",
+        "reference": "WSI.515.32.2018.SSz.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "DOM DEVELOPMENT S.A.",
+        "address": "Pl. Piłsudskiego 3, 00-078 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-07-31",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-02-07",
+    "method": null,
+    "description": "remediacja ex situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

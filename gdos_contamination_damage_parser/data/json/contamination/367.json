@@ -1,0 +1,148 @@
+{
+  "registry_id": 367,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.012,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "ul. Tama Pomorzańska 26",
+    "precinct": null,
+    "parcel_numbers": [
+      "1/54"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((203416.26212227606 625060.4513403866,203467.062230321 625152.7911082003,203524.74152019434 625195.9182775356,203572.63120580505 625233.2246019337,203582.94997795252 625228.9912600843,203580.3041391251 625209.6766381301,203554.9040849278 625184.2765874397,203553.58116567915 625154.6431948347,203563.10618620086 625141.6785855172,203563.10618627508 625133.2119019134,203558.87284389493 625130.5660633147,203555.16866934556 625125.0098022092,203545.3790654349 625080.0305456184,203544.0561460122 625070.240942712,203508.07273568498 625058.3346690554,203475.26433198788 625065.7430173634,203466.00389564614 625047.4867308894,203466.79764739051 625041.6658859141,203454.0976202328 625035.3158732718,203453.03928463865 625034.5221216865,203453.03928463632 625034.7867055461,203452.77470073616 625035.0512894066,203416.26212227606 625060.4513403866))",
+    "site_description": "Teren po dawnej klasycznej gazowni węglowej."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1987-09-30",
+    "description": "Wyłączenie z eksploatacji klasycznej wytwórni gazu"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie koksu",
+    "current": "Dystrybucja paliw gazowych w systemie sieciowym"
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "address": "ul. Krucza 6/14 00-952 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "237",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "126",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "33,8",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "46,1",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "43,4",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "37,5",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "41,6",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "17,5",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "23,1",
+      "area_ha": 0.012
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-03-13",
+    "legal_basis": "art. 101 l ust. 2 ustawy POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-04-25",
+        "reference": "WONS-NS.515.1.2018.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-05-24",
+        "reference": "WONS-NS.513.2.2018.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+        "address": "ul. Krucza 6/14 00-952 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-04-14",
+    "planned_end": "2021-09-30",
+    "actual_end": "2021-11-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ, in-situ-bioremediacja",
+    "ecological_effect": "usunięto zanieczyszczenie do dopuszczalnej zawartości",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,72 @@
+{
+  "registry_id": 352,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "zamojski",
+    "municipality": "Zamość",
+    "address": "Sitaniec Błonie 463a",
+    "precinct": "0018 Sitaniec Błonie",
+    "parcel_numbers": [
+      "062014_2.0018.379/12",
+      "062014_2.0018.379/13"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((797265.1741508818 332202.9987204531,797275.7575064148 332205.6445591012,797320.7367673358 332200.35288196616,797323.118022312 332196.11954016984,797329.9972034164 332200.088298128,797353.8097533089 332196.11954024807,797320.472182912 332102.7214366859,797320.7367668035 332103.7797721382,797320.2075990298 332103.25060441624,797265.1741508818 332202.9987204531))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A Nr 4254 w Sitańcu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1992-01-01",
+    "to": "2010-07-27",
+    "description": "po dacie rozpoczęcia działalności, a przed datą wykrycia zanieczyszczenia"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zgłoszenie przeprowadzenia działań zapobiegawczych w celu usunięcia szkody polegającej na punktowym nieznacznym zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie modernizowanej Stacji Paliw PKN ORLEN S.A. Nr 4254 w miejscowości Sitaniec, gmina Zamość. W środowisku gruntowym nie stwierdzono przekroczeń standardów jakości gleby i ziemi obowiązujących dla obszaru typu C.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-12-20",
+    "detection_date": "2010-07-27",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2010-09-22",
+    "method": null,
+    "description": "Przeprowadzono działania zapobiegawcze w celu usunięcia szkody polegającej na punktowym, nieznacznym zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie modernizowanej Stacji Paliw PKN ORLEN S.A. Nr 4254 w miejscowości Sitaniec, gmina Zamość. Po wymianie i modernizacji infrastruktury paliwowej naziemnej i podziemnej, wykopy uzupełniono czystym, zagęszczonym kruszywem naturalnym.",
+    "ecological_effect": "W środowisku gruntowym nie stwierdzono przekroczeń standardów jakości gleby i ziemi obowiązujących dla obszaru typu C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

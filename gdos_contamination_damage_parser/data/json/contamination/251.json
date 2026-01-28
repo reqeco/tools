@@ -1,0 +1,214 @@
+{
+  "registry_id": 251,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2025,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "tczewski",
+    "municipality": "Gniew",
+    "address": "ul. 7 Marca 4",
+    "precinct": "0019",
+    "parcel_numbers": [
+      "7/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((487528.32040047995 663791.6848699013,487549.09023369 663794.9921681806,487589.5715646501 663796.0505036311,487591.55594362 663766.1525271721,487567.743396 663758.2150112893,487528.32040048 663753.1879179003,487528.32040047995 663791.5525779705,487528.32040047995 663791.6848699013))",
+    "site_description": "teren po byłej gazowni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "1902 - 1983"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Dystrybucja paliw gazowych w systemie sieciowym",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "address": "ul. Wojciecha Bandrowskiego 16, 33-100 Tarnów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "7/4"
+      ],
+      "economic_activity_code": "35.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,64 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "82,8 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,38 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "2,43 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "26,7 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "23,5 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "2,36 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "19,8 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "18,5 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "12,2 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,28 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Fenol",
+      "concentration": "1,8 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "0,96 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "6,14 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "7,67 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,86 mg/kg s.m.",
+      "area_ha": 0.2025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,55 mg/kg s.m.",
+      "area_ha": 0.2025
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-05-26",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WZS.515.1.2020",
+    "decisions": [
+      {
+        "issue_date": "2020-08-11",
+        "reference": "RDOŚ-Gd-WZS.515.1.2020.LK.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-04-13",
+        "reference": "RDOŚ-Gd-WZS.515.1.2020.LK.MK.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art.162 § 1 pkt 1 oraz § 3 k.p.a.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-04-05",
+        "reference": "RDOŚ-Gd-WZS.515.3.2022.MK.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+        "address": "ul. Wojciecha Bandrowskiego 16, 33-100 Tarnów",
+        "economic_activity_code": "35.22.Z"
+      }
+    ],
+    "planned_start": "2024-04-01",
+    "planned_end": "2026-12-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "3.1.\tRemediacja przedmiotowego terenu polegać będzie na zastosowaniu metody ex situ,  tj. wydobycia zanieczyszczonego gruntu z miejsca jego występowania: a)\tz warstwy 0 – 0,25 m p.p.t., z sekcji S1, S2 i S3 –  ok. 1747 m2; b)\tz głębokości do 0,25 – 1,0 m p.p.t., z powierzchni ok. 140 m2 w obrębie otworu badawczego A.",
+    "ecological_effect": "Przeprowadzone prace remediacyjne doprowadzą do całkowitego usunięcia zanieczyszczenia, tj. osiągnięcia dopuszczalnych stężeń substancji powodujących ryzyko szczególnie istotne dla ochrony powierzchni ziemi, określonych dla IV grupy gruntów, zgodnie z Rozporządzeniem Ministra Środowiska z dnia 01 września 2016 r.                             w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi                      (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": null
+  },
+  "notes": null
+}

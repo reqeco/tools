@@ -1,0 +1,144 @@
+{
+  "registry_id": 1601,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Żory",
+    "municipality": "Żory",
+    "address": "ul. Północna 5  44-240 Żory",
+    "precinct": "0002 Folwarki",
+    "parcel_numbers": [
+      "1982/116"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((476165.31 243818.69,476188.8 243872.19,476242.57 243848.52,476219.14 243795.25,476196.52 243805.09,476165.31 243818.69))",
+    "site_description": "Na terenie działki nr 1982/116, obręb 0002 Folwarki, stwierdzono przekroczenie dopuszczalnych stężeń substancji powodujących ryzyko."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Brak danych."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na terenie byłej stacji paliw, działka nr 1982/116, obręb 0002 Folwarki, stwierdzono przekroczenie dopuszczalnych stężeń substancji powodujących ryzyko.",
+  "total_area_ha": 0.025,
+  "reporters": [
+    {
+      "name": "OSIN PETROLEUM Sp. z o.o.",
+      "address": "ul. Północna 5  44-240 Żory",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "OSIN PETROLEUM Sp. z o.o.",
+      "address": "ul. Północna 5  44-240 Żory",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-03-29",
+    "detection_date": "2018-02-01",
+    "decisions": [
+      {
+        "issue_date": "2018-06-21",
+        "reference": "WSI.511.2.2018.SA.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-07-01",
+    "planned_end": "2018-10-31",
+    "actual_end": "2018-08-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Metoda ex situ.",
+    "ecological_effect": "Doprowadzono do usunięcia zanieczyszczenia i osiągnięcia dopuszczalnych zawartości w glebie i ziemi określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395) dla gruntów grupy IV dla głębokości przekraczającej 0,25 m ppt, przy wodoprzepuszczalności wyższej lub równej 1x10-7.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "Obowiązany",
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

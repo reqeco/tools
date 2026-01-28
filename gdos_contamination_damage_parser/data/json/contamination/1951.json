@@ -1,0 +1,103 @@
+{
+  "registry_id": 1951,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "tarnogórski",
+    "municipality": "Tarnowskie Góry",
+    "address": "w pobliżu ul. Zagórskiej",
+    "precinct": "0004 Tarnowskie Góry",
+    "parcel_numbers": [
+      "241304_1.0004.AR_2.2620/17"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((488240.48 288041.4,488234.12 288106.37,488227.77 288132.13,488227.69 288132.52,488230.43 288135.46,488253.86 288190.3,488258.16 288187.73,488262.51 288185.08,488242.1 288132.87,488251.99 288055.34,488254.61 288048.95,488259.7 288042.48,488318.91 287994.76,488307.83 287981.87,488240.48 288041.4))",
+    "site_description": "działka o nr ew. 2620/17, a. m. 2, obręb 0004 Tarnowskie Góry, położona w Tarnowskich Górach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Tarnowskie Góry",
+      "address": null,
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "241304_1.0004.AR_2.2620/17"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-03-01",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (tekst jedn. Dz. U. z 2021 r., poz. 735 ze zm.) [dalej ustawa Kpa], w związku z art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2021 r., poz. 1973 ze zm.)",
+    "case_reference": "WSI.513.149.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-08-26",
+        "reference": "WSI.513.149.2022.MO.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

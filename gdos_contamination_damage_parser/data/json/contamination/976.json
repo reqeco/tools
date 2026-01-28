@@ -1,0 +1,82 @@
+{
+  "registry_id": 976,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "Trzebinia, działki nr 796/78, 796/66, 795/141",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "796/78",
+      "796/66",
+      "795/141"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532822.0675853009 254374.96867321338,532844.8217974709 254332.76754714455,532920.7573660109 254373.3811700428,532899.0614892908 254417.43438314274,532822.0675853009 254374.96867321338))",
+    "site_description": "Teren po byłych Zakładach Metalurgicznych \"Trzebinia\" w Trzebini"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PHU OLMAR J.Maj, B.Maj, Sp.J.",
+      "address": "ul. Kościuszki 45c 32-540 Trzebinia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "796/78",
+        "796/66",
+        "795/141"
+      ],
+      "economic_activity_code": "46.73.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-30",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.44.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-12-03",
+        "reference": "ZS.513.44.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PHU OLMAR J.Maj, B.Maj, Sp.J.",
+        "address": "ul. Kościuszki 45c 32-540 Trzebinia",
+        "economic_activity_code": "46.73.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

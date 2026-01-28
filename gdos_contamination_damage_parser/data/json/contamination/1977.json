@@ -1,0 +1,55 @@
+{
+  "registry_id": 1977,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Wiesława 1 w Gdańsku",
+    "precinct": "91",
+    "parcel_numbers": [
+      "23/12",
+      "23/14",
+      "30/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((478382.3474938699 721261.4300226737,478468.3372491899 721269.6321224077,478478.9206036899 721282.0675639473,478485.00603252987 721275.9821351068,478379.17248751986 721160.3589871973,478373.8808102699 721165.650664446,478375.4683134499 721167.767335346,478373.61622640985 721180.7319446057,478371.76413936995 721187.0819573067,478367.00162984984 721198.1944795372,478373.35164255 721202.9569890564,478378.90790366 721224.1236980557,478382.3474938699 721261.4300226737))",
+    "site_description": "Na przedmiotowym terenie prowadzona jest, od roku 1946, działalność związana z handlem hurtowym oraz detalicznym wyrobów metalowych, hutniczych, materiałów budowlanych i wykończeniowych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "METALZBYT SA",
+      "address": "ul. Wiesława 1, 80-757 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "23/12",
+        "30/2",
+        "23/14"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": "art. 61a kpa",
+    "case_reference": "RDOŚ-Gd-WZS.515.2.2024.MK",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "O uzgodnienie wystąpiła spółka BPI PROJECT VIII, która nie jest ujawniona jako władający nieruchomością ani nie spowodowała historycznego zanieczyszczenia powierzchnią ziemi."
+}

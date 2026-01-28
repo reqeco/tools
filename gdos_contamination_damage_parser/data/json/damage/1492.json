@@ -1,0 +1,83 @@
+{
+  "registry_id": 1492,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina wiejska)",
+    "address": "Szklary Górne",
+    "precinct": "Szklary Górne",
+    "parcel_numbers": [
+      "391/10",
+      "773",
+      "Szklary Górne"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((303867.30746536678634584 402558.85979391448199749, 303872.17173339438159019 402558.09323367476463318, 303869.01794899714877829 402549.85506401397287846, 303865.58332978945691139 402545.63728894386440516, 303862.48867179627995938 402545.80647394619882107, 303867.30746536678634584 402558.85979391448199749)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2020-11-25",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska, Skarb Państwa (Państwowe Gospodarstwo Leśne Lasy Państwowe, Nadleśnictwo Lubin )",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W dniu 25 listopada 2020 r. na terenie działki o nr ewid. 391/10 obręb Szklary Górne, gmina Lubin, doszło do awarii rurociągu PEHD L3 DN 800, przesyłającego odpady poflotacyjne z Oddziału Zakład Wzbogacania Rud „Lubin” do Obiektu Unieszkodliwiania Odpadów Wydobywczych „Żelazny Most”. W wyniku rozszczelnienia rurociągu na teren działek o nr ewid. 391/10 i 773 obręb Szklary Górne wypłynęło ok. 10 m3 odpadów poflotacyjnych. Oceniono, że łączna powierzchnia zalanego obszaru wynosiła ok. 0,038 ha.",
+  "total_area_ha": 0.006,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. M. Skłodowskiej – Curie 48, 59-301 Lubin",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. M. Skłodowskiej-Curie 48 59-301 Lubin",
+      "economic_activity_code": "24.44.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "623-1190 mg/kg s.m.",
+      "area_ha": 0.006
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2021-08-06",
+    "detection_date": "2020-11-25",
+    "decisions": [
+      {
+        "issue_date": "2021-10-18",
+        "reference": "WSI.511.4.2021.NŁ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 17b",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "zwolnienie z obowiązku przeprowadzenia działań naprawczych",
+    "description": "Podmiot korzystający ze środowiska został zwolniony z obowiązku przeprowadzania działań naprawczych w odniesieniu do szkody w środowisku w powierzchni ziemi na terenie działki o nr ewid 391/10 obręb Szklary Górne, gmina Lubin.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "Podmiot korzystający ze środowiska został zwolniony z obowiązku przeprowadzania działań naprawczych w odniesieniu do szkody w środowisku w powierzchni ziemi powstałej w skutek awarii rurociągu PEHD L3 DN 800 z dnia 25 listopada 2020 r., na terenie działki o nr ewid 391/10 obręb Szklary Górne, gmina Lubin."
+}

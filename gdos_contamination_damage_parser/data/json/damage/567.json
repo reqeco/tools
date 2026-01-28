@@ -1,0 +1,64 @@
+{
+  "registry_id": 567,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "miński",
+    "municipality": "Dobre",
+    "address": "Dobre",
+    "precinct": null,
+    "parcel_numbers": [
+      "724/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((681485.5538839638 498237.36398147885,681467.562181172 498109.83455974795,681430.5204401913 498115.6554047279,681444.2788011499 498214.6097692987,681485.5538839638 498237.36398147885))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2013-05-15",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zagrożenie szkodą w środowisku polegające na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw nr 991 w m. Dobre",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A",
+      "address": "ul. Chemików 7 Płock",
+      "legal_form": "podmiot korzystajcy ze srodowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 991 w m.Dobre- PKN ORLEN S.A.",
+      "address": "Dobre",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2013-05-15",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2013-06-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "polegały na wybieraniu zanieczyszczonej ziemi i wypompowaniu zanieczyszczonej wody celem wyeliminowania zagrożenia zanieczyszczenia środowiska gruntowo-wodnego. Prowadzone prace pozwoliły na usunięciu głównych przyczyn zanieczyszczeń, a więc punktu zlewczego paliw.",
+    "ecological_effect": "po przeprowadzonych działaniach tern spełnia określone prawem standardy",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

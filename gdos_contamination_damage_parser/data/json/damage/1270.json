@@ -1,0 +1,61 @@
+{
+  "registry_id": 1270,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "kolski",
+    "municipality": "Chodów",
+    "address": "Szołajdy 18, 62-652 Chodów",
+    "precinct": "Szołajdy",
+    "parcel_numbers": [
+      "210/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((506664.71797477 486672.73859106656,506675.30132927 486641.78227915894,506694.61595122993 486652.36563365813,506680.85759038 486679.35318762716,506664.71797477 486672.73859106656))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2019-10-24",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "24 października 2019 r. doszło do nielegalnej próby zakopywania na działce 210/1 w miejscowości Szołajdy, pojemników 1000l typu mauser, w których miały znajdować się odpady niebezpieczne. Ilość zakopanych pojemników nie jest znana, ale wg. informacji Wójta, miało dojść do uszkodzenia pojemników i substancje niebezpieczne miały przedostać się do gruntu.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Chodów",
+      "address": "Chodów 18, 62-652 Chodów",
+      "legal_form": "organ administracji publicznej"
+    },
+    {
+      "name": "Prokurator Okręgowy w Koninie",
+      "address": "ul. Kard. St. Wyszyńskiego 1, 62-510 Konin",
+      "legal_form": "prokurator"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "49.41.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2020-02-28",
+    "detection_date": "2019-10-24",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

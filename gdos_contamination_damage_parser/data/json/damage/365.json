@@ -1,0 +1,75 @@
+{
+  "registry_id": 365,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "świebodziński",
+    "municipality": "Łagów",
+    "address": "Toporów Świerczewskiego 23",
+    "precinct": null,
+    "parcel_numbers": [
+      "94/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((245018.35535457742 495195.3871211922,245013.32826094996 495193.7996180272,245018.35535457742 495195.3871211922))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu pierwiastkiem miedzi w miejscach impregnacji drewna w wyniku działalności Zakładu Drewbud (…) na terenie tartaku w Toporowie przy ul. Świerczewskiego 23, gm. Łagów",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Zakład Drewbud (..)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Miedź (Cu)",
+      "concentration": "1111",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-02-15",
+    "detection_date": "2011-03-16",
+    "decisions": [
+      {
+        "issue_date": "2011-06-29",
+        "reference": "WSI-I.510.5.2011.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-07-01",
+    "planned_end": "2011-08-31",
+    "actual_end": "2011-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zanieczyszczony grunt po wydobyciu, jako odpad niebezpieczny o kodzie 17 05 03 (w ilości 27,840 Mg) został przetransportowany do Zakładu Utylizacji Odpadów Sp. z o.o. w Gorzowie Wlkp.",
+    "ecological_effect": "Redukcja zanieczyszczeń gleby w zakresie zawartości pierwiastka miedzi (Cu) do wartości dopuszczalnych w gruntach typu B, zgodnie z Rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359)",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

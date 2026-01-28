@@ -1,0 +1,149 @@
+{
+  "registry_id": 537,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "tomaszowski",
+    "municipality": "Tomaszów Mazowiecki (gmina miejska)",
+    "address": "ul. Tamka 2, Tomaszów Mazowiecki",
+    "precinct": "0003",
+    "parcel_numbers": [
+      "3"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((570531.66783217643387616 410141.87552228214917704, 570542.70986640627961606 410183.79782173107378185, 570579.85976123041473329 410176.68600307457381859, 570568.81772700056899339 410133.82793801295338199, 570531.66783217643387616 410141.87552228214917704))",
+    "site_description": "Stacja Paliw nr 887 w Tomaszowie Mazowiecki"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed kwietniem 2012 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "zanieczyszczenie środowiska gruntowo-wodnego na terenie stacji paliw",
+  "total_area_ha": 0.05,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "81,7-2400 mg/kg suchej masy",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">3000 mg/kg suchej masy",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Etylobenzen",
+      "concentration": "14,9-20 mg/kg suchej masy",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Toluen",
+      "concentration": "14,5-18,2 mg/kg suchej masy",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "72,8-156 mg/kg suchej masy",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Styren",
+      "concentration": "3,51-9,04 mg/kg suchej masy",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "101-198 mg/kg suchej masy",
+      "area_ha": 0.05
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "BTX-lotne węglowodory aromatyczne"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Benzen"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-04-23",
+    "detection_date": "2010-01-01",
+    "decisions": [
+      {
+        "issue_date": "2012-05-22",
+        "reference": "WSI.511.4.2012.AR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-10-01",
+    "planned_end": "2017-10-31",
+    "actual_end": "2017-09-30",
+    "method": "zmniejszenie ilości zanieczyszczeń, usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięto zanieczyszczenie metodą insitu (odpompowywanie zanieczyszczeń z otworów technologicznych) wspomaganej bioremediacją w glebie z użyciem bioroztworu",
+    "ecological_effect": "obniżono stężenia substancji w wodach podziemnych do wartości dopuszczalnych dla obszaru C określonych we „Wskazówkach metodycznych do oceny stopnia zanieczyszczenia gruntów i wód podziemnych produktami ropopochodnymi i innymi substancjami chemicznymi w procesach rekultywacji” opracowanych przez PIOŚ w zakresie sumy olei mineralnych, sumy benzyn oraz sumy i pojedynczych BTEX oraz doprowadzono do standardów jakości gleby dla gruntów grupy C według rozporządzenia Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1395) w zakresie substancji ropopochodnych",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

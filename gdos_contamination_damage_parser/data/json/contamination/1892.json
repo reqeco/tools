@@ -1,0 +1,162 @@
+{
+  "registry_id": 1892,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0995,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Towarowa (etap F)",
+    "precinct": "6-01-07",
+    "parcel_numbers": [
+      "95/9",
+      "95/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635724.9730334769 486598.43048758805,635765.983532209 486515.35115476977,635901.715053818 486566.41584022716,635894.0421218002 486589.69922012556,635913.3567437817 486597.901319867,635898.8046313372 486643.14516034536,635895.6296249838 486641.5576571766,635889.2796122774 486663.7827016255,635814.9315468256 486635.73681219853,635816.2544661369 486630.97430267837,635724.9730334769 486598.43048758805))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PROJECT TOWAROWA 22 sp. z o.o.",
+      "address": "ul. Nowy Świat 2, 00-497 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.0995
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0995
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-08-24",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.42.2023.PBu",
+    "decisions": [
+      {
+        "issue_date": "2023-08-24",
+        "reference": "WOOŚ-IV.515.42.2023.PBu",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PROJECT TOWAROWA 22 sp. z o.o.",
+        "address": "ul. Nowy Świat 2, 00-497 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-10-01",
+    "planned_end": "2026-12-31",
+    "actual_end": "2024-01-03",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "efekt ekologiczny osiągnięto",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,121 @@
+{
+  "registry_id": 1942,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 3.2303,
+  "status": null,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "policki",
+    "municipality": "Dobra (Szczecińska)",
+    "address": "Mierzyn",
+    "precinct": "Mierzyn 2",
+    "parcel_numbers": [
+      "272/42"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((199391.73679799999808893 627683.1456770000513643, 199300.09560800000326708 627724.84366999997291714, 199288.65498799999477342 627729.85625499999150634, 199321.4613369999860879 627804.26256900001317263, 199354.75597500000731088 627879.64610500005073845, 199314.85729399998672307 627897.72359199996571988, 199284.78243399999337271 627911.34353199996985495, 199305.56663499999558553 627967.05979900003876537, 199312.9538170000014361 627984.63821500004269183, 199333.540153999987524 627974.22544099995866418, 199348.46964399999706075 627966.67100800003390759, 199363.0281599999871105 627959.31067799997981638, 199399.66118500000447966 627940.78365799994207919, 199444.90937800001120195 627917.89274499996099621, 199447.94899199999053963 627916.35669799998868257, 199482.68770300000323914 627898.813293999992311, 199391.73679799999808893 627683.1456770000513643))",
+    "site_description": "na zgłoszonym terenie znajdowała się stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "działalność nieznana",
+    "current": "działalność nieznana"
+  },
+  "land_holders": [
+    {
+      "name": "MABO B BOGACKI SJ",
+      "address": "ul. Welecka 2  72-006 Mierzyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "272/42"
+      ],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "330 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "32-322 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,18 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,13-0,18 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,15 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-08-08",
+    "legal_basis": "art. 101 c ust. 3 pkt 2",
+    "case_reference": "WONS.513.13.2023.MR",
+    "decisions": [
+      {
+        "issue_date": "2023-12-18",
+        "reference": "WONS.513.13.2023.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MABO B BOGACKI SJ",
+        "address": "ul. Welecka 2  72-006 Mierzyn",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

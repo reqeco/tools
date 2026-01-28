@@ -1,0 +1,118 @@
+{
+  "registry_id": 1405,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2476,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Szeligowskiej",
+    "precinct": "6-13-05",
+    "parcel_numbers": [
+      "11/5",
+      "11/6",
+      "11/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((629213.2598997541 486126.545168899,629236.8078635349 486219.67868849635,629316.9767739393 486200.3640665263,629281.787120198 486056.6950291982,629251.6245598411 485938.1614587959,629220.1390801866 485986.31572176795,629222.2557510885 485988.96156039834,629228.6057637936 485987.10947335884,629259.562075729 486009.06993394904,629276.4954429441 486078.39090591855,629283.3746233803 486109.87638555747,629213.2598997541 486126.545168899))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "NP8 Sp. z o. o., Sp.k.",
+      "address": "Al. Jerozolimskie 98, 00-807 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "11/5",
+        "11/6",
+        "11/8"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.2476
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.2476
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.2476
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.2476
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.2476
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-01-29",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "WOOŚ-IV.515.16.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-08-17",
+        "reference": "WOOŚ-IV.515.16.2021.DŚc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "NP8 Sp. z o. o., Sp.k.",
+        "address": "Al. Jerozolimskie 98, 00-807 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-09-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-02-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex- situ",
+    "ecological_effect": "osiągnięcie zamierzonego efektu ekologicznego",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

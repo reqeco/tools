@@ -1,0 +1,95 @@
+{
+  "registry_id": 709,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Sobótka",
+    "address": "55-050 Sobótka, ul. Świdnicka 31",
+    "precinct": "obręb 0002 Sobótka",
+    "parcel_numbers": [
+      "15 obręb 0002 Sobótka",
+      "AM-28"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((340882.20562117575900629 339386.64734443090856075, 340850.59517821361077949 339407.26927745528519154, 340870.83845261856913567 339407.98465492110699415, 340877.08069083385635167 339406.82041140645742416, 340891.58870393759571016 339399.63603648170828819, 340882.20562117575900629 339386.64734443090856075))",
+    "site_description": "stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy Orlen S. A.,",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "Spółka akcyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy Orlen S. A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "35000 mg/kg",
+      "area_ha": 0.04
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2014-09-10",
+        "reference": "WSI.511.4.2014.AS.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2014-09-30",
+    "planned_end": "2014-11-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Usunięcie zanieczyszczonego gruntu metodą ex – situ, poprzez wydobycie i przekazanie do odzysku lub unieszkodliwienia poza miejscem jego pierwotnego występowania wraz z wypompowaniem zanieczyszczonych wód podziemnych bezpośrednio z wyrobiska oraz dowiezienie czystego gruntu do wykopu.",
+    "ecological_effect": "Gleba i ziemi w rejonie przeprowadzonych prac spełnia standardy jakości dla gruntów grupy B, określone w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r.  w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165,  poz. 1359)",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": null,
+    "covered_by_obligee": "tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

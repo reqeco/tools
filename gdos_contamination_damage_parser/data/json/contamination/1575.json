@@ -1,0 +1,162 @@
+{
+  "registry_id": 1575,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.9386,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Gordona Benetta  Dzielnica Włochy",
+    "precinct": "2-06-05",
+    "parcel_numbers": [
+      "48/8",
+      "48/9",
+      "50",
+      "51"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635328.3750521374 480154.88739215024,635309.8541817435 479998.2537455512,635338.4292389232 479990.31622968055,635334.1958971182 479977.08703655005,635377.0584828833 479965.9745143298,635398.7543596366 479980.79121062905,635428.3877522682 479986.6120555969,635465.9586607775 479972.85369474813,635526.8129492219 479961.74117252603,635562.2671868294 479961.74117252603,635560.6796836576 479951.686985746,635609.3631144094 479944.2786375964,635618.3589657412 480027.88713814504,635583.433895854 480029.47464132775,635431.033590895 480123.6664963765,635416.2168945842 480301.46685197856,635407.2210432548 480301.996019708,635402.9877014463 480165.9999143798,635396.108521009 480159.6499016797,635336.8417357466 480168.64575299993,635328.3750521374 480154.88739215024))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Brookfort Investments sp. z o.o.",
+      "address": "ul. Szturmowa 2 02-678 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "48/8",
+        "48/9",
+        "50",
+        "51"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.9386
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.9386
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-01-26",
+    "legal_basis": "art.101l ust.2",
+    "case_reference": "WOOŚ-IV.515.3.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-04-07",
+        "reference": "WOOŚ-IV.515.3.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Brookfort Investments sp. z o.o.",
+        "address": "ul. Szturmowa 2 02-678 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-04-01",
+    "planned_end": "2027-01-30",
+    "actual_end": null,
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

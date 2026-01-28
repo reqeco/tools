@@ -1,0 +1,112 @@
+{
+  "registry_id": 260,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.1672,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Pruszków",
+    "address": "ul. Błońska 8, Pruszków",
+    "precinct": "14",
+    "parcel_numbers": [
+      "106"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((621372.8207275035 479247.6130718356,621557.5002636246 479200.5171443047,621624.1753970092 479020.60011780076,621618.8837197562 479011.0750987539,621589.2503271396 479011.60426647216,621520.4585228519 479035.4168141028,621361.1790375449 479074.0460580364,621338.4248253524 479087.27525115665,621341.0706639842 479097.3294379376,621335.249819001 479099.4461088348,621372.8207275035 479247.6130718356))",
+    "site_description": "były skup złomu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż hurtowa odpadów i złomu",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Miejski Zakład Oczyszczania w Pruszkowie Sp. z o.o.",
+      "address": "ul. Stefana Bryły 6, 05-800 Pruszków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "46.77.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1682",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "621-682",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "223-452",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "318-2480",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "330-1130",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-11-16",
+    "legal_basis": "101 l ust. 4",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-04-24",
+        "reference": "WSI.511.39.2016.MGł.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Miejski Zakład Oczyszczania w Pruszkowie Sp. z o.o.",
+        "address": "ul. Stefana Bryły 6, 05-800 Pruszków",
+        "economic_activity_code": "46.77.Z"
+      }
+    ],
+    "planned_start": "2017-05-10",
+    "planned_end": "2017-09-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "Osiągnięcie wymaganych prawem standardów.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

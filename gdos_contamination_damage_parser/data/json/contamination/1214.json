@@ -1,0 +1,60 @@
+{
+  "registry_id": 1214,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Skarszewy",
+    "address": "b.d.",
+    "precinct": "Kamierowskie Piece",
+    "parcel_numbers": [
+      "191/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((464682.4729065576 693746.5604095645,464584.04770970764 693590.9850984057,464532.18927265744 693558.7058671843,464519.4892472575 693590.4559306847,464423.1807213075 693546.0058417851,464408.8931927274 693576.6975698331,464396.7223350575 693571.4058925845,464387.1973160075 693588.3392597847,464435.8807467075 693611.0934719536,464428.47239855747 693623.7934973547,464418.41821177746 693619.0309878346,464395.6639996074 693666.1269153534,464472.9224874574 693704.7561592851,464479.27250015736 693698.9353143154,464516.84340862755 693714.8103460642,464682.4729065576 693746.5604095645))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Kamiry Sp. z o.o.",
+      "address": "ul. Hutnicza 4, 81-963 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "191/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-10-02",
+    "legal_basis": null,
+    "case_reference": "RDOŚ-Gd-WZS.515.229.2019",
+    "decisions": [
+      {
+        "issue_date": "2021-01-11",
+        "reference": "RDOŚ-Gd-WZS.515.229.2019.IK.MK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

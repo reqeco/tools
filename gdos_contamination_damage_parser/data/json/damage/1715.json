@@ -1,0 +1,57 @@
+{
+  "registry_id": 1715,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kwidzyński",
+    "municipality": "Kwidzyn (gmina wiejska)",
+    "address": "ul. Kwidzyńska 9, Korzeniewo",
+    "precinct": "Korzeniewo",
+    "parcel_numbers": [
+      "255/2",
+      "256"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((491721.4619846201 653692.5323849199,491692.3577597501 653676.6573531674,491647.11391926004 653692.2678010594,491712.4661333 653854.7222926375,491796.0746338501 653813.4472100893,491773.84958939994 653772.1721275384,491766.7058251099 653774.2887984375,491757.18080606003 653758.9429344079,491736.2786809201 653767.9387857374,491698.9723563101 653713.6990939192,491721.4619846201 653692.5323849199))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "styczeń 2019 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Magazynowanie odpadów ze zużytych tonerów oraz tuszy drukarskich.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Kwidzyn",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "EKO TRADE LIMITED Sp. z o.o.",
+      "address": "ul. Kwidzyńska 9, 82-500 Kwidzyn",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2019-02-04",
+    "detection_date": "2019-01-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

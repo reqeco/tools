@@ -1,0 +1,274 @@
+{
+  "registry_id": 1839,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Zabrze",
+    "municipality": "Zabrze",
+    "address": "ul. Hagera",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "247801_1.0002.AR_1.1672/225",
+      "247801_1.0002.AR_1.1483/225",
+      "247801_1.0002.AR_1.1039/58",
+      "247801_1.0002.AR_1.1480/225"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((485953.90493417001562193 273054.25091026001609862, 486006.79839400801574811 272953.34752165101235732, 486048.84078628197312355 272866.78182212501997128, 486031.62523658899590373 272858.19813070102827623, 486012.36657885700697079 272848.55250798200722784, 486002.09323339402908459 272843.40353928302647546, 485982.70373287098482251 272833.68971323600271717, 485973.16493995202472433 272828.9106591820018366, 485961.09786918299505487 272850.19071293197339401, 485940.62145094200968742 272839.17224115499993786, 485952.18508050398668274 272818.35868768498767167, 485950.40405952802393585 272817.4631388169946149, 485932.41264231002423912 272808.41014120902400464, 485917.04456831398420036 272800.4612507660058327, 485861.40895259601529688 272911.50571234402013943, 485844.71689923002850264 272903.20482117298524827, 485878.06640346301719546 272836.88439370901323855, 485801.2387304250150919 272812.22116109298076481, 485803.15476426301756874 272808.28765085799386725, 485798.17179030500119552 272807.85487719101365656, 485776.68409057997632772 272854.72696460998849943, 485767.24870071897748858 272855.41340095497434959, 485760.37632272898918018 272853.45689384499564767, 485749.78921164997154847 272850.99060993199236691, 485737.23615471500670537 272845.02274918602779508, 485729.81496118102222681 272840.15527945902431384, 485688.27440579602262005 272810.08080953499302268, 485663.4188082329928875 272789.2667810469865799, 485649.17856280301930383 272777.48491240799194202, 485626.72152438102057204 272758.89737096399767324, 485612.32939411397092044 272748.45677749102469534, 485579.80979214498074725 272731.48356919101206586, 485582.84046547801699489 272724.9665484550059773, 485564.14395817497279495 272718.48155509599018842, 485539.16378302901284769 272700.29769299802137539, 485530.81689388898666948 272694.22335042100166902, 485513.03504963399609551 272679.94050654297461733, 485487.32288679998600855 272663.06573379400651902, 485456.1309995090123266 272645.23515922197839245, 485455.04670395201537758 272656.77315705601358786, 485452.79348539502825588 272674.29345705901505426, 485451.51361969800200313 272684.66474877699511126, 485444.78228529100306332 272702.13526976702269167, 485515.74228651798330247 272741.5989662500214763, 485521.03017178899608552 272745.38573017297312617, 485558.69133136601885781 272772.36412431998178363, 485588.09184213500702754 272787.04056624200893566, 485628.10662929899990559 272834.47565158101497218, 485624.05275433202041313 272839.9670109010185115, 485645.67945339897414669 272862.21362368302652612, 485653.08067162800580263 272873.77754319598898292, 485674.18177968199597672 272906.74510361399734393, 485707.28732843499165028 272965.8463921929942444, 485689.48181640700204298 273004.8534833459998481, 485642.49674929497996345 272980.90871197200613096, 485627.62113130302168429 273003.66569140297360718, 485616.99713051097933203 273018.54001684201648459, 485618.08858087297994643 273029.10931829101173207, 485524.00126456998987123 273050.61178419698262587, 485452.39453235198743641 273067.90447005798341706, 485407.66139234497677535 273079.908935729006771, 485368.06036120199132711 273096.751659789995756, 485337.36875283601693809 273107.9778243150212802, 485305.61548651399789378 273116.06005213799653575, 485261.48528934398200363 273120.87051747902296484, 485275.69403361802687868 273121.37923124199733138, 485297.24377677001757547 273121.52947017399128526, 485315.45312832697527483 273120.76513227599207312, 485405.47736822097795084 273112.24986297899158671, 485413.3387765740044415 273202.70263982901815325, 485544.88647910498548299 273246.04961924999952316, 485546.77362333802739158 273266.00287560699507594, 485556.21503495599608868 273269.48397525300970301, 485570.95893209497444332 273274.86271438602125272, 485641.19477256102254614 273300.59389766701497138, 485658.03684150398476049 273307.41360862599685788, 485675.56866076798178256 273314.24404106999281794, 485694.88800420699408278 273321.71008167002582923, 485715.41544117598095909 273329.82950917701236904, 485741.65358953602844849 273279.47552647301927209, 485769.35289202997228131 273226.29352050699526444, 485774.04898972000228241 273217.27553876198362559, 485784.45232627302175388 273217.96529975900193676, 485808.66992961999494582 273219.55884855397744104, 485818.99305710499174893 273220.22969844599720091, 485841.99023235897766426 273221.7397001429926604, 485873.52604522102046758 273162.50958653300767764, 485874.11136479099513963 273161.44232759397709742, 485885.3907641900004819 273140.30277167202439159, 485901.05327809200389311 273156.03325426299124956, 485903.7539416549843736 273150.989829792000819, 485953.90493417001562193 273054.25091026001609862))",
+    "site_description": "480/225, 1039/58, 1483/225, 1672/225 z obrębu 0002 położonych w rejonie ul. Hagera w Zabrzu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1920-01-01",
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wydobywanie węgla kamiennego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "RWR Group sp. z o.o.",
+      "address": "ul. Górna 9/4; 30-094 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "247801_1.0002.AR_1.1672/225",
+        "247801_1.0002.AR_1.1483/225",
+        "247801_1.0002.AR_1.1039/58",
+        "247801_1.0002.AR_1.1480/225"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "4,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "4,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": ">25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "28,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": ">25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": ">25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": ">25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "530 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "8,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "542,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "577,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "14800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "20 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "15 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "19 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "10 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "7,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,6 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-12-13",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego tekst jedn. Dz. U. z 2022 r. poz. 2000) [dalej Kpa], w związku z art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2021 r., poz. 1973 ze zm.)",
+    "case_reference": "WSI.515.25.2022.MO.2",
+    "decisions": [
+      {
+        "issue_date": "2023-05-15",
+        "reference": "WSI.515.25.2022.MO.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "RWR Group sp. z o.o.",
+        "address": "ul. Górna 9/4; 30-094 Kraków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-06-01",
+    "planned_end": "2030-04-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi, zwolnienie z obowiązku przeprowadzenia działań naprawczych",
+    "description": "Sposób przeprowadzenia remediacji. III.1. Dla powierzchni 17 965 m2 do głębokości 0,25 m p.p.t. remediację należy przeprowadzić metodą ex situ. III.2. Dla głębokości powyżej 0,25 m p.p.t teren podzielono na siedem rejonów, gdzie w sześciu w których stwierdzono zanieczyszczenie, o łącznej powierzchni 6805 m2: 1) Rejon I - z powierzchni 4 485 m2 zanieczyszczenie należy usunąć metodą ex-situ z głębokości 0,40 – ok. 1,60 m p.p.t. oraz ok. 0,25 – 1,20 m p.p.t. 2) Rejon II - z powierzchni 350 m2 zanieczyszczenie zostanie usunięte metodą ex-situ z głębokości 1,00 – 1,20 m p.p.t. 3) Rejon III - z powierzchni 400 m2 zanieczyszczenie należy usunąć metodą ex-situ z głębokości 0,50 – ok. 1,30 m p.p.t. 4) Rejon V - z powierzchni 600 m2 zanieczyszczenie należy usunąć metodą ex-situ z głębokości 0,50 – 1,20 m p.p.t. 5) Rejon VI - z powierzchni 385 m2 zanieczyszczenie należy usunąć metodą ex-situ z głębokości 0,50 – 2,40 m p.p.t., 6) Rejon VII - z powierzchni 585 m2 zanieczyszczenie należy usunąć metodą ex-situ z głębokości 0,50 – 1,65 m p.p.t. III.3. Dla otworu badawczego nr 2 i nr 14 remediacja polegać ma na przeprowadzeniu procesu samooczyszczania, wykorzystując proces bioremediacji naturalnej polegającej na usuwaniu zanieczyszczeń przez rodzime mikroorganizmy. W obu przypadkach wyznaczono w niewielkim oddaleniu punkty skąd należy pobierać próbki do badań kontrolnych. Pozostała powierzchnia zanieczyszczonego gruntu znajdująca się na głębokości powyżej 0,25 m p.p.t., ze względu na głębokość występowania zanieczyszczenia i niemobilność metali ciężkich, zostaje zwolniona z remediacji.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

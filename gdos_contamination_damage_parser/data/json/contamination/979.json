@@ -1,0 +1,92 @@
+{
+  "registry_id": 979,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "Trzebinia",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "795/16",
+      "795/85",
+      "796/62",
+      "796/63",
+      "796/98",
+      "792/14",
+      "796/64",
+      "796/70"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532863.2236051108 254492.04703238327,532883.1996867309 254449.84590631444,532843.2475235008 254445.4802725846,532783.583862501 254442.30526623223,532774.8525950408 254462.01676399447,532798.1359749408 254466.1178138638,532813.4818389608 254469.68969600368,532812.5557954509 254472.99699428398,532815.0693421407 254473.79074587394,532814.1432986208 254477.49491994362,532810.703708411 254476.43658449314,532809.2484971608 254478.9501311928,532839.278765561 254493.50224363338,532843.6443992908 254495.6189145334,532849.994411991 254482.65430526342,532856.7413004809 254485.82931161206,532863.2236051108 254492.04703238327))",
+    "site_description": "Teren po byłych Zakładach Metalurgicznych \"Trzebinia\" w Trzebini"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "TRESCO Skotnicki, Trębecki Sp. J.",
+      "address": "ul. Dembowskiego 13A 32-541 Trzebinia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "795/16",
+        "795/85",
+        "796/62",
+        "796/63",
+        "796/98",
+        "792/14",
+        "796/64",
+        "796/70"
+      ],
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-30",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.37.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-12-06",
+        "reference": "ZS.513.37.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TRESCO Skotnicki, Trębecki Sp. J.",
+        "address": "ul. Dembowskiego 13A 32-541 Trzebinia",
+        "economic_activity_code": "46.71.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,144 @@
+{
+  "registry_id": 2111,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "myszkowski",
+    "municipality": "b.d.",
+    "address": "rejon ul. 1 Maja w Myszkowie.",
+    "precinct": "obręb 0005",
+    "parcel_numbers": [
+      "240901_1.0005.8566/7;\t240901_1.0005.8569/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((525899.64216752699576318 300485.65342374000465497, 525891.39314057200681418 300467.54629339597886428, 525883.2021787470439449 300449.29846907401224598, 525875.18053903500549495 300431.00838678900618106, 525904.82565608504228294 300408.33291476499289274, 525988.83271557104308158 300452.86103750800248235, 526062.51476362498942763 300492.08184570597950369, 526034.30993305600713938 300502.24588444002438337, 526012.68881692702416331 300510.03261685400502756, 525993.22568035603035241 300517.03073861199663952, 525973.03150328202173114 300524.65832157799741253, 525969.2623968010302633 300526.02829849300906062, 525979.58078265795484185 300549.37415623798733577, 525976.08046845300123096 300556.59676481800852343, 525956.21263016294687986 300564.70963615999789909, 525955.75938409997615963 300563.70639278402086347, 525955.49151401396375149 300563.11038794502383098, 525951.71605325397104025 300564.75027832598425448, 525914.29833634302485734 300580.93477497802814469, 525900.52757884201128036 300586.89676036697346717, 525872.98565884795971215 300598.79075660201488063, 525869.06563833600375801 300589.70945051201852039, 525889.49355877004563808 300581.62899975298205391, 525911.31305479898583144 300572.99013125500641763, 525933.05301993002649397 300564.3823165760259144, 525938.61986348603386432 300562.18861073697917163, 525954.50483900401741266 300555.89831105602206662, 525966.48324761097319424 300551.15972722799051553, 525966.11249568196944892 300550.34525015897816047, 525957.62624653498642147 300531.69167277100495994, 525948.61451904894784093 300511.86593396897660568, 525939.19072585296817124 300491.12633835698943585, 525913.06216170894913375 300501.11247984599322081, 525907.93185804400127381 300503.07044608902651817, 525899.64216752699576318 300485.65342374000465497)),((525819.99082622304558754 300290.55276200600201264, 525832.43941563705448061 300285.108290427015163, 525867.81090404104907066 300360.27302916900953278, 526008.11346730799414217 300298.1798106370260939, 526081.13287771202158183 300432.78857170097762719, 526007.67173809802625328 300460.35207373701268807, 525991.55618652398698032 300451.76499356102431193, 525904.57595092605333775 300405.37817252997774631, 525876.23668279603589326 300427.06665698601864278, 525864.95324978698045015 300400.3359766430221498, 525851.49867931904736906 300367.48849725001491606, 525819.99082622304558754 300290.55276200600201264)))",
+    "site_description": "Teren byłej Myszkowskiej Fabryki Naczyń Emaliowanych \"Światowit\" S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pozostałych gotowych wyrobów metalowych, gdzie indziej niesklasyfikowana",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Myszkowska Fabryka Naczyń Emaliowanych „Światowit” S.A.",
+      "address": "ul. Partyzantów 4 42-300 Myszków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-01",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.56.2019.MB",
+    "decisions": [
+      {
+        "issue_date": "2025-02-06",
+        "reference": "WSI.513.56.2019.MB.AH.18",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-05-13",
+        "reference": "WSI.516.4.2025.AH.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

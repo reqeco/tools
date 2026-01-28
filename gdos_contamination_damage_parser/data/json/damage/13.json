@@ -1,0 +1,73 @@
+{
+  "registry_id": 13,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "braniewski",
+    "municipality": "Braniewo (gmina miejska)",
+    "address": "ul. Elbląska 36 Braniewo",
+    "precinct": null,
+    "parcel_numbers": [
+      "402"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((552492.4108247091 724038.6794934003,552514.9004530193 723994.4939883603,552536.9932055393 724007.0617218297,552500.0837567193 724042.2513755411,552492.6754085694 724038.8117853291,552492.4108247091 724038.6794934003))",
+    "site_description": "teren modernizowanej Stacji Paliw PKN ORLEN SA nr 895"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Badania prowadzone w 2004 r. wykazały zanieczyszczenie gruntu substancjami ropopochodnymi."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gleby substancjami ropopochodnymi na terenie stacji paliw nr 895 w Braniewie przy ul. Elbląskiej 36",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "ORLEN Prewencja Sp. z o.o. Regionalny Zespół Prewencji w Gdańsku",
+      "address": "ul. Długi Targ 30, 80-830 Gdańsk",
+      "legal_form": "osoba prawna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2008-09-24",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2008-09-30",
+        "reference": "ŚR.I.6650-026/08",
+        "issuing_authority": "Wojewoda Warmińsko-Mazurski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2008-10-01",
+    "planned_end": "2008-11-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania naprawcze będą prowadzone metoda ex-situ polegającą na wydobyciu zanieczyszczonego gruntu (ok. 500 Mg), jego odtransportowaniu i unieszkodliwieniu w uprawnionym zakładzie utylizacji oraz wypełnieniu powstałego wykopu czystym gruntem.",
+    "ecological_effect": "Spełnienie standardów jakości określonych dla gruntów grupy C w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

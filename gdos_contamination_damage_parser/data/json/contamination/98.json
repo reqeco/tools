@@ -1,0 +1,139 @@
+{
+  "registry_id": 98,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0778,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kluczborski",
+    "municipality": "Wołczyn",
+    "address": "46-250 Wołczyn, ul. Drzymały 4",
+    "precinct": "Wołczyn",
+    "parcel_numbers": [
+      "390/1",
+      "390/2 obręb Wołczyn",
+      "394/2",
+      "394/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((433293.0363004264 350188.81881230883,433317.64259964664 350186.4375575427,433381.01043471746 350179.95525291003,433378.36459608754 350100.4478022298,433313.0123820466 350092.2457024893,433315.79051260673 350135.1082882192,433291.4487972563 350136.16662367154,433291.31650532637 350136.2989155995,433293.0363004264 350188.81881230883))",
+    "site_description": "Wołczyn, ul. Drzymały 4"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 30 kwietnia 2007 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa sp. z o. o.",
+      "address": "Polska Spółka Gazownictwa sp. z o.o. Oddział Zakład Gazowniczy w Opolu Ul. Armii Krajowej 2 45 – 071 Opole",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.21.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "32 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "27 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "34,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "26,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "46,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "42 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "6,04 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-02-08",
+    "legal_basis": "art. 101l ust. 2 Poś",
+    "case_reference": "WOOŚ.515.7.2018",
+    "decisions": [
+      {
+        "issue_date": "2020-10-06",
+        "reference": "WOOŚ.515.7.2018.MO.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2020-10-16",
+      "reason": "Doprecyzowanie terminów wykonania badań kontrolnych procesu samooczyszczania oraz terminu przedłożenia wyników otrzymanych analiz.",
+      "appealed_decision_reference": "WOOŚ.515.7.2018.MO.13",
+      "resolution_reference": "WOOŚ.515.7.2018.MO.14",
+      "appellant_name": "Polska Spółka Gazownictwa sp. z o.o.",
+      "appellant_address": "ul. Bandrowskiego 16 33-100 Tarnów",
+      "resolution_date": "2020-11-03",
+      "reviewing_authority": "RDOŚ Opole",
+      "resolution_content": "1. punktu 3.2.1. o poniższym brzmieniu: Remediację „in-situ” wykonywać w niżej określony sposób. Rejon otworów WO-3 (sekcja IV), WO-10 (sekcja VII) oraz WO-11 (sekcja II) pozostawić do \"samooczyszczenia”. Prowadzić okresowe badania zanieczyszczenia gleby i ziemi (pobór po dwie próby z każdego punktu w cyklach co dwa lata). otrzymuje brzmienie: Remediację „in-situ” wykonywać w niżej określony sposób.  Rejon otworów WO-3 (sekcja IV), WO-10 (sekcja VII) oraz WO-11 (sekcja II) pozostawić do \"samooczyszczenia”.  Prowadzić okresowe badania zanieczyszczenia gleby i ziemi (co najmniej dwa badania, na rozpoczęcie i zakończenie procesu samooczyszczania).  Pierwsze badanie kontrolne wykonać w terminie 2 lat od zakończenia procesu remediacji metodą ex-situ. 2. punktu 5. o poniższym brzmieniu: Sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia. Potwierdzeniem przeprowadzenia remediacji będzie przedłożenie Regionalnemu Dyrektorowi Ochrony Środowiska w Opolu, w terminie do dnia 28.02.2024 r. dokumentacji powykonawczej, wykazującej osiągnięcie zakładanego efektu ekologicznego, opartej o analizy laboratoryjne próbek gruntów, na zawartość substancji powodujących ryzyko, o których mowa w pkt 3.1. i 3.2. niniejszej decyzji. Pobór gruntu oraz oznaczenie zanieczyszczeń musi być wykonane przez akredytowane laboratorium. Poziom badanych zanieczyszczeń porównać do wartości dopuszczalnych w glebie i ziemi, określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395), dla gruntów grupy IV. otrzymuje brzmienie: Sposób potwierdzenia przeprowadzenia remediacji oraz termin przedłożenia dokumentacji z jej przeprowadzenia. Potwierdzeniem przeprowadzenia remediacji będzie przedłożenie Regionalnemu Dyrektorowi Ochrony Środowiska w Opolu, w terminie do dnia 28.02.2024 r., dokumentacji powykonawczej, wykazującej osiągnięcie zakładanego efektu ekologicznego, opartej o analizy laboratoryjne próbek gruntów, na zawartość substancji powodujących ryzyko, o których mowa w pkt 3.1., 3.2., 3.3. i 3.5 niniejszej decyzji. Potwierdzeniem kontroli procesu „samooczyszczenia” będzie przedłożenie Regionalnemu Dyrektorowi Ochrony Środowiska w Opolu wyników badań gruntów, o których mowa w pkt 3.2.1. Pobór próbek gruntu oraz oznaczenie zanieczyszczeń musi być wykonane przez akredytowane laboratorium. Poziom badanych zanieczyszczeń porównać do wartości dopuszczalnych w glebie i ziemi, określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395), dla gruntów grupy IV."
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa sp. z o. o.",
+        "address": "Polska Spółka Gazownictwa sp. z o.o. Oddział Zakład Gazowniczy w Opolu Ul. Armii Krajowej 2 45 – 071 Opole",
+        "economic_activity_code": "35.21.Z"
+      }
+    ],
+    "planned_start": "2023-04-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-08-01",
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi, usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "3. Sposób przeprowadzenia remediacji Remediacja terenu, na działkach 390/1, 390/2, 394/2 i 394/3 obręb 0069 Wołczyn, na których wydzielono 7 sekcji, realizowana będzie metodą „in-situ” – samooczyszczanie oraz metodą „ex-situ”. 3.1. Remediacja „ex-situ” :  prowadzona w ramach sekcji nr VI, na której, w warstwie przypowierzchniowej gruntu (0,0-0,25 m ppt.), stwierdzono obecność związków z grupy WWA, o przekroczonej dopuszczalnej zawartości tych substancji w glebie i w ziemi. Miejsca niedostępne (powierzchnie utwardzone, budynki), pozostawić do samooczyszczenia. Prace remediacyjne obejmą powierzchnię 728 m2.  terenu w rejonie otworu O-13, w sekcji VI, zanieczyszczonego WWA oraz otworu archiwalnego WO-4 zanieczyszczonego WWA, składnikami frakcji benzyn - suma węglowodorów C6 - C12, cyjankami kompleksowymi, w gruntach poniżej 0,25 m ppt. na powierzchni 25 m2  terenu w rejonie otworu archiwalnego WO-13, w sekcji II, zanieczyszczonego WWA, w gruntach poniżej 0,25 m ppt. na powierzchni 25m2. 3.1.1. Przygotowanie powierzchni terenu do remediacji „ex-situ”:  Obszar objęty remediacją „ex-situ” wydzielić i zabezpieczyć przed dostępem osób trzecich. 3.1.2. Remediację „ex-situ” wykonać w niżej określony sposób:  Wybrać za pomocą koparki, warstwę zanieczyszczonych gruntów do głębokości maksymalnie 2,8 m ppt.  Zanieczyszczony grunt bezpośrednio ładować na ciężarówki, celem wywiezienia do unieszkodliwienia przez uprawniony podmiot.  Po usunięciu zanieczyszczonego gruntu do wymaganej głębokości, pobrać próbki kontrolne z wykopów.  Po likwidacji źródła zanieczyszczenia gruntu, wykop zasypać czystym gruntem zasypowym, odpowiednio zagęszczonym.  Wierzchnią warstwę zasypu pokryć 10 cm warstwą humusu w celu odtworzenia naturalnego środowiska. 3.2. Remediacja „in-situ”- samooczyszczenie - terenów zanieczyszczonych pojedynczymi związkami o znikomych przekroczeniach wartości dopuszczalnych: benzo(a)pirenem, benzo(b)fluorantenem oraz cyjankami w formie kompleksowej, w gruntach poniżej 0,25 m ppt. 3.2.1. Remediację „in-situ” wykonywać w niżej określony sposób:  Rejon otworów WO-3 (sekcja IV), WO-10 (sekcja VII) oraz WO-11 (sekcja II) pozostawić do \"samooczyszczenia”.  Prowadzić okresowe badania zanieczyszczenia gleby i ziemi (pobór po dwie próby z każdego punktu w cyklach co dwa lata). Badania laboratoryjne gruntu przeprowadzone w 2019 roku, nie potwierdziły zanieczyszczenia składnikami frakcji benzyn oraz cyjankami. Jednak z uwagi na fakt, że badania wykonane w 2015 r., wykazały wysokie stężenie składników frakcji benzyn i cyjanków związanych w otworze WO-4 (na głębokości 1,8 m ppt., sekcja II), przedłożony projekt planu remediacji przewiduje usunięcie gruntów zanieczyszczonych składnikami frakcji benzyn i cyjankami - remediacja „ex-situ”, na niewielkim fragmencie przedmiotowej nieruchomości o powierzchni 25 m2.",
+    "ecological_effect": "Potwierdzono wykonanie remediacji ex-situ, zgodnie z planem remediacji. Remediację in situ, należy kontynuować i przeprowadzić drugą serię monitoringu. Po wykonaniu drugiej serii monitoringu, należy przedstawić dokumentacje powykonawczą.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

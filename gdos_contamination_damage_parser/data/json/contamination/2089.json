@@ -1,0 +1,98 @@
+{
+  "registry_id": 2089,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1438,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina miejska)",
+    "address": null,
+    "precinct": "Lubin 0009",
+    "parcel_numbers": [
+      "11/23",
+      "obręb 9 Lubin"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((304113.13479999999981374 398480.54420000000391155, 304124.03429999999934807 398488.74310000002151355, 304113.39899999997578561 398501.71870000002672896, 304113.13479999999981374 398480.54420000000391155)),((304101.16769999999087304 398439.65279999998165295, 304121.38229999999748543 398453.426099999982398, 304114.78049999999348074 398462.58500000002095476, 304126.15419999998994172 398470.78310000000055879, 304133.69140000001061708 398476.9609000000054948, 304143.05800000001909211 398465.54330000001937151, 304147.27370000001974404 398460.38980000000447035, 304151.72590000001946464 398454.95789999997941777, 304140.15019999997457489 398447.08390000002691522, 304130.80780000000959262 398440.34989999997196719, 304128.50510000000940636 398443.35320000001229346, 304108.47049999999580905 398429.5094999999855645, 304101.16769999999087304 398439.65279999998165295)))",
+    "site_description": "Fragment sekcji G1, G2, G3 na działce o nr ewid. 11/23 obręb 9 w Lubinie (plac szybowy L-III, L-VII kopalni KGHM Polska Miedź S.A. Oddział Zakłady Górnicze „Lubin”)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. Marii Skłodowskiej-Curie 48 59-301 Lubin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.44.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "634 mg/kg s.m.",
+      "area_ha": 0.1258
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "748 - 1936 mg/kg s.m.",
+      "area_ha": 0.1438
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "2394 mg/kg s.m.",
+      "area_ha": 0.1438
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "41 mg/kg s.m.",
+      "area_ha": 0.1619
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-04-12",
+    "legal_basis": "art. 101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.515.2.2024.JR",
+    "decisions": [
+      {
+        "issue_date": "2024-12-06",
+        "reference": "WSI.515.2.2024.JR.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art.101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Teren wpisany do rejestru historycznych zanieczyszczeń powierzchni ziemi decyzją znak: WSI.513.1.2019.KMA.5 z dnia 09-08-2019 (Nr rej 997)"
+}

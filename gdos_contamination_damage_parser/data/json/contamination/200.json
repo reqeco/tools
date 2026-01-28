@@ -1,0 +1,127 @@
+{
+  "registry_id": 200,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.0494,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Leszno",
+    "municipality": "Leszno",
+    "address": "ul. Aleje Konstytucji 3 Maja 12B 64-100 Leszno",
+    "precinct": null,
+    "parcel_numbers": [
+      "1310",
+      "obręb Zaborowo"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((334779.61934436625 442735.3627960002,334657.3815994929 442622.3854867099,334751.04428714304 442537.1894829916,334833.59445250337 442654.40013407264,334779.61934436625 442735.3627960002))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1944-01-01",
+    "to": "1975-12-31",
+    "description": "W okresie od 1944 do 1975 nastąpiło wypełnienie wyrobiska urobkiem nieznanego pochodzenia"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Leszno Retail Sp. z o.o.",
+      "address": "ul. Złota 59, 00-120 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "max. 720 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "max. 240 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "max. 13 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "max. 5700 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "max. 1500 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "max. 580 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "max. 9300 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-09-30",
+    "legal_basis": "art. 101l oraz 101p ustawy Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-11-28",
+        "reference": "WSS.511.50.2016.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Leszno Retail Sp. z o.o.",
+        "address": "ul. Złota 59, 00-120 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "nie dotyczy",
+    "ecological_effect": "nie dotyczy",
+    "effect_assessment": null
+  },
+  "notes": null
+}

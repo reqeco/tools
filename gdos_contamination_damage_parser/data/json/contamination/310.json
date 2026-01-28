@@ -1,0 +1,87 @@
+{
+  "registry_id": 310,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1854,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Lindego",
+    "precinct": "7-07-04",
+    "parcel_numbers": [
+      "27",
+      "13/1",
+      "18",
+      "16/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((632760.0859550204 493344.1283540148,632811.1506405297 493357.8867148645,632833.3756850007 493340.42417993303,632836.0215236319 493289.09491061233,632812.4735598388 493269.5157047836,632782.8401672111 493298.8845135225,632760.0859550204 493344.1283540148))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-07-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Warszawska Spółdzielnia Mieszkaniowa",
+      "address": "ul. Elbląska 14, 01-737 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "710",
+      "area_ha": 0.1854
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-08-03",
+    "legal_basis": "Art. 61 §1 Kpa w związku z art. 101 l Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-10-18",
+        "reference": "WSI.515.3.2017.MGł.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Warszawska Spółdzielnia Mieszkaniowa",
+        "address": "ul. Elbląska 14, 01-737 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2017-10-19",
+    "planned_end": "2018-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

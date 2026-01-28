@@ -1,0 +1,129 @@
+{
+  "registry_id": 1110,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "stalowowolski",
+    "municipality": "Stalowa Wola",
+    "address": "ul. Władysława Grabskiego 52 i 48, 37-450 Stalowa Wola",
+    "precinct": "6 - HSW, Lasy Państwowe",
+    "parcel_numbers": [
+      "181801_1.0006.102/32",
+      "181801_1.0006.102/77",
+      "181801_1.0006.167/9",
+      "181801_1.0006.167/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((715773.06700000003911555 302029.6720000000204891, 715800.74817701475694776 301949.31235639803344384, 715710.63644238829147071 301919.02618407871341333, 715683.29666369629558176 301999.27965730061987415, 715540.58299999998416752 301950.96299999998882413, 715533.24800000002142042 301972.59999999997671694, 715525.64800000004470348 301971.03499999997438863, 715499.31799999997019768 301963.38299999997252598, 715497.03000000002793968 301967.36300000001210719, 715485.53300000005401671 302023.12599999998928979, 715509.90800000005401671 302052.481000000028871, 715505.29200000001583248 302094.19599999999627471, 715503.6840000000083819 302098.92399999999906868, 715428.69499644346069545 302073.49603488395223394, 715419.4150000000372529 302099.96199999999953434, 715715.375 302200.16800000000512227, 715722.481000000028871 302179.26409999997122213, 715730.14500000001862645 302156.56489999999757856, 715773.06700000003911555 302029.6720000000204891)),((715735.52700000000186265 302178.02600000001257285, 715977.05400000000372529 302259.68900000001303852, 715996.12800000002607703 302203.34000000002561137, 716020.63600000005681068 302132.46299999998882413, 716090.09799999999813735 301927.22600000002421439, 715848.11800000001676381 301845.30009999999310821, 715735.52700000000186265 302178.02600000001257285)))",
+    "site_description": "Ba - tereny przemysłowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Gmina Stalowa Wola), podmiot korzystający ze środowiska, podmiot korzystający ze środowiska",
+  "land_owner": "jednostka samorządu terytorialnego (Gmina Stalowa Wola), podmiot korzystający ze środowiska, podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Szkoda powstała w środowisku jest najprawdopodobniej związana z napełnianiem zbiorników paliwa produkowanych maszyn budowlanych olejem napędowym, gdyż źródło zanieczyszczenia znajduje się we wschodniej części hali produkcyjnej (M16), gdzie proces ten był prowadzony.",
+  "total_area_ha": 0.8915,
+  "reporters": [
+    {
+      "name": "Huta Stalowa Wola S.A.",
+      "address": "ul. Kwiatkowskiego 1, 37-450 Stalowa Wola",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Huta Stalowa Wola S.A.",
+      "address": "ul. Kwiatkowskiego 1, 37-450 Stalowa Wola",
+      "economic_activity_code": "28.92.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "110-1281 [mg/kg s.m.]",
+      "area_ha": 0.8915
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1036-7025 [mg/kg s.m.]",
+      "area_ha": 0.8915
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "12,2 [mg/kg s.m.]",
+      "area_ha": 0.8915
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "BTX-lotne węglowodory aromatyczne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-06-25",
+    "detection_date": "2012-04-02",
+    "decisions": [
+      {
+        "issue_date": "2013-09-13",
+        "reference": "WSI.511.3.2.2013.AK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2014-06-13",
+        "reference": "WSI.511.3.2.2014.AK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2014-07-01",
+    "planned_end": "2020-11-30",
+    "actual_end": "2020-06-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania naprawcze zanieczyszczonego środowiska gruntowo-wodnego będą prowadzone metodą „in-situ”. W celu ich przeprowadzenia zastosowana zostanie technologia SRM (Selective Remediation Method), wspierana technologiami bioremediacyjnymi, która wykorzystywać będzie siatkę wierconych i specjalnie uzbrojonych otworów (wielofunkcyjnych) oraz mobilną stację oczyszczania wody podziemnej sprzężoną ze stacją dmuchaw.",
+    "ecological_effect": "Osiągnięcie standardów jakości gleby i ziemi dla gruntów grupy „C” - grunty zaliczone do użytków rolnych z wyłączeniem gruntów pod stawami i gruntów pod rowami, grunty leśne oraz zadrzewione i zakrzewione, nieużytki, a także grunty zabudowane i zurbanizowane z wyłączeniem terenów przemysłowych, użytków kopalnych oraz terenów komunikacyjnych, zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359). Osiągnięcie wartości granicznych elementów fizykochemicznych nie większych niż określonych dla III klasy jakości wód, zgodnie z rozporządzeniem Ministra Środowiska z dnia 23 lipca 2008 r. w sprawie kryteriów i sposobu oceny stanu wód podziemnych (Dz. U. Nr 143, poz. 896).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "Sprawa znak: WSI.511.3.2.2013.AK (decyzja - uzgodnienie warunków przeprowadzenia działań naprawczych); WSI.511.3.2.2014.AK (zmiana decyzji)"
+}

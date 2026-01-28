@@ -1,0 +1,66 @@
+{
+  "registry_id": 1145,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Energetyków (dz. nr 372), ul. Gołębia, 81-184 Gdynia, 81-185 Gdynia",
+    "precinct": "0026 Śródmieście",
+    "parcel_numbers": [
+      "372",
+      "373",
+      "375",
+      "377"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((468188.4607992287 742074.8032340612,468281.06515110884 742017.1239520442,468290.5901701588 742028.7656419938,468340.86110402865 741997.0155784925,468213.33168230875 741870.0153244818,468210.68584367866 741861.0194731634,468204.3358309787 741863.1361440644,468146.6565489586 741811.8068747316,468139.2482008087 741814.4527133647,468108.5564727588 741832.9735837327,468096.38561507873 741874.7778340122,468081.03975105874 741907.0570652317,468190.57747012866 742073.2157308934,468188.4607992287 742074.8032340612))",
+    "site_description": "tereny zaplecza portu morskiego w Gdyni; tereny po byłej stoczni w Gdyni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja statków i konstrukcji pływających",
+    "current": "Produkcja cementu"
+  },
+  "land_holders": [
+    {
+      "name": "CEMEX-POLSKA  Sp. z o.o.",
+      "address": "ul. Łopuszańska 38d, 02-232 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "372",
+        "373",
+        "375",
+        "377"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-04",
+    "legal_basis": "art. 61 par. 1 i 4 z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego art. 101 c ust. 3  ustawy z dnia 27 kwietnia 2001",
+    "case_reference": "RDOŚ-Gd-WZS.513.25.2019.TW",
+    "decisions": [
+      {
+        "issue_date": "2019-04-05",
+        "reference": "RDOŚ-Gd-WZS.513.25.2019.TW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4, art. 104 k.p.a.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

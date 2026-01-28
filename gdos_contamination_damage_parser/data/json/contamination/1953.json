@@ -1,0 +1,103 @@
+{
+  "registry_id": 1953,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "tarnogórski",
+    "municipality": "Tarnowskie Góry",
+    "address": null,
+    "precinct": "0019 Bobrowniki Śląskie",
+    "parcel_numbers": [
+      "241304_1.0019.AR_26.661/160"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((491192.16782520199194551 282906.14501812198432162, 491190.81844571797410026 282947.73907319502905011, 491188.74415097001474351 282988.19354614499025047, 491189.57963097700849175 283016.12611193000338972, 491190.07565642398549244 283026.25356597499921918, 491190.91198942897608504 283106.25594209000701085, 491192.62628090498037636 283118.53575088101206347, 491197.81754793901927769 283158.97244058799697086, 491199.72639924101531506 283173.82813738798722625, 491207.63980809098575264 283224.94199752202257514, 491196.49079790199175477 283228.25014699302846566, 491190.15478907601209357 283191.1269455780275166, 491187.17711160302860662 283172.59776399697875604, 491179.65830600901972502 283107.72656314901541919, 491177.36426119599491358 283061.26436774799367413, 491179.28793408500496298 282907.82740051700966433, 491180.98668746202019975 282869.91650776099413633, 491181.64548999001272023 282785.15676442900439724, 491194.0365602889796719 282783.54092543898150325, 491192.80699773202650249 282854.84614707797300071, 491192.6294029179844074 282868.39068722201045603, 491192.16782520199194551 282906.14501812198432162)))",
+    "site_description": "działka 661/160, a. m. 26, obręb 0019 Bobrowniki Śl., położona w Tarnowskich Górach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Tarnowskie Góry",
+      "address": null,
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "241304_1.0019.AR_26.661/160"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-03-04",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (tekst jedn. Dz. U. z 2021 r., poz. 735 ze zm.) [dalej zwaną ustawa Kpa], w związku z art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2021 r., poz. 1973 ze zm.)",
+    "case_reference": "WSI.513.167.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-08-02",
+        "reference": "WSI.513.167.2022.MO.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

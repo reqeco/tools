@@ -1,0 +1,154 @@
+{
+  "registry_id": 547,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0056,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "municipality": "Głuchołazy",
+    "address": "Głuchołazy, ul. Wrocławska 2a",
+    "precinct": "Głuchołazy",
+    "parcel_numbers": [
+      "201/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((385375.49683164066 274147.31775308214,385363.45826588036 274115.1708137905,385432.51465406147 274116.36144116893,385437.4094555156 274113.7156025404,385452.8876114893 274114.1124783419,385453.0199034196 274101.9416206628,385531.4690187186 274106.96871405747,385531.20443485817 274114.90622993466,385501.5710422322 274113.18643482774,385502.1002099515 274151.551094885,385436.6157039343 274149.4344239803,385436.6157039345 274154.0646415828,385427.88443645637 274153.2708899919,385427.75214452634 274149.1698401226,385375.49683164066 274147.31775308214))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa sp. z o.o.",
+      "address": "Polska Spółka Gazownictwa sp. z o.o. Oddział Zakład Gazowniczy w Opolu ul. Armii Krajowej 2 45 – 071 Opole",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.21.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,01-20883",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "0,01-5192",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,01-1236",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,01-3016",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,01-110",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,01-1987",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,01-1680",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,01-911",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,01-924",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,01-650",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "0,050-969",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-02-08",
+    "legal_basis": "art. 101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WOOŚ.515.8.2018.MO",
+    "decisions": [
+      {
+        "issue_date": "2018-06-29",
+        "reference": "WOOŚ.515.8.2018.MO.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa sp. z o.o.",
+        "address": "Polska Spółka Gazownictwa sp. z o.o. Oddział Zakład Gazowniczy w Opolu ul. Armii Krajowej 2 45 – 071 Opole",
+        "economic_activity_code": "35.21.Z"
+      }
+    ],
+    "planned_start": "2021-10-01",
+    "planned_end": "2022-07-01",
+    "actual_end": "2021-12-17",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja przedmiotowego terenu polegać będzie na usunięciu (ex situ) i unieszkodliwieniu zanieczyszczonych gruntów poza terenem działki",
+    "ecological_effect": "Osiągnięto efekt ekologiczny, poprzez wykonanie remediacji na działce nr 201/11 w Głuchołazach.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,155 @@
+{
+  "registry_id": 46,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.145,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "01-161 Warszawa, ul. Obozowa 20",
+    "precinct": null,
+    "parcel_numbers": [
+      "24 obręb 6-03-08"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634078.5338014485 488471.28735831566,634086.471317325 488409.1101506362,634160.5547988984 488353.5475395033,634183.0444272317 488374.71424850356,634161.8777182132 488483.19363213517,634079.85672076 488471.2873583166,634078.5338014485 488471.28735831566))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "historyczne"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "IMMO WOLA Sp. z o.o.",
+      "address": "ul. 17 Stycznia 48, 02-146 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "(w wodach podziemnych rtęć)",
+      "concentration": "106",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "(w wodach podziemnych rtęć)",
+      "concentration": "23",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "(w wodach podziemnych rtęć)",
+      "concentration": "206-282",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "148-267",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chlorofenole pojedyncze",
+      "concentration": "1,34-4,1",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chloronaftalen",
+      "concentration": "0,74-12428",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "2,93-55,66",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-06-02",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-06-24",
+        "reference": "WSI.511.4.2015.KW",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-12-02",
+        "reference": "WSI.511.4.2015.ES.3 (zmiana)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "IMMO WOLA Sp. z o.o.",
+        "address": "ul. 17 Stycznia 48, 02-146 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2015-07-01",
+    "planned_end": "2016-10-31",
+    "actual_end": null,
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "ex-situ - wydobycie zanieczyszczonego gruntu i przekazanie do unieszkodliwienia",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

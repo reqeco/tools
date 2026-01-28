@@ -1,0 +1,88 @@
+{
+  "registry_id": 1043,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "augustowski",
+    "municipality": "Augustów (gmina miejska)",
+    "address": "ul. Wojska Polskiego 16-300 Augustów",
+    "precinct": "2 Miasto Augustów",
+    "parcel_numbers": [
+      "1960"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((761198.5145392694 670998.2604428772,761214.2572803252 671026.8355000615,761266.6448887303 670996.9375236975,761255.0031978734 670977.8874855731,761244.287550643 670969.023926151,761221.6656288133 670978.1520693665,761198.5145392694 670998.2604428772))",
+    "site_description": "teren Stacji Paliw PKN Orlen S.A. nr 414 w Augustowie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "identyfikacja zanieczyszczenia nastąpiła w dn. 04.09.2017 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W trakcie robót wiertniczych zidentyfikowano zanieczyszczenie gleby substancjami ropopochodnymi.",
+  "total_area_ha": 0.0229,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "legal_form": "spółka akcyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "230 mg/kg s.m.",
+      "area_ha": 0.0229
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,19 mg/kg s.m.",
+      "area_ha": 0.0229
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-01-16",
+    "detection_date": "2017-09-04",
+    "decisions": [
+      {
+        "issue_date": "2018-04-25",
+        "reference": "WPN.511.5.2017.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-05-01",
+    "planned_end": "2021-01-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja poległa na przeprowadzeniu samooczyszczania powierzchni ziemi (samoczynna remediacja bierna) oraz monitorowaniu przebiegu postępu procesu samooczyszczania poprzez wykonanie badań kontrolnych raz w roku, w zakresie stwierdzonych zanieczyszczeń (suma węglowodorów C12-C35 składników frakcji oleju, ksyleny). Badania monitoringowe w celu oceny efektywności przebiegu procesów samooczyszczania były wykonywane w lutym 2019 roku i lutym 2020 roku poprzez pobór 4 prób gruntu warstwy powierzchniowej z głębokości do 0,25 m ppt z obszaru, na którym występuje zanieczyszczenie.",
+    "ecological_effect": "Remediacja doprowadzić miała do usunięcia zanieczyszczenia powierzchni ziemi występującego w warstwie przypowierzchniowej tj. na głębokości 0-0,25 m ppt., przynajmniej do następujących zawartości substancji powodujących ryzyko w glebie lub ziemi: suma węglowodorów C12-C35 (składników frakcji oleju) – 30 mg/kg suchej masy, ksyleny – 0,1 mg/kg suchej masy.  Wyniki badań z 2019 r.: suma węglowodorów C12-C35 (składników frakcji oleju)  <30 mg/kg suchej masy, ksyleny  <0,1 mg/kg suchej masy.  Wyniki badań z 2020 r.: suma węglowodorów C12-C35 (składników frakcji oleju) <20 mg/kg suchej masy, ksyleny < 0,02 mg/kg suchej masy.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

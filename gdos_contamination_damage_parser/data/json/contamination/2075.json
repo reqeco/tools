@@ -1,0 +1,58 @@
+{
+  "registry_id": 2075,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.3864,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Jaworzno",
+    "municipality": "Jaworzno",
+    "address": "ul. Walentego Roździeńskiego w Jaworznie",
+    "precinct": "obręb Jeleń",
+    "parcel_numbers": [
+      "246801_1.0307.814/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((517803.6140675789793022 257521.72988616899237968, 517802.86774856800911948 257554.01964006500202231, 517789.57650554599240422 257647.21948896799585782, 517769.89803497301181778 257767.15826413600007072, 517751.47594997298438102 257859.30762380998930894, 517747.10428464901633561 257861.21508179500233382, 517739.51090785802807659 257864.33500489499419928, 517765.70310993801103905 257729.32827880000695586, 517780.20895076997112483 257648.45439501901273616, 517793.51336713699856773 257553.25562193201039918, 517796.71783585997764021 257520.94290243298746645, 517790.83662269200431183 257466.1661736489913892, 517798.71089130401378497 257460.14430836599785835, 517803.6140675789793022 257521.72988616899237968))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pestycydów i pozostałych środków agrochemicznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2023-11-24",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.723.2023.AH",
+    "decisions": [
+      {
+        "issue_date": "2024-11-22",
+        "reference": "WSI.513.473.2023.AH.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Działka została zgłoszona jako działka wchodząca w skład wielkoobszarowego terenu zdegradowanego, na którym jest konieczne podjęcie działań związanych z poprawą stanu środowiska. Teren Zakładów Chemicznych \"Organika-Azot\" w Jaworznie."
+}

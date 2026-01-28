@@ -1,0 +1,142 @@
+{
+  "registry_id": 427,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 7.7525,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Cewice",
+    "address": "Teren MPS-1 w obrębie JW 4653 w Siemirowicach oraz tereny przyległe",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "193/2",
+      "193/3",
+      "193/4",
+      "211/10",
+      "494",
+      "495",
+      "194/2",
+      "194/3",
+      "194/4",
+      "212/1",
+      "491",
+      "492",
+      "493",
+      "212/2",
+      "193/8L",
+      "194/6L"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((418765.90682332293 729214.1048171017,418630.9690534331 729354.3342642179,418553.1813978474 729477.1011764286,418916.719624953 729670.24739605,419307.77457375993 729751.7392257061,419317.2995928106 729749.6225548061,419351.1663272133 729588.2263986832,419344.81631451275 729586.6388955042,419388.737235686 729358.5676060263,419377.0955457353 729355.3925996758,419099.2824900962 729288.7174663227,418765.90682332293 729214.1048171017))",
+    "site_description": "JW 4653 w Siemirowicach, teren MPS-1 (magazyn paliw) i tereny przyległe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury",
+      "address": "ul. Jana z Kolna 8b, 81-301 Gdynia",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "128 - 1061 mg/kg s.m.",
+      "area_ha": 7.7525
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "340 - 1036 mg/kg s.m.",
+      "area_ha": 7.7525
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 15",
+      "substance": "Toluen",
+      "concentration": "1,75mg/kg s.m.",
+      "area_ha": 7.7525
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 15",
+      "substance": "Etylobenzen",
+      "concentration": "6,26 mg/kg s.m.",
+      "area_ha": 7.7525
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 15",
+      "substance": "Ksyleny",
+      "concentration": "17,2 mg/kg s.m.",
+      "area_ha": 7.7525
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "60,3 - 900 mg/kg s.m.",
+      "area_ha": 7.7525
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-02-18",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WSI-I.511.3.2016.AK.6",
+    "decisions": [
+      {
+        "issue_date": "2016-07-19",
+        "reference": "RDOŚ-Gd-WSI-I.511.3.2016.AK.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-03-24",
+        "reference": "RDOŚ-Gd-WZS.515.17.2021.MK.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 104 § 1, art. 155 k.p.a. oraz art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury",
+        "address": "ul. Jana z Kolna 8b, 81-301 Gdynia",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2016-08-10",
+    "planned_end": "2024-09-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko metodą in situ poprzez: a)\twykorzystanie całości wykonanej w 2015 r. instalacji oczyszczania i kontynuację jej eksploatacji, b)\tuzupełnienie istniejącej sieci monitoringu lokalnego  o wykonanie dodatkowych 6 piezometrów (MP10÷MP15) na  odpływie wód z przedmiotowego terenu, z jednoczesnym poborem próbek gruntu i wody, c)\twykonanie 30 wielofunkcyjnych otworów technologicznych, z jednoczesnym poborem próbek gruntu i wód podziemnych do analiz laboratoryjnych,  d)\tprzekonstruowanie 3 szt. istniejących piezometrów (MP4, MP5, MP6) na otwory technologiczne, e)\twykonanie dodatkowych układów rozsączania powierzchniowego, f)\tmontaż systemów sczerpywania dwufazowego.",
+    "ecological_effect": "Remediacja ma doprowadzić:   a)\tgrunty do standardów obowiązujących dla funkcji gruntów grupy „B” – m.in. grunty leśne i „C” - tereny przemysłowe, użytki kopalne, tereny komunikacyjne podanych  w rozporządzeniu Ministra Środowiska z dnia 09 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359); b)\twody podziemne do dobrego stanu chemicznego tj. do klasy III jakości wód podziemnych w myśl rozporządzenia Ministra Środowiska z dnia z dnia 21 grudnia 2015 r. w sprawie kryteriów i sposobu oceny stanu jednolitych części wód podziemnych (Dz. U. z 2016 r. poz. 85).",
+    "effect_assessment": null
+  },
+  "notes": null
+}

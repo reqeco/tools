@@ -1,0 +1,75 @@
+{
+  "registry_id": 817,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Biała Podlaska",
+    "municipality": "Biała Podlaska",
+    "address": "ul. Sidorska 83",
+    "precinct": "0003 Obręb 3",
+    "parcel_numbers": [
+      "066101_1.0003.AR_30.1991/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((784713.618062878 470141.0390434209,784717.8514041225 469957.41784283053,784962.3269150949 469963.2386884,784961.7977474926 469995.5179196317,784724.7305853162 469988.1095709028,784719.4389083732 470141.5682111671,784714.1472306484 470141.5682111541,784713.618062878 470141.0390434209))",
+    "site_description": "tereny przemysłowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1958-01-01",
+    "to": "1996-10-31",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": "Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi"
+  },
+  "land_holders": [
+    {
+      "name": "BG Trading Sp. z o.o.",
+      "address": "ul. Sidorska 83, 21-500 Biała Podlaska",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "066101_1.0003.AR_30.1991/10"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-18",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.513.2.2019.AWF",
+    "decisions": [
+      {
+        "issue_date": "2019-05-21",
+        "reference": "WSI.513.2.2019.AWF",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

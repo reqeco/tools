@@ -1,0 +1,140 @@
+{
+  "registry_id": 1277,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.0,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Hel",
+    "address": "Skład MPS Punkt Bazowania Hel w Helu-Borze",
+    "precinct": "0001 Hel",
+    "parcel_numbers": [
+      "16/1",
+      "16/5",
+      "17"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((485781.87177206 753901.8182201134,485771.28841756 753909.2265682649,485772.34675301 753936.7432899643,485763.88006940996 753937.2724576937,485761.23423079 753920.8682582155,485689.2674201901 753984.3683852134,485708.8466260099 753979.0767079629,485709.37579374004 753981.7225465933,485670.74654980993 754003.947591044,485372.82512064 754288.1106593646,485166.44970788 754486.019388523,484769.57391412987 754855.3784605749,484654.74451780994 754963.8578441925,484649.98200828006 754972.3245277926,485019.3410803301 755218.3875199221,485073.31618828006 755173.9374310244,485227.30399626 755003.0162558425,485595.60473285994 754709.8573361924,485833.73020910996 754511.9486070434,486048.0431377399 754289.6981625436,486052.8056472601 754279.1148080444,486205.73511979 754109.2519683149,485973.43048851006 753912.4015746135,485973.43048851006 753872.184827514,485984.01384301 753798.6305137444,486103.60574886 753652.5802216437,486082.43903985986 753641.4676994132,486032.69727370987 753694.3844719157,486000.94721020997 753709.7303359462,485782.93010751007 753898.6432137648,485782.93010751 753902.3473878447,485781.87177206 753901.8182201134))",
+    "site_description": "Skład MPS Punktu Bazowania Hel w Helu-Borze"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie paliw gazowych",
+    "current": "Magazynowanie i przechowywanie paliw gazowych"
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+      "address": "ul. Jana z Kolna 8b, 81-301 Gdynia",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "16/1"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "Lasy Państwowe",
+      "address": "Nadleśnictwo Wejherowo, ul. Sobieskiego 247B, 84-200 Wejherowo",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "16/5",
+        "17"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3,67 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1461 mg/kg s.m.",
+      "area_ha": 4.0
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "44566 mg/kg s.m.",
+      "area_ha": 4.0
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "3,03 mg/kg s.m.",
+      "area_ha": 4.0
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "1,56 mg/kg s.m.",
+      "area_ha": 4.0
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "1,45 mg/kg s.m.",
+      "area_ha": 4.0
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-02-02",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "RDOŚ-Gd-WZS.515.28.2020.LK.",
+    "decisions": [
+      {
+        "issue_date": "2021-05-25",
+        "reference": "RDOŚ-Gd-WZS.515.28.2020.LK.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+        "address": "ul. Jana z Kolna 8b, 81-301 Gdynia",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Lasy Państwowe",
+        "address": "Nadleśnictwo Wejherowo, ul. Sobieskiego 247B, 84-200 Wejherowo",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-06-21",
+    "planned_end": "2030-05-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "3.1.\tRemediacja omawianego terenu będzie polegała na: a)\tpozostawieniu terenu do samooczyszczenia, w obszarze pola zbiornikowego, w północnej części działki, o nr. ew. 16/1, obręb 0001 Hel, zanieczyszczonego sumą węglowodorów C6-C12, składników frakcji benzyn, w przedziale głębokości 0-0,25 m p.p.t.; b)\tbudowie bariery iniekcyjnej, na odcinku długości około 850 m, przebiegającej m.in. przez teren rezerwatu „Helskie Wydmy” (na długości około 125 m) oraz teren, będący w trwałym zarządzie Lasów Państwowych (około 412 m). Bariera fizyczna została zaprojektowana na zasadzie przekształcenia gruntów przepuszczalnych w grunty słaboprzepuszczalne, poprzez iniekcje otworowe preparatu uszczelniającego; c)\twykonaniu około 70 piezometrów technologicznych, na całym obszarze zanieczyszczonym, rozmieszczonych w miejscach stwierdzonego wolnego produktu ropopochodnego. Wśród piezometrów technologicznych, przewiduje się wykonanie 8 par piezometrów, służących do monitorowania pracy bariery iniekcyjnej, z których jeden znajduje się wewnątrz, a drugi na zewnątrz bariery; d)\tobserwacji, pod kątem wolnego produktu ropopochodnego i położenia zwierciadła wody, we wszystkich projektowanych piezometrach technologicznych, z częstotliwością raz na miesiąc; w przypadku konieczności sczerpywania wolnego produktu ropopochodnego – 2 razy w ciągu miesiąca. Częstotliwość sczerpywania należy zwiększyć do cotygodniowej, jeżeli będzie to uzasadnione dużym dopływem produktu do danego otworu. Produkt początkowo będzie usuwany ręcznie, z powierzchni wód gruntowych, i unieszkodliwiany zgodnie z obowiązującymi przepisami prawa. W piezometrach pozbawionych wolnego produktu ropopochodnego, bądź jego małą zawartością (rzędu poniżej 1 cm), planuje się wspomaganie procesów samooczyszczania, poprzez zadawanie biopreparatów, najbardziej uniwersalnych bakterii autochtonicznych z wyselekcjonowanych szczepów lub gotowych preparatów, z odpowiednim certyfikatem. Preparaty planuje się zadawać 3 razy do roku,                   w ciepłych okresach roku (maj – wrzesień), w zależności od rodzaju preparatu, w ilości około 100 l jednorazowo na jeden piezometr. Należy stosować zalecane dla danego preparatu odżywki oraz tlen ze środków chemicznych. Natleniacze służą wspomaganiu rozwoju bakterii, tak jak odżywki.",
+    "ecological_effect": "Przeprowadzone prace remediacyjne doprowadzą do zmniejszenia ilości zanieczyszczeń (średnio o około 17,5%) i ograniczenia możliwości ich rozprzestrzeniania się, z jednoczesnym kontrolowaniem zanieczyszczenia, poprzez prowadzenie badań gleby i ziemi. Zgodnie z klasyfikacją, określoną w Rozporządzeniu Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395), zwanego dalej rozporządzeniem, teren działki, o nr. ew. 16/1, obręb 0001 Hel, zalicza się do I grupy gruntów. Działki, o nr. ew. 16/5 i 17, obręb 0001 Hel, należy zaliczyć do III grupy gruntów.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,87 @@
+{
+  "registry_id": 1575,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Chełm",
+    "municipality": "Chełm",
+    "address": "ul. Podgórze 38",
+    "precinct": "0003 Obręb 3",
+    "parcel_numbers": [
+      "066201_1.0003.12.116/1",
+      "066201_1.0003.12.116/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((809630.4496459595 374021.9054499259,809631.6701378478 374022.0818479797,809633.0418287659 374025.50074161217,809632.0775289494 374027.20208702143,809605.6079222923 374038.57261349447,809603.4316847203 374038.0874220701,809603.4316847203 374038.0874220701,809602.1030917921 374035.567012622,809602.7139027074 374034.10834907927,809630.4496459595 374021.9054499259))",
+    "site_description": "rejon pola dystrybucji likwidowanej Stacji Paliw PKN ORLEN S.A. Nr 1440 w Chełmie"
+  },
+  "occurrence_time": {
+    "date": "2022-02-28",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W trakcie likwidacji stacji, podczas robót prowadzonych w rejonie pola dystrybucji, polegających na likwidacji przewodów paliwowych oraz dystrybutorów, doszło do zanieczyszczenia. Skażenie stwierdzono pod powierzchnią asfaltową, którą usunięto. Stwierdzono, że grunty bezpośrednio okalające przewody paliwowe w okolicy pola dystrybucji były niemal nasiąknięte olejami. Celem niedopuszczenia do rozprzestrzenienia się zanieczyszczenia w występujących na terenie stacji osadach kredowych - charakteryzujących się porowatością i silnymi zdolnościami higroskopijnymi - przeprowadzono działania zapobiegawcze metodą ex-situ.",
+  "total_area_ha": 0.019,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "845-3443 mg/kg s.m.",
+      "area_ha": 0.019
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "5319-26193 mg/kg s.m.",
+      "area_ha": 0.019
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2022-02-28",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2022-05-04",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania zapobiegawcze prowadzono metodą ex-situ, polegającą na usunięciu z podłoża terenu pól dystrybucji gruntu zanieczyszczonego substancjami ropopochodnymi i zastąpieniu go gruntem spełniającym standardy jakości gleby i ziemi określone dla gruntów grupy IV. Przed zasypaniem wykopu, celem potwierdzenia usunięcia zanieczyszczenia, próby gleby i ziemi pobrane ze ścian i dna wykopu poddano analizom laboratoryjnym.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

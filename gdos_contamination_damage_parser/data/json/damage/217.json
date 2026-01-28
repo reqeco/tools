@@ -1,0 +1,87 @@
+{
+  "registry_id": 217,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": "Baza Paliw nr 21, Dębogórze ul. Rumska 7 81-198 Kosakowo",
+    "precinct": "0008",
+    "parcel_numbers": [
+      "48/2 obręb 0008 Dębogórze"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((465759.51102787786 747645.8267714521,465777.5027305279 747566.7161965724,465647.59205403796 747562.7474386329,465674.5796080178 747566.7161965715,465684.1046270679 747596.3495891718,465723.52762257797 747618.839217484,465741.2547413679 747643.710100553,465759.51102787786 747645.8267714521))",
+    "site_description": "Wycieku oleju napędowego w dniu 1 sierpnia 2009 r., na drodze polnej pomiędzy wsią Dębogórze, gm. Kosakowo, pow. pucki, woj. pomorskie i cmentarzem,"
+  },
+  "occurrence_time": {
+    "date": "2009-08-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda polegająca na wprowadzeniu do ziemi substancji ropopochodnych na terenie Bazy Paliw nr 21 w Dębogórzu, gm. Kosakowo, na skutek wycieku oleju napędowego z uszkodzonego rurociągu podziemnego. Przyczyną wycieku było przestępcze działanie osób trzecich mające na celu kradzież produktu z tego ruruciągu",
+  "total_area_ha": 0.5095,
+  "reporters": [
+    {
+      "name": "Operator Logistyczny  Paliw Płynnych Sp. z o. o. w Płocku",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "legal_form": "Spółka z o.o."
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Operator Logistyczny  Paliw Płynnych Sp. z o. o. w Płocku",
+      "address": "ul. Wyszogrodzka 133,        09-410 Płock",
+      "economic_activity_code": "52.10.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "znaczne przekroczenie w jednej próbce bez podania wartości",
+      "area_ha": 0.25
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-02-03",
+    "detection_date": "2009-08-01",
+    "decisions": [
+      {
+        "issue_date": "2016-03-30",
+        "reference": "RDOŚ-Gd-WSI-I.511.1.2016.AK.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Pierwotnie - wyłączenie pasa wzdłuż drogi o szerokości 5 m, dł. 50 m, z upraw rolnych na okres 1 roku, głębokiej orce p uprzednim podaniu obornika w okresie wczesnej wiosny 2010 r., następnie powtarzanie zabiegu. Po uchyleniu decyzji z 2010 i wydaniu nowej zakres remediacji polegać będzie na:  a)\twykorzystaniu do badań istniejącego piezometru obserwacyjnego i wykonaniu pięciu otworów badawczych do głębokości ok. 2,5 m p.p.t. zgodnie  z rysunkiem stanowiącym załącznik nr 1 do niniejszej decyzji, b)\tw przypadku stwierdzenia w otworach badawczych w przedziale 1,0 do 2,0 m p.p.t. obecność wody wówczas w punktach 2 i 4 (załącznik nr 1 do decyzji) założyć piezometry obserwacyjne, c)\tjeżeli w nowych piezometrach zostaną przekroczone standardy w gruncie  i wodach podziemnych tj. 50 do 100% wykonać kolejny piezometr  odległy  o 10 m w kierunku południowo-wschodnim od nowego piezometru nr 2. 3.2.\tMonitorowanie postępu działań remediacyjnych  poprzez: a)\tpobór próbek gruntu z głębokości: 0,5 m, 1,0 m, 1,5 m i wykonywanie badań gruntu na zawartość węglowodorów alifatycznych – olejów mineralnych  z częstotliwością 1 raz w roku – w miesiącu wrześniu aż do 2025 r. włącznie, b)\tpobór próbek wody gruntowej z każdego piezometru, celem pomiaru swobodnego zwierciadła wody w warstwie wodonośnej z możliwością poboru próbek wody do badań laboratoryjnych na zawartość substancji ropopochodnych (indeks oleju mineralnego) 1 raz w roku – w miesiącu wrześniu aż do 2025 r. włącznie oraz  dodatkowo dla celów porównawczych – suma olejów mineralnych, w celu zapewnienia ciągłości dotychczasowych analiz.",
+    "ecological_effect": "doprowadzić do poziomu zanieczyszczeń w glebie nie przekraczających wartości przewidzianych dla funkcji gruntów grupy \"B\", a stan czystości wód podziemnych do wartości nie przekraczających wielkości ustalonych dla III klasy czystości wód zgodnie z kryteriami zawartymi w rozporządzeniu Ministra Środowiska z dnia 21 grudnia 2015 r. w sprawie kryteriów i sposobu oceny stanu jednolitych części wód podziemnych",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

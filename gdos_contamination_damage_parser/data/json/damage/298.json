@@ -1,0 +1,82 @@
+{
+  "registry_id": 298,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "bolesławiecki",
+    "municipality": "Bolesławiec (gmina miejska)",
+    "address": "Bolesławiec, ul. Piastów 37/2",
+    "precinct": null,
+    "parcel_numbers": [
+      "dz. nr 27/8",
+      "obręb 0014"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((262096.17323233076604083 382431.8079008087515831, 262073.91736959607806057 382366.38921055383980274, 262074.11731525408686139 382363.44380379468202591, 262067.27230807088199072 382358.76930183544754982, 262061.48730254304246046 382360.67719189077615738, 262069.28429349613725208 382382.07553318329155445, 262070.68491747949155979 382387.5576912984251976, 262072.73569060221780092 382393.5752739617601037, 262076.06274769437732175 382403.5294116111472249, 262077.82031902874587104 382408.76175194606184959, 262079.75816800747998059 382414.545122723095119, 262081.74013136606663465 382420.58648753724992275, 262083.46285490013542585 382425.17974389996379614, 262086.93262975325342268 382434.44505272712558508, 262096.17323233076604083 382431.8079008087515831))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2007-04-30",
+    "from": null,
+    "to": null,
+    "description": "Delegatura w Jeleniej Górze Wojewódzkiego Inspektoratu Ochrony Środowiska  we Wrocławiu pismem z dnia 16 września 2010 r., znak: DJ.DI.420-3/41164/88o poinformowała Regionalnego Dyrektora Ochrony Środowiska we Wrocławiu o ustaleniach kontroli, przeprowadzonej w dniu 13 sierpnia 2010 r., w firmie(...) Transport Autobusowy i Ciężarowy (...) w Bolesławcu."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu ok.2-3 m2 terenu przy ulicy Piastów 37/2, bolesławiec produktami ropopochodnymi w związku z działalnością(…) Transport Autobusowy i Ciężarowy (…)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dolnośląski Wojewódzki Inspektor Ochrony Środowiska (WIOŚ) Delegatura w Jeleniej Górze",
+      "address": null,
+      "legal_form": "Jednostak budżetowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) Transport Autobusowy i Ciężarowy (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "300 mg/kg s.m.",
+      "area_ha": 0.0002
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-12-28",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2011-02-11",
+        "reference": "WSI.512.7.2011.APC.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-04-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Z uwagi na miejscowe zanieczyszczenie substancjami ropopochodnymi środowiska gruntowego, należy usunąć warstwę gruntu (o miąższości ok. 20 cm) z bezpośredniego rejonu prowadzonego przeładunku paliwa (o pow. ok. 2-3 m2), w związku z prowadzoną działalnością na terenie posesji przy ul. Piastów 37 w Bolesławcu dz. nr 27/8, obręb 0014  i jego oczyszczenie lub unieszkodliwienie poza miejscem pierwotnego występowania.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

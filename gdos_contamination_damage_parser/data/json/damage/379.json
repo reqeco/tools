@@ -1,0 +1,104 @@
+{
+  "registry_id": 379,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "łukowski",
+    "municipality": "Łuków (gmina wiejska)",
+    "address": "ul. Zimna Woda 118, 118A, 118B",
+    "precinct": "0006 Gołaszyn",
+    "parcel_numbers": [
+      "061105_2.0006.171/3",
+      "061105_2.0006.171/5",
+      "061105_2.0006.171/7",
+      "061105_2.0006.180/9",
+      "061105_2.0006.180/10",
+      "061105_2.0006.180/19",
+      "061105_2.0006.180/20"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "łąki przylegające do terenu Firmy Produkcyjno-Handlowej \"EWIAX\" Jan Janiak"
+  },
+  "occurrence_time": {
+    "date": "2010-11-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gleby na terenie działek nr 180/19 i 180/20 położonych w m. Gołaszyn, w wyniku działalności Firmy Produkcyjno-Handlowej (…)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Firma Produkcyjno-Handlowa (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Cynk (Zn)",
+      "concentration": "398-757 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-08-04",
+    "detection_date": "2010-11-18",
+    "decisions": [
+      {
+        "issue_date": "2011-09-12",
+        "reference": "WSI.510.4.2011.RSZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2010-09-01",
+    "planned_end": "2013-01-31",
+    "actual_end": "2014-11-20",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Udrożnienie i oczyszczenie rowu odpływowego, umożliwienie spływu wody z terenów sąsiadujących do zbiornika, odtransportowanie do oczyszczalni zebranej zanieczyszczonej wody, pobranie próbek i wykonanie badań gleby.",
+    "ecological_effect": "W pobranych próbkach gleby nie stwierdzono przekroczeń, brak zanieczyszczeń w badanej glebie.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Firma Produkcyjno-Handlowa(…)",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

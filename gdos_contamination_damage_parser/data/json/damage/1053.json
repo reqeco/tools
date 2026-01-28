@@ -1,0 +1,171 @@
+{
+  "registry_id": 1053,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "jeleniogórski",
+    "municipality": "Kowary",
+    "address": "ul. Rejtana 11 58-530 Kowary",
+    "precinct": "Kowary 0004",
+    "parcel_numbers": [
+      "200/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((278303.31336259306 327504.6512043942,278303.04302499065 327499.65883771144,278302.259046918 327485.18097424135,278302.1509121248 327483.1840275442,278295.13456469704 327483.06326259114,278295.2697331955 327485.5594460815,278296.0537113363 327500.03731025197,278296.3240489622 327505.02967717405,278303.31336259306 327504.6512043942)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "styczeń 2017 r."
+  },
+  "land_surface_holder": "Skarb Państwa (Polskie Koleje Państwowe S. A. ), podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gleby i ziemi w związku z działalnością prowadzoną bez wymaganego zezwolenia, polegającą na przetwarzaniu odpadów o kodzie 16 06 04 w innowacyjnej instalacji z wykorzystaniem metody elektrochemicznej w procesie recyklingu baterii",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dolnośląski Wojewódzki Inspektor Ochrony  Środowiska Delegatura w Jeleniej Górze",
+      "address": "ul. Warszawska 28 58-500 Jelenia Góra",
+      "legal_form": "organ administracji"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "HYDROMET Sp. z o. o.",
+      "address": "Cząstków Mazowiecki 05-152 Czosnów",
+      "economic_activity_code": "38.32.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "2080-5700 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "690-5000 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "512-760 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "370-1400 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "440 mg/kg s.m.",
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "390-520 mg/kg s.m.",
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "810-5000 mg/kg s.m.",
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "100-220 mg/kg s.m.",
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "110-120 mg/kg s.m.",
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "440 mg/kg s.m.",
+      "area_ha": 0.002
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "330 mg/kg s.m.",
+      "area_ha": 0.002
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2017-05-18",
+    "detection_date": "2017-05-11",
+    "decisions": [
+      {
+        "issue_date": "2020-11-25",
+        "reference": "WSI.512.8.2017.KMA.23",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-04-06",
+        "reference": "DOA-WSzOP.512.5.2021.MBA",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 § 1 pkt 2 Kpa w związku z art. 15 ust. 1 pkt 2 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2020-12-12",
+        "reason": "Wydanie decyzji pomimo braku ostatecznej decyzji Dolnośląskiego Państwowego Wojewódzkiego Inspektora Sanitarnego oraz braku zawiadomienia właściciela działki nr ew. 200/2 obręb Kowary 4 tj. Starostwa Powiatowego w Jeleniej Górze. Dodatkowo naruszenie: art. 7 w związku z art. 78 Kpa, art. 80 Kpa, 8 Kpa.",
+        "appealed_decision_reference": "WSI.512.8.2017.KMA.23",
+        "resolution_reference": "DOA-WSzOP.512.5.2021.MBA",
+        "appellant_name": "Hydromet Sp. z o.o.",
+        "appellant_address": "Cząstków Mazowiecki 128, 05-152 Czosnów",
+        "resolution_date": "2022-04-06",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Uchylenie decyzji w treści orzekającej: - termin zakończenia remediacji – 31.05.2021 r., jednocześnie orzekając nowy termin zakończenia prac remediacyjnych – w ciągu 6 miesięcy od rozpoczęcia prac remediacyjnych, - sposób potwierdzenia przeprowadzenia oraz termin przedłożenia dokumentacji z jej przeprowadzenia – do dnia 30.06.2021 r., orzekając nowy terminy przedłożenia dokumentacji z przeprowadzonych prac remediacyjnych wraz z wynikami badań kontrolnych w ciągu 30 dni od zakończenia prac remediacyjnych, W pozostałej części utrzymanie w mocy zaskarżonej decyzji."
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Prace remediacyjne będą przeprowadzone metodą ex-situ.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "WSI.512.8.2017.KMA.23"
+}

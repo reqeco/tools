@@ -1,0 +1,66 @@
+{
+  "registry_id": 835,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Jasienica",
+    "address": "43-386 Grodziec",
+    "precinct": "0003 Grodziec",
+    "parcel_numbers": [
+      "240205_2.0003.20/35"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((490370.885000 215323.802000,490372.082000 215328.133000,490377.135000 215346.605000,490390.929000 215403.698000,490393.045000 215412.445000,490399.954000 215444.174000,490408.183000 215464.742000,490420.283000 215487.728000,490438.231000 215507.817000,490448.566000 215517.643100,490485.228000 215560.669000,490592.741000 215677.246900,490599.610000 215675.966000,490759.643000 215652.434000,490915.042000 215596.134000,491016.452000 215560.092000,491107.702000 215513.852000,491115.745000 215434.980000,491216.466000 215312.018000,491223.666000 215314.601000,491244.393000 215237.359000,491245.663000 215234.394000,491197.494000 215221.844000,491153.794000 215204.987000,491112.546000 215188.326900,491052.192000 215163.646000,491017.870000 215150.032000,490977.487000 215136.748000,490905.605000 215124.494000,490874.418000 215119.583000,490856.950000 215118.217000,490812.764000 215115.878000,490757.006000 215118.830000,490631.115000 215146.973000,490588.054000 215158.551000,490552.048000 215168.525000,490522.035000 215176.731100,490487.335000 215182.730000,490491.057000 215201.050000,490464.312000 215206.244000,490460.697000 215186.923000,490401.725000 215196.994000,490394.372000 215198.691000,490387.027000 215197.220000,490384.389000 215202.482000,490383.127000 215206.797000,490365.512000 215294.890000,490370.885000 215323.802000),(490466.118000 215499.060000,490500.863000 215498.736000,490508.771000 215492.175000,490514.934000 215495.690000,490512.687000 215505.535000,490519.293000 215513.062100,490587.982000 215519.662000,490601.902000 215505.334000,490619.644000 215549.702000,490599.599000 215575.433900,490595.875000 215584.759000,490596.025000 215601.967000,490557.957000 215601.935000,490531.706000 215593.260000,490481.532000 215539.800000,490453.502000 215505.624000,490466.118000 215499.060000))",
+    "site_description": "siedlisko źródlisk wapiennych w obrębie rezerwatu przyrody „Morzyk” i obszaru mającego znaczenie dla Wspólnoty Cieszyńskie Źródła Tufowe PLH240001 stanowi część działki o nr ewidencyjnym 20/35 położonej w miejscowości Grodziec, gmina Jasienica."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2014-09-16",
+    "description": "z pisma zgłaszającego wynika, że nastąpiło to przed 16.09.2014 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "organ ochrony środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "wykonano prace ziemne, w wyniku których obniżono stan uwodnienia tego terenu - powstał przekop",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Źródliska wapienne ze zbiorowiskami Cratoneurion commutati",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-07-24",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2016-01-21",
+        "reference": "WSI.510.26.3.2014.MB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 17",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "2.\tDziałania naprawcze prowadzone będą w obrębie cieku bez nazwy o długości 43,4 m, który dla potrzeb sprecyzowania poszczególnych robót został podzielony na odcinki (zgodnie z załącznikiem nr 1 do decyzji), tj.: A.\tOdcinek I o długości 27 m - na przedmiotowym odcinku nie doszło do wystąpienia szkody w środowisku. B.\tOdcinek II o długości 6,7 m - działania naprawcze polegać będą na ułożeniu na dnie rowu w końcu odcinka kłody o średnicy około 30 cm lub dwóch kłód o sumarycznej średnicy około 30 cm  i długości około 120 cm, poprzecznie do osi rowu i zagłębionej/-ych w jego dnie na głębokość około 15 cm. Kłoda wystawać będzie około 10 cm ponad powierzchnię manny jadalnej Glyceria fluitans. C.\tOdcinek III o długości 3,5 m - przewidziane prace obejmują wyłożenie dna rowu kłodami o średnicy około 20 cm i długości około 30 cm, poprzecznie do osi rowu, płytko zagłębionymi w jego dnie i zastabilizowanymi kołkami wbitymi w dno rowu, a następnie zasypanie kłód materiałem trawertynowym pochodzącym z przekopu rowu. D.\tOdcinek IV o długości 6,2 m – planowane do wykonania roboty będą polegały na wyłożeniu dna rowu kłodami o średnicy około 20 cm i długości około 25-35 cm, poprzecznie do osi rowu, płytko zagłębionymi w jego dnie i zastabilizowanymi kołkami wbitymi w dno rowu. Następnie zasypaniu kłód materiałem trawertynowym pochodzącym z przekopu rowu oraz ofaszynowaniu prawego brzegu cieku głównego na całej jego długości w miejscu kontaktu ze strukturami trawertynowym w celu ograniczenia erozji bocznej oraz zatrzymanie materiału erozyjnego ze zdewastowanego rowu bocznego.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

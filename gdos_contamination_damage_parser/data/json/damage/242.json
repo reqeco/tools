@@ -1,0 +1,89 @@
+{
+  "registry_id": 242,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "wieluński",
+    "municipality": "Mokrsko",
+    "address": "Krzyworzeka",
+    "precinct": "005 Krzyworzeka",
+    "parcel_numbers": [
+      "131/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POINT(466127.49996677047 370479.5453670351)",
+    "site_description": "nieużytek"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed sierpniem 2008 r."
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Urząd Gminy Mokrsko), podmiot korzystający ze środowiska",
+  "land_owner": "jednostka samorządu terytorialnego (Urząd Gminy Mokrsko), podmiot korzystający ze środowiska",
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "skażenie gruntu rtęcią w wyniku usypania dzikiego wysypiska na terenie gminy Mokrsko w miejscowości Krzyworzeka",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Urząd Gminy Mokrsko",
+      "address": "Mokrsko 231, 98-345 Mokrsko",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Sprawca nieznany",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-03-03",
+    "detection_date": "2008-08-21",
+    "decisions": [
+      {
+        "issue_date": "2009-04-22",
+        "reference": "RDOŚ-10-WSI-s-6622-d-9/3/09/mr",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2009-09-07",
+        "reference": "RDOŚ-10-WSI-s-6622-d-9/3/09/mr",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2010-01-25",
+        "reference": "RDOŚ-10-WSI-s-6622-d-2/625/2010/mr",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2009-06-15",
+    "planned_end": "2010-03-31",
+    "actual_end": "2010-03-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięcie zanieczyszczenia do głębokości poziomu wód gruntowych tj. 0,20 m ppt i powierzchni 32,22 m2",
+    "ecological_effect": "osiągnięto standardy dla gruntów grupy „B” zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359) w zakresie rtęci",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

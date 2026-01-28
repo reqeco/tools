@@ -1,0 +1,56 @@
+{
+  "registry_id": 1051,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "koniński",
+    "municipality": "Krzymów",
+    "address": "miejscowość Depaula, gmina Krzymów, powiat koniński,",
+    "precinct": null,
+    "parcel_numbers": [
+      "87/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((457334.7726060333 478262.84404357243,457294.0266912132 478225.6700108908,457331.59759968333 478179.8970026728,457394.7008508933 478211.911650043,457334.7726060333 478262.84404357243))",
+    "site_description": "Teren żwirowiska w. m. Depaula"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2017-05-25",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Gromadzenie odpadów w żwirowisku",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Krzymów",
+      "address": "ul. Kościelna 2 62-513 Krzymów",
+      "legal_form": "organ samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Firma Usługowo-Transportowa Wydobywanie żwiru i piasku (…)",
+      "address": "(…)",
+      "economic_activity_code": "46.44.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2017-10-12",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

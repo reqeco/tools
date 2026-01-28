@@ -1,0 +1,60 @@
+{
+  "registry_id": 610,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "człuchowski",
+    "municipality": "Debrzno",
+    "address": "ul. Wojska Polskiego 30A",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "488/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((383852.86 631769.82,383853.56 631769.10,383876.09 631789.12,383887.82 631803.37,383891.98 631813.20,383852.51 631769.83,383852.86 631769.82",
+    "site_description": "stacja paliw HAWA, myjnia samochodowa"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "BTW PROPERTY MANAGEMENT sp. z o. o.",
+      "address": "62-200 GNIEZNO, ALEJA KAROLA MARCINKOWSKIEGO 24",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "488/1"
+      ],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.32.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.32.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

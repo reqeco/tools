@@ -1,0 +1,296 @@
+{
+  "registry_id": 1707,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Zabrze",
+    "municipality": "Zabrze",
+    "address": "Ul. Makoszowska 15 w Zabrzu",
+    "precinct": "Makoszowy",
+    "parcel_numbers": [
+      "247801_1.0005.AR_3.2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((483614.61600000038743019 267606.00400000065565109, 483698.15000000037252903 267600.13499999977648258, 483773.22900000028312206 267595.81900000013411045, 483849.37700000032782555 267592.14900000020861626, 483857.21499999985098839 267684.62099999934434891, 483883.40500000026077032 267681.27099999971687794, 483884.95000000018626451 267686.96700000017881393, 483889.51900000032037497 267686.29600000008940697, 483894.70000000018626451 267718.58799999952316284, 483917.07400000002235174 267715.41899999976158142, 483911.11099999956786633 267684.35700000077486038, 483929.39599999971687794 267681.07300000078976154, 483932.74700000043958426 267699.89800000004470348, 484009.0400000000372529 267718.26209999993443489, 484032.53600000031292439 267771.00709999911487103, 484121.9469999996945262 267842.61500000022351742, 484179.10099999979138374 267871.42100000008940697, 484256.62700000032782555 267724.7630000002682209, 484315.18400000035762787 267750.0921000000089407, 484319.93900000024586916 267752.14699999988079071, 484406.32699999958276749 267772.74499999918043613, 484375.15299999993294477 267836.70700000040233135, 484410.53500000014901161 267878.48799999989569187, 484493.07699999958276749 267832.28610000014305115, 484535.37100000027567148 267816.50599999912083149, 484414.77099999971687794 267745.87700000032782555, 484467.54999999981373549 267659.44700000062584877, 484462.1380000002682209 267640.49000000022351742, 484461.10300000011920929 267637.8359999991953373, 484454.21700000017881393 267625.19500000029802322, 484450.76999999955296516 267622.30299999937415123, 484444.9150000000372529 267628.31900000013411045, 484382.70500000007450581 267613.07300000078976154, 484333.84499999973922968 267601.28600000031292439, 484336.77500000037252903 267588.03399999998509884, 484321.65899999998509884 267560.16310000047087669, 484340.60300000011920929 267540.44009999930858612, 484353.20700000040233135 267527.09799999929964542, 484315.04200000036507845 267496.09799999929964542, 484314.97200000006705523 267496.04900000058114529, 484279.10900000017136335 267465.31799999997019768, 484250.10900000017136335 267438.00300000049173832, 484221.05200000014156103 267439.2630000002682209, 484209.90500000026077032 267439.74200000055134296, 484209.90799999982118607 267442.94099999964237213, 484192.678999999538064 267441.53299999982118607, 484125.44099999964237213 267450.01099999994039536, 484062.29899999964982271 267455.4159999992698431, 484048.30900000035762787 267456.28399999998509884, 484013.66299999970942736 267455.11999999918043613, 484014.3349999999627471 267465.69500000029802322, 483994.62200000043958426 267466.86900000087916851, 483980.23799999989569187 267467.49200000055134296, 483979.28399999998509884 267445.51700000092387199, 483945.03799999970942736 267447.39599999971687794, 483916.23900000005960464 267449.17200000025331974, 483820.35500000044703484 267453.78700000047683716, 483735.78000000026077032 267459.5, 483735.77920825831824914 267459.5018142499611713, 483801.67132400901755318 267478.66541336802765727, 483894.50924565497552976 267515.80837841797620058, 483868.32022248202702031 267572.260952599986922, 483738.07152287702774629 267526.7408028119825758, 483729.77744874899508432 267523.85384887200780213, 483710.48681217595003545 267517.45848784496774897, 483699.59399999957531691 267542.41899999976158142, 483684.72200000006705523 267538.6510000005364418, 483667.42399999964982271 267575.30199999921023846, 483633.92100000008940697 267582.60799999907612801, 483543.81400000024586916 267597.60999999940395355, 483544.56199999991804361 267610.92200000025331974, 483614.61600000038743019 267606.00400000065565109)))",
+    "site_description": "W przeszłości na terenie funkcjonowała Koksownia „Makoszowy”. po podziale działka 30/2, 29/2, 31/2 (fragment)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "1908-2004"
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie koksu",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "JSW KOKS S.A.",
+      "address": "ul. Pawliczka 1; 41-800 Zabrze",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "247801_1.0005.AR_2.2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "130 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "266 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1920 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "56,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "97,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "94,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "108 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "48,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "52,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "47,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "1880 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "1200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "279 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "1110 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1190 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "18,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "265 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "22,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "8,66 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "154 nmg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "124 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "169 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "193 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "12,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "101 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "124 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "78,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "33,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "40 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "18,6 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-08",
+    "legal_basis": "101c ust. 3 Poś",
+    "case_reference": "WSI.513.28.2019",
+    "decisions": [
+      {
+        "issue_date": "2022-11-15",
+        "reference": "WSI.513.28.2019",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-05-29",
+        "reference": "WSI.515.11.2025.MO.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [],
+    "planned_start": "2025-05-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Sposób przeprowadzenia remediacji. III.1. Remediacja zostanie przeprowadzona poprzez ograniczenie możliwości rozprzestrzeniania się zanieczyszczenia metodą remediacji in-situ przez wykonanie bariery fizycznej. Metoda polega na mechanicznym wymieszaniu zanieczyszczonego gruntu ze spoiwem cementowym, a następnie jego zagęszczeniu do osiągnięcia odpowiedniej wytrzymałości. W efekcie dojdzie do unieruchomienia zanieczyszczenia w bryle betonu i powstania nieprzepuszczalnej warstwy zabezpieczającej przed przenikaniem wód opadowych. III.2. Prace zostaną przeprowadzone w warstwie 0–0,45 m p.p.t., zastosowana metoda wpływa również na głębsze warstwy zanieczyszczonego gruntu do głębokości 5 m p.p.t. – dzięki ograniczeniu infiltracji wód opadowych oraz zjawisku wtórnego uszczelnienia poprzez zmniejszenie przepuszczalności w strefie poniżej warstwy poddanej solidyfikacji. W efekcie zredukowana zostaje możliwość migracji zanieczyszczeń do niższych partii gruntu oraz ich transport w głąb profilu geologicznego.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Obecnie na terenie nie jest prowadzona działalność, teren stanowi nieużytki."
+}

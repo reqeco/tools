@@ -1,0 +1,114 @@
+{
+  "registry_id": 194,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.054,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Lechicka 59A, 61-695 Poznań",
+    "precinct": "Winiary",
+    "parcel_numbers": [
+      "39/3",
+      "40/5 ark. 02"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((358311.7586278074 510742.41012507863,358304.8794473797 510687.3766816808,358330.8086659386 510653.5099472804,358386.9004448702 510641.3390896013,358387.4296126 510666.7391404016,358354.09204587166 510672.5599853806,358356.73788450356 510717.0100742793,358357.26705222426 510717.0100742802,358356.20871677285 510715.95173883066,358311.7586278074 510742.41012507863))",
+    "site_description": "teren byłej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1970-01-01",
+    "to": "2004-12-31",
+    "description": "Zanieczyszczenie najprawdopodobniej pochodzi z lat 70 XX, gdy była tu stacja paliw dla PKS"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Nickel Development sp. z o.o.",
+      "address": "ul. Krzemowa 1, Złotniki, 62-002 Suchy Las",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od <0,8 do 2750 mg/kg s.m.",
+      "area_ha": 0.054
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od <6 do 5000 mg/kg s.m.",
+      "area_ha": 0.054
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "od <0,07 do 152 mg/kg s.m.",
+      "area_ha": 0.054
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Cynk (Zn)",
+      "concentration": "od 30,2 do 683 mg/kg s.m.",
+      "area_ha": 0.054
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-07-20",
+    "legal_basis": "art.101l POŚ, następnie art. 162 Kpa",
+    "case_reference": "WSS.511.33.2016.ASB, WSS.515.21.2019.ASB",
+    "decisions": [
+      {
+        "issue_date": "2016-08-25",
+        "reference": "WSS.511.33.2016.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-09-03",
+        "reference": "WSS.515.21.2019.ASB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "162 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Nickel Development sp. z o.o.",
+        "address": "ul. Krzemowa 1, Złotniki, 62-002 Suchy Las",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-07-31",
+    "planned_end": "2020-03-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja etodą ex-situ. Z wyznaczonych do remediacji obszarów B1, B2 i B3 o łącznej powierzchni 540 m2, zostanie usunięty zanieczyszczony grunt. Po uzyskaniu wyników wskazujących na spełnianie standardów jakości gleby i ziemi, wykopy zostaną zasypane ziemią wolną od zanieczyszczeń (B1 i B3), bądź zostaną zagospodarowane zgodnie z projektem budowlanym na potrzeby podziemnych garaży (B2).",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "w 2019 r. zbycie terenu na innego władającego - patrz wpis 870"
+}

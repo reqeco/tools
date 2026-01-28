@@ -1,0 +1,164 @@
+{
+  "registry_id": 1602,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.75,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Kobierzyce",
+    "address": "ul. Handlowa",
+    "precinct": "Bielany Wrocławskie",
+    "parcel_numbers": [
+      "022305_2.0001.284/189",
+      "022305_2.0001.284/188"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((357409.50358054350363091 354759.59207986539695412, 357467.53768076893175021 354746.50168131833197549, 357448.33842956653097644 354701.12163302174303681, 357389.43163610459305346 354722.9389639335568063, 357409.50358054350363091 354759.59207986539695412)),((357300.19875267526367679 354792.31807623314671218, 357355.17842657305300236 354779.66402430430753157, 357317.21627078647725284 354714.21203156880801544, 357260.05486379750072956 354726.86608349770540372, 357300.19875267526367679 354792.31807623314671218)),((357508.11791626497870311 354992.81934731284854934, 357532.55332688620546833 354986.7104946575127542, 357555.67969765275483951 354979.29260214749956504, 357547.82545852445764467 354960.96604418160859495, 357495.46386433608131483 354896.38674468256067485, 357446.67241953435586765 354919.47555338341044262, 357396.41318199638044462 354852.75208285893313587, 357339.68812162562971935 354861.04266860539792106, 357360.1964126827660948 354894.6413582096574828, 357386.37720977695425972 354933.03986061445903033, 357395.54048875992884859 354944.82121930684661493, 357446.97949199366848916 354919.9735652023809962, 357508.11791626497870311 354992.81934731284854934)))",
+    "site_description": "sekcje V, VIII, XV, część XVII"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "EELVF IV Poland Dev B1 Sp. z o.o.",
+      "address": "Ul. Złota 59 00-120 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,2 -0,6 mg/kg s.m.",
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,4 mg/kg s.m.",
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,2-3,2 mg/kg s.m.",
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,3-3,2 mg/kg s.m.",
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,3-2,2 mg/kg s.m.",
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,2-1,2 mg/kg s.m.",
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,3-3,1 mg/kg s.m.",
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,5-1,9 mg/kg s.m.",
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,3-0,5 mg/kg s.m.",
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,3-1,9 mg/kg s.m.",
+      "area_ha": 1.75
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-03-31",
+    "legal_basis": "art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, w związku z art. 101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.515.6.2022.MR",
+    "decisions": [
+      {
+        "issue_date": "2022-07-13",
+        "reference": "WSI.515.6.2022.MR.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-09-20",
+        "reference": "WSI.515.14.2022.MR.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-14",
+        "reference": "WSI.515.15.2023.MR.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "EELVF IV Poland Dev B1 Sp. z o.o.",
+        "address": "Ul. Złota 59 00-120 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2022-07-01",
+    "planned_end": "2024-03-31",
+    "actual_end": "2024-05-07",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja polegać będzie na usunięciu zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko metodą ex-situ.",
+    "ecological_effect": "osiągnięto efekt ekologiczny",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "powiązana z kartą 1603"
+}

@@ -1,0 +1,123 @@
+{
+  "registry_id": 1827,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.094,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Posag 7 Panien",
+    "precinct": "2-09-09",
+    "parcel_numbers": [
+      "111/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628081.8728444012 483826.2530683484,628137.4354555641 483858.0031318469,628246.7085908641 483663.004825186,628192.4688990018 483634.1651841672,628081.8728444012 483826.2530683484))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MURAPOL REAL ESTATE S.A.",
+      "address": "ul. Dworkowa 4, 43-300 Bielsko-Biała",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "111/5"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-02-27",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.11.2023.PBu",
+    "decisions": [
+      {
+        "issue_date": "2023-05-31",
+        "reference": "WOOŚ-IV.515.11.2023.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-08-31",
+        "reference": "WOOŚ-IV.515.11.2023.PBu.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-12-24",
+        "reference": "WOOŚ-IV.515.11.2023.PBu.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art 155 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MURAPOL REAL ESTATE S.A.",
+        "address": "ul. Dworkowa 4, 43-300 Bielsko-Biała",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-06-01",
+    "planned_end": "2025-12-31",
+    "actual_end": "2025-01-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex- situ",
+    "ecological_effect": "Zawartość substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadziła remediacja jest zgodna z dopuszczalnymi zawartościami substancji powodujących ryzyko określonymi dla grupy I w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. poz. 1395),",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,127 @@
+{
+  "registry_id": 1545,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "gliwicki",
+    "municipality": "Rudziniec",
+    "address": null,
+    "precinct": "Pławniowice 0010",
+    "parcel_numbers": [
+      "240505_2.0010.AR_3.353/36"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((461707.30920236901147291 280052.51699599099811167, 461695.9394358359859325 280056.54782909998903051, 461603.7961296159774065 280081.67420371301705018, 461589.16913788398960605 280082.81038728397106752, 461585.99839224299648777 280081.14392455999040976, 461581.38867558498168364 280071.32112705800682306, 461556.43220059497980401 280057.22431893297471106, 461547.12894391798181459 280055.13058463198831305, 461540.51408553897636011 280054.50990459200693294, 461512.88376439997227862 280067.524756602011621, 461527.28421399398939684 280049.54051440302282572, 461542.33193400199525058 280029.14883599802851677, 461570.28071456000907347 280031.64151525200577453, 461578.9611703060218133 280035.7325741249951534, 461583.50145327998325229 280041.8782474150066264, 461638.98491519101662561 280045.79973678797250614, 461701.88083006697706878 280049.45164504001149908, 461707.30920236901147291 280052.51699599099811167))",
+    "site_description": "Rejon śluzy Rudziniec na rzece Kłodnicy (km 24+700)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wystąpienie bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku polegającym na nagromadzeniu odpadów na terenie działki o nr ewidencyjnym 353/36 obręb Pławniowice, w rejonie śluzy Rudziniec na rzece Kłodnicy (km 24+700)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Rudziniec",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Starosta Gliwicki – reprezentujący Skarb Państwa",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2020-09-10",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

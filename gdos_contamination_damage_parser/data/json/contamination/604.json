@@ -1,0 +1,234 @@
+{
+  "registry_id": 604,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5703,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "Jagiellońska 34-38, 85-097 Bydgoszcz",
+    "precinct": "149, 163",
+    "parcel_numbers": [
+      "6/5 obręb 0149",
+      "3/4",
+      "3/6 obręb 0149",
+      "2/4",
+      "73",
+      "72",
+      "71",
+      "5 obręb 0149",
+      "30 obręb 0163"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((433775.54897959833 584470.503005418,433780.3114891283 584486.6426210376,433783.2219116184 584487.4363726173,433800.15527881857 584493.5218014559,433818.940733049 584499.0780625688,433825.81991347915 584504.3697398175,433864.4491574099 584512.8364234176,433876.88459893997 584516.0114297662,433900.16797884053 584518.1281006681,433920.01176853076 584520.5093554389,433935.62221642095 584519.715603847,433937.20971959096 584532.6802131077,433970.8118701317 584532.9447969673,433971.0764539917 584537.7073064968,434017.9077976624 584513.894758869,434014.99737517245 584482.673863098,434040.92659369286 584468.1217506584,434070.5599862934 584448.5425448371,434083.78917942353 584442.1925321389,434099.39962731366 584436.9008548781,434119.243416994 584431.0800099075,434138.2934550944 584427.6404196983,434158.6664125147 584424.7299972083,434175.59977971506 584425.5237487974,434190.1518921451 584425.5237487992,434204.7040045855 584427.3758358294,434224.28321041574 584430.0216744589,434254.4457707363 584437.694606469,434284.8729149268 584446.95504166,434312.12505276734 584454.6279736692,434326.41258133744 584457.0092284419,434349.96054509794 584460.7134025088,434349.6959612377 584453.305054361,434334.87926493766 584451.98213505,434326.4125813374 584453.0404704986,434299.425027367 584450.1300480096,434283.2854117469 584444.0446191682,434265.02912523644 584439.5466935094,434247.03742258623 584433.461264668,434233.27906173584 584429.4925067294,434222.6957072358 584424.9945810689,434193.8560662252 584420.7612392697,434177.9810344751 584421.8195747193,434171.6310217749 584421.8195747193,434159.98933182465 584422.0841585882,434150.9934804946 584421.0258231275,434139.35179054446 584421.5549908597,434107.07255932386 584429.7570905993,434079.0266698933 584438.4883580571,434060.7703833832 584449.6008802895,434030.0786553325 584469.7092538364,434014.4682074424 584478.1759374365,433998.8577595621 584488.2301242091,433985.6285664319 584493.5218014577,433973.4577087617 584497.7551432597,433959.69934791146 584501.1947334688,433944.08890002104 584505.1634914065,433925.5680296408 584506.7509945873,433908.63466244045 584507.8093300387,433901.2263142904 584509.1322493479,433883.2346116401 584507.544746168,433862.33248649986 584503.8405720973,433844.34078384936 584500.1363980165,433828.7303359693 584494.8447207669,433812.590720349 584486.6426210376,433776.07814732834 584471.0321731465,433775.54897959833 584470.503005418))",
+    "site_description": "teren rekreacyjny, bulwary"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1990-09-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": "Działalność usługowa związana z zagospodarowaniem terenów zieleni"
+  },
+  "land_holders": [
+    {
+      "name": "Miasto Bydgoszcz",
+      "address": "ul. Jezuicka 1 85-102 Bydgoszcz",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": "35.21.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "34,1 - 78,7 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,17 - 3,33 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,15 - 8,56 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,6 - 19,5 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,32 - 28 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "3,68 - 20,1 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,7 - 18,7 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,22 - 29,1 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,391 - 2,1 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "3,24 - 21,2 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,73 - 9,66 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "9,96 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "11,9 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "7,01 - 11,6 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "7,85 - 16 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "9,88 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,39 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "14,3 [mg/kg sm]",
+      "area_ha": 0.5703
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "8,14 [mg/kg sm]",
+      "area_ha": 0.5703
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-05",
+    "legal_basis": "art. 101c ust 3 i 4 Poś; art. 101f ust1 Poś; 101l ust. 4",
+    "case_reference": "WSS.513.3.2019.KK; WSS.516.2.2019.KK",
+    "decisions": [
+      {
+        "issue_date": "2019-03-08",
+        "reference": "WSS.513.3.2019.KK.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-03-11",
+        "reference": "WSS.515.6.2023.BW.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-04-05",
+        "reference": "WSS.516.2.2019.KK/BW.22",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Miasto Bydgoszcz",
+        "address": "ul. Jezuicka 1 85-102 Bydgoszcz",
+        "economic_activity_code": "35.21.Z"
+      }
+    ],
+    "planned_start": "2028-06-01",
+    "planned_end": "2031-06-01",
+    "actual_end": null,
+    "method": null,
+    "description": "in situ metodą bioremediacji",
+    "ecological_effect": "uzyskanie parametrów dla grupy I gruntów",
+    "effect_assessment": null
+  },
+  "notes": "WSS.515.6.2023.BW"
+}

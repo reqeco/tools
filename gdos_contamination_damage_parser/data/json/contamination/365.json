@@ -1,0 +1,123 @@
+{
+  "registry_id": 365,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.4,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Abramowskiego",
+    "precinct": "1-08-04",
+    "parcel_numbers": [
+      "9(wschodnia połowa)",
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637506.4558691095 481799.4083894929,637506.9850368287 481752.31246196106,637583.1851893172 481750.724958783,637581.5976861471 481804.1708990121,637506.4558691095 481799.4083894929))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Skanska Residental Development Poland Sp. z o.o.",
+      "address": "ul. Jana Pawła II 17 00-854 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,242 [mg/kg]",
+      "area_ha": 2.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,108-0,210 [mg/kg]",
+      "area_ha": 2.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,101-0,265 [mg/kg]",
+      "area_ha": 2.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,144-0,346 [mg/kg]",
+      "area_ha": 2.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,122 [mg/kg]",
+      "area_ha": 2.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2,4 [mg/kg]",
+      "area_ha": 2.4
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-03-01",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-04-25",
+        "reference": "WSI.515.17.2018.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Skanska Residental Development Poland Sp. z o.o.",
+        "address": "ul. Jana Pawła II 17 00-854 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-04-25",
+    "planned_end": "2021-12-31",
+    "actual_end": "2021-11-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

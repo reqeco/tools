@@ -1,0 +1,91 @@
+{
+  "registry_id": 1604,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "wołomiński",
+    "municipality": "Tłuszcz",
+    "address": "Podstoliska, ul. Jadowska 14 05-240 Tłuszcz",
+    "precinct": "Podstoliska",
+    "parcel_numbers": [
+      "256",
+      "257/2",
+      "673",
+      "674",
+      "258",
+      "260/1",
+      "261/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((666343.79 512397.27,666360.06 512401.46,666397.32 512410.73,666433.44 512421.05,666484.43 512434.06,666527.46 512445.35,666592.56 512461.75,666587.08 512494.31,666507.13 512463.94,666447.75 512440.10,666399.16 512420.98,666371.79 512410.59,666342.23 512400.13,666343.79 512397.27))POLYGON((666589.02 512480.19,666650.26 512502.64,666703.56 512523.01,666716.87 512528.55,666711.67 512541.84,666697.23 512537.35,666678.52 512529.80,666660.92 512521.92,666641.44 512515.44,666617.31 512506.25,666589.94 512495.86,666586.73 512493.93,666589.02 512480.19))POLYGON((666602.25 512391.13,666596.32 512426.22,666538.55 512419.53,666476.48 512410.51,666343.91 512393.64,666344.09 512388.19,666369.55 512390.51,666393.18 512392.76,666473.03 512394.02,666581.85 512390.43,666603.01 512390.42,666602.25 512391.13))POLYGON((666594.94 512445.46,666635.29 512460.29,666670.98 512472.78,666729.70 512494.42,666718.70 512528.25,666704.30 512522.67,666692.39 512518.99,666639.86 512497.56,666613.14 512489.37,666590.11 512480.22,666594.94 512445.46))POLYGON((666593.83 512445.78,666596.73 512424.78,666642.28 512436.88,666657.09 512441.38,666683.72 512452.11,666716.10 512465.22,666738.12 512472.15,666730.06 512494.44,666667.35 512472.29,666593.83 512445.78))POLYGON((666598.36 512409.19,666596.72 512425.14,666638.31 512435.65,666652.79 512439.05,666739.54 512473.29,666744.48 512456.72,666691.60 512434.91,666662.84 512422.29,666598.06 512407.36,666598.06 512407.36,666598.31 512410.64,666598.36 512409.19))",
+    "site_description": "Działki ogrodzone i częściowo utwardzone wraz z zabudową warsztatową i halami położone na terenie oznaczonym w MPZP jako zabudowa mieszkaniowa jednorodzinna, zabudowa usługowa."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2022-07-04",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Nielegalne magazynowanie, porzucenie i wylewanie odpadów płynnych do gleby przez zorganizowaną grupę przestępczą.",
+  "total_area_ha": 0.56,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Warszawie",
+      "address": "Delegatura Mińsk Mazowiecki Plac Kilińskiego 10 05-300 Mińsk Mazowiecki",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "RR Sp. z o. o.",
+      "address": "Modlińska 114/4 05-135 Wieliszew",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "203 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "400 - 482mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "25,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "160 - 11000 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2022-09-20",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

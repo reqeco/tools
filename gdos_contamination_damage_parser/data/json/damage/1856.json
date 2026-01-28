@@ -1,0 +1,57 @@
+{
+  "registry_id": 1856,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "b.d.",
+    "address": "Gdańsk ul. Budowlanych 29A",
+    "precinct": "kokoszki 0035",
+    "parcel_numbers": [
+      "40/10",
+      "40/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((466246.71 722357.12,466221.96 722355.22,466220.06 722381.65,466218.59 722371.58,466179.53 722367.35,466166.46 722531.20,466234.79 722536.60,466235.14 722536.25,466246.71 722357.12))",
+    "site_description": "Gdańsk ul. Budowlanych 29A"
+  },
+  "occurrence_time": {
+    "date": "2021-04-26",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w środowisku na terenie działek 40/10 i 40/11 obręb Kokoszki, Gdańsk, w związku z nieprawidłową gospodarką odpadami",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Komunal Ekspress sp. z o.o.",
+      "address": "ul. Rzemieślnicza 4, 80-180 Jankowo Gdańskie",
+      "economic_activity_code": "38.21.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": null,
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

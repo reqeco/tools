@@ -1,0 +1,51 @@
+{
+  "registry_id": 1889,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Jastrzębie-Zdrój",
+    "municipality": "Jastrzębie-Zdrój",
+    "address": "ul. Księdza Biskupa Herberta Bednorza 1a",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;Polygon ((469041.77224836900131777 233478.75849857198772952, 469024.06798420898849145 233377.51018328999634832, 469020.67720032902434468 233295.05027286100084893, 469017.17728588002501056 233211.90219438099302351, 468999.75281266798265278 233264.70653040299657732, 468988.75949204398784786 233297.6656433749885764, 468978.62343372101895511 233326.71541588200489059, 468978.7267761470284313 233333.70024404500145465, 468980.02692119602579623 233359.93862194500979967, 468974.35099394398275763 233376.46555121699930169, 468959.89575599902309477 233417.36665084501146339, 468939.61913458100752905 233475.87604228500276804, 468942.84668596502160653 233497.5111460970074404, 468975.68989235197659582 233491.60517392799374647, 468997.52825214597396553 233486.38598544101114385, 469020.55272859701653942 233482.42025649899733253, 469041.77224836900131777 233478.75849857198772952))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2023-08-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "1 sierpnia 2023 r. doszło do wycieku skażonej wody, która miała przeniknąć na teren ogródków działkowych ROD Stokrotka i wniknąć do gleby",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "WSI.512.1.2024.MS2.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

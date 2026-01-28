@@ -1,0 +1,106 @@
+{
+  "registry_id": 1863,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": null,
+    "precinct": "137 Bydgoszcz",
+    "parcel_numbers": [
+      "9/128",
+      "9/129",
+      "9/134",
+      "9/132",
+      "9/133",
+      "9/131",
+      "9/138",
+      "9/6",
+      "9/140",
+      "9/137",
+      "9/142",
+      "9/141",
+      "9/145",
+      "9/148"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((440201.49708531087 580490.9219776811,440307.3306303118 580738.3078891104,440683.0397150653 580703.9119869918,440833.8525166866 580521.349121863,440581.1749280044 580408.9009803012,440201.49708531087 580490.9219776811))",
+    "site_description": "tzw. rejon północno-wschodniej części Z.Ch. ZACHEM"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "po 30 kwietnia 2007"
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Miasto Bydgoszcz), osoba fizyczna, podmiot korzystający ze środowiska",
+  "land_owner": "osoba fizyczna, podmiot korzystający ze środowiska, podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "W wyniku badań przeprowadzonych w czerwcu 2007 r. na zlecenie ZACHEM-u wykryto w tzw. północno-wschodniej części Z.Ch. ZACHEM  zanieczyszczenia gruntu i wód podziemnych aniliną i nitrobenzenem, pochodzących z działalności Zakładu. W wodach podziemnych  i gruntach tego obszaru stwierdzono  takie substancje jak: anilina, nitrobenzen, benzen, chlorobenzen, fenol, nitrotoluen, toluidyna. Część z tych substancji była nienormowana w rozporządzeniu z 9 wrześniu 2002, w związku z tym brak jest możliwości wpisania  ich w rejestrze (wybór substancji zanieczyszczających następuje z zamkniętej listy). Na podstawie wniosku z 2007 r. i sprawozdania z zakończenia działań naprawczych z 2012 r., w tym załączonych do tych dokumentów map poglądowych, oszacowano orientacyjną powierzchnię obszaru na poziomie ok. 13 ha (we wniosku i sprawozdaniu brak danych w tym zakresie).",
+  "total_area_ha": 13.0,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Zakłady Chemiczne Zachem S.A. w Bydgoszczy",
+      "address": "ul. Wojska Polskiego 65, 85-825 Bydgoszcz",
+      "economic_activity_code": "20.13.Z, 20.13.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Fenol",
+      "concentration": "0,106 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Fenole"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Benzen"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2007-10-09",
+    "detection_date": "2007-06-01",
+    "decisions": [
+      {
+        "issue_date": "2007-11-29",
+        "reference": "WSRiRW-III-DL/6617-2/6/07",
+        "issuing_authority": "Wojewoda Kujawsko-Pomorski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2008-06-01",
+    "planned_end": "2011-06-01",
+    "actual_end": "2011-12-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, inne działania tj. działania zapobiegawcze, o których mowa w art. 6 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Działania prowadzono przy wykorzystaniu metody biodegradacji metodą biowentylacji. Zabiegi polegały na regularnym zatłaczaniu biocenoz (w III etapach) poprzez wykonane do tego celu  otwory wraz z nawozami mineralnymi uzupełniającymi niedobór azotu i fosforu oraz dotlenienie. Ponadto wykonano na dz. nr 9/41 obręb 137 Bydgoszcz barierę studni (St-1, St-2 i St-3), na wschód od piezometru P26, aby zapobiec przedostawaniu się zanieczyszczeń w kierunku wschodnim, zbierających wodę z zanieczyszczonego obszaru. Wypompowywana woda kierowana była na oczyszczalnię. Bariera pracowała w okresie rekultywacji również zimą.",
+    "ecological_effect": "badania gruntu w 4 losowo wybranych punktach nie wykazały zanieczyszczeń; w zakresie wód stwierdzono znaczną redukcję zanieczyszczeń  w obszarze pomiędzy P24 i P25 (z wyłączeniem rejonu piezometru P7)",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki dawnego Zachem-u",
+    "covered_by_obligee": "tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "wskazane działki częściowo są objęte wpisem (wskazanym poglądowo na mapie), działki powstały z podziału m.in. działek  nr 9/51, 9/60, 9/5, 9/ 79, 9/80, 9/86 obręb 137 Bydgoszcz"
+}

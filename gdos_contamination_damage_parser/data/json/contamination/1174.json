@@ -1,0 +1,228 @@
+{
+  "registry_id": 1174,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.184,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Mieszczańska, Wrocław",
+    "precinct": "0005 Plac Grunwaldzki",
+    "parcel_numbers": [
+      "3/30",
+      "AM-21",
+      "obręb Plac Grunwaldzki"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((361763.61279924341943115 363183.16900794673711061, 361760.4813629764248617 363176.06809184234589338, 361753.43340704881120473 363172.43119984492659569, 361753.23114571708720177 363178.2908790847286582, 361751.25833757023792714 363178.25371418986469507, 361751.15530229930300266 363182.66155742574483156, 361763.61279924341943115 363183.16900794673711061)),((361651.77797216514591128 363175.93605128116905689, 361652.8028137773508206 363191.61757893953472376, 361660.06179622135823593 363184.67034073080867529, 361651.77797216514591128 363175.93605128116905689)),((361701.41676185402320698 363229.21134927961975336, 361684.04027823219075799 363247.25922303926199675, 361686.52492622984573245 363255.90338823385536671, 361693.49745823116973042 363261.19871921930462122, 361707.1629776960471645 363260.41519995499402285, 361719.41789641499053687 363256.24105718452483416, 361728.19353874411899596 363243.93909052945673466, 361715.77026381029281765 363234.18144420441240072, 361701.41676185402320698 363229.21134927961975336)),((361664.95061557373264804 363153.45090057048946619, 361663.82625468692276627 363161.92719312757253647, 361675.87008199701085687 363179.14436574745923281, 361691.58538654987933114 363194.65322424005717039, 361700.34787145373411477 363191.53319296613335609, 361664.95061557373264804 363153.45090057048946619)),((361762.18109212530544028 363194.62742390111088753, 361738.17177723743952811 363193.83313189074397087, 361737.44924523174995556 363202.52788305282592773, 361747.52981207682751119 363206.28850004728883505, 361758.89722914510639384 363203.96677045337855816, 361762.18109212530544028 363194.62742390111088753)))",
+    "site_description": "Teren otaczający  istniejące  zabudowania  jest w  znacznym  stopniu  przykryty betonowymi płytami,  asfaltem  oraz  utwardzonym  materiałem  gruntowym  z  którego  utworzono  część wewnętrznych dróg i placów. Obszary nieutwardzone porasta roślinność zielna oraz drzewa."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Archicom Residental Sp. z o.o.",
+      "address": "ul. Gen. R. Traugutta 45, 50-418 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "3/30"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "211-263 mg/kg s.m.",
+      "area_ha": 0.184
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "52,5-321 mg/kg s.m.",
+      "area_ha": 0.184
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "513-662 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,5-3,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,3-1,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,3-2,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,4-2,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,4-2,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,2-0,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,7-3,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,2-1,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,3-1,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,3-2,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "150-226 mg/kg s.m.",
+      "area_ha": 0.176
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "388 mg/kg s.m.",
+      "area_ha": 0.006
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "935 mg/kg s.m.",
+      "area_ha": 0.006
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "5,9 mg/kg s.m.",
+      "area_ha": 0.008
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "17,2 mg/kg s.m.",
+      "area_ha": 0.008
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,9 mg/kg s.m.",
+      "area_ha": 0.008
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "8,5 mg/kg s.m.",
+      "area_ha": 0.008
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "7,0 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-10-30",
+    "legal_basis": "art. 61 Kpa w związku z art. 101l Poś",
+    "case_reference": "WSI.515.19.2020.SSZ",
+    "decisions": [
+      {
+        "issue_date": "2021-01-25",
+        "reference": "WSI.515.19.2020.SSZ.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Archicom Residental Sp. z o.o.",
+        "address": "ul. Gen. R. Traugutta 45, 50-418 Wrocław",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2021-05-01",
+    "planned_end": "2023-02-28",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja ex situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

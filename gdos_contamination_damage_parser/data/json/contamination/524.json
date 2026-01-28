@@ -1,0 +1,86 @@
+{
+  "registry_id": 524,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Gdańska 12 B",
+    "precinct": null,
+    "parcel_numbers": [
+      "3/2",
+      "3/8 obręb 1094 Śródmieście"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((206552.34276027799933217 624957.94746017700526863, 206558.38910923901130445 624951.06485678302124143, 206536.64859814298688434 624923.61346431996207684, 206528.43990155300707556 624913.24778926302678883, 206496.44311717001255602 624872.87034557305742055, 206490.39201671798946336 624884.25098900799639523, 206416.63656746101332828 624989.42074601398780942, 206406.80337687098653987 625003.01191654894500971, 206373.59122269399813376 625053.11690225196070969, 206364.83029126501060091 625066.32462565903551877, 206341.41085479900357313 625104.65743103402201086, 206329.15402473899303004 625125.76694823300931603, 206322.57520663901232183 625134.35804831399582326, 206362.19178660699981265 625164.46772531303577125, 206475.18577675201231614 625230.25932791398372501, 206476.95307393700932153 625232.96913125598803163, 206488.1794937530066818 625224.14768768195062876, 206495.19565705501008779 625213.94151724700350314, 206559.1688426650071051 625159.61763786198571324, 206563.17015319998608902 625156.28673300100490451, 206608.37030716400477104 625118.4579628900391981, 206616.80715728498762473 625111.32087241997942328, 206651.12424608098808676 625082.38982647703960538, 206586.8586027380079031 625001.42989430704619735, 206578.10670404799748212 624999.56666395696811378, 206565.76264568799524568 624983.69678138894960284, 206570.06967733200872317 624980.27857335295993835, 206566.02614091400755569 624975.18501671904232353, 206552.34276027799933217 624957.94746017700526863))",
+    "site_description": "teren przemysłowy, wieloletni nasyp niekontrolowany, popioły z elektrowni, powojenne odgruzowywanie miasta, działalność związana  z produkcją asfaltów, masy bitumiczne i inne"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Zanieczyszczenie ujawniło się  w sierpniu 2007 r. ale wykonane rozpoznanie stanu środowiska gruntowo-wodnego wskazało, że zanieczyszczenie ma charakter historyczny."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Zbieranie odpadów innych niż niebezpieczne"
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miasto Szczecin",
+      "address": "plac Armii Krajowej 1, 70-456 Szczecin",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "Miejskie Przedsiębiorstwo Oczyszczania Sp. z o.o.",
+      "address": "ul. Gdańska 12B 70-660 Szczecin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "3/8 obręb 1094 Śródmieście"
+      ],
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2015-04-02",
+    "legal_basis": "61 kpa w związku z 101 o ust. 1 i 2",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-06-02",
+        "reference": "WONS-NS.513.1.2015.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101o ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 1 ustawy",
+        "entity_type": "regionalny dyrektor ochrony środowiska",
+        "name": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "address": "ul. Teofila Firlika 20,  71-637 Szczecin",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Remediacji polega na sczerpywaniu niezdentyfikowanej substancji ropopochodnej wyciekającej ze skarpy na zapleczu Bazy Magazynowej MPO Sp. z o.o. w Szczecinie, w celu uniemożliwienia przedostania się zaolejonych wód do rzeki Parnica. Remediacja (wcześniej rekultywacja) trwa od momentu ujawnienia i zakończy się w momencie trwałego zaniku wolnego produktu na zwierciadle wód podziemnych, braku napływu substancji do rowu, piezometrów i studni.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

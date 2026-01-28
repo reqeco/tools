@@ -1,0 +1,67 @@
+{
+  "registry_id": 868,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 2.2457,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Chorzów",
+    "municipality": "Chorzów",
+    "address": "ul. Legnicka  Chorzów",
+    "precinct": "0001 k. m. 8",
+    "parcel_numbers": [
+      "2842/370",
+      "2843/370",
+      "2844/370",
+      "2845/370",
+      "2847/370",
+      "3092/422",
+      "3362/370",
+      "3363/370",
+      "obręb 0001",
+      "k.m. 8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((497876.874000 271590.814000,497873.470000 271579.227000,497858.264000 271584.788000,497859.512000 271588.419000,497803.676000 271608.587000,497751.818000 271627.312900,497759.543000 271654.054000,497761.839000 271661.998000,497734.406000 271676.218000,497731.111000 271677.932000,497735.035000 271702.255000,497737.414000 271714.915000,497738.105000 271720.183000,497741.992000 271745.485000,497746.376000 271772.700000,497752.152000 271771.194000,497756.577000 271770.315000,497766.673000 271767.431000,497769.551000 271766.683000,497779.394000 271762.883000,497802.738000 271754.564000,497858.572000 271734.965000,497911.514675 271718.195723,497911.655498 271718.906153,497920.472230 271716.439747,497909.634560 271664.453305,497898.499305 271668.645508,497898.457228 271668.661485,497881.733000 271607.328900,497876.874000 271590.814000))",
+    "site_description": "Teren dawnej Elektrowni Chorzów, działającej od 1898 r."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "IZOBLOK S.A.",
+      "address": "ul. Kluczborska 11 41 - 503 Chorzów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-31",
+    "legal_basis": "art. 101c ust. 3",
+    "case_reference": "WSI.513.14.2019.KN",
+    "decisions": [
+      {
+        "issue_date": "2019-08-27",
+        "reference": "WSI.513.14.2019.KN",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

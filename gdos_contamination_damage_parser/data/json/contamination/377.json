@@ -1,0 +1,173 @@
+{
+  "registry_id": 377,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.19,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Kolejowa",
+    "precinct": "6-04-08",
+    "parcel_numbers": [
+      "123/1",
+      "123/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634729.2249392115 486203.00990314595,634715.9957460768 486167.02649784554,634692.1831984224 486174.96401371807,634649.3206126548 486052.7262692377,634655.6706253611 486050.6095983377,634665.7248121407 486024.15121208783,634790.6083953714 486073.36381051596,634786.9042212986 486113.58055761456,634826.0626329925 486224.7057798654,634839.2918261262 486218.88493489474,634845.1126711128 486240.5808116151,634853.5793547216 486242.168314795,634856.7543610755 486265.9808624154,634846.1710065654 486297.73092591297,634778.9667054146 486254.8683401942,634729.2249392115 486203.539070867,634735.0457841966 486171.7890073657,634692.7123661495 486055.90127558727,634712.2915719898 486050.60959833674,634724.9915974035 486074.4221459655,634732.9291132918 486079.1846554866,634764.1500090966 486162.79315604456,634735.574951917 486172.8473428143,634729.2249392115 486203.00990314595))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Skanska Residential Development Poland Sp. z o.o.",
+      "address": "Jana Pawła II 00-854 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "123/1",
+        "123/2"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "870 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "85-510 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,44 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,48-3,8 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,52-2,0 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,11 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,11 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,80-2,0 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,86-3,0 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,46-1,3 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,54-1,4 [mg/kg]",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,65-1,6 [mg/kg]",
+      "area_ha": 0.19
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-03-14",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.64.2021.PBu",
+    "decisions": [
+      {
+        "issue_date": "2018-04-26",
+        "reference": "WSI.515.20.2018.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-05-30",
+        "reference": "WOOŚ-IV.515.64.2021.PBu.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Skanska Residential Development Poland Sp. z o.o.",
+        "address": "Jana Pawła II 00-854 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-04-26",
+    "planned_end": "2024-06-30",
+    "actual_end": "2024-03-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex- situ",
+    "ecological_effect": "zawartość substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadziła remediacja jest zgodna z dopuszczalnymi zawartościami substancji powodujących ryzyko określonymi dla grupy I w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (t.j. Dz. U. poz. 1395)",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

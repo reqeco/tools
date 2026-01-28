@@ -1,0 +1,94 @@
+{
+  "registry_id": 391,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "nowodworski",
+    "municipality": "Nowy Dwór Gdański",
+    "address": "Tuja",
+    "precinct": "0019 Nowy Dwór Gdański",
+    "parcel_numbers": [
+      "72/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((502711.5926678399 701458.8631359059,502948.3952247799 701702.280289406,503050.26001183985 701642.7489203438,503182.55194309005 701786.9471254032,503689.23003978 701401.9776054649,503523.8651257199 701207.5084665259,503336.01058334 701333.1858012145,503080.68715603 701208.8313858444,502695.71763609 701442.9881041544,502711.5926678399 701458.8631359059))",
+    "site_description": "Teren zlikwidowanej stacji paliw w miejscowości Tuja"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2011-03-31",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie zlikwidowanej stacji paliw w miejscowości Tuja",
+  "total_area_ha": 30.0,
+  "reporters": [
+    {
+      "name": "PROKOM Investments S.A.",
+      "address": "ul. Podolska 21, 81-231 Gdynia",
+      "legal_form": "Spółka Akcyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "POL JAZOWA AGRO SP.ZO.O.",
+      "address": "00-519 Warszawa, ul. Wspólna 35/7",
+      "economic_activity_code": "01.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "46,7-347 mg/kg s.m.",
+      "area_ha": 0.0035
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "612-3305 mg/kg s.m.",
+      "area_ha": 0.0035
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-08-11",
+    "detection_date": "2011-03-31",
+    "decisions": [
+      {
+        "issue_date": "2011-09-05",
+        "reference": "RDOŚ-Gd-WSI-I.511.32.2011.WZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2011-11-09",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Wybrano i przekazano do unieszkodliwienia zanieczyszczony grunt w rejonie wystąpienia skażenia substancjami ropopochodnymi. Odpompowano z rejonu wykopu skażoną wodę i przekazano ją do unieszkodliwienia. Wypełniono powstałą po wybranym gruncie przestrzeń ziemią nieskażoną.",
+    "ecological_effect": "Doprowadzono do poziomu zanieczyszczeń w glebie nie przekraczających wartości przewidzianych dla funkcji grupy B - grunty zaliczone do użytków rolnych z wyłączeniem gruntów pod stawami i gruntów pod rowami, grunt leśne oraz zadrzewione i zakrzewione, nieużytki, a także grunty zabudowane i zurbanizowane z wyłączeniem terenów przemysłowych, użytków kopalnych oraz terenów komunikacyjnych podanych w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359) Doprowadzono wody podziemne do stanu, w którym stężenie nie przekraczało wartości: substancji ropopochodnych 300 µg/dm3",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

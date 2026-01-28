@@ -1,0 +1,70 @@
+{
+  "registry_id": 1676,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Jaworzno",
+    "municipality": "Jaworzno",
+    "address": "Zalew \"Łęg\" Jaworzno",
+    "precinct": "165",
+    "parcel_numbers": [
+      "246801_1.0165.294",
+      "246801_1.0165.335"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((514400.7 258996.37,514387.79 259010.81,514357.44 259063.25,514345.01 259088.71,514332.32 259129.82,514321.31 259166.17,514320.14 259213.37,514323.08 259265.15,514330.4 259295.63,514349.15 259341.15,514375.35 259389.33,514385.49 259402.46,514484.53 259428.62,514505.72 259434.49,514605.31 259462.07,514660.69 259477.41,514777.97 259509.56,514795.12 259510.05,514795.36 259506.97,514799.89 259506.38,514800.23 259509.36,514936.59 259536.28,515031.62 259364.9,515276.78 258931.53,514769.9 258640.62,514722.59 258669.44,514663.9 258710.29,514609.42 258761.2,514544.25 258835.68,514476.5 258910.45,514410.96 258984.9,514400.7 258996.37))",
+    "site_description": "Zalew \"Łęg\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2023-01-14",
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Nadleśnictwo Chrzanów)",
+  "land_owner": "Skarb Państwa (Nadleśnictwo Chrzanów)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda, gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Stwierdzono obniżenie poziomu wody o ok. 50-70 cm co stanowi zagrożenie dla żyjących w pobliżu zbiornika gatunków.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Radni Klubu Koalicja Obywatelska w Jaworznie",
+      "address": "ul. Kalinowa 23/16 43-600 Jaworzno",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w potencjale ekologicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": [
+    "żaba wodna (Pelophylax esculenus)",
+    "Castor fiber bóbr europejski",
+    "Zimorodek (Alcedo atthis)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2023-01-27",
+    "detection_date": "2023-01-14",
+    "decisions": [
+      {
+        "issue_date": "2023-05-23",
+        "reference": "WSI.512.1.2023.MO.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

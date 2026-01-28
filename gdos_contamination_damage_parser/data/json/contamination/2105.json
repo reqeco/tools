@@ -1,0 +1,146 @@
+{
+  "registry_id": 2105,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.0435,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Wspólna",
+    "precinct": "5-05-01",
+    "parcel_numbers": [
+      "150",
+      "151/1",
+      "151/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637372.8947478516 486427.37620788254,637417.8740045344 486442.1929041799,637422.1073463387 486426.31787242927,637414.1698304489 486405.680331151,637422.6365140581 486383.98445443064,637382.9489346414 486367.58025495056,637373.9530833017 486394.0386412004,637384.0072700937 486398.8011507308,637372.8947478516 486427.37620788254))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "YAWA WSPÓLNA sp. zo. o.",
+      "address": "ul. Giełdowa 1, 01-211 Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "150",
+        "151/1",
+        "151/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0435
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.01
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-11-28",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.45.2024.PBu",
+    "decisions": [
+      {
+        "issue_date": "2025-01-22",
+        "reference": "WOOŚ-IV.515.45.2024.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "YAWA WSPÓLNA sp. zo. o.",
+        "address": "ul. Giełdowa 1, 01-211 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-02-01",
+    "planned_end": "2030-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Projekt planu remediacji zakłada iż zanieczyszczony grunt zostanie usunięty z powierzchni 160 m2 obszaru zanieczyszczonego, na której grunty zanieczyszczone zalegają na głębokości 0 - 0,25 m p.p.t. i z powierzchni 60 m2 obszaru zanieczyszczonego, na której grunty zanieczyszczone zalegają na głębokości poniżej 0,25 m p.p.t. Dodtkowo zostanie zastosowana metoda samooczyszczenia w przypadku zanieczyszczonego gruntu o powierzchni 275 m2 z głębokości 0 - 0,25 m p.p.t. oraz gruntu o powierzchni 40 m2 z głębokości poniżej 0,25 m p.p.t. co uzasadnione jest pragnieniem wnioskodawcy, aby zachować drzewa rosnące na nieruchomości.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

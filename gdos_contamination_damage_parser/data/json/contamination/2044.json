@@ -1,0 +1,86 @@
+{
+  "registry_id": 2044,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5247,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "sochaczewski",
+    "municipality": "Sochaczew (gmina miejska)",
+    "address": "ul. Osiedle Kolejowe",
+    "precinct": "Sochaczew Wschód",
+    "parcel_numbers": [
+      "3028/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((585044.397147722 483891.8698919751,585083.5555593745 483923.09078774415,585008.4137424198 484018.8701459756,584967.6678275971 483990.29508882575,585044.397147722 483891.8698919751))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MDR SOCHACZEW sp. z o. o.",
+      "address": "ul. Przeskok 2, 00-032 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "3028/6"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.5247
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-07-11",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.26.2024.PBu",
+    "decisions": [
+      {
+        "issue_date": "2024-09-13",
+        "reference": "WOOŚ-IV.515.26.2024.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MDR SOCHACZEW sp. z o. o.",
+        "address": "ul. Przeskok 2, 00-032 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-09-01",
+    "planned_end": "2025-04-07",
+    "actual_end": "2025-04-17",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "bioremediacja, w razie potrzeby metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

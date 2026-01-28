@@ -1,0 +1,78 @@
+{
+  "registry_id": 1031,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Metalurgiczna 2  32-540 Trzebinia",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "1200305_4.0013.795/188"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532685.3967911206 254368.61866052356,532713.1780966808 254331.312335914,532668.9925916408 254306.70603669528,532661.8488273507 254306.70603669528,532644.9154601507 254336.6040131636,532645.1800440206 254340.30818723328,532684.8676233909 254368.61866052262,532685.3967911206 254368.61866052356))",
+    "site_description": "Teren po byłych Zakładach Metalurgicznych \"Trzebinia\" w Trzebini."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PUH MODERN-SOLAR Sp. z o.o.",
+      "address": "30-334 Kraków, ul. Komandosów 9/17",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "1200305_4.0013.795/188"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-29",
+    "legal_basis": "Art. 61 Kpa",
+    "case_reference": "ZS.513.35.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-12-14",
+        "reference": "ZS.513.35.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PUH MODERN-SOLAR Sp. z o.o.",
+        "address": "30-334 Kraków, ul. Komandosów 9/17",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

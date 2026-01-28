@@ -1,0 +1,142 @@
+{
+  "registry_id": 1981,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4954,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Konwiktorska  Dzielnica Śródmieście",
+    "precinct": "5-02-01",
+    "parcel_numbers": [
+      "15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636668.4526299022 489593.3875191193,636671.8922201156 489578.8354066899,636665.277623548 489574.0728971604,636677.3161893112 489557.1395299593,636734.8631794675 489594.7104384396,636715.2839736163 489623.5500794491,636668.4526299022 489593.3875191193))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "K4 sp. z o.o.",
+      "address": "ul. Wybrzeże Gdańskie 6 B 01-531 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "15"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.4954
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.4954
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.4954
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.4954
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.4954
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.4954
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.4954
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.4954
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.4954
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-02-12",
+    "legal_basis": "art. 101l",
+    "case_reference": "WOOŚ-IV.515.7.2024.JS",
+    "decisions": [
+      {
+        "issue_date": "2024-03-12",
+        "reference": "WOOS-IV.515.7.2024.JS.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "K4 sp. z o.o.",
+        "address": "ul. Wybrzeże Gdańskie 6 B 01-531 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-03-25",
+    "planned_end": "2024-06-30",
+    "actual_end": "2024-04-08",
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i POŚ",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

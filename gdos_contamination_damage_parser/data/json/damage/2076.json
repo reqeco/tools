@@ -1,0 +1,63 @@
+{
+  "registry_id": 2076,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "kamieński",
+    "municipality": "Golczewo",
+    "address": "ul. Niepodległości 72-410 Golczewo",
+    "precinct": "Golczewo",
+    "parcel_numbers": [
+      "72/1",
+      "72/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((235886.74176400000578724 671033.94501599995419383, 235912.71547900000587106 671025.18537399999331683, 235901.85611299998709001 670974.79548299999441952, 235918.00875999999698251 670973.43276700004935265, 235903.06546799998614006 670871.81965399999171495, 235889.47245999998995103 670862.26822800002992153, 235881.25304700000560842 670856.51090700004715472, 235732.03182199998991564 670975.77718800003640354, 235843.24811799998860806 671122.41726699995342642, 235714.45357700000749901 671218.06965700001455843, 235776.96554299999843352 671278.36684599996078759, 235778.08370700001250952 671279.18532599997706711, 235793.0386970000108704 671289.79189500003121793, 235820.31978699998580851 671303.47945500002242625, 235848.2168050000036601 671316.01019099995028228, 235923.00877099999343045 671257.72913700004573911, 235960.22122499998658895 671326.30704800004605204, 236008.12868600001093 671309.80719800002407283, 235990.3847609999938868 671183.2565519999479875, 235980.78574900000239722 671117.21715399995446205, 235870.55978000001050532 671134.33990999998059124, 235886.74176400000578724 671033.94501599995419383))",
+    "site_description": "obszar położony w bezpośredniej zlewni jeziora Okonie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "od sierpnia 2024 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Ze zgłoszenia wynika, że co najmniej od sierpnia 2024 r. do zlewni jeziora Okonie w m. Golczewo dostają się nieoczyszczone ścieki poprodukcyjne i bytowe, których źródłem jest miejscowa przetwórnia drobiu",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zakład uboju i przetwórstwa drobiu, IKO Kompania Drobiarska Spółka z o. o",
+      "address": "ul. Niepodległości 43 72 – 410 Golczewo",
+      "economic_activity_code": "10.12.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie ekologicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-02-14",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

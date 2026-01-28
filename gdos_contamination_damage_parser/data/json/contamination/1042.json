@@ -1,0 +1,167 @@
+{
+  "registry_id": 1042,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0722,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Borówki 1, Poznań",
+    "precinct": "Kobylepole",
+    "parcel_numbers": [
+      "5/19",
+      "4/20"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((366047.6036337157 504382.91531105526,366040.8567452187 504384.5028142361,366024.0556699319 504367.8340308964,366080.8089085018 504309.6255811453,366103.8277045551 504312.66829556786,366104.88604000607 504320.7381033674,366104.6214561458 504320.20893564634,366047.6036337157 504382.91531105526))",
+    "site_description": "Teren, na którym w przeszłości funkcjonowały: jednostka wojskowa, zajezdnia autobusowa, stacja paliw."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zarząd Komunalnych Zasobów Lokalowych Sp. z o.o.",
+      "address": "ul. Matejki 57, 60-770 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "5/19",
+        "4/20"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "34,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,77 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "2,96 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,15 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,02 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "2,24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,68 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,52 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,475 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,58 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-01-20",
+    "legal_basis": "art. 101c ust. 3 POŚ",
+    "case_reference": "WSS.513.4.2019.ASB",
+    "decisions": [
+      {
+        "issue_date": "2020-04-17",
+        "reference": "WSS.513.4.2019.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-04-13",
+        "reference": "WSS.516.2.2022.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-11-10",
+        "reference": "WSS.515.24.2023.ASB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Zarząd Komunalnych Zasobów Lokalowych Sp. z o.o.",
+        "address": "ul. Matejki 57, 60-770 Poznań",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Decyzja o wpisie do rejestru z 17.04.2020 r., decyzja o nałożeniu obowiązku badań gleby z 13.04.2022 r. (wykonana), dec. ustal. plan rem. z 10.11.2023 r."
+}

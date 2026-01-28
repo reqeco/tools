@@ -1,0 +1,91 @@
+{
+  "registry_id": 180,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.15,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "kamieński",
+    "municipality": "Kamień Pomorski",
+    "address": "72-400 Chrząszczewo",
+    "precinct": null,
+    "parcel_numbers": [
+      "47/6 obręb 0008 Chrząszczewo"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((221464.56523376214 687113.2577382876,221462.44856325677 687014.8325414117,221524.8903615884 687002.3970996756,221546.58624064177 687002.9262673231,221572.51546135964 687095.2660352783,221484.67360944522 687117.4910800233,221464.56523376214 687113.2577382876))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "w 1972 r. powstał odwiert KP2  ropociąg , gazociąg likwidacja nastąpiła w 1993 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Górnictwo gazu ziemnego",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "przekroczone dopuszczalne normy dla gruntów grupy B",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "przekroczone dopuszczalne normy dla gruntów grupy B",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-10-23",
+    "legal_basis": "art..101 l ust. 4 ustawy POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-08-30",
+        "reference": "WONS-NS.511.11.2015.AS, WONS-NS.511.12.2015.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 2 ustawy",
+        "entity_type": "inny sprawca",
+        "name": "PGNiG Odział w Zielonej Górze",
+        "address": "ul. Boh. Westerplatte 15",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2016-10-01",
+    "planned_end": "2017-08-31",
+    "actual_end": "2017-09-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metod ex situ usunięcie gruntów oraz  in situ bioremediacja",
+    "ecological_effect": "Załączone wyniki badań laboratoryjnych potwierdzają osiągnięcie efektu ekologicznego, grunty na przedmiotowym terenie spełniają dopuszczalne normy dla gruntów grupy B",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

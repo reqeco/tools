@@ -1,0 +1,201 @@
+{
+  "registry_id": 952,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Postępu 5A",
+    "precinct": "1-08-12",
+    "parcel_numbers": [
+      "43",
+      "11/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636244.2585515891 480711.8364227051,636256.4294092837 480750.2010827642,636276.008615125 480739.8823121339,636277.860702167 480743.0573184835,636295.0586532457 480737.5010573622,636295.0586532458 480735.1198026035,636353.5316869296 480715.2760129133,636337.3920713003 480666.3279983513,636333.6878972158 480653.36338909157,636324.9566297453 480623.2008287655,636320.7232879405 480618.1737353727,636295.0586532424 480626.9050028445,636298.2336596062 480632.1966800932,636295.8524048337 480636.6946057528,636285.0044664617 480641.7216991428,636285.0044664618 480639.3404443739,636279.1836214755 480642.51545072347,636253.7835706477 480652.04046977405,636266.2190122028 480696.22597481403,636247.962725673 480702.5759875141,636250.3439804357 480708.6614163555,636244.2585515891 480711.8364227051))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Eiffage Immobilier Polska Sp. z o.o.",
+      "address": "ul. Domaniewska 28 02-672 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "11/8"
+      ],
+      "economic_activity_code": "41.20.Z"
+    },
+    {
+      "name": "Quadrat Postępu Sp. z o.o.",
+      "address": "ul. Postępu 5A 02-676 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "43"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "mg/kg s.m.778",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "mg/kg s.m.3080-731",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "mg/kg s.m.2,66",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.3550",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "mg/kg s.m.40-41",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "mg/kg s.m.0,383",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "mg/kg s.m.1,28",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "mg/kg s.m.0,394-3,3",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "mg/kg s.m.0,36-0,39",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "mg/kg s.m.0,102-0,526",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "mg/kg s.m.0,479-0,498",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.0,593-4,33",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "mg/kg s.m.0,221-1,64",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "mg/kg s.m.0,335-1,95",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "mg/kg s.m.0,33-2,24",
+      "area_ha": 0.4
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-08-27",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.94.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-11-06",
+        "reference": "WOOŚ-IV.515.94.2019.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Eiffage Immobilier Polska Sp. z o.o.",
+        "address": "ul. Domaniewska 28 02-672 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Quadrat Postępu Sp. z o.o.",
+        "address": "ul. Postępu 5A 02-676 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2019-12-01",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-12-08",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Metoda ex-situ.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

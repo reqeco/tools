@@ -1,0 +1,75 @@
+{
+  "registry_id": 834,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Biała Podlaska",
+    "municipality": "Biała Podlaska",
+    "address": null,
+    "precinct": "0003 Obręb 3",
+    "parcel_numbers": [
+      "066101_1.0003.AR_30.2021"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((784984.1589803852 469963.36708572507,784992.8902486458 469963.896253475,784877.5316736673 469860.179379073,784869.594157066 469858.8564597443,784984.9527320482 469963.63166959584,784984.1589803852 469963.36708572507))",
+    "site_description": "grunty zadrzewione i zakrzewione na użytkach rolnych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1958-01-01",
+    "to": "1996-10-31",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2021"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-22",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.513.30.2019.AWF",
+    "decisions": [
+      {
+        "issue_date": "2019-05-21",
+        "reference": "WSI.513.30.2019.AWF",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

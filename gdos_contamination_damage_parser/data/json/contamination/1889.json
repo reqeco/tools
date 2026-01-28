@@ -1,0 +1,150 @@
+{
+  "registry_id": 1889,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4484,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Włocławek",
+    "municipality": "Włocławek",
+    "address": "87-800 Włocławek ul. Płocka",
+    "precinct": "KM 89",
+    "parcel_numbers": [
+      "1/20"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((506228.04610109003 532344.4980949229,506247.09613918996 532342.3814240238,506265.61700956995 532335.5022435915,506213.75857252 532233.3728726748,506201.5877148401 532236.0187112922,506194.17936669 532239.1937176445,506182.00850902 532255.5979171228,506228.04610109003 532344.4980949229))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja papieru i tektury",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "1/20"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "66,8 mg/kg s.m.",
+      "area_ha": 0.4014
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,328 mg/kg s.m.",
+      "area_ha": 0.4014
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,19 mg/kg s.m.",
+      "area_ha": 0.4014
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,06 mg/kg s.m.",
+      "area_ha": 0.4014
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,19 mg/kg s.m.",
+      "area_ha": 0.4014
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,58 mg/kg s.m.",
+      "area_ha": 0.4014
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,682 mg/kg s.m.",
+      "area_ha": 0.4014
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,738 mg/kg s.m.",
+      "area_ha": 0.4014
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,771 mg/kg s.m.",
+      "area_ha": 0.4014
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-08-07",
+    "legal_basis": "101c ust. 3 pkt 1 POŚ",
+    "case_reference": "WSS.513.2.2023.BW",
+    "decisions": [
+      {
+        "issue_date": "2023-08-30",
+        "reference": "WSS.513.2.2023.BW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-03-28",
+        "reference": "WSS.515.15.2024.BW.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-06-30",
+    "planned_end": "2027-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ i in-situ",
+    "ecological_effect": "uzyskanie dopuszczalnych zawartości dla gruntów grupy I",
+    "effect_assessment": null
+  },
+  "notes": "WSS.513.2.2023.BW; WSS.515.15.2024.BW"
+}

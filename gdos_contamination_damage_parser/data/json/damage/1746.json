@@ -1,0 +1,124 @@
+{
+  "registry_id": 1746,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "ul. Przemysłowa 8 85-758 Bydgoszcz",
+    "precinct": "0232",
+    "parcel_numbers": [
+      "2/49"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((439831.42540436703711748 584570.68590290751308203, 439829.83790118701290339 584563.80672248732298613, 439821.37121758685680106 584566.05568531714379787, 439829.4410253968089819 584598.59950040560215712, 439868.20256125740706921 584588.67760555725544691, 439862.91088400717126206 584566.45256110746413469, 439858.41295833728509024 584567.90777235571295023, 439862.64630013721762225 584585.37030727602541447, 439833.54207526711979881 584592.91094735451042652, 439827.98581415700027719 584571.47965449467301369, 439831.42540436703711748 584570.68590290751308203)))",
+    "site_description": "trawnik w sąsiedztwie hali wynajmowanej na potrzeby Zakładu produkcyjnego firmy DIU Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2023-02-06",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Do zanieczyszczenia doszło na skutek wylewania substancji (żelu myjąco dezynfekującego) na trawnik w sąsiedztwie hali produkcyjnej. Na skutek wylewania substancji na porośniętej trawą glebie utworzyły się rozlewiska",
+  "total_area_ha": 0.0441,
+  "reporters": [
+    {
+      "name": "Kujawsko-Pomorski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Piotra Skargi 2 85-018 Bydgoszcz",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "DIU Sp. z o.o.",
+      "address": "Aleja Jana Pawła II 70/40 00-175 Warszawa",
+      "economic_activity_code": "46.17.Z, 20.41.Z, 20.42.Z, 46.45.Z, 46.75.Z, 46.18.Z, 46.34.B, 46.36.Z, 46.37.Z, 46.38.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "41,6-67,5 mg/kg s.m.",
+      "area_ha": 0.0264
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,297-0,517 mg/kg s.m.",
+      "area_ha": 0.0441
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,247 mg/kg s.m.",
+      "area_ha": 0.0085
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,236-0,338 mg/kg s.m.",
+      "area_ha": 0.0441
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,105-0,17 mg/kg s.m.",
+      "area_ha": 0.0441
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,265-0,433  mg/kg s.m.",
+      "area_ha": 0.441
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2023-06-20",
+    "detection_date": "2023-02-06",
+    "decisions": [
+      {
+        "issue_date": "2024-12-20",
+        "reference": "WSS.511.7.2024.SS.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-01-17",
+        "reference": "WSS.512.9.2023.SS.35",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2025-01-15",
+    "planned_end": "2025-05-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda in-situ (bioremediacja) polegająca na wprowadzeniu do gruntu wyselekcjonowanych szczepów mikroorganizmów zdolnych do rozkładu substancji ropopochodnych.",
+    "ecological_effect": "przywrócenie standardów jakości dla gruntów grupy I zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "znak sprawy: WSS.512.9.2023.SS; uzgodnienie warunków działań naprawczych pod sygnaturą: WSS.511.7.2024.SS Właścicielem działki ewidencyjnej nr 2/49 obręb 0232 w Bydgoszczy jest firma LOCUM S.A. z siedzibą Al. W. Witosa 31, 00-710 Warszawa. Firma DIU Sp. z o.o. jest władającym częścią przedmiotowej działki na mocy umowy najmu. Zanieczyszczenie znajduje się w części działki będącej we władaniu Spółki LOCUM."
+}

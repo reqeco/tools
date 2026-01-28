@@ -1,0 +1,81 @@
+{
+  "registry_id": 1826,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "przasnyski",
+    "municipality": "Przasnysz (gmina miejska)",
+    "address": "ul. Leszno 59",
+    "precinct": "2",
+    "parcel_numbers": [
+      "2201/59"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((627216.2005646273 572943.9365887167,627220.8307822313 572945.6563838162,627223.3443289232 572941.9522097465,627217.9203597386 572939.8355388464,627216.2005646273 572943.9365887167))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-07-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W kwietniu i maju 2023 r. na obszarze przeładunku oleju transformatorowego z cysterny do zbiornika podziemnego pracownicy firmy Hitachi Energy Poland sp. z o. o. zaobserwowali że w promieniu ok. 2 m od zaworu odpowietrzającego zbiornika występują zabrązowienia na trawie i częściowo trawa została wysuszona.",
+  "total_area_ha": 0.0015,
+  "reporters": [
+    {
+      "name": "Hitachi Energy Poland sp. z o. o.",
+      "address": "ul. Żegańska 1, 04-713 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Hitachi Energy Poland sp. z o. o.",
+      "address": "ul. Żegańska 1, 04-713 Warszawa",
+      "economic_activity_code": "27.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0015
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2023-10-16",
+    "detection_date": "2023-05-01",
+    "decisions": [
+      {
+        "issue_date": "2023-11-22",
+        "reference": "WOOŚ-IV.512.4.2023.DŚc.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-12-01",
+    "planned_end": "2023-12-01",
+    "actual_end": "2023-12-18",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "zawartość substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadziła remediacja jest zgodna z dopuszczalnymi zawartościami substancji powodujących ryzyko określonymi dla grupy IV w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (t.j. Dz. U. poz. 1395),",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

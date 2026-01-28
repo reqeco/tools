@@ -1,0 +1,88 @@
+{
+  "registry_id": 1019,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Nałęczowska 47",
+    "precinct": "1-05-38",
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641079.7975042145 480825.3226642413,641101.4933809744 480840.1393605415,641138.0059540417 480784.04758168943,641116.5746611523 480771.61214016005,641079.7975042145 480825.3226642413))",
+    "site_description": "budynek"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "termomodernizacja w 2016r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "zniszczenie siedlisk lęgowych jerzyka wskutek termomodernizacji budynku",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Towarzystwo Ochrony Przyrody",
+      "address": "ul. Wilcza 64, Warszawa",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Spółdzielnia Mieszkaniowa \"Osiedle Wilanów\"",
+      "address": "ul. Niemirowska 1 lok. 4, 02-921 Warszawa",
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "jerzyk (Apus apus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2017-02-22",
+        "reference": "WSI.510.20.2016.WM.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2017-03-17",
+        "reason": "strona nie zgadza się z treścią decyzji - naruszenie art. 6, 7, 77 par.1, 8, 107 par.1, 107 par.2 KPA w zw. z art. 15 ust. 2 pkt 5 ustawy szkodowej, art. 15 ust. 1 pkt 1 i 2 ustawy szkodowej.",
+        "appealed_decision_reference": "WSI.510.20.2016.WM.6",
+        "resolution_reference": null,
+        "appellant_name": "Spóldzielnia Mieszkaniowa \"Osiedle Wilanów\"",
+        "appellant_address": "ul. Niemirowska 1 m 4, Warszawa",
+        "resolution_date": "2017-05-22",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "stwierdzenie niedopuszczalności wniesienia odwołania"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "umieszczenie skrzynek lęgowych dla jerzyków",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,164 @@
+{
+  "registry_id": 538,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.1112,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "kłodzki",
+    "municipality": "Szczytna",
+    "address": "ul. Leśna Szczytna",
+    "precinct": null,
+    "parcel_numbers": [
+      "99/4",
+      "118/11 i 127 obręb 0004 Szczytnik"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((318706.05103366082767025 286018.00217266846448183, 318710.44044427148764953 286016.56348125077784061, 318716.30213934200583026 286015.32491379324346781, 318725.27582252630963922 286015.78397939074784517, 318732.14188844402087852 286012.66241478454321623, 318739.07738405425334349 286009.49992695823311806, 318753.01660671038553119 286005.27344896364957094, 318765.90823530952911824 286000.46123723220080137, 318785.51393944589653984 285993.11934303119778633, 318782.67524021305143833 286039.95452157128602266, 318806.55005546216852963 286040.06307975202798843, 318820.26172213477548212 286037.49920206423848867, 318842.95071722031570971 286030.46571308188140392, 318854.0614532254403457 286024.80771207995712757, 318864.42373176151886582 286017.02038029860705137, 318927.67539510957431048 285948.62792036775499582, 318943.74229326116619632 285936.84490760881453753, 318969.42563802993390709 285936.1393502289429307, 318983.82994755887193605 285926.35816280916333199, 318988.05287082697032019 285914.03474780451506376, 319018.51727744378149509 285819.91087001003324986, 319028.9480842670891434 285794.18762188497930765, 319072.941169029683806 285716.58702940866351128, 319078.45591992774279788 285694.76887532323598862, 319081.71788389922585338 285634.81168401893228292, 319059.40351722063496709 285587.22534108813852072, 319049.01825691561680287 285561.36235405039042234, 319047.86900773626985028 285533.16568629816174507, 319051.59533224022015929 285498.05531389079988003, 319087.26113759953295812 285433.85310627892613411, 319105.28847731207497418 285390.94240301195532084, 319117.5035992736229673 285336.60312939528375864, 319107.86404549784492701 285357.23713361285626888, 319051.5537953533930704 285453.36833259183913469, 319046.27345029410207644 285464.37634398695081472, 319040.7780911655863747 285484.66466262564063072, 319038.54687560256570578 285522.41417348757386208, 318977.3974441911559552 285619.99014083109796047, 318978.12779901671456173 285641.57429372612386942, 318970.16025170858483762 285668.33409284800291061, 318962.29264392668846995 285683.20586012396961451, 318963.00463598890928552 285707.1396059338003397, 318964.41491328936535865 285773.30218357406556606, 318965.39671053225174546 285825.45443333312869072, 318959.90753459755796939 285851.40109820105135441, 318957.70783947524614632 285861.7778190104290843, 318957.2406595426145941 285870.89156858529895544, 318943.33745492098387331 285895.62184381857514381, 318908.45960853598080575 285932.20118336845189333, 318875.27973334252601489 285961.97956305742263794, 318874.29734280344564468 285966.98139513935893774, 318836.73086082888767123 285986.52168320678174496, 318798.48278702195966616 285986.61656293179839849, 318735.81769852712750435 286006.48464895412325859, 318704.91968457057373598 286012.67888431344181299, 318706.05103366082767025 286018.00217266846448183)),((318950.77800332207698375 285833.41901096142828465, 318950.62537645339034498 285721.0523761510848999, 318949.20539504929911345 285693.53915802855044603, 318944.3228065837174654 285695.47434706706553698, 318931.67543739109532908 285704.32213789410889149, 318902.91386636393144727 285722.92413808405399323, 318880.75905878422781825 285737.70826427172869444, 318862.6737553714774549 285749.56842278968542814, 318859.65640000882558525 285758.61652223207056522, 318852.73955001088324934 285761.67878325935453176, 318859.80842500791186467 285798.88326190877705812, 318813.46750727144535631 285812.71325058024376631, 318815.74903421389171854 285824.75918300729244947, 318816.28986231557792053 285824.83188214153051376, 318858.35092192731099203 285822.06642656866461039, 318950.77800332207698375 285833.41901096142828465)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina szczytna",
+      "address": "ul. Wolności 42 57-330 Szczytna",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,240-0,384 mg/kg",
+      "area_ha": 4.1112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,223–1,45 mg/kg",
+      "area_ha": 4.1112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,509–1,29 mg/kg",
+      "area_ha": 4.1112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,331-2,47 mg/kg",
+      "area_ha": 4.1112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,106-0,868 mg/kg",
+      "area_ha": 4.1112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,223-1,63 mg/kg",
+      "area_ha": 4.1112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,408-1,53 mg/kg",
+      "area_ha": 4.1112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,414-1,74 mg/kg",
+      "area_ha": 4.1112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,162-0,324 mg/kg",
+      "area_ha": 4.1112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "36-332 mg/kg",
+      "area_ha": 4.1112
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-05-15",
+    "legal_basis": "art. 61 § 4 ustawy KPA w związku z art. 101l POŚ",
+    "case_reference": "WSI.515.9.2018.KMA",
+    "decisions": [
+      {
+        "issue_date": "2018-05-29",
+        "reference": "WSI.515.9.2018.KMA.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-10-07",
+        "reference": "WSI.515.12.2019.KMA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art.155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-10-23",
+        "reference": "WSI.515.17.2020.KMA.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art.155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina szczytna",
+        "address": "ul. Wolności 42 57-330 Szczytna",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-10-01",
+    "planned_end": "2029-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "prace remediacyjne będą prowadzone metodami ex situ i in situ z wykorzystaniem fitoremediacji, uwzględniając planowany sposób zagospodarowania terenu.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

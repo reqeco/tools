@@ -1,0 +1,50 @@
+{
+  "registry_id": 115,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Raszyn",
+    "address": "Rybie ul. Cicha 28",
+    "precinct": null,
+    "parcel_numbers": [
+      "180/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((632566.9166419792 478158.5003377665,632567.4458097094 478145.8003123682,632594.4333637045 478147.9169832682,632593.3750282539 478160.3524248088,632566.9166419792 478158.5003377665))",
+    "site_description": "działka prywatna, inny numer ewidencyjny (zmieniony?)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby WWA i olejem mineralnym na terenie działki 180/11 w miejscowości Rybie przy ul. Cichej 28 w wyniku prowadzonej działalności gospodarczej (…)",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Usługi Transportowe (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2007-06-15",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

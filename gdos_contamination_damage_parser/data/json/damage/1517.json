@@ -1,0 +1,66 @@
+{
+  "registry_id": 1517,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "cieszyński",
+    "municipality": "Skoczów",
+    "address": null,
+    "precinct": "0005",
+    "parcel_numbers": [
+      "240310_4.0005.446/1",
+      "240310_4.0005.446/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((484488.48048788902815431 215450.32431447599083185, 484447.40603549499064684 215445.23517854898818769, 484446.65658484201412648 215490.21950720201130025, 484439.42292039399035275 215575.08758238900918514, 484463.73085882299346849 215575.97278810699936002, 484490.18852029397385195 215576.92927384999347851, 484513.45670159900328144 215577.78836553799919784, 484540.76665584999136627 215581.20207814700552262, 484555.01827275002142414 215458.25213140199775808, 484525.12918420397909358 215454.79284634700161405, 484500.79260404501110315 215451.75924383199890144, 484488.48048788902815431 215450.32431447599083185))",
+    "site_description": "potok przebiegający wzdłuż ulic Stalmacha i Potok w Skoczowie oraz  zbiornik wodny położony w obrębie niecki powyrobiskowej po byłej cegielni,"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2018-05-08",
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Gmina Skoczów), podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Zanieczyszczenia wód potoku przebiegającego wzdłuż ulic Stalmacha i Potok w Skoczowie oraz w sprawie częściowego zniszczenia zbiornika wodnego położonego w obrębie niecki powyrobiskowej po byłej cegielni, stanowiącego siedlisko chronionych gatunków płazów i gadów.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Anna Wpjtyla",
+      "address": "wpjtyld anna1@gmail.com",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Sobik sp. z o. o. w Skoczowie",
+      "address": "ul. Stalmacha 43, 43-430 Skoczów",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2018-06-28",
+    "detection_date": "2018-05-08",
+    "decisions": [
+      {
+        "issue_date": "2021-01-25",
+        "reference": "WSI.512.5.2018.TK.16",
+        "issuing_authority": null,
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

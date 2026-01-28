@@ -1,0 +1,57 @@
+{
+  "registry_id": 1837,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": "dz. 354/314 obręb Miasto Polkowice 3, gmina Polkowice",
+    "precinct": null,
+    "parcel_numbers": [
+      "354/314 obręb Miasto Polkowice 3",
+      "gmina Polkowice"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2023-11-17",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (2.\tPaństwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Lubin )",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "awaria rurociągu - wody technologiczne",
+  "total_area_ha": 0.43,
+  "reporters": [
+    {
+      "name": "2.\tPaństwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Lubin",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Energetyka sp. z o.o.",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-12-29",
+    "detection_date": "2023-11-17",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

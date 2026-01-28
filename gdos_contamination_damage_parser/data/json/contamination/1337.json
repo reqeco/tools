@@ -1,0 +1,155 @@
+{
+  "registry_id": 1337,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 3.84,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "konecki",
+    "municipality": "Końskie, Gowarczów",
+    "address": "Części działek nr ew.: 158 obręb 0002 Barycz (gmina Końskie) i 433 obręb 0002 Bębnów (gmina Gowarczów)",
+    "precinct": "obręb 0002 Barycz (gmina Końskie), obręb 0002 Bębnów (gmina Gowarczów)",
+    "parcel_numbers": [
+      "158",
+      "433"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((598047.5314556053 375443.855600331,598115.0003405443 375435.9180844519,598169.2400323714 375384.3242312707,598149.3962426786 375331.40745877195,598093.833631541 375269.2302510813,598089.8648736108 375365.80336089246,598047.5314556053 375443.855600331)),((597924.1295421189 375384.58881511353,597986.571333677 375325.32202991284,598006.6797072294 375228.4843362421,598038.9589384636 375168.6883833129,598128.9174517253 375135.35081664193,598024.1422421616 375152.28418384213,597932.5962257194 375187.209253693,597931.0087225493 375190.38426004443,597924.1295421189 375384.58881511353)),((597813.2689055741 375318.04597334284,597854.0148203995 375312.2251283638,597807.4480605932 375218.5624410445,597718.0187150617 375240.78748549614,597813.2689055741 375318.04597334284)))",
+    "site_description": "terenu Bazy Paliw nr 17 w miejscowości Barycz, gm. Końskie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 30 kwietnia 2007 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": "Transport rurociągowy pozostałych towarów"
+  },
+  "land_holders": [
+    {
+      "name": "PERN S.A.",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "126 mg/kg s.m.",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "495; 572; 55,1; 4500; 536, 235; 2830; 1500; 782; 61555,   mg/kg s.m.",
+      "area_ha": 2.84
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "866 mg/kg s.m.",
+      "area_ha": 2.84
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1870; 3950, 2310; 1100 mg/kg  mg/kg s.m.",
+      "area_ha": 2.84
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "7,37; 1,65 mg/kg s.m.",
+      "area_ha": 2.84
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "10,9; 9,77, 153; 11,2; 2,75; 2,6; 5,38 mg/kg s.m.",
+      "area_ha": 2.84
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "60,7; 1,52; 286; 4,32; mg/kg s.m.",
+      "area_ha": 2.84
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "64,8; 55,8; 2,9; 766; 3,61; 33,5; 22,6; 9.74; 19,3 mg/kg s.m.",
+      "area_ha": 2.84
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "107 mg/kg s.m.",
+      "area_ha": 2.84
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "4,58 mg/kg s.m.",
+      "area_ha": 2.84
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "8,91; 29,1; 11,8mg/kg s.m.",
+      "area_ha": 2.84
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-03-03",
+    "legal_basis": null,
+    "case_reference": "WPN-II.515.4.2021.IŁ",
+    "decisions": [
+      {
+        "issue_date": "2021-06-17",
+        "reference": "WPN-II.515.4.2021.IŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Kielcach",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PERN S.A.",
+        "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-07-01",
+    "planned_end": "2050-12-01",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, przeprowadzenie samooczyszczania powierzchni ziemi, usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zwolnienie z obowiązku przeprowadzenia działań naprawczych",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Użytkownik wieczysty PERN S.A., ul. Wyszogrodzka 133, 09-410 Płock"
+}

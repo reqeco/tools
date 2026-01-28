@@ -1,0 +1,84 @@
+{
+  "registry_id": 34,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0001,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Filtrowa 6, 30-148 Kraków",
+    "precinct": "1 Krowodrza",
+    "parcel_numbers": [
+      "126102_9.0001.109/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POINT(562640.0000001398 245981.9999997383)",
+    "site_description": "W przeszłości teren ten stanowił przestrzeń magazynową Zamku Wawel, gdzie magazynowano substancje stosowane do konserwacji i czyszczenia m.in. kamiennych elewacji."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Filtrowa Megapolis Sp. z o.o. S.K.",
+      "address": "Ul. Rzemieślnicza 26 30-403 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Miedź (Cu)",
+      "concentration": "200 [mg/kg s.m.]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-02-15",
+    "legal_basis": "art. 61 § 3 Kpa",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-04-08",
+        "reference": "ZS.516.1.2.2016.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Filtrowa Megapolis Sp. z o.o. S.K.",
+        "address": "Ul. Rzemieślnicza 26 30-403 Kraków",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

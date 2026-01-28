@@ -1,0 +1,91 @@
+{
+  "registry_id": 724,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "bydgoski",
+    "municipality": "Nowa Wieś Wielka",
+    "address": "Tarkowo Dolne",
+    "precinct": null,
+    "parcel_numbers": [
+      "54",
+      "55/3",
+      "55/5",
+      "56/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((439665.7125321777 565847.5441771736,439683.7042348278 565848.8670964949,439694.02300545794 565794.3628208144,439690.58341524773 565795.1565724052,439691.11258297774 565790.1294790152,439678.14797370776 565787.7482242538,439677.3542221277 565789.0711435638,439677.6188059876 565788.2773919748,439665.7125321777 565847.5441771736)))",
+    "site_description": "teren przemysłowy, torowisko"
+  },
+  "occurrence_time": {
+    "date": "2008-11-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wyciek oleju napędowego w wyniku kradzieży z cysterny kolejowej",
+  "total_area_ha": 0.076,
+  "reporters": [
+    {
+      "name": "CTL Logistics",
+      "address": "Al. Jerozolimskie 96, 00-807 Warszawa",
+      "legal_form": "podmiot gospodarczy"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "CTL Logistics",
+      "address": "Al. Jerozolimskie 96, 00-807 Warszawa",
+      "economic_activity_code": "49.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "do 222,3 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "do 10686,8 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2020-05-07",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2020-07-06",
+        "reference": "WSS.511.1.2020.SS.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2020-08-01",
+    "planned_end": "2030-12-31",
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

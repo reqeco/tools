@@ -1,0 +1,142 @@
+{
+  "registry_id": 1646,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "dębicki",
+    "municipality": "Dębica (gmina miejska)",
+    "address": "ul .Metalowców 25, 39-200 Dębica",
+    "precinct": "nr 0002",
+    "parcel_numbers": [
+      "180301_1.0002.430/140",
+      "180301_1.0002.430/51",
+      "180301_1.0002.430/52",
+      "180301_1.0002.430/144",
+      "180301_1.0002.430/187"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((674490.38 248587.18, 674477.09 248573.97, 674463.51 248574.04, 674448.85 248579.32, 674448.40 248593.82, 674450.61 248609.17, 674467.56 248622.71, 674480.78 248615.51, 674489.95 248604.68, 674490.38 248587.18)),((674348.57 248662.20, 674343.90 248653.27, 674342.77 248652.39, 674343.83 248651.81, 674353.97 248643.37, 674361.91 248632.87, 674364.61 248619.92, 674362.85 248612.22, 674359.70 248604.94, 674316.11 248621.99, 674330.45 248659.15, 674330.45 248659.15, 674335.16 248671.37, 674335.16 248671.37, 674350.73 248711.72, 674361.75 248708.20, 674369.30 248703.18, 674371.58 248692.64, 674364.29 248686.44, 674355.13 248685.86, 674352.17 248680.70, 674361.10 248668.30, 674347.97 248667.68, 674348.57 248662.20)),((674438.93 248650.32, 674437.69 248667.88, 674448.64 248676.71, 674462.90 248676.10, 674464.19 248674.58, 674468.61 248685.91, 674467.28 248686.36, 674459.22 248702.64, 674459.61 248719.62, 674506.86 248700.46, 674497.66 248686.16, 674487.18 248682.80, 674479.60 248662.78, 674471.25 248666.29, 674473.53 248663.61, 674469.01 248649.01, 674455.09 248642.93, 674438.93 248650.32)),((674503.56 248652.89, 674519.78 248695.42, 674540.32 248687.41, 674523.67 248644.47, 674503.56 248652.89)),((674422.72 248796.20, 674433.62 248788.43, 674440.97 248777.05, 674430.87 248775.27, 674418.20 248743.04, 674407.45 248747.11, 674405.72 248763.22, 674408.46 248779.06, 674414.64 248796.74, 674422.72 248796.20)))",
+    "site_description": "tereny przemysłowe, oznaczone Ba"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa, podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Możliwość zanieczyszczenia powierzchni ziemi stwierdzono na podstawie szczegółowej analizy raportu początkowego dla instalacji ocynkowni ogniowej eksploatowanej przez Weldon Sp. z o.o., ul. Metalowców 25 w Dębicy, opracowanego przez EkoNorm Sp. z o.o., ul. Gallusa 12, 40-594 Katowice, 2017 r. W Projekcie planu wskazano, iż czas zaistnienia zanieczyszczenia, określa się jako  powstałe po dniu 30 kwietnia 2007 r., biorąc pod uwagę ciągłość prowadzenia działalności  instalacji, przy równoczesnym wskazaniu braku odnotowania jednostkowych zdarzeń  mogących skutkować zanieczyszczeniem powierzchni ziemi. Wg Projektu planu teren, na którym stwierdzono zanieczyszczenie powierzchni ziemi, to teren zajmowany przez instalację  ocynkowni ogniowej Spółki wykonującej powłoki antykorozyjne.",
+  "total_area_ha": 0.8872,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Weldon Sp. z o.o.",
+      "address": "39-102 Brzezówka 90A",
+      "economic_activity_code": "25.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "3137 - 4334 mg/kg s.m.",
+      "area_ha": 0.0964
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1855 mg/kg s.m.",
+      "area_ha": 0.0827
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "116 mg/kg s.m.",
+      "area_ha": 0.0827
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "5052 mg/kg s.m.",
+      "area_ha": 0.1004
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "321 - 36542 mg/kg s.m.",
+      "area_ha": 0.6764
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "18900 - >50 000 mg/kg s.m.",
+      "area_ha": 0.1707
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,27 - 10,7 mg/kg s.m.",
+      "area_ha": 0.1707
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "238 mg/kg s.m.",
+      "area_ha": 0.1707
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "1557 mg/kg s.m.",
+      "area_ha": 0.0465
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2020-07-17",
+    "detection_date": "2020-07-17",
+    "decisions": [
+      {
+        "issue_date": "2025-07-01",
+        "reference": "WSI.511.4.1.2021.KT.70",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2025-07-01",
+    "planned_end": "2030-06-01",
+    "actual_end": "2121-01-01",
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Wykonanie szczelnej nawierzchni na terenie obszaru 9.Kontrolowanie zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby w określonym czasie, zgodnie z art. 217d ust. 3 pkt 3 Poś, w każdym z 10 obszarów, gdzie stwierdzono zanieczyszczenie, do przewidywanego czas zakończenia eksploatacji instalacji.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "Weldon Sp. z o.o.",
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "Sprawa o nałożenie obowiązku remediacji: WSI.512.3.6.2020.KT, sprawa o uzgodnienie remediacji - WSI.511.4.1.2021.KT"
+}

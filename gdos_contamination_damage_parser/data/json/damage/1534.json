@@ -1,0 +1,56 @@
+{
+  "registry_id": 1534,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "mikołowski",
+    "municipality": "Mikołów",
+    "address": "ul. Kościuszki 59",
+    "precinct": "0023 Kamionka",
+    "parcel_numbers": [
+      "240802_1.0023.609/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((493847.23757909197593108 258255.68379218899644911, 493842.2830855849897489 258262.58622399400337599, 493828.6005417300038971 258252.85549134400207549, 493763.92044704302679747 258243.31885189199238084, 493766.06783735199132934 258221.60274951701285318, 493783.45476809702813625 258204.9892014850047417, 493786.54311807500198483 258202.01950487401336432, 493796.5186471400083974 258201.37604576098965481, 493791.97044780000578612 258196.83972103899577633, 493797.74282052600756288 258191.30551550100790337, 493799.97208853898337111 258193.5842731450102292, 493838.3209953359910287 258183.99538191000465304, 493880.96960548800416291 258143.26703440700657666, 493910.85286456102039665 258169.41080578599940054, 493926.59001418302068487 258183.30153803899884224, 493877.4600048289867118 258228.11445172398816794, 493847.23757909197593108 258255.68379218899644911))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2019-06-11",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wystąpienie bezpośredniego zagrożenia szkodą w środowisku w powierzchni ziemi, polegającej na zanieczyszczeniu gruntu położonego w obrębie nieruchomości położonej przy ul. Kościuszki 59 w obrębie działki o numerze ewidencyjnym 609/3 (obręb 0023, Kamionka) w Mikołowie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Burmistrz Mikołowa",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "SILENCE Damian Grzeszczuk",
+      "address": "ul. Jana Kochanowskiego 31 55-011 Siechnice",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2019-07-11",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

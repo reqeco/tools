@@ -1,0 +1,144 @@
+{
+  "registry_id": 1404,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.045,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Słodowiecka Warszawa",
+    "precinct": "6-03-01",
+    "parcel_numbers": [
+      "19/1",
+      "19/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634660.6712162832 489535.443653265,634696.1254539005 489554.75827523414,634706.9733922712 489533.8561500935,634728.9338528839 489523.0082117338,634711.2067340738 489471.14977468364,634700.887963423 489467.71018446423,634684.2191800667 489493.63940299395,634696.125453899 489499.9894156959,634697.9775409311 489503.16442204546,634691.3629443644 489513.2186088152,634677.0754157794 489505.01650908496,634660.6712162832 489535.443653265))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "YAWA Sp. z o. o. 30 Sp. k.",
+      "address": "ul. Mokotowska 49, 00-542 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "19/1",
+        "19/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "63 mg/kg s.m.",
+      "area_ha": 0.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1 mg/kg s.m.",
+      "area_ha": 0.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1 mg/kg s.m.",
+      "area_ha": 0.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,22 mg/kg s.m.",
+      "area_ha": 0.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,1 mg/kg s.m.",
+      "area_ha": 0.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,95 mg/kg s.m.",
+      "area_ha": 0.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,1 mg/kg s.m.",
+      "area_ha": 0.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,87 mg/kg s.m.",
+      "area_ha": 0.045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,89 mg/kg s.m.",
+      "area_ha": 0.045
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-07-27",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "WOOŚ-IV.515.48.2021.DŚc",
+    "decisions": [
+      {
+        "issue_date": "2018-09-12",
+        "reference": "WSI.515.48.2018.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "YAWA Sp. z o. o. 30 Sp. k.",
+        "address": "ul. Mokotowska 49, 00-542 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-10-01",
+    "planned_end": "2019-12-31",
+    "actual_end": "2021-07-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": "remediacja przeprowadzona zgodnie z POŚ",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

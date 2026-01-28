@@ -1,0 +1,59 @@
+{
+  "registry_id": 1706,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "b.d.",
+    "address": null,
+    "precinct": "Dąbrowa, Tarnówek",
+    "parcel_numbers": [
+      "692 obręb Dąbrowa",
+      "652/292 obręb Dąbrowa",
+      "273/13 obręb Tarnówek",
+      "292/1 obręb Tarnówek"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((302455.62717023405 408174.71631302685,302495.1817496987 408166.48622488976,302508.54158206587 408145.89484461676,302605.2030009075 408187.8520612726,302580.8499913333 408203.66700957436,302507.2608719006 408247.0444322005,302507.6185216863 408246.65882632695,302455.62717023405 408174.71631302685))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2023-01-06",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (PGL LP Nadleśnictwo Lubin), podmiot korzystający ze środowiska, Skarb Państwa (PGW Wody Polskie ), Skarb Państwa (Krajowy Ośrodek Wsparcia Rolnictwa)",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Awaria rurociągu i wyciek odpadów poflotacyjnych",
+  "total_area_ha": 0.35,
+  "reporters": [
+    {
+      "name": "Nadleśniczy Nadleśnictwa Lubin",
+      "address": "ul. Spółdzielcza 18,  59-300 Lubin",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "1.\tKGHM Polska Miedź S.A., Oddział Zakład Hydrotechniczny",
+      "address": "ul. Polkowicka 52,  59-305 Rudna",
+      "economic_activity_code": "24.44.Z, 24.54.A"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-02-01",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSI.512.3.2023.KMA"
+}

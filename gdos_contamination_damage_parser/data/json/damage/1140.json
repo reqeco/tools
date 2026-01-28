@@ -1,0 +1,130 @@
+{
+  "registry_id": 1140,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": "JW 4651 Gdynia Babie Doły",
+    "precinct": "0007 Pogórze; arkusz 1",
+    "parcel_numbers": [
+      "1090/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((468844.7043857989 744946.1453291038,468905.029506449 744985.8329084842,468945.24625354883 745030.2829973828,468971.17547206883 745078.4372603521,468986.52133609884 745135.0582069317,468949.4795953488 745093.2539566522,468862.69608844887 745032.3996682838,468793.9042841989 745015.9954688018,468753.15836936893 745029.2246619333,468728.8166540189 745005.4121143008,468667.43319791893 745014.9371333532,468646.2664889189 745037.1621778002,468564.24549154885 744991.653753452,468563.7163238235 744755.6449480997,468844.7043857989 744946.1453291038))",
+    "site_description": "Teren Jednostki Wojskowej nr 4651 Gdynia Babie Doły, teren byłej bazy paliw i smarów MPS-1"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2012-12-31",
+    "description": "Ze względu na możliwość udokumentowania zakończenia eksploatacji MPS-1 w dniu 31 grudnia 2012 r., i brak udokumentowanego ustania przyczyny powstania zanieczyszczenia przed dniem 30 kwietnia 2007 r. przyjmuje się, że przedmiotową sprawę rozstrzyga się na podstawie przepisów ustawy o zapobieganiu szkodom w środowisku i ich naprawie"
+  },
+  "land_surface_holder": "Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi w wyniku eksploatacji magazynu paliw i smarów na terenie jednostki wojskowej nr 4651 w Gdyni Babich Dołach",
+  "total_area_ha": 5.5342,
+  "reporters": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+      "address": "ul. Jana z Kolna 8b, 81-912 Gdynia",
+      "legal_form": "jednostka organizacyjna Ministerstwa Obrony Narodowej podlegająca pod Inspektorat Wsparcia Sił Zbrojnych"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+      "address": "ul. Jana z Kolna 8b, 81-912 Gdynia",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1156 [mg/kg suchej masy]",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "1,08 [mg/kg suchej masy]",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,64 [mg/kg suchej masy]",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "950 [mg/kg suchej masy]",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "3,48 [mg/kg suchej masy]",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "8,2 [mg/kg suchej masy]",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "1,75 [mg/kg suchej masy]",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1545 [mg/kg suchej masy]",
+      "area_ha": 0.052
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-07-27",
+    "detection_date": "2018-05-07",
+    "decisions": [
+      {
+        "issue_date": "2018-11-15",
+        "reference": "RDOŚ-Gd-WZS.511.4.2018.LK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 104 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-12-03",
+    "planned_end": "2022-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "3.1.\tRemediacja polegać będzie na: a)\tna omawianym terenie, gdzie stwierdzono występowanie zanieczyszczenia, przeprowadzone zostaną prace remediacyjne z wykorzystaniem metody in – situ. Metoda ta polega na technologicznych sposobach wspomagania procesu samooczyszczenia zalegających w podłożu zanieczyszczonych gruntów. Planowany proces oczyszczania przeprowadzany będzie poprzez specjalnie do tego celu wykonane otwory technologiczne; b)\tproces oczyszczania środowiska gruntowego z substancji ropopochodnych                    na terenie MPS-1 będzie się odbywać za pośrednictwem 72 otworów technologicznych, w tym 36 otworach napowietrzających – wentingowych                             i 36 otworach odpowietrzających, rozmieszczonych równomiernie na całym zanieczyszczonym obszarze (z wyłączeniem nawierzchni dróg szczelnych                          i obszarów zajętych przez infrastrukturę podziemną); c)\totwory napowietrzające będą posiadły konstrukcję umożliwiającą prowadzenie następujących procesów: -\tprzewietrzanie czystym powietrzem atmosferycznym zanieczyszczonych przestrzeni porowych gruntów strefy aeracji, -\twzbogacenie powietrza w strefie aeracji, -\tdawkowanie biopreparatu. d)\totwory napowietrzające będą podłączone do specjalistycznej jednostki nazywanej dalej stacją napowietrzania; e)\tw celu kontrolowania migracji, stężeń i ewentualnej koncentracji substancji stwarzających ryzyko w glebie i ziemi w środowisku gruntowym, planuje się cykliczne iniekcje biopreparatu dla 72 otworów; f)\tiniekcje biopreparatu polegać będą na cyklicznym dawkowaniu określonych objętości wodnego roztworu mikroorganizmów, odpowiedzialnych za redukcje substancji ropopochodnych bezpośrednio, zarówno poprzez system napowietrzania jak i bezpośrednio do otworów odpowietrzających. Ilość biopreparatu dozowana                       w iniekcji na jednokrotne dawkowanie do 72 otworów wynosi 0,46 m3; g)\tbioroztwór, stanowiący wodny roztwór (emulsję) mikroorganizmów odpowiedzialnych za redukcję substancji ropopochodnych, wytwarzany będzie    poza terenem MPS-1 i dowożony będzie na teren prac. Zadawanie bioroztworu będzie się odbywało okresowo, minimum dwukrotnie w sezonach wegetacyjnych.",
+    "ecological_effect": "Przeprowadzenie działań remediacyjnych ma na celu doprowadzenie do osiągnięcia przez substancję stwarzające ryzyko w glebie i ziemi, stanowiące zanieczyszczenie omawianego terenu, poziomu stężeń, określonego dla III grupy gruntów, zgodnie                         z klasyfikacją opisaną w załączniku nr 1 do Rozporządzenia Ministra Środowiska z dnia                01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

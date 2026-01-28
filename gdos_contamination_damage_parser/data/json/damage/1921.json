@@ -1,0 +1,52 @@
+{
+  "registry_id": 1921,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "staszowski",
+    "municipality": "Staszów",
+    "address": null,
+    "precinct": "Sielec, Koniemłoty",
+    "parcel_numbers": [
+      "401/19",
+      "6/1",
+      "7/1"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "działka nr ew. 401/19 znajduje się w obrębie Sielec, dwie pozostałe w obrębie Koniemłoty"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Odpad niebezpieczny w postaci  ziemi  zanieczyszczonej substancjami ropopochodnymi został wykorzystany do niwelacji i utwardzenia niniejszych działek",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat  Ochrony Środowiska w Kielcach",
+      "address": "al. IX Wieków Kielc 3 25-516 Kielce",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2024-06-04",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

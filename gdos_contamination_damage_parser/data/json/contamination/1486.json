@@ -1,0 +1,108 @@
+{
+  "registry_id": 1486,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0745,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "ostrowski",
+    "municipality": "Ostrów Mazowiecka (gmina miejska)",
+    "address": "Wesoła 6 07-300 Ostrów Mazowiecka",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "1354"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((694732.0696944316 554856.1131568719,694764.6135098807 554907.9715939239,694688.6779405779 554967.899838768,694653.0914106885 554917.2320290944,694686.4289776931 554891.3028105767,694732.0696944316 554856.1131568719))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": null,
+      "parcels": [
+        "1354"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.043
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": 0.0315
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-07-26",
+    "legal_basis": "art.101c ust.3 pkt.3 i ust.6 pkt.2",
+    "case_reference": "WOOŚ-IV.515.85.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-11-10",
+        "reference": "WOOŚ-IV.513.1.2021.MTo.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.101c ust.3 pkt.3 i ust.6 pkt.2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-03-23",
+        "reference": "WOOŚ-IV.515.85.2021.PBu.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-03-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-10-26",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "metoda ex situ wraz z przeprowadzeniem samooczyszczenia",
+    "ecological_effect": "osiągnięto zakładany efekt ekologiczny",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

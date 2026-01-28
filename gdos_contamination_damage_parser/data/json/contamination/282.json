@@ -1,0 +1,129 @@
+{
+  "registry_id": 282,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.725,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Przy Parku 6 Warszawa",
+    "precinct": "2-03-12",
+    "parcel_numbers": [
+      "9/26",
+      "9/3",
+      "9/4",
+      "9/27"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((633493.644714289 483976.80128600914,633539.1531386838 483986.85547277797,633543.6510643477 483965.9533476373,633498.142639953 483956.163744729,633493.644714289 483976.80128600914))",
+    "site_description": "obecnie część działki 72 obręb 2-03-12"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Dom Development Grunty Sp.z o.o.",
+      "address": "ul. Pl. Piłsudskiego 3, 00-078 Warszawa",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,675 [mg/kg]",
+      "area_ha": 0.725
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,11-0,676 [mg/kg]",
+      "area_ha": 0.725
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,119-0,576 [mg/kg]",
+      "area_ha": 0.725
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,12-0,686 [mg/kg]",
+      "area_ha": 0.725
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,11-0,275 [mg/kg]",
+      "area_ha": 0.725
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,244 [mg/kg]",
+      "area_ha": 0.725
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,285 [mg/kg]",
+      "area_ha": 0.725
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-03-22",
+    "legal_basis": "61 § 1 101l ust 2 Poś",
+    "case_reference": "WSI.515.12.2017",
+    "decisions": [
+      {
+        "issue_date": "2017-05-30",
+        "reference": "WSI.515.12.2017.ES.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Dom Development Grunty Sp.z o.o.",
+        "address": "ul. Pl. Piłsudskiego 3, 00-078 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2017-06-17",
+    "planned_end": "2017-09-30",
+    "actual_end": "2017-06-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

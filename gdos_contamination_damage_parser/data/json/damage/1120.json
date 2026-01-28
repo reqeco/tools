@@ -1,0 +1,66 @@
+{
+  "registry_id": 1120,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "słupski",
+    "municipality": "Dębnica Kaszubska",
+    "address": "Droga powiatowa nr 1176G na odc. od Podwilczyna w str. Darskowa, a granicach gminy Dębnica Kaszubska",
+    "precinct": "0018 Podwilczyn",
+    "parcel_numbers": [
+      "nr 213"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((380827.97611218644 715400.6113783456,380814.2177513271 715396.907204275,380768.18015922204 715582.1159080155,380769.23849466245 715592.6992625156,380714.7342189507 715823.9455583431,380555.45473360544 716060.483531421,380542.22554047615 716059.9543636907,380541.1672050253 716068.4210472889,380557.04223678634 716074.7710599909,380727.9634120796 715837.1747514736,380829.0344476373 715400.0822106162,380827.97611218644 715400.6113783456))",
+    "site_description": "droga powiatowa nr 1176G od Podwilczyna w stroną Darskowa"
+  },
+  "occurrence_time": {
+    "date": "2018-05-10",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "Prace związane z czyszczeniem poboczy, w pasie drogi powiatowej nr 1176G na odcinku od Podwilczyna w stronę Darskowa spowodowały uszkodzenie pni oraz systemu korzeniowego drzew z występującymi na nich gatunkami chronionych porostów.",
+  "total_area_ha": 0.666,
+  "reporters": [
+    {
+      "name": "Padk Krajobrazowy \"Dolina Słupi\"",
+      "address": "ul. Poniatowskiego 4A, 76-200 Słupsk",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zarząd Dróg Powiatowych w Słupsku",
+      "address": "ul. Słoneczna 16 E, 76-200 Słupsk",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "bogatka (Parus major)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2018-05-25",
+    "detection_date": "2018-05-10",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2019-10-01",
+    "planned_end": "2021-11-30",
+    "actual_end": "2019-04-01",
+    "method": null,
+    "description": "Nasadzenie 30 sztuk lipy drobnolistnej w pasie drogi powiatowej nr 1195G (Gogolewko-Maleniec) co ma zapewnić warunki dla umożliwienia naturalnego odtworzenia się populacji następujących gatunków objętych ochroną prawną: odnożycy kępkowej, odnożycy opylonej, wabnicy kielichowatej.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,103 @@
+{
+  "registry_id": 572,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 9.49,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "tomaszowski",
+    "municipality": "Tomaszów Mazowiecki (gmina miejska)",
+    "address": null,
+    "precinct": null,
+    "parcel_numbers": [
+      "obręb 3 dz. 1/16",
+      "1/39",
+      "1/46",
+      "1/47",
+      "1/48",
+      "1/49",
+      "1/50",
+      "1/51",
+      "1/52",
+      "1/53",
+      "1/54",
+      "1/22"
+    ],
+    "coordinates_ewkt": "SRID=2180;multiPOLYGON(((571564.3140347283 409721.33531093784,571610.159197589 409687.8561436394,571667.9086216647 409680.5113264164,571666.0756620003 409678.6307145888,571656.0780791215 409675.52189570945,571644.7555873514 409660.8951716507,571623.8752069576 409664.680561983,571618.5019032515 409676.47480202187,571596.71560973 409691.74665044714,571586.9694239399 409697.1731455317,571564.3140347283 409721.33531093784)), ((571610.5579585615 409383.82162543386,571630.4705014724 409395.97363650426,571640.7830231434 409376.82926503196,571620.472381246 409366.52636684384,571610.5579585615 409383.82162543386)), ((571319.5561668728 409805.33651461266,571333.7637446314 409799.9724011766,571366.1907755169 409794.8647200344,571375.899987837 409792.0339260604,571390.0032363991 409794.08713119384,571456.7831220016 409726.40486688074,571449.4980680047 409715.5450202208,571455.588467476 409705.61550663505,571457.4737571665 409703.78738034423,571459.2911037918 409706.78050101455,571490.9903046606 409674.21367422584,571510.8016113396 409640.7372730514,571493.791259698 409633.8204259705,571487.7785124842 409611.8499115342,571476.717456263 409605.01696236525,571444.3273457274 409660.20210892614,571437.0952896033 409671.9703476345,571415.6657047933 409688.360812434,571401.8086684983 409695.213522153,571380.5620213877 409698.6237798976,571373.1045002181 409700.0025614472,571319.5561668728 409805.33651461266)), ((571479.367379496 409601.7157993484,571493.0365393144 409608.2145831408,571496.8025582636 409631.2662744876,571513.0587806671 409638.91438694764,571552.7450107337 409567.5106320325,571555.0647523705 409534.8997473065,571574.8822453648 409501.0517795831,571548.7009131518 409485.1022263793,571479.367379496 409601.7157993484)), ((571642.7898557124 409327.65934428014,571662.351653785 409338.32279027347,571670.7841428734 409320.6355577819,571677.6506124957 409308.4906675983,571675.5400132067 409299.9285618523,571664.1118906095 409292.71864500083,571642.7898557124 409327.65934428014)), ((571394.5009416856 409795.93580381107,571454.5170733046 409812.3603220759,571474.5223674895 409817.8353094766,571497.7427525056 409806.2928852476,571506.1320818338 409791.57390497345,571508.5617770796 409777.5127116004,571506.0369366059 409745.57671488076,571548.0899148738 409717.23682898376,571576.066068056 409684.9889915129,571601.6125630115 409666.8025953416,571607.6352366405 409661.6944521675,571610.7251403357 409653.5773501592,571637.6020829625 409646.5381185664,571616.5593819983 409609.1464014519,571639.9382369664 409586.4779225234,571709.7414455751 409489.5333507629,571767.7634238949 409384.2598783951,571813.3629473022 409315.90582099557,571706.0488004108 409224.61231551785,571668.6833308641 409289.37520003226,571680.4151664618 409301.41202013753,571682.4995441503 409311.8285952909,571676.3715443595 409324.3548754994,571590.9491816161 409473.758597265,571566.6270040184 409457.8351163622,571552.1617935791 409481.3721877225,571580.8937112316 409501.06731314864,571561.0447751031 409537.14052305,571558.3636210067 409569.00439422205,571517.1795155772 409641.12884822953,571496.5774377626 409677.9325422412,571463.3856714881 409710.84921365883,571460.400568988 409711.54902084824,571455.8967858712 409714.4530572053,571463.1766016932 409725.683779289,571394.5009416856 409795.93580381107)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Transport kolejowy pasażerski międzymiastowy",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polskie Koleje Państwowe S.A",
+      "address": "Al. Jerozolimskie 142A, 02 – 305 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "49.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-03",
+    "legal_basis": "101c, 101f",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-05-27",
+        "reference": "WSI.513.2.2019.MG.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-04-23",
+        "reference": "WSI.513.26.2018.MG.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-06-21",
+        "reference": "WSI.513.15.2019.MG.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-08-30",
+        "reference": "WSI.513.16.2019.PS.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-05-13",
+      "reason": "zbyt krótki termin na przedłożenie badań zanieczyszczenia gleby i ziemi do RDOŚ w Łodzi",
+      "appealed_decision_reference": "WSI.513.26.2018.MG.7",
+      "resolution_reference": "WSI.513.15.2019.MG.3",
+      "appellant_name": "PKP S.A.",
+      "appellant_address": "Al. Jerozolimskie 142A, 02-305 Warszawa",
+      "resolution_date": "2019-06-21",
+      "reviewing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+      "resolution_content": "RDOŚ w  Łodzi uwzględnił w całości odwołanie Polskich Kolei Państwowych S.A. i zmienił decyzję z 23 kwietnia 2019 r., znak WSI.513.26.2018.MG.7 w sprawie nałożenia na władającego powierzchnią ziemi będącego podmiotem korzystającym ze środowiska tj. na Polskie Koleje Państwowe S.A., obowiązku wykonania badań zanieczyszczenia gleby i ziemi oraz wyznaczył nowy terminu przedłożenia wyników badań"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "przedłożono sprawozdania z badań, na działkę o nr ew. 1/16 nałożono decyzję remediacyjną, poz. w rejestrze 1532"
+}

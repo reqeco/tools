@@ -1,0 +1,86 @@
+{
+  "registry_id": 1149,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "niżański",
+    "municipality": "Nisko",
+    "address": "ul. Nowa 1, 37-400 Nisko",
+    "precinct": "nr 0001 Nisko",
+    "parcel_numbers": [
+      "181205_4.0001.4573/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((722777.18725499999709427 297790.82207599998218939, 722764.69278399995528162 297799.76772800000617281, 722766.4266040000366047 297804.09562400000868365, 722760.86508300004061311 297807.80672699998831376, 722755.61934900004416704 297811.30628399999113753, 722745.15867699997033924 297818.27621899999212474, 722742.31686599995009601 297820.17013500002212822, 722732.41050999995786697 297814.74167299998225644, 722717.8323439999949187 297806.73660200001904741, 722709.3256680000340566 297802.07607299997471273, 722709.19540299999061972 297797.26126599998679012, 722709.00259100005496293 297790.31420099997194484, 722708.97848399996291846 297789.35329200001433492, 722736.99126799998339266 297760.96066199999768287, 722753.34692000003997236 297739.76577900000847876, 722777.18725499999709427 297790.82207599998218939))",
+    "site_description": "inne tereny zabudowane, oznaczone symbolem Bi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2014-01-14",
+    "to": null,
+    "description": "Prace związane z modernizacją stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Prace związane z modernizacją stacji paliw, w tym demontaż infrastruktury podziemnej oraz wykonywanie wykopów pod posadowienie nowych obiektów.",
+  "total_area_ha": 0.3429,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "Spółka Akcyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "77,8-4153 [mg/kg s.m.]",
+      "area_ha": 0.3429
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1616 [mg/kg s.m.]",
+      "area_ha": 0.3429
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2014-01-14",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2014-01-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania zapobiegawcze polegały na usunięciu starych zbiorników paliw oraz wybraniu zanieczyszczonej ziemi.",
+    "ecological_effect": "Standardy jakości gleby lub ziemi odpowiadające gruntom grupy C",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "Akta znak: WSI.510.3.2.2014.AK - Działania prowadzone bez uzgodnienia z Organem."
+}

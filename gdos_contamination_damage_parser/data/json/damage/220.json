@@ -1,0 +1,116 @@
+{
+  "registry_id": 220,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "wieruszowski",
+    "municipality": "Lututów",
+    "address": "Lututów, ul. Ogrodowa 14",
+    "precinct": "0020 Lututów",
+    "parcel_numbers": [
+      "38/7",
+      "38/6",
+      "37/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((460098.22539418592350557 389702.99452172173187137, 460100.01709299435606226 389763.91228120838059112, 460103.1525659091421403 389794.37116095167584717, 460105.61615177069325 389784.51681750535499305, 460206.17524739389773458 389803.10569264279911295, 460220.50883786135818809 389724.2709450718248263, 460098.22539418592350557 389702.99452172173187137))",
+    "site_description": "Stacja paliw nr 1338"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-01-01",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "zanieczyszczenie gruntu na terenie Stacji Paliw nr 1399",
+  "total_area_ha": 1.0,
+  "reporters": [
+    {
+      "name": "PKN Orlen",
+      "address": "ul. Chemików 7  09 - 411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN Orlen SA",
+      "address": "ul. Chemików 7  09 - 411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "798 mg/kg suchej masy",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1998-15869 mg/kg suchej masy",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "76-5230 mg/kg suchej masy",
+      "area_ha": 1.0
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "BTX-lotne węglowodory aromatyczne"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-12-10",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2013-01-15",
+        "reference": "WSI.511.10.2012.AR.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2014-02-02",
+        "reference": "WSI.511.10.2012.AR.JS.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 17",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2013-02-28",
+    "actual_end": "2013-08-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "usunięto z terenu stacji paliw zanieczyszczony grunt oraz zanieczyszczoną wodę, miejsca o niewielkim stopniu zanieczyszczenia zasypano nutrientem, wykonano płytę szczelną, pozostawiono otwory o małej średnicy służące biernej biodegradacji poprzez wentylację miejsc zanieczyszczonych",
+    "ecological_effect": "nie uzyskano pełnego efektu ekologicznego. Obniżono stężenia substancji ropopochodnych w wodach podziemnych do wartości dopuszczalnych dla obszaru C określonych we „Wskazówkach metodycznych do oceny stopnia zanieczyszczenia gruntów i wód podziemnych produktami ropopochodnymi i innymi substancjami chemicznymi w procesach rekultywacji” opracowanych przez PIOŚ, nie uzyskano natomiast poprawy jakości gruntu będącego konsekwencją prowadzonych prac we wskazanym rejonie stacji paliw w rozumieniu rozporządzenia Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1395)",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

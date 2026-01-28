@@ -1,0 +1,141 @@
+{
+  "registry_id": 208,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 24.0,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Częstochowa",
+    "municipality": "Częstochowa",
+    "address": "ul. Kucelińska 22 41 - 207 Częstochowa",
+    "precinct": "0302",
+    "parcel_numbers": [
+      "1/112",
+      "1/115"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((511417.595000 324182.653000,511511.936000 324225.450000,511455.092000 324343.736000,511499.927000 324366.835000,511545.546000 324390.284000,511553.547000 324394.393000,511557.143000 324396.503100,511592.161000 324335.117000,511613.291000 324302.791000,511630.683000 324282.298000,511639.743000 324271.632000,511640.529000 324272.111000,511645.776000 324266.943000,511659.821000 324276.827000,511694.427000 324263.346900,511700.897000 324260.661000,511694.433000 324365.754000,511674.702000 324364.762000,511675.280000 324355.050100,511624.667000 324342.922000,511624.724000 324365.626900,511669.945000 324370.722000,511680.090000 324372.994000,511683.857000 324380.367900,511679.900000 324417.299000,511677.615000 324420.538000,511690.889000 324417.730000,511688.857000 324443.412000,511688.185000 324445.410000,511660.291000 324442.359000,511659.187000 324442.064000,511660.475000 324447.873000,511684.887000 324450.581000,511701.365000 324460.802100,511704.487000 324415.986900,511715.452000 324382.119100,511715.717000 324364.037000,511711.639000 324335.180000,511708.091000 324306.386000,511734.195000 324237.604000,511734.954000 324236.895000,511734.734000 324235.379000,511737.118000 324223.933000,511737.485000 324210.417000,511738.403000 324197.802000,511735.734000 324180.709000,511739.972000 324160.073900,511741.559000 324157.014000,511749.761000 324151.587000,511753.967000 324143.335000,511760.874000 324097.619000,511762.200000 324081.131000,511766.718000 324058.994000,511771.272000 324029.980000,511769.931000 324005.443000,511772.827000 323979.420000,511786.877000 323912.101000,511813.010000 323764.168000,511820.312000 323717.348000,511832.287000 323634.797000,511848.515000 323519.358000,511859.873000 323449.507000,511858.595000 323444.428000,511866.173000 323396.545000,511871.915000 323401.384100,511871.280000 323400.243000,511878.111000 323358.506000,511880.301000 323336.490000,511905.576000 323157.668000,511881.229000 323153.830000,511881.984000 323158.657000,511881.512000 323180.620000,511878.444000 323203.577000,511862.347000 323314.667000,511861.141000 323322.258000,511850.967000 323383.578000,511843.023000 323432.486000,511809.791000 323420.443000,511752.856000 323399.806100,511717.007000 323396.793000,511672.951000 323343.292000,511657.955000 323332.621000,511600.973000 323292.147100,511621.933000 323399.558000,511624.616000 323413.193000,511625.701000 323418.815000,511661.423000 323601.609000,511586.233000 323768.894000,511546.740000 323857.094100,511538.447000 323899.331000,511499.980000 323984.979000,511502.059000 323985.780000,511417.595000 324182.653000))",
+    "site_description": "Teren Zakładu Stalownia prowadzonego przez ISD Huta Częstochowa Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Przed 30 kwietnia 2007 r. Dokładna data wystąpienia zanieczyszczenia nie jest znana."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych"
+  },
+  "land_holders": [
+    {
+      "name": "ISD Huta Częstochowa Sp. z o.o.",
+      "address": "ul. Kucelińska 22 41 - 207 Częstochowa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Chrom (Cr)",
+      "concentration": "767, 952, 2930",
+      "area_ha": 23.9746
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Cynk (Zn)",
+      "concentration": "2370, 3490, 3720",
+      "area_ha": 23.9746
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Miedź (Cu)",
+      "concentration": "1060",
+      "area_ha": 21.6377
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Chrom (Cr)",
+      "concentration": "301, 1060",
+      "area_ha": 21.6377
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ołów (Pb)",
+      "concentration": "1040",
+      "area_ha": 21.6377
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Cynk (Zn)",
+      "concentration": "880, 10 300",
+      "area_ha": 21.6377
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Bar (Ba)",
+      "concentration": "309",
+      "area_ha": 21.6377
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Kadm (Cd)",
+      "concentration": "9,61, 13,7",
+      "area_ha": 21.6377
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Miedź (Cu)",
+      "concentration": "324",
+      "area_ha": 21.6377
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-08-24",
+    "legal_basis": "art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.511.7.2016.KN",
+    "decisions": [
+      {
+        "issue_date": "2017-02-22",
+        "reference": "WSI.511.7.2016.KN",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ISD Huta Częstochowa Sp. z o.o.",
+        "address": "ul. Kucelińska 22 41 - 207 Częstochowa",
+        "economic_activity_code": "24.10.Z"
+      }
+    ],
+    "planned_start": "2022-01-01",
+    "planned_end": null,
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Usunięcie zanieczyszczenia zostanie odłożone do czasu zakończenia eksploatacji instalacji. Do czasu zakończenia eksploatacji instalacji zanieczyszczenie będzie kontrolowane poprzez prowadzenie badań powierzchni ziemi (gleby, ziemi i wód gruntowych) co 5 lat, począwszy od stycznia 2022 r. Zakres badań będzie obejmował następujące substancje: metale: arsen, bar, chrom, cyna, cynk, kadm, kobalt, miedź, molibden, nikiel, ołów, rtęć, benzyny i oleje: suma węglowodorów C6 – C12, składników frakcji benzyn oraz suma węglowodorów C12 – C35, składników frakcji oleju, węglowodory aromatyczne: benzen, etylobenzen, toluen, ksyleny, styren, wielopierścieniowe węglowodory aromatyczne: naftalen, antracen, chryzen, benzo(a)antracen, dibenzo(a,h)antracen, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, benzo(ghi)perylen, indeno(1,2,3-c,d)piren.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

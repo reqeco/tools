@@ -1,0 +1,68 @@
+{
+  "registry_id": 1230,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Okrężna 82-300 Elbląg",
+    "precinct": "0005 miasto Elbląg",
+    "parcel_numbers": [
+      "832/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((528824.4896918406 702277.1374141043,528824.4896918407 702275.153035135,528910.7440310206 702283.3551348634,528917.7555033806 702296.0551602645,528824.7542757107 702277.4019979639,528824.4896918406 702277.1374141043))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Departament Zarząd Dróg Urzędu Miejskiego w Elblągu",
+      "address": "ul. Czerwonego Krzyża 2 82-300 Elbląg",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "832/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "51,0 i 123,0 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-24",
+    "legal_basis": "art. 101d ust. 6,8,9 POŚ",
+    "case_reference": "WSI.513.40.2020",
+    "decisions": [
+      {
+        "issue_date": "2021-01-22",
+        "reference": "WSI.513.40.2020.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

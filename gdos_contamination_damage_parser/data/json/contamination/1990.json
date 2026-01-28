@@ -1,0 +1,181 @@
+{
+  "registry_id": 1990,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.112,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Dominikańska 9, Warszawa",
+    "precinct": "1-04-09",
+    "parcel_numbers": [
+      "32/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639027.394019831 480742.7752104858,639030.5690261823 480664.9875549171,639130.5817263366 480668.69172898494,639116.2941977405 480715.78765651584,639102.5358368745 480747.0085522877,639027.394019831 480742.7752104858))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Apartamenty Dominikańska 1 sp. z o. o. sp.k.",
+      "address": "ul. Jana Kazimierza 3, 01-248 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "32/6"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "Apartamenty Dominkańska sp. z o. o. sp. k.",
+      "address": "ul. Jana Kazimierza 3, 01-248 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "36/6"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "TECHFILM sp. z o. o.",
+      "address": "ul Dominikańska 9, 02-738 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "36/6"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.112
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.112
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-04-04",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.11.2024.PBu",
+    "decisions": [
+      {
+        "issue_date": "2024-05-16",
+        "reference": "WOOŚ-IV.515.11.2024.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Apartamenty Dominikańska 1 sp. z o. o. sp.k.",
+        "address": "ul. Jana Kazimierza 3, 01-248 Warszawa",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Apartamenty Dominkańska sp. z o. o. sp. k.",
+        "address": "ul. Jana Kazimierza 3, 01-248 Warszawa",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TECHFILM sp. z o. o.",
+        "address": "ul Dominikańska 9, 02-738 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-05-01",
+    "planned_end": "2028-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

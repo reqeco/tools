@@ -1,0 +1,149 @@
+{
+  "registry_id": 1915,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4916,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Grochowska 272",
+    "precinct": "3-02-08",
+    "parcel_numbers": [
+      "24"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641262.1444271877 488720.78994051367,641389.6738490837 488711.2649214603,641402.6384583795 488908.9090667423,641379.3550784372 488910.76115378086,641379.3550784378 488924.25493077096,641371.1529786965 488927.4299371205,641297.069497094 488925.5778500829,641296.011161642 488914.7299117232,641286.2215587078 488898.0611283835,641274.5798687414 488891.18194796145,641262.1444271877 488720.78994051367))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "SINFONIA VARSOVIA",
+      "address": "ul. Grochowska 272, 03-272 Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "24"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.4916
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.4916
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.4916
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.4916
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.4916
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.4916
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.4916
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.4916
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.4916
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.4916
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-10-13",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.51.2023.MTo",
+    "decisions": [
+      {
+        "issue_date": "2023-11-14",
+        "reference": "WOOŚ-IV.515.51.2023.MTo.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "SINFONIA VARSOVIA",
+        "address": "ul. Grochowska 272, 03-272 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-11-01",
+    "planned_end": "2025-11-30",
+    "actual_end": "2024-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Projekt planu remediacji zakłada iż część zanieczyszczonego gruntu zostanie usunięta  z terenu i nie będzie stanowił on zagrożenia dla zdrowia ludzi i stanu środowiska. Władający powierzchnią gruntu ze względu na konieczność zachowania kilku drzew, które nie podlegają wycince powołując się na art. 101q ust. 3 pkt. 2 Poś wnioskował również o odstąpienie od wykonywania prac remediacyjnych na terenach oznaczonych w załączniku, których powierzchnia wynosi 399 m2.",
+    "ecological_effect": "Zawartość substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadziła remediacja jest zgodna z dopuszczalnymi zawartościami substancji powodujących ryzyko określonymi dla grupy I w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (t.j. Dz. U. poz. 1395),",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

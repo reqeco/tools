@@ -1,0 +1,97 @@
+{
+  "registry_id": 797,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "jarosławski",
+    "municipality": "Jarosław (gmina wiejska)",
+    "address": "37-500 Munina 1",
+    "precinct": "nr 0006 Munina",
+    "parcel_numbers": [
+      "180404_2.0006.1920",
+      "180404_2.0006.1921",
+      "180404_2.0006.1922/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((766972.68999999994412065 243275.27999999999883585, 766976.01000000000931323 243272.95999999999185093, 767001.23999999999068677 243257.14999999999417923, 766932.78000000002793968 243194.63000000000465661, 766921.66000000003259629 243204.42999999999301508, 766909.43999999994412065 243215.07000000000698492, 766880.81000000005587935 243240, 766919.01000000000931323 243296.32999999998719431, 766926.55000000004656613 243307.26000000000931323, 766943.40000000002328306 243295.57999999998719431, 766972.68999999994412065 243275.27999999999883585))",
+    "site_description": "Inne tereny zabudowane - Bi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2015-09-30",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Prace rozbiórkowe i ziemne związane z demontażem dotychczasowej infrastruktury podziemnej Stacji Paliw nr 1289",
+  "total_area_ha": 0.6794,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A. z siedzibą w Płocku, działający przez pełnomocnika Panią (…) – Kierownika Zespołu Regionalnego Południowo – Wschodniego z siedzibą w Krakowie",
+      "address": "ul. Chemików 7,09-411 Płock",
+      "legal_form": "Spółka akcyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od 54,2 do 1543 mg/kg s.m.",
+      "area_ha": 0.6794
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 4787 do 11229 mg/kg s.m.",
+      "area_ha": 0.6794
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-12-15",
+    "detection_date": "2015-11-30",
+    "decisions": [
+      {
+        "issue_date": "2015-12-18",
+        "reference": "WSI.511.6.1.2015.IB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2016-01-01",
+    "planned_end": "2016-03-31",
+    "actual_end": "2016-01-29",
+    "method": null,
+    "description": "Działania naprawcze środowiska gruntowego będą przeprowadzone metodą „ex-situ\" polegającą na: Kontrolowanym wydobyciu zanieczyszczonego gruntu w obszarze strefy zbiorników magazynowych, stanowiska zlewowego i dystrybucji paliw.  Przekazaniu do wywiezienia zanieczyszczonego gruntu do unieszkodliwienia bądź odzysku przez podmiot posiadający stosowne zezwolenia. Poborze próbek gruntu do analizy na zawartość sumy benzyn i sumy olei mineralnych z powstałego wykopu. W przypadku uzyskania wyników badań, które potwierdziły usunięcie zanieczyszczonego gruntu w całości należy zasypać powstały wykop czystym gruntem.",
+    "ecological_effect": "Po przeprowadzeniu działań naprawczych wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji, powinny spełniać standardy jakości przewidziane dla gruntów grupy C, określone w załączniku do rozporządzenia Ministra środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r. Nr 165, poz. 1359).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "WSI.511.6.1.2015.IB"
+}

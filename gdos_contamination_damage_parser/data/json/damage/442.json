@@ -1,0 +1,95 @@
+{
+  "registry_id": 442,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Do Dysa 3A",
+    "precinct": "0018 Lemszczyzna",
+    "parcel_numbers": [
+      "066301_1.0018.AR_3.33/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((748830.6548777404 384998.4625733197,748831.9777968653 384864.0539711658,748872.1945453848 384857.1747907605,748872.988297247 384998.1979894871,748831.1840454784 384997.9334055912,748830.6548777404 384998.4625733197))",
+    "site_description": "teren stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1976-01-01",
+    "to": "2012-11-30",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w środowisku polegające na zanieczyszczeniu substancjami ropopochodnymi środowiska gruntowego na terenie stacji paliw położonej w Lublinie przy ul. Do Dysa 3A.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "SAFARI Maciej Boguszewski Grzegorz Bordżoł sp. j.",
+      "address": "ul. Do Dysa 1, 20-149 Lublin",
+      "legal_form": "spółka jawna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "SAFARI Maciej Boguszewski Grzegorz Bordżoł sp. j.",
+      "address": "ul. Do Dysa 1, 20-149 Lublin",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "86,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "55,2 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-10-17",
+    "detection_date": "2012-10-16",
+    "decisions": [
+      {
+        "issue_date": "2012-11-06",
+        "reference": "WSi.511.9.2012.RSZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-11-30",
+    "planned_end": "2013-06-30",
+    "actual_end": "2013-12-31",
+    "method": null,
+    "description": "Usunięcie infrastruktury wraz z podziemnymi zbiornikami paliwa, usunięcie zanieczyszczonych frakcji gleby, zasypanie wykopów czystym gruntem.",
+    "ecological_effect": "W aktach sprawy w \"Dokumentacji warunków geotechnicznych podłoża gruntowego\" znajduje się informacja, że na badanym obszarze zawartość substancji ropopochodnych mieści się w granicach dopuszczalnych w odniesieniu do kryteriów określonych w rozporządzeniu Ministra Środowiska z 2002 r. dla terenów zaliczanych do grupy C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne",
+    "covered_by_obligee": "Przedsiębiorstwo Handlowe (…) w Lublinie",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

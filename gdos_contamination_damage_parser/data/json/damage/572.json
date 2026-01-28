@@ -1,0 +1,169 @@
+{
+  "registry_id": 572,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Płock",
+    "municipality": "Płock",
+    "address": "ul. Chemików 7",
+    "precinct": "Kombinat",
+    "parcel_numbers": [
+      "20/1",
+      "20/2",
+      "20/4",
+      "20/5",
+      "20/7",
+      "20/8",
+      "20/52",
+      "20/53",
+      "20/56",
+      "20/57",
+      "20/59",
+      "20/60",
+      "20/61",
+      "20/62",
+      "20/63",
+      "20/64",
+      "20/65",
+      "20/66",
+      "20/67",
+      "20/68",
+      "20/72",
+      "20/73",
+      "20/74",
+      "20/75",
+      "20/76",
+      "20/77",
+      "20/78",
+      "20/79",
+      "20/81",
+      "20/81",
+      "20/82",
+      "20/83",
+      "20/84",
+      "20/85",
+      "20/86",
+      "20/87",
+      "20/88",
+      "20/93",
+      "20/94",
+      "20/95",
+      "20/96",
+      "20/97",
+      "20/98",
+      "20/99",
+      "20/13",
+      "20/20",
+      "20/24",
+      "20/26",
+      "20/30",
+      "20/37",
+      "20/38",
+      "20/44",
+      "20/50",
+      "20/54",
+      "20/58",
+      "20/69",
+      "20/70",
+      "20/17",
+      "20/18",
+      "20/21",
+      "20/22",
+      "20/43",
+      "20/45",
+      "20/46",
+      "20/47",
+      "20/49",
+      "20/51",
+      "23/5 obręb KOMBINAT"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((545992.1878333718 523212.7779187346,546918.2313521235 523226.0071118539,546990.9919143138 524118.9776477916,547374.6385149447 524145.43603404146,547387.8677080646 525587.4180846717,544510.5182033594 525646.9494537516,544497.2890102394 524337.2593343714,545959.1148505618 524343.8739309246,545965.7294471218 524317.4155446757,545992.1878333718 523212.7779187346))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "szkoda ciągła"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w środowisku gruntowym polegająca na zanieczysczeniu gruntu substancjami ropochodnymi na terenie instalacji ORLEN OIL Sp.zo.o.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7, Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "ORLEN OIL SP.ZO.O.",
+      "address": "ul. Chemików 7, Płock",
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": "2013-05-29",
+    "decisions": [
+      {
+        "issue_date": "2015-02-10",
+        "reference": "WSI.511.26.2011.KW.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2021-03-31",
+    "actual_end": null,
+    "method": null,
+    "description": "in-situ oraz ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

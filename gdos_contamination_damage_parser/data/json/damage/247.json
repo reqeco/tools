@@ -1,0 +1,65 @@
+{
+  "registry_id": 247,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "pilski",
+    "municipality": "Kaczory",
+    "address": "Śmiłowo, gmina Kaczory",
+    "precinct": null,
+    "parcel_numbers": [
+      "85"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((359931.39197728876 586072.8656326206,359911.54818757204 586003.8092445005,360005.47545890405 585984.2300386829,360007.32754594396 586049.5822527232,359931.39197728876 586072.8656326206))",
+    "site_description": "Tereny rolnicze"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zagrożenie powstania szkody w środowisku na skutek nielegalnego składowania odpadów zwierzęcych na działce nr 85 w miejscowości Śmiłowo, gm.Kaczory przez działalność fimy ZRP \"Farmutil HS\" S.A. Śmiłowo,Kaczory.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Pilski",
+      "address": "al. Niepodległości 33/35, 64-920 Piła",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zakład Rolniczo-Przemysłowu \"Farmutil HS\" S.A. Kaczory",
+      "address": "ul. Przemysłowa 4, Śmiłowo, 64-810 Kaczory",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2007-05-21",
+    "detection_date": "2007-07-21",
+    "decisions": [
+      {
+        "issue_date": "2007-09-03",
+        "reference": "SR-V.66192-26/07",
+        "issuing_authority": "Wojewoda Wielkopolski",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

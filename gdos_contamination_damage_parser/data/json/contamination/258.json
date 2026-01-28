@@ -1,0 +1,99 @@
+{
+  "registry_id": 258,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.11,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Kłobucka Warszawa",
+    "precinct": "1-08-15",
+    "parcel_numbers": [
+      "40/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636356.7860684274 479853.2617888935,636367.3694229389 479846.38260846306,636364.1944165842 479811.9867063435,636404.9403314565 479720.9698576443,636375.3069388212 479638.94886026345,636235.6066592692 479689.21979413554,636239.3108333437 479701.91981953476,636356.7860684274 479853.2617888935))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Burmistrz Dzielnicy Ursynów",
+      "address": "Al. KEN 61, 02-777 Warszawa",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1600-150000",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "250-5500",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-02-10",
+    "legal_basis": "101 h ustawy POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-04-11",
+        "reference": "WSI.515.5.2017.ES.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-02-06",
+        "reference": "WSI.515.5.2017.SSz.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Burmistrz Dzielnicy Ursynów",
+        "address": "Al. KEN 61, 02-777 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2017-05-04",
+    "planned_end": "2017-12-31",
+    "actual_end": "2018-04-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "usunięcie zanieczyszczenia  do granic bezpieczeństwa technicznego sąsiednich budynków infrastruktury technicznej.",
+    "ecological_effect": "spełnia wymogi obecnie obowiązującego rozporządzenia",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

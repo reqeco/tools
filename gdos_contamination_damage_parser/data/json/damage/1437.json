@@ -1,0 +1,72 @@
+{
+  "registry_id": 1437,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "stargardzki",
+    "municipality": "Stargard (gmina wiejska)",
+    "address": null,
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": "rzeka Ina na odcinku od ul. Brzozowej 24 w Stargardzie do wsi Rogowo 27 tj. na działkach nr 14 obręb Stargard, nr 160/1, 296/2, 295/3, 294/3, 160/5 obręb Klępino, nr 137/5, 138/2, 139/4, 137/1, 151/1, 186 obręb Lubowo oraz nr 172 Rogowo w gminie Stargard."
+  },
+  "occurrence_time": {
+    "date": "2020-08-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda, gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "W dniu 18 sierpnia poprzez kanał burzowy przy ul. Brzozowej 24 w Stargardzie nastąpił zrzut do rzeki Iny nieoczyszczonych ścieków bytowych. Jednocześnie w efekcie przyduchy i zatrucia wód Iny na odcinku od ww. kanału do m. Rogowo odnotowano na dużą skalę śnięcia ryb należących do kilku gatunków, w tym troci wędrownej oraz chronionych różanek i larw minogów. Poza tym zgłaszający wskazał na negatywne oddziaływanie zawiesiny pochodzącej ze zrzuconych ścieków, na włosieniczniki tworzące na tym odcinku Iny siedlisko o kodzie 3260.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Miejskie Przedsiębiorstwo Gospodarki Komunalnej w Stargardzie",
+      "address": "ul. Okrzei 6, 73-110 Stargard",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w potencjale ekologicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": [
+    "różanka (Rhodeus sericeus)",
+    "minóg rzeczny (Lampetra planeri)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2020-09-08",
+    "detection_date": "2020-08-18",
+    "decisions": [
+      {
+        "issue_date": "2022-08-18",
+        "reference": "WONS-NS.512.20.2020.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 20",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

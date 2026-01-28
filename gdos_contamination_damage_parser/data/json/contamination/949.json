@@ -1,0 +1,186 @@
+{
+  "registry_id": 949,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.055,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Kanał Parnicki 1d Szczecin",
+    "precinct": "1091 Śródmieście m. Szczecin",
+    "parcel_numbers": [
+      "1/60"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((205583.91832200001226738 625726.44088100001681596, 205566.61588399999891408 625714.56821299996227026, 205503.66114800001378171 625808.01529500004835427, 205486.44810999999754131 625797.62982300005387515, 205491.48433199999271892 625763.53217599994968623, 205496.10415999998804182 625741.95687200000975281, 205530.11288299999432638 625691.26737200003117323, 205535.88774700000067241 625689.31515699997544289, 205506.98189799999818206 625671.01687499997206032, 205511.77106599998660386 625662.01552899996750057, 205517.90175799999269657 625646.82146899995859712, 205528.75027799999224953 625627.49470499996095896, 205539.23515799999586307 625608.8296509999781847, 205598.03518499998608604 625521.79969899996649474, 205600.04283300001407042 625518.83122900000307709, 205634.85872700001345947 625467.37683399999514222, 205674.78219500000705011 625408.38109699997585267, 205650.69347800000105053 625391.47676099999807775, 205544.63230900000780821 625548.04958200000692159, 205442.83951399999205023 625698.33093000005465001, 205341.04455300001427531 625848.61042399995494634, 205332.42092900001443923 625858.65212800004519522, 205295.95281899999827147 625901.37065499997697771, 205284.91198199999053031 625914.57280099997296929, 205285.66207200000644661 625915.20908599998801947, 205246.52370499999960884 625975.13242799998261034, 205245.28966999999829568 625975.93859200004953891, 205242.86828900000546128 625976.99687699996866286, 205240.98609699998633005 625978.02258999994955957, 205239.86397199999191798 625979.02243100001942366, 205238.14355499998782761 625980.5695370000321418, 205235.87786499998765066 625983.87337199994362891, 205236.16886199999134988 625985.87022299994714558, 205208.26405600001453422 626026.44105100003071129, 205224.91652500000782311 626035.34667600004468113, 205243.83525000000372529 626045.10693400003947318, 205265.39689599999110214 626047.18999800004530698, 205280.43279600000823848 626047.08260199998039752, 205286.43795600000885315 626046.61987000005319715, 205289.39553300000261515 626046.1408229999942705, 205292.26969399998779409 626045.27605099999345839, 205317.61329000000841916 626035.96090299997013062, 205328.72141999998711981 626031.552148999995552, 205336.9747510000015609 626027.99692199996206909, 205414.2454859999998007 625992.59894799999892712, 205428.06618799999705516 625971.49382600001990795, 205445.98979900000267662 625968.57824499998241663, 205448.79350100000738166 625966.21428499999456108, 205453.07564900000579655 625962.27782800002023578, 205457.31847500000731088 625958.02298300003167242, 205461.47834900001180358 625953.72297600004822016, 205467.37245600001187995 625946.94298699998762459, 205474.88308500000857748 625937.55980399996042252, 205483.64319299999624491 625926.2972480000462383, 205507.52490499999839813 625895.582122000050731, 205509.2090580000076443 625893.26567999995313585, 205483.50274500000523403 625875.15573500003665686, 205515.31275300000561401 625828.03676599997561425, 205549.96570500000962056 625776.7268159999512136, 205583.91832200001226738 625726.44088100001681596))",
+    "site_description": "rejon zlikwidowanej stacji paliw byłej Parowozowni PKP, stacja została zlikwidowana w latach 70-tych XX w., teren położony w sąsiedztwie rzeki Parnica, teren kolejowy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-07-30",
+    "description": "rejon zlikwidowanej stacji paliw byłej Parowozowni PKP, stacja została zlikwidowana w latach 70-tych XX w."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Transport kolejowy towarów",
+    "current": "Transport kolejowy towarów"
+  },
+  "land_holders": [
+    {
+      "name": "PKP CARGO S.A.",
+      "address": "ul. Grójecka 17 02-921 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "1/60"
+      ],
+      "economic_activity_code": "49.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "mg/kg s.m. 1598",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m. 8068",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "mg/kg s.m.6229",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "mg/kg s.m.137",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "mg/kg s.m. 20000",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "mg/kg s.m. 37",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.11",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "mg/kg s.m. 23",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "mg/kg s.m. 10",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "mg/kg s.m. 6,5",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "mg/kg s.m. 32",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "mg/kg s.m. 16",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "mg/kg s.m. 4500",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-16",
+    "legal_basis": "101l ust. 4 POŚ",
+    "case_reference": "WONS-NS.515.8.2019.AS",
+    "decisions": [
+      {
+        "issue_date": "2019-11-21",
+        "reference": "WONS-NS.513.15.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-03-17",
+        "reference": "WONS-NS.515.8.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-05-21",
+        "reference": "WONS-NS.515.8.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKP CARGO S.A.",
+        "address": "ul. Grójecka 17 02-921 Warszawa",
+        "economic_activity_code": "49.20.Z"
+      }
+    ],
+    "planned_start": "2021-04-01",
+    "planned_end": "2025-11-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodującej ryzyko dla gruntów grupy IV  - Tabela 1 w punkcie II decyzji.  Remediacja powierzchni ziemi zanieczyszczonej węglowodorami wskazanymi w Tabeli nr 1 (pkt II decyzji) prowadzona będzie metodą in-situ (bioremediacjia -bioaugumentacja), poprzez wprowadzenie do zanieczyszczonego środowiska wyselekcjonowanych szczepów mikroorganizmów. Projektuje się wykorzystanie 3 piezometrów istniejących na omawianym terenie oraz wykonanie 3 dodatkowych otworów aplikacyjnych o głębokości do 3 m p.p.t. i średnicy 110 mm. Zostaną one wykonane  na  fragmencie  działki  1/60,  na  którym  wykonane  zostały  badania,  w  terenie nieutwardzonym i z uwzględnieniem istniejącej infrastruktury podziemnej. Otwory iniekcyjne będą posiadały dno, część filtracyjna znajdować będzie się w przedziale głębokości 1,0-3,0 m p.p.t., od góry zostaną  zabezpieczone  deklami  w  celu  uniemożliwienia  dostępu  osób  trzecich.  Lokalizacja projektowanych otworów aplikacyjnych została przedstawiona na Załączniku 9 do „Projektu planu remediacji środowiska gruntowego dla fragmentu działki o nr ew. 1/60 zlokalizowanego w Szczecinie przy ul. Kanał Parnicki 1D”. W pierwszym roku po uprawomocnieniu się decyzji ustalającej plan remediacji projektuje się wykonanie  dodatkowych  otworów  monitoringowo-aplikacyjnych  oraz  prowadzenie  kwartalnej obserwacji zwierciadła wód w otworach w celu kontroli występowania wolnego produktu w obszarze wskazanym do procesu remediacji.  W przypadku wystąpienia wolnego produktu zalegającego na wodach gruntowych, w pierwszej kolejności należy przeprowadzić proces szczerpania wolnego produktu, a następnie jego zutylizowania.  Proces  bioremediacji  rozpocznie  się  w  momencie  całkowitego  szczerpania  produktu  z  powierzchni wody w przypadku jego wystąpienia, lub w kolejnym roku po uprawomocnieniu się decyzji ustalającej plan remediacji. Przed rozpoczęciem procesu bioremediacji, ale po upływie minimum jednego roku obserwacji omawianego terenu należy pobrać do analiz laboratoryjnych minimum po 4 próbki gruntów z dwóch przedziałów głębokości, na których aktualnie stwierdzono występowanie zanieczyszczeń ropopochodnych (0,25-1,0 m p.p.t i 1,0-3,0 m p.p.t.) oraz 3 próbek wody z otworów monitoringowych zlokalizowanych na omawianej działce. Aplikacja gotowego biopreparatu prowadzona będzie poprzez zraszanie terenów zielonych, na których zidentyfikowano zanieczyszczenia w przedziale głębokości 0,25-1,0 m oraz poprzez iniekcję do przygotowanych otworów aplikacyjnych. Wprowadzanie preparatu do środowiska będzie odbywało się w okresie od kwietnia do października każdego roku trwania remediacji. Planuje się wykonywanie aplikacji raz na kwartał. Podczas  prowadzenia  prac  aplikacyjnych  należy raz na kwartał prowadzić stały monitoring  jakości gruntu oraz wód gruntowych pobierając do analiz laboratoryjnych próbki pochodzące z przedziałów głębokościowych,  na  których  stwierdzono  przekroczenia  dopuszczalnych  zawartości  substancji powodujących ryzyko. Po upływie czasu wyznaczonego do remediacji metodą in-situ, w następnym roku kalendarzowym, ale nie później niż w miesiącu kwietniu, należy pobrać do badań  laboratoryjnych próby gruntu na zawartość stężeń  substancji,  które  wykazywały  przekroczenie, w celu  potwierdzenia osiągnięcia założonego efektu ekologicznego. Należy pobrać cztery próbki gruntu z przedziału o głębokości 0,25-1,0 m p.p.t. oraz cztery z przedziału 1,0-3,0 m. p.p.t. z obszaru wyznaczonego do przeprowadzenia prac reremediacjnych, a otrzymane wyniki należy odnieść do wartości dopuszczanych dla gruntów grupy IV z uwzględnieniem współczynnika wodoprzepuszczalności, zgodnie z rozporządzeniem w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.   Odstępuje się od usunięcia zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko. Remediacja powierzchni ziemi zanieczyszczonej metalami ciężkimi - ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń i kontrolowanie zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie – Tabela 2 w punkcie II decyzji.  Ograniczenie możliwości rozprzestrzeniania się substancji stwarzającej ryzyko wynika   z charakteru zanieczyszczenia i miejsca występowania: niejednorodny grunt nasypowy, zanieczyszczenie punktowe, nie występujące bezpośrednio od powierzchni ziemi, zanieczyszczenia występują w formie związanej na powierzchni cząstek gruntowych lub w formie nierozpuszczalnych związków, a w minimalnym stopniu w roztworze glebowym. Zanieczyszczenia sięgają maksymalnie do głębokości 1,0 m p.p.t., z uwagi na głębsze występowanie wód podziemnych (2,2 m do 2,7 m), możliwość migracji zanieczyszczeń jest ograniczona. W obszarze I  stwierdzono występowanie bariery ograniczającej w postaci np. płyty betonowej lub podpiwniczenia stanowiącej dodatkowy element ograniczający rozprzestrzenianie zanieczyszczeń, w obszarze II występują grunty spoiste stanowiące naturalną barierę. Kontrolowanie zanieczyszczenia - w obszarach (I i II), w których wskazano występowanie zanieczyszczeń w postaci metali ciężkich, należy wykonać po 4 otwory badawcze, z których należy pobrać po jednej próbce gruntu z przedziału głębokości 0,25-1,0 m p.p.t. oraz wykonać analizy w zakresie zawartości cynku, miedzi, niklu i ołowiu. Badania należy przeprowadzić w  terminie: \t\t- dwóch lat od rozpoczęcia remediacji (rok 2022); \t\t- czterech lat od rozpoczęcia remediacji (rok 2024); \t\t-w 2025r. – do kwietnia. Pobór prób gruntu do analiz oraz analizy laboratoryjne muszą być wykonane zgodnie z zapisami Rozporządzenia Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

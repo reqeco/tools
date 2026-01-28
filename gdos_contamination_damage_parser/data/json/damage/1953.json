@@ -1,0 +1,79 @@
+{
+  "registry_id": 1953,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "warszawski zachodni",
+    "municipality": "Błonie",
+    "address": "ul. Pass 20 b,",
+    "precinct": "Pass",
+    "parcel_numbers": [
+      "31/90"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((608861.5781517058 483375.2478619134,609013.4492888193 483329.7394375624,609021.3868047016 483340.8519597901,609057.3702100127 483418.63961536065,609064.2493904352 483494.8397677606,609059.4868809141 483539.28985665925,609061.6035518147 483548.8148757098,608985.9325671131 483581.62327466067,608958.4158454051 483593.79413234163,608861.5781517058 483375.2478619134))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2024-06-12",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na terenie zakładu w dniu 12.06.2024 r. doszło do wycieku oleju ze zbiornika na paliwo do agregatu. Olej wsiąknął w grunt pod agregatem doprowadzając do zanieczyszczenia powierzchni ziemi.",
+  "total_area_ha": 0.005,
+  "reporters": [
+    {
+      "name": "Kyndryl Poland Sp. z o.o.",
+      "address": "ul. Prosta 67, 00-838 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Kyndryl Poland Sp. z o.o.",
+      "address": "ul. Prosta 67, 00-838 Warszawa",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2024-06-12",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-06-20",
+    "planned_end": "2024-07-04",
+    "actual_end": "2024-07-04",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Celem prac było wydobycie, transport i odzysk zanieczyszczonych gruntów, uzupełnienie wykopu czystym gruntem oraz wykonanie badań laboratoryjnych potwierdzających usunięcie całości zanieczyszczenia spod agregatu znajdującego się w północnej części działki 31/90.",
+    "ecological_effect": "Przeprowadzone prace zapobiegawcze pozwoliły na usunięcie szkody w środowisku, zapobieżenie kolejnym szkodom, dalszemu osłabieniu funkcji elementów przyrodniczych w tym natychmiastowego powstrzymania i usunięcia zanieczyszczenia. Stężenia substancji powodujących ryzyko nie przekraczają dopuszczalnych zawartości dla grupy IV.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": "podmiot korzystający ze środowiska w dniach od 20.06.2024 r. do 04.07.2024r. przeprowadził działania zapobiegawcze."
+}

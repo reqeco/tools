@@ -1,0 +1,84 @@
+{
+  "registry_id": 201,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0025,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Posag 7 Panien",
+    "precinct": "2-09-09",
+    "parcel_numbers": [
+      "112/13"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628431.5998083905 483860.91355348285,628530.025005318 483916.4761645999,628597.7584741685 483796.090507159,628515.2083090033 483748.9945796421,628495.6291031681 483759.84251800086,628477.9019843644 483761.16543731,628431.0706406597 483843.98018628266,628439.5373242664 483848.4781119423,628431.5998083905 483860.91355348285))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja silników do pojazdów samochodowych (z wyłączeniem motocykli) oraz do ciągników rolniczych",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "ROBYG Stacja Nowy Ursus Sp. z o.o.",
+      "address": "Al. Rzeczypospolitej 1, 02-972 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1625 [mg/kg]",
+      "area_ha": 0.0025
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-11-04",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-12-22",
+        "reference": "WSI.511.16.2016.MGł.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ROBYG Stacja Nowy Ursus Sp. z o.o.",
+        "address": "Al. Rzeczypospolitej 1, 02-972 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2017-01-06",
+    "planned_end": "2017-01-15",
+    "actual_end": "2017-03-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Ex-situ- wybranie zanieczyszczonego gruntu",
+    "ecological_effect": "Zgodnie z obowiązującymi standardami dla grupy I",
+    "effect_assessment": null
+  },
+  "notes": null
+}

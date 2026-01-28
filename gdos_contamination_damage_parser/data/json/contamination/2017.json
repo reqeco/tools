@@ -1,0 +1,72 @@
+{
+  "registry_id": 2017,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Zblewo",
+    "address": null,
+    "precinct": "Kleszczewo Kościerskie",
+    "parcel_numbers": [
+      "36/76",
+      "36/77"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((460053.28718986444 682306.4833627688,460086.6247565444 682446.7128098905,460101.44145284453 682448.3003130686,460259.66260261467 682409.1419014195,460264.9542798647 682400.14605009,460256.4875962645 682367.33765114,460224.2083650447 682241.9249003176,460004.07459144434 682297.4875114402,459981.8495469944 682224.9915331192,460204.6291592147 682169.9580897177,460198.8083142446 682150.9080516202,459970.20785704436 682209.6456690887,459998.2537464645 682316.5375495395,460053.28718986444 682306.4833627688))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "36/76",
+        "36/77"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "36/77",
+        "36/76"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-30",
+    "legal_basis": "art. 101c p.o.ś.",
+    "case_reference": "RDOŚ-Gd-WZS.513.324.2019.IK.MK",
+    "decisions": [
+      {
+        "issue_date": "2024-05-20",
+        "reference": "RDOŚ-Gd-WZS.513.324.2019.IK.MK.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "101c ust. 3 i 4 p.o.ś.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

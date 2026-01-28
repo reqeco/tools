@@ -1,0 +1,160 @@
+{
+  "registry_id": 565,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.63,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "warszawski zachodni",
+    "municipality": "Łomianki",
+    "address": "ul. Warszawska 122",
+    "precinct": "0006",
+    "parcel_numbers": [
+      "273",
+      "274",
+      "275"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((629408.681541007 498146.3254584661,629420.8523986969 498129.3920912668,629538.3276337476 498286.0257378649,629525.363024477 498297.402843955,629525.6276083373 498296.8736762246,629525.0984406166 498296.87367622554,629408.681541007 498146.3254584661))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Mazowieckie Przedsiębiorstwo Przemysłu Drzewnego S.A.",
+      "address": "ul. Warszawska 122 05-092 Łomianki",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "273",
+        "274",
+        "275"
+      ],
+      "economic_activity_code": "16.29.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "940-1417 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "5 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,29-5 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,39-7,1 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,43-9,2 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,37 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,12-2,1 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,41-7,4 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,37-4,6 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,27-4,2 [mg/kg]",
+      "area_ha": 0.63
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,28-4,2 [mg/kg]",
+      "area_ha": 0.63
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-09-11",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.15.2019",
+    "decisions": [
+      {
+        "issue_date": "2018-12-04",
+        "reference": "WSI.515.63.2018.MB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Mazowieckie Przedsiębiorstwo Przemysłu Drzewnego S.A.",
+        "address": "ul. Warszawska 122 05-092 Łomianki",
+        "economic_activity_code": "16.29.Z"
+      }
+    ],
+    "planned_start": "2018-12-18",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-01-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex- situ",
+    "ecological_effect": "Zgodne z decyzją oraz z rozporządzeniem MŚ",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

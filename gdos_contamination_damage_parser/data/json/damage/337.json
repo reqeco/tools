@@ -1,0 +1,82 @@
+{
+  "registry_id": 337,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "municipality": "Nowe Miasteczko, Nowe Miasteczko",
+    "address": "Miłaków",
+    "precinct": null,
+    "parcel_numbers": [
+      "173"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((274798.15564616944 429872.51109522115,274798.15564616944 429872.51109522115))",
+    "site_description": "pobocze drogi"
+  },
+  "occurrence_time": {
+    "date": "2010-09-10",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu produktami naftowymi podczas zdarzenia drogowego w m.Miłaków, gm.Nowe Miasteczko na drodze krajowej 3, w którym z uszkodzonej autocysterny wyciekł na pobocze drogi olej opałowy",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Firma ELZET Sp.zo.o.",
+      "address": "Kłodzko Nowogródzka 5a",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-10-05",
+    "detection_date": "2010-09-10",
+    "decisions": [
+      {
+        "issue_date": "2011-02-17",
+        "reference": "WSI.511.9.2011.GM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-02-01",
+    "planned_end": "2011-05-01",
+    "actual_end": "2012-01-16",
+    "method": null,
+    "description": "ex-situ",
+    "ecological_effect": "Zanieczyszczony olejem mineralnym grunt, został doprowadzony do wymaganych wartości, zgodnie z ww. rozporządzeniem w sprawie standardów jakości gleby oraz standardów jakości ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

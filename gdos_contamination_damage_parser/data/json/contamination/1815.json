@@ -1,0 +1,76 @@
+{
+  "registry_id": 1815,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "Al 29 Listopada",
+    "precinct": "0029 Krowodrza",
+    "parcel_numbers": [
+      "126102_9.0029.375/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((568851.4943927984 248975.94765630923,568869.9663982887 248971.2134181233,568869.2155313293 248940.221068942,568850.0701344415 248937.67909931485,568850.684231928 248949.54460678436,568851.4943927984 248975.94765630923))",
+    "site_description": "w przeszłości prowadzono działalność w zakresie wydobywania gliny i kaolinu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miejska Kraków",
+      "address": "Plac Wszystkich Świętych 3 - 4  30-004 Kraków",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2021-08-17",
+    "legal_basis": "na podstawie art. 61 § 1 Kpa",
+    "case_reference": "ZS.515.11.2021.UW",
+    "decisions": [
+      {
+        "issue_date": "2023-04-24",
+        "reference": "ZS.515.11.2021.JL",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Miejska Kraków",
+        "address": "Plac Wszystkich Świętych 3 - 4  30-004 Kraków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

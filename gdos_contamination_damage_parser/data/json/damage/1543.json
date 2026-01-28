@@ -1,0 +1,82 @@
+{
+  "registry_id": 1543,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Piekary Śląskie",
+    "municipality": "Piekary Śląskie",
+    "address": "ul. Braterstwa 9",
+    "precinct": "0005 Dąbrówka Wielka",
+    "parcel_numbers": [
+      "247101_1.0005.AR_3-3.2221/258",
+      "247101_1.0005.AR_3-3.222/2",
+      "247101_1.0005.AR_3-3.170/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((501483.90146899997489527 275113.50648099998943508, 501395.1379140000208281 275105.269055999990087, 501395.25416900002164766 275116.74126899999100715, 501483.16819799999939278 275124.87938400002894923, 501545.89799999998649582 275130.69172900001285598, 501618.87130900000920519 275137.44579999998677522, 501619.6145879999967292 275126.10283300001174212, 501614.4378969999961555 275125.61615100002381951, 501544.75249699997948483 275119.14983800001209602, 501483.90146899997489527 275113.50648099998943508)),((502194.47775299998465925 274471.53048600000329316, 502173.47316499997396022 274364.83882800000719726, 502158.44013900001300499 274288.41019899997627363, 502155.76214599999366328 274288.72140999999828637, 502155.06516300002112985 274287.39880000002449378, 502155.01232899999013171 274285.87067600002046674, 502139.1101570000173524 274287.80307199998060241, 502135.27148200001101941 274288.47428099997341633, 502101.96940699999686331 274295.58729900000616908, 502102.45826200000010431 274297.93474599998444319, 502116.60869999998249114 274365.88402499997755513, 502101.76385799999115989 274369.20455600001150742, 502113.23454899998614565 274426.46145699999760836, 502123.24916000000666827 274476.45006000000284985, 502139.37855399999534711 274475.23758700001053512, 502194.47775299998465925 274471.53048600000329316)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2020-01-31",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Możliwości wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku w powierzchni ziemi na działkach o nr ewidencyjnych 2221/258, 222/2 i 170/3, zlokalizowanych przy ul. Braterstwa 9 w Piekarach Śląskich.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Śląski Wojewódzki Inspektor Ochrony Środowiska w Katowicach",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Gospodarstwo Rolne Zbigniew Wójcik",
+      "address": "ul. Braterstwa 9 41-948 Piekary Śląskie",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2020-04-27",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2021-02-18",
+        "reference": "WSI.512.4.2020.MB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

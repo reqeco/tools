@@ -1,0 +1,161 @@
+{
+  "registry_id": 883,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0012,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Silnikowa",
+    "precinct": "2-09-09",
+    "parcel_numbers": [
+      "92/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628806.9956541911 483223.77537803724,628951.4584432298 482955.4873414524,629099.0962386187 483038.03750655334,628938.7584178265 483304.7380399648,628806.9956541911 483223.77537803724))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "5/92 Gaston Investments Sp. z o.o. Sp. k.",
+      "address": "ul. Cybernetyki 7B, 02-677 Warszawa",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,24 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,235-1,78 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,230-1,49 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,125-0,175 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,213-1,33 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,269-0,740 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,385-1,61 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,53-0,808 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,75-0,525 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "140 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Styren",
+      "concentration": "0,19 mg/kg s.m.",
+      "area_ha": 0.0012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "8600-43000 mg/kg s.m.",
+      "area_ha": 0.0005
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-18",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.32.2019",
+    "decisions": [
+      {
+        "issue_date": "2018-05-24",
+        "reference": "WOOŚ-IV.515.32.2019.SSz.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "5/92 Gaston Investments Sp. z o.o. Sp. k.",
+        "address": "ul. Cybernetyki 7B, 02-677 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2019-06-01",
+    "planned_end": "2024-02-28",
+    "actual_end": "2019-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex-situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

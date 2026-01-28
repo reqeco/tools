@@ -1,0 +1,64 @@
+{
+  "registry_id": 482,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "węgrowski",
+    "municipality": "Węgrów",
+    "address": "ul. Kościuszki 140",
+    "precinct": null,
+    "parcel_numbers": [
+      "6006/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((706859.0407562694 508285.6481677657,706936.2992452122 508309.98988312855,706925.7158905792 508335.389933927,706923.5992196661 508363.96499108616,706852.161575786 508341.7399466168,706854.8074144109 508286.7065032143,706859.0407562694 508285.6481677657))",
+    "site_description": "Stacja Paliw nr 1335 w Węgrowie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 11.01.2012"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu produktami ropopochodnymi na terenie Stacji Paliw nr 1335 w Węgrowie przy ul.Kościuszki 140",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików, Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A",
+      "address": "ul. Chemików, Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2012-01-11",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2012-01-27",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - wybranie zanieczyszczonego gruntu",
+    "ecological_effect": "grunt spełnia wymagane prawem standardy",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

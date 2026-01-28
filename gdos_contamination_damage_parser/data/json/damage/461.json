@@ -1,0 +1,122 @@
+{
+  "registry_id": 461,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wołowski",
+    "municipality": "Brzeg Dolny",
+    "address": "linia kolejowa nr 273, stacja Brzeg Dolny",
+    "precinct": "obręb Brzeg Dolny",
+    "parcel_numbers": [
+      "1/4",
+      "obręb Brzeg Dolny"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((341630.18513712577987462 379973.3525483375415206, 341637.81713988422416151 379982.48565188050270081, 341619.57262268417980522 380002.27791859675198793, 341593.09922468097647652 380024.16163696255534887, 341583.87704715877771378 380013.51068298239260912, 341565.69834357593208551 380028.59355692286044359, 341548.92522177344653755 380036.77947913389652967, 341513.17007551190908998 380065.65743583161383867, 341448.25883870845427737 380119.09482331667095423, 341423.33178566861897707 380144.41638943552970886, 341426.44688951730495319 380144.86380349099636078, 341433.69664008799009025 380145.01497713569551706, 341442.06363462249282748 380157.46700997091829777, 341415.11510519066359848 380179.69710545148700476, 341410.14248197351116687 380173.51682630367577076, 341406.30527846200857311 380176.56813680473715067, 341411.42877914605196565 380182.81633860897272825, 341402.50094035267829895 380190.10565998964011669, 341399.2588509819470346 380195.74803696386516094, 341374.48457154014613479 380216.13909690547734499, 341354.67289868218358606 380232.43384626507759094, 341310.12607411888893694 380262.45125069841742516, 341300.08880543330451474 380274.89405050966888666, 341285.73994106677128002 380290.05473248288035393, 341265.81085781508591026 380307.27079339604824781, 341202.46839463640935719 380359.18733909539878368, 341189.2387946518138051 380367.71488525439053774, 341155.41401021042838693 380395.19702191278338432, 341177.96048249793238938 380421.15155959688127041, 341179.20124281826429069 380422.70415971893817186, 341207.23461896716617048 380401.58890776429325342, 341241.8573866204242222 380375.44547434523701668, 341272.9589768786681816 380352.0691408533602953, 341359.24931084521813318 380285.8544827401638031, 341406.28747394331730902 380252.32425274234265089, 341450.45938429504167289 380222.67184606473892927, 341487.4864730368135497 380193.96649126894772053, 341536.1248017109464854 380153.14679685886949301, 341586.50800666585564613 380101.7167177852243185, 341590.97434504644479603 380107.42404458019882441, 341646.0383334836224094 380052.49131606984883547, 341704.0629375345306471 380002.07681890018284321, 341730.35544725344516337 379978.65606064442545176, 341739.04705852130427957 379970.17034685611724854, 341697.46859766327543184 379921.60233487188816071, 341643.67741696129087359 379962.09231005981564522, 341630.18513712577987462 379973.3525483375415206))",
+    "site_description": "linia kolejowa nr 273, stacja Brzeg Dolny, tor nr 1 i 3 oraz międzytorze torów nr 1 – 2, 1 – 3 w km od 30, 190 – 30, 300."
+  },
+  "occurrence_time": {
+    "date": "2010-08-31",
+    "from": "2007-04-30",
+    "to": null,
+    "description": "wyciek smoły destylowanej, w wyniku kolizji pociągów należących do DB Schenker Rail Polska S.A. oraz CTL Express Sp. z o.o., w dniu 31 sierpnia 2010 r., w lokalizacji – linia kolejowa nr 273, stacja Brzeg Dolny, tor nr 1 i 3 oraz międzytorze torów nr 1 – 2, 1 – 3 w km od 30, 190 – 30, 300"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w powierzchni ziemi powstała w związku z wyciekiem smoły destylowanej (mieszanina związków o charakterze węglowodorów i ich pochodnych z przewagą węglowodorów aromatycznych) do gruntu na skutek rozszczelnienia cystern, w wyniku kolizji pociągów należących do DB Schenker Rail Polska S.A. oraz CLT Express Sp.zo.o., w lokalizacji - linia kolejowa nr 273 stacja Brzeg Dolny",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dolnośląski Wojewódzki Inspektor Ochrony Środowiska (WIOŚ)",
+      "address": "ul. Paprotna 14 51 – 117 Wrocław",
+      "legal_form": "Jednostak budżetowa"
+    },
+    {
+      "name": "PKP PLK S.A.",
+      "address": "Zakład Linii Kolejowych we Wrocławiu ul. Joannitów 13 50 – 525 Wrocław",
+      "legal_form": "spółka z grupy Polskie Koleje Państwowe"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "DB Schenker Rail Polska S.A.",
+      "address": "ul. Wolności 337 41 - 800 Zabrze",
+      "economic_activity_code": "50.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.042
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2012-04-20",
+    "detection_date": "2010-08-31",
+    "decisions": [
+      {
+        "issue_date": "2014-07-15",
+        "reference": "WSI.512.1.2012.AP.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2014-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "A.\tPrzywrócenie środowiska gruntowego do stanu właściwego w lokalizacji – linia kolejowa nr 273, stacja Brzeg Dolny, tor nr 1 i 3 oraz międzytorze torów nr 1 – 2, 1 – 3 w km  od 30, 190 – 30, 300, metodą ex-situ polegającą na zdjęciu warstwy zanieczyszczonego gruntu na powierzchni ok. 420 m2, do głębokości ok. 1 m p.p.t. na całej długości plamy,  a także do głębokości ok. 3 m p.p.t. w miejscu sondowania O-4 oraz O-8 (mapa  z naniesionymi punktami stanowi załącznik nr 2 do „Sprawozdania z badań określających stan zanieczyszczenia środowiska gruntowo – wodnego po wycieku smoły destylowanej w wyniku kolizji kolejowej w rejonie stacji kolejowej w Brzegu Dolnym” (wyk. Geotrade Sp. z o.o., listopad 2011 r.) – str. 80 w aktach sprawy), a następnie  jego oczyszczeniu lub unieszkodliwieniu poza miejscem, uzyskanych zezwoleń  na prowadzenie działalności w zakresie wytwarzania, transportu, odzysku  lub unieszkodliwiania odpadu niebezpiecznego o kodzie 17 05 03* bądź stosownej umowy z wyspecjalizowaną firmą posiadającą wymienione zezwolenia. B.\tPodczas wykonywania działań naprawczych, należy na bieżąco dokonywać oceny stanu zanieczyszczenia wydobywanych gruntów, poprzez pobór prób gleby  do badań z dna oraz ze ścian wykopu. W przypadku stwierdzenia przekroczeń standardów jakości gleby lub ziemi na wyżej wskazanych głębokościach prace wydobywcze powinny być kontynuowane aż do poziomu, na którym grunt będzie wolny od zanieczyszczeń.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,96 @@
+{
+  "registry_id": 2156,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. abpa Walentego Dymka 199, 61-066 Poznań",
+    "precinct": "Chartowo",
+    "parcel_numbers": [
+      "4/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POINT(363068.3197425106 505248.60344071407)",
+    "site_description": "Teren, na którym w przeszłości prowadzono magazynowanie surowców, odpadów."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ROMGOS GWIAZDOWSCY Sp. z o.o.",
+      "address": "ul. Zaciszna 10, 63-200 Jarocin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "4/2"
+      ],
+      "economic_activity_code": "42.21.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "150 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,161 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,155 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,168 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,144 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-01-21",
+    "legal_basis": "art. 101c POŚ",
+    "case_reference": "WSS.513.1.2025.ASB",
+    "decisions": [
+      {
+        "issue_date": "2025-03-21",
+        "reference": "WSS.513.1.2025.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

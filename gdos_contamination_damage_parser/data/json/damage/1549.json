@@ -1,0 +1,57 @@
+{
+  "registry_id": 1549,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "myszkowski",
+    "municipality": "Koziegłowy",
+    "address": "ul. Polnej 14 42-350 Winowno",
+    "precinct": "0024 Winowno",
+    "parcel_numbers": [
+      "265/1",
+      "223"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((512097.05564500001491979 298009.29544800001895055, 512097.2580360000138171 298018.20153800002299249, 512067.43220300000393763 298024.74237200000789016, 512069.43119199998909608 298125.59645800001453608, 512098.4984979999717325 298119.30829399998765439, 512110.52912000002106652 298116.93749500002013519, 512109.02638599998317659 297981.72096800000872463, 512096.9283399999840185 298000.35466599999926984, 512097.05564500001491979 298009.29544800001895055))",
+    "site_description": "Zanieczyszczenie powierzchni ziemi w obrębie działek ewidencyjnych o numerach: 265/1 i 223 obręb 0005 Myszków, położonych w rejonie ul. Polnej 14 w miejscowości Winowno, gmina Koziegłowy."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "lipiec 2021 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi w obrębie działek ewidencyjnych o numerach: 265/1 i 223 obręb 0005 Myszków, położonych w rejonie ul. Polnej 14 w miejscowości Winowno, gmina Koziegłowy.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach",
+      "address": "ul. Damrota 16 40-022 Katowice",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Justyna Litewka „CARELLI”",
+      "address": "ul. Królowej Jadwigi 2 42-300 Myszków",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-02-10",
+    "detection_date": "2021-07-20",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

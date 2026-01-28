@@ -1,0 +1,68 @@
+{
+  "registry_id": 1752,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0254,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Królewiecka 82-300 Elbląg",
+    "precinct": "0029 Elbląg",
+    "parcel_numbers": [
+      "286101_1.0029.37"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((531713.7675176312 703762.6214627875,531731.6269283511 703753.0964437369,531737.0508975312 703764.4735498186,531716.6779401212 703774.1308607971,531716.5456481911 703765.5318852672,531713.6352257011 703763.0183385797,531713.7675176312 703762.6214627875))",
+    "site_description": "Teren dawnego Państwowego Gospodarstwa Rolnego. Obecnie nieużytek."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": "Chów i hodowla bydła mlecznego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Elbląskie Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o.",
+      "address": "ul. Rawska 2-4, 82-300 Elbląg",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "286101_1.0029.37"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3,75 mg/kg s.m.",
+      "area_ha": 0.0254
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-11-24",
+    "legal_basis": "art. 101d ust. 6, 8 i 9 Poś",
+    "case_reference": "WSI.513.17.2022",
+    "decisions": [
+      {
+        "issue_date": "2023-01-26",
+        "reference": "WSI.513.17.2022.KPi,3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

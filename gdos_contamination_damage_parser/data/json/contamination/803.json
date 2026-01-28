@@ -1,0 +1,100 @@
+{
+  "registry_id": 803,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0027,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Romanowicza",
+    "precinct": null,
+    "parcel_numbers": [
+      "45/27",
+      "45/35 obr. 14 jedn. ewid. Podgórze"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((569050.2365380968 242864.30552012287,569091.7762045073 242857.29404777382,569089.9241174674 242845.38777395152,569174.7232453984 242831.10024538264,569153.8211202582 242784.66577751283,569040.0500593866 242803.71581561211,569040.0500593865 242803.84810754284,569050.2365380968 242864.30552012287))",
+    "site_description": "Teren po byłych Zakładach Elektronicznych Unitra-Telpod (później Telpod S.A.),"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja elementów elektronicznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "IMS BUDOWNICTWO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ PROJEKT 4 SPÓŁKA KOMANDYTOWA",
+      "address": "ul. Tadeusza Romanowicza 1 Kraków 30-702",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "342-557 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "5,04 [mg/kg suchej masy]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-05-11",
+    "legal_basis": "art. 61 § 1 ustawy z dnia 14 czerwca 1960r. Kodeks postępowania administracyjnego",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-06-05",
+        "reference": "ZS.513.157.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-07-16",
+        "reference": "ZS.515.8.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "IMS BUDOWNICTWO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ PROJEKT 4 SPÓŁKA KOMANDYTOWA",
+        "address": "ul. Tadeusza Romanowicza 1 Kraków 30-702",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2019-07-17",
+    "planned_end": "2019-10-31",
+    "actual_end": "2019-08-06",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia do dopuszczalnej zawartości substancji powodujących ryzyko.",
+    "ecological_effect": "Osiągnięto wartości dopuszczalne określone na I grupy gruntów i wodoprzepuszczalności >1x10-7",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

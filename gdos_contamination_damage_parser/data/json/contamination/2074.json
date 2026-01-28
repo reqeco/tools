@@ -1,0 +1,114 @@
+{
+  "registry_id": 2074,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.1509,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Jaworzno",
+    "municipality": "b.d.",
+    "address": "ul. Fryderyka Chopina w Jaworznie",
+    "precinct": "165",
+    "parcel_numbers": [
+      "246801_1.0165.3250"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((517855.67728296399582177 257889.62053571100113913, 517836.70228546700673178 257898.04983491799794137, 517777.13492050499189645 257923.78290948699577712, 517749.24404829199193045 257935.82956699401256628, 517740.72879084199666977 257939.51150752499233931, 517708.26057454297551885 257953.77818892200593837, 517694.28436069597955793 257957.13360521700815298, 517682.79862760001560673 257959.8959784549952019, 517668.76763022498926148 257962.89235524600371718, 517641.40319431200623512 257968.73584358100197278, 517609.38927004998549819 257975.8908930089964997, 517608.08161584701156244 257970.04210550099378452, 517677.66915355302626267 257954.47819924700888805, 517706.39498015400022268 257948.05680843599839136, 517741.23042485798941925 257932.94889366399729624, 517778.82794996298616752 257916.63467840201337822, 517835.10500047099776566 257892.21492688500438817, 517855.67728296399582177 257889.62053571100113913))",
+    "site_description": "Działka związana z historyczną działalnością Zakładów Chemicznych „Organika-Azot” oraz „Azot” w Jaworznie."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pestycydów i pozostałych środków agrochemicznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Skarb Państwa - Prezydent Miasta Jaworzno",
+      "address": "ul. Grunwaldzka 33 43-600 Jaworzno",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "CLIF Sp. z o.o. w upadłości",
+      "address": "ul. Józefa Piłsudskiego 53, 32-050 Skawina",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "AZO – PLAST Sp. z o.o.",
+      "address": "ul. Fryderyka Chopina 94, 43-600 Jaworzno.",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "Zakłady Chemiczne „Organika – Azot” Spółka Akcyjna",
+      "address": "ul. Fryderyka Chopina 94, 43-600 Jaworzno",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "(…)",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "(…)",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2023-11-24",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.724.2023.AH",
+    "decisions": [
+      {
+        "issue_date": "2024-11-22",
+        "reference": "WSI.513.724.2023.AH.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Działka została zgłoszona jako działka wchodząca w skład wielkoobszarowego terenu zdegradowanego, na którym jest konieczne podjęcie działań związanych z poprawą stanu środowiska. Teren Zakładów Chemicznych \"Organika-Azot\" w Jaworznie."
+}

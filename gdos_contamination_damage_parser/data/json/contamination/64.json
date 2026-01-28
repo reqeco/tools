@@ -1,0 +1,108 @@
+{
+  "registry_id": 64,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2918,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Pruszków",
+    "address": "Pruszków, ul. Sienkiewicza 19",
+    "precinct": "19",
+    "parcel_numbers": [
+      "456/2",
+      "456/3",
+      "482/3",
+      "482/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((622675.7101533927 479321.71280933544,622701.1102042076 479316.4211320868,622610.6225231717 479115.3373965854,622440.2305156238 479183.0708653908,622441.8180188048 479184.6583685698,622675.7101533927 479321.71280933544))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PROJECT PRUSZKÓW Sp. z o.o.",
+      "address": "ul. Puławska 111A/43, 02-707 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "86-2702 [mg/kg]",
+      "area_ha": 0.2918
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "290 [mg/kg]",
+      "area_ha": 0.2918
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "6,46-6,64 [mg/kg]",
+      "area_ha": 0.2918
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "279-15000 [mg/kg]",
+      "area_ha": 0.2918
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-11-05",
+    "legal_basis": "Art. 61 §1 Kpa w związku z art. 101 l Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-08-25",
+        "reference": "WSI.511.12.2014.MGł.17",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PROJECT PRUSZKÓW Sp. z o.o.",
+        "address": "ul. Puławska 111A/43, 02-707 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2016-09-01",
+    "planned_end": "2017-10-01",
+    "actual_end": "2017-05-31",
+    "method": "zmniejszenie ilości zanieczyszczeń",
+    "description": "ex-situ - wybranie zanieczyszczonego gruntu",
+    "ecological_effect": "grunt do 6m ppt sspełnia wymagane prawem standardy.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

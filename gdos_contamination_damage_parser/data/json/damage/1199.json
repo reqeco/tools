@@ -1,0 +1,126 @@
+{
+  "registry_id": 1199,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "kielecki",
+    "municipality": "Masłów, Zagnańsk",
+    "address": "nieruchomości położone w obrębie Masłów Drugi (gm.  Masłów) i  obrębie Gruszka (gm. Zagnańsk) - brak jest adresów do korespondencji",
+    "precinct": "Masłów Drugi (gm. Masłów) - dz. nr ew.: 1161, 26, 1159, 1157, 52, 50, 1153, 1155  i Gruszka (gm. Zagnańsk) - dz. nr ew.: 1030, 1031, 1033, 1034, 1042, 1043, 1045, 1046, 1090, 1094, 890/1, 1039, 1040, 1092, 1065, 1060, 1061, 1057, 1058, 1063, 1054, 1055, 1048, 1049, 1036, 1037, 1028, 1025, 1051, 1052, 1086, 1088, 1068, 1071, 1074, 1077, 1080, 1083",
+    "parcel_numbers": [
+      "1161",
+      "26",
+      "1159",
+      "1157",
+      "52",
+      "50",
+      "1153",
+      "1155",
+      "1030",
+      "1031",
+      "1033",
+      "1034",
+      "1042",
+      "1043",
+      "1045",
+      "1046",
+      "1090",
+      "1094",
+      "890/1",
+      "1039",
+      "1040",
+      "1092",
+      "1065",
+      "1060",
+      "1061",
+      "1057",
+      "1058",
+      "1063",
+      "1054",
+      "1055",
+      "1048",
+      "1049",
+      "1036",
+      "1037",
+      "1028",
+      "1025",
+      "1051",
+      "1052",
+      "1086",
+      "1088",
+      "1068",
+      "1071",
+      "1074",
+      "1077",
+      "1080",
+      "1083"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((620454.9413333781 343062.9418755807,620452.8246624772 343052.88768879976,620535.3748276129 343036.48348933086,620548.604020739 343064.0002110293,620596.7582837399 343058.7085337797,620631.6833536057 343084.1085845772,620644.3833790114 343116.3878157977,620688.3043002011 343135.9670216255,620703.6501642384 343196.29214227665,620701.0043256076 343223.80886397604,620730.1085505009 343267.2006174261,620739.6335695552 343304.7715258971,620685.6584615816 343302.654854998,620608.3999736966 343204.22965814825,620573.4749038315 343210.57967084926,620484.5747259916 343122.73782850057,620454.9413333781 343062.9418755807))",
+    "site_description": "teren obejmujący m.in. części działek oznaczonych nr ew. ew. 1161, 26, 1159, 1157, 52, 50, 1153, 1155 obręb Masłów Drugi (gm.  Masłów) oraz dz. oznaczone nr ew. 1030, 1031, 1033, 1034, 1042, 1043, 1045, 1046, 1090, 1094, 890/1, 1039, 1040, 1092, 1065, 1060, 1061, 1057, 1058, 1063, 1054, 1055, 1048, 1049, 1036, 1037, 1028, 1025, 1051, 1052, 1086, 1088, 1068, 1071, 1074, 1077, 1080, 1083 obręb Gruszka (gm. Zagnańsk) - w rejonie rzeki Lubrzanki"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Od 2015 roku do maja 2018 roku"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Odprowadzanie kwaśnych i silnie zanieczyszczonych wód opadowych z Zakładu Przeróbczego „Wiśniówka Duża” w kierunku rzeki Lubrzanki tj. na teren obejmujący m.in. części działek oznaczonych nr ew. 26, 43, 50, 52, 1156, 1157, 1159, 1161, 1162 obręb Masłów Drugi (gm.  Masłów) oraz dz. oznaczone nr ew. od 1036 do 1094 oraz 890 obręb Gruszka (gm. Zagnańsk).",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Kielcach",
+      "address": "Al. IX Wieków Kielc 3, 25-516 Kielce",
+      "legal_form": "organ administacji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Eurovia Kruszywa S.A.",
+      "address": "ul. Szwedzka 5, Bielany Wrocławskie, 55-040 Kobierzyce",
+      "economic_activity_code": "08.12.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2019-01-30",
+    "detection_date": "2018-10-29",
+    "decisions": [
+      {
+        "issue_date": "2020-05-29",
+        "reference": "WSI.511.1.2019.IŁ.16",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Kielcach",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-09-15",
+        "reference": "WSI.512.3.2018.Ił.24",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Kielcach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2020-06-01",
+    "planned_end": "2023-06-01",
+    "actual_end": "2023-06-01",
+    "method": null,
+    "description": "Remediacja terenu zanieczyszczonego przeprowadzona została metodą in-situ.  Polegała na zmieszaniu zanieczyszczonego gruntu z zeolitami w warstwie powierzchniowej (głębokość 0,0 – 0,25 m ppt) – celem adsorpcji (stabilizacji) stwierdzonych zanieczyszczeń (w miejscu ich występowania) w strukturach zeolitów.",
+    "ecological_effect": "Adsorpcja (stabilizacja) zanieczyszczeń w strukturach zeolitów, która nie jest procesem odwracalnym w naturalnych warunkach klimatycznych i geologicznych. Dzięki stabilizacji w  zeolitach metale ciężkie nie powodują zanieczyszczenia wód gruntowych, ponadto zanieczyszczenia takie nie są dostępne dla ryzosfery.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

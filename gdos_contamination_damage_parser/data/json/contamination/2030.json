@@ -1,0 +1,93 @@
+{
+  "registry_id": 2030,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "grodziski",
+    "municipality": "Milanówek",
+    "address": "ul. Królewska",
+    "precinct": "0032",
+    "parcel_numbers": [
+      "1/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((614280.6890884227 473672.1858854098,614332.2829416329 473706.97866332904,614348.819433049 473680.65256900806,614296.5641201787 473648.63792164996,614280.6890884227 473672.1858854098))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "TREI RESIDENTIAL sp. z o. o.",
+      "address": null,
+      "entity_type": null,
+      "parcels": [
+        "1/5"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Trichloroeten",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-06-25",
+    "legal_basis": "101 c ust. 3 pkt 1 POŚ",
+    "case_reference": "WOOŚ-IV.513.3.2024.PBu",
+    "decisions": [
+      {
+        "issue_date": "2024-08-08",
+        "reference": "WOOŚ-IV.513.3.2024.PBu.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TREI RESIDENTIAL sp. z o. o.",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

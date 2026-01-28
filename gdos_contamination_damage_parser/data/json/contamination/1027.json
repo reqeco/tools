@@ -1,0 +1,224 @@
+{
+  "registry_id": 1027,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.24,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Racławicka",
+    "precinct": "0016 Krzyki",
+    "parcel_numbers": [
+      "2/11",
+      "2/12",
+      "3/6",
+      "3/12",
+      "3/14",
+      "3/19",
+      "4/3",
+      "4/4",
+      "5/3",
+      "5/7",
+      "5/8",
+      "6/6",
+      "6/16",
+      "6/17",
+      "obręb Krzyki"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((358966.74234552320558578 358476.79036568570882082, 358962.08426700107520446 358487.04208500497043133, 358957.51362914638593793 358497.10768124088644981, 358952.10031126299872994 358509.01508582849055529, 358950.62475990259554237 358520.49113533739000559, 358947.85585913353133947 358540.7397011024877429, 358935.21722343331202865 358562.52084175031632185, 358932.91157064429717138 358565.79902819078415632, 358921.67481702548684552 358582.23498406633734703, 358902.7659675678005442 358631.95259104669094086, 358896.23847668117377907 358649.11730548273772001, 358898.90948087652213871 358656.17755155265331268, 358968.3826009709155187 358682.0335344485938549, 358996.77933417778695002 358692.60399178881198168, 359001.53369745193049312 358694.37177265156060457, 359002.17101523210294545 358698.16479030810296535, 359051.48146006383467466 358716.38939861673861742, 359050.93410908593796194 358713.77374824322760105, 359098.81762891472317278 358732.114702426828444, 359108.3202550356509164 358727.6211464824154973, 359111.42220331856515259 358726.15150932502001524, 359139.37545842467807233 358641.88707354664802551, 359088.62385232007363811 358622.803343809209764, 359108.12828845693729818 358564.01882300432771444, 359061.28537972801132128 358546.41145973838865757, 359062.69396348099689931 358542.66362713184207678, 359096.86715187289519235 358451.78098690696060658, 359098.09262529894476756 358448.53546759579330683, 359089.82318679650779814 358445.56786524783819914, 359075.03779572952771559 358440.22862664796411991, 359010.64814595400821418 358416.96464352123439312, 359004.59358186094323173 358414.780672169290483, 358990.84527891164179891 358423.75235137064009905, 358987.89255814690841362 358430.24720770586282015, 358977.15055255719926208 358453.88992467056959867, 358966.74234552320558578 358476.79036568570882082))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "brak działalności",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Archicom Nieruchomości 11 Sp. z o.o.",
+      "address": "ul.Ksawerego Liskiego 7  50-345 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "32,1-234 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,16-8,89 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,21-8,73 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,27-12 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,11-4,36 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,19-9,26 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,15-6,79 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,11-0,13 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,14-0,39 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "561 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "105-239 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "11,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "8,23 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "12,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,95 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,75 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "433 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "37 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "5,72 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-07-29",
+    "legal_basis": "art.61 par.4 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.9.2019.JS",
+    "decisions": [
+      {
+        "issue_date": "2019-09-02",
+        "reference": "WSI.515.9.2019.JS.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Archicom Nieruchomości 11 Sp. z o.o.",
+        "address": "ul.Ksawerego Liskiego 7  50-345 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2023-12-01",
+    "actual_end": "2024-04-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne wykonano metodą ex-situ, poprzez usunięcie zanieczyszczonego gruntu i przekazaniu go jako odpad uprawnionemu podmiotowi.",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczeń powierzchni ziemi (Dz. U. z 2016 r., poz.1395) badane parametry tj. suma węglowodorów C12-C35, składników frakcji oleju, wielopierścieniowe węglowodory aromatyczne WWA, bar, ołów, cyna i cynk nie przekraczają dopuszczalnych zawartości substancji powodujących ryzyko dla I grupy gruntów.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "WSI.515.9.2019.JS sprawozdanie WSI.501.5.2024.JR"
+}

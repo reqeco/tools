@@ -1,0 +1,154 @@
+{
+  "registry_id": 1945,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Gliwice",
+    "municipality": "Gliwice",
+    "address": "w pobliżu ul. Stalowej i Anny Jagiellonki",
+    "precinct": "Kuźnica",
+    "parcel_numbers": [
+      "246601_1.0029.13",
+      "246601_1.0029.16"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((472252.391814 276693.574046,472242.557597 276692.117092,472261.795677 276554.443653,472213.357507 276540.712539,472189.39261 276705.944491,472212.543485 276709.181391,472249.321864 276714.274013,472250.677761 276705.100794,472252.391814 276693.574046)),((472198.395417 276570.437495,472179.581327 276532.931003,472164.874848 276529.620579,472114.031134 276517.610869,472075.183178 276512.466092,472074.542647 276516.862303,472061.68819 276591.114593,472060.339141 276597.079476,472055.285762 276619.675086,472048.61176 276646.620115,472082.338873 276651.493895,472093.850302 276685.530492,472087.075216 276730.237173,472110.613286 276734.768158,472171.838379 276746.55836,472198.395417 276570.437495)))",
+    "site_description": "działki o nr ew.: 13 i 16 obręb Kuźnica w pobliżu ul. Stalowej i Anny Jagiellonki Gliwice"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1960-01-01",
+    "to": "1995-12-31",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Huta Łabędy S.A.",
+      "address": "ul. Anny Jagiellonki 45 44-109 Gliwice.",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246601_1.0029.13",
+        "246601_1.0029.16"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "41 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "3,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "55 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "6,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "58 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "7,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "564 000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "117 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-02-13",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2022 r. poz. 2556)",
+    "case_reference": "WSI.513.492.2022",
+    "decisions": [
+      {
+        "issue_date": "2023-09-01",
+        "reference": "WSI.513.492.2022.MO.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

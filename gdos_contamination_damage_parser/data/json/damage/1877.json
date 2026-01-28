@@ -1,0 +1,71 @@
+{
+  "registry_id": 1877,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "czarnkowsko-trzcianecki",
+    "municipality": "Wieleń",
+    "address": "Gieczynek 36, 64-730 Wieleń",
+    "precinct": "Gieczynek",
+    "parcel_numbers": [
+      "78/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((309486.6381325701 575989.5982129173,309443.2463787375 575922.3939118395,309568.12996302365 575877.9438229315,309567.60079526185 575951.4981367094,309486.6381325701 575989.5982129173))",
+    "site_description": "Teren zakładu \"(…)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Badania gruntu podczas kontroli WWIOŚ od 8.11. do do 8.12.2023 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchniowej warstwy ziemi związane z demontażem pojazdów wycofanych w eksploatacji",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wielkopolski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Czarna Rola 4 61-625 Poznań",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "02.40.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "132 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4982 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-02-08",
+    "detection_date": "2023-11-08",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

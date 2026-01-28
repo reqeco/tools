@@ -1,0 +1,60 @@
+{
+  "registry_id": 710,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Trąbki Wielkie",
+    "address": "Gołębiewo Średnie\t83-033",
+    "precinct": "0006 Trąbki Wielkie",
+    "parcel_numbers": [
+      "312/21 obr.Gołębiewo"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((470044.72 697271.56,470082.45 697254.54,470113.98 697253.99,470068.30 697179.82,470057.08 697178.85,470011.71 697206.41,470044.37 697271.92,470044.72 697271.56))",
+    "site_description": "stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORTEAM sp.z o.o. ul. Orzechowa 5, 80-175 Gdańsk",
+      "address": "ORTEAM sp.z o.o. ul. Orzechowa 5, 80-175 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "312/21 obr.Gołębiewo"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.138.2019.LK",
+    "decisions": [
+      {
+        "issue_date": "2019-04-08",
+        "reference": "RDOŚ-Gd-WZS.513.138.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

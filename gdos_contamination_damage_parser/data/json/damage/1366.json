@@ -1,0 +1,90 @@
+{
+  "registry_id": 1366,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "miński",
+    "municipality": "Kałuszyn",
+    "address": "nr ew. 164 obręb Ryczołek",
+    "precinct": "Ryczołek",
+    "parcel_numbers": [
+      "164"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((689975.7907966431 484822.4113105377,689981.6116416471 484746.74032586906,690091.1493616169 484782.7237311732,690082.1535102478 484859.98221902177,689975.7907966431 484822.4113105377))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na przedmiotowym obszarze prowadzono w przeszłości działalność polegającą na eksploatacji kopaliny pospolitej. Wyrobisko po eksploatacji (2014r.) zostało wypełnione ziemią pochodzącą z budowy obwodnicy miasta Mińsk Mazowiecki. Na analizowanym terenie w 2020 r. stwierdzono występowanie zanieczyszczeń powierzchni ziemi.",
+  "total_area_ha": 0.016,
+  "reporters": [
+    {
+      "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
+      "address": "ul. Wronia 53, 00-874 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 0.016
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "β-HCH",
+      "concentration": null,
+      "area_ha": 0.016
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2021-01-25",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2021-08-17",
+        "reference": "WOOŚ-IV.511.16.2021.DŚc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-05-11",
+        "reference": "WOOŚ-IV.511.16.2021.DŚc.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-10-15",
+    "planned_end": "2022-03-31",
+    "actual_end": "2022-08-01",
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "remediacja in situ- solidyfikacja z wykorzystaniem spoiwa cementowego",
+    "ecological_effect": "Remediowane grunty nie wykazują przekroczeń dopuszczalnych stężeń substancji powodujących ryzyko",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,281 @@
+{
+  "registry_id": 1445,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "świdnicki",
+    "municipality": "Świdnik",
+    "address": "ul. Metalurgiczna 11",
+    "precinct": "0001 Miasto Świdnik",
+    "parcel_numbers": [
+      "061701_1.0001.1765/128"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "tereny przemysłowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Wytwórnia Sprzętu Komunikacyjnego \"PZL-Świdnik\" S.A.",
+      "address": "al. Lotników Polskich 1, 21-045 Świdnik",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "30.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "1200-2500 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "1600-3200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "15,2-933 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "570-2000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "720-2900 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "610-1100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "3900 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "330-3800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "3200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "310-12000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "837-11000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "46-90 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "320-2200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "3186 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,2-6200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "22-7700 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "210-5100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1061-3475 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "66 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "120-11000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "554-11000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "280-6100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "5,1-25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1100-68000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3040-21092 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "8300-11000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "8,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "12 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-06-28",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.5.2021.SG",
+    "decisions": [
+      {
+        "issue_date": "2021-09-13",
+        "reference": "WSI.513.5.2021.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-01-18",
+        "reference": "WSI.515.4.2021.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Wytwórnia Sprzętu Komunikacyjnego \"PZL-Świdnik\" S.A.",
+        "address": "al. Lotników Polskich 1, 21-045 Świdnik",
+        "economic_activity_code": "30.30.Z"
+      }
+    ],
+    "planned_start": "2024-04-01",
+    "planned_end": "2034-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediację należy przeprowadzić poprzez usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko, z zastosowaniem: (a) metody ex-situ (z obszaru o powierzchni około 4210 m2 w przedziale o miąższości 0-0,10 m ppt w granicach sekcji oznaczonych w projekcie planu remediacji jako: SIV, SXIV, SXV, SXVII, na terenie planowanej elektrowni fotowoltaicznej, z obszaru o powierzchni około 580 m2 w przedziale o miąższości 0,25-1,5 m ppt w rejonie otworów: W17, W67, T12, zgodnie z zasięgiem wskazanym w projekcie planu remediacji, z obszaru o powierzchni około 150 m2 w przedziale o miąższości 1,0-2,5 m ppt w rejonie otworu T9, zgodnie z zasięgiem wskazanym w projekcie planu remediacji, z obszaru o powierzchni około 105 m2 w przedziale o miąższości 1,5-2,0 m ppt w rejonie otworu T12, zgodnie z zasięgiem wskazanym w projekcie planu remediacji, z obszaru o powierzchni około 60 m2 w przedziale o miąższości 2,0-2,5 m ppt w rejonie otworu T12, zgodnie z zasięgiem wskazanym w projekcie planu remediacji, z obszaru o powierzchni około 120 m2 w przedziale o miąższości 2,0-3,5 m ppt w rejonie otworu D13, zgodnie z zasięgiem wskazanym w projekcie planu remediacji, z obszaru o powierzchni około 5 m2 w przedziale o miąższości 0-1,2 m ppt w przebiegu ogrodzenia planowanej elektrowni fotowoltaicznej przez tereny zanieczyszczone, celem posadowienia około 56 słupków ogrodzeniowych), (b) metody in-situ z wykorzystaniem biopreparatów bakteryjnych (z obszaru o powierzchni około 880 m2 w przedziale o miąższości 0,25-1,5 m ppt w rejonie otworów: D4 oraz D4’, W16, T10, T11, zgodnie z zasięgiem wskazanym w projekcie planu remediacji, z obszaru o powierzchni około 3600 m2 w przedziale o miąższości 0,25-5,5 m ppt w rejonie otworów: D2, D3, D3’, D5, W6, W7, W9’, W9’’, W11, W30, T9, Otworów: 1, 7, 8, zgodnie z zasięgiem wskazanym w projekcie planu remediacji, z obszaru o powierzchni około 80 m2 w przedziale o miąższości 2,0-3,5 m ppt w rejonie otworów: D4’, W16, T10, T11, zgodnie z zasięgiem wskazanym w projekcie planu remediacji).",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Współrzędne określające granice całego obszaru wystąpienia zanieczyszczenia objętego decyzją Regionalnego Dyrektora Ochrony Środowiska w Lublinie z dnia 18 stycznia 2024 r., znak: WSI.515.4.2021.SG oraz postanowieniem Regionalnego Dyrektora Ochrony Środowiska w Lublinie z dnia 2 lutego 2024 r., znak: WSI.515.4.2021.SG, tj. dotyczące wpisów o nr rej.: 1441, 1442, 1443, 1444, 1445, 1446 oraz 1447 zamieszczono we wpisie o nr rej. 1441. Opis zanieczyszczeń i remediacji dot. całego obszaru wystąpienia zanieczyszczenia. W odniesieniu do części obszaru władający powierzchnią ziemi zwolniony z obowiązku przeprowadzenia remediacji na podstawie art. 101p ust. 2 ustawy Poś."
+}

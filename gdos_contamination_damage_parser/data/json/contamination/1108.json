@@ -1,0 +1,64 @@
+{
+  "registry_id": 1108,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Indyjska 7, 81-336 Gdynia",
+    "precinct": "0026",
+    "parcel_numbers": [
+      "776",
+      "801",
+      "802"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((469296.89484383905 740786.131572037,469326.5282364391 740736.3898058757,469671.5455931392 740951.7610699572,469663.0789095391 740969.7527726069,469704.88315980916 740996.2111588567,469675.77893493907 741042.2487509381,469652.49555503903 741033.2528996076,469538.195326439 740959.1694181059,469354.044958139 740842.7525186064,469360.924138559 740833.7566672871,469350.869951789 740828.9941577567,469351.399119509 740823.7024805071,469296.3656761089 740787.1899074866,469296.89484383905 740786.131572037))",
+    "site_description": "tereny portowe - produkcja konstrukcji stalowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja konstrukcji metalowych i ich części",
+    "current": "Produkcja konstrukcji metalowych i ich części"
+  },
+  "land_holders": [
+    {
+      "name": "VISTAL OFFSHORE Sp. z o.o",
+      "address": ". ul. Indyjska 7, 81-336 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "776",
+        "801",
+        "802"
+      ],
+      "economic_activity_code": "25.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-21",
+    "legal_basis": "art. 61 par. 1 i 4 z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego art. 101 c ust. 3  ustawy z dnia 27 kwietnia 2001",
+    "case_reference": "RDOŚ-Gd-WZS.513.2.2019AK.DH",
+    "decisions": [
+      {
+        "issue_date": "2019-04-04",
+        "reference": "RDOŚ-Gd-WZS.2.2019.AK.DH.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

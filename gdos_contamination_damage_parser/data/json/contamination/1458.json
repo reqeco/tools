@@ -1,0 +1,156 @@
+{
+  "registry_id": 1458,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.57,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "Rakietowa 39",
+    "precinct": "obręb 0046 Strachowice AM-15",
+    "parcel_numbers": [
+      "1/111",
+      "1/160",
+      "1/162",
+      "1/164",
+      "1/166",
+      "1/168",
+      "1/184",
+      "1/186",
+      "3/1",
+      "AM-15",
+      "obręb Strachowice"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((354428.03418851306196302 361165.33500821515917778, 354430.94889195566065609 361105.59340054169297218, 354434.44641341571696103 361033.92355938948458061, 354472.95692094537662342 361033.96225656539900228, 354504.44823294412344694 361036.75142908457200974, 354540.69039734854595736 361039.5154101894586347, 354545.47524608962703496 361040.11817374685779214, 354555.00237483181990683 361040.37181943375617266, 354564.70601282449206337 361042.57194595067994669, 354573.62484905030578375 361044.38308072404470295, 354585.74812212079996243 361045.78288475261069834, 354608.95941591123118997 361048.3234293584828265, 354609.054154668294359 361045.37656278564827517, 354635.27626624284312129 361051.21488140180008486, 354633.46077977051027119 361088.39797805115813389, 354633.01081484463065863 361097.61373899551108479, 354632.09672931244131178 361116.19807484373450279, 354630.3297370532527566 361152.2979209105251357, 354629.67562063544755802 361165.6615912199486047, 354627.97242501768050715 361200.45799989544320852, 354626.87227891496149823 361222.93405196856474504, 354626.03371290169889107 361240.158201371319592, 354625.09686661354498938 361259.28550702333450317, 354618.15885606850497425 361266.32814360753400251, 354586.05294403218431398 361264.67106427665567026, 354548.3476612736703828 361262.59936247579753399, 354538.36082968971459195 361262.18277150485664606, 354465.70755762496264651 361258.0427469530259259, 354429.7696496358839795 361256.28210016392404214, 354423.61511726526077837 361255.87073978327680379, 354424.08538187691010535 361246.25110889878123999, 354486.21070946613326669 361248.69943095388589427, 354526.91480746195884421 361250.30355514487018809, 354538.95776061934884638 361250.77816073596477509, 354540.06074725446524099 361229.77383645850932226, 354540.99074881005799398 361212.06369054107926786, 354543.07418273674556985 361169.8627870722557418, 354508.48324458330171183 361168.50134647521190345, 354456.07369608886074275 361166.43859562772559002, 354428.21644044958520681 361165.34218134195543826, 354428.03418851306196302 361165.33500821515917778))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Transport lotniczy pasażerski",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "REDECO Sp. z o. o.",
+      "address": "ul. Gen. Hallera 81a Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-03-03",
+    "legal_basis": "art.61 par.4 Kpa",
+    "case_reference": "WSI.515.8.2020.KMA",
+    "decisions": [
+      {
+        "issue_date": "2021-01-27",
+        "reference": "WSI.515.8.2020.KMA.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

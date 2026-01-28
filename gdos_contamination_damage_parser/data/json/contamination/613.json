@@ -1,0 +1,70 @@
+{
+  "registry_id": 613,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Nowy Staw",
+    "address": "Mickiewicza 16 Nowy Staw",
+    "precinct": "0005 Nowy Staw",
+    "parcel_numbers": [
+      "62/25\t1",
+      "62/26\t1",
+      "62/27\t1",
+      "62/29\t1",
+      "2/28\t         5",
+      "Nowy Staw"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((500189.84 696648.45,500332.10 696672.23,500341.91 696626.44,500326.49 696621.89,500283.75 696592.52,500267.28 696591.12,500245.90 696599.16,500232.24 696613.50,500204.56 696618.74,500181.43 696611.05,500190.54 696648.45,500189.84 696648.45)) POLYGON((500332.10 696671.88,500348.92 696677.13,500346.46 696669.79,500359.08 696645.32,500360.13 696633.43,500424.26 696637.98,500430.91 696637.98,500433.37 696632.04,500365.74 696627.49,500359.78 696632.03,500346.81 696669.09,500348.57 696676.43,500332.10 696672.23,500341.91 696626.79,500360.13 696629.24,500348.22 696676.78,500348.22 696676.08,500332.10 696671.88)) POLYGON((500351.37 696605.46,500363.99 696606.16,500364.69 696604.07,500366.79 696603.02,500385.73 696449.54,500390.63 696436.96,500399.39 696427.87,500415.16 696414.59,500472.63 696400.96,500665.02 696362.17,500682.54 696362.53,500691.65 696363.93,500699.01 696345.40,500673.08 696343.65,500665.02 696343.99,500442.15 696388.37,500431.99 696383.47,500419.37 696356.55,500397.65 696360.40,500400.80 696364.59,500411.31 696386.62,500406.76 696398.15,500362.95 696463.18,500348.22 696604.76,500349.97 696605.81,500351.37 696605.46))",
+    "site_description": "obwodnica miasta"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": "Produkcja cukru",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Nowy Staw",
+      "address": "ul. Gen. J. Bema 1 82-230 Nowy Staw",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "62/25\t1",
+        "62/26\t1",
+        "62/27\t1",
+        "62/29\t1",
+        "2/28\t         5",
+        "Nowy Staw"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.37.2019LK.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.37.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

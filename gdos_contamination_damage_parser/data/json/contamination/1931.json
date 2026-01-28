@@ -1,0 +1,105 @@
+{
+  "registry_id": 1931,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.62,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "al. W. Korfantego w Katowicach",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "246901_1.0002.AR_6.4/475"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((501355.36 268692,501386.48 268613.11,501429.22 268502.1,501387.99 268486.03,501386.38 268485.44,501386.37 268484.96,501371.44 268479.51,501371.09 268479.34,501365.49 268495.13,501391.73 268504.83,501392.14 268504.99,501364.29 268579,501353.03 268608.74,501354.18 268618.34,501356.17 268635.07,501356.75 268640.09,501357.2 268643.88,501358.63 268656.17,501350.8 268677.12,501330.62 268669.68,501326.02 268682.15,501346.12 268689.48,501351.24 268691.39,501352.27 268690.87,501355.36 268692))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 1970 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": "Sprzedaż hurtowa zegarków, zegarów i biżuterii"
+  },
+  "land_holders": [
+    {
+      "name": "Przedsiębiorstwo Handlowe HERMES Sp. z o.o.",
+      "address": "ul. Leopolda 31  40-189 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "46.48.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "mg/kg s.m.136",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "mg/kg s.m.21600",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "mg/kg s.m.159",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.5600",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-14",
+    "legal_basis": "101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2022 r., poz. 2556 ze zm.)",
+    "case_reference": "WSI.513.121.2019.MB1",
+    "decisions": [
+      {
+        "issue_date": "2022-03-10",
+        "reference": "WSI.513.121.2019.MB1.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-05-29",
+        "reference": "WSI.516.9.2024.AH.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2022-03-28",
+      "reason": "Podstawą wpisu są wysokie stężenia badanych substancji w nasypach, na których potencjalnie może wykształcić się gleba antropogeniczna.  W uzasadnieniu napisano, iż w omawianym przypadku nie ma możliwości kształtowania się na powierzchni utwardzonej nasypów gleb antropogenicznych, o których mowa w decyzji.",
+      "appealed_decision_reference": "WSI.513.121.2019.MB1.5",
+      "resolution_reference": "DOA-WSzOP.513.4.2022.AP",
+      "appellant_name": "Hermes Sp. z o.o.",
+      "appellant_address": "ul. Leopolda 31,  40-189, Katowice",
+      "resolution_date": "2023-11-07",
+      "reviewing_authority": "Generalna Dyrekcja Ochrony Środowiska w Katowicach",
+      "resolution_content": "Utrzymanie w mocy zaskarżonej decyzji."
+    }
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

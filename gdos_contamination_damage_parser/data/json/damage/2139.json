@@ -1,0 +1,72 @@
+{
+  "registry_id": 2139,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "piotrkowski",
+    "municipality": "Wola Krzysztoporska",
+    "address": "m. Siomki",
+    "precinct": "0036 Siomki",
+    "parcel_numbers": [
+      "189"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((542364.2139584858 387671.8257775977,542365.8014616657 387685.84872230794,542398.0806928857 387689.02372865845,542442.5307817857 387703.04667337704,542541.4851463658 387721.3029598873,542519.5246857759 387600.1235508565,542457.6120619457 387634.78403684776,542423.4807436859 387651.45282018743,542364.2139584858 387671.8257775977))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2025-05-26",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi na skutek magazynowania odpadów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Łodzi, Delegatura w Piotrkowie Trybunalskim",
+      "address": "ul. Bawełniana 18, 97-300 Piotrków Trybunalski",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-07-04",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,107 @@
+{
+  "registry_id": 1668,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "nidzicki",
+    "municipality": "Nidzica",
+    "address": null,
+    "precinct": "0001",
+    "parcel_numbers": [
+      "23/3",
+      "307",
+      "308",
+      "309"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((593742.439202706 612634.582388782,593749.8475508568 612586.9572935319,593712.8058101017 612583.253119451,593705.3974619503 612523.4571665302,593792.7101365929 612558.9114041012,593796.9434783933 612520.2821601797,593757.7850667376 612510.757141131,593771.5434275895 612443.0236723302,593866.2644503727 612377.4068744294,593957.2812990856 612349.890152731,593949.8729509345 612366.2943521999,593962.0438086163 612363.1193458503,593993.2647043907 612362.5901781283,593965.218814967 612489.0612643976,593961.5146408869 612653.6324268784,593955.1646281864 612712.3700443488,593934.2492738537 612903.267301159,593912.0242294008 612901.150630259,593914.6700680209 612890.5672757598,593797.1948330542 612878.396418089,593810.4240261858 612729.7002873607,593816.7740388865 612730.2294550911,593818.3615420569 612702.7127333917,593893.5033590174 612711.7085847091,593895.0908621977 612708.5335783577,593934.7784415733 612713.2960878881,593935.8367770235 612704.3002365576,593815.7157034363 612690.5418757088,593819.4198775068 612665.6709926408,593828.4157288381 612667.2584958104,593830.0032320084 612658.2626444912,593779.7322981312 612650.325128613,593772.8531177002 612685.2501984611,593756.9780859479 612685.7793661915,593763.3280986487 612638.6834386606,593743.7488928261 612634.97926459,593742.439202706 612634.582388782))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Zidentyfikowane przez Starostę Nidzickiego potencjalne historyczne zanieczyszczenie powierzchni ziemi jest związane z z funkcjonowaniem przed 30.04.2007 r. instalacji do produkcji wełny mineralnej i papy. W latach 1965-2000 Izolacja S.A. eksploatowała dwie linie technologiczne produkcji wełny mineralnej. 1 kwietnia 2004 rozpoczęto remont istniejącej linii technologicznej. Data ta stanowi jednocześnie rozpoczęcie działalności produkcyjnej ISOROC POLSKA S.A."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja włókien szklanych",
+    "current": "Produkcja włókien szklanych"
+  },
+  "land_holders": [
+    {
+      "name": "ISOROC POLSKA S.A. w likwidacji",
+      "address": "ul. Leśna 30 13-100 Nidzica",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "23/3",
+        "307",
+        "308",
+        "309"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "76-500 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1100-38000 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-07-22",
+    "legal_basis": "101d ust. 6, 8 i 9 Poś",
+    "case_reference": "WSI.513.1.2022.JJ",
+    "decisions": [
+      {
+        "issue_date": "2022-10-28",
+        "reference": "WSI.513.1.2022.JJ.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101c ust. 3 pkt 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-12-27",
+        "reference": "WSI.515.2.2024.JJ.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ISOROC POLSKA S.A. w likwidacji",
+        "address": "ul. Leśna 30 13-100 Nidzica",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-02-01",
+    "planned_end": "2025-08-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja zostanie przeprowadzona w sposób polegający na usunięciu zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko (tj. zgodnie z art. 101q ust. 1 pkt 1 ustawy Prawo ochrony środowiska). Prace remediacyjne środowiska gruntowego będą prowadzone metodą ex-situ, która polega na kontrolowanym wydobyciu i usunięciu z terenu wymagającego przeprowadzenia remediacji całości zanieczyszczonych gruntów zalegających na głębokości przekraczającej 0,25 m ppt (maksymalnie do głębokości 5,0 m ppt) i na łącznej powierzchni około 290 m2, o objętości łącznej około 642 m3,o łącznej masie oszacowanej na około 1155,64 Mg.  Zanieczyszczone grunty, niespełniające standardów określonych dla gruntów grupy IV, po ich wydobyciu należy traktować jako odpad. Odpady zostaną sklasyfikowane przez wytwórcę odpadów zgodnie z rozporządzeniem Ministra Klimatu z dnia 2 stycznia 2020 r. w sprawie katalogu odpadów (Dz. U. z 2020 r., poz. 10). Zanieczyszczone grunty zostaną następnie załadowane na samochody przystosowane do transportu odpadów i przekazane do przetworzenia (odzysku) lub zagospodarowania zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm.). Na potwierdzenie przekazania odpadów uprawnionym odbiorcom wystawione zostaną karty przekazania odpadów.  W celu uniknięcia nadmiernego i nieuzasadnionego wydobywania ziemi, która nie jest zanieczyszczona, konieczne będzie czasowe zdjęcie i zabezpieczenie górnych warstw ziemi  z głębokości od 0,5 m do 3,0 m ppt",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,176 @@
+{
+  "registry_id": 561,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2549,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "kościański",
+    "municipality": "Kościan (gmina wiejska)",
+    "address": "ul. Dworcowa, 64-000 Widziszewo",
+    "precinct": null,
+    "parcel_numbers": [
+      "127/15",
+      "obręb 0032 Widziszewo"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((335559.79890165164 465831.68143966235,335531.09155247896 465805.8845130736,335598.29585377825 465750.18961001094,335626.07715943747 465775.32507695165,335559.79890165164 465831.68143966235))",
+    "site_description": "Teren nieużytkowany"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Teren obecnie nie jest użytkowany, w przeszłości w jego północnej części funkcjonowała stacja paliw."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "\"DINO POLSKA\" S.A.",
+      "address": "ul. Ostrowska 122, 63-700 Krotoszyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,03 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzen",
+      "concentration": "0,15 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,126 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,294 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,411 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,39 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "3,52 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,406 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,49 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "4,82 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,68 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,89 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "2,29 mg/kg s.m.",
+      "area_ha": 0.2549
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "606 mg/kg s.m.",
+      "area_ha": 0.002
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-09-24",
+    "legal_basis": "art. 101l ust. 4 i art. 101p ust. 2 ustawy Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-11-08",
+        "reference": "WSS.515.29.2018.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "\"DINO POLSKA\" S.A.",
+        "address": "ul. Ostrowska 122, 63-700 Krotoszyn",
+        "economic_activity_code": "47.11.Z"
+      }
+    ],
+    "planned_start": "2018-12-12",
+    "planned_end": "2019-03-29",
+    "actual_end": "2019-02-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona metodą ex-situ oraz in-situ. Z całego terenu działki 127/15 o powierzchni zanieczyszczenia ok. 2.549 m2 usunięty został zanieczyszczony grunt do głębokości 0,25 m ppt, w miejscu sondowania nr P4-2 w przedziale głębokości 0,25 do 1 m ppt został wybrany grunt zanieczyszczony cynkiem. Zagospodarowanie powstałych odpadów należało prowadzić zgodnie z przepisami o odpadach. Powstałe wykopy zasypane ziemią wolną od zanieczyszczeń, przy czym zasypanie nastąpiło po uzyskaniu wyników pobranych próbek gleby z dna i ścian wykopów wskazujących na spełnianie norm jakości gleby i ziemi. Na części działki, w szczególności na terenie, na którym zlokalizowana była stacja paliw, został dodatkowo zaaplikowany preparat bakteryjny posiadający atest higieniczny Państwowego Zakładu Higieny, celem zintensyfikowania procesu remediacji in-situ.",
+    "ecological_effect": "Remediacja terenu przy ul. Dworcowej w Widziszewie została przeprowadzona zgodnie z ustalonym planem remediacji, a wyniki badań pobranych próbek gleby wskazują, że osiągnięto założony efekt ekologiczny, zatem remediację przedmiotowego terenu uznano za zakończoną.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

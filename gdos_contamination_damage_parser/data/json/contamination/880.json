@@ -1,0 +1,76 @@
+{
+  "registry_id": 880,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "Ujastek 1",
+    "precinct": "20 Nowa Huta",
+    "parcel_numbers": [
+      "1/82"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((577861.3189402964 247046.446405679,577868.9918723067 247052.79641837906,577870.0502077568 247058.0880956296,577968.2108207494 247090.102742997,577982.7629331899 247072.6402080683,577980.9108461499 247071.58187261876,577986.7316911201 247063.37977287825,577898.6252649075 246996.44005566835,577861.3189402964 247046.446405679))",
+    "site_description": "teren Huty  Arcelor Mittal"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Obróbka metali i nakładanie powłok na metale",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Arcelor Mittal Polska S.A",
+      "address": "Ujastek 1, 30-949 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-22",
+    "legal_basis": "art. 61 § Kodeks postępowania administracyjnego",
+    "case_reference": "ZS.513.13.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2019-08-01",
+        "reference": "ZS.513.13.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Arcelor Mittal Polska S.A",
+        "address": "Ujastek 1, 30-949 Kraków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

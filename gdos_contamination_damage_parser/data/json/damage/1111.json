@@ -1,0 +1,88 @@
+{
+  "registry_id": 1111,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "dębicki",
+    "municipality": "Dębica (gmina miejska)",
+    "address": "ul. Leśna 12, 29-200 Dębica",
+    "precinct": "0004 Dębica",
+    "parcel_numbers": [
+      "180301_1.0004.2318",
+      "180301_1.0004.2317/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((671512.32999999995809048 243834.51399999999557622, 671517.02099999994970858 243791.14600000000791624, 671519.69700000004377216 243760.68499999999767169, 671518.07099999999627471 243731.36910000001080334, 671485.74199999996926636 243743.1939999999885913, 671483.07999999995809048 243773.51600000000325963, 671460.08299999998416752 243823.40499999999883585, 671478.38000000000465661 243827.28500000000349246, 671478.95600000000558794 243831.20000000001164153, 671479.61100000003352761 243833.23800000001210719, 671482.42599999997764826 243833.08300000001327135, 671486.14300000004004687 243833.94299999999930151, 671486.22699999995529652 243846.84599999999045394, 671493.99899999995250255 243847.17399999999906868, 671493.90700000000651926 243850.26199999998789281, 671498.80299999995622784 243850.40299999999115244, 671498.856000000028871 243847.30389999999897555, 671504.58200000005308539 243847.49799999999231659, 671506.6840000000083819 243847.78400000001420267, 671508.33400000003166497 243848.52799999999115244, 671509.37899999995715916 243849.47599999999511056, 671512.32999999995809048 243834.51399999999557622))",
+    "site_description": "B - tereny mieszkaniowe (blok mieszkalny)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2018-05-14",
+    "to": null,
+    "description": "Prace termoizolacyjne prowadzone od połowy maja 2018 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "Niszczenie siedlisk gatunku chronionego - zamurowanie otworów wentylacyjnych licznie zasiedlonych przez jerzyki (Apus apus), wskutek prowadzenia prac termoizolacyjnych na budynku zlokalizowanym przy ul. Leśnej 12 w Dębicy",
+  "total_area_ha": 0.4214,
+  "reporters": [
+    {
+      "name": "Pan (…) Prezes Małopolskiego Towarzystwa Ornitologicznego",
+      "address": "Skrytka pocztowa 22, 30-309 Kraków 11",
+      "legal_form": "jednostka organizacyjna nie mająca osobowości prawnej"
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "SPÓŁDZIELNIA MIESZKANIOWA W DĘBICY",
+      "address": "ul. Kolejowa 29 39-200 Dębica",
+      "economic_activity_code": "43.99.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "jerzyk (Apus apus)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2018-07-18",
+    "detection_date": "2018-07-13",
+    "decisions": [
+      {
+        "issue_date": "2018-10-23",
+        "reference": "WSI.512.4.2.2018.AF.19",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-07-01",
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Działania zapobiegawcze: Na elewacji zachodniej nakazano wstrzymanie prac dociepleniowych do czasu zakończenia lęgu przez jerzyka (potwierdzonego po uprzedniej kontroli ornitologicznej), zaś na ścianie wschodniej nakazano zdjęcie rusztowań do wysokości I piętra, zezwalając na kontynuowanie prac w obrębie fundamentów i parteru budynku. Zalecono prowadzenie dalszych prac pod nadzorem ornitologicznym. Pozostawiono i zabezpieczono otwory prowadzące do stropodachu, w celu zachowania ich dostępności dla ptaków.",
+    "ecological_effect": "Stan, w którym siedlisko może zostać odtworzone przez ptaki w liczbie gniazd wystarczającej dla bytującej populacji.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "Sprawa znak: WSI.512.4.2.2018.AF"
+}

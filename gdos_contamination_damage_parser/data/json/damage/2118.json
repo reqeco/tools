@@ -1,0 +1,93 @@
+{
+  "registry_id": 2118,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "pabianicki",
+    "municipality": "Ksawerów",
+    "address": "ul. Skromna 13 w Ksawerowie",
+    "precinct": "0010",
+    "parcel_numbers": [
+      "509/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((528387.4406696904 422502.34019128047,528428.1865845204 422488.84641429223,528423.2917830603 422471.9130470902,528381.7521166503 422485.8036998715,528387.4406696904 422502.34019128047))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2025-03-31",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi z uwagi na gromadzenie odpadów w miejscu nieprzeznaczonym do ich składowania lub magazynowania",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Łodzi",
+      "address": "ul. Lipowa 16, 90-743 Łódź",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1490 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "8,3±2,5 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1606 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "606 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "23±7 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "56±20 mg/kg s.m",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-05-07",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

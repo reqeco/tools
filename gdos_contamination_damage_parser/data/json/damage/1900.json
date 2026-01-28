@@ -1,0 +1,89 @@
+{
+  "registry_id": 1900,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "gołdapski",
+    "municipality": "Gołdap",
+    "address": "Niedrzwica ul. Ekonomiczna 5 19-500 Gołdap",
+    "precinct": "Bałupiany",
+    "parcel_numbers": [
+      "281803_5.0001.224/71"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((713665.0014133113 723553.000011567,713677.0014139073 723572.0000115773,713675.0014138208 723575.0000115763,713663.0014132317 723559.0000115642,713665.0014133113 723553.000011567))",
+    "site_description": "Zakład IRYD Sp. z o.o. Specjalizuje się w produkcji wyrobów metalowych oraz wyrobów metalowych z elementami drzewnymi (pojemniki transportowe, wózki transportowe, konstrukcje stalowe, wykorzystywane w łańcuchach logistycznych oraz ich naprawie). Działalność na tym terenie prowadzi od 2002 r. Na terenie dz. nr 224/71 znajduje się instalacja cynkowania ogniowego o wydajności maksymalnej 8 Mg/h wsadu stalowego."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": "2007-04-30",
+    "description": "Za datę uruchomienia instalacji cynkowania ogniowego przyjęto dzień wydania przez Państwowego Inspektora Nadzoru Budowlanego pozwolenia na użytkowanie obiektu (decyzja z 27.07.2006 r., znak: PINB 7353-41/G/06). Stwierdzone na terenie nieruchomości nr 224/71  zanieczyszczenie powierzchni ziemi cynkiem jest następstwem działalności instalacji cynkowania ogniowego. Przedmiotowa działalność była prowadzona na tym terenie zarówno przed 30 kwietnia 2007 r., jak i jest kontynuowana po tej dacie."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi cynkiem będące następstwem funkcjonowania instalacji cynkowania ogniowego",
+  "total_area_ha": 0.0081,
+  "reporters": [
+    {
+      "name": "Marszałek Województwa Warmińsko-Mazurskiego",
+      "address": "Departament Ochrony Środowiska ul. Głowackiego 17 10-447 Olsztyn",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "IRYD Sp. z o.o.",
+      "address": "Niedrzwica ul. Ekonomiczna 5 19-500 Gołdap",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "6010 mg/kg s.m.",
+      "area_ha": 0.0081
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2024-04-23",
+    "detection_date": "2023-07-05",
+    "decisions": [
+      {
+        "issue_date": "2025-02-26",
+        "reference": "WSI.511.4.2024.KPi.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 13 ust. 3 pkt 2 ustawy o zapobieganiu szkodom w środowisku i ich naprawie",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-03-21",
+        "reference": "WSI.512.3.2024.KPi.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "105 § 1 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2025-07-01",
+    "planned_end": "2025-08-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja będzie prowadzona metodą ex-situ, która polega na wydobyciu zanieczyszczonego gruntu z miejsca jego występowania i przekazaniu go uprawnionemu podmiotowi zgodnie z przepisami ustawy  z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm.). Kubatura zanieczyszczonego gruntu wynosi ok. 21 m3 (81 m2 x 0,25 m), co przy założeniu średniego ciężaru objętościowego na poziomie 1,2 Mg/m3 daje masę ok. 25,2 Mg. Z dna wykopu powstałego po wybraniu zanieczyszczonych gruntów zostaną pobrane 2 pojedyncze próbki kontrolne do analiz laboratoryjnych. Analizy zostaną wykonane w zakresie zawartości substancji, której przekroczenie spowodowało obowiązek przeprowadzenia remediacji (cynk). Następnie wykop zostanie uzupełniony gruntem wolnym od zanieczyszczeń (spełniającym wymagania jakościowe przewidziane dla gruntów grupy IV, określone w rozporządzeniu w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi), co również zostanie potwierdzone stosownymi badaniami. Grunt zasypowy zostanie przebadany w zakresie zawartości substancji powodujących ryzyko szczególnie istotne dla ochrony powierzchni ziemi (1 próbka).  Zanieczyszczony grunt, niespełniający standardów określonych dla gruntów grupy IV, po wydobyciu należy traktować jako odpad. Odpady zostaną sklasyfikowane przez wytwórcę odpadów zgodnie z rozporządzeniem Ministra Klimatu z dnia 2 stycznia 2020 r. w sprawie katalogu odpadów (Dz. U. z 2020 r. poz. 10), a następnie załadowane na samochody przystosowane do transportu odpadów i przekazane do przetworzenia (odzysku) lub zagospodarowania zgodnie z przepisami ustawy o odpadach. Na potwierdzenie przekazania odpadów uprawnionym odbiorcom wystawione zostaną karty przekazania odpadów.",
+    "ecological_effect": "Środowisko gruntowe na głębokości 0-0,25 m ppt zanieczyszczone jest cynkiem (6010 mg/kg s.m.). Po przeprowadzeniu remediacji stężenie ww. substancji odpowiadać będzie co najmniej jej dopuszczalnej zawartości w glebie i ziemi, określonej w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395, z późn. zm.) dla gruntów grupy IV. Zawartość cynku w glebie i w ziemi na głębokości 0-0,25 m ppt nie będzie zatem przekraczać 2000 mg/kg s.m.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

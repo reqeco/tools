@@ -1,0 +1,103 @@
+{
+  "registry_id": 1242,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Daleka  82-300 Elbląg",
+    "precinct": "0030 miasto Elbląg",
+    "parcel_numbers": [
+      "21/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532030.4920413212 701329.7948943796,531988.1586233213 701263.6489287587,531995.5669714712 701204.3821435589,532135.7964185913 701148.8195324279,532140.0297603915 701159.9320546584,532166.4881466413 701148.2903647069,532176.0131656914 701159.4028869262,532194.5340360713 701153.5820419574,532180.2465074913 701119.7153075589,532210.9382355411 701100.1361017292,532227.3424350214 701141.9403520087,532236.3382863413 701139.2945133792,532249.5674794713 701168.3987382585,532108.8088646214 701238.7780456794,532126.2713995413 701278.994792778,532074.9421302214 701286.4031409305,532073.8837947713 701278.4656250579,532029.4337058712 701330.8532298291,532029.4337058712 701330.8532298291,532032.0795444913 701328.7365589291,532030.4920413212 701329.7948943796))",
+    "site_description": "W przeszłości na tym terenie funkcjonowało Państwowe Gospodarstwo Rolne (PGR Stagniewo)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Kościół Rektoralny pw. Matki Bożej Fatimskiej i Św. Jana Pawła II",
+      "address": "ul. Daleka 9 82-300 Elbląg",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "21/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "82 i 96 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,35 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,13-0,34 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,12-0,23 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,16-0,32 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,13 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-12",
+    "legal_basis": "art. 101d ust. 6,8,9 POŚ",
+    "case_reference": "WSI.513.28.2020.KPi",
+    "decisions": [
+      {
+        "issue_date": "2021-03-03",
+        "reference": "WSI.513.28.2020.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

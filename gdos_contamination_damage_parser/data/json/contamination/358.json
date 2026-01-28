@@ -1,0 +1,133 @@
+{
+  "registry_id": 358,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Sapieżyńska 10",
+    "precinct": "5-02-05",
+    "parcel_numbers": [
+      "12/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636572.6335839673 489384.3662677733,636575.8085903208 489379.0745905237,636573.1627516979 489376.4287518924,636594.3294607208 489344.14952067286,636648.3045687326 489376.95791962184,636627.6670274304 489412.94132492226,636611.2628279416 489402.88713815156,636602.2669766019 489416.6454990022,636591.6836220898 489410.82465402223,636596.4461316249 489400.24129952304,636572.6335839673 489384.3662677733))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "AFI PROJECT 2 Sp. z o.o.",
+      "address": "ul. Bobrzyńskiego 37 30-348 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,639-0,828 [mg/kg]",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,107-0,727 [mg/kg]",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,103-0,131 [mg/kg]",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,132-0,805 [mg/kg]",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,138-0,705 [mg/kg]",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,155-0,754 [mg/kg]",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,411-0,491 [mg/kg]",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,370-0,464 [mg/kg]",
+      "area_ha": 0.3
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-02-16",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.12.2018",
+    "decisions": [
+      {
+        "issue_date": "2018-05-25",
+        "reference": "WSI.515.12.2018.SSz.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "AFI PROJECT 2 Sp. z o.o.",
+        "address": "ul. Bobrzyńskiego 37 30-348 Kraków",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-06-01",
+    "planned_end": "2022-03-31",
+    "actual_end": "2023-06-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

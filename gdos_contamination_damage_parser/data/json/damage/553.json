@@ -1,0 +1,95 @@
+{
+  "registry_id": 553,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "łaski",
+    "municipality": "Łask",
+    "address": "ul. Objazdowa 10, Łask",
+    "precinct": "0014",
+    "parcel_numbers": [
+      "62",
+      "63/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((509279.9881127582048066 414215.48209395969752222, 509290.9081040007295087 414204.87410246697254479, 509304.63609299133531749 414192.39411247550742701, 509277.49211475992342457 414138.73015551216667518, 509274.37211726204259321 414140.60215401090681553, 509296.21209974709199741 414184.2821189810638316, 509290.28410450118826702 414190.21011422696756199, 509287.78810650284867734 414188.96211522782687098, 509285.29210850456729531 414189.58611472742632031, 509248.47613802971318364 414096.92218904074979946, 509242.54814278380945325 414084.44219904928468168, 509232.25215104082599282 414089.74619479564717039, 509265.94812401779927313 414200.19410622015129775, 509266.57212351734051481 414203.62610346783185378, 509267.19612301693996415 414206.1221014661132358, 509272.18811901350272819 414202.69010421849088743, 509276.55611551052425057 414203.31410371803212911, 509275.62011626118328422 414210.80209771293448284, 509279.9881127582048066 414215.48209395969752222))",
+    "site_description": "Stacji Paliw Nr 382 w Łasku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed styczniem 2013 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "zanieczyszczenie środowiska gruntowo-wodnego na terenie Stacji Paliw nr 382 w Łasku",
+  "total_area_ha": 0.015,
+  "reporters": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "500-6500 mg/kg suchej masy",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2000-3900 mg/kg suchej masy",
+      "area_ha": 0.015
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-04-25",
+    "detection_date": "2013-01-24",
+    "decisions": [
+      {
+        "issue_date": "2013-06-25",
+        "reference": "WSI.511.9.2013.AR.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2015-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięto zanieczyszczenie metodą insitu (odpompowywanie zanieczyszczeń z piezometru)",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

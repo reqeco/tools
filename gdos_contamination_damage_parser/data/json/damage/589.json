@@ -1,0 +1,65 @@
+{
+  "registry_id": 589,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "ul. Szczecińska 20, Łódź",
+    "precinct": "B-35",
+    "parcel_numbers": [
+      "1/12",
+      "79/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((525339.17829235247336328 437537.88898085220716894, 525366.04617741808760911 437521.62987443915335461, 525365.93086460663471371 437520.47674632474081591, 525375.73245357908308506 437515.63360824424307793, 525357.51302937150467187 437487.38196944136871025, 525354.63020908541511744 437485.30633883544942364, 525351.17082474229391664 437483.69195947528351098, 525347.59612758760340512 437483.11539541807724163, 525341.36923576984554529 437484.96040040114894509, 525314.50135070423129946 437493.14761001343140379, 525339.17829235247336328 437537.88898085220716894))",
+    "site_description": "Stacja Paliw nr 541 w Łodzi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed wrześniem 2013 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "punktowe zanieczyszczenie gleby produktami naftowymi w obrębie na stacji paliw",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2013-09-10",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "inne działania tj. działania zapobiegawcze, o których mowa w art. 6 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+    "description": "usunięto zanieczyszczenie metodą exsitu",
+    "ecological_effect": "doprowadzono do standardów jakości gleby dla gruntów grupy C według rozporządzenia Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1395) w zakresie substancji ropopochodnych",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

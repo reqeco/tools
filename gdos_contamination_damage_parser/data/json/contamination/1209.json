@@ -1,0 +1,51 @@
+{
+  "registry_id": 1209,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Skórcz (gmina wiejska)",
+    "address": "Czarnylas 22A, 83-213 Pączewo",
+    "precinct": "Czarnylas",
+    "parcel_numbers": [
+      "189/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((466226.71662003826 663605.6959611867,466311.3834560384 663530.2895603776,466380.1752602883 663423.1330960561,466488.6546439184 663448.2685629968,466702.9675725384 663740.6337310681,466708.2592497885 663843.8214374371,466774.40521541855 663841.1755988179,466759.85310297855 664034.3218184374,466816.7386334186 664044.9051729375,466810.1240368485 664202.3325711265,466747.94682916836 664181.1658621281,466754.56142572855 664122.957412377,466657.9883159184 664081.9469136884,466659.31123522844 664062.1031239964,466650.0508000384 664062.1031239973,466648.7278807285 663919.227838248,466619.6236558484 663919.227838248,466616.9778172284 663935.1028699959,466556.1235288484 663933.7799506877,466554.8006095384 663902.0298871873,466562.7381254184 663880.863178187,466552.1547709184 663743.2795696864,466431.7691134783 663782.9671490658,466226.71662003826 663605.6959611867))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Krajowy Ośrodek Wsparcia Rolnictwa",
+      "address": "ul. Powstańców Warszawy 28, 83-000 Pruszcz Gdański",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "189/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

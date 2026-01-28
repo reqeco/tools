@@ -1,0 +1,69 @@
+{
+  "registry_id": 1111,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "Starochwaszczyńska, 81-571 Gdynia",
+    "precinct": "0027 Wielki Kack",
+    "parcel_numbers": [
+      "471"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((465136.7633985176 733108.4370499114,465160.5759461476 733157.12048061,465253.70946574764 733111.6120562628,465230.4260858478 733060.8119546622,465136.7633985176 733107.3787144609,465136.7633985176 733108.4370499114))",
+    "site_description": "tereny po byłej fabryce farb; teren dawnej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "471"
+      ],
+      "economic_activity_code": "-"
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "471"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-29",
+    "legal_basis": "61 par. 1 i par. 4 ustawy z dnia 14 czerwca 1960 r. Kodeksu pPostępowania administracyjnego w związku z art. 101c ust. 3 pkt. 1 ustawy z dnia 27 kwietnia 2001 Prawo ochrony Środowiska",
+    "case_reference": "RDOŚ-Gd-WZS.513.164.2019.TW.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-15",
+        "reference": "RDOŚ-Gd-WZS.513.164.2019.TW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

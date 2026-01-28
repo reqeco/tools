@@ -1,0 +1,76 @@
+{
+  "registry_id": 920,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": null,
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.795/100"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((533043.8682372409 254486.49077126384,533041.4869824809 254479.87617470324,533112.9246253609 254352.6113368338,533194.4164550108 254419.551054053,533182.2455973309 254438.86567601375,533192.8289518311 254449.18444665335,533165.0476462708 254453.41778845247,533215.053996281 254495.48662259057,533093.3454195308 254507.92206412274,533043.8682372409 254486.49077126384))",
+    "site_description": "teren po Zakładach metalurgicznych \"Trzebinia\" w Trzebini"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Trzebinia",
+      "address": "Marszałka J. Piłsudskiego 14, 32-540 Trzebinia",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-08",
+    "legal_basis": "art. 61 kpa",
+    "case_reference": "ZS.513.109.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2019-10-10",
+        "reference": "ZS.513.109.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Trzebinia",
+        "address": "Marszałka J. Piłsudskiego 14, 32-540 Trzebinia",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,158 @@
+{
+  "registry_id": 1574,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4752,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Smyczkowej i Sulimy Dzielnica Mokotów",
+    "precinct": "1-04-13",
+    "parcel_numbers": [
+      "28/9",
+      "29"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637858.445010962 480262.70531606674,637826.1657796988 480099.19248904753,637874.0554588648 480087.81538295746,637867.7054461561 480049.4507228965,637832.2512085343 480054.21323241945,637828.5470344601 480058.7111580791,637814.7886735941 480061.88616442773,637813.4657542724 480055.271567869,637948.4035243102 480022.1985850567,637989.1494391935 480171.68846736476,638010.8453159425 480272.75950284395,637976.1848299117 480279.109515544,637962.4264690422 480184.38849276584,637939.143089114 480161.1051128665,637926.1784798384 480156.8717710655,637905.276354674 480161.8988644574,637927.5013991537 480272.7595028449,637858.445010962 480262.70531606674))",
+    "site_description": "część działek"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Uniwersytet Warszawski",
+      "address": "ul. Krakowskie Przedmieście 26/28 00-927 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "28/9",
+        "29"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.4752
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.4752
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-07-20",
+    "legal_basis": "art.101e ust. 1 i 2",
+    "case_reference": "WOOŚ-IV.515.52.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-09-03",
+        "reference": "WOOŚ-IV.515.52.2021.DŚc.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Uniwersytet Warszawski",
+        "address": "ul. Krakowskie Przedmieście 26/28 00-927 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-10-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-05-24",
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

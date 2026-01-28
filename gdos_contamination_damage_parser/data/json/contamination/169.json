@@ -1,0 +1,127 @@
+{
+  "registry_id": 169,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.65,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "gnieźnieński",
+    "municipality": "Witkowo",
+    "address": "62-430 Ruchocin, ul. Witkowska 8",
+    "precinct": "obręb Ruchocin",
+    "parcel_numbers": [
+      "295/38 obręb Ruchocin"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((421654.15578650485 503222.89094883204,421603.88485263294 503089.2760982737,421759.9893315093 503037.68224508595,421815.5519426415 503184.5262887748,421654.15578650485 503222.89094883204))",
+    "site_description": "Teren Jednostki Wojskowej nr 3293 w Powidzu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Z dokumentacji wynika, że od 1997 r. prowadzona na tym terenie była remediacja środowiska gruntowo-wodnego z zanieczyszczeń substancjami ropopochodnymi."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Wojskowy Zarząd Infrastruktury w Poznaniu",
+      "address": "ul. T. Kosciuszki 92/98, 61-716 Poznań",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": "52.10.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "6 138 mg/kg s.m.",
+      "area_ha": 4.65
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2 142 mg/kg s.m.",
+      "area_ha": 4.65
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "12,0 mg/kg s.m.",
+      "area_ha": 4.65
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "16,3 mg/kg s.m.",
+      "area_ha": 4.65
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "80,2 mg/kg s.m.",
+      "area_ha": 4.65
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "18,9 mg/kg s.m.",
+      "area_ha": 4.65
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-10-06",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.18.2020.ASB",
+    "decisions": [
+      {
+        "issue_date": "2016-03-08",
+        "reference": "WSS.511.39.2015.WP.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-01-04",
+        "reference": "WSS.515.18.2020.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Wojskowy Zarząd Infrastruktury w Poznaniu",
+        "address": "ul. T. Kosciuszki 92/98, 61-716 Poznań",
+        "economic_activity_code": "52.10.B"
+      }
+    ],
+    "planned_start": "2021-01-31",
+    "planned_end": "2028-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Decyzja z 8 marca 2016 r., uchylona decyzją z 4 stycznia 2021 r."
+}

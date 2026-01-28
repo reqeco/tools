@@ -1,0 +1,128 @@
+{
+  "registry_id": 1364,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.072,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Siedmiogrodzka",
+    "precinct": "6-04-02",
+    "parcel_numbers": [
+      "17"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634412.1608231668 486984.45834300015,634441.7942157974 486992.92502660025,634570.9111408308 487024.67509009875,634584.1403339648 487040.5501218485,634656.6363123704 487068.0668435469,634724.8989489614 487083.9418752929,634718.0197685349 487105.10858429596,634719.6072717067 487107.2252551969,634919.1035042455 487148.50033774227,634922.2785105988 487149.5586731937,634922.2785105987 487146.91283456143,634958.2619159366 487154.8503504414,634986.836973113 487028.3792641619,634971.4911090662 487007.2125551617,634969.3744381643 487009.85839379113,634954.0285741278 487003.5083810929,634956.6744127506 487002.9792133616,634761.411522025 486931.5415704958,634544.4527545499 486888.1498170486,634435.4442030875 486865.92477260064,634411.6316554365 486983.40000755154,634410.5733199854 486985.51667845156,634412.1608231668 486984.45834300015))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Tramwaje Warszawskie sp. z o.o.",
+      "address": "ul. Siedmiogrodzka 20 01-232 Warszawa",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "17"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0266
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.0457
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.0457
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0457
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.0457
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0457
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": 0.0457
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-10",
+    "legal_basis": "art.101l ust.4",
+    "case_reference": "WOOŚ-IV.515.71.2020.DŚc.",
+    "decisions": [
+      {
+        "issue_date": "2021-07-07",
+        "reference": "WOOŚ-IV.515.71.2020.DŚc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Tramwaje Warszawskie sp. z o.o.",
+        "address": "ul. Siedmiogrodzka 20 01-232 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-07-01",
+    "planned_end": "2025-11-30",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

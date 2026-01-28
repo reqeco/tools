@@ -1,0 +1,73 @@
+{
+  "registry_id": 592,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "mławski",
+    "municipality": "Wiśniewo",
+    "address": "Korboniec",
+    "precinct": null,
+    "parcel_numbers": [
+      "435"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((587228.6310230494 582763.3141982481,586519.5462714873 582001.3126742532,585937.4617739401 582411.4176611388,585487.6692076552 582882.3769363929,584744.1885539681 582419.3551770179,584953.2098053534 582207.6880870163,584802.3970037218 581932.5208700178,585156.9393794981 581641.4786212649,585395.0648557667 581940.458385882,586088.2745755708 581379.5405973783,586106.7954459522 581297.5196000086,586141.1913480752 581318.686309007,586292.0041497174 581305.4571158756,586670.3590731295 581633.5411053728,586556.5880122399 581702.3329096222,586424.296080979 581829.3331636246,586511.6087556167 581980.1459652539,586776.1926181387 581837.2706795018,586773.5467795085 581816.1039705025,586863.505292766 581773.7705525011,586858.2136155157 581937.8125472507,586755.025909137 581874.3124202508,586728.5675228846 581887.541613373,586813.2343588923 582223.5631187521,587080.4640600352 582093.9170261202,587133.3808325399 582101.8545419993,587133.3808325399 582165.3546689972,587091.0474145362 582149.4796372494,587072.5265441645 582157.4171531191,587083.1098986658 582271.1882139985,587128.0891552897 582289.7090843692,587178.3600891742 582281.7715684976,587196.8809595458 582384.9592748787,587218.0476685478 582387.6051134979,587228.6310230494 582763.3141982481))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2013-07-12",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w chronionych siedliskach przyrodniczych oraz gatunkach chronionych spowodowana odmuleniem rowów melioracyjnych na działce nr ew. 435, obręb 0004, wieś Korboniec, gm. Wiśniewo",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "1.\tMazowiecko-Świętokrzyskie Towarzystwo Ornitologiczne",
+      "address": "ul. Radomska 7, 26-670 Pionki",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "EKONOVA S.A.",
+      "address": "Warszawa Julianowska 13",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2013-07-12",
+    "detection_date": "2013-05-14",
+    "decisions": [
+      {
+        "issue_date": "2015-02-18",
+        "reference": "WSI.511.3.2013.WM.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

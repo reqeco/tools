@@ -1,0 +1,79 @@
+{
+  "registry_id": 254,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "grójecki",
+    "municipality": "Warka",
+    "address": "Zastruże Zastruże 23",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((644365.8546994015 432566.07175405044,644333.4431761948 432573.4801022019,644293.7555967553 432529.16230523214,644316.1129331769 432505.87892533094,644365.8546994015 432566.07175405044))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2010-06-14",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu olejem mineralnym w wyniku wykonywania usług napraw i konserwacji maszyn i pojazdów rolniczych, na terenie firmy (…)w m. Zastruże",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektor Ochrony Środowiska w Warszawie",
+      "address": "ul. Bartycka 110 A, 00-716 Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) - naprawa i konserwacja maszyn i pojazdów rolniczych",
+      "address": "(…)",
+      "economic_activity_code": "33.12.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "131-2059",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie egzekucyjne w toku",
+    "initiation_date": "2010-07-20",
+    "detection_date": "2010-06-14",
+    "decisions": [
+      {
+        "issue_date": "2011-06-24",
+        "reference": "WSI.512.4.2011.ES.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2012-01-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ez situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

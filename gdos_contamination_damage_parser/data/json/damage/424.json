@@ -1,0 +1,158 @@
+{
+  "registry_id": 424,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "ul. Pomorska 400",
+    "precinct": "W-44",
+    "parcel_numbers": [
+      "46/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((539082.29642063705250621 433932.56106783059658483, 539089.82109582074917853 433987.28597825724864379, 539151.04458936047740281 433984.20770204573636875, 539159.76637195982038975 434006.09766621637390926, 539172.07947680575307459 434008.66289639263413846, 539184.90562768699601293 433925.89146937237819657, 539181.14329009514767677 433917.16968677315162495, 539082.29642063705250621 433932.56106783059658483))",
+    "site_description": "działka rolna"
+  },
+  "occurrence_time": {
+    "date": "2011-06-06",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby substancjami ropopochodnymi na skutek pożaru na terenie firmy SENOL Sp.z o.o.",
+  "total_area_ha": 0.025,
+  "reporters": [
+    {
+      "name": "SENOL Sp.zo.o.",
+      "address": "ul. Pomorska 398, 92-735 Łódź",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "SENOL Sp.zo.o.",
+      "address": "ul. Pomorska 398, 92-735 Łódź",
+      "economic_activity_code": "46.75.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": ">0.1 mg/kg suchej masy",
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Antracen",
+      "concentration": ">0.1 mg/kg suchej masy",
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fluoranten",
+      "concentration": ">0.1 mg/kg suchej masy",
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": ">0.1 mg/kg suchej masy",
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": ">0.1 mg/kg suchej masy",
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)piren",
+      "concentration": ">0.02 mg/kg suchej masy",
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": ">0.1 mg/kg suchej masy",
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fenantren",
+      "concentration": ">0.01 mg/kg suchej masy",
+      "area_ha": 0.025
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-06-08",
+    "detection_date": "2012-06-06",
+    "decisions": [
+      {
+        "issue_date": "2013-01-23",
+        "reference": "WSI.510.22.2012.AR.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-05-16",
+        "reference": "WSI.510.22.2012.AR.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-11-28",
+        "reference": "WSI.510.22.2012.AR.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2013-12-16",
+        "reason": "Odmowa przez RDOŚ w Łodzi zmiany decyzji przeprowadzenia działań naprawczych",
+        "appealed_decision_reference": "WSI.510.22.2012.AR.15",
+        "resolution_reference": "DOA-ks.511.1.2014.mp",
+        "appellant_name": "Senol Sp. z o.o.",
+        "appellant_address": "ul. Pomorska 398, 92-735 Łódź",
+        "resolution_date": "2014-02-20",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Utrzymano w mocy zaskarżoną decyzję"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2014-09-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięto grunt zanieczyszczonego do głębokości 0,3 m ppt",
+    "ecological_effect": "osiągnięto standard jakości gleby dla gruntów grupy B zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r. Nr 165, poz. 1359) w zakresie: WWA, antracen, fluoranten, piren, benzo(a)antracen+chryzen, benzo(b)fluoranten, benzo(k)fluoranten, benzo(a)piren, dibenzo(a,h,)antracen, benzo (g,h,i)perylen, fenantren",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

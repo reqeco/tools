@@ -1,0 +1,71 @@
+{
+  "registry_id": 1735,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kartuski",
+    "municipality": "Żukowo",
+    "address": "ul. Lipowa 8, 80-297 Barniewice",
+    "precinct": "Barniewice",
+    "parcel_numbers": [
+      "241/12"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((463177.2023960565 726908.9725677203,462847.79548723635 727190.7543812795,462935.1081618664 727410.3589871498,462976.1186605465 727479.1507914001,463390.1924053668 727913.0683259098,463482.79675723694 728087.6936751595,463646.838751987 727889.2557782801,463648.6379222569 727887.668275102,463644.93374817685 727876.0265851533,463819.55909742706 727836.8681735033,463766.64232492703 727712.5137581313,463937.0343323771 727646.8969602333,463655.5171026769 726932.5205314718,463404.6916010267 726935.6955378214,463351.2456608067 726934.1080346489,463255.46630257677 726897.0662938999,463226.3620777066 726897.59546162,463177.2023960565 726908.9725677203))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "kwiecień 2023"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Zasypywanie łąki będącej siedliskiem gatunków objętych ochroną.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "gąsiorek (Lanius collurio)",
+    "żuraw (Grus grus)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "gąsiorek (Lanius collurio) - siedlisko gatunku chronionego"
+    },
+    {
+      "natura_2000": null,
+      "other": "żuraw (Grus grus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2023-05-05",
+    "detection_date": "2023-04-15",
+    "decisions": [
+      {
+        "issue_date": "2023-10-27",
+        "reference": "RDOŚ-Gd-WZS.511.5.2023.MK.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

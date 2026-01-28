@@ -1,0 +1,71 @@
+{
+  "registry_id": 990,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "świdnicki",
+    "municipality": "Świdnica (gmina wiejska)",
+    "address": "Mokrzeszów 42B 58-160 Świdnica",
+    "precinct": "obręb Mokrzeszów",
+    "parcel_numbers": [
+      "411"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((315287.41848189220763743 335544.85583228711038828, 315295.69580591737758368 335559.77475511468946934, 315333.47416877734940499 335531.42661834228783846, 315361.30275176465511322 335508.83385241590440273, 315471.29123397270450369 335419.67605545464903116, 315456.37900778948096558 335396.12650894932448864, 315336.94281893200241029 335501.59457445796579123, 315310.07293107250006869 335525.06644014269113541, 315287.41848189220763743 335544.85583228711038828))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w środowisku w związku z działalnością stacji demontażu pojazdów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dolnośląski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Paprotna 14 Wrocław",
+      "legal_form": "organ administracji"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "AUTOHANDEL (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "62 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "990-8300 mg/kg",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2015-04-10",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

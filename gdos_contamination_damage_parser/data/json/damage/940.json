@@ -1,0 +1,116 @@
+{
+  "registry_id": 940,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "Białystok",
+    "municipality": "Białystok",
+    "address": "ul. Produkcyjna 84, 15-680 Białystok",
+    "precinct": "1 Bacieczki",
+    "parcel_numbers": [
+      "236/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((773694.8136384389 596095.7732855715,773709.8949199703 596115.48478337,773712.6730507584 596113.8972801957,773716.6418090314 596113.235820544,773769.0294182254 596109.6639385279,773735.4272646159 596063.626346373,773694.8136384389 596095.7732855715))",
+    "site_description": "teren stacji paliw Auchan"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "Zanieczyszczenie na terenie stacji paliw Auchan zostało zidentyfikowane podczas prac związanych z wymianą wadliwej skrzyni wlewowej przeprowadzanych w dniu 12 maja 2009 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w środowisku wodno-gruntowym spowodowana wyciekiem paliwa z nieszczelnej skrzyni wlewowej (mieszczącej zawory instalacji napełniania zbiorników paliwa) na terenie stacji paliw centrum handlowego Auchan przy ul. Produkcyjnej 84 w Białymstoku. Zanieczyszczenie zostało zidentyfikowane podczas prac związanych z wymianą wadliwej skrzyni wlewowej przeprowadzanych w dniu 12 maja 2009 r. pod nadzorem uprawnionego geologa.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Auchan Polska Sp. z o.o.",
+      "address": "ul. Puławska 46, 05-500 Piaseczno",
+      "legal_form": "spółka z o.o."
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Auchan Polska Sp. z o.o.",
+      "address": "ul. Puławska 46, 05-500 Piaseczno",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "16535 mg/kg suchej masy",
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "41538 mg/kg suchej masy",
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "3733 mg/kg suchej masy",
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Toluen",
+      "concentration": "1126 mg/kg suchej masy",
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Etylobenzen",
+      "concentration": "365 mg/kg suchej masy",
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Ksyleny",
+      "concentration": "2151 mg/kg suchej masy",
+      "area_ha": 0.005
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-07-13",
+    "detection_date": "2009-05-12",
+    "decisions": [
+      {
+        "issue_date": "2009-08-13",
+        "reference": "RDOŚ-20-WSI-6617-054/09/aw",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2009-12-31",
+    "actual_end": "2009-08-28",
+    "method": null,
+    "description": "W związku z wystąpieniem szkody w środowisku awaryjnie usunięto 26,9 Mg zanieczyszczonego gruntu. Powstały wykop uzupełniono czystym kruszywem. Analiza laboratoryjna prób gruntu pobranych ze ścian powstałego wykopu wykazała silne zanieczyszczenie substancjami ropopochodnymi północnej ściany wykopu. Działania naprawcze polegały na usunięciu aktywnego źródła zanieczyszczenia, tj. gruntu najbardziej zanieczyszczonego substancjami ropopochodnymi na powierzchni około 50 m2 do głębokości 4,0 m. W dniach 24-25 sierpnia 2009 r. wybrano i wywieziono do odzysku 167,95 Mg gruntu skażonego węglowodorami ropopochodnymi (odpad o kodzie 17 05 03*).  Zanieczyszczony grunt został wydobyty i wywieziony z terenu stacji paliw centrum handlowego Auchan przy ul. Produkcyjnej 84 w Białymstoku przez firmę Geo-Kat i został przekazany do odzysku firmie ABER. W trakcie prac wypompowano z piezometru Pz 0,1 Mg zanieczyszczonej wody (odpad o kodzie      13 05 08*). Zanieczyszczona woda została przekazana do unieszkodliwienia firmie Ekopark. W celu efektywnego prowadzenia samoistnej bioremediacji pozostawionego w gruncie zanieczyszczenia, ok. 20 cm warstwa zanieczyszczonego gruboziarnistego piasku, do wykopu zaaplikowano dawkę wyspecjalizowanych mikroorganizmów, które w wyniku prowadzenia działalności życiowej powodują rozkład substancji ropopochodnych. Równocześnie mikroorganizmy zadano do warstwy wodonośnej poprzez piezometr Pz.",
+    "ecological_effect": "Przeprowadzone działania naprawcze pozwoliły na usuniecie aktywnego źródła zanieczyszczenia substancjami ropopochodnymi co uniemożliwiło dalsza migrację zanieczyszczeń. Pozostawione zanieczyszczenie gruntu w ścianach bocznych wykopu powinno ulec likwidacji poprzez zintensyfikowanie naturalnego procesu rozkładu węglowodorów ropopochodnych poprzez podanie wyspecjalizowanych mikroorganizmów.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

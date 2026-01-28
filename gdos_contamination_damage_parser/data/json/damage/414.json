@@ -1,0 +1,73 @@
+{
+  "registry_id": 414,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Nadarzyn",
+    "address": "Rusiec ul. Główna 56",
+    "precinct": null,
+    "parcel_numbers": [
+      "274"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((623073.2607418754 468813.0382686779,623375.9446807557 468896.6467692293,623437.3281368903 468756.4173221011,623420.3947696798 468728.3714326704,623396.5822220454 468713.0255686529,623376.4738484833 468698.73804007284,623117.1816630787 468643.17542895675,623073.2607418754 468813.0382686779))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2012-06-14",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektorat Ochrony Środowiska",
+      "address": "ul.Bartycka 110 a 00-716 Warszawa",
+      "legal_form": "jednostka organizacja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)Handel Hurtowy Usługi Transportowe (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2012-06-14",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "WSI.510.22.2012.MGł.6",
+        "issuing_authority": null,
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": null,
+        "reference": "WSI.510.22.2012.MGł.7",
+        "issuing_authority": null,
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

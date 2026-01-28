@@ -1,0 +1,81 @@
+{
+  "registry_id": 1963,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.04,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Legnica",
+    "municipality": "Legnica",
+    "address": "ul. Karlińskiego w Legnicy",
+    "precinct": "0030 Bartoszów",
+    "parcel_numbers": [
+      "7/31",
+      "10/28",
+      "0030 Bartoszów"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((303584.70144163252552971 372949.94147961679846048, 303594.46704632195178419 372955.67708469089120626, 303604.53433362714713439 372956.39985341578722, 303608.70854260923806578 372953.11386204417794943, 303608.60374130896525458 372949.08630970679223537, 303600.70350144791882485 372941.57576102670282125, 303591.23218789394013584 372935.4262544522061944, 303587.60405188839649782 372935.49562730547040701, 303585.07842629519291222 372935.76993955299258232, 303580.94944640528410673 372941.64465911034494638, 303584.70144163252552971 372949.94147961679846048)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Legnica",
+      "address": "Plac Słowiański 8 59-220 Legnica",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "7/31",
+        "10/28"
+      ],
+      "economic_activity_code": "-"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "35,1 mg/kg s.m.",
+      "area_ha": 0.04
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-08-16",
+    "legal_basis": "art.61 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.10.2023.ŁJ",
+    "decisions": [
+      {
+        "issue_date": "2024-02-02",
+        "reference": "WSI.515.10.2023.ŁJ.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "WSI.515.10.2023.ŁJ"
+}

@@ -1,0 +1,137 @@
+{
+  "registry_id": 1992,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3192,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Bokserska 71, Warszawa",
+    "precinct": "1-08-14",
+    "parcel_numbers": [
+      "7/3",
+      "7/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636014.9921235499 480076.6544337794,636063.6755543023 480058.13356339745,635995.9420854227 479858.10816335026,635995.412917701 479822.1247580508,635935.0877969862 479843.2914670501,636014.9921235499 480076.6544337794))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "AVONMORE sp. z o. o.",
+      "address": "ul. Bokserska 71 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "7/3",
+        "7/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.2616
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.2616
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.2616
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.2616
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.2616
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": null,
+      "area_ha": 0.0576
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0576
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.0576
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-03-20",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.9.2024.AGi",
+    "decisions": [
+      {
+        "issue_date": "2024-05-16",
+        "reference": "WOOŚ-IV.515.9.2024.AGi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "AVONMORE sp. z o. o.",
+        "address": "ul. Bokserska 71 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-05-01",
+    "planned_end": "2026-12-31",
+    "actual_end": "2024-06-19",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "efekt ekologiczny osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,97 @@
+{
+  "registry_id": 1766,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "nakielski",
+    "municipality": "Nakło nad Notecią",
+    "address": "ul. Zanotecie 2 89-100 Nakło nad Notecią",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "1314"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((406397.43839632376 586033.9064085679,406396.38006087375 586015.6501220586,406404.0529928948 586032.3189053992,406397.43839632376 586033.9064085679))",
+    "site_description": "Teren przedsiębiorstwa"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2022-07-26",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wprowadzono do ziemi ścieki z mycia pojazdów",
+  "total_area_ha": 0.01,
+  "reporters": [
+    {
+      "name": "Kujawsko-Pomorski Wojewódzki Inspektorat Ochrony Środowiska",
+      "address": "ul. Piotra Skargi 2 85-018 Bydgoszcz",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "49.41.Z, 33.12.Z, 43.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "836-1634 mg/kg s.m.",
+      "area_ha": 0.01
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2022-11-14",
+    "detection_date": "2022-08-03",
+    "decisions": [
+      {
+        "issue_date": "2024-05-10",
+        "reference": "WSS.511.6.2024.SG.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-06-03",
+        "reference": "WSS.512.32.2022.BW/SG.23",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-12-02",
+        "reference": "WSS.511.6.2024.SG.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art.104 i art.155",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-05-01",
+    "planned_end": "2024-09-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediację należy przeprowadzić metodą in-situ (bioremediacja), polegającą na wprowadzaniu do gruntu wyselekcjonowanych szczepów mikroorganizmów, zdolnych do rozkładu substancji ropopochodnych.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

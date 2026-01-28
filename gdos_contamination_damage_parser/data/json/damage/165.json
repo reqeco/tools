@@ -1,0 +1,138 @@
+{
+  "registry_id": 165,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Szczecin Most Cłowy",
+    "precinct": null,
+    "parcel_numbers": [
+      "5/4 obręb 4304"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((208558.20680565500515513 623670.50774217594880611, 208561.17964764399221167 623670.11789019301068038, 208561.51580653901328333 623665.56773200305178761, 208557.11750014900462702 623658.12642863998189569, 208552.70861541200429201 623628.45792087202426046, 208430.272396824992029 623639.42485055595170707, 208452.8695645320112817 623756.38327476801350713, 208572.1777987240056973 623767.57591247500386089, 208571.73514865900506265 623764.05529299401678145, 208570.0015874509990681 623750.75225136999506503, 208565.42579430399928242 623749.99591901595704257, 208562.41742901201359928 623729.86453588795848191, 208566.61932921898551285 623727.90777902898844332, 208558.20680565500515513 623670.50774217594880611))",
+    "site_description": "most"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2009-07-15",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "szkoda w gatunku chronionym - jaskółka oknówka, powstałej w wyniku zniszczenia gniazd znajdujących się na moście Cłowym w Szczecinie.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Fundacja ratujmy Ptaki",
+      "address": "ul. Szafera 196/18, 71-245 Szczecin",
+      "legal_form": "Fundacja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "IntopSzczecin Sp. z o.o.",
+      "address": "ul. Wiosenna 6, Skarbimierzyce, 72-002 Dołuje",
+      "economic_activity_code": "43.99.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "oknówka (Delichon urbicum)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "oknówka (Delichon urbicum) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-07-17",
+    "detection_date": "2009-07-14",
+    "decisions": [
+      {
+        "issue_date": "2010-01-15",
+        "reference": "RDOŚ-32-WSI-660/8-9/10/kb",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2011-04-05",
+        "reference": "WSI.512.3.2011.KB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2012-02-17",
+        "reference": "WSI.512.6.2011.2012.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2010-01-28",
+        "reason": "naruszenie art.15 ustawy szkodowej w związku z 28 kpa, art. 9 kpa",
+        "appealed_decision_reference": "RDOŚ-32-WSI-660/8-9/10/kb",
+        "resolution_reference": null,
+        "appellant_name": "Zarząd Dróg i Transportu Miejskiego w Szczecinie",
+        "appellant_address": "Klonowica 5 Szczecin",
+        "resolution_date": "2010-05-07",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "Uchylenie w całości i przekazanie do ponownego rozpatrzenia"
+      },
+      {
+        "date": "2011-04-18",
+        "reason": "uchylenie decyzji i umorzenie postępowania wobec ZDiTM w Szczecinie",
+        "appealed_decision_reference": "WSI.512.3.2011.KB",
+        "resolution_reference": null,
+        "appellant_name": "ZDiTM w Szczecinie",
+        "appellant_address": "Klonowica 5 Szczecin",
+        "resolution_date": "2011-07-15",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchylenie w całości i przekazanie sprawy do ponownego rozpatrzenia"
+      },
+      {
+        "date": "2012-03-06",
+        "reason": "uchylenie decyzji i umorzenie postępowania wobec ZDiTM w Szczecinie",
+        "appealed_decision_reference": "WSI.512.6.2011.2012.AS",
+        "resolution_reference": null,
+        "appellant_name": "ZDiTM w Szczecinie",
+        "appellant_address": "Klonowica 5",
+        "resolution_date": "2012-06-01",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchylenie i orzeczenie"
+      }
+    ]
+  },
+  "court_proceedings": {
+    "issue_date": "2012-08-01",
+    "case_number": "IV SA/Wa 1308/12",
+    "challenged_decision_reference": "DOP-ks.512.12.2011.at.1",
+    "ruling_type": "postanowienie",
+    "verdict": "wstrzymanie wykonania zaskarżonej decyzji",
+    "court": "WSA w Warszawie",
+    "cassation_appeal_to_nsa": null
+  },
+  "remedial_actions": {
+    "planned_start": "2012-09-30",
+    "planned_end": "2013-03-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Zamontowanie specjalnych półeczek dla jaskółek",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

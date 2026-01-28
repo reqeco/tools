@@ -1,0 +1,64 @@
+{
+  "registry_id": 930,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "kutnowski",
+    "municipality": "Kutno (gmina miejska)",
+    "address": "ul.Majdany 10",
+    "precinct": null,
+    "parcel_numbers": [
+      "956/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((522103.95527842151932418 485697.63916535238968208, 522148.73054952826350927 485686.44534757570363581, 522168.31973063753684983 485664.56652192125329748, 522174.42544942477252334 485644.72293586254818365, 522194.0146305340458639 485629.96744879323523492, 522129.90458326746011153 485508.61628789588576183, 522100.90241902787238359 485517.52046112733660266, 522111.58742690563667566 485538.89047688286518678, 522079.78680822183378041 485556.95322829525684938, 522097.59515468473546207 485580.35848364653065801, 522059.18000731471693143 485602.23730930098099634, 522103.95527842151932418 485697.63916535238968208))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2016-10-19",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "z uwagi na wystąpienie pożaru na terenie Zakładu Gospodarowania Odpadami EKORD Wojculewicz i Ledzion Sp. j. do badań laboratoryjnych pobrana została próbka gleby z miejsca występowania wody popożarowej tj. od strony północno-wschodniej zakładu.Pobrana próbka wykazała przekroczenia dopuszczalnej zawartości rtęci w glebie.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ w Łodzi Delegatura w Skierniewicach",
+      "address": "Macieja Rataja 11, 96-100 Skierniewice",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zakład Gospodarowania Odpadami EKORD Wojculewicz i Ledzion Sp. J.",
+      "address": "ul. Majdany 10,  99 – 300 Kutno",
+      "economic_activity_code": "38.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "55mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2017-01-20",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,112 @@
+{
+  "registry_id": 182,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "zamojski",
+    "municipality": "Zamość",
+    "address": "Stacja Kolejowa Zamość Bortatycze",
+    "precinct": "0028 Wysokie",
+    "parcel_numbers": [
+      "062014_2.0028.403/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((795119.3076156718 327519.6571844723,795172.2243919453 327313.2817718135,795704.0380054925 327490.55296100676,795854.8508211873 327506.42799312714,795942.163503895 327498.49047746696,796098.2679974582 327524.9488641061,796280.8308799068 327569.92812118214,796291.4142353986 327569.9281212082,796296.7059130741 327556.6989280991,796857.6237564532 327924.4704984296,797032.2491229032 328035.5957211396,797074.58254508 328062.05410750024,797119.5618060709 328075.28330074716,797024.311607098 328186.4085227754,796590.3940307185 328048.8249131646,796301.9975930119 327966.8039150527,796069.1637718681 327900.6579488488,795878.6633727939 327839.80365999043,795751.6631067749 327797.47024167515,795079.6200330723 327599.0323431501,795119.3076156718 327519.6571844723))",
+    "site_description": "teren stacji kolejowej Zamość Bortatycze, stanowisko do spuszczania ciężkich spalin z lokomotyw przy torze nr 202"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-10-02",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gruntów substancjami ropopochodnymi na stanowisku do spuszczania ciężkich spalin z lokomotyw spalinowych, zlokalizowanym na terenie stacji kolejowej Zamość Bortatycze LHS przy torze 202.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKP Linia Hutnicza Szerokotorowa Sp. z o.o.",
+      "address": "ul. Szczebrzeska 11, 22-400 Zamość",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKP Linia Hutnicza Szerokotorowa Sp. z o.o.",
+      "address": "ul. Szczebrzeska 11, 22-400 Zamość",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "9710-11353 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2007-11-22",
+    "detection_date": "2007-10-02",
+    "decisions": [
+      {
+        "issue_date": "2008-01-15",
+        "reference": "ŚiR.I.6623/22/07/08",
+        "issuing_authority": "Wojewoda Lubelski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2010-01-20",
+        "reference": "RDOŚ-06-WSI.6623-7-6-1/09/10/rsz",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 17",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2010-03-25",
+        "reference": "RDOŚ-06-WSI.6623-0006-1/10/mz",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2012-03-08",
+        "reference": "WSI.511.1.2011.BS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 20",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-12-31",
+    "actual_end": "2012-05-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace związane z odtłuszczaniem tłucznia i przygotowaniem podłoża dla mikroorganizmów, metoda in-situ polegająca na wprowadzeniu do gruntów wyselekcjonowanych szczepów bakterii rozkładających substancje ropopochodne.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "PKP Linia Hutnicza Szerokotorowa Sp. z o.o.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

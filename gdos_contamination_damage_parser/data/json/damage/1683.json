@@ -1,0 +1,56 @@
+{
+  "registry_id": 1683,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "sochaczewski",
+    "municipality": "Sochaczew (gmina miejska)",
+    "address": "miejscowość Kuznocin 123",
+    "precinct": "Sochaczew",
+    "parcel_numbers": [
+      "31"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-13",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Demontaż pojazdów ciężarowych oraz duże ilości części pojazdów ciężarowych na działce",
+  "total_area_ha": 2.9,
+  "reporters": [
+    {
+      "name": "WIOŚ delegatura w Płocku",
+      "address": "ul. Kolegialna 15 09-402 Płock",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": ",,SKYTRUCK\" sp. z o.o.",
+      "address": "Kuznocin 123 96-500 Sochaczew",
+      "economic_activity_code": "45.40.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-02-28",
+    "detection_date": "2021-04-22",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

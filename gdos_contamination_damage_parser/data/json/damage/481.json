@@ -1,0 +1,99 @@
+{
+  "registry_id": 481,
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "strzelecki",
+    "municipality": "Leśnica",
+    "address": "Leśnica 1 maja",
+    "precinct": "Leśnica",
+    "parcel_numbers": [
+      "1034",
+      "1035",
+      "1040",
+      "1042",
+      "1048"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((442723.24276086135 284987.48641064763,442735.28132660163 285018.8395983502,442779.7314155023 285006.66874067765,442776.15953336225 284997.2760135578,442781.0543348122 285000.18643604685,442836.82861303294 285123.3502240395,442865.1390863232 285174.67949336674,442870.9599313035 285173.0919901896,442842.649458013 285119.64604997076,442775.44515693234 284973.3311740011,442767.77222492197 284975.71242877,442775.4451569323 284996.6145538995,442758.24720587174 284978.6228512507,442723.24276086135 284987.48641064763))",
+    "site_description": "stacja paliw PKN Orlen S.A. nr 1205 w Leśnicy przy ulicy 1–go Maja"
+  },
+  "occurrence_time": {
+    "date": "2011-11-23",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda w powierzchni ziemi powstała na terenie Stacji Paliw nr 1205 w Leśnicy przy ulicy 1 Maja",
+  "total_area_ha": 0.27,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 1205 w Leśnicy-PKN ORLEN S.A",
+      "address": "Leśnica przy ulicy 1–go Maja",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "1825 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "678 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1232 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2011-11-23",
+    "detection_date": "2011-11-23",
+    "decisions": [
+      {
+        "issue_date": "2012-01-27",
+        "reference": "WOOŚ.511.9.2011.ER.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-03-01",
+    "planned_end": "2012-12-31",
+    "actual_end": "2012-12-31",
+    "method": null,
+    "description": "1.\tDziałania naprawcze przeprowadzić metodą ex-situ, polegającą na wydobyciu zanieczyszczonego gruntu z miejsca jego występowania wraz z odpompowywaniem zanieczyszczonej wody",
+    "ecological_effect": "efekt ekologiczny : •\tjakość gruntów zgodną ze standardami, określonymi w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r. Nr 165, poz. 1359) dla obszaru C. •\tjakość wód podziemnych odpowiadającą wartościom dopuszczalnych stężeń zanieczyszczeń w wodach podziemnych (obszar „C”) określonym we  „Wskazówkach metodycznych do oceny stopnia zanieczyszczenia gruntów i wód podziemnych produktami ropopochodnymi i innymi substancjami chemicznymi w procesach rekultywacji”, opracowanych przez PIOŚ (1994 r.).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

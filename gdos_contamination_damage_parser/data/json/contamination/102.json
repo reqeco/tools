@@ -1,0 +1,96 @@
+{
+  "registry_id": 102,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.1115,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "municipality": "Kędzierzyn-Koźle",
+    "address": "47-220 Kędzierzyn-Koźle",
+    "precinct": "Blachownia",
+    "parcel_numbers": [
+      "dz. nr 588/91 obręb Blachownia"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((447362.2368130846 276586.74781954195,447346.09719747445 276566.6394459894,447371.4972482745 276545.2081531221,447359.59097446455 276503.93307057023,447364.61806784465 276503.93307056837,447376.7889255245 276543.35606608726,447383.40352208476 276555.79150762316,447382.08060277463 276571.93112323806,447362.2368130846 276586.74781954195))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 1 października 2001 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Działalność firm centralnych (head offices) i holdingów, z wyłączeniem holdingów finansowych",
+    "current": "Wykonywanie instalacji wodno-kanalizacyjnych, cieplnych, gazowych i klimatyzacyjnych"
+  },
+  "land_holders": [
+    {
+      "name": "PAGA-UNIBUD s.c.",
+      "address": "ul. Piastowska 16, 47-303 Krapkowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "43.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "0 - 3125 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "0 - 771,12 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "0 - 204,73 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Fenantren",
+      "concentration": "0 - 56,74 mg/kg",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 3 ustawy",
+        "entity_type": "regionalny dyrektor ochrony środowiska",
+        "name": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "address": "ul. Firmowa 1, 45-594 Opole",
+        "economic_activity_code": "84.11.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

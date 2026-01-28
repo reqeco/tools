@@ -1,0 +1,147 @@
+{
+  "registry_id": 1947,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.0534,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Włocławek",
+    "municipality": "Włocławek",
+    "address": "Łęgska 8a",
+    "precinct": "0480",
+    "parcel_numbers": [
+      "4"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((506007.1100000001 532338.8299999228,505992.29999999993 532286.0999999223,505989.31000000006 532280.6299999226,505934.26000000007 532295.609999923,505923.69000000006 532305.8499999223,505915.79000000004 532308.6599999238,505863.64000000013 532327.2099999227,505859.29 532336.199999922,505887.61 532417.6499999221,505921.22 532413.399999924,505929.48 532410.4099999228,505943.03 532408.2499999227,505929.59 532359.0899999235,506007.1100000001 532338.8299999228)))",
+    "site_description": "Teren dawnych Zakładów Celulozowo-Papierniczych we Włocławku, które ogłosiły upadłość w 1994 r."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 30 kwietnia 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja papieru i tektury",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PDI INWEST Sp. z o.o.",
+      "address": "Smólsk 72A, 87-853 Kruszyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "41,2 mg/kg s.m.",
+      "area_ha": 1.0534
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,651 mg/kg s.m.",
+      "area_ha": 1.0534
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,614 mg/kg s.m.",
+      "area_ha": 1.0534
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,712 mg/kg s.m.",
+      "area_ha": 1.0534
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,996 mg/kg s.m.",
+      "area_ha": 1.0534
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,326 mg/kg s.m.",
+      "area_ha": 1.0534
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,508 mg/kg s.m.",
+      "area_ha": 1.0534
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,52 mg/kg s.m.",
+      "area_ha": 1.0534
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "0,015 mg/kg s.m.",
+      "area_ha": 1.0534
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,015 mg/kg s.m.",
+      "area_ha": 1.0534
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-03-08",
+    "legal_basis": "art. 101c ust. 3 ustawy Prawo ochrony środowiska",
+    "case_reference": "WSS.513.5.2021.KK",
+    "decisions": [
+      {
+        "issue_date": "2025-05-09",
+        "reference": "WSS.515.1.2025.MG/BW.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4, 101q ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PDI INWEST Sp. z o.o.",
+        "address": "Smólsk 72A, 87-853 Kruszyn",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-06-30",
+    "planned_end": "2027-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ na pow. ok. 2512 m2; in-situ (samooczyszczanie) na pow. ok. 8022 m2",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "wpis do rejestru - postępowanie znak: WSS.513.5.2021.KK"
+}

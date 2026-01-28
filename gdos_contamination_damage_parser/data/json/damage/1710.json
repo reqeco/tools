@@ -1,0 +1,56 @@
+{
+  "registry_id": 1710,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "słupski",
+    "municipality": "Dębnica Kaszubska",
+    "address": "76-248 Łabiszewo 33",
+    "precinct": "Łabiszewo",
+    "parcel_numbers": [
+      "89/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((388642.9493618123 727102.2510787426,388695.20467467746 727033.9884422105,388767.83294497064 727081.2166616749,388737.8026765663 727119.1844459428,388712.0057499544 727115.8771476634,388692.82341991545 727101.7219110113,388669.1431642144 727120.5073652519,388642.9493618123 727102.2510787426))",
+    "site_description": "Na działce prowadzona jest działalność gospodarcza niezgodnie z posiadanym zezwoleniem na zbieranie odpadów."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "wrzesień 2020 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na terenie działki nr 89/2 obręb Łabiszewo zalegają odpady w budynku o powierzchni ok 250 m2 (niezidentyfikowane odpady), obok budynku na ogrodzonym placu na powierzchni ok. 390 m2 oraz wokół placu zalegają opony samochodowe na powierzchni ok. 188 m2. Istnieje możliwość uwalniania odpadów i substancji w nich zawartych do środowiska gruntowo-wodnego.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Słupski",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KO-ECO(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2021-03-15",
+    "detection_date": "2020-09-08",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

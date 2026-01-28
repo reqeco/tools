@@ -1,0 +1,193 @@
+{
+  "registry_id": 209,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0978,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Wilcza 73, 00-670 Warszawa",
+    "precinct": "5-05-03",
+    "parcel_numbers": [
+      "77",
+      "78",
+      "79/1",
+      "79/2",
+      "80"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637052.8003780983 485999.2803309271,637053.3295458289 485996.8990761554,637120.2692631155 485991.8719827756,637108.0984054224 486019.65328833554,637052.8003780983 485999.2803309271))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "HOTEL RIALTO Sp. z o.o.",
+      "address": "ul. Wilcza 73, 00-670 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "55.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "40-180 mg/kg suchej masy",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,44",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "2,3",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,7",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,39",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,7",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "2,3",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,8",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,5",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,3",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,2",
+      "area_ha": 0.0978
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "530-820",
+      "area_ha": 0.043
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "50-24000",
+      "area_ha": 0.043
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "19",
+      "area_ha": 0.043
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "28",
+      "area_ha": 0.043
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,96-166",
+      "area_ha": 0.043
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-11-28",
+    "legal_basis": "61 § 1 Kpa w związkuz z art. 101 l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-01-19",
+        "reference": "WSI.511.40.2016.MGł.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HOTEL RIALTO Sp. z o.o.",
+        "address": "ul. Wilcza 73, 00-670 Warszawa",
+        "economic_activity_code": "55.10.Z"
+      }
+    ],
+    "planned_start": "2017-02-07",
+    "planned_end": "2017-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ- wybranie zanieczyszczonej ziemi",
+    "ecological_effect": "spełnienie wymaganych prawem standardów",
+    "effect_assessment": null
+  },
+  "notes": null
+}

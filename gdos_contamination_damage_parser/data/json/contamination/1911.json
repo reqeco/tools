@@ -1,0 +1,116 @@
+{
+  "registry_id": 1911,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 5.3,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Bytom",
+    "municipality": "Bytom",
+    "address": "rejon ul. Siemianowickiej w Bytomiu",
+    "precinct": "0013 Rozbark",
+    "parcel_numbers": [
+      "246201_1.0013.AR_1.7267/450",
+      "246201_1.0013.AR_1.7272/442"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((497213.18 275305.73,497247.13 275300.73,497279.88 275257.94,497290.35 275225.61,497290.95 275221.84,497294.96 275168.79,497291.23 275091.12,497286.52 275065.32,497272.84 274995.66,497270.58 275004.78,497268.4 275014.28,497265.16 275024.06,497256.7 275043.33,497251.9 275052.5,497246.69 275061.43,497241.36 275070.04,497235.57 275078.42,497228.81 275086.37,497222.11 275094.29,497214.67 275102.09,497207.28 275108.89,497199.24 275115.92,497190.45 275122.26,497181.91 275127.99,497176.9 275130.85,497168.15 275135.9,497160.05 275122.93,497140.36 275138.06,497079.19 275157.07,497071.81 275158.84,497048.06 275124.28,497037.97 275102.28,496927.81 275123.65,496923.06 275124.65,496923.73 275128.6,496924.64 275134.43,496932.75 275178.36,496910.21 275182.04,496913.1 275199.44,496934.59 275195.87,496940.53 275228.57,496918.54 275232.22,496921.5 275250.97,496923.86 275265.97,496931.65 275275.55,496939.15 275284.66,496974.4 275297.48,497004.79 275293.31,497014.78 275342.27,497079.33 275330.6,497092.65 275328.69,497137.11 275318.73,497191.33 275308.95,497213.18 275305.73))",
+    "site_description": "działki o nr ew.: 7272/442 i 7267/450, obręb 0013 Rozbark, a. m. 1 położone w rejonie ul. Siemianowickiej w Bytomiu."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2004-12-31",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wydobywanie węgla kamiennego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Minerów Sp. z o.o.",
+      "address": "ul. Minerów 1 41-200 Sosnowiec.",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246201_1.0013.AR_1.7267/450",
+        "246201_1.0013.AR_1.7272/442"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "4350,00 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "14,80 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1148,00 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1573,00 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "257,00 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-09-19",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (tekst jedn. Dz. U. z 2023 r. poz. 775 ze zm.) [dalej Kpa], w związku z art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2022 r., poz. 2556 ze zm.)",
+    "case_reference": "WSI.515.8.2023",
+    "decisions": [
+      {
+        "issue_date": "2023-10-23",
+        "reference": "WSI.515.8.2023.MO.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Minerów Sp. z o.o.",
+        "address": "ul. Minerów 1 41-200 Sosnowiec.",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

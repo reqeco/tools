@@ -1,0 +1,100 @@
+{
+  "registry_id": 8,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0764,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina miejska)",
+    "address": "59-301 Lubin, ul. Marii Skłodowskiej – Curie 2",
+    "precinct": "obręb Lubin",
+    "parcel_numbers": [
+      "nr 18",
+      "obręb Lubin"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((305345.01703958632424474 396225.94577395636588335, 305346.77216835902072489 396230.21533471625298262, 305354.65208658273331821 396249.27916197292506695, 305369.0818928946973756 396249.86261258833110332, 305376.87139982054941356 396248.5760221928358078, 305373.31070360983721912 396235.81439541466534138, 305371.73400573816616088 396231.69528790377080441, 305365.10544502170523629 396220.14254516456276178, 305360.58025057869963348 396216.48487846925854683, 305359.49536545958835632 396216.05353120807558298, 305353.96767411916516721 396214.02258554194122553, 305350.80982974008657038 396213.5843277471140027, 305347.53567658527754247 396213.58295981585979462, 305345.29445086180930957 396224.60897345840930939, 305345.01703958632424474 396225.94577395636588335))",
+    "site_description": "Zanieczyszczony teren położony jest w Lubinie przy ul. Marii Skłodowskiej – Curie 2 na terenie działki 18, o powierzchni 0,0764 ha i stanowi aktualnie teren nieczynnej stacji paliw płynnych. Sąsiedztwo obiektu stanowi zwarta zabudowa mieszkalno - usługowa."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "w styczniu 2003 r. wykonano \"Dokumentacje warunków hydrogeologicznych wraz ze stanem skażenia środowiska gruntowo – wodnego oraz lokalnym monitoringiem piezometrycznym terenu stacji paliw PKN Orlen S.A. nr 128 w Lubinie przy ul. M. Skłodowskiej – Curie\". Wyniki prac, wykonanych na potrzeby tej dokumentacji, wykazały skażenia gruntów i wód podziemnych substancjami ropopochodnymi"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+      "address": "siedziba  ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "oznaczenie próbki B-2/2,  głębokośc 2,4 – 2,6 m - zawartoćś 8480 mg/kg s.m.; oznaczenie próbki B-3/2 głębokość 2,5 - 2,7 m - zawartość 208 mg/kg s.m 2,5 – 2,7",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "oznaczenie próbki B-2/2,  głębokośc 2,4 – 2,6 m - zawartoćś 1030 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-07-10",
+    "legal_basis": "art. 61 par. 4 Kpa",
+    "case_reference": "WSI.514.1.2017.APC.2",
+    "decisions": [
+      {
+        "issue_date": "2016-01-01",
+        "reference": "WSI.511.13.2015.APC.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-08-17",
+        "reference": "WSI.514.1.2017.APC.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "162 § 1 pkt 1 i § 3 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+        "address": "siedziba  ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2016-03-01",
+    "planned_end": "2021-03-31",
+    "actual_end": "2017-03-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Oczyszczenie powierzchni ziemi (gleby, ziemi i wód podziemnych) na przedmiotowym terenie metodą in – situ (prowadzenie prac w miejscu występowania zanieczyszczenia bez konieczności ich przemieszczania), poprzez wykonanie instalacji do pompowania wód, celem oczyszczenia gruntów i wód podziemnych.",
+    "ecological_effect": "Pismem z dnia 10 lipca 2017 r., znak: OE/PPR-PŁDZACH-WR/114/2017 pełnomocnik Polskiego Koncernu Naftowego ORLEN Spółka Akcyjna z siedzibą w Płocku - Pani (...) zwróciła się z wnioskiem o wygaszenie decyzji z dnia 8 stycznia 2016 r., znak: WSI.511.13.2015.APC.2 ustalającej plan remediacji historycznego zanieczyszczenia powierzchni ziemi, w związku z przejęciem nieruchomości objętej ww. decyzją przez Gminę Miejską Lubin. Poinformowano o zakończeniu działań remediacyjnych przed terminem określonym decyzją bez osiągnięcia zamierzonego efektu ekologicznego. Do pisma dołączono zawiadomienie Starosty Lubińskiego z dnia 31 maja 2016 r. znak: DAR.673.19.2016 skierowane do PKN Orlen S.A. w Płocku informujące o wydaniu decyzji z dnia 31.05.2016 r. znak: DAR.673.10.2016 o zezwoleniu na realizację inwestycji drogowej dla zamierzenia budowlanego pod nazwą „Rozbudowa drogi gminnej – ulicy Marii Skłodowskiej - Curie w Lubinie na odcinku od skrzyżowania z al. Niepodległości do skrzyżowania z ul. Traugutta wraz z budową i przebudową kanalizacji deszczowej, oświetlenia drogowego i kolizyjnego uzbrojenia”, w której Starosta Lubiński zobowiązał do niezwłocznego wydania nieruchomości w tym działki nr 18, uprawnił do faktycznego objęcia nieruchomości w posiadanie przez właściwego zarządcę drogi oraz do rozpoczęcia robót. Załączono również pismo Prezydenta Lubina z dnia 2 marca 2017 r., znak: IN-R.7013.2.5.2017 wzywające PKN ORLEN S.A. do zaprzestania jakiejkolwiek działalności w obrębie dz. nr 18 oraz usunięcie urządzeń znajdujących się na przedmiotowym terenie do dnia 9 marca 2017 r. W związku  z powyższym firma GEO-KAT Ochrona Środowiska Sp. z o.o. z/s ul. Gawrota 1B, 02-830 Warszawa zakończyła prace, likwidując w dniach 06.03.2017 r. - 08.03.2017 r., instalację do pompowania i oczyszczania zanieczyszczonych wód gruntowych.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

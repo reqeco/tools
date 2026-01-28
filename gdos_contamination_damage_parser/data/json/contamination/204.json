@@ -1,0 +1,133 @@
+{
+  "registry_id": 204,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.3116,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Wadowicka 3 w Krakowie",
+    "precinct": "0030 jedn. ewid. Podgórze",
+    "parcel_numbers": [
+      "126104_9.0030.73/4",
+      "126104_9.0030.73/10",
+      "126104_9.0030.73/12",
+      "126104_9.0030.73/13",
+      "126104_9.0030.73/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((567252.8109390836 241303.09203270078,567241.6984168537 241307.3253745027,567138.5107104824 241318.437896722,567117.8731692021 241300.71077793185,567083.2126832117 241283.2482430106,567091.4147829518 241239.06273797248,567105.9668953919 241242.23774432298,567106.4960631122 241238.53357025236,567220.2671239933 241201.756413362,567252.8109390836 241303.09203270078))",
+    "site_description": "Przedmiotowe zanieczyszczenie  związane jest z wykorzystaniem w latach 50-tych XX wieku zanieczyszczonego gruntu do niwelacji tego terenu."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "Buma INWESTOR 30 Sp.z o.o.",
+      "address": "ul. Wadowicka 6 wejście 11, 30-415 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "313-1740 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "202-1440 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "344-1820 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "25,3[mg/kg s.m.]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-12-09",
+    "legal_basis": "art. 61 § 3 Kpa",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-12-23",
+        "reference": "ZS.516.1.12.2016.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-06-06",
+        "reference": "ZS.515.7.2017.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-08-04",
+        "reference": "ZS.515.9.2017.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-01-11",
+        "reference": "ZS.515.15.2017.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Buma INWESTOR 30 Sp.z o.o.",
+        "address": "ul. Wadowicka 6 wejście 11, 30-415 Kraków",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2017-02-01",
+    "planned_end": "2020-12-01",
+    "actual_end": "2020-04-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Z przeważającej części remediowanego terenu usunięto zanieczyszczoną glebę i ziemię i przekazano je podmiotom posiadającym uregulowany stan formalno-prawny w zakresie gospodarowania tego typu odpadami. Na fragmentach terenu wykonano warstwę zabezpieczającą poprzez nawiezienie materiału wolnego od zanieczyszczeń oraz nasadzeniu roślin i wysianiu traw.",
+    "ecological_effect": "Teren remediacji podzielono na strefy - w trzech strefach całkowicie usuwano zanieczyszczoną glebę i ziemię do momentu gdy ziemia w granicach tych stref spełniała zawartości substancji powodujących ryzyko określone dla IV grupy gruntów, ustalonej w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz.1395). W kolejnych trzech strefach częściowo usunięto zanieczyszczoną glebę i ziemię, a w jej miejsce nawieziono materiał wolny od zanieczyszczeń tworząc warstwę zabezpieczającą, na której wysiano trawy i wysadzono rośliny. W jednej strefie nie usuwano zanieczyszczonej gleby i ziemi tylko nawieziono warstwę zabezpieczającą, na której wysiano trawy i wysadzono rośliny. Brak możliwości całkowitego usunięcia zanieczyszczonej gleby i ziemi w niektórych strefach wynikał m.in. z konieczności pozostawienia przebiegającej w tym miejscu sieci elektroenergetycznej oraz z braku zgody na wycinkę drzew.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Wpis dotyczy części działki numer 73/4"
+}

@@ -1,0 +1,78 @@
+{
+  "registry_id": 1008,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Kościuszki 59b w Trzebini",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.795/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532625.2691558709 254260.23647442274,532608.8649563908 254248.85936834384,532659.0035983408 254229.01557865366,532669.0577851109 254255.2093810439,532643.6577343108 254264.07294043433,532637.1754296809 254264.20523236413,532630.0316653907 254262.61772919446,532625.2691558709 254260.23647442274))",
+    "site_description": "teren po byłych Zakładach Metalurgicznych Trzebinia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "do korespondencji: Przedsiębiorstwo Produkcyjno-Handlowe UNITEK  G. Nowak, A. Nowak Sp. j ul. Kościuszki 59b 32-540 Trzebinia",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "120305_4.0013.795/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-06",
+    "legal_basis": "Art. 61 § 1 Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.97.2019.MK",
+    "decisions": [
+      {
+        "issue_date": "2019-12-17",
+        "reference": "ZS.513.97.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "do korespondencji: Przedsiębiorstwo Produkcyjno-Handlowe UNITEK  G. Nowak, A. Nowak Sp. j ul. Kościuszki 59b 32-540 Trzebinia",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

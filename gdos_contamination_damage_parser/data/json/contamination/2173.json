@@ -1,0 +1,273 @@
+{
+  "registry_id": 2173,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.4335,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "Przemyśl",
+    "municipality": "Przemyśl",
+    "address": null,
+    "precinct": "0214 Przemyśl Bakończyce",
+    "parcel_numbers": [
+      "186201_1.0214.1055",
+      "186201_1.0214.1060",
+      "186201_1.0214.1053/3",
+      "186201_1.0214.1074/1",
+      "186201_1.0214.1074/4",
+      "186201_1.0214.1074/8",
+      "186201_1.0214.1074/10",
+      "186201_1.0214.65/13",
+      "186201_1.0214.65/30",
+      "186201_1.0214.65/35",
+      "186201_1.0214.65/41",
+      "186201_1.0214.65/43",
+      "186201_1.0214.65/44",
+      "186201_1.0214.65/46",
+      "186201_1.0214.65/48",
+      "186201_1.0214.660/7",
+      "186201_1.0214.660/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((773744.8895186202 218047.75587692484,773729.6388033628 218064.18017104082,773731.9867596431 218063.99607709888,773744.8895186202 218047.75587692484)),((773817.7985666255 217964.6793100452,773825.7025139474 217958.60088079795,773808.2860538237 217960.61600944586,773799.1775555857 217970.32303284574,773794.7122026869 217974.29532492068,773786.3310426176 217982.41693211626,773776.8685089846 217993.07267891243,773771.3681326736 218002.18852879852,773777.8930897518 218001.15050935652,773797.4947008139 217980.96680330113,773817.7985666255 217964.6793100452)),((773940.2557548827 217852.2006190177,773947.7192829403 217845.81209516805,773944.5835346553 217822.6570652444,773918.3812444971 217850.26932853647,773897.7953858717 217873.18416877836,773899.4835842333 217885.8874253044,773940.2557548827 217852.2006190177)),((773954.6825896055 217822.28865369875,773953.663411671 217813.07842352893,773944.5835346553 217822.6570652444,773947.7192829403 217845.81209516805,773956.4689835726 217838.32655137964,773954.6825896055 217822.28865369875)),((773688.7920293463 218221.67223758437,773710.4481988456 218163.20250621438,773687.8760886621 218165.71548349317,773670.683891664 218167.37464703247,773640.872984031 218239.13354879245,773625.2031846952 218292.469430089,773619.586258221 218302.73027054686,773624.1322444719 218304.90828535333,773631.0738212175 218309.94275938533,773647.0287992036 218320.05979555938,773667.6492849521 218267.04436412547,773688.7920293463 218221.67223758437)),((773744.8895186202 218047.75587692484,773757.9486234727 218031.57623125147,773768.1007313265 218017.498103234,773771.7340934965 218009.62093487848,773777.8930897518 218001.15050935652,773771.3681326736 218002.18852879852,773776.8685089846 217993.07267891243,773776.3448546231 217993.55898875743,773770.1920984818 217999.0826791171,773766.4895199595 217999.43698273879,773722.3933445802 218056.94012176245,773699.0568536946 218097.18376031052,773704.0535060497 218096.66523587424,773708.5452685654 218087.34172695782,773719.1010942606 218074.8744022064,773725.5686726973 218067.93825554382,773729.6388033628 218064.18017104082,773744.8895186202 218047.75587692484)),((773354.9423928306 218751.14347959124,773362.3441479325 218729.3135077916,773386.0251887535 218669.94670007378,773327.9398172775 218776.62693657354,773325.1009971679 218782.5121401446,773336.9931200027 218788.6189268874,773338.9210846882 218783.0137406271,773345.6915911948 218766.88555259444,773354.9423928306 218751.14347959124)),((773436.8280405444 218546.22005254216,773447.2649608025 218524.57262459584,773453.9024795152 218514.64057333395,773460.838658798 218505.49030560907,773467.0558487112 218508.61190796643,773474.1272798281 218512.1514121499,773456.8463539111 218494.56795829628,773455.4188287084 218491.62575944606,773453.8416330109 218488.37284009624,773449.0202192301 218486.11628788617,773440.1522322288 218506.785831823,773413.001238437 218570.0811346583,773418.3495674463 218572.55330293346,773398.7855817208 218617.54949143436,773405.1662757613 218622.4262419287,773436.8280405444 218546.22005254216)),((773670.683891664 218167.37464703247,773687.8760886621 218165.71548349317,773710.4481988456 218163.20250621438,773709.3227148274 218129.60604291596,773708.2331301726 218096.22248826362,773704.0535060497 218096.66523587424,773699.0568536946 218097.18376031052,773722.3933445802 218056.94012176245,773766.4895199595 217999.43698273879,773770.1920984818 217999.0826791171,773776.3448546231 217993.55898875743,773776.8685089846 217993.07267891243,773786.3310426176 217982.41693211626,773794.7122026869 217974.29532492068,773799.1775555857 217970.32303284574,773808.2860538237 217960.61600944586,773830.202337584 217940.44645917974,773856.7666715696 217911.61538779084,773860.1479506948 217894.89996976312,773826.0473038437 217933.3124606777,773795.6025484931 217964.86171844695,773686.6888649053 218076.5801741341,773665.9327035453 218099.1928531751,773654.1052864664 218113.43980951235,773633.7866048773 218139.5601161709,773624.0370833805 218152.86314580776,773596.8442307466 218194.41309544444,773563.3740141718 218251.16185818706,773571.5896515236 218256.63222673535,773619.8502822609 218288.864218927,773625.2031846952 218292.469430089,773640.872984031 218239.13354879245,773670.683891664 218167.37464703247)),((773918.3812444971 217850.26932853647,773944.5835346553 217822.6570652444,773953.663411671 217813.07842352893,773962.8184770131 217803.42460442055,773975.0875399408 217790.67061157804,773976.6565296955 217788.9408876486,773987.8683038028 217777.15884903818,773998.8564984251 217765.72276052553,774003.3079375355 217761.05784443766,774010.9712120688 217752.8782619601,774025.7860349279 217737.57758980338,774038.3425525525 217724.4217477385,774042.7554042407 217719.7342040073,774111.8335729695 217651.09720661212,774189.8372790123 217572.6405823473,774230.3939020807 217530.61896667816,774223.2115628235 217523.63374716043,774134.6833163786 217614.69024700392,774094.1740786316 217654.95067368168,774050.3352580724 217698.53744259384,774031.7312012592 217716.09127920028,773978.5336098328 217770.73165997118,773977.7711797755 217770.28981813602,773917.1952674971 217830.79306890722,773892.6396726214 217858.36487699114,773861.459437108 217893.42371732648,773860.1479506948 217894.89996976312,773856.7666715696 217911.61538779084,773868.1980040283 217899.84802957252,773868.9731662839 217899.19806940295,773884.0705425777 217886.42238019407,773886.8731406768 217883.63222971,773889.0236530877 217881.6004983848,773897.7953858717 217873.18416877836,773918.3812444971 217850.26932853647)),((773483.8504408211 218525.9724375708,773467.0558487112 218508.61190796643,773460.838658798 218505.49030560907,773453.9024795152 218514.64057333395,773447.2649608025 218524.57262459584,773436.8280405444 218546.22005254216,773405.1662757613 218622.4262419287,773422.225582595 218633.11824473646,773426.0404213378 218627.32826277614,773483.8504408211 218525.9724375708)),((773509.9766398642 218553.55921124667,773502.1172622856 218544.8547058655,773490.1804292054 218532.5098355878,773476.5783615173 218556.2214917019,773501.4497313339 218569.26945153903,773509.9766398642 218553.55921124667)),((773619.8502822609 218288.864218927,773571.5896515236 218256.63222673535,773560.9280512275 218268.8819473507,773544.901292643 218295.88014793675,773531.2725274893 218321.04358277097,773509.5816400506 218365.3164604213,773490.7962426303 218409.3121389728,773474.304145028 218446.58422449417,773455.4188287084 218491.62575944606,773456.8463539111 218494.56795829628,773474.1272798281 218512.1514121499,773490.7586103672 218487.96032309067,773498.646218262 218478.67307884805,773507.8711504017 218469.1743793497,773515.4438179699 218470.01070700493,773619.8502822609 218288.864218927)),((773491.7235629745 218529.81606955547,773490.1804292054 218532.5098355878,773502.1172622856 218544.8547058655,773509.9766398642 218553.55921124667,773517.4362121297 218561.64559369907,773520.0717716259 218559.40567853302,773511.6774937506 218550.4549530223,773504.603110052 218542.7551609287,773491.7235629745 218529.81606955547)),((773523.8203474485 218528.48032416124,773500.0727187861 218515.26680574287,773491.7235629745 218529.81606955547,773504.603110052 218542.7551609287,773511.6774937506 218550.4549530223,773523.8203474485 218528.48032416124)),((773962.8184770131 217803.42460442055,773953.663411671 217813.07842352893,773954.6825896055 217822.28865369875,773963.2414524538 217813.45713165682,773963.7164517617 217814.00007964764,773962.8184770131 217803.42460442055)),((773975.0875399408 217790.67061157804,773962.8184770131 217803.42460442055,773963.7164517617 217814.00007964764,773972.7900055643 217824.33938289247,773977.2021172382 217820.56401148252,773975.7137969309 217804.41569152568,773975.0875399408 217790.67061157804)))",
+    "site_description": "Teren bocznicy kolejowej Przemyśl Bakończyce"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa, podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polskie Koleje Państwowe S.A.",
+      "address": "Al. Jerozolimskie 142A,  02-305 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "186201_1.0214.1055",
+        "186201_1.0214.1060",
+        "186201_1.0214.1053/3",
+        "186201_1.0214.1074/1",
+        "186201_1.0214.1074/4",
+        "186201_1.0214.1074/8",
+        "186201_1.0214.1074/10",
+        "186201_1.0214.65/13",
+        "186201_1.0214.65/30",
+        "186201_1.0214.65/35",
+        "186201_1.0214.65/41",
+        "186201_1.0214.65/43",
+        "186201_1.0214.65/44",
+        "186201_1.0214.65/46",
+        "186201_1.0214.65/48",
+        "186201_1.0214.660/7",
+        "186201_1.0214.660/10"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "659 mg/kg s.m.",
+      "area_ha": 0.4519
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "613 mg/kg s.m.",
+      "area_ha": 0.4862
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "do 81,3 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "do 0,736 mg/kg s.m.",
+      "area_ha": 0.133
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "do 1,02 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "do 1,30 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "do 1,15 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "do 0,854 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "do 1,01 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "do 0,59 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "do 0,85 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Fenantren",
+      "concentration": "do 1,43 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Fluoranten",
+      "concentration": "do 2,74 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Piren",
+      "concentration": "do 2,11 mg/kg s.m.",
+      "area_ha": 0.2796
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Acenaften",
+      "concentration": "do 0,137 mg/kg s.m.",
+      "area_ha": 0.133
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "34 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "do 1640 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "do 128 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "do 1200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "258 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "do 1630 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "4,35 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-09-16",
+    "legal_basis": "art. 101l ust. 4 POŚ",
+    "case_reference": "WSI.515.3.2024",
+    "decisions": [
+      {
+        "issue_date": "2025-04-11",
+        "reference": "WSI.515.3.2024.JŁ.26",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-04-30",
+        "reference": "WSI.515.3.2024.JŁ.28",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polskie Koleje Państwowe S.A.",
+        "address": "Al. Jerozolimskie 142A,  02-305 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-04-01",
+    "planned_end": "2026-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja powierzchni ziemi polegać będzie na usunięciu zanieczyszczenia do dopuszczalnej zawartości w glebie substancji powodujących ryzyko, metodą „ex-situ”, polegającą na: - kontrolowanym wydobyciu zanieczyszczonej gleby; - przekazaniu zanieczyszczonej gleby na składowisko odpadów lub do unieszkodliwienia, lub odzysku uprawnionemu podmiotowi posiadającemu stosowne zezwolenia w zakresie gospodarki odpadami; - potwierdzeniu usunięcia całej zanieczyszczonej gleby poprzez pobranie próbek gleby oraz dokonaniu ich analizy ze względu na zawartość substancji stwarzających ryzyko; - ewentualnym wypełnieniu powstałego wykopu, glebą spełniającą standardy jakości, zgodnie z wymogami rozporządzenia, po uzyskaniu wyników badań potwierdzających usunięcie zanieczyszczenia.  Remediacja metodą ex-situ dotyczy części terenu działek o nr ewid. 1055, 1060, 1053/3, 1074/1, 65/13, 65/30, 65/35, 65/41, 65/43, 65/44, 65/46, 65/48, 660/7, 660/10 obręb 0214 Przemyśl Bakończyce.",
+    "ecological_effect": "Zwolnienie z obowiązku przeprowadzenia remediacji historycznego zanieczyszczenia powierzchni ziemi  dotyczy części terenu działek o nr ewid. 1074/4, 1074/8, 1074/10, 65/13, 65/41, 65/43 obręb 0214 Przemyśl Bakończyce (substancje stwarzające ryzyko: miedź, ołów; IV grupa gruntów, gł. 0,0-0,25 m.p.p.t.).  Zawartość substancji powodujących ryzyko w glebie i ziemi, do których doprowadzi remediacja: - zgodnie z dopuszczalnymi zawartościami określonymi w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395, ze zm.), dla głębokości 0,0 – 0,25 m p.p.t.: antracen, chryzen, benzo(a)antracen, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, benzo(ghi)perylen, ideno(1,2,3-c,d)piren, suma węglowodorów C12-C35, składników frakcji oleju (dla głębokości 0,0 – 0,25 m p.p.t., dla gruntów grupy II), arsen, bar, cyna, cynk, miedź, ołów, rtęć (dla głębokości >0,25 m p.p.t., dla gruntów grupy IV); - dla substancji niewymienionych w ww. rozporządzeniu, dla głębokości 0,0 – 0,25 m p.p.t., dla gruntów grupy II: fenantren: nie więcej niż 0,1 mg/kg s.m., fluoranten: nie więcej niż 0,1 mg/kg s.m., piren: nie więcej niż 0,2 mg/kg s.m., acenaften: nie więcej niż 0,1 mg/kg s.m.",
+    "effect_assessment": null
+  },
+  "notes": "Zwolnienie z obowiązku przeprowadzenia remediacji historycznego zanieczyszczenia powierzchni ziemi  dotyczy części terenu działek o nr ewid. 1074/4, 1074/8, 1074/10, 65/13, 65/41, 65/43 obręb 0214 Przemyśl Bakończyce (substancje stwarzające ryzyko: miedź, ołów; IV grupa gruntów, gł. 0,0-0,25 m.p.p.t.) - decyzja z dnia 30 kwietnia 2025 r., znak: WSI.515.3.2024.JŁ.28;  Ustalony plan remediacji historycznego zanieczyszczenia powierzchni ziemi dotyczy części terenu działek o nr ewid. 1055, 1060, 1053/3, 1074/1, 65/13, 65/30, 65/35, 65/41, 65/43, 65/44, 65/46, 65/48, 660/7, 660/10 obręb 0214 Przemyśl Bakończyce - decyzja z dnia 11 kwietnia 2025 r., znak: WSI.515.3.2024.JŁ.26;  WSI.513.1.2025.JŁ - postępowanie w sprawie dokonania wpisu o‍ potencjalnym historycznym zanieczyszczeniu powierzchni ziemi terenu działek o nr ewid.: 1055, 1060, 1053/3, 1074/1, 1074/4, 1074/8, 1074/10, 65/13, 65/30, 65/35, 65/41, 65/43, 65/44, 65/46, 65/48, 660/7, 660/10 obręb 0214 Przemyśl Bakończyce"
+}

@@ -1,0 +1,96 @@
+{
+  "registry_id": 268,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "Gdańsk, ul. Kujawska 10",
+    "precinct": "0072",
+    "parcel_numbers": [
+      "16",
+      "arkusz 3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((478061.48664383247 724226.6213682713,478061.4866438324 724225.8276166795,478056.45955043985 724191.4317145534,478053.54912795237 724162.327489676,478052.2262086398 724131.6357616242,478050.7709973987 724086.7887969324,478049.3157861573 724068.4002184905,478365.49350184 724019.4522039238,478370.2560113698 724015.7480298551,478380.31019814 724016.2771975743,478384.0143722199 724021.0397071037,478391.95188808994 724014.6896944046,478408.88525529 724012.5730235046,478414.70610026986 724009.9271848751,478415.2352679899 724035.3272356736,478411.5310939198 724034.2689002259,478412.0602616399 724045.9105901737,478442.4874058275 724040.089745204,478454.393679645 724037.4439065801,478465.24161800236 724031.3584777368,478466.0353695949 724049.8793481169,478454.65826350736 724041.6772483792,478070.21791128983 724213.127591284,478065.7199856325 724222.1234426042,478061.7512276899 724226.8859521337,478061.48664383247 724226.6213682713))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2011-03-23",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda w środowisku polegająca na zanieczyszczeniu terenu działki nr 16 położonej w Gdańsku przy ul.Kujawskiej 10 oraz wód podziemnych substancjami ropopochodnymi",
+  "total_area_ha": 3.6318,
+  "reporters": [
+    {
+      "name": "COMAL Sp. z o.o.",
+      "address": "80-341 Gdańsk, ul. Bałtycka 5",
+      "legal_form": "Spółka z o.o."
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "COMAL Sp.zo.o.",
+      "address": "80-341Gdańsk, ul. Bałtycka 5",
+      "economic_activity_code": "38.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3905 - >4000 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-07-06",
+    "detection_date": "2011-03-23",
+    "decisions": [
+      {
+        "issue_date": "2011-11-15",
+        "reference": "RDOŚ-Gd-WSI-I.511.27.3.2011.KG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-09-28",
+        "reference": "RDOŚ-Gd-WSI-I.511.27.2011.KG.PG.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2021-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "•\tzałożeniu folii izolacyjnej PE lub PCV w wykopie, wykonanym w bezpośrednim sąsiedztwie nabrzeża Kanału Kaszubskiego (Martwej Wisły), równolegle do niego, na całej szerokości terenu „Terminalu” i częściowo wzdłuż jego północnej granicy (na długości ok. 50 m); membrana powinna sięgać od powierzchni terenu na głębokość 1,0 m poniżej średniego poziomu zalegania wód podziemnych; jej lokalizacja pokazana jest na rysunkach stanowiących załącznik nr 2 i 3 do niniejszej decyzji; •\tusuwaniu zanieczyszczonych wód podziemnych przy użyciu pomp zainstalowanych w trzech studniach obserwacyjno – oczyszczających posadowionych w miejscach wskazanych na planie stanowiącym załącznik nr 1 do niniejszej decyzji oznaczonych jako P1, P2 i P3 pracujących do 8 h/dobę; głębokość studni o średnicy 100 mm będzie wynosić od 3,0 do 4,0 m ppt, z zafiltrowaniem od 1,0 m ppt; •\tgromadzeniu zanieczyszczonych wód w przenośnych zbiornikach i kierowaniu  zmagazynowanych odpadów płynnych do oczyszczalni wód zaolejonych Przedsiębiorstwa „COMAL” Sp. z o.o. zlokalizowanej na terenie Stoczni Remontowej w Gdańsku (pozwolenie zintegrowane Wojewody Pomorskiego znak ŚR/Ś.II.6619//3/2004, z dnia 28.04.2004 roku, zmienione przez Marszałka Województwa Pomorskiego decyzją nr DROŚ S.IS.7650/9/10 z dnia 26.04.2010 r.); •\tusunięciu zestalonych substancji ropopochodnych z obszaru obwałowania zbiornika nr 1, a następnie zebraniu tego odpadu (mieszaniny substancji ropopochodnych z gruntem o kodzie 17 05 03*) i przekazanie do odzysku lub unieszkodliwiania firmie legitymującej się wymaganymi prawem zezwoleniami na tego rodzaju działalność; •\tpozostawieniu gruntu do samoistnego oczyszczenia poprzez wymywanie substancji ropopochodnych pod wpływem działania opadów atmosferycznych, które jako zanieczyszczone odpompowywane będą wraz z zanieczyszczonymi wodami podziemnymi, usuwanymi za pośrednictwem studni kontrolnych P1, P2 i P3.",
+    "ecological_effect": "•\tdoprowadzić do poziomu zanieczyszczeń w glebie nie przekraczającego wartości przewidzianych dla funkcji gruntów grupy C - tereny przemysłowe, użytki kopalne, tereny komunikacyjne podanych w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi, tj. dla oleju mineralnego (węglowodory C12-C35), na głębokości od  0 do 2 m ppt: 3000 mg/kg s.m., zaś na głębokości od 2 do 15 m ppt, w piaskach drobnoziarnistych (o wodoprzepuszczalności do 10-7 m/s): 1000 mg/kg s.m.; •\tdoprowadzić jakość wód podziemnych do takiego poziomu aby stężenia substancji ropopochodnych na ich wypływie z działki nr 16, arkusz 3 zlokalizowanej w Gdańsku, przy ul. Kujawskiej 10, mierzone w studniach kontrolnych P1, P2 i P3 nie przekraczały stężenia na napływie, mierzonego w piezometrze P4 (załącznik nr 3 do niniejszej decyzji).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

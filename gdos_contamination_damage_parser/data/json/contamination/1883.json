@@ -1,0 +1,233 @@
+{
+  "registry_id": 1883,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 5.9132,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "ul. Starkiewicza Szczecin",
+    "precinct": "Śródmieście 57 Szczecin",
+    "parcel_numbers": [
+      "44/11",
+      "44/12",
+      "44/21",
+      "44/24"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((203425.37068292600451969 625285.98436557105742395, 203388.74711674501304515 625298.30177541403099895, 203393.30964426099671982 625311.74319042696151882, 203406.11010318298940547 625317.35711729002650827, 203383.03522196100675501 625438.003786999033764, 203363.00165802901028655 625434.37926752702333033, 203362.76712289699935354 625432.87938551802653819, 203357.96007037299568765 625433.64033542096149176, 203346.0420451289974153 625435.53210646996740252, 203342.43689560599159449 625436.10531619901303202, 203342.82726821099640802 625440.20170434098690748, 203343.45394915400538594 625446.90009944594930857, 203343.81357790599577129 625450.62746589700691402, 203344.03732645101263188 625458.18016766104847193, 203344.73403458000393584 625481.64848092198371887, 203344.68908409299911 625495.47891115199308842, 203344.65441299098893069 625506.10229322500526905, 203348.94080942901200615 625544.78011176001746207, 203352.09744534699711949 625551.38652588496915996, 203370.29018263300531544 625571.47743048402480781, 203376.82961057999636978 625578.72554411203600466, 203388.24265443001058884 625567.66356072202324867, 203397.7727178760105744 625559.29254307004157454, 203408.37550035200547427 625550.93142436200287193, 203417.56243709599948488 625544.12279214302543551, 203428.08112957599223591 625537.11912720301188529, 203436.81909880798775703 625532.12932911398820579, 203445.18118823599070311 625527.76185373705811799, 203453.32262095899204724 625523.74745809996966273, 203476.54510536498855799 625512.96417223801836371, 203493.76015696598915383 625505.65458974300418049, 203504.87149120098911226 625501.35316601395606995, 203516.84409741999115795 625497.04345521703362465, 203530.56405693700071424 625492.44523085094988346, 203545.10600256698671728 625488.0313098740298301, 203556.57824777098721825 625484.98218658694531769, 203568.64890959500917234 625482.24014410702511668, 203581.26770049601327628 625480.15871371794492006, 203590.44755372000508942 625479.11210904398467392, 203599.69316528001218103 625478.52274095604661852, 203610.04448200599290431 625478.35224714502692223, 203619.74787149598705582 625478.59890816803090274, 203629.00479074500617571 625479.28147088596597314, 203639.33531356899766251 625480.5249932570150122, 203646.43814699599170126 625481.56901244097389281, 203658.339789388992358 625483.84656404203269631, 203708.74819689599098638 625494.67319408804178238, 203714.33240181900328025 625496.15320410497952253, 203716.06133258598856628 625496.60721931094303727, 203731.38740906500606798 625493.13124538399279118, 203732.37715865499922074 625488.98742161702830344, 203736.60849420199519955 625474.94196267100051045, 203661.23592166299931705 625414.44433184596709907, 203583.44476856300025247 625351.91810014494694769, 203523.008491001004586 625303.30721997399814427, 203425.37068292600451969 625285.98436557105742395))",
+    "site_description": "na przedmiotowym terenie w latach 90-tych XX wieku Spółka PKP S.A. prowadziła działalność związaną z istniejącym wówczas torowiskiem kolejowym, na którym realizowany był najpierw ruch osobowy, a później towarowy pociągów."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Transport kolejowy towarów",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "MDR Szczecin Starkiewicza Sp. z o.o.",
+      "address": "ul. Przeskok 2, 00-032 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "44/11",
+        "44/12",
+        "44/21",
+        "44/24"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "220-360 mg/kg s.m.",
+      "area_ha": 0.7319
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "240-290 mg/kg s.m.",
+      "area_ha": 0.7199
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "36 mg/kg s.m.",
+      "area_ha": 0.4457
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "7,1 mg/kg s.m.",
+      "area_ha": 0.4457
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,5-6,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "49-6900 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,23-1,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,29-4,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,34-15 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,19-8,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,59-2,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,25-12 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,42-17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,18-5,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,8-8,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,8-8,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Krezole",
+      "concentration": "0,12-0,49 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ftalany",
+      "concentration": "0,55-10,16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "310 mg/kg s.m.",
+      "area_ha": 0.0075
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ftalany",
+      "concentration": "0,55-0,76 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-04-27",
+    "legal_basis": "art. 101 c ust. 3 pkt 3",
+    "case_reference": "WONS.513.3.2023.MR",
+    "decisions": [
+      {
+        "issue_date": "2023-09-25",
+        "reference": "WONS.513.3.2023.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-01-02",
+        "reference": "WONS.515.6.2023.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MDR Szczecin Starkiewicza Sp. z o.o.",
+        "address": "ul. Przeskok 2, 00-032 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2024-03-01",
+    "planned_end": "2024-10-01",
+    "actual_end": "2024-12-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczeń ropopochodnych z warstwy przypowierzchniowej 0,0-0,25 m p.p.t. w ośmiu sekcjach (1, 3, 4, 6, 8, 10, 11, 12) oraz warstwy przekraczającej głębokość 0,25 m p.p.t. (otwory 4, 9, 12) odbędzie się przy zastosowaniu metody bioremediacji in-situ. Natomiast w sekcjach 2, 5 oraz 9 w związku z obecnością metali ciężkich przekraczających najwyższe dopuszczalne stężenie dla gruntów grupy I, remediacja warstwy przypowierzchniowej 0,0-0,25 m p.p.t. na łącznej pow. 12 011 m2 zostanie przeprowadzona w trybie ex situ.",
+    "ecological_effect": "Potwierdzeniem osiągnięcia efektu ekologicznego prac remediacyjnych prowadzonych w poszczególnych sekcjach do głębokości do 0,25 m. p.p.t. (dot. sekcji 1-6,8-12) będą wyniki badań próbek gleby (1 próbka uśredniona z każdej sekcji, łącznie 11 próbek zbiorczych), wykazujące osiągnięcie dopuszczalnych zawartości dla stwierdzonych w badanych obszarach substancji powodujących ryzyko. Natomiast dla przedziału głębokości 0,25-1,0 m p.p.t. próbki zostaną pobrane za pomocą świdra ręcznego, co najmniej po 4 próbki w rejonach każdego z otworów OW4, OW9, OW12. Łącznie w obszarze poddanym remediacji, zostaną pobrane co najmniej 23 próbki gleby i ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

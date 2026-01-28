@@ -1,0 +1,91 @@
+{
+  "registry_id": 89,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0008,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "oleski",
+    "municipality": "Olesno",
+    "address": "46-300 Olesno, ul. Leśna 2",
+    "precinct": "Olesno",
+    "parcel_numbers": [
+      "509 obręb Olesno"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((459579.7475658288 336706.53983550053,459556.46418592834 336517.09778995067,459547.99750232813 336412.85174812283,459763.36876639875 336400.6808904549,459766.5437727488 336480.05604920536,459792.4729912788 336477.93937830254,459793.53132672893 336553.08119525295,459696.69363304874 336623.9896704033,459579.7475658288 336706.53983550053))",
+    "site_description": "Olesno, ul. Leśna 2"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 1998 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Odlewnictwo miedzi i stopów miedzi",
+    "current": "Odlewnictwo miedzi i stopów miedzi"
+  },
+  "land_holders": [
+    {
+      "name": "Oras Olesno Sp. z o. o.",
+      "address": "ul. Leśna 2, 46-300 Olesno",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.54.A"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Cynk (Zn)",
+      "concentration": "1100 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Miedź (Cu)",
+      "concentration": "840 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-05-06",
+    "legal_basis": "art. 101l ust. 2, zwolnienie z remediacji",
+    "case_reference": "WOOŚ.511.1.3.2016.KM",
+    "decisions": [
+      {
+        "issue_date": "2016-06-16",
+        "reference": "WOOŚ.511.1.3.2016.KM.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Oras Olesno Sp. z o. o.",
+        "address": "ul. Leśna 2, 46-300 Olesno",
+        "economic_activity_code": "24.54.A"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

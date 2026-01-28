@@ -1,0 +1,281 @@
+{
+  "registry_id": 599,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.7219,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "elbląski",
+    "municipality": "Pasłęk",
+    "address": "ul. Konopnicka 7 14-400 Pasłęk",
+    "precinct": "0001 miasto Pasłęk",
+    "parcel_numbers": [
+      "61/32"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((542628.3484379688 689005.8131908085,542621.4692575389 688960.3047664575,542688.9381424789 688945.2234862996,542682.5881297789 688911.0921680359,542715.131944869 688903.6838198872,542720.9527898389 688926.7026159279,542756.9361951391 688919.2942677764,542750.5332656691 688892.3067137972,542784.929167799 688879.6066883989,542799.745864099 688966.9193630265,542782.2833291689 688970.6235370953,542785.9875032491 688992.3194138259,542741.008246619 689010.8402841967,542775.3115443891 689076.1924982369,542771.607370309 689078.5737529965,542770.5490348589 689079.3675045874,542765.5219414788 689068.5195662258,542747.265654959 689075.6633305168,542746.2073195091 689073.0174918864,542734.036461839 689077.515417546,542735.3593811489 689078.8383368682,542729.5385361791 689080.9550077682,542725.305194379 689071.9591564368,542714.4572560089 689075.3987466469,542711.2822496588 689066.4028953277,542701.4926467489 689070.1070693983,542705.4614046889 689078.8383368682,542702.286398339 689080.1612561783,542693.0259631488 689064.0216405662,542681.6488570588 689069.0487339487,542669.7425832489 689069.5779016782,542646.9883710789 689005.0194392279,542628.3484379688 689005.8131908085))",
+    "site_description": "Zidentyfikowane przez Starostę Elbląskiego potencjalne historyczne zanieczyszczenie powierzchni ziemi dotyczy części nieruchomości, tj. miejsca składowania odpadów odlewniczych o powierzchni około 0,3048 ha."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Od lat 70. XX w. do 2002 r. działalność polegającą na odlewnictwie żeliwa prowadził Bumar Waryński S.A. Grupa Holdingowa z siedzibą w Warszawie przy ul. Kolejowej 57, a następnie (2002-2018) Odlewnia Żeliwa i Metali Nieżelaznych „ORWO” w Pasłęku. Według wykazu Starosty Elbląskiego, odpady odlewnicze w miejscu występowania potencjalnego historycznego zanieczyszczenia powierzchni ziemi były gromadzone w czasie działalności Spółki Bumar Waryński."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Odlewnictwo żeliwa",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "28,3 i 162 mg/kg s.m.",
+      "area_ha": 0.4045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "564-2100 mg/kg s.m.",
+      "area_ha": 0.8648
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,05 mg/kg s.m.",
+      "area_ha": 0.2399
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "386-1560 mg/kg s.m.",
+      "area_ha": 1.2357
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "217 mg/kg s.m.",
+      "area_ha": 0.2399
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "47,3-107 mg/kg s.m.",
+      "area_ha": 1.7219
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,391 mg/kg s.m.",
+      "area_ha": 0.2399
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,344-1,16 mg/kg s.m.",
+      "area_ha": 0.7754
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,149-1,14 mg/kg s.m.",
+      "area_ha": 1.7219
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,198 i 0,151 mg/kg s.m.",
+      "area_ha": 0.4045
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,200-1,29 mg/kg s.m.",
+      "area_ha": 1.7219
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,179-1,14 mg/kg s.m.",
+      "area_ha": 1.7219
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,25-0,787 mg/kg s.m.",
+      "area_ha": 0.7754
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,322-1,04 mg/kg s.m.",
+      "area_ha": 0.7754
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,16-0,992 mg/kg s.m.",
+      "area_ha": 1.7219
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "33 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "409-1270 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "212-1370 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "146-195 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,37 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,39 mg/kg s.m.",
+      "area_ha": 0.7
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,14 mg/kg s.m.",
+      "area_ha": 0.7
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-02-24",
+    "legal_basis": "101l ust. 2 Poś",
+    "case_reference": "WSI.515.13.2021.KPi",
+    "decisions": [
+      {
+        "issue_date": "2019-02-22",
+        "reference": "WSI.513.54.2018.KPi.JJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 1 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-04-10",
+        "reference": "WSI.515.26.2019.KPi.JJ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-06-08",
+        "reference": "WSI.515.26.2019.KPi.JJ.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-05-26",
+        "reference": "WSI.515.13.2021.KPi.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101l ust.4 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-01-05",
+        "reference": "WSI.515.21.2023.KPi",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-05-06",
+        "reference": "WSI.515.5.2024.KPi.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-03-06",
+      "reason": "Naruszenie: - art. 156 § 1 pkt 4 kpa w zw. z art. 28 kpa oraz art. 107 § 1 kpa poprzez wydanie decyzji w stosunku do spółki a nie jej wspólników, - art. 107 § 1 pkt 3 kpa poprzez brak wskazania stron w decyzji administracyjnej, - art. 10 § 1 kpa poprzez brak udziału prawidłowo oznaczonych stron postępowania na każdym etapie postępowania, - art. 79 kpa poprzez brak zawiadomienia prawidłowo oznaczonych stron w czynnościach dowodowych, w tym w badaniach prowadzonych przez WIOŚ w Olsztynie, - art. 101c ust. 3 POŚ poprzez wydawanie decyzji po upływie 6 miesięcy od otrzymania wykazu.",
+      "appealed_decision_reference": "WSI.513.54.2018.KPi.JJ.3",
+      "resolution_reference": "DOA-WSzOP.513.3.2019.JK.2",
+      "appellant_name": "(…)",
+      "appellant_address": "(…)",
+      "resolution_date": "2019-05-16",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "Utrzymano w mocy decyzję RDOŚ w Olsztynie."
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2022-06-01",
+    "planned_end": "2024-05-31",
+    "actual_end": "2024-05-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja zostanie przeprowadzona w sposób polegający na usunięciu zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko (tj. zgodnie z art. 101q ust. 1 pkt 1 ustawy Prawo ochrony środowiska). Będzie prowadzona metodą ex-situ, która polega na wydobyciu zanieczyszczonego gruntu z miejsca jego występowania i przekazaniu go uprawnionemu podmiotowi zgodnie z przepisami  ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699 t.j.).  Metodą ex-situ zostanie usunięty grunt niespełniający norm przewidzianych dla gruntów grupy I: \tna głębokości 0-0,25 m ppt z powierzchni 17219 m2 (sekcje o nr: S-1, S-2, S-5, S-6, S-7 i S-10). Kubatura zanieczyszczonego gruntu wynosi 4304,75 m3 (17219 m2 x 0,25 m); \tna głębokości 0,25-1,0 m ppt z powierzchni około 7000 m2 (rejony otworów: OT-5 (N: 54.06346708, E: 19.65214336), OT-6 (N: 54.06339992, E: 19.65287067), OT-7 (N: 54.06342641, E: 19.653489), OT-8 (N: 54.06331542, E: 19.65387831) i OT-12 (N: 54.06389099, E: 19.65298285). Kubatura zanieczyszczonego gruntu wynosi 5250 m3 (7000 m2 x 0,75 m). Łącznie z terenu nieruchomości nr: 61/40 i 61/44 obręb 0001 miasto Pasłęk zostanie zatem wydobyte 9554,75 m3 gruntu o zawartości zanieczyszczeń przekraczających wartości dopuszczalne wymienione w pkt II.2 niniejszej decyzji. Przyjmując średnią gęstość zanieczyszczonego gruntu równą 1,6 Mg/m3, masa gruntu niespełniającego wymogów dla gruntów grupy I wynosi około 15288 Mg (9554,75 m3 x 1,6 Mg/m3).  Wydobyty grunt (stanowiący odpad) zostanie załadowany na samochody przystosowane do transportu odpadów i przekazany podmiotowi posiadającemu wymagane zezwolenia na ich zagospodarowanie bądź unieszkodliwienie. Sposób postępowania z odpadami musi być zgodny z przepisami  ustawy o odpadach. Po usunięciu zanieczyszczonej partii gruntów w przedziale głębokościowym 0-0,25 m ppt dno wykopu zostanie opróbowane i przebadane pod kątem określenia w glebie i ziemi zawartości następujących substancji: cyna, cynk, kadm, miedź, ołów, suma węglowodorów C12-C36, składników frakcji oleju, wielopierścieniowe węglowodory aromatyczne (antracen, chryzen, benzo(a)antracen, dibenzo(a,h)antracen, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, benzo(g,h,i)perylen, indeno(1,2,3-c,d)piren)) – co najmniej 9 próbek pojedynczych. Po usunięciu zanieczyszczonej partii gruntów na głębokości przekraczającej 0,25 m ppt powstały wykop (ściany i dno) zostanie opróbowany i przebadany pod kątem określenia w glebie i ziemi zawartości następujących substancji: cyna, cynk, miedź, ołów, wielopierścieniowe węglowodory aromatyczne (benzo(a)antracen, benzo(a)piren, indeno(1,2,3-c,d)piren) – co najmniej 8 pojedynczych próbek z dna wykopu i 7 pojedynczych próbek ze ścian wykopu, łącznie 15 próbek. W pobranych próbkach gruntu należy również laboratoryjnie oznaczyć współczynnik wodoprzepuszczalności. W przypadku pojawienia się w wykopach wody gruntowej zostanie ona odpompowana i przekazana uprawnionemu odbiorcy zgodnie z przepisami  ustawy o odpadach. Prace remediacyjne będą prowadzone pod stałym nadzorem geologicznym, w tym w zakresie usuwania i załadunku gruntu, przy zachowaniu szczególnych środków bezpieczeństwa oraz zastosowaniu środków ochrony indywidualnej odpowiednich do rodzaju wykonywanych prac i zagrożeń związanych z narażeniem na kontakt z odpadami niebezpiecznymi. Do czasu zakończenia prac remediacyjnych obszar historycznego zanieczyszczenia powierzchni ziemi będzie zabezpieczony przed dostępem osób postronnych. Po przeprowadzeniu remediacji teren zostanie zagospodarowany pod budownictwo mieszkaniowe. Grunt nawieziony na teren przedmiotowych nieruchomości po zakończeniu prac budowlanych musi spełniać standardy jakości określone dla gruntów grupy I w załączniku nr 1 do rozporządzenia w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy I i głębokości przekraczającej 0,25 m ppt. Ich zawartość w glebie i w ziemi nie będzie zatem przekraczać następujących wartości:  \tprzy wodoprzepuszczalności wyższej lub równej 1x10-7 m/s: •\tcyna - 30 mg/kg s.m., •\tcynk - 300 mg/kg s.m., •\tkadm - 3 mg/kg s.m., •\tmiedź - 150 mg/kg s.m., •\tołów - 100 mg/kg s.m., •\tsuma węglowodorów C12-C35, składników frakcji oleju - 1000 mg/kg s.m., •\tantracen - 5 mg/kg s.m., •\tchryzen - 5 mg/kg s.m., •\tbenzo(a)antracen - 5 mg/kg s.m., •\tdibenzo(a,h)antracen - 5 mg/kg s.m., •\tbenzo(a)piren - 5 mg/kg s.m., •\tbenzo(b)fluoranten - 5 mg/kg s.m., •\tbenzo(k)fluoranten - 5 mg/kg s.m., •\tbenzo(g,h,i)perylen - 5 mg/kg s.m., •\tindeno(1,2,3-c,d)piren - 5 mg/kg s.m.,  \tprzy wodoprzepuszczalności niższej niż 1x10-7 m/s: •\tcyna - 50 mg/kg s.m., •\tcynk - 500 mg/kg s.m., •\tkadm - 5 mg/kg s.m., •\tmiedź - 300 mg/kg s.m., •\tołów - 300 mg/kg s.m., •\tsuma węglowodorów C12-C35, składników frakcji oleju - 3000 mg/kg s.m., •\tantracen - 20 mg/kg s.m., •\tchryzen -  20 mg/kg s.m., •\tbenzo(a)antracen - 20 mg/kg s.m., •\tdibenzo(a,h)antracen - 20 mg/kg s.m., •\tbenzo(a)piren - 20 mg/kg s.m., •\tbenzo(b)fluoranten - 20 mg/kg s.m.), •\tbenzo(k)fluoranten - 20 mg/kg s.m., •\tbenzo(g,h,i)perylen - 20 mg/kg s.m., •\tindeno(1,2,3-c,d)piren - 20 mg/kg s.m.  Podczas prac remediacyjnych przegłębiono wykop w sekcji S-1 do 1,0 m ppt oraz w sekcji S-5 do 4,0 m ppt z uwagi na występujące zanieczyszczenie gruntu, którego nie zidentyfikowano na etapie badań wstepnych i szczegółowych. W związku z powyższym usunięto zanieczyszczony grunt w ilości większej niż określono w planie remediacji (całkowita masa odpadu wynosiła 32 762,45 Mg). Pobrane próbki kontrolne z dna i ścian wykopów potwierdzają osiągnięcie zakładanego efektu ekologicznego (Sprawozdanie z przeprowadzonej remediacji przedłożono pismem z 28.06.2024 r.).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Burmistrza Pasłęka decyzją  z 03.12.2020 r., znak: RGG.6831.40.2020.AD-2 zatwierdził geodezyjny projekt podziału nieruchomości nr 61/32 obręb 0001 Pasłęk o powierzchni 2,5878 ha w ten sposób, że w wyniku podziału powstały działki o nr: 61/40, 61/41, 61/42, 61/43, 61/44 o łącznej powierzchni 2,5880 ha.  (...) z siedzibą (...) przeprowadziła wstępne i szczegółowe badania zanieczyszczenia gleby i ziemi na terenie działek nr: 61/40, 61/41, 61/42, 61/43, 61/44 obręb 0001 Pasłęk (powstałych z podziału działki nr 61/32 obręb 0001 Pasłęk), wypełniając tym samym obowiązek nałożony decyzją Regionalnego Dyrektora Ochrony Środowiska w Olsztynie z 10.04.2020 r. znak: WSI.515.26.2019.KPi.JJ.6 (zmienioną decyzją z 08.06.2020 r. znak: WSI.515.26.2019.KPi.JJ.7). Wyniki badań potwierdziły występowanie historycznego zanieczyszczenia powierzchni ziemi na terenie nieruchomości nr 61/40 i 61/44 obręb 0001 Pasłęk. Jednocześnie władający powierzchnią ziemi przedłożył wniosek z 18.10.2021 r. (uzupełniony o braki formalne pismem z 14.02.2022 r.) o wydania decyzji ustalającej plan remediacji historycznego zanieczyszczenia powierzchni ziemi na terenie nieruchomości o nr: 61/40 i 61/44 obręb 0001 Pasłęk, położonych przy ul. Marii Konopnickiej w Pasłęku."
+}

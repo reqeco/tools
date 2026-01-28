@@ -1,0 +1,180 @@
+{
+  "registry_id": 170,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.1,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "61-023 Poznań, ul. Średzka 10",
+    "precinct": "003, Komandoria",
+    "parcel_numbers": [
+      "1",
+      "3",
+      "6/2",
+      "9",
+      "10",
+      "12"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((361788.36412748776 507298.7188627608,361704.2264591188 507132.031029379,361790.48079839745 507092.8726177318,361826.46420373954 507168.0144346813,361864.0351122668 507152.1394029334,361910.07270439056 507243.68541936297,361788.36412748776 507298.7188627608))",
+    "site_description": "Teren Zakładu Produktów Naftowych nr 1"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1950-01-01",
+    "to": "2007-04-30",
+    "description": "Zakład funkcjonował od połowy poprzedniego wieku, do 2013 r., w 2002 r. przeprowadzono analizy środowiska gruntowo-wodnego, które wykazały zanieczyszczenie substancjami ropopochodnymi."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od <5 o 6970 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od <13 do 21700 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "od <0,17 do 1040 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Ksyleny",
+      "concentration": "od <0,03 do 850 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Benzen",
+      "concentration": "od <0,02 do 32,4 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Etylobenzen",
+      "concentration": "od <0,02 do 89,9 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Toluen",
+      "concentration": "od <0,01 do 9,43 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od <5 o 6970 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od <13 do 21700 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "od <0,17 do 1040 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "od <0,03 do 850 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzen",
+      "concentration": "od <0,02 do 32,4 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Etylobenzen",
+      "concentration": "od <0,02 do 89,9 mg/kg s.m.",
+      "area_ha": 1.1
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Toluen",
+      "concentration": "od <0,01 do 9,43 mg/kg s.m.",
+      "area_ha": 1.1
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-06-21",
+    "legal_basis": "art. 101l",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-08-24",
+        "reference": "WSS.511.30.2016.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2017-01-01",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja metodą dwukierunkową, poprzez połączenie remediacji ex-situ i in-situ. W pierwszym etapie z obszaru o najwyższym stężeniu zanieczyszczeń, z powierzchni 8.100 m2, na działkach: 1, 3 i 12, usunięty zostanie zanieczyszczony grunt. Po uzyskaniu wyników wskazujących na spełnianie standardów jakości gleby i ziemi, wykopy zostaną zasypane ziemią wolną od zanieczyszczeń. W przypadku napływania wolnego produktu naftowego do wykopów powstałych w związku z usuwaniem zanieczyszczonych gruntów i infrastruktury podziemnej, należy go zebrać, a wodę gruntową napływającą do wykopów i otworów technologicznych należy poddać oczyszczaniu. Oczyszczoną wodę można rozdeszczowywać w obszarze prac remediacyjnych, co spowoduje wytworzenie bariery hydraulicznej dla zaszczepionych mikroorganizmów. Pozostały zanieczyszczony obszar należy poddać remediacji in-situ, w ramach której będą stosowane biopreparaty bakteryjne posiadające odpowiednie atesty. Aplikacje prowadzone będą nie rzadziej niż raz na kwartał. Ponadto, w razie potrzeby, podawane będą w postaci zawiesiny bądź roztworu pożywki, niezbędne do prawidłowego funkcjonowania wprowadzanych mikroorganizmów. W ramach remediacji przewiduje się również stosowanie zabiegów wspomagających procesy biologicznej redukcji zanieczyszczenia, poprzez napowietrzanie mechaniczne lub chemiczne.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

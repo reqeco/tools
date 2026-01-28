@@ -1,0 +1,98 @@
+{
+  "registry_id": 252,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0411,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Krasińskiego 67",
+    "precinct": "7-03-03",
+    "parcel_numbers": [
+      "26/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((633986.485964586 489965.3761738371,634065.8611234175 490010.8845981853,634108.7237091889 489935.2136135027,634064.8027879625 489864.3051383551,634005.5360027036 489899.230208206,633975.9026100753 489959.55532885715,633986.485964586 489965.3761738371))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż hurtowa cukru, czekolady, wyrobów cukierniczych i piekarskich",
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Budimex Nieruchomości Sp. z o.o.",
+      "address": "ul. Stawki 40, 01-040 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1200 [mg/kg]",
+      "area_ha": 0.0411
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "590 [mg/kg]",
+      "area_ha": 0.0411
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "120 [mg/kg]",
+      "area_ha": 0.0411
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-10-14",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-03-27",
+        "reference": "WSI.511.33.2016.MGł.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Budimex Nieruchomości Sp. z o.o.",
+        "address": "ul. Stawki 40, 01-040 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2017-04-12",
+    "planned_end": "2017-12-31",
+    "actual_end": "2017-05-22",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Metoda ex-situ - wywóz zanieczyszczonego gruntu",
+    "ecological_effect": "Spełnienie wymaganych prawem standardów",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

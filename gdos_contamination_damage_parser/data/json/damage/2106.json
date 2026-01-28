@@ -1,0 +1,63 @@
+{
+  "registry_id": 2106,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "kołobrzeski",
+    "municipality": "Siemyśl",
+    "address": "Charzyno 78-122 ul. Szkolna",
+    "precinct": "Charzyno",
+    "parcel_numbers": [
+      "39"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((275340.64283259998774156 697142.27307058696169406, 275338.46448017802322283 697160.40485897904727608, 275271.87724433798575774 697157.71514832600951195, 275241.47952937998343259 697085.72996916400734335, 275280.12312863301485777 697085.24448888399638236, 275315.96065298898611218 697091.62849895202089101, 275314.52835220302222297 697114.44551074400078505, 275313.13522141997236758 697136.53916621196549386, 275340.64283259998774156 697142.27307058696169406))",
+    "site_description": "zbiornik naturalny usytuowany na dz. nr 39, 979 i 269/8, obręb Charzyno"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przełom marca i kwietnia 2025 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "bezpośrednie zagrożenie szkodą w środowisku na terenie działki nr 39 obręb Charzyno, gmina Siemyśl, w związku z wykonaniem na sąsiedniej działce nr 979 przepustu odprowadzającego wodę ze zbiornika naturalnego usytuowanego na dz. nr 39, 979 i 269/8.",
+  "total_area_ha": 0.53,
+  "reporters": [
+    {
+      "name": "Urząd Gminy Siemyśl",
+      "address": "ul. Kołobrzeska 14 78-123 Siemyśl",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "łabędż niemy (Cygnus olor)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": "Starorzecza i naturalne eutroficzne zbiorniki wodne ze zbiorowiskami z Nympheion, Potamion",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-04-25",
+    "detection_date": "2025-04-03",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

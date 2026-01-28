@@ -1,0 +1,178 @@
+{
+  "registry_id": 1163,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0727,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "chełmski",
+    "municipality": "Rejowiec Fabryczny (gmina wiejska)",
+    "address": null,
+    "precinct": "0026 Zawadówka",
+    "parcel_numbers": [
+      "060315_5.0026.164"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((806637.5548579436 372085.8418812668,806737.0384029766 372161.5128663108,806825.4094238116 372149.87117667403,806830.9656847627 372035.04178034235,806824.6156712268 372027.3688482987,806637.5548579436 372085.8418812668))",
+    "site_description": "lasy i grunty leśne"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1954-01-01",
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Transport rurociągowy pozostałych towarów",
+    "current": "Gospodarka leśna i pozostała działalność leśna, z wyłączeniem pozyskiwania produktów leśnych"
+  },
+  "land_holders": [
+    {
+      "name": "Lasy Państwowe Nadleśnictwo Chełm",
+      "address": "ul. Hrubieszowska 123, 22-100 Chełm",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "060315_5.0026.164"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "518-1400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,72 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,99 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,17-2,28 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,28-1,65 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,22-1,45 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "540-21900 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "180-3940 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3080-14900 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1170-3880 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "131 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "61,6 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-02-06",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.2.2020.SG",
+    "decisions": [
+      {
+        "issue_date": "2020-09-28",
+        "reference": "WSI.513.2.2020.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-07-08",
+        "reference": "WSI.515.1.2020.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 2 ustawy",
+        "entity_type": "inny sprawca",
+        "name": "PERN S.A.",
+        "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+        "economic_activity_code": "49.50.B"
+      }
+    ],
+    "planned_start": "2021-07-26",
+    "planned_end": "2040-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń",
+    "description": "Remediację należy przeprowadzić poprzez zmniejszenie ilości zanieczyszczeń, prowadzące do usunięcia znaczącego zagrożenia dla zdrowia ludzi i stanu środowiska, z uwzględnieniem obecnego i planowanego sposobu użytkowania terenu, z zastosowaniem metody in-situ – poprzedzone sczerpaniem wolnego produktu ropopochodnego z powierzchni zwierciadła wód podziemnych do poziomu tzw. filmu (1-2 mm miąższości warstwy wolnego produktu) – poprzez samooczyszczanie wspomagane bioremediacją z wykorzystaniem biopreparatów, a następnie samooczyszczanie bez wspomagania tego procesu, do osiągnięcia standardów jakości gleby i ziemi, określonych dla obszarów grupy gruntów III.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,78 @@
+{
+  "registry_id": 958,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "32-540 Trzebinia",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.795/152"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532490.5440055907 254342.9540258553,532484.7231606208 254332.23837942444,532543.5930700308 254277.86639568303,532560.9233130208 254297.71018536482,532545.9743247908 254313.7175090434,532529.5701253108 254343.4831935838,532524.9399077207 254349.30403855443,532506.2867454108 254334.88421804272,532500.4659004407 254333.0321310144,532496.3648505708 254336.07484543323,532490.5440055907 254342.9540258553))",
+    "site_description": "Teren w przeszłości należący do Zakładów Metalurgicznych \"Trzebinia\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "795/152"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-29",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.31.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-11-04",
+        "reference": "ZS.513.31.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

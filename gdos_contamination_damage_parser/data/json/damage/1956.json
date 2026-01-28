@@ -1,0 +1,102 @@
+{
+  "registry_id": 1956,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "giżycki",
+    "municipality": "Kruklanki",
+    "address": null,
+    "precinct": "0003 Brożówka",
+    "parcel_numbers": [
+      "280605_2.0003.17"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((693835.1513716853 695453.8000016958,693825.7313711891 695439.1300016912,693838.1613717864 695430.2800017027,693842.8213720315 695437.2500017053,693846.1113721889 695434.760001705,693841.5213719478 695427.9200016996,693846.4913721866 695424.4500017008,693848.5313722934 695427.140001704,693856.5213726768 695421.100001704,693854.331372563 695418.5200017048,693863.111372984 695411.6900017075,693873.3113735204 695426.8800017163,693835.1513716853 695453.8000016958),(693851.7513724266 695414.3800017014,693852.4413724565 695412.3300017072,693851.7813724205 695410.4100017017,693850.2813723442 695409.400001701,693848.5513722573 695408.9700017022,693821.9213709756 695426.7300016889,693830.8413714201 695428.3100016937,693832.6513715088 695427.8900016937,693851.7513724266 695414.3800017014)))",
+    "site_description": "obszar zajmowany przez stacje paliw na terenie 24 WOG Giżycko w Brożówce"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "Stacja paliw funkcjonowała od lat 80. XX w. do czerwca 2023 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi w następstwie działalności stacji paliw",
+  "total_area_ha": 0.0713,
+  "reporters": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Olsztynie",
+      "address": "ul. Saperska 1, 10-073 Olsztyn",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Olsztynie",
+      "address": "ul. Saperska 1, 10-073 Olsztyn",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "36,20-70,90 mg/kg s.m.",
+      "area_ha": 0.0713
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,130 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,109 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2024-08-29",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2024-11-20",
+        "reference": "WSI.511.3.2024.KPi.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 13 ust. 3 pkt 2 ustawy o zapobieganiu szkodom w środowisku i ich naprawie",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-12-01",
+    "planned_end": "2028-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Samooczyszczanie powierzchni ziemi oraz kontrolowanie zanieczyszczenia, tj. okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie. W drugim i trzecim roku remediacji zostanie przeprowadzony monitoring efektów procesu samooczyszczania, podczas którego zostanie pobranych 6 zbiorczych próbek gruntu do analiz laboratoryjnych (każda próbka złożona z co najmniej 15 próbek pojedynczych). Próbki będą pobierane w miejscu stwierdzonego zanieczyszczenia gruntu, tj. z sekcji S1-S3 i głębokości 0-0,25 m ppt - 3 próbki zbiorcze w drugim roku remediacji (po jednej z każdej sekcji) i 3 próbki zbiorcze w trzecim roku remediacji (po jednej z każdej sekcji). Próbki zostaną poddane analizom laboratoryjnym pod kątem oznaczenia w nich zawartości: sumy węglowodorów C12-C35, składników frakcji oleju (próbki z sekcji S1, S2, S3), ksylenów (próbki z sekcji S1), benzo(a)pirenu (próbki z sekcji S3) i benzo(b)fluorantenu (próbki z sekcji S3).  Po przeprowadzeniu remediacji stężenie substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji odpowiadać będzie co najmniej ich dopuszczalnej zawartości w glebie i ziemi, określonej w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy I.  Ich zawartość w glebie i w ziemi na głębokości 0-0,25 m ppt nie będzie zatem przekraczać: - suma węglowodorów C12-C35, składników frakcji oleju: 30 mg/kg s.m., - ksyleny: 0,1 mg/kg s.m., - benzo(a)piren: 0,1 mg/kg s.m., - benzo(b)fluoranten: 0,1 mg/kg s.m.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

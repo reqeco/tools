@@ -1,0 +1,93 @@
+{
+  "registry_id": 1037,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0147,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "żarski",
+    "municipality": "Żary (gmina miejska)",
+    "address": "ul. Przeładunkowa 2",
+    "precinct": "obręb 2 Żary",
+    "parcel_numbers": [
+      "POLYGON((232548.2126955822 425996.19022096135",
+      "232548.2126955822 POLYGON((232548.2126955822 425996.19022096135",
+      "232548.2126955822 425996.19022096135))"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((232539.5085001469 425989.1497730734,232552.20852622925 426007.00918377563,232568.8773105672 425996.8227050407,232563.32104915852 425989.1497730417,232563.4533410963 425989.14977304265,232563.45334109687 425988.88518917933,232539.5085001469 425989.1497730734))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "między 1939 a latami 60 XX wieku"
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "BM REFLEX sp. z o.o. sp. K",
+      "address": "ul. Sienkiewicza 9 90-113 Łódź",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1180",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.514",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-04",
+    "legal_basis": "art. 101 l ust. 4",
+    "case_reference": "WZŚ.515.5.2020.KM",
+    "decisions": [
+      {
+        "issue_date": "2020-07-03",
+        "reference": "WZŚ.515.5.2020.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "BM REFLEX sp. z o.o. sp. K",
+        "address": "ul. Sienkiewicza 9 90-113 Łódź",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-07-20",
+    "planned_end": "2030-08-31",
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

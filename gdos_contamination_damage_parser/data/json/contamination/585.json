@@ -1,0 +1,107 @@
+{
+  "registry_id": 585,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.012,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "nidzicki",
+    "municipality": "Nidzica",
+    "address": "Żeromskiego 24, 13-100 Nidzica",
+    "precinct": "0006 miasta Nidzica",
+    "parcel_numbers": [
+      "72/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((595542.5002349904 611189.8442548634,595543.5585704405 611187.8598759044,595546.9981606512 611190.5057145245,595529.8002095887 611219.8745232634,595526.8897870983 611218.1547281547,595543.4262785106 611188.1244597649,595542.5002349904 611189.8442548634))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Do 1992 r. na terenie działki nr 72/6 obręb 0006 miasta Nidzica była prowadzona działalność polegającą na produkcji aparatury rentgenowskiej i urządzeń medycznych."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Produkcja pozostałych mebli"
+  },
+  "land_holders": [
+    {
+      "name": "BRW COMFORT Sp. z o.o.",
+      "address": "Słupy 42 10-381 Olsztyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "31.09.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "0,19-0,323 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,52-0,761 mg/kg s.m.",
+      "area_ha": 0.012
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-10-20",
+    "legal_basis": "art. 101l ust. 2 POŚ",
+    "case_reference": "WSI.515.10.2020.KPi",
+    "decisions": [
+      {
+        "issue_date": "2019-02-13",
+        "reference": "WSI.513.23.2018.KPi.JJ.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-05-31",
+        "reference": "WSI.515.10.2020.KPi.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101 ust. 4 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-05-30",
+        "reference": "WSI.515.7.2019.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101f ust. 1 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "BRW COMFORT Sp. z o.o.",
+        "address": "Słupy 42 10-381 Olsztyn",
+        "economic_activity_code": "31.09.Z"
+      }
+    ],
+    "planned_start": "2021-06-01",
+    "planned_end": "2021-10-31",
+    "actual_end": "2021-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja będzie prowadzona metodą in-situ (tj. w miejscu występowania zanieczyszczenia, bez konieczności przemieszczania gruntu). Prace remediacyjne będą polegały na oczyszczaniu gleby i ziemi przy wykorzystaniu biopreparatu zawierającego mikroorganizmy autochtoniczne (grzyby i bakterie zdolne do biodegradacji zanieczyszczeń), tzw. bioremediacja. Z próbek gruntu pochodzących z terenu wymagającego przeprowadzenia remediacji zostaną w warunkach laboratoryjnych wyselekcjonowane, a następnie namnożone mikroorganizmy zdolne do wykorzystania tri- i tetrachloroetenu w procesach metabolicznych. Biopreparat będzie posiadał atest higieniczny Narodowego Instytutu Zdrowia Publicznego – Państwowego Zakładu Higieny (obejmujący szczepy mikroorganizmów występujące naturalnie na terenie objętym remediacją) oraz będzie miał obojętny wpływ na jakość wody ujęcia głębinowego znajdującego się przy ul. Wyborskiej w Nidzicy. Taki biopreparat (w stężeniu 1x109 komórek na mililitr), będzie aplikowany do gruntu. W celu aplikacji biopreparatu na terenie wymagającym przeprowadzenia remediacji zostanie wykonanych 12 małośrednicowych otworów wiertniczych (1 otwór na 10 m2 terenu) o głębokości około 2,5 - 3,5 m ppt, tj. do oszacowanej głębokości występowania zanieczyszczeń w strefie aeracji. Otwory będą wiercone przy użyciu sprzętu przeznaczonego do tego typu prac, będącego w dobrym stanie technicznym (bez wycieku płynów eksploatacyjnych). Otwory będą wiercone systemem mechanicznym – okrętnym, przy użyciu świdrów spiralnych, bez użycia rur osłonowych. W wykonanym otworze zostanie umieszczona kolumna filtracyjna z rur PCV o średnicy 105 mm, perforowana szczelinowo (szczeliny o szerokości 2 mm) na odcinku od powierzchni terenu do dna otworu. Otwory zostaną zlokalizowane w sposób umożliwiający równomierną aplikację biopreparatu na całym terenie wymagającym przeprowadzenia remediacji. Biopreparat będzie wprowadzany do każdego otworu przynajmniej w trzech cyklach w ilości około 80 dm3/cykl. Całkowita ilość zaaplikowanego biopreparatu podczas pojedynczego cyklu wyniesie zatem 1000 dm3. Cykle należy planować w odstępach trzydziestodniowych. W przypadku stwierdzenia obniżonej chłonności gruntu otaczającego otwór (np. po intensywnych opadach deszczu) lub nasycenia gruntu biopreparatem w stopniu ograniczającym skuteczność aplikacji bezpośrednio do kolumny filtrowej, część biopreparatu należy rozlać na powierzchnię terenu w sąsiedztwie otworu. Proces bioremediacji będzie prowadzony w sezonie wiosenno-letnio-jesiennym (z wyłączeniem okresu zimowego).",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy IV. Ich zawartość w glebie i w ziemi na głębokości poniżej 0,25 m ppt nie będzie zatem przekraczać: •\tw przypadku gruntów o wodoprzepuszczalności wyższej lub równej 1x10-7 m/s: - trichloroeten – 0,1 mg/kg s.m. - tetrachloroeten – 0,1 mg/kg s.m. •\tw przypadku gruntów o wodoprzepuszczalności niższej niż 1x10-7 m/s: - trichloroeten – 5,0 mg/kg s.m. - tetrachloroeten – 5,0 mg/kg s.m.  Z przedłożonej pismem z 22.11.2021 r. dokumentacji („Sprawozdanie z prac remediacyjnych przeprowadzonych na terenie działki nr 72/6, obręb 0006, miasto Nidzica”. Stańko K. Petroster Sp. j. Kraków 2021 r.) wynika, że zakres przeprowadzonych prac remediacyjnych doprowadził do osiągnięcia ww. efektu ekologicznego. Na części nieruchomości nr 72/6 obręb 0006 miasta Nidzicy poddanej remediacji stężenie tri- i tetrachloroetenu w glebie i w ziemi na głębokości poniżej 0,25 m ppt nie przekracza bowiem: dla trichloroetenu – 0,1 mg/kg s.m, dla tetrachloroetenu – 0,1 mg/kg s.m. Jednocześnie badania zawartości tri- i tetrachloroetenu przeprowadzone kontrolnie po przeprowadzeniu remediacji na głębokości 0,0-0,25 m ppt nie wykazały ponadnormatywnych zawartości tych substancji w przypowierzchniowej warstwie gleby.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

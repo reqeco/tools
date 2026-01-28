@@ -1,0 +1,62 @@
+{
+  "registry_id": 672,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Kolbudy",
+    "address": "Bąkowo\t83-050",
+    "precinct": "Lublewo Gdańskie",
+    "parcel_numbers": [
+      "264/281",
+      "264/282"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((469298.855008069 714198.5985097028,469296.7383371691 714206.0068578543,469277.15913133905 714240.1381761236,469258.37367710914 714262.3632205743,469292.50499536906 714285.3820166131,469315.25920753914 714296.2299549738,469330.8696554291 714282.471594125,469431.1469393191 714369.7842687443,469437.76153587905 714345.4425533926,469447.2865549291 714298.0820420152,469445.69905175903 714284.5882650232,469395.1635340191 714239.0798406731,469363.94263824914 714222.4110573344,469305.46960462903 714195.9526710846,469298.855008069 714198.5985097028))",
+    "site_description": "do roku 2016 P&P Sp. z o.o., baza magazynowo-sprzętowa, zlikwidowana stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "264/281",
+        "264/282"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.99.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.99.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

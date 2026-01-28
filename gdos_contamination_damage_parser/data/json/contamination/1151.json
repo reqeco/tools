@@ -1,0 +1,66 @@
+{
+  "registry_id": 1151,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "Gdynia",
+    "precinct": "0026",
+    "parcel_numbers": [
+      "675",
+      "647",
+      "678",
+      "677"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((468556.03357042884 741231.1616287846,468567.93984423875 741238.5699769342,468590.16488868877 741235.6595544452,468604.98158498877 741212.3761745458,468578.52319873875 741194.3844718952,468543.8627127488 741212.905342265,468555.2398188389 741231.4262126442,468556.03357042884 741231.1616287846)) POLYGON((468348.3352383687 741322.4430613453,468354.6852510688 741331.174328805,468365.26860556874 741324.0305645252,468359.7123444488 741314.7701293342,468348.59982222883 741321.9138936242,468348.3352383687 741322.4430613453)) POLYGON((468597.57323683886 741192.5323848547,468597.30865297886 741180.6261110445,468620.59203287883 741165.280247014,468642.0233257388 741179.0386078646,468620.5920328788 741165.8094147462,468628.2649648888 741160.2531536343,468674.30255696876 741188.0344591942,468674.3025569688 741192.0032171337,468653.9295995589 741225.0761999451,468651.5483447888 741226.1345353965,468597.83782070887 741192.7969687143,468597.57323683886 741192.5323848547))",
+    "site_description": "tereny zaplecza portu morskiego , obiekty produkcyjne, tereny po byłej stoczni w Gdyni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Naprawa i konserwacja statków i łodzi",
+    "current": "Produkcja pozostałego sprzętu elektrycznego"
+  },
+  "land_holders": [
+    {
+      "name": "HG SOLUTIONS Sp. z o.o.",
+      "address": "ul. Czechosłowacka 3, 81-336 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "675",
+        "647",
+        "678",
+        "677"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-04",
+    "legal_basis": "art. 61 par. 1 i 4 z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego art. 101 c ust. 3  ustawy z dnia 27 kwietnia 2001",
+    "case_reference": "RDOŚ-Gd-WZS.513.30.2019.TW",
+    "decisions": [
+      {
+        "issue_date": "2019-04-04",
+        "reference": "RDOŚ-Gd-WZS.513.30.2019.TW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4, art. 104 k.p.a.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

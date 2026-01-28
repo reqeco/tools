@@ -1,0 +1,58 @@
+{
+  "registry_id": 1450,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "zgierski",
+    "municipality": "Zgierz (gmina wiejska)",
+    "address": "Kolonia Głowa 79a",
+    "precinct": "Biała",
+    "parcel_numbers": [
+      "226/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((530602.0118417742 449538.360045298,530551.1035496722 449538.4170433702,530725.8537355044 449976.5976409633,530770.2245568061 449959.2099066479,530602.0118417742 449538.360045298))",
+    "site_description": "działka rolna - zabudowana gdzie składuje się w hali odpady bez zezwolenia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2022-01-12",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w środowisku w powierzchni ziemi powstała w wyniku nielegalnego gospodarowania odpadami",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Łodzi",
+      "address": "ul. Lipowa 16, 90-743 Łódź",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 30 mg/kg",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2022-04-04",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

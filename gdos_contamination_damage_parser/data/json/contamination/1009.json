@@ -1,0 +1,297 @@
+{
+  "registry_id": 1009,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2573,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Kolejowa 63-65 we Wrocławiu",
+    "precinct": "18/1 i 18/2 AM-23 0001 Stare Miasto",
+    "parcel_numbers": [
+      "18/1",
+      "18/2",
+      "obręb Stare Miasto"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((361212.90817882149713114 361650.56311188457766548, 361226.11764189269160852 361625.3146444953745231, 361244.34335676307091489 361637.18644042010419071, 361231.13389369187643752 361656.41540565027389675, 361212.90817882149713114 361650.56311188457766548)),((361103.30307700933190063 361696.29460745386313647, 361126.87946046551223844 361705.15665229910518974, 361141.59379907645052299 361667.03313862532377243, 361113.50278900103876367 361655.83017627382650971, 361103.30307700933190063 361696.29460745386313647)),((361142.93146622291533276 361578.07827338646166027, 361166.50784967909567058 361586.60590144508751109, 361177.96162462054053321 361573.98166775045683607, 361161.90961886313743889 361561.94266343238996342, 361142.93146622291533276 361578.07827338646166027)),((361260.729779307032004 361618.04107938666129485, 361271.51472067530266941 361583.76335875887889415, 361290.15845652890857309 361591.37134065432474017, 361291.41251947870478034 361588.9468189514009282, 361309.30381756246788427 361599.3973435329971835, 361284.80778794310754165 361639.19294113985961303, 361260.729779307032004 361618.04107938666129485)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Produkcja lokomotyw kolejowych oraz taboru szynowego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MDR Inwestycje 8 Sp. z o.o.",
+      "address": "ul. Przeskok 2 00-032 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "467 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "24,3-43,1 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "604-1910 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "4,19 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "291 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "269-1100 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,593-0,714 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,768-7,17 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,06-28,5 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "2,73-25,8 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,382-3,51 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "2,41-21,6 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "3,50-36,3 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,42-13,2 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,65-15,6 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,72-16,5 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "108-486 mg/kg s.m.",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "132 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "33,7 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1220 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": "32,9 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "437 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "100-1000 mg/kg s.m.",
+      "area_ha": 0.12
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "5,5 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "325-544 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2470-18000 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "1,43 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "3,01-3,29 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "10,8-15,3 mg/kg s.m.",
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "2,89-3,91 mg/kg s.m.",
+      "area_ha": 0.041
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-10-31",
+    "legal_basis": "art. 64 § 2 Kpa w związku z art. 101l ust. 4 Poś",
+    "case_reference": "WSI.515.17.2019.AS",
+    "decisions": [
+      {
+        "issue_date": "2020-08-05",
+        "reference": "WSI.515.17.2019.AS.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-06-08",
+        "reference": "WSI.515.6.2021.NŁ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MDR Inwestycje 8 Sp. z o.o.",
+        "address": "ul. Przeskok 2 00-032 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-08-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Remediacja polegać będzie na usunięciu zanieczyszczenia w glebie i ziemi oraz na ograniczeniu możliwości rozprzestrzeniania się zanieczyszczeń i kontrolowanie zanieczyszczenia",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

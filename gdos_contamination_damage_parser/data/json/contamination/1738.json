@@ -1,0 +1,76 @@
+{
+  "registry_id": 1738,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Igołomska",
+    "precinct": "20 Nowa Huta",
+    "parcel_numbers": [
+      "126103_9.0020.1/632"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((576568.215011711 245096.20269218553,576579.3275339311 245083.5026667863,576615.8401069622 245085.09016996436,576604.727584732 245101.49436943326,576642.2984932129 245113.1360593848,576666.6402085635 245119.48607208487,576709.5027942846 245122.1319107134,576730.6695032851 245124.2485816134,576745.4861995856 245109.4318853151,576744.9570318656 245079.79849271383,576737.0195159854 245066.5692995852,576743.8986964155 245061.27762233466,576781.9987726165 245055.45677736402,576804.7529847871 245047.51926148403,576831.2113710378 245069.21513821278,576912.7032006897 244975.5524508832,576925.9323938203 244967.6149350144,576998.4283721421 244879.77309266292,577016.4200747926 244870.77724133246,577059.2826605235 244845.90635826252,577063.5160023237 244857.5480482122,577037.0576160732 244869.18973816186,577051.3451446433 244890.3564471621,577050.2868091933 244893.53145351354,577040.7617901432 244893.53145351354,576978.8491663216 244948.56489691325,576974.0866567914 244949.09406463336,576974.6158245215 244952.79823871143,576940.2199223905 244993.01498581283,576942.3365932907 244995.13165671378,576923.2865551901 245012.06502391212,576790.9946239367 245162.87782553397,576599.965075212 245148.59029696602,576604.727584732 245140.6527810851,576604.1984170119 245123.71941388492,576601.0234106618 245113.6652271161,576598.9067397618 245100.4360339865,576569.273347161 245097.79019536637,576568.215011711 245096.20269218553))",
+    "site_description": "działka na terenie Huty Arcelor Mittal Poland S.A"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres działalności Huty Arcelor Mittal Poland S.A.( dawniej Kombinat Metalurgiczny Huta im. Lenina, Huta im. T. Sendzimira), tj. od lat 50-tych XX wieku"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych"
+  },
+  "land_holders": [
+    {
+      "name": "Krakodlew S.A.",
+      "address": "ul. Tadeusza Sendzimira 1 31-752 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2021-10-28",
+    "legal_basis": "art. 61 § 1 Kpa",
+    "case_reference": "ZS.513.16.2021.PD",
+    "decisions": [
+      {
+        "issue_date": "2022-12-29",
+        "reference": "ZS.513.16.2021.PD",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Krakodlew S.A.",
+        "address": "ul. Tadeusza Sendzimira 1 31-752 Kraków",
+        "economic_activity_code": "24.10.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

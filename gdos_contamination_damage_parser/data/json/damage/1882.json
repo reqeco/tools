@@ -1,0 +1,52 @@
+{
+  "registry_id": 1882,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Czechowice-Dziedzice",
+    "address": "ul. Klonowa w Czechowicach-Dziedzicach.",
+    "precinct": "0001 Czechowice",
+    "parcel_numbers": [
+      "240204_4.0001.3274/33"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((501889.01 224542.15,501921.31 224550.7,501926.23 224552.03,501924.64 224555.53,501951.87 224557.55,501953.29 224554.4,501939.85 224548.34,501930.51 224544.14,501946.95 224507.7,501950.71 224499.4,501967.3 224463.03,501970.87 224454.61,501989.56 224415.28,501997.19 224418.8,502013.39 224405,501976.29 224382.29,501986.82 224375.45,501993.91 224367.43,501991.61 224364.36,501967.22 224380.11,501960.98 224374.13,501955.76 224385.97,501908.04 224431.83,501891.21 224451.3,501879.47 224485.98,501873.64 224510.28,501870.78 224537.4,501869.46 224549.93,501883.79 224553.71,501889.01 224542.15))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2021-07-22",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (PKP S.A.)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Ze zgromadzonej dokumentacji RDOŚ wynika, iż 22 lipca 2021 r. na działce o nr ew. 3274/33 w Czechowicach-Dziedzicach miała miejsce awaria wodociągu o średnicy 800 mm zasilającego w wodę m. Czechowice-Dziedzice. Ustalono, że w trakcie prac mających na celu usunięcie awarii wodociągu doszło do wykopania odpadów oraz do zanieczyszczenia środowiska substancją ropopochodną z uszkodzonej beczki o pojemności ok. 100 l. W konsekwencji nastąpił wyciek prawdopodobnie przepracowanego oleju silnikowego, na powierzchni ok. 100 m2.",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "56,5 mg/kg s.m.",
+      "area_ha": 0.01
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2024-03-01",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

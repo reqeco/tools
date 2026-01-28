@@ -1,0 +1,50 @@
+{
+  "registry_id": 1994,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "skarżyski",
+    "municipality": "Skarżysko-Kamienna",
+    "address": "ul. Ponurego",
+    "precinct": "29, arkusz 3",
+    "parcel_numbers": [
+      "73"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zagrożenie szkodą w środowisku wskutek przetwarzania odpadów w postaci zanieczyszczonego gruntu na terenie nieruchomości oznaczonych nr ew.: 53, 171/6, 172/1, 173/1 zlokalizowanych przy ul. Ponurego w Skarżysku – Kamiennej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Świętokrzyski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-09-27",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,103 @@
+{
+  "registry_id": 144,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 5.5,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "40-952 Katowice, ul. Chorzowska 150-152",
+    "precinct": "0001 Dz. Śródmieście-Załęże a. m. 13",
+    "parcel_numbers": [
+      "47/60",
+      "47/61",
+      "47/62",
+      "47/63",
+      "47/64"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((499874.647345 266989.275984,499874.449340 266989.003727,499870.842000 266961.631000,499877.706362 266960.726179,499869.872000 266910.934000,499868.744000 266904.383000,499858.960000 266906.604000,499810.249000 266917.761000,499789.438000 266921.259000,499790.704000 266929.936000,499788.989000 266930.219000,499783.524000 266931.132000,499777.244000 266932.326000,499781.805000 266957.909000,499782.441000 266961.319000,499784.016000 266969.992000,499793.594000 267023.112000,499794.702000 267025.976000,499796.757000 267027.167100,499800.458000 267027.447000,499803.006000 267026.694000,499823.406000 267018.644000,499850.256000 267007.900000,499850.274000 267007.770000,499849.403000 267001.695000,499874.647345 266989.275984))",
+    "site_description": "Teren dawnej huty Baildon. Obecnie wielokondygnacyjne budynki biurowe, część w budowie."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Od 1823 r. do 2001 r. funkcjonowała na przedmiotowym terenie Huta Baildon."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Tenali Sp. z o.o. \"Silesia Business Park\"",
+      "address": "Al. Jana Pawła II 17, 00-854 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "100,6",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "873",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-09-10",
+    "legal_basis": "101l ust. 2 POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-10-15",
+        "reference": "WSI.511.9.2015.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-03-11",
+        "reference": "WSI.511.3.2016.SA (decyzja zmieniająca)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Tenali Sp. z o.o. \"Silesia Business Park\"",
+        "address": "Al. Jana Pawła II 17, 00-854 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

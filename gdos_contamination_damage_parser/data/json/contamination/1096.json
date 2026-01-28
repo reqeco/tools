@@ -1,0 +1,132 @@
+{
+  "registry_id": 1096,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 15.2611,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Konduktorska 40-155 Katowice",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "4/487"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((501663.45768699998734519 268882.59274900000309572, 501642.7838880000053905 268889.5763320000260137, 501625.80463799997232854 268905.99463099997956306, 501615.27348299999721348 268914.3711089999997057, 501591.91372000001138076 268906.64958099997602403, 501534.95489900000393391 268887.82611600001109764, 501478.20537300000432879 268868.95986000000266358, 501421.33607000001939014 268850.10520200000610203, 501507.05634299997473136 268827.14724899997236207, 501532.87095999997109175 268756.44272300001466647, 501533.12102100002812222 268753.48113500000908971, 501532.05661299999337643 268753.10566100000869483, 501537.43926800001645461 268737.91243399999802932, 501536.90766800002893433 268737.76966099999845028, 501597.6835360000259243 268573.44146300002466887, 501645.99283399997511879 268542.79077600000891834, 501660.95936300000175834 268508.95995099999709055, 501670.56514035596046597 268502.79166185390204191, 501817.04484972782665864 268558.00250524096190929, 501809.54643799999030307 268577.14287899999180809, 501868.29907100001582876 268599.31026300002122298, 502004.01545900001656264 268650.49624399997992441, 502144.2621880000224337 268703.40030400000978261, 502161.90107999998144805 268710.0593300000182353, 502162.0818790000048466 268710.12686000001849607, 502171.8176499999826774 268711.73509400000330061, 502179.29980799998156726 268712.97382700000889599, 502234.97813000000314787 268712.35614699998404831, 502227.59218400000827387 268721.26004000002285466, 502218.50050299998838454 268725.93938400002662092, 502210.50388199998997152 268732.53286799998022616, 502193.26134600001387298 268745.71662199997808784, 502188.81965700001455843 268749.11426100000971928, 502145.39852799999061972 268774.63234100001864135, 502107.72302400000626221 268794.12683999998262152, 502056.76597700000274926 268795.05091200000606477, 502049.9887870000093244 268797.19068399997195229, 502027.64710699999704957 268804.25661899999249727, 502010.91350899997632951 268804.73115700000198558, 501995.41348699998343363 268799.57249599997885525, 501982.48999999999068677 268798.73662799998419359, 501971.82703300000866875 268798.04030599998077378, 501956.2548100000130944 268798.66914800001541153, 501894.35815899999579415 268815.51066500000888482, 501861.99788600002648309 268818.513639000011608, 501839.56265400000847876 268826.80010300001595169, 501828.20100399997318164 268834.35822499997448176, 501791.69915300002321601 268858.64410099998349324, 501758.05970599997090176 268883.98089300002902746, 501708.419975999975577 268881.78913900000043213, 501663.45768699998734519 268882.59274900000309572))",
+    "site_description": "Teren obecnie będzie zagospodarowany zabudową kubaturową, szczelną nawierzchnią, a w miejscach pozbawionych nawierzchni szczelnych pokryty warstwą gruntów mineralnych o miąższości min. 50 cm oraz pokryty roślinnością. Przedmiotowy teren był wykorzystywany przemysłowo już na początku XIX w. Pierwsze wzmianki o płytkim kopalnictwie węgla pojawiały się już w 1818 r. Podziemna eksploatacja węgla kamiennego prowadzona była w tym rejonie od 1834 r. Wpływ na środowisko na przedmiotowym terenie miała również działalność huty cynku oraz zlikwidowane w 1999 r. zakłady metalurgiczne. Pozostałością po wieloletniej działalności była przemysłowa zabudowa oraz zwałowisko odpadów z produkcji cynku (hałda żużla pohutniczego). W miejscu hałdy odpadów pohutniczych miąższość pokrywy żużli dochodzi do 10 m, a w miejscach po starej zabudowie nasypy żużlowe wypełniają zagłębienia po wyburzeniach i wykopach."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Dokładna data wystąpienia nie jest znana. Pierwsze wzmianki o płytkim kopalnictwie węgla pojawiały się już w 1818 r. Podziemna eksploatacja węgla kamiennego prowadzona była w tym rejonie od 1834 r. Wpływ na środowisko na przedmiotowym terenie miała również działalność huty cynku oraz zlikwidowane w 1999 r. zakłady metalurgiczne. Stwierdzone na rozpatrywanym obszarze zanieczyszczenie należy uznać za historyczne, z uwagi na historię terenu i jego wieloletni przemysłowy charakter, a także charakterystykę samych zanieczyszczeń, oraz brak innych przesłanek pozwalających na powiązanie stwierdzonego zanieczyszczenia powierzchni ziemi ze źródłem jego powstania."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "EKO-BRYZA Sp. z o.o.",
+      "address": "ul. Konduktorska 39A 40-155 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "740 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "514 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "282 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "84100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "229 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "2610 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "14800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "678 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "9,06 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-12-22",
+    "legal_basis": "art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.11.2017",
+    "decisions": [
+      {
+        "issue_date": "2018-11-29",
+        "reference": "WSI.515.11.2017.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

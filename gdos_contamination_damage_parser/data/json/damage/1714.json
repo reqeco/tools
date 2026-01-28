@@ -1,0 +1,54 @@
+{
+  "registry_id": 1714,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Pruszcz Gdański (gmina wiejska)",
+    "address": "ul. Gustawa Herlinga-Grudzińskiego",
+    "precinct": "Straszyn",
+    "parcel_numbers": [
+      "1889/6",
+      "1889/7",
+      "1889/8",
+      "1889/9",
+      "1889/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((472528.2840148996 711323.9247310106,472575.9091101496 711337.9476757217,472560.29866226966 711468.9166876618,472553.68406569946 711517.8647022219,472509.2339767995 711511.2501056613,472509.4985606696 711511.2501056623,472509.2339767996 711511.5146895228,472528.2840148996 711323.9247310106))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "2019 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Magazynowanie odpadów w postaci mas ziemnych wraz z innymi odpadami - odpady budowlane, gwoździe, opakowania zawierające substancje ropopochodne.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2021-11-02",
+    "detection_date": "2019-01-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

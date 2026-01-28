@@ -1,0 +1,60 @@
+{
+  "registry_id": 636,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Malbork (gmina miejska)",
+    "address": "ul. Gen. Wł. Sikorskiego 52\tMalbork",
+    "precinct": "0010 Malbork",
+    "parcel_numbers": [
+      "9/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((502505.71501141 685679.3984419741,502512.32960797 685560.3357038442,502578.4755735999 685402.9083056636,502700.18415035 685376.4499194138,502681.66327997 685297.0747606549,502734.5800524701 685287.8143254742,502745.16340697004 685326.1789855333,502791.46558291005 685315.595631036,502782.2051477201 685275.9080516538,502843.05943609995 685266.647616474,502858.93446785 685349.9915331639,503073.45906356006 685309.5102021936,503075.57573446 685318.5060535232,503088.80492759 685313.7435439946,503139.07586145995 685306.8643635744,503143.8383709899 685313.7435439946,503277.18863769004 685274.0559646236,503316.87621706 685353.9602910932,503307.8803657401 685378.8311741725,503261.3136059399 685435.4521207428,502997.25891116 685516.414782674,502680.81661160995 685634.9483530745,502505.71501141 685679.3984419741))",
+    "site_description": "Kompleks fabryczny cukrowni z działalnością związaną z produkcją cukru"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja cukru",
+    "current": "Produkcja cukru"
+  },
+  "land_holders": [
+    {
+      "name": "KRAJOWA SPÓŁKA CUKROWA S.A. W TORUNIU",
+      "address": "ul. Kraszewskiego 40, 87-100 Toruń       koresp. ul. Gen. Wł. Sikorskiego 51, 82-200 Malbork",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "9/7\t10\tmiasto Malbork"
+      ],
+      "economic_activity_code": "10.81.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.36.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-03-29",
+        "reference": "RDOŚ-Gd-WZS.513.36.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

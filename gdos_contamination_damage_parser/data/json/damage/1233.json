@@ -1,0 +1,90 @@
+{
+  "registry_id": 1233,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "kielecki",
+    "municipality": "Zagnańsk",
+    "address": null,
+    "precinct": "008 Kajetanów",
+    "parcel_numbers": [
+      "866"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((619687.6646418398 342985.211581802,619695.3375738531 342985.2115818029,619692.1625675022 343039.71585748065,619684.225051619 343039.45127362106,619687.6646418398 342985.211581802))",
+    "site_description": "Przedmiotowa nieruchomość jest zlokalizowana sąsiedztwie Zakładu Przeróbczego „Wiśniówka Duża” - stanowiącego część Kopalni „Wiśniówka” eksploatowanej przez  Eurovia Kruszywa S.A. z siedzibą w Bielanach Wrocławskich"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Przed rokiem 2019"
+  },
+  "land_surface_holder": "osoba fizyczna, null",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie nieruchomości związkami arsenu",
+  "total_area_ha": 0.05,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Eurovia Kruszywa S.A.",
+      "address": "ul. Szwedzka 5  Bielany Wrocławskie  55-40 Kobierzyce",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "20 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-1",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "10 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2019-07-26",
+    "detection_date": "2019-06-24",
+    "decisions": [
+      {
+        "issue_date": "2020-10-01",
+        "reference": "WSI.511.2.2020.IŁ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Kielcach",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-10-30",
+        "reference": "WPN-II.512-II.512.1.2019.IŁ, WSI.512.5.2019.IŁ.8",
+        "issuing_authority": null,
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-03-01",
+    "planned_end": "2021-12-01",
+    "actual_end": "2023-02-01",
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Remediacja terenu zanieczyszczonego przeprowadzona została metodą in-situ.  Polegała na zmieszaniu zanieczyszczonego gruntu z zeolitami w warstwie powierzchniowej (głębokość 0,0 – 0,25 m ppt) – celem adsorpcji (stabilizacji) stwierdzonych zanieczyszczeń (w miejscu ich występowania) w strukturach zeolitów.",
+    "ecological_effect": "Adsorpcja (stabilizacja) zanieczyszczeń w strukturach zeolitów, która nie jest procesem odwracalnym w naturalnych warunkach klimatycznych i geologicznych. Dzięki stabilizacji w  zeolitach metale ciężkie nie powodują zanieczyszczenia wód gruntowych, ponadto zanieczyszczenia takie nie są dostępne dla ryzosfery.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

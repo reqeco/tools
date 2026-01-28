@@ -1,0 +1,65 @@
+{
+  "registry_id": 774,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "otwocki",
+    "municipality": "Wiązowna",
+    "address": "05-077 Zakręt, ul. Długa 12",
+    "precinct": null,
+    "parcel_numbers": [
+      "170",
+      "171"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((654492.1752910747 485369.1536266953,654517.7076338644 485365.8463284131,654516.2524226194 485345.7379548652,654539.2712187137 485347.5900419038,654545.092063709 485506.208067473,654516.5170064864 485433.1829214236,654492.1752910747 485369.1536266953))",
+    "site_description": "teren prowadzonej działalności"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "działalność prowadzona w sposób ciągły"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi wskutek składowania odpadów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Delegatura Mińsk Mazowiecki",
+      "address": "Pl. Kilińskiego 10, 05-300 Mińsk Mazowiecki",
+      "legal_form": "instytucja państwowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "230",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2015-10-09",
+    "detection_date": "2015-08-17",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

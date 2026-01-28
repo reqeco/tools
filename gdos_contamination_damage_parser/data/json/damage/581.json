@@ -1,0 +1,80 @@
+{
+  "registry_id": 581,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Siemianowice Śląskie",
+    "municipality": "Siemianowice Śląskie",
+    "address": "Siemianowice Śląskie",
+    "precinct": "0011, 0052",
+    "parcel_numbers": [
+      "247401_1.0011.1186/122",
+      "247401_1.0052.646/2",
+      "247401_1.0052.712/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((502513.766000 271910.091000,502817.735000 271952.891000,502817.539000 271869.883000,502706.566000 271869.915000,502706.359000 271905.096000,502649.650000 271904.819000,502650.081000 271869.944000,502650.954000 271864.256000,502651.275000 271864.361000,502690.715000 271864.651000,502688.490000 271860.433000,502688.201000 271848.718000,502687.589000 271833.018000,502688.710000 271807.429000,502693.706000 271799.681000,502686.905000 271795.294000,502691.305000 271787.289000,502698.704000 271791.238000,502705.291000 271781.675000,502725.283000 271757.401000,502726.235000 271753.101000,502716.628000 271748.452000,502701.493000 271781.646000,502680.249000 271784.388100,502668.524000 271781.636000,502658.024000 271779.189000,502647.625000 271776.844000,502636.003000 271774.092000,502626.216000 271772.053000,502615.817000 271768.483900,502605.010000 271765.426000,502593.701000 271761.757100,502582.027000 271757.265900,502569.479000 271752.368000,502556.666000 271747.833000,502544.178000 271743.003900,502528.039000 271778.985100,502503.571000 271775.009000,502498.686000 271810.774000,502479.047000 271807.750000,502462.624000 271805.992000,502449.765000 271804.056000,502445.766000 271828.634000,502424.961000 271827.885000,502356.789000 271826.252000,502289.505000 271825.907000,502169.077000 271821.906000,502150.446000 271825.193000,502140.429000 271866.457000,502513.256000 271871.708000,502513.766000 271910.091000))",
+    "site_description": "Staw Remiza"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2009-12-31",
+    "description": "2009 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w środowisku powstała na skutek zniszczenia siedlisk gatunków chronionych płazów w trakcie realizacji zadania \"Rewitalizacja stawu Remiza w Siemianowicach Śląskich\"",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "GTP",
+      "address": "ul. Św. Huberta 35 Katowice",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Urząd Miasta Siemianowice Śląskie",
+      "address": "Siemianowice Śląskie Michałkowicka 105",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "siedliska płazów"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-11-05",
+    "detection_date": "2009-10-31",
+    "decisions": [
+      {
+        "issue_date": "2012-11-15",
+        "reference": "WSI.512.72.16.2011.MB, WSI.512.73.16.2011.MB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2013-04-10",
+    "actual_end": "2013-04-10",
+    "method": null,
+    "description": "ukształtowanie brzegu zbiornika, obsadzenie roślin",
+    "ecological_effect": "wykonano obowiązki nałożone decyzją RDOŚ",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

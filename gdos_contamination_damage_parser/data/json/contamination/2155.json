@@ -1,0 +1,183 @@
+{
+  "registry_id": 2155,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "ul. Towarowa 36 Bydgoszcz",
+    "precinct": "0208, 0217",
+    "parcel_numbers": [
+      "94",
+      "95",
+      "96",
+      "97/2",
+      "132/95",
+      "73/8",
+      "73/11",
+      "75/17"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((438049.59361900819931179 584953.46058930829167366, 438042.18527085811365396 584947.11057660728693008, 438037.15817746811080724 584944.99390570726245642, 438032.92483566800365224 584943.93557025771588087, 438025.7810713779181242 584942.34806707687675953, 438023.39981661800993606 584941.28973162733018398, 438022.0768973080557771 584940.76056390814483166, 438020.22481026779860258 584936.52722210809588432, 437937.93922902690246701 584939.17306072823703289, 437937.93922902690246701 584963.77935994695872068, 438030.01441317808348686 584961.9272729093208909, 438030.27899703802540898 585003.20235545840114355, 438051.18112217832822353 585002.67318772617727518, 438049.59361900819931179 584953.46058930829167366)),((437782.03319635521620512 585002.60703395679593086, 437810.34366963559295982 585002.07786622643470764, 437810.07908577547641471 585000.35807112511247396, 437795.92384913534624502 585000.62265498749911785, 437795.65926526521798223 584978.2653186060488224, 437781.63632055511698127 584978.66219439636915922, 437782.03319635521620512 585002.60703395679593086)),((437752.09553563478402793 585004.36651351768523455, 437737.14654739457182586 585005.42484896630048752, 437737.2788393345545046 585007.67381179705262184, 437751.96324369474314153 585006.7477682763710618, 437752.09553563478402793 585004.36651351768523455)),((437776.21235137508483604 585014.24872390646487474, 437776.74151910498039797 585034.22480552643537521, 437783.09153180522844195 585034.09251358732581139, 437782.43007214512908831 585013.98414003755897284, 437776.21235137508483604 585014.24872390646487474)),((437906.70511900662677363 585046.60732403676956892, 437886.86132931639440358 585046.34274017717689276, 437878.52693764620926231 585043.43231768719851971, 437811.19034464552532881 585044.35836120694875717, 437811.19034464552532881 585050.44379004649817944, 437864.10711714602075517 585049.65003845561295748, 437907.10199479659786448 585049.38545459695160389, 437906.70511900662677363 585046.60732403676956892)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "HUNGER DEVELOPMENT Sp. z o.o.",
+      "address": "ul. Towarowa 36 85-746 Bydgoszcz",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "6,797 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,68 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,36 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "13,6 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "8,35 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "6,62 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "4,75 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "1,56 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,099 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,555 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "245,9 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "678,4 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "607,1 mg/kg s.m.",
+      "area_ha": 0.4
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-03-04",
+    "legal_basis": "101c ust. 3 pkt 3 POŚ",
+    "case_reference": "WSS.513.3.2025.SS",
+    "decisions": [
+      {
+        "issue_date": "2025-03-28",
+        "reference": "WSS.513.3.2025.SS.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-03-19",
+        "reference": "WSS.515.4.2025.SS.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HUNGER DEVELOPMENT Sp. z o.o.",
+        "address": "ul. Towarowa 36 85-746 Bydgoszcz",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2025-04-01",
+    "planned_end": "2025-12-31",
+    "actual_end": "2025-04-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - usunięcie zanieczyszczonej przypowierzchniowej warstwy gruntu",
+    "ecological_effect": "przywrócenie standardów dla gruntów grupy I zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "WSS.513.3.2025 i WSS.515.4.2025"
+}

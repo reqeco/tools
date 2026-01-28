@@ -1,0 +1,50 @@
+{
+  "registry_id": 19,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "radomski",
+    "municipality": "Jastrzębia",
+    "address": "Mąkosy Nowe 2",
+    "precinct": null,
+    "parcel_numbers": [
+      "296"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((658637.443872422 408378.53011765983,658671.8397746229 408321.64458721876,658702.2669188918 408368.74051473755,658675.5439487187 408409.751013428,658637.443872422 408378.53011765983))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu olejem transformatorowym w wyniku kradziezy transformatora w miejscowości Mąkosy Nowe",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Sprawca nieznany",
+      "address": "Mąkosy Nowe",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2008-08-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

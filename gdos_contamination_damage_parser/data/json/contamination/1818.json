@@ -1,0 +1,131 @@
+{
+  "registry_id": 1818,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0968,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Szwedzka 20 - etap D (dz. ew. nr 6/4)",
+    "precinct": "4-13-02",
+    "parcel_numbers": [
+      "6/1",
+      "6/2",
+      "6/3",
+      "6/4",
+      "6/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639199.713216332 490943.8235532874,639167.4339850598 490912.8672413677,639455.0366439525 490524.7227150826,639562.457692273 490602.77495451085,639564.8389470363 490609.38955108076,639420.1115740654 490739.03564370144,639371.692727165 490779.25239080377,639199.713216332 490943.8235532874))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "SZWEDZKA E sp. z .o.o.",
+      "address": "ul. Jagiellońska 88 03-215 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "6/1",
+        "6/2",
+        "6/3",
+        "6/4",
+        "6/5"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-03-14",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.17.2023.PBu",
+    "decisions": [
+      {
+        "issue_date": "2021-09-15",
+        "reference": "WOOŚ-IV.515.47.2021.DŚc.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-02-22",
+        "reference": "WOOŚ-IV.515.47.2021.DŚc.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 162 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-05-05",
+        "reference": "WOOŚ-IV.515.17.2023.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "SZWEDZKA E sp. z .o.o.",
+        "address": "ul. Jagiellońska 88 03-215 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-05-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-04-19",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "remediacja ex situ",
+    "ecological_effect": "Przeprowadzone prace doprowadziły do usunięcia zanieczyszczeń.",
+    "effect_assessment": null
+  },
+  "notes": "Prace remediacyjne ex situ zostały wykonane przed dniem wydania decyzji ustalającej plan remediacji."
+}

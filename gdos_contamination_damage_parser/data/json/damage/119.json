@@ -1,0 +1,81 @@
+{
+  "registry_id": 119,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Koszalin",
+    "municipality": "Koszalin",
+    "address": "Koszalin ul. Wladyslawa IV 22a",
+    "precinct": null,
+    "parcel_numbers": [
+      "29/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((316646.49367817444726825 707570.72019804175943136, 316649.72221849922789261 707569.73609865549951792, 316652.71290927962400019 707568.79552384000271559, 316654.37137794314185157 707567.67013593763113022, 316655.00247583619784564 707563.78928213380277157, 316578.40015838074032217 707552.11110577546060085, 316572.10994733701227233 707593.58200221136212349, 316639.05363052350003272 707604.62619911320507526, 316644.3900680384831503 707572.4716161647811532, 316646.49367817444726825 707570.72019804175943136),(316581.2966528789838776 707567.3472174908965826, 316641.40331534575670958 707577.36718719266355038, 316637.84203431708738208 707599.32780823670327663, 316577.92089293303433806 707589.5776984877884388, 316581.2966528789838776 707567.3472174908965826)))",
+    "site_description": "wyciek z kontenera, w którym pracował agregat prądotwórczy"
+  },
+  "occurrence_time": {
+    "date": "2008-04-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na wycieku ok. 100 l oleju napędowego w wyniku nie zamknięcia się zaworu elektromagnetycznego, w budynku przy ul. Władysława IV 22a w Koszalinie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Telekomunikacja Polska S.SA.",
+      "address": "Ul. Nowolipie 30, 80-172 Gdańsk",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Telekomunikacja Polska S.A.",
+      "address": "Gdańsk Nowolipie 30",
+      "economic_activity_code": "61.90.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2008-04-11",
+    "detection_date": "2008-04-01",
+    "decisions": [
+      {
+        "issue_date": "2008-05-29",
+        "reference": "SR-Ś-6-6664/24-1/08",
+        "issuing_authority": "Wojewoda Zachodniopomorski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2008-07-31",
+    "actual_end": "2009-07-21",
+    "method": null,
+    "description": "Ex situ, in-situ, bioremediacja",
+    "ecological_effect": "osiągnięto zamierzony efekt ekologiczny standardy dla gruntów grupy B",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

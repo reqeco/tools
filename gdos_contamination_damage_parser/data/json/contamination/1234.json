@@ -1,0 +1,174 @@
+{
+  "registry_id": 1234,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.05,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": null,
+    "precinct": "0002 miasto Elbląg",
+    "parcel_numbers": [
+      "22/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((525377.8747777502 703692.7933704006,525602.7710608804 703682.2100159014,525735.0629921304 703634.5849206494,525760.1984590604 703327.6676401496,525675.5316230603 703276.0737869609,525621.2919312502 703215.2194985906,525549.8542883802 703178.1777578415,525490.3229193102 703170.2402419616,525396.3956481302 703154.3652102118,525335.5413597503 703092.1880025221,525291.8850224402 703096.1567604616,525352.7393108102 703565.793116401,525371.2601811903 703575.0535515901,525377.8747777503 703695.4392090309,525377.8747777502 703692.7933704006))",
+    "site_description": "Teren zamknięty. Zanieczyszczenie powierzchni ziemi jest następstwem funkcjonowania w latach 1979-2007 na części działki (pow. około 0,5 ha) stacji paliw."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "1979-2007"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MON - Rejonowy Zarząd Infrastruktury w Olsztynie",
+      "address": "ul. Saperska 1 10-073 Olsztyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "22/7"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "80 mg/kg s.m.",
+      "area_ha": 0.04
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "67-2587 mg/kg s.m.",
+      "area_ha": 0.0034
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1040-19400 mg/kg s.m.",
+      "area_ha": 0.0034
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "5,0 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,4 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "12,0 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "4,6-8,8 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "5,6-9,2 mg/kg s.m.",
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "300-842 mg/kg s.m.",
+      "area_ha": 0.0098
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-11-02",
+    "legal_basis": "art. 101l ust. 2 Poś",
+    "case_reference": "WSI.515.15.2021.JJ",
+    "decisions": [
+      {
+        "issue_date": "2021-01-28",
+        "reference": "WSI.513.44.2020.JJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101c ust. 3 pkt 3 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-03-11",
+        "reference": "WSI.515.15.2021.JJ.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-06-02",
+        "reference": "WSI.515.15.2021.JJ.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-11-15",
+        "reference": "WSI.515.19.2023.JJ.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-19",
+        "reference": "WSI.515.19.2023.JJ.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MON - Rejonowy Zarząd Infrastruktury w Olsztynie",
+        "address": "ul. Saperska 1 10-073 Olsztyn",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-11-01",
+    "planned_end": "2024-05-01",
+    "actual_end": "2024-04-01",
+    "method": null,
+    "description": "Remediacja zostanie przeprowadzona w sposób polegający na usunięciu zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko (tj. zgodnie z art. 101q ust. 1 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm.)). Będzie prowadzona metodą ex situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go gruntem wolnym od zanieczyszczeń. Metodą ex situ zostanie usunięty grunt niespełniający norm przewidzianych dla gruntów grupy I: •\tna głębokości 0-0,25 m ppt z powierzchni około 400 m2. Kubatura zanieczyszczonego gruntu wynosi ok. 100 m3 (0,25 m x 400 m2); •\tna głębokości 0,25 m ppt z powierzchni około 98 m2 (teren ten został zaznaczony na załączniku nr 1 do decyzji), w obrębie sześciu obszarów remediacyjnych: - obszar A o powierzchni 9 m2 (kwadrat o boku 3x3 m), środkiem kwadratu jest otwór nr 1, wokół którego zidentyfikowano zanieczyszczenie gruntu barem, sumą węglowodorów C6-C12, składników frakcji benzyn, sumą węglowodorów C12-C35, składników frakcji oleju. Zanieczyszczenie występuje w przedziale 0,25-1,0 m ppt. Miąższość zanieczyszczonego gruntu wynosi 1 m, a kubatura 9 m3 (1,0 m x 9 m2); - obszar B o powierzchni 25 m2 (kwadrat o boku 5x5 m), środkiem kwadratu jest otwór nr 2, wokół którego zidentyfikowano zanieczyszczenie gruntu barem, sumą węglowodorów C6-C12, składników frakcji benzyn, sumą węglowodorów C12-C35, składników frakcji oleju, naftalenem, benzenem, etylobenzenem, toluenem, ksylenami. Zanieczyszczenie występuje w przedziale 4,0-8,0 m ppt. Miąższość zanieczyszczonego gruntu wynosi 4 m, a kubatura 100 m3 (4,0 m x 25 m2); - obszar C o powierzchni 16 m2 (kwadrat o boku 4x4 m), środkiem kwadratu jest otwór nr OT2, wokół którego zidentyfikowano zanieczyszczenie gruntu barem. Zanieczyszczenie występuje w przedziale 0,25-1,0 m ppt. Miąższość zanieczyszczonego gruntu wynosi 1 m,  a kubatura 16 m3 (1,0 m x 16 m2); - obszar D o powierzchni 16 m2 (kwadrat o boku 4x4 m), środkiem kwadratu jest otwór nr OT3, wokół którego zidentyfikowano zanieczyszczenie gruntu barem. Zanieczyszczenie występuje w przedziale 1,0-3,0 m ppt. Miąższość zanieczyszczonego gruntu wynosi 2 m,  a kubatura 32 m3 (2,0 m x 16 m2); - obszar E o powierzchni 16 m2 (kwadrat o boku 4x4 m), środkiem kwadratu jest otwór nr OT4, wokół którego zidentyfikowano zanieczyszczenie gruntu barem. Zanieczyszczenie występuje w przedziale 1,0-3,0 m ppt. Miąższość zanieczyszczonego gruntu wynosi 2 m,  a kubatura 32 m3 (2,0 m x 16 m2); - obszar F o powierzchni 16 m2 (kwadrat o boku 4x4 m), środkiem kwadratu jest otwór nr OT5, wokół którego zidentyfikowano zanieczyszczenie gruntu barem. Zanieczyszczenie występuje w przedziale 1,0-3,0 m ppt. Miąższość zanieczyszczonego gruntu wynosi 2 m,  a kubatura 32 m3 (2,0 m x 16 m2).  Łącznie z terenu nieruchomości nr 22/7 obręb 0002 Elbląg zostanie wydobyte około 321 m3 gruntu o zawartości zanieczyszczeń przekraczających wartości dopuszczalne wymienione w pkt II.2 niniejszej decyzji. Przyjmując średnią gęstość zanieczyszczonego gruntu jako 1,9 Mg/m3, masa gruntu niespełniającego wymogów dla gruntów grupy I wynosi około 610 Mg (321 m3 x 1,9 Mg/m3). Dokładna ilość gruntu wymagającego wymiany zostanie określona w trakcie prowadzonych prac remediacyjnych.   Wydobyty grunt (odpad niebezpieczny o kodzie 17 05 03*) zostanie załadowany na samochody przystosowane do transportu odpadów niebezpiecznych i przekazany podmiotowi posiadającemu zezwolenie na unieszkodliwianie tego rodzaju odpadów. Sposób postępowania z odpadami, ich transport i zagospodarowanie powinny odbywać się zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2021 r. poz. 779, z późn. zm.).  Po usunięciu zanieczyszczonej partii gruntów, powstałe wykopy (ściany i dno) zostaną opróbowane i przebadane pod kątem określenia w glebie i ziemi zawartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji. Z każdego obszaru remediacyjnego (A-F) zostaną pobrane co najmniej po 3 próby kontrolne w celu laboratoryjnego oznaczenia zawartości tych substancji, których przekroczenie spowodowało obowiązek przeprowadzenia remediacji w danym obszarze remediacyjnym. Z obszaru sekcji (400 m2) zostanie pobranych co najmniej 6 prób kontrolnych. W pobranych próbkach ziemi należy również laboratoryjnie oznaczyć współczynnik wodoprzepuszczalności.   Pojawiająca się w wykopie woda gruntowa zostanie odpompowana i przekazana do unieszkodliwienia jako odpad niebezpieczny o kodzie 16 10 01*.  Po usunięciu zanieczyszczonych gruntów, na obszar remediacji zostanie nawieziony czysty grunt  o znanym pochodzeniu. Nawieziony grunt będzie spełniał standardy jakości przewidziane dla gruntów grupy I, co zostanie potwierdzone analizami laboratoryjnymi.  Prace remediacyjne będą prowadzone pod stałym nadzorem geologicznym, w tym w zakresie usuwania i załadunku gruntu, przy zachowaniu szczególnych środków bezpieczeństwa oraz zastosowaniu środków ochrony indywidualnej odpowiednich do rodzaju wykonywanych prac i zagrożeń związanych z narażeniem na kontakt z odpadami niebezpiecznymi. Do czasu zakończenia prac remediacyjnych obszar historycznego zanieczyszczenia powierzchni ziemi będzie zabezpieczony przed dostępem osób postronnych.  Uprawniony geolog będzie także prowadził analizę stopnia zanieczyszczenia gruntów. Grunt sklasyfikowany jako czysty (nadkład nad gruntami zanieczyszczonymi głębiej) zostanie użyty do zasypania powstałych wykopów z jednoczesnym zagęszczeniem.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym dla gruntów grupy I w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395). Ich zawartość w glebie i w ziemi nie będzie zatem przekraczać: •\tna głębokości 0-0,25 m ppt: - suma węglowodorów C12-C35, składników frakcji oleju – 30 mg/kg s.m •\tna głębokości poniżej 0,25 m ppt, dla gleby i ziemi o wodoprzepuszczalności wyższej lub równej 1x10-7 m/s: - suma węglowodorów C6-C12, składników frakcji benzyn – 50 mg/kg s.m.; - suma węglowodorów C12-C35, składników frakcji oleju – 1000 mg/kg s.m; - bar – 300 mg/kg s.m; - benzen – 1 mg/kg s.m; - etylobenzen – 1 mg/kg s.m; - toluen – 1 mg/kg s.m; - ksyleny – 1 mg/kg s.m; - naftalen – 5 mg/kg s.m.  Zgodnie z przedłożoną dokumentacją powykonawczą, prace remediacyjne zostały przeprowadzone w zakresie wskazanym w decyzji ustalającej plan remediacji. Dodatkowo remediacją objęto obszar pól zbiornikowych, w których po usunięciu zbiorników stwierdzono zanieczyszczenie gruntu substancjami ropopochodnymi. W ramach prac usunięto i przekazano do zagospodarowania 440,3500 Mg odpadów o kodzie 17 05 03* oraz 479,6800 Mg odpadów o kodzie 17 05 04. Próbki kontrolne, pobrane z dna i ścian wykopów, nie wykazały przekroczenia dopuszczalnych zawartości substancji stwarzających ryzyko, których ponadnormatywną obecność wcześniej udokumentowano na tym terenie.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,372 @@
+{
+  "registry_id": 893,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 12.1,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "ul. Kablowa Szczecin",
+    "precinct": "Dąbie 3",
+    "parcel_numbers": [
+      "1/2",
+      "1/17",
+      "1/24",
+      "1/28",
+      "1/30",
+      "1/34",
+      "1/35"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((216446.37676799998735078 626239.00025399995502084, 216451.98270399999455549 626207.51515300001483411, 216457.36245799998869188 626172.71632699994370341, 216452.35883099999045953 626168.89942699996754527, 216454.58213200001046062 626165.84890400001313537, 216382.74138500000117347 626112.65306899999268353, 216377.82287199998972937 626119.27156999998260289, 216372.99687500001164153 626116.47668399999383837, 216341.29685600000084378 626110.61226900003384799, 216332.91660600001341663 626123.20637200004421175, 216321.57934100000420585 626118.47272199997678399, 216269.36730199999874458 626226.91918399999849498, 216233.40182200001436286 626302.63168899994343519, 216179.89656200000899844 626415.22018900001421571, 216245.75367700000060722 626508.61704899999313056, 216316.23023399998783134 626598.05637699994258583, 216384.85764100000960752 626691.33369600004516542, 216407.24294600001303479 626701.77861100004520267, 216442.15443900000536814 626718.08305500005371869, 216477.0137420000100974 626734.35034500004258007, 216498.41454900000826456 626744.32993799995165318, 216509.31729199999244884 626506.56922099995426834, 216509.57784499999252148 626500.68324000004213303, 216515.0341820000030566 626381.97796199994627386, 216521.63872200000332668 626237.68889400002080947, 216464.72215899999719113 626235.07431099994573742, 216446.37676799998735078 626239.00025399995502084),(216408.12474100000690669 626274.71352200000546873, 216422.24357900000177324 626292.9373139999806881, 216411.41517299998668022 626300.1181880000513047, 216423.6718119999859482 626316.5829639999428764, 216410.55455800000345334 626327.60957900003995746, 216411.65315500000724569 626332.00649599998723716, 216411.60236700001405552 626336.09725200000684708, 216393.77609599998686463 626348.73094399995170534, 216384.07016299999668263 626354.84684300003573298, 216378.19201699999393895 626355.61783899995498359, 216342.12352900000405498 626353.8562849999871105, 216335.73245599999791011 626314.98938399995677173, 216353.27152199999545701 626311.87018900003749877, 216367.09723600000143051 626301.5051380000077188, 216376.7995459999947343 626297.64380399999208748, 216367.83797100000083447 626283.11806400003843009, 216365.45317100000102073 626279.72518499998841435, 216365.08892899999045767 626277.52134099998511374, 216364.95049499999731779 626274.342956000007689, 216366.71703500000876375 626272.07955499994568527, 216383.67558899999130517 626260.58671599999070168, 216388.74414299998898059 626260.74289899994619191, 216389.10763300000689924 626260.79261899995617568, 216390.35957699999562465 626261.85449399997014552, 216391.46955700000398792 626263.06461300002411008, 216396.29874100000597537 626270.1977020000340417, 216402.65075999998953193 626279.46956300002057105, 216408.12474100000690669 626274.71352200000546873))",
+    "site_description": "Teren po dawnej fabryce kabli, planowane zagospodarowanie - powierzchnie magazynowe, logistyka"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Na przedmiotowym terenie różnego rodzaju działalność prowadzona była od 1934 r. (produkcja silników samochodowych, części do silników niemieckich bombowców, zakłady zbożowe, fabryka kabli. Ze względu na charakter zidentyfikowanego zanieczyszczenia, zakwalifikowano je jako historyczne zanieczyszczenie powierzchni ziemi."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "działalność nieznana",
+    "current": "działalność nieznana"
+  },
+  "land_holders": [
+    {
+      "name": "Accolade PL XIII sp. o.o.",
+      "address": "ul. Skaryszewska 7, 03-802 Szczecin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "1/2",
+        "1/24",
+        "1/17",
+        "1/28",
+        "1/30",
+        "1/34",
+        "1/35"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "32 - 970 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "260 - 6000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "32 - 280 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0, 24 - 1,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,22 - 7,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,18 - 7,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0, 28 - 9,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,11 - 3,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,21 - 6,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,22 - 2,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,11- 0,88 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,21 - 3,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Fenol",
+      "concentration": "0,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "290 - 650 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1300 - 2400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "450 - 1400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "170 - 9600 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "150 - 820 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "31-730 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "340 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "5,7 - 14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "5,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "6,3 - 27 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "7,1 - 24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "7,2 - 26 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,4 - 18 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,7 - 9,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "2,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "48 - 120 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,62 - 330 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,46  i 3,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Krezole",
+      "concentration": "0,58 - 3,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": null,
+      "concentration": "0,5 - 4,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,8  i 3,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "8,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "9,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "2,7 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-07-11",
+    "legal_basis": "101 l POŚ",
+    "case_reference": "WONS-NS.515.4.2019.AS",
+    "decisions": [
+      {
+        "issue_date": "2019-08-13",
+        "reference": "WONS-NS.515.4.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-10-02",
+        "reference": "WONS-NS.513.13.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Accolade PL XIII sp. o.o.",
+        "address": "ul. Skaryszewska 7, 03-802 Szczecin",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2019-10-01",
+    "planned_end": "2021-06-30",
+    "actual_end": "2020-09-01",
+    "method": "zmniejszenie ilości zanieczyszczeń",
+    "description": "1.\tOdstępuje się od usunięcia zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i ziemi substancji powodującej ryzyko dla gruntów grupy I.  2.\tCelem orzeczonego sposobu remediacji jest zmniejszenie ilości zanieczyszczeń w glebie i ziemi, prowadzące do usunięcia znaczącego zagrożenia dla zdrowia ludzi i stanu środowiska.  3.\tW obszarach oznaczonych jako S1, S2, S18, A, B, C, D remediacja prowadzona będzie metodą ex-situ off site.  a)\tobszar S1 – powierzchnia przeznaczona do remediacji wyniesie około 0,14 ha, do głębokości 0,25 m p.p.t., co odpowiada szacunkowo 350 m3 ziemi, co odpowiada 550 Mg;  b)\tobszar S2 – powierzchnia przeznaczona do remediacji wyniesie około 0,27 ha, do głębokości 0,25 m p.p.t., co odpowiada szacunkowo 660 m3 ziemi, co odpowiada 1060 Mg;  c)\tobszar S18 – powierzchnia przeznaczona do remediacji wyniesie około 0,054 ha, do głębokości 0,25 m p.p.t., co odpowiada szacunkowo 135 m3 ziemi, co odpowiada 220 Mg.  - Po usunięciu zanieczyszczonej ziemi z obszarów S1, S2, S18 (do głębokości 0,25 m p.p.t.) powstały wykop należy uzupełnić gruntem nawiezionym czystym spełniającym normy dla gruntów grupy I, z odtworzeniem warstwy biologicznie czynnej.  d)\tobszar A  – powierzchnia przeznaczona do remediacji wyniesie około 0,033 ha, ziemia zostanie usunięta w przedziale głębokościowym od 0 do 0,5 m p.p.t., co odpowiada szacunkowo 165 m3, co odpowiada 260 Mg;  e)\tobszar B – powierzchnia przeznaczona do remediacji wyniesie około 0,002 ha, na głębokości od 0,25 do 0,5 m p.p.t., co odpowiada szacunkowo 6 m3 ziemi, co odpowiada 10 Mg;  f)\tobszar C – powierzchnia przeznaczona do remediacji wyniesie około 0,027 ha, na głębokości od 0,6 m do 1,0 m p.p.t, co odpowiada szacunkowo 110 m3 ziemi, co odpowiada 175 Mg;  g)\tobszar D – powierzchnia przeznaczona do remediacji wyniesie około 0,018 ha, na głębokości 0,25 m do 1 m p.p.t., co odpowiada szacunkowo 135 m3 ziemi, co odpowiada 215 Mg;   - Po usunięciu zanieczyszczonej ziemi z obszarów A, B, C, D, powstały wykop należy uzupełnić gruntem nawiezionym czystym spełniającym normy dla gruntów grupy I.  4.\tW obszarach oznaczonych jako E, F remediacja prowadzona będzie metodą ex-situ on site.  a)\tobszar E – powierzchnia przeznaczona do remediacji wyniesie około 0,141 ha, na głębokości 2,0 – 3,5 m p.p.t., co odpowiada szacunkowo 2120 m3 ziemi, co odpowiada 3390 Mg;   b)\tobszar F – powierzchnia przeznaczona do remediacji wyniesie około 0,27 ha; przedziały głębokościowe z których będzie usuwana zanieczyszczona ziemia odpowiadają ułożeniu substancji w profilu glebowym tj. na głębokościach 1,5 m – 2,6 m p.p.t., 1,0 m – 4,5 m p.p.t., 3,0 m – 9,0 m p.p.t., 3,0 m – 6,0 m p.p.t., co odpowiada szacunkowo 8340 m3 ziemi, co odpowiada 13345 Mg.  - Wydobyta zanieczyszczona ziemia zostanie uformowana na specjalnie przygotowanej i zabezpieczonej pryzmie bioremediacyjnej zlokalizowanej w granicach przedmiotowej nieruchomości.  - Bioremediacja zanieczyszczenia stymulowana będzie przez napowietrzanie oraz wprowadzanie substancji odżywczych dla mikroorganizmów redukujących skażenie.  - Ziemia z pryzmy zostanie przetransportowana z powrotem do miejsca wydobycia po zakończeniu procesu remediacji, tj. uzyskaniu stężeń substancji zanieczyszczających poniżej ustalonych wartości SSTL (Obliczone Specyficzne Lokalne Wartości Docelowe).",
+    "ecological_effect": "Z dokumentacji powykonawczej wynika, że osiągnięto cel remediacji jakim było zmniejszenie ilości zanieczyszczeń w celu usunięcia znaczącego zagrożenia dla zdrowia ludzi i stanu środowiska wynikającego z zanieczyszczenia powierzchni ziemi WWA, olejem mineralnym, miedzią, kadmem, fenolem w obszarach A B C D S1 S2 S18 oraz węglowodorami aromatycznymi BTEX, tetrachloroetenem, fenolem oraz krezolami w obszarach E i F. Finalna powierzchnia terenu poddanego remediacji wyniosła 0,889 ha.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

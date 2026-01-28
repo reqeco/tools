@@ -1,0 +1,136 @@
+{
+  "registry_id": 779,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.7933,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Milczańska w Poznaniu",
+    "precinct": "0005 Rataje 0006 Żegrze",
+    "parcel_numbers": [
+      "8/10 (obręb 0005 Rataje",
+      "ark. 07)",
+      "15/10 i 15/17 (obręb 0006 Zegrze",
+      "ark. 01)"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((361546.03621260787 505205.63639724907,361536.5111935466 505189.4967816388,361562.96957983123 505148.48628294934,361581.22586636303 505175.20925305877,361580.69669864245 505176.00300464965,361546.03621260787 505205.63639724907)), POLYGON((361544.4487094274 505166.47798559815,361476.97982441436 505119.9112257995,361499.7340366151 505053.23609244917,361587.8404629433 505117.52997103985,361544.4487094274 505166.47798559815)), POLYGON((361591.8092208768 505163.0383953899,361574.0821020752 505145.3112766007,361593.39672406 505122.55706442986,361611.12384287175 505140.01959935017,361591.8092208768 505163.0383953899))",
+    "site_description": "Teren wymagający remediacji był nieużytkiem, z przeznaczeniem wg. planu zagospodarowania przestrzennego na tereny zabudowy mieszkaniowej wielorodzinnej."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "W przeszłości teren zagospodarowany jako grunty rolne, na którym znajdowały się szklarnie, które musiały być ogrzewane, ponadto stosowano nawozy sztuczne, środki ochrony roślin."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska sp. z o.o.",
+      "address": "ul. Lecha Kaczyńskiego 14 (obecnie al. Armii Ludowej 14), 00-683 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,634 mg/kg s.m.",
+      "area_ha": 0.7933
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,545 mg/kg s.m.",
+      "area_ha": 0.7933
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,660 mg/kg s.m.",
+      "area_ha": 0.7933
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,609 mg/kg s.m.",
+      "area_ha": 0.7933
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,708 mg/kg s.m.",
+      "area_ha": 0.7933
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,469 mg/kg s.m.",
+      "area_ha": 0.7933
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,035 mg/kg s.m.",
+      "area_ha": 0.7933
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,502 mg/kg s.m.",
+      "area_ha": 0.7933
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-03-30",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-05-27",
+        "reference": "WSS.515.21.2018.ASB.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska sp. z o.o.",
+        "address": "ul. Lecha Kaczyńskiego 14 (obecnie al. Armii Ludowej 14), 00-683 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2019-06-01",
+    "planned_end": "2020-05-31",
+    "actual_end": "2019-07-01",
+    "method": null,
+    "description": "Remediacja prowadzona metodą ex-situ. Z terenu działek nr 8/10 (obręb 0005 Rataje, ark. 07), 15/10 i 15/17 (obręb 0006 Zegrze, ark. 01) o łącznej powierzchni zanieczyszczenia około 7.933 m2 usunięto zanieczyszczony grunt stanowiący powierzchnię ziemi do głębokości zalegania zanieczyszczenia, tj. do głębokości ok. 0,4 m ppt. Zagospodarowanie powstałych odpadów należało prowadzić zgodnie z przepisami o odpadach.",
+    "ecological_effect": "Powstały wykop nie został zasypany, ale odpowiednio zagospodarowany, co było uzależnione od planów inwestycyjnych. Z wyników pobranych próbek gleby z dna i ścian wykopu wynika, że spełnione były normy jakości gleby i ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

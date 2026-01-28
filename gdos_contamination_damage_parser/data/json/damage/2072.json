@@ -1,0 +1,52 @@
+{
+  "registry_id": 2072,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Obodrzycka 73, Poznań",
+    "precinct": "0006 Żegrze",
+    "parcel_numbers": [
+      "29/4",
+      "29/6",
+      "29/9"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Teren zakładu DURAS Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "W czasie prowadzonej na tym terenie działalności"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Palmy na kostce brukowej na terenie firmy",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "11 Capital Sp. z o.o.",
+      "address": "ul. Jaszowiecka 8/4U, 02-934 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-02-11",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

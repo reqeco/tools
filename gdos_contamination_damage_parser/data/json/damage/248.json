@@ -1,0 +1,78 @@
+{
+  "registry_id": 248,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "Gorzów Wielkopolski",
+    "municipality": "Gorzów Wielkopolski",
+    "address": "Gorzów Wielkopolski Warskiego, Jackowskiego, Metziga, Błotna",
+    "precinct": null,
+    "parcel_numbers": [
+      "staw"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((245127.31536947293 549770.8886424806,245102.97365297787 549728.5552245062,245099.26947878144 549704.2135091592,245098.21114334217 549679.8717938056,245104.0319887139 549642.300885329,245102.44448550302 549626.9550212976,245110.91116961054 549601.0258027678,245134.194550799 549569.2757392367,245160.12377068837 549558.1632169746,245180.23214521544 549580.9174291324,245193.46133888097 549635.9508725228,245200.8696873212 549670.3467746349,245207.21970025823 549704.2135090306,245207.21970018878 549730.1427275632,245211.453042162 549747.0760947587,245190.81549977296 549763.4802942555,245170.7071251522 549775.6511519598,245161.7112733549 549780.4136614902,245144.24873750703 549786.2345064916,245127.31536947293 549770.8886424806))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2012-04-03",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "zagrożenie szkodą w gatunkach chronionych płazów (m.in. traszki grzebieniastej, traszki zwyczajnej, kumaka nizinnego, grzebiuszki ziemnej, ropuchy szarej). Studzienki odwodnieniowe usytuowane przy ul. Warskiego, Jackowskiego, Metziga i Błotnej w okolicy Stawu Błotnego w Gorzowie Wielkopolskim stanowią \"śmiertelna pułapkę\" dla płazów.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": "ososba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Miasto Gorzów Wielkopolski",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "traszka grzebieniasta (Triturus cristatus)",
+    "kumak nizinny (Bombina bombina)",
+    "ropucha szara (Bufo bufo)",
+    "grzebiuszka ziemna (Pelobates fuscus)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-08-07",
+    "detection_date": "2012-04-03",
+    "decisions": [
+      {
+        "issue_date": "2012-10-05",
+        "reference": "WSI-I.511.11.2012.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2013-10-01",
+    "planned_end": "2013-06-01",
+    "actual_end": "2013-07-19",
+    "method": null,
+    "description": "Zamontowanie odpowiednich siatek na wpustach kanalizacji deszczowej oraz prowadzeniu szczegółowych obserwacji i zapisów dotyczących ilości uwięzionych płazów w studzienkach, ginących na drogach pod kołami samochodów oraz kierunków migracji. Obserwacje prowadzone w okresie największej aktywności wiosennej  herpetofauny (migracje, rozród), tj. 1 marca 2013 r. – 31 maja 2013 r., w porze porannej  oraz przed zmierzchem na obszarze szlaku migracyjnego o szerokości ok. 200 m na odcinku obniżenia rynnowego, od co najmniej 850 m na północ oraz na południe od brzegu Stawu Błotnego, zawężając go do stwierdzonego doświadczalnie, rzeczywistego terenu. Obserwacje miały pozwolić na uzyskanie stosownych danych ilościowo-jakościowych, wystarczających do dokonania prawidłowej oceny sytuacji herpetofauny tych okolic",
+    "ecological_effect": "Z przedłożonego raportu z monitoringu wynika, że w żadnym z siedemnastu wskazanych  w decyzji wpustów ulicznych w obrębie ulic Warskiego, Jackowskiego, Metziga  i Błotnej w Gorzowie Wlkp., w całym okresie obserwacji nie stwierdzono obecności płazów.  Nie zaobserwowano również płazów ginących na drogach pod kołami samochodów  oraz nie stwierdzono obecności żadnego szlaku migracyjnego tej populacji.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

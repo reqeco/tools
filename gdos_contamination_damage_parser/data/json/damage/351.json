@@ -1,0 +1,64 @@
+{
+  "registry_id": 351,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "chełmski",
+    "municipality": "Leśniowice",
+    "address": null,
+    "precinct": "0003 Horodysko",
+    "parcel_numbers": [
+      "060307_2.0003.439/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((810741.3531868475 352471.585891542,810732.0927502397 352442.74625048786,810956.1953101985 352373.1606954904,810979.478693296 352396.4440754745,810740.8240190594 352471.58589154016,810741.3531868475 352471.585891542))",
+    "site_description": "na działce nr 438/2 w miejscowości Horodysko, gmina Leśniowice"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2010-11-17",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zgłoszenie zakończenia działań zapobiegawczych szkody polegającej na zanieczyszczeniu gruntu olejem hydraulicznym (ok. 25 l) na skutek awarii pompy głównej urządzenia do wzbudzania fal sejsmicznych (wibrator) podczas prowadzenia prac polowych na działce nr 438/2 w miejscowości Horodysko, gmina Leśniowice",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Geofizyka Toruń Sp. z o.o. Grupa Sejsmiczna P-71",
+      "address": "ul. Chrobrego 50, 87-100 Toruń",
+      "legal_form": "Spółka z o.o."
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Geofizyka Toruń Sp. z o.o.",
+      "address": "ul. Chrobrego 50, 87-100 Toruń",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-01-14",
+    "detection_date": "2010-11-17",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2010-11-18",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W ramach działań zapobiegawczych rozlany olej został zebrany przy użyciu sorbentu, wraz z warstwą zanieczyszczonej ziemi oraz zabezpieczony w plastikowych workach i przekazany do utylizacji.",
+    "ecological_effect": "Doprowadzono środowisko gruntowe w zakresie zawartości substancji ropopochodnych do odpowiednich standardów jakości gleby i ziemi.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

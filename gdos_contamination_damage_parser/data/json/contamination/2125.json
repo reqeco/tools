@@ -1,0 +1,58 @@
+{
+  "registry_id": 2125,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Jaworzno",
+    "municipality": "b.d.",
+    "address": "ul. F. Chopina w Jaworznie",
+    "precinct": "165",
+    "parcel_numbers": [
+      "246801_1.0165.3214"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((517065.45 257885.66,517222.71 257963.11,517251.88 257967.45,517339.37 257956.68,517352.73 257954.69,517363.2 257927.38,517258.16 257942.75,517250.82 257887.79,517252.93 257866.22,517207.49 257924.35,517119.87 257874.82,517081.88 257857.93,517065.45 257885.66))",
+    "site_description": "Teren Zakładów Chemicznych \"Organika-Azot\" w Jaworznie."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pestycydów i pozostałych środków agrochemicznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2023-11-24",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.712.2023.AH",
+    "decisions": [
+      {
+        "issue_date": "2024-11-22",
+        "reference": "WSI.513.712.2023.AH.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Działka została zgłoszona jako działka wchodząca w skład wielkoobszarowego terenu zdegradowanego, na którym jest konieczne podjęcie działań związanych z poprawą stanu środowiska."
+}

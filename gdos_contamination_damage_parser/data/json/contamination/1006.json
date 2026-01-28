@@ -1,0 +1,108 @@
+{
+  "registry_id": 1006,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.012,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "rawski",
+    "municipality": "Rawa Mazowiecka (gmina miejska)",
+    "address": "ul. Mszczonowska 36, 96-200 Rawa Mazowiecka",
+    "precinct": "16 Konopnica",
+    "parcel_numbers": [
+      "764/14",
+      "część ww. działki"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((587642.6000009264 436172.76999967266,587650.3400009271 436181.8999996735,587657.7500009278 436175.47999967635,587650.0700009271 436166.1499996772,587642.6000009264 436172.76999967266))",
+    "site_description": "byłe Zakłady Mięsne \"RAWA\" S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "od lat 70-tych"
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Logis S.A.",
+      "address": "ul. Mszczonowska 36, 96-200 Rawa Mazowiecka",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "764/14"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "powyżej 300 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "powyżej 300 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "powyżej 100 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "powyżej 150 mg/kg s.m.",
+      "area_ha": 0.012
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-09-19",
+    "legal_basis": "art 101l ustawy poś",
+    "case_reference": "WSI.515.10.2019.AK",
+    "decisions": [
+      {
+        "issue_date": "2020-05-27",
+        "reference": "WSI.515.10.2019.AK.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Logis S.A.",
+        "address": "ul. Mszczonowska 36, 96-200 Rawa Mazowiecka",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-07-01",
+    "planned_end": "2021-07-01",
+    "actual_end": "2020-07-13",
+    "method": null,
+    "description": "Działania remediacyjne części działki o nr ewid. 764/14, obręb Konopnica, położonej w Rawie Mazowieckiej przy ul. Mszczonowskiej 36, polegały na usunięciu metodą ex-situ gruntu zanieczyszczonego o objętości ok. 288 m3, masie ok. 518 Mg, w granicach obszaru: A,B,C,D, ograniczonego współrzędnymi przedstawionymi w pkt 1 niniejszej decyzji.",
+    "ecological_effect": "Przyjęto sprawozdanie z przeprowadzonych prac remediacyjnych",
+    "effect_assessment": null
+  },
+  "notes": null
+}

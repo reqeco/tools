@@ -1,0 +1,91 @@
+{
+  "registry_id": 60,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.0,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "ostrowski",
+    "municipality": "Ostrów Mazowiecka (gmina miejska)",
+    "address": "Ostrów Mazowiecka, ul. Torowa",
+    "precinct": "1",
+    "parcel_numbers": [
+      "1368/100 obręb 1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((694766.9551067915 554778.119972134,694760.075926294 554763.303275832,694870.6719819285 554678.1072721127,694879.1386656167 554677.5781043936,694956.3971542516 554627.8363382407,694960.1013283739 554636.3030218398,694882.8428397399 554688.6906266138,694883.3720074678 554694.5114715956,694889.1928525111 554701.3906520158,694908.242890815 554714.0906774169,694847.9177695548 554758.0115985908,694830.4552344402 554750.6032504411,694881.7845042867 554707.740664714,694887.6053493142 554699.8031488452,694883.3720074678 554694.5114715956,694877.5511624368 554693.9823038634,694766.9551067915 554778.119972134))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Transport kolejowy pasażerski międzymiastowy"
+  },
+  "land_holders": [
+    {
+      "name": "PKP S.A. Oddział Gospodarowania Nieruchomościami w Warszawie",
+      "address": "ul. Szczęśliwicka 62, 00-973 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "49.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3000-5100",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "308,7-14575",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-12-30",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-05-10",
+        "reference": "WSI.511.6.2011.ES.29",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKP S.A. Oddział Gospodarowania Nieruchomościami w Warszawie",
+        "address": "ul. Szczęśliwicka 62, 00-973 Warszawa",
+        "economic_activity_code": "49.10.Z"
+      }
+    ],
+    "planned_start": "2016-06-20",
+    "planned_end": "2020-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "in-situ - oczyszczanie gruntu poprzez ooczyszczenie wody gruntowej (sczerpywanie)",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

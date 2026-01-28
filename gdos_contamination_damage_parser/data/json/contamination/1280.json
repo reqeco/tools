@@ -1,0 +1,58 @@
+{
+  "registry_id": 1280,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "Trzebinia, ul. Kościuszki",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.795/184"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532734.3844932008 254326.81441028416,532752.9053635808 254289.24350181315,532699.1948394908 254267.01845736336,532684.9073109108 254266.48928963393,532672.4718693707 254293.21225975268,532734.3844932008 254326.81441028416))",
+    "site_description": "Teren po byłych Zakładach Metalurgicznych \"Trzebinia\" w Trzebini."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "P.H.U. INSTALBUD J. Rusin, J. Bogusz, A. Bogusz Sp. J.",
+      "address": "Trzebinia, ul. Kosciuszki",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-09",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.48.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2021-01-18",
+        "reference": "ZS.513.48.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,139 @@
+{
+  "registry_id": 955,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3624,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Miedziana",
+    "precinct": "0004 Dąbrówka Mała a. m. 11 a. m. 12",
+    "parcel_numbers": [
+      "246901_1.0004.AR_12.344/10",
+      "246901_1.0004.AR_11.124/48",
+      "246901_1.0004.AR_12.341/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((504938.082000 266595.299000,504961.682000 266633.588000,504969.228000 266632.918000,504961.136000 266617.516000,504941.437000 266586.199000,504927.242000 266582.192000,504938.082000 266595.299000)),((504841.295000 266492.910000,504843.219000 266502.959000,504850.462000 266507.988000,504887.164000 266537.358100,504904.266000 266555.396900,504919.464000 266558.161000,504912.145000 266548.965100,504939.620000 266561.778000,504941.670000 266562.600000,504931.158000 266549.279000,504912.034000 266528.009000,504911.690000 266523.277100,504914.345000 266519.283000,504803.779000 266456.566100,504763.668000 266439.775000,504716.983000 266417.908000,504716.812000 266417.888000,504753.932000 266436.628000,504766.318000 266443.597000,504797.693000 266461.015000,504830.963000 266480.377000,504838.800000 266485.708100,504841.295000 266492.910000)))",
+    "site_description": "Teren stanowi obecnie nieużytek. Działki o numerach 344/10 oraz 124/48 są zadrzewione i usytuowane na skarpie (pozostałość po nasypie kolejowym), natomiast teren działki 341/10 jest płaski i porośnięty trawami, zlokalizowany na wzniesieniu (około 3 m wyżej od pozostałych działek). W przeszłości przez przedmiotowe działki przebiegały tory kolejowe (obecnie w znacznej mierze zdemontowane). Charakterystyczną cechą omawianej nieruchomości, a także sąsiadujących z nim nieruchomości, jest według Wnioskodawcy obecność gruntów antropogenicznych (nasypów) stanowiących masę ziemną wymieszaną z odpadowymi materiałami pochodzenia pohutniczego (mieszanina gleby, glin piaszczystych i ilastych, piasków, pyłu oraz fragmentów cegieł, betonu i kamieni). Miąższość nasypów sięga od około 0,4 m do 4,5 m, poniżej zaś występują utwory czwartorzędowe w postaci piasku średniego oraz gliny pylastej i pyłu."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Dokładna data wystąpienia zanieczyszczenia nie jest znana. Zidentyfikowane na przedmiotowym terenie zanieczyszczenie związane jest z wieloletnią działalnością Huty Metali Nieżelaznych „Szopienice” (w 1981 r. zamknięto piec do wytapiania ołowiu, w latach następnych likwidowano zaś kolejne; w 2002 r. wstrzymano wytop cynku). Pozostałość po działalności huty stanowią m.in. nasypy oraz odpady pohutnicze o różnorodnym składzie chemicznym (zawierającym głównie metale ciężkie, w tym znaczne ilości cynku). Stwierdzone na rozpatrywanym obszarze zanieczyszczenie należy uznać za historyczne, z uwagi na historię terenu i jego wieloletni przemysłowy charakter, a także charakterystykę samych zanieczyszczeń, oraz brak innych przesłanek pozwalających na powiązanie stwierdzonego zanieczyszczenia powierzchni ziemi ze źródłem jego powstania."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Commercial Point sp. z o. o. (KRS: 0000352673)",
+      "address": "Puławska 39/30 02-508 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246901_1.0004.AR_12.344/10",
+        "246901_1.0004.AR_11.124/48",
+        "246901_1.0004.AR_12.341/10"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "350 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6200 mg/kg s.m.",
+      "area_ha": 0.99
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "14000 mg/kg s.m.",
+      "area_ha": 0.99
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "75000 mg/kg s.m.",
+      "area_ha": 0.99
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "240 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "41 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1800 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "8800 mg/kg s.m.",
+      "area_ha": 0.5
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-10",
+    "legal_basis": "art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.2.2019.TK",
+    "decisions": [
+      {
+        "issue_date": "2019-11-15",
+        "reference": "WSI.515.2.2019.TK.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Commercial Point sp. z o. o. (KRS: 0000352673)",
+        "address": "Puławska 39/30 02-508 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,223 @@
+{
+  "registry_id": 962,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.724,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Prosta 69",
+    "precinct": "6-04-09",
+    "parcel_numbers": [
+      "9/1",
+      "9/2",
+      "16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635286.5221609278 486632.40927853715,635338.116014173 486646.43222324364,635382.5661031209 486661.2489195438,635381.2431838096 486665.4822613448,635392.0911221813 486667.86351610534,635392.3557060414 486664.95309361536,635403.7328121436 486668.128099964,635418.8140923188 486630.82177535444,635424.3703534347 486634.5259494344,635429.9266145603 486619.70925313234,635424.105769574 486617.5925822342,635443.420391553 486564.9403935941,635457.7079201485 486570.4966547042,635470.143361701 486541.39242982306,635378.5973451722 486506.7319438467,635366.1619036199 486536.3653364461,635309.276373119 486524.4590626247,635286.5221609278 486632.40927853715))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ASBUD Towarowa Sp. z o.o.",
+      "address": "ul. Karolkowa 30, 01-207 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "9/1",
+        "16",
+        "9/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "590 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,1 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": "3900 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "51-1000 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "7-47 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "6 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "31-13000 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,47-1,5 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,95-1,4 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,41-2,5 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,43-2,8 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,41 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,3-2,4 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,44-3,1 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,32-1,5 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,3-1,6 mg/kg s.m.",
+      "area_ha": 0.724
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "630 mg/kg s.m.",
+      "area_ha": 0.5535
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "27-260 mg/kg s.m.",
+      "area_ha": 0.5535
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "3,1-13 mg/kg s.m.",
+      "area_ha": 0.5535
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "0,11 mg/kg s.m.",
+      "area_ha": 0.5535
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-09-26",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.113.2019",
+    "decisions": [
+      {
+        "issue_date": "2018-11-23",
+        "reference": "WSI.515.65.2018.SSz.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ASBUD Towarowa Sp. z o.o.",
+        "address": "ul. Karolkowa 30, 01-207 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-12-10",
+    "planned_end": null,
+    "actual_end": "2019-12-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remesicja ex situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

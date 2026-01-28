@@ -1,0 +1,139 @@
+{
+  "registry_id": 1864,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Buforowa",
+    "precinct": "Brochów",
+    "parcel_numbers": [
+      "2/5 AM 8 obręb Brochów"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((364341.5103484888 357800.59537892044,364350.5302130427 357809.58161409944,364353.3014264625 357812.3199828118,364360.4087132075 357819.4468684811,364365.36884524155 357815.39192827325,364357.9480654235 357807.2636602735,364354.2589738248 357803.1852419395,364345.9990352518 357793.992755739,364341.5103484888 357800.59537892044)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2021-01-20",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "organ ochrony środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w powierzchni ziemi w związku z wyciekiem płynnych odpadów porzuconych przez nieznanego sprawcę.",
+  "total_area_ha": 0.0355,
+  "reporters": [
+    {
+      "name": "Prezydent Wrocławia",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "420-5917 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "0,18-31 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,61-119 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Styren",
+      "concentration": "0,43-180 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "637 - 6524 mg/kg s.m.",
+      "area_ha": 0.014
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "767 mg/kg s.m.",
+      "area_ha": 0.014
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "3363 mg/kg s.m.",
+      "area_ha": 0.014
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "5,91 - 4145 mg/kg s.m.",
+      "area_ha": 0.014
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2023-10-17",
+    "detection_date": "2021-01-20",
+    "decisions": [
+      {
+        "issue_date": "2024-01-26",
+        "reference": "WSI.510.2.2021.KMA.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 104 Kpa oraz art. 17 ust. 2 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-05-16",
+        "reference": "WSI.510.1.2024.KMA.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-05-01",
+    "planned_end": "2024-09-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne przeprowadzone zostaną metodą ex_situ, polegającą na wydobyciu zanieczyszczonego gruntu, maksymalnie do głębokości  ok. 1 m ppt. Powstały odpad, w postaci zanieczyszczonego gruntu przekazany zostanie uprawnionemu podmiotowi. Wykopy powstałe w wyniku prac remediacyjnych zostaną uzupełnione niezanieczyszczonym gruntem.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej",
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "WSI.510.2.2021.KMA"
+}

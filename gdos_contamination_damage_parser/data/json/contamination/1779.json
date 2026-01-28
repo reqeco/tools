@@ -1,0 +1,51 @@
+{
+  "registry_id": 1779,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Krakowiaków 91/101 Dzielnica Włochy",
+    "precinct": "2-05-08",
+    "parcel_numbers": [
+      "14/2"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "EQUINIX (POLAND) Sp. z o.o.",
+      "address": "Al. Jerozolimskie 65 00-697 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "14/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2021-09-14",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.61.2021",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Wydano pismo z art. 64§ 2 kpa  o pozostawienie wniosku bez rozpoznania. Wnioskodawca nie ustosunkował się do wezwania. Regionalny Dyrektor Ochrony Środowiska wydał decyzję sygnatura nr. WOOŚ-IV.515.82.2019.SSz.3 ustalającą plan remediacji historycznego zanieczyszczenia powierzchni ziemi."
+}

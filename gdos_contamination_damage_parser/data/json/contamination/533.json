@@ -1,0 +1,263 @@
+{
+  "registry_id": 533,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.19,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Sienna Grobla",
+    "precinct": "0091 Gdańsk",
+    "parcel_numbers": [
+      "18/1",
+      "18/12",
+      "22/2",
+      "23/8",
+      "24/8 obręb 91 Gdańsk"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((478339.51136650983 721266.2586741168,478365.70516889985 721262.0253323158,478382.6385361 721261.4961645873,478469.15745914 721271.2857675059,478476.30122341996 721278.4295317866,478481.5929006699 721285.3087122161,478496.67418083997 721301.4483278263,478499.0554356 721301.1837439658,478537.94926339 721340.0775717562,478539.53676656 721349.3380069463,478527.63049274986 721353.3067648765,478499.0554355999 721359.6567775747,478493.76375834993 721345.3692490058,478484.76790702 721337.9609008562,478418.09277367 721329.4942172542,478379.99269747 721330.0233849762,478374.1718524998 721338.4900685772,478368.61559138994 721335.8442299552,478356.9739014399 721337.4317331258,478339.51136650983 721266.2586741168))",
+    "site_description": "Teren znajduje się w części Gdańska, w sąsiedztwie ujścia Motławy do Martwej Wisły  tzw. Polski Hak nazywanej Sienna Grobla. Nazwa Historyczna oznacza osiedle mieszkaniowo-przemysłowe powstałe w XIX i XX wieku."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed datą 30.04.2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ROBYG GROBLA PARK Sp. z o.o.",
+      "address": "ul. Al. Rzeczypospolitej 1, 02-972 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "245-281 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,01 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "37-110 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,37 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,203-0,619 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,364-2,460 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,22-11,40 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,164-11,800 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,312-1,770 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,143-3,810 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,134-3,080 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,159-3,650 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,205-5,340 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,219-5,660 mg/kg s.m.",
+      "area_ha": 1.19
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "311-426 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "34,1-36,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "397-788 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,99 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "161 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "103-307 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "3,85 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "7,55-8,44 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "7,14-7,45 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,53-5,61 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,42 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,22-5,62 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-08-23",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WZS.515.15.2018",
+    "decisions": [
+      {
+        "issue_date": "2018-10-22",
+        "reference": "RDOŚ-Gd-WZS.515.15.2018.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ROBYG GROBLA PARK Sp. z o.o.",
+        "address": "ul. Al. Rzeczypospolitej 1, 02-972 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-11-06",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-01-30",
+    "method": null,
+    "description": "Zastosowanie metody ex siu tj. usunięciu zanieczyszczonego gruntu do głębokości jaka zapewni, że pozostawiona warstwa będzie się cechowała parametrami zanieczyszczeń nie przekraczającymi dopuszczalnych norm do obszaru grupy gruntów I. Wierzchnia warstwa zostanie usunięta z całej powierzchni ww. działek tj. łącznie ok 11.190, 2 m kwadratow3e (łącznie ok. 2.800 m 3 tj. k 5.600 Mg. Z poziomu 0,25-1,00 m w rejonach stwierdzonego zanieczyszczenia usunięty zostanie grunt w ilości łącznie ok. 2.400 m 3 tj. ok 4.800 Mg",
+    "ecological_effect": "powstrzymanie rozprzestrzeniania się zanieczyszczeń, usunięcie zanieczyszczeń w wody podziemnej, usunięcie zanieczyszeń z gruntów",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

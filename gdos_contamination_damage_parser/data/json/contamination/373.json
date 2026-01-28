@@ -1,0 +1,246 @@
+{
+  "registry_id": 373,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.58,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Siedmiogrodzka 3",
+    "precinct": "6-04-05",
+    "parcel_numbers": [
+      "26/2 27/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634758.5672453914 486903.89255681355,634767.2985128597 486873.2008287655,634891.123760639 486893.3092023134,634889.5362574678 486908.9196502026,634865.9882936833 486914.2113274541,634858.0507777958 486940.93429756165,634758.5672453914 486903.89255681355))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MARVIPOL W Apartments Sp. z o. o.",
+      "address": "ul. Prosta 32 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,262 [mg/kg]",
+      "area_ha": 0.076
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,35-0,617 [mg/kg]",
+      "area_ha": 0.076
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,37-0,656 [mg/kg]",
+      "area_ha": 0.076
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,49-0,714 [mg/kg]",
+      "area_ha": 0.076
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,58-0,854 [mg/kg]",
+      "area_ha": 0.076
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,216-0,313 [mg/kg]",
+      "area_ha": 0.076
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,27-0,39 [mg/kg]",
+      "area_ha": 0.076
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,3-0,402 [mg/kg]",
+      "area_ha": 0.076
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "21,1-27,4 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "422 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,55-9,56 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "156-3080 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "126-2170 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "4,2- 15 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "38,4-2390 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "459-1720 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "5,66-8,28 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "9,23-10,4 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "8,97-8,51 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "7,69-11,2 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "6,76-9,46 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "11,3 [mg/kg]",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "103 [mg/kg]",
+      "area_ha": 0.5
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-03-28",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.2.2020",
+    "decisions": [
+      {
+        "issue_date": "2018-05-08",
+        "reference": "WSI.515.22.2018.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-12-15",
+        "reference": "WSI.515.22.2018.MB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MARVIPOL W Apartments Sp. z o. o.",
+        "address": "ul. Prosta 32 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-05-08",
+    "planned_end": "2019-02-28",
+    "actual_end": "2019-12-18",
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

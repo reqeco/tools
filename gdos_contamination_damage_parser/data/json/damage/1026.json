@@ -1,0 +1,131 @@
+{
+  "registry_id": 1026,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "świdnicki",
+    "municipality": "Świdnik",
+    "address": "ul. Metalurgiczna",
+    "precinct": "0001 Miasto Świdnik",
+    "parcel_numbers": [
+      "061701_1.0001.1765/41",
+      "061701_1.0001.1765/151"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((758793.3970012253 380592.68493220676,758945.7973127918 380559.0827818038,758942.3577223872 380545.85358868167,758909.020154204 380538.44524049945,758887.0596924416 380455.6304915054,758853.1929565785 380479.97220683657,758748.1531585313 380508.28268001974,758751.857332811 380527.861885855,758750.2698295712 380528.391053576,758752.1219167007 380535.79940172564,758769.0552846512 380532.88897926174,758778.5803041935 380562.2577880025,758784.9303171729 380560.1411171071,758793.3970012253 380592.68493220676))",
+    "site_description": "teren Wytwórni Sprzętu Komunikacyjnego \"PZL-Świdnik\" S.A. w Świdniku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1950-01-01",
+    "to": "2015-12-11",
+    "description": "działalność przemysłowa na terenie WSK \"PZL-Świdnik\" S.A."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi metalami ciężkimi spowodowane działalnością przemysłową WSK PZL-Świdnik S.A. w Świdniku - niewłaściwym sposobem magazynowania (zbierania) odpadów przemysłowych, w tym osadów poneutralizacyjnych.",
+  "total_area_ha": 0.1949,
+  "reporters": [
+    {
+      "name": "Wytwórnia Sprzętu Komunikacyjnego \"PZL-Świdnik\" S.A.",
+      "address": "Al. Lotników Polskich 1, 21-045 Świdnik",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Wytwórnia Sprzętu Komunikacyjnego \"PZL-Świdnik\" S.A.",
+      "address": "Al. Lotników Polskich 1, 21-045 Świdnik",
+      "economic_activity_code": "30.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,34-1060 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "356-147000 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "144-1820 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "251-1940 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "453-2630 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "202-561 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "205-301 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "5,18-66,4 mg/kg s.m.",
+      "area_ha": 0.1949
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2016-05-16",
+    "detection_date": "2015-12-11",
+    "decisions": [
+      {
+        "issue_date": "2017-07-11",
+        "reference": "WSI.511.5.2016.AWF",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2017-07-29",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-09-04",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Teren prowadzenia prac remediacyjnych ogrodzono i zabezpieczono przed dostępem osób postronnych. Prace remediacyjne prowadzono pod nadzorem uprawnionego geologa, z zachowaniem zasad bezpieczeństwa oraz zdrowia i życia ludzi, w tym przepisów BHP. Usunięto nasypy antropogeniczne zalegające na gruncie, stanowiące źródło zanieczyszczenia, a następnie usunięto zanieczyszczony metalami ciężkimi grunt metodą ex-situ, przy użyciu sprzętu mechanicznego. Zanieczyszczony grunt usuwano przy użyciu narzędzi ręcznych podczas prowadzenia prac w promieniu ok. 5 m od pni drzew, w taki sposób, aby nie spowodować uszkodzeń w systemie korzeniowym drzew oraz w bezpośrednim sąsiedztwie istniejącego budynku, tak aby nie spowodować naruszenia jego fundamentów. Wydobyte, zanieczyszczone metalami ciężkimi masy ziemne, przekazano do przetwarzania podmiotom posiadającym zezwolenia na prowadzenie gospodarowania tymi odpadami, udzielone zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach. Wykop po wydobytych, zanieczyszczonych masach ziemnych wypełniono czystym gruntem mineralnym rodzimym, który mechanicznie zagęszczono do poziomu otaczającego terenu. Powierzchnię wykonania prac wyrównano do poziomu otaczającego terenu, pokryto warstwą humusu i obsiano trawą.",
+    "ecological_effect": "Środowisko gruntowe na terenie działek nr ewid.: 1765/51 i 1765/41 w Świdniku o powierzchni 0,1949 ha zostało doprowadzone do standardów jakości gleby i ziemi obowiązujących dla grupy gruntów IV.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

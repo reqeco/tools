@@ -1,0 +1,117 @@
+{
+  "registry_id": 1088,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "Łomża",
+    "municipality": "Łomża",
+    "address": "ul. Wiejska 1 18-400 Łomża",
+    "precinct": "Łomża 1",
+    "parcel_numbers": [
+      "10149"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((705357.5458461542 595051.7526049456,705383.6073570015 595041.5661262516,705363.1021073204 594993.0149874762,705336.643720678 595004.1275096918,705357.5458461542 595051.7526049456))",
+    "site_description": "teren nieczynnej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "stacja paliw została wyłączona  z sieci sprzedaży z dniem 27.12.2013r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie związane z funkcjonowaniem stacji paliw (brak aktualnych badań)",
+  "total_area_ha": 0.09,
+  "reporters": [
+    {
+      "name": "Prezydent Miasta Łomża",
+      "address": "Stary Rynek 14 18-400 Łomża",
+      "legal_form": "organ administracji samorządowej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "370 mg/kg s.m.",
+      "area_ha": 0.09
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1100 mg/kg s.m.",
+      "area_ha": 0.09
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "27000 mg/kg s.m.",
+      "area_ha": 0.09
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "750 mg/kg s.m.",
+      "area_ha": 0.09
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "6000 mg/kg s.m.",
+      "area_ha": 0.09
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-04-05",
+    "detection_date": "2018-03-29",
+    "decisions": [
+      {
+        "issue_date": "2019-12-10",
+        "reference": "WPN.511.5.2019.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-01-14",
+        "reference": "WPN.512.3.2018.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2020-03-31",
+    "planned_end": "2020-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja ex-situ prowadzona była w dniach 15, 17 i 20.04.2020 r. oraz 04 i 05.05.2020 r.. W ramach remediacji zanieczyszczone grunty usunięto z obszaru działki nr 10149 i przekazano do unieszkodliwienia. Łącznie wybrano i wywieziono 1806,81 Mg zanieczyszczonych gruntów jako odpad niebezpieczny o kodzie 17 05 03*. W trakcie prac prowadzony był nadzór geologiczny, w trakcie którego pobierano próby gruntów do badań laboratoryjnych oraz dokonywano oceny organoleptycznej zanieczyszczenia oddzielając grunt czysty od skażonego. Próby kontrolne nie wykazały przekroczeń dopuszczalnych wartości dla gruntów pozostałych po remediacji na terenie działki 10149.",
+    "ecological_effect": "W dniu 29.06.2020 r. przedłożono dokumentację z przeprowadzenia remediacji, wraz z wynikami badań zanieczyszczenia gleby i ziemi. W wyniku remediacji na terenie działki 10149 zawartość następujących substancji powodujących ryzyko w glebie lub ziemi: suma węglowodorów C6-C12 (składników frakcji benzyn), suma węglowodorów C12-C35 (składników frakcji oleju), została przywrócona do dopuszczalnej zawartości tych substancji w glebie i ziemi określonej dla I grupy gruntów.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

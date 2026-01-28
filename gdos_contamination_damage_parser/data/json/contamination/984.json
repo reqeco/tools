@@ -1,0 +1,76 @@
+{
+  "registry_id": 984,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": null,
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.1173/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((533229.857463361 254023.73359575402,533244.8064515911 254038.02112433314,533262.7981542409 254060.77533650212,533279.731521441 254054.42532380205,533245.335619321 254016.72212339193,533229.857463361 254023.73359575402))",
+    "site_description": "hałda odpadów poprzemysłowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Starosta Chrzanowski",
+      "address": "ul. Partyzantów 2, 32-500 Chrzanów",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-11",
+    "legal_basis": "art.61 kpa",
+    "case_reference": "ZS.513.131.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2019-11-04",
+        "reference": "ZS.513.131.2019.MKub",
+        "issuing_authority": null,
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Starosta Chrzanowski",
+        "address": "ul. Partyzantów 2, 32-500 Chrzanów",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

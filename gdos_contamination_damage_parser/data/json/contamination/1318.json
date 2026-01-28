@@ -1,0 +1,147 @@
+{
+  "registry_id": 1318,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.8433,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Radom",
+    "municipality": "Radom",
+    "address": "ul. Tytoniowa 26-600 Radom",
+    "precinct": "0090",
+    "parcel_numbers": [
+      "1/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((648619.8049625071 394224.0408082837,648697.8572020787 394292.3034448121,648655.5237840117 394346.0139688924,648654.7300324207 394351.83481387235,648652.8779453777 394353.6869009137,648564.7715190199 394286.2180159744,648619.8049625071 394224.0408082837))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MDR Radom sp. z o.o.",
+      "address": "ul. Przeskok 2 00-032 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.8433
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.8433
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.8433
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.8433
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.8433
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.8433
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.8433
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.8433
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.8433
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.8433
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-04-01",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.43.2019.SSz",
+    "decisions": [
+      {
+        "issue_date": "2019-07-16",
+        "reference": "WOOŚ-IV.515.43.2019.SSz.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MDR Radom sp. z o.o.",
+        "address": "ul. Przeskok 2 00-032 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2019-07-01",
+    "planned_end": "2020-03-30",
+    "actual_end": "2020-03-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": "Remediacja wykonana zgodnie z decyzją oraz rozporządzeniem Ministra Środowiska",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

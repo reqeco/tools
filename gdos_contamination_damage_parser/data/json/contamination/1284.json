@@ -1,0 +1,197 @@
+{
+  "registry_id": 1284,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0044,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "Białystok",
+    "municipality": "Białystok",
+    "address": "ul. Baranowicka 121 15-501 Białystok",
+    "precinct": "20 Przemysłowy",
+    "parcel_numbers": [
+      "206101_1.0020.77/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((781991.33916186005808413 592506.81762471003457904, 782033.92201750795356929 592514.47960769000928849, 782032.17564710497390479 592562.0890423699747771, 782036.55695251899305731 592570.12687568098772317, 782037.57877461600583047 592569.99780925898812711, 782077.69938850100152194 592570.42809010902419686, 782099.30726119200699031 592568.15934901300352067, 782108.18610708101186901 592656.96371768496464938, 782016.23022753896657377 592664.87999513896647841, 782024.48879533703438938 592698.91000875702593476, 782029.99221760302316397 592714.98830584704410285, 782053.46589510201010853 592771.76258223096374422, 782058.90115077595692128 592769.46545791905373335, 782063.05169457697775215 592779.08155388105660677, 782057.48490786098409444 592781.10875677003059536, 782063.47843577794265002 592796.05814354005269706, 782053.29815278295427561 592797.95310266898013651, 782036.62601415696553886 592756.4755329480394721, 782014.79436853004153818 592765.09614063403569162, 781999.15984012396074831 592594.26433898997493088, 781991.38925980997737497 592509.39823444094508886, 781991.33916186005808413 592506.81762471003457904))",
+    "site_description": "Historycznie teren związany jest z przemysłem, w północnej części istniała bocznica kolejowa, w środkowej podziemne zbiorniki na paliwo. roku. Współcześnie na przedmiotowym terenie istnieje zabudowa handlowo-usługowa."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Działalność związana z magazynowaniem produktów  naftowych prowadzona na ww. nieruchomości została zakończona pod koniec 2000 roku"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": "Pozostała sprzedaż detaliczna prowadzona w niewyspecjalizowanych sklepach"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "206101_1.0020.77/4",
+        "206101_1.0020.77/5"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "206101_1.0020.77/4",
+        "206101_1.0020.77/5"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3,75 mg/kg s.m.",
+      "area_ha": 0.0026
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "300-1550 mg/kg s.m.",
+      "area_ha": 0.0044
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "0,107 mg/kg s.m.",
+      "area_ha": 0.0026
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,298 mg/kg s.m.",
+      "area_ha": 0.0026
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,335 mg/kg s.m.",
+      "area_ha": 0.0018
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,313 mg/kg s.m.",
+      "area_ha": 0.0018
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,330 mg/kg s.m.",
+      "area_ha": 0.0018
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,359 mg/kg s.m.",
+      "area_ha": 0.0018
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,262 mg/kg s.m.",
+      "area_ha": 0.0018
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,200 mg/kg s.m.",
+      "area_ha": 0.0018
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,293 mg/kg s.m.",
+      "area_ha": 0.0018
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1610 mg/kg s.m. (do głębokości 1,0 m p.p.t.)",
+      "area_ha": 0.0018
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-02-01",
+    "legal_basis": "101f ust.1 POŚ",
+    "case_reference": "WPN.516.1.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-03-08",
+        "reference": "WPN.516.1.2022",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-10-24",
+        "reference": "WPN.515.3.2023",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-01-29",
+        "reference": "WPN.514.1.2024.KP2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-02-14",
+    "planned_end": "2024-04-30",
+    "actual_end": "2024-04-30",
+    "method": null,
+    "description": "Remediacja zostanie przeprowadzona metodą ex-situ polegająca na wydobyciu zanieczyszczonego gruntu do głębokości 1,0 m p.p.t. i przekazaniu go uprawnionemu podmiotowi. Wydobyta zostanie zanieczyszczona gleba z powierzchni ok. 0,0044 ha (44 m2). Potwierdzeniem przeprowadzenia remediacji będzie sporządzenie i przedłożenie Regionalnemu Dyrektorowi Ochrony Środowiska w Białymstoku dokumentacji  z przeprowadzenia remediacji wraz z wynikami badań zanieczuszczenia gleby i ziemi wykonanych przez laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust. 1a ustawy Prawo Ochrony Środowiska.",
+    "ecological_effect": "Po analizie przedłożonej w dniu 28 maja 2024 r. dokumentacji powykonawczej stwierdzono zgodność przeprowadzonej remediacji z zapisami decyzji z dnia 24 października 2023 r. znak: WPN.515.3.2023.KP2 ustalającej plan remediacji historycznego zanieczyszczenia powierzchni ziemi na przedmiotowym terenie, zmienionej decyzją z dnia  29 stycznia 2024 r. (znak: WPN.514.1.2024.KP2).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

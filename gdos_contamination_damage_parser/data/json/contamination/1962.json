@@ -1,0 +1,201 @@
+{
+  "registry_id": 1962,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.19,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Legnica",
+    "municipality": "Legnica",
+    "address": "ul. Karlińskiego w Legnicy",
+    "precinct": "0030 Bartoszów",
+    "parcel_numbers": [
+      "7/31",
+      "10/28",
+      "0030 Bartoszów"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((303629.77760481298901141 373141.70822887402027845, 303624.09175179188605398 373144.47793117538094521, 303621.79661201947601512 373150.96253211703151464, 303626.23986724513815716 373156.94052805379033089, 303631.37763071060180664 373156.3577326126396656, 303629.77760481298901141 373141.70822887402027845)),((303614.60507308295927942 373000.42259813565760851, 303620.8853057018131949 373000.77701370138674974, 303620.31468765099998564 372991.47643795498879626, 303619.16786334407515824 372987.12285531405359507, 303612.7097889973083511 372989.56815085653215647, 303610.7874240618548356 372993.84368655801517889, 303608.76423203758895397 372984.38517664931714535, 303608.33957086695590988 372980.36197755020111799, 303609.61884148814715445 372972.98643223568797112, 303614.89016494061797857 372964.36685762088745832, 303618.25920562236569822 372958.48248590994626284, 303620.80059988197172061 372954.07339137000963092, 303626.46351980732288212 372947.93347334861755371, 303629.97638659598305821 372940.91784363897750154, 303632.4520222109858878 372930.6704019209719263, 303608.76863520970800892 372933.2880698200315237, 303611.55854234704747796 372959.04356121551245451, 303592.86029130656970665 372961.02760156709700823, 303596.70599062344990671 372985.75898033659905195, 303598.20138662698445842 372994.86360688298009336, 303600.09751457901438698 373009.63887479202821851, 303620.4733515729312785 373008.77959293033927679, 303616.57456980983261019 373005.12359505146741867, 303611.71102672012057155 372998.16156879067420959, 303611.338495992065873 372996.41997158172307536, 303614.60507308295927942 373000.42259813565760851)),((303589.33098057028837502 372935.30216736532747746, 303553.79243635764578357 372939.15498334169387817, 303565.31623365118866786 372941.11761045455932617, 303566.70087542559485883 372943.68810964003205299, 303569.60048372898017988 372945.31771146500250325, 303573.53014807699946687 372951.47161314397817478, 303576.94674786098767072 372954.6397027819766663, 303581.20101645297836512 372957.56191743200179189, 303592.86029130656970665 372961.02760156709700823, 303589.33098057028837502 372935.30216736532747746)))",
+    "site_description": "Działki położone w granicach ul. H. Karlińskiego w Legnicy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Legnica",
+      "address": "Plac Słowiański 8 59-220 Legnica",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "7/31",
+        "10/28"
+      ],
+      "economic_activity_code": "-"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,111-0,748 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,128-0,889 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,103-0,679 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,121-0,891 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,218-0,838 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,217-0,519 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,228-0,565 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "34,7-104,7 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,2 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "415-2242 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1250 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "155 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1300 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "1,27-6,06 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "15,2-120 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "32,19-301,14 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "9,15 mg/kg s.m.",
+      "area_ha": 0.01
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-08-16",
+    "legal_basis": "art.61 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.10.2023.ŁJ",
+    "decisions": [
+      {
+        "issue_date": "2024-02-02",
+        "reference": "WSI.515.10.2023.ŁJ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Legnica",
+        "address": "Plac Słowiański 8 59-220 Legnica",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-02-01",
+    "planned_end": "2024-05-29",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne prowadzone będą metodą ex situ poprzez wydobycie zanieczyszczonego gruntu z powierzchni ok. 0,19 ha do głębokości ok. 4,00 m ppt.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "WSI.515.10.2023.ŁJ"
+}

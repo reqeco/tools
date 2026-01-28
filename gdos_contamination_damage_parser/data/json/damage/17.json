@@ -1,0 +1,87 @@
+{
+  "registry_id": 17,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Królewiecka 90",
+    "precinct": "0010",
+    "parcel_numbers": [
+      "286/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((526642.2549107004 700462.356701172,526662.4955761803 700457.329607781,526674.9310177205 700494.7682243204,526659.9820294905 700499.5307338499,526642.2549107004 700462.6212850306,526642.2549107004 700462.356701172))",
+    "site_description": "Teren  przeznaczonej do likwidacji stacji paliw."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-08-31",
+    "description": "Teren do końca sierpnia 2007 r. pełnił funkcję stacji paliw."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "zanieczyszczenie gruntu substancjami ropopochodnymi na terenie stacji paliw nr 809 w Elblągu",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN SA",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "osoba prawna (spółka akcyjna)"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN SA",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "184,10-426,05 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-05-05",
+    "detection_date": "2008-06-01",
+    "decisions": [
+      {
+        "issue_date": "2010-05-28",
+        "reference": "RDOŚ-28-WSIZ-6650-004/10/jk",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2010-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania naprawcze będą prowadzone metodą ex-situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go nowym, wolnym od zanieczyszczeń. Grunt zostanie wydobyty w ilości około 450 m3 (tj. około 810 Mg). Działania naprawcze będą obejmowały również odpompowanie około 20 m3 zanieczyszczonych wód podziemnych. Zanieczyszczony grunt oraz wody zostaną przekazane do unieszkodliwienia.",
+    "ecological_effect": "Osiągnięcie poziomu jakości gleby i ziemi odpowiadającego co najmniej standardom jakościowym",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

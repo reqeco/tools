@@ -1,0 +1,170 @@
+{
+  "registry_id": 1980,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0765,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": null,
+    "precinct": "0110 w Bydgoszczy przy ul. Dworcowej",
+    "parcel_numbers": [
+      "38/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((432958.6099998236 585404.669999741,432972.14999982406 585398.3699997431,432980.6799998241 585394.1999997422,432998.36999982444 585385.5599997435,432972.86999982386 585327.3899997417,432966.2999998239 585312.419999742,432960.2599998238 585315.0699997423,432952.5699998235 585317.579999744,432940.1299998234 585308.3099997416,432926.29999982304 585327.3599997424,432936.81999982323 585334.8399997419,432941.40999982343 585342.1199997421,432950.5099998236 585351.669999741,432952.55999982357 585354.0399997411,432934.15999982314 585365.7299997415,432950.3899998235 585391.579999743,432958.6099998236 585404.669999741)))",
+    "site_description": "Teren ten był i jest nadal wykorzystywany jako parking i plac manewrowy, otoczony niskimi budynkami magazynowo – biurowymi. Na terenie działki występują niewielkie obszary niezabudowane pokryte roślinnością."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Sprzedaż hurtowa mięsa i wyrobów z mięsa",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "KLONDAIK Grzegorz Więckowski spółka komandytowo-akcyjna",
+      "address": "ul. Goplańska 5 02-954 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "38/2"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "16,9 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "47,7 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,365 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "3,15 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,52 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,10 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "3,09 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,74 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,63 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,624 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,82 mg/kg s.m.",
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "59,9 mg/kg s.m.",
+      "area_ha": 0.003
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "309 mg/kg s.m.",
+      "area_ha": 0.003
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-02-20",
+    "legal_basis": "art. 101 l ust.4 Poś i art.61 § 1 Kpa",
+    "case_reference": "WSS.515.1.2024.SG",
+    "decisions": [
+      {
+        "issue_date": "2024-04-16",
+        "reference": "WSS.515.1.2024.SG.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "KLONDAIK Grzegorz Więckowski spółka komandytowo-akcyjna",
+        "address": "ul. Goplańska 5 02-954 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2024-05-01",
+    "planned_end": "2025-12-01",
+    "actual_end": "2024-09-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediację należy przeprowadzić metodą ex-situ, poprzez usunięcie zanieczyszczonych gruntów.",
+    "ecological_effect": "Po przeprowadzonej remediacji, badania prób gleby nie wykazały przekroczeń ich dopuszczalnych poziomów zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "WSS.515.1.2024.SG"
+}

@@ -1,0 +1,147 @@
+{
+  "registry_id": 1098,
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "municipality": "Kędzierzyn-Koźle",
+    "address": "47 – 220 Kędzierzyn -Koźle, ul. Mostowa 30A",
+    "precinct": "Azoty",
+    "parcel_numbers": [
+      "300/1",
+      "301",
+      "302/3",
+      "306/17",
+      "306/15",
+      "313",
+      "315",
+      "306/5",
+      "306/14",
+      "314/2",
+      "314/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((447216.0806874438 270147.5703578722,447283.2849885245 270188.84544042125,447346.7851155251 270088.3035726743,447279.05164672446 270044.91181922145,447369.53932769503 269901.50736574363,447353.6642959452 269891.45317897294,447248.3599186739 270060.78685097303,447242.53907369386 270057.6118446216,447474.84370497585 269688.2527725743,447471.13953089603 269684.54859849345,447345.1976123451 269885.63233399484,447292.28083984443 269852.82393504214,447064.73871809256 270216.891329851,447116.067987423 270249.6997287981,447221.90153242374 270079.83688907046,447231.4265514738 270086.7160694897,447125.0638387432 270254.462238322,447140.4097027732 270265.57476055156,447216.0806874438 270147.5703578722))",
+    "site_description": "teren przy obiekcie 861 na terenie Grupy Azoty ZAK S.A. w Kędzierzynie – Koźlu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "funkcjonowanie stokażu oraz przeładunek benzenu i o-ksylenu",
+  "total_area_ha": 2.5,
+  "reporters": [
+    {
+      "name": "Grupa Azoty  Zakłady Azotowe Kędzierzyn S.A.",
+      "address": "ul. Mostowa 30A 47 – 220 Kędzierzyn Koźle",
+      "legal_form": "S.A."
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Grupa Azoty  Zakłady Azotowe Kędzierzyn S.A.",
+      "address": "ul. Mostowa 30A 47 – 220 Kędzierzyn Koźle",
+      "economic_activity_code": "20.15.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "336 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "156-3520mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "7,10-13mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "2,29-20mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "30mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "7,52-5690mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,75mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,1mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-05-10",
+    "detection_date": "2017-10-01",
+    "decisions": [
+      {
+        "issue_date": "2018-07-27",
+        "reference": "WOOŚ.511.1.2018.MO.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-08-16",
+    "planned_end": "2027-12-31",
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Remediacja polegać będzie na realizacji prac w miejscu występowania zanieczyszczenia metodą in situ, bez konieczności przemieszczania gruntu. Remediacja polegać będzie na zainstalowaniu systemu technologicznego, w którym następować będzie obrót wodą, do której aplikowany będzie preparat bakteryjny. Woda krążąc w gruncie dostarczać będzie aktywny biopreparat w rejon zanieczyszczonych gruntów, w których nastąpi proces biodegradacji.",
+    "ecological_effect": "Potwierdzeniem przeprowadzenia remediacji będzie dokumentacja powykonawcza, potwierdzająca osiągnięcie zakładanego efektu ekologicznego, tj. wykonanie analiz laboratoryjnych próbek gruntów i wód podziemnych, na zawartość substancji powodujących ryzyko, wykonanych przez akredytowane laboratorium.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

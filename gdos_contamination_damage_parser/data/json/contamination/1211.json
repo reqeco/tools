@@ -1,0 +1,143 @@
+{
+  "registry_id": 1211,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0982,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Żeromskiego, Gdynia",
+    "precinct": "0026 Śródmieście",
+    "parcel_numbers": [
+      "2633/1",
+      "2633/2",
+      "2634",
+      "2635",
+      "2636"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((470540.2008720593 740113.8239774508,470542.0529590992 740113.8239774508,470551.8425620093 740112.7656419994,470580.94678688934 740100.8593681809,470578.8301159893 740079.9572430383,470558.4571585793 740085.2489202898,470549.99047497933 740088.6885105092,470542.05295909935 740088.6885105092,470537.0258657092 740089.2176782284,470539.4071204793 740114.0885613086,470540.2008720593 740113.8239774508))",
+    "site_description": "teren po byłej zabudowie mieszkalnej, wyposażonej w kotłownie przydomowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "brak działalności",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "2633/1",
+        "2633/2",
+        "2634",
+        "2635",
+        "2636"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "53,5 mg/kg s.m.",
+      "area_ha": 0.0982
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,309 mg/kg s.m.",
+      "area_ha": 0.031
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,289 mg/kg s.m.",
+      "area_ha": 0.031
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,33 mg/kg s.m.",
+      "area_ha": 0.031
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,444 mg/kg s.m.",
+      "area_ha": 0.031
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,162 mg/kg s.m.",
+      "area_ha": 0.031
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,215 mg/kg s.m.",
+      "area_ha": 0.031
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,237 mg/kg s.m.",
+      "area_ha": 0.031
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-10-20",
+    "legal_basis": "61 par. 1 i 4 kpa, 101c ust. 3 poś",
+    "case_reference": "RDOŚ-Gd-WZS.515.27.2020.LK.1",
+    "decisions": [
+      {
+        "issue_date": "2021-01-08",
+        "reference": "RDOŚ-Gd-WZS.515.27.2020.LK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-06-01",
+    "planned_end": "2023-03-31",
+    "actual_end": "2021-10-13",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą polegały na wydobyciu zanieczyszczonego gruntu, z wykorzystaniem metody ex situ. Powierzchnia prac, objętych planem remediacji, wyniesie ok. 0,0982 ha. Usunięty, zanieczyszczony grunt z przedziału głębokości od 0 do 0,25 m p.p.t, zostanie przekazany, celem zagospodarowania, upoważnionemu podmiotowi.",
+    "ecological_effect": "osiągnięcie na przedmiotowym terenie, wartości dopuszczalnych stężeń substancji powodujących ryzyko szczególnie istotne dla ochrony powierzchni ziemi określonych dla gruntów grupy I, według Rozporządzenia Ministra Środowiska w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

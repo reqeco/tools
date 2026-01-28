@@ -1,0 +1,153 @@
+{
+  "registry_id": 2045,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.152,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Aroniowa i ul. Ruskowy Bród",
+    "precinct": "4-16-06 4-16-05",
+    "parcel_numbers": [
+      "5/1",
+      "5/3",
+      "6/2",
+      "6/4",
+      "6/5",
+      "6/6",
+      "10/3",
+      "10/4",
+      "10/6",
+      "11/2",
+      "11/3",
+      "12/1",
+      "13",
+      "14",
+      "15/3",
+      "15/4",
+      "15/5",
+      "23/1",
+      "112",
+      "115"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639534.200683214 500493.97752313316,639460.1172016135 500381.5293815648,639575.2111819402 500290.24794900324,639704.8572747421 500357.7168339407,639681.0447270867 500517.7900707517,639534.200683214 500493.97752313316))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Develia S.A.",
+      "address": "ul. Traugutta 45, 50-416 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "5/1",
+        "5/3",
+        "6/2",
+        "6/4",
+        "10/4",
+        "10/3",
+        "11/2",
+        "11/3",
+        "12/1",
+        "13",
+        "112",
+        "23/1",
+        "115",
+        "15/5",
+        "15/4",
+        "15/3",
+        "14"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "LC Corp Invest XV sp. z o. o. Investments S.K.A.",
+      "address": "ul. Powstańców Śląskich 2-4, 53-333 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "6/5",
+        "6/6",
+        "10/6"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.1435
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": 0.0085
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.0085
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-08-13",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.28.2024.PBu",
+    "decisions": [
+      {
+        "issue_date": "2024-09-26",
+        "reference": "WOOŚ-IV.515.28.2024.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Develia S.A.",
+        "address": "ul. Traugutta 45, 50-416 Wrocław",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "LC Corp Invest XV sp. z o. o. Investments S.K.A.",
+        "address": "ul. Powstańców Śląskich 2-4, 53-333 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-10-01",
+    "planned_end": "2029-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

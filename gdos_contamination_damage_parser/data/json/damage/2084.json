@@ -1,0 +1,93 @@
+{
+  "registry_id": 2084,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "piotrkowski",
+    "municipality": "Grabica",
+    "address": "m.Rusociny",
+    "precinct": "0030",
+    "parcel_numbers": [
+      "3/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532332.4768937688 402724.9456023872,532330.3256326271 402711.9339704821,532344.0945899002 402713.13569517713,532340.6703995562 402724.6263685562,532332.4768937688 402724.9456023872))",
+    "site_description": "teren leśny"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "listopada 2024"
+  },
+  "land_surface_holder": "Skarb Państwa (Starostwo Piotrkowskie), Skarb Państwa (Lasy Państwowe Nadleśnictwo Kolumna)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w środowisku z uwagi na rozszczelnienie porzuconych odpadów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Łodzi, Delegatura w Piotrkowie Trybunalskim",
+      "address": "Bawełniana 18, 97-300 Piotrków Trybunalski",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "842±302 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "970±360 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "120±41 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "279±90mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "279±98 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Styren",
+      "concentration": "279±93 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2025-03-13",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

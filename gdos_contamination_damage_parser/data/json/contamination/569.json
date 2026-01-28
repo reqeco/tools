@@ -1,0 +1,212 @@
+{
+  "registry_id": 569,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.0682,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "Kraków, ul. Dolnych Młynów 10",
+    "precinct": "62 Śródmieście",
+    "parcel_numbers": [
+      "126105_9.0062.4/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((566235.0277708425 244600.36859692354,566246.404876933 244658.31246281601,566343.5071544738 244623.6519768238,566353.5613412438 244600.8977646539,566367.584285964 244521.25802203454,566185.0214208323 244529.46012177505,566200.3672848523 244623.9165606862,566220.7402422726 244619.4186350247,566218.6235713725 244601.95610010438,566235.0277708425 244600.36859692354))",
+    "site_description": "teren po dawnych zakładach tytoniowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres funkcjonowania zakładów tytoniowych, tj. od około 1871 r. do 2002 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "PRODUKCJA WYROBÓW TYTONIOWYCH",
+    "current": "Kupno i sprzedaż nieruchomości na własny rachunek"
+  },
+  "land_holders": [
+    {
+      "name": "Noho Signature Sp. z o.o",
+      "address": "Kraków, ul Armii Krajowej 25",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "72 [mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "4,8-48 [mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1300 [mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "44-110 [mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,21-0,75[mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,63-3,2[mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,3-2,8[mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,18-0,61[mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,5-3,4[mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,61-3,8[mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,53-1,7[mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,49-2,5[mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,85-2,2[mg/kg s.m]",
+      "area_ha": 1.0682
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "31-92[mg/kg s.m]",
+      "area_ha": 1.061
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "110-800[mg/kg s.m]",
+      "area_ha": 1.061
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "330-540[mg/kg s.m]",
+      "area_ha": 1.061
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "3,3[mg/kg s.m]",
+      "area_ha": 1.061
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-07-06",
+    "legal_basis": "art. 61 § 3 Kpa",
+    "case_reference": "ZS.515.6.2018.MKub",
+    "decisions": [
+      {
+        "issue_date": "2018-11-30",
+        "reference": "ZS.515.6.2018.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-06-17",
+        "reference": "ZS.515.8.2021.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4, art. 104 i 154 § 1 i 2 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-04-24",
+        "reference": "ZS.515.3.2025.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4, art.155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Noho Signature Sp. z o.o",
+        "address": "Kraków, ul Armii Krajowej 25",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2022-07-11",
+    "planned_end": "2027-09-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

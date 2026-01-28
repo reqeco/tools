@@ -1,0 +1,102 @@
+{
+  "registry_id": 1315,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "żagański",
+    "municipality": "Szprotawa",
+    "address": "ul. Jesionowa 2 c, Wiechlice",
+    "precinct": "0017",
+    "parcel_numbers": [
+      "378"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((263321.6042553078 415551.652747307,263332.4521939929 415530.48603830393,263326.36676499125 415526.2526965048,263328.4834359527 415523.6068578856,263338.53762300115 415529.69228671025,263326.1021810891 415553.50483434554,263321.6042553078 415551.652747307))",
+    "site_description": "teren na którym zbierane są odpady"
+  },
+  "occurrence_time": {
+    "date": "2017-07-31",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczeni gleby w wyniku źle prowadzonej gospodarki odpadami",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Zielona Góra",
+      "address": "ul. Siemiradzkiego 19, Zielona Góra",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "FORMID Sp. z .o.o",
+      "address": "ul. Chałubińskiego  8 00-613 Warszawa",
+      "economic_activity_code": "38.12.Z, 38.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "34859",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "28294",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "4942",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "281",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2020-08-25",
+    "detection_date": "2017-07-31",
+    "decisions": [
+      {
+        "issue_date": "2020-11-05",
+        "reference": "WZŚ.512.18.2020.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "wznowienie postępowania",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

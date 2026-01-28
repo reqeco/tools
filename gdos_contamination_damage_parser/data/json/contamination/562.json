@@ -1,0 +1,106 @@
+{
+  "registry_id": 562,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0313,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Żeromskiego 13/15, 60-544 Poznań",
+    "precinct": "0021 Jeżyce",
+    "parcel_numbers": [
+      "32",
+      "obręb 0021 Jeżyce"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((356674.02420418034 507841.9095323831,356653.7835386609 507798.65007086564,356674.9502476944 507779.7323246943,356692.54507458117 507787.2729647765,356705.37739192916 507829.4740908444,356674.02420418034 507841.9095323831))",
+    "site_description": "Teren obecnie nie jest użytkowany"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "W przeszłości na terenie funkcjonował zakład spożywczy, korzystano ze zbiornika na paliwo"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "\"Zielony Zakątek Sp. z o.o.\" spółka komandytowa",
+      "address": "ul. Nadolnik 8, 61-012 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1370 mg/kg s.m.",
+      "area_ha": 0.0313
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "9110 mg/kg s.m.",
+      "area_ha": 0.0313
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,57 mg/kg s.m.",
+      "area_ha": 0.0313
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "15 mg/kg s.m.",
+      "area_ha": 0.0313
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-09-25",
+    "legal_basis": "art. 101l ustawy Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-11-14",
+        "reference": "WSS.515.30.2018.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "\"Zielony Zakątek Sp. z o.o.\" spółka komandytowa",
+        "address": "ul. Nadolnik 8, 61-012 Poznań",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-11-14",
+    "planned_end": "2018-11-30",
+    "actual_end": "2019-03-21",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona metodą ex-situ. Z części działki 32, z wyznaczonych obszarów z terenu o powierzchni zanieczyszczenia około 313 m2 usunięty zanieczyszczony grunt do głębokości zalegania zanieczyszczenia. Powstałe wykopy zasypane ziemią wolną od zanieczyszczeń, przy czym zasypanie nastąpiło po uzyskaniu wyników pobranych próbek gleby z dna i ścian wykopu wskazujących na spełnianie norm jakości gleby i ziemi.",
+    "ecological_effect": "Z treści przedłożonej w styczniu i marcu 2019 r. dokumentacji wynika, że prowadzone prace remediacyjne przyniosły zakładane efekty, tj. usunięto zanieczyszczony grunt do głębokości jego zalegania, a powstałe wykopy zasypano ziemią wolną od zanieczyszczeń. Przedstawione wyniki badań próbek gleby wskazują na brak przekroczeń wartości wskaźników, których stwierdzona wcześniej obecność w ziemi spowodowała obowiązek jej remediacji.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

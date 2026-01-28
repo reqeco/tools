@@ -1,0 +1,123 @@
+{
+  "registry_id": 82,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.768,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "municipality": "Kędzierzyn-Koźle",
+    "address": "47-220 Kędzierzyn-Koźle, ul. Łukasiewicza 22",
+    "precinct": "Koźle",
+    "parcel_numbers": [
+      "1657/5 obręb 0014 Koźle"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((439157.8219665618 276081.26034992654,439139.5656800517 276075.4395049438,439096.1739266005 276065.1207343023,439082.94473347045 276059.8290570518,439035.3196382197 276047.92278324347,439017.06335170905 276018.55397450365,439019.70919033914 276009.0289554484,439023.41336440906 275970.9288792517,439037.17172525957 275854.24739589076,439055.6925956397 275855.8348990623,439058.07385039976 275868.7995083304,439107.815616551 275869.06409219094,439109.93228745105 275886.2620432526,439114.43021311105 275903.1954104528,439138.7719284616 275914.3079326814,439168.4053210624 275923.03920014296,439174.75533376227 275968.54762449395,439175.2845014923 276007.1768684229,439171.3157435523 276026.2269065222,439160.9969729119 276062.21031182725,439157.8219665618 276081.26034992654))",
+    "site_description": "Baza Magazynowa Paliw Płynnych PKN Orlen nr 43 w K-K"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 2001r.  W lutym 2001r. Zanieczyszczenie zostało potwierdzone badaniami"
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A. z siedzibą w Płocku",
+      "address": "09-411 Płock ul. Chemikow",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "105 - 1417 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1152 - 7052 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2009-08-19",
+    "legal_basis": "art. 101l ust. 2",
+    "case_reference": "WOOŚ.515.4.2017.ER",
+    "decisions": [
+      {
+        "issue_date": "2009-10-05",
+        "reference": "RDOŚ-16-WOOŚ-6618-014/09/eso",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-09-04",
+        "reference": "WOOŚ.511.4.2013.KM.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-06-24",
+        "reference": "WOOŚ.511.1.1.2014.KM.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-12-03",
+        "reference": "WOOŚ.511.1.7.2015.KM.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-09-29",
+        "reference": "WOOŚ.515.4.2017.ER.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A. z siedzibą w Płocku",
+        "address": "09-411 Płock ul. Chemikow",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2015-07-18",
+    "planned_end": "2022-12-30",
+    "actual_end": "2022-12-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W pierwszym etapie zostaną przeprowadzone prace mające na celu usunięcie źródeł zanieczyszczenia oraz zapobieżenie rozprzestrzenieniu się zanieczyszczenia poza obszar bazy, w tym:   1.prace rozbiórkowe następujących obiektów: a. 4 naziemnych zbiorników o pojemności 2000 m3 każdy wraz z instalacją do ich napełniania i wydawania; b. 2 zbiorników resztkowych (podziemnych) o pojemności 25 m3 każdy; c. oczyszczalni ścieków; d. infrastruktury p-poż zlokalizowanej wokół parku zbiorników naziemnych: pompownia p-poż, 2 zbiorniki p-poż o pojemności 460 m3 każdy oraz instalacja p-poż. 2.Prace remediacyjne ex-situ: a.  dodatkowe rozpoznanie stanu środowiska gruntowego w miejscach zlikwidowanych obiektów infrastrukturalnych. b. zdjęcie czystego gruntu, stanowiącego nadkład gruntów zanieczyszczonych i spryzmowanie na terenie bazy. c. wydobycie zanieczyszczonego gruntu i skierowanie do oczyszczania na pryzmie zlokalizowanej w niezanieczyszczonej, zachodniej części działki nr 1657/5.  Prace prowadzić do momentu wydobycia całości zanieczyszczonego gruntu.  W drugim etapie będą prowadzone jednoczesnie  prace polegające na oczyszczaniu gruntu na poletku remediacyjnym remediacyjnym (odzysk odpadu o kodzie ex 17 05 03* w procesie R5) oraz prace in-situ polegające na pompowaniu wody gruntowej z powstałego wykopu i oczyszczanie jej przy pomocy systemu separacyjnego składającego się ze zbiornika retencyjnego/osadnika oraz separatora koalescencyjnego i adsorbera, w celu obniżenia zawartości substancji powodujących ryzyko na całym obszarze zanieczyszczonym:                                                                                                                                                         1. Po usunięciu kontaminantów , oczyszczony grunt wykorzystać do zasypania wykopu powstałego w ramach prac remediacyjnych ex-situ. Dopuszcza się etapowe wypełnianie wykopu, w zależności od postępu procesu odzysku. a. Przygotować teren pod pryzmę w postaci płaskiej powierzchni, wolnej od elementów mogących uszkodzić uszczelnienie, z niewielkim spadkiem  w kierunku środka bazy oraz wykonać skarpy ziemne o wysokości ok. 1,5 m powyżej powierzchni terenu. b. Uszczelnić teren (skarp i dna kwatery) geomembraną PEHD o grubości 1,5 mm, łączoną zgrzewem dwuszwowym z kanałem powietrznym, umożliwiającym prawidłową kontrolę szczelności połączenia. c. Ułożyć system drenarski wewnątrz kwatery, który będzie odprowadzał nadmiar odcieków do oczyszczania w systemie separacyjnym. Oczyszczoną wodę kierować do wykopu zlokalizowanego przed linią spływu wód podziemnych. d. Na pryzmie składować grunt o miąższości maksymalnie 4 m. e. Po aktywacji biopreparatu, polegającej na pobudzeniu do życia liofilizowanych mikroorganizmów wchodzących w skład preparatu, przeprowadzić ciśnieniową aplikację preparatu do gruntu zdeponowanego w pryzmie, poprzez system węży lub iglic aplikacyjnych, przy użyciu pomp ciśnieniowych o dużej wydajności.  f. Aplikacje mikroorganizmów prowadzić raz na kwartał, chyba że postęp prowadzonego odzysku będzie wymagał zmiany w zakresie częstotliwości aplikacji. W celu prawidłowego funkcjonowania mikroorganizmów, w zależności od potrzeb podawać do gruntu pożywki w postaci roztworu lub zawiesiny. g. W przypadku zapotrzebowania na wspomaganie procesu bioremediacji zastosować napowietrzanie mechaniczne przy pomocy dmuchaw o dużej wydajności lub chemiczne natleniacze, aplikowane w postaci zawiesiny lub roztworu.  h. Prowadzić monitoring postępu bioremediacji zanieczyszczonego gruntu z częstotliwością co 3 miesiące (z uwzględnieniem przerwy zimowej).  i. Po usunięciu kontaminantów do poziomu określonego w decyzji, oczyszczony grunt wykorzystać do zasypania wykopu powstałego w ramach prac remediacyjnych ex-situ. 2. Oczyszczanie wód in-situ a. Wolny produkt naftowy z powierzchni wód gruntowych sczerpać lub odpompować i przekazać uprawnionemu podmiotowi. b. Wodę z wykopu pompować na system separacyjny, a po jej oczyszczeniu zawracać do powstałego wykopu. Miejsce zrzutu zaplanować przed linią spływu wód gruntowych. c. Prowadzić monitoring postępu prac remediacyjnych polegający na analizie próbek wody podziemnej, pobranych z wykopu oraz na wyjściu z separatora,  w zakresie zawartości substancji ropopochodnych. Ilość i częstotliwość poboru próbek ustalać na bieżąco zgodnie z wymogami technologii, uwzględniając aktualny stan wód gruntowych.",
+    "ecological_effect": "Przeprowadzenie wykonywanych zabiegów mechanicznych i biotechnologicznych sprawiło, że zlikwidowane zostało negatywne oddziaływanie zanieczyszczonych obszarów likwidowanej Bazy Magazynowej oraz przywrócone zostały walory użytkowe oczyszczanego terenu.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

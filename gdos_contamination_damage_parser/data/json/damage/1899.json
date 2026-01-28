@@ -1,0 +1,52 @@
+{
+  "registry_id": 1899,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "wodzisławski",
+    "municipality": "Lubomia",
+    "address": "miejscowość Syrynia, gm. Lubomia, działki o nr ew.: 369/2, 372/2 i 375/1",
+    "precinct": "0005 Syrynia",
+    "parcel_numbers": [
+      "241507_2.0005.AR_2.369/2",
+      "241507_2.0005.AR_2.372/2",
+      "241507_2.0005.AR_2.375/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((451182.77 237413.42,451156.96 237445.75,451189.11 237477.33,451215.72 237445.7,451223.03 237437.01,451239.59 237417.6,451200.87 237379.71,451189.73 237385.82,451193.06 237393.2,451188.28 237403.24,451184.68 237411.03,451182.77 237413.42))",
+    "site_description": "nieużytek roślinny przy torach, nieczynna rampa kolejowa; zakrzewienia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-02-01",
+    "description": "interwencja straży pożarnej"
+  },
+  "land_surface_holder": "null",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "podrzucenie mauzerów wypełnionych niezidentyfikowaną substancją przypominającą smołę; miejscowe wycieki substancji o nieznanym pochodzeniu",
+  "total_area_ha": 0.3775,
+  "reporters": [
+    {
+      "name": "Polskie Koleje Państwowe S.A.",
+      "address": "AL. Jerozolimskie 142A 02-305 Warszawa",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-02-19",
+    "detection_date": "2024-02-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,113 @@
+{
+  "registry_id": 335,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.02,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "warszawski zachodni",
+    "municipality": "Stare Babice",
+    "address": "Klaudyn, ul. Estrady 5",
+    "precinct": "0010",
+    "parcel_numbers": [
+      "843/9",
+      "843/60"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((627498.640518319 492056.6195910722,627714.011782551 492048.1529074684,627706.6034343906 491803.6774185188,627528.8030786569 491816.3774439208,627543.0906072508 491979.3611032218,627494.4071765143 491984.1236127531,627498.640518319 492056.6195910722))",
+    "site_description": "(dawniej 843/9, obecnie 843/60)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "334 [mg/kg suchej masy]",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "3210 [mg/kg suchej masy]",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "529-856 [mg/kg suchej masy]",
+      "area_ha": 0.02
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-11-03",
+    "legal_basis": "art. 101l",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-01-12",
+        "reference": "WSI.515.47.2017.SSz.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 par. 1 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-01-26",
+    "planned_end": "2018-05-31",
+    "actual_end": "2018-03-27",
+    "method": null,
+    "description": "remediacja ex-situ",
+    "ecological_effect": "zgodne z rozporządzeniem MŚ, zgodnie z projektem planem remediacji",
+    "effect_assessment": null
+  },
+  "notes": null
+}

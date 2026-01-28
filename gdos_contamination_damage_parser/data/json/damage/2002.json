@@ -1,0 +1,79 @@
+{
+  "registry_id": 2002,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "będziński",
+    "municipality": "Mierzęcice",
+    "address": "ul. Kolejowa",
+    "precinct": "0002 Mierzęcice",
+    "parcel_numbers": [
+      "240105_2.0002.211"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((508014.31615400000009686 288225.52146999997785315, 507983.38404199999058619 288097.75587900000391528, 507944.90049799997359514 287939.10078500001691282, 507900.18503799999598414 287754.77522800001315773, 507881.26467499998398125 287676.67758499999763444, 507900.32362099998863414 287677.46040999999968335, 507973.70587399997748435 287979.40826900000683963, 508064.88910299999406561 288358.68920099997194484, 508047.70652499998686835 288362.91807399998651817, 508014.31615400000009686 288225.52146999997785315))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2022-04-21",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Górnośląskie Towarzystwo Przyrodnicze z siedzibą w Katowicach poinformowało Regionalnego Dyrektora Ochrony Środowiska w Katowicach o wystąpieniu zagrożenia szkodą w środowisku w siedlisku płazów na obszarze położonym w rejonie ul. Kolejowej w Mierzęcicach. W przekazanym piśmie (na dzień złożenia wniosku) stwierdzono, że wykonywanie prac ziemnych (w postaci składowania mas ziemnych w sąsiedztwie zbiornika wodnego będącego miejscem rozrodu prawnie chronionych płazów) spowodowało niszczenie siedliska prawnie chronionych gatunków, masy ziemne są nawożone i składowane w bezpośrednim sąsiedztwie toni wodnej, ogląd terenu wskazuje, iż prace są prowadzone aktualnie (w terenie stwierdzono świeżo nawiezione, nieskonsolidowane masy ziemne oraz świeże ślady pozostawione przez pojazdy (ślady opon i gąsienic), jednocześnie wokół stawu stwierdzono intensywną migrację godową płazów (idąc do stawu i z powrotem napotkano minimum 35 osobników ropuchy szarej), w zbiorniku stwierdzono także obecność kilkudziesięciu ropuch szarych, żab trawnych oraz głosy grzebiuszek oraz, że realizacja prac ziemnych (ruch pojazdów, nawożenie mas ziemnych) przy intensywnej migracji płazów powoduje realne zagrożenie dla tych zwierząt w postaci możliwości ich rozjeżdżania i zasypywania.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Górnośląskie Towarzystwo Przyrodnicze",
+      "address": "ul. Św. Huberta 35, 40-543 Katowice",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-07-06",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-11-08",
+        "reference": "WSI.512.8.2022.MB1.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-04-09",
+        "reference": "DOA-WSzOP.512.43.2023.MGO",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 § 2 KPA w zw. z art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2023-12-06",
+        "reason": "rozstrzygnięcie nie uwzględnia opinii biegłego, bierne zakończenie przez organ I instancji postępowanie bez podjęcia jakichkolwiek innych działań wynikających z innych aktów prawnych, istotnych dla sprawy",
+        "appealed_decision_reference": "WSI.512.2.2022.MB1.7",
+        "resolution_reference": "DOA-WSzOP.512.43.2023.MGO",
+        "appellant_name": "Górnośląskie Towarzystwo Przyrodnicze",
+        "appellant_address": null,
+        "resolution_date": "2024-04-09",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Uchylenie zaskarżonej decyzji w całości i przekazanie do ponownego rozpatrzenia organowi I instancji."
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

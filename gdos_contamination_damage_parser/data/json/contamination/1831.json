@@ -1,0 +1,155 @@
+{
+  "registry_id": 1831,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6471,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Talarowa",
+    "precinct": "4-03-03",
+    "parcel_numbers": [
+      "13/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((632810.3568890549 497112.067139891,632853.4840586856 497080.0524925301,632856.9236488992 497085.07958590984,632856.9236488999 497114.4483946506,632902.1674894337 497113.6546430588,632942.9134042944 497163.9255769383,632918.5716889212 497183.7693666285,632907.9883344107 497169.48183804937,632904.0195764769 497172.65684439987,632896.0820605891 497162.6026576301,632868.3007550025 497185.35686980095,632810.3568890549 497112.067139891))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "YIT Development Sp. z o.o.",
+      "address": "ul. Nałęczowska lok 33, 02-922 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-03-14",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.18.2023.AGi",
+    "decisions": [
+      {
+        "issue_date": "2023-06-05",
+        "reference": "WOOŚ-IV.515.18.2023.AGi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-02-03",
+        "reference": "WOOŚ-IV.515.18.2023.AGi.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "YIT Development Sp. z o.o.",
+        "address": "ul. Nałęczowska lok 33, 02-922 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-06-01",
+    "planned_end": "2024-12-31",
+    "actual_end": "2025-04-01",
+    "method": null,
+    "description": null,
+    "ecological_effect": "efekt ekologiczny osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

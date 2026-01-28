@@ -1,0 +1,181 @@
+{
+  "registry_id": 1659,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1012,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "Kielce",
+    "municipality": "Kielce",
+    "address": "ul. Krakowska 62  25-701 Kielce",
+    "precinct": "0015",
+    "parcel_numbers": [
+      "580/1",
+      "615/7",
+      "582"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((612844.741325204 334034.7955546621,612911.6810424436 334047.62787199207,612918.9570986556 334029.76846127305,612899.1133089697 334014.5548891835,612894.6153832984 334014.158013382,612877.5497241633 334008.86633613426,612855.1923877769 334005.2944539925,612848.4454992848 334005.55903785303,612848.4454992849 334013.3642618032,612844.741325204 334034.7955546621))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej"
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "580/1",
+        "582",
+        "615/7"
+      ],
+      "economic_activity_code": "20.12.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,37 mg/kg s.m., 0,72 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,209 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,28 mg/kg s.m., 0,126 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,291 mg/kg s.m., 0,138 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,102 mg/kg s.m., 0,323 mg/kg s.m., 0,159 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0, 192 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,314 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "543 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1906 mg/kg s.m., 195 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1657 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,35 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "112 mg/kg s.m., 1,21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "3, 98 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-02-01",
+    "legal_basis": "art. 101l. ust. 2 i 3 ustawy Prawo ochrony środowiska",
+    "case_reference": "WPN-II.515.4.2022.IŁ",
+    "decisions": [
+      {
+        "issue_date": "2023-09-30",
+        "reference": "WPN-II.515.4.2022.IŁ7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Kielcach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polski Koncern Naftowy ORLEN S.A.",
+        "address": "ul. Chemików 7 09-411 Płock",
+        "economic_activity_code": "20.12.Z"
+      }
+    ],
+    "planned_start": "2024-06-30",
+    "planned_end": "2025-06-30",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Polski Koncern Naftowy ORLEN S.A., ul. Chemików 7, 09-411 Płock"
+}

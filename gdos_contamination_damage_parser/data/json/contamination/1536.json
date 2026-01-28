@@ -1,0 +1,117 @@
+{
+  "registry_id": 1536,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 13.1269,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "Bydgoszcz ul. Wojska Polskiego 65",
+    "precinct": "136",
+    "parcel_numbers": [
+      "1/171 obreb 136",
+      "1/191 obręb 136"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((438713.72344091616 580772.4024376115,438802.35903484706 580876.9130633008,438856.5987266676 581081.9655567436,438872.47375841776 581072.7051215535,438904.2238219181 581108.4239429943,439219.0786182915 580845.1629998051,439164.8389264809 580772.4024376133,439203.20358654123 580683.7668436747,439085.46376772993 580654.6626188047,438808.9736314172 580708.9023106135,438709.75468297605 580707.5793913035,438712.40052159625 580708.9023106154,438712.4005215961 580710.2252299227,438715.04636022623 580711.548149243,438713.72344091616 580772.4024376115)))",
+    "site_description": "na nieruchomości znajdowały się doły szlamowe, wchodzące w skład dawnego składowiska szlamu anilinowego nieistniejących Zakładów Chemicznych ZACHEM S.A"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 30 kwietnia 2007 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja pozostałych podstawowych chemikaliów organicznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Fermapole Spółka z o.o.",
+      "address": "ul. Aleja Wincentego Witosa 31, 00-710 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "740 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1820 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "145 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-07-25",
+    "legal_basis": "art. 61 Kpa i art. 101f  Poś",
+    "case_reference": "WSI.512.9.2016.AG1",
+    "decisions": [
+      {
+        "issue_date": "2016-09-21",
+        "reference": "WSI.512.9.2016.AG1.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101f ust. 1, art. 105 Kpa",
+        "complaint_to_wsa": "wyrok WSA w Warszawie z dnia  5.07.2018 r., sygn. akt IV Sa/Wa 1028/18 (oddalenie skargi Prokuratora)",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-10-05",
+        "reference": "WSI.512.9.2016AG1/BW.27",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101f ust. 1, art. 105 Kpa",
+        "complaint_to_wsa": "Skarga do WSA 5.04.2018 wyrok WSA w Warszawie z dnia  5.07.2018 r., sygn. akt IV Sa/Wa 1028/18 (oddalenie skargi Prokuratora)",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2017-10-19",
+      "reason": "naruszenie art. 7, 77 oraz 80 Kpa - poprzez zaniechanie podjęcia wszelkich czynności niezbędnych do dokładnego wyjaśnienia stanu faktycznego i zebrania całości materiału dowodowego w sposób wyczerpujący, co w konsekwencji doprowadziło do dokonania na podstawie niekompletnego materiału dowodowego błędnej oceny że zanieczyszczenie ma charakter historyczny, naruszenie prawa materialnego - poprzez wydanie zaskarżonej decyzji na podstawie art. 101f ust. 1 Poś, podczas gdy zastosowanie znaleźć powinny przepisy ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+      "appealed_decision_reference": "WSI.512.9.2016.AG1/BW.27",
+      "resolution_reference": "DOA-ks.512.17.2016.at.7",
+      "appellant_name": "Prokurator Okręgowy w Bydgoszczy",
+      "appellant_address": "ul. S. Okrzei 10, 85-317 Bydgoszcz",
+      "resolution_date": "2018-02-01",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "utrzymanie w mocy decyzji umarzającej postępowanie w sprawie nałożenia na Infrastrukturę Kapuściska S.A. w  upadłości likwidacyjnej w Bydgoszczy obowiązek wykonania badań środowiska gruntowo-wodnego na terenie działek ewidencyjnych nr 1/171 i 1/191 (powstałej z podziału działki ew. nr 1/172), obręb 0136 w Bydgoszczy, na których znajdowały się dwa (zachodni i środkowy) z trzech dołów szlamowych, wchodzących w skład dawnego składowiska szlamu anilinowego Zakładów Chemicznych ZACHEM S.A., w związku z istniejącym na tym terenie historycznym zanieczyszczeniem powierzchni ziemi, oraz działki ewidencyjnej nr 1/179, obręb 0136 w Bydgoszczy, znajdującej się w obszarze migracji zanieczyszczeń w wodach podziemnych"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Fermapole Spółka z o.o.",
+        "address": "ul. Aleja Wincentego Witosa 31, 00-710 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "dz. nr 1/191 powstała z podziału dz. nr 1/172 obręb 136, zanieczyszczenie w gruncie dotyczy także aniliny - substancji nienormowanej w Rozporządzeniu RM"
+}

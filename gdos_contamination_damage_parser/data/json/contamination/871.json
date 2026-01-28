@@ -1,0 +1,184 @@
+{
+  "registry_id": 871,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0294,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "brzozowski",
+    "municipality": "Brzozów",
+    "address": "działka nr ewid. 2591 w Grabownicy Starzeńskiej",
+    "precinct": "0002 Grabownica Starzeńska",
+    "parcel_numbers": [
+      "180201_5.0002.2591"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((722051.25036742282100022 204983.24591461941599846, 722053.86026820214465261 204983.27541375253349543, 722056.35685262735933065 204982.30163191165775061, 722065.08251110336277634 204973.1615581763908267, 722065.34856284852139652 204970.30789163149893284, 722060.86293022567406297 204965.21711844112724066, 722057.88931150466669351 204960.81678581517189741, 722055.79400027764495462 204961.37114186119288206, 722048.68914150504861027 204968.24377494398504496, 722043.35881749377585948 204974.96361632645130157, 722043.65863881330005825 204977.60229308623820543, 722047.03788497671484947 204980.29297644551843405, 722051.25036742282100022 204983.24591461941599846)))",
+    "site_description": "lasy Ls"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Dół urobkowy Graby-6 powstał w latach 1925-1932. Został zlikwidowany w 1998 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Górnictwo ropy naftowej",
+    "current": "Gospodarka leśna i pozostała działalność leśna, z wyłączeniem pozyskiwania produktów leśnych"
+  },
+  "land_holders": [
+    {
+      "name": "Polskie Górnictwo Naftowe i Gazownictwo S. A.",
+      "address": "ul. Kasprzaka 25 01-224 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "180201_5.0002.2591"
+      ],
+      "economic_activity_code": "06.10.Z"
+    },
+    {
+      "name": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Brzozów",
+      "address": "ul. Moniuszki 25, 36-200 Brzozów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "02.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od 63,2 mg/kg s.m. (odwiert 4, próbka LJ/1940) do 73,4 mg/kg s.m. (odwiert 1, próbka LJ/1928)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 14 932 mg/kg s.m. (odwiert 3, próbka LJ/1936) do 150 727 mg/kg s.m. (odwiert 1, próbka LJ/1928)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "od 1,08 mg/kg s.m. (odwiert 4, próbka LJ/1940) do 9,82 mg/kg s.m. (odwiert 2, próbka LJ/1928)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,61 mg/kg s.m. (odwiert 1, próbka LJ/1928)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "8,82 mg/kg s.m. (odwiert 1, próbka LJ/1928)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,22 mg/kg s.m. (odwiert 1, próbka LJ/1928),",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "2,07 mg/kg s.m. (odwiert 1, próbka LJ/1928)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od 503 mg/kg s.m. (odwiert 4, gł. 1,0-2,0 m p.p.t., próbka LJ/1942) do 902 mg/kg s.m. (odwiert 1, gł. 1,0-2,0 m p.p.t., próbka LJ/1930)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 10 128 mg/kg s.m. (odwiert 4, gł. 0,25-1,0 m p.p.t., próbka LJ/1941) do 201 275 mg/kg s.m. (odwiert 1, gł. 0,25-1,0 m p.p.t., próbka LJ/1929).",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "11,14 mg/kg s.m. (odwiert nr 2, gł. 0,25-1,0 m p.p.t., próba nr LJ/1933)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "od  34,41 mg/kg s.m. (odwiert nr 2, gł. 0,25-1,0 m p.p.t., próba LJ/1933) do 89,46 mg/kg s.m. (odwiert nr 1, gł. 0,25-1,0 m p.p.t., próba nr LJ/1929)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "od  29,49 mg/kg (odwiert nr 1, gł. 2,0-3,5 m p.p.t., próba LJ/1931) do 75,77 mg/kg s.m. (odwiert nr 1, gł. 0,25-1,0 m p.p.t., próba nr LJ/1929)",
+      "area_ha": 0.0294
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "23,47 mg/kg s.m. (odwiert nr 1, gł. 0,25-1,0 m p.p.t., próba nr LJ/1929)",
+      "area_ha": 0.0294
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-07-01",
+    "legal_basis": "art. 101l ust. 2 Prawo ochrony środowiska",
+    "case_reference": "WSI.515.3.1.2019.KS",
+    "decisions": [
+      {
+        "issue_date": "2019-08-28",
+        "reference": "WSI.515.3.1.2019.KS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polskie Górnictwo Naftowe i Gazownictwo S. A.",
+        "address": "ul. Kasprzaka 25 01-224 Warszawa",
+        "economic_activity_code": "06.10.Z"
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Brzozów",
+        "address": "ul. Moniuszki 25, 36-200 Brzozów",
+        "economic_activity_code": "02.10.Z"
+      }
+    ],
+    "planned_start": "2019-09-16",
+    "planned_end": "2023-11-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą wykonywane metodą \"in-situ\". Etap I - remediacja wstępna, obejmująca drenaż melioracyjno-odciekowy;  Etap II - modyfikacja struktury odpadu, bioremediacja podstawowa (dawkowanie wapna nawozowego, nawożenie nawozami mineralnymi, inokulacja biopreparatem); Etap III - bioremediacja podstawowa (dawkowanie wapna nawozowego, nawożenie nawozami mineralnymi, inokulacja biopreparatem); Etap IV - bioremediacja podstawowa (dawkowanie wapna nawozowego, nawożenie nawozami mineralnymi, inokulacja biopreparatem) Remediacja fizyczna zostanie przeprowadzona po zakończeniu bioremediacji i będzie polegała ukształtowanie terenu dołu urobkowego Graby-11 oraz wykonanie rowów odpływowych",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Dół urobkowy Graby-6 - działka nr ewid. 2591 objęta jest umową najmu z dnia 27 lipca 2016 r. zawartej pomiędzy Polskim Górnictwem Naftowym i Gazownictwem S. A. Oddział Sanok, a Nadleśnictwem Brzozów"
+}

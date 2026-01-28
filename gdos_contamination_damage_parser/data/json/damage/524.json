@@ -1,0 +1,96 @@
+{
+  "registry_id": 524,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "nowosądecki",
+    "municipality": "Łososina Dolna",
+    "address": "Tęgoborze",
+    "precinct": "11 Tęgoborze",
+    "parcel_numbers": [
+      "121010_2.0011.113/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((618285.9504119148 206362.62687272672,618276.1608089919 206387.49775580782,618297.7243937989 206396.62589905504,618304.3389903608 206382.33837048523,618285.9504119148 206362.62687272672))",
+    "site_description": "teren likwidowanej stacji paliw nr 724 w Tęgoborzy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2012-10-04",
+    "description": "zanieczyszczenie stwierdzone organoleptycznie w trakcie wydołowania zbiorników do magazynowania paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw nr 724 w Tęgoborzy",
+  "total_area_ha": 0.05,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN. S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "do 1599 [mg/kg s.m.]",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "7406-8367 [mg/kg s.m.]",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "190-1045 [mg/kg s.m.]",
+      "area_ha": 0.05
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1400-16617 [mg/kg s.m.]",
+      "area_ha": 0.05
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-10-10",
+    "detection_date": "2012-10-04",
+    "decisions": [
+      {
+        "issue_date": "2012-10-18",
+        "reference": "ZS.511.1.14.2012.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2012-12-31",
+    "actual_end": "2012-12-01",
+    "method": null,
+    "description": "usunięcie gruntu zanieczyszczonych do głębokości ok. 5 m ppt",
+    "ecological_effect": "W przeważającej części przywrócono grunt do stanu spełniającego wartości ustalone dla gruntów grupy C. W dwóch miejscach odnotowano przekroczenia, które z przyczyn technicznych nie było można usunąć. Zanieczyszczenie to jako resztkowe pozostawiono naturalnym, samoistnym procesom samooczyszczania.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

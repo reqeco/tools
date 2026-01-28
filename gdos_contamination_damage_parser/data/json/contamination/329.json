@@ -1,0 +1,136 @@
+{
+  "registry_id": 329,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 15.771,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "stalowowolski",
+    "municipality": "Zaklików",
+    "address": "Lipa , ul. Leśna 24, 37-470 Zaklików",
+    "precinct": null,
+    "parcel_numbers": [
+      "1249/11",
+      "1249/12",
+      "1249/13",
+      "1249/30 obręb 0012 Lipa"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((717226.37899999995715916 317745.65999999997438863, 717214.17599999997764826 317731.57600000000093132, 717200.78000000002793968 317716.12109999998938292, 717199.412999999942258 317714.5328999999910593, 717187.57900000002700835 317700.85999999998603016, 717182.75899999996181577 317695.28800000000046566, 717176.36600000003818423 317687.92399999999906868, 717162.90200000000186265 317672.42599999997764826, 717151.77500000002328306 317659.6120000000228174, 717138.61100000003352761 317644.4529999999795109, 717126.19499999994877726 317630.15399999998044223, 717114.65099999995436519 317616.86800000001676381, 717106.70600000000558794 317607.72100000001955777, 717016.79500000004190952 317686.87199999997392297, 716926.98999999999068677 317765.78499999997438863, 716865.01800000004004687 317820.05400000000372529, 716862.11899999994784594 317822.5859000000054948, 716837.27500000002328306 317844.34000000002561137, 716744.5779999999795109 317923.29499999998370185, 716738.73460560955572873 317931.00766016700072214, 716743.4917559502646327 317958.64443833648692816, 716731.82499999995343387 317971.78200000000651926, 716680.76300000003539026 318016.50300000002607703, 716674.75199999997857958 318022.78299999999580905, 716662.23400000005494803 318176.91300000000046566, 716636.76800000004004687 318334.55400000000372529, 716641.86800000001676381 318336.0719999999855645, 716644.63100000005215406 318321.16300000000046566, 716650.01399999996647239 318301.14299999998183921, 716654.40845254762098193 318283.26331634330563247, 716663.46969129168428481 318264.4046132072689943, 716677.74114231369458139 318243.45049861154984683, 716683.51768201298546046 318246.05560475046513602, 716697.3360710977576673 318231.44435727561358362, 716712.91007518896367401 318216.43668060580966994, 716720.27233166864607483 318212.35912317095790058, 716737.48868528241291642 318230.59486614348134026, 716754.36524244328029454 318215.19076027849223465, 716760.02851665823254734 318222.21322030515875667, 716819.31000000005587935 318171.83600000001024455, 716885.17700000002514571 318115.19209999998565763, 716885.60800000000745058 318114.82299999997485429, 716887.70700000005308539 318113.02000000001862645, 716891.26000000000931323 318109.96500000002561137, 716927.6530000000493601 318081.35100000002421439, 716974.66799999994691461 318038.28100000001722947, 717035.24199999996926636 317986.51500000001396984, 717038.0779999999795109 317984.09100000001490116, 717058.06499999994412065 317967.01699999999254942, 717110.05599999998230487 317920.46000000002095476, 717158.75600000005215406 317876.85499999998137355, 717261.23999999999068677 317785.91210000001592562, 717250.96799999999348074 317774.04100000002654269, 717238.66799999994691461 317759.84499999997206032, 717226.37899999995715916 317745.65999999997438863))",
+    "site_description": "Tereny przemysłowe - Ba"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja wyrobów tartacznych",
+    "current": "Produkcja wyrobów tartacznych"
+  },
+  "land_holders": [
+    {
+      "name": "TRACK TEC LIPA Sp. z o.o.",
+      "address": "Lipa, ul. Leśna 24, 37-470 ZAKLIKÓW",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "16.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "6617 mg/kg s.m.",
+      "area_ha": 15.771
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "692 mg/kg s.m.",
+      "area_ha": 15.771
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "4,76 mg/kg s.m. (otwór 4), 11,8 mg/kg s.m. (otwór 7), 4,84 mg/kg s.m. (otwór 8),",
+      "area_ha": 15.771
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "16,4 mg/kg s.m. (otwór 7), 4,84 mg/kg s.m. (otwór 8)",
+      "area_ha": 15.771
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "12,1 mg/kg s.m. (otwór 7)",
+      "area_ha": 15.771
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1070 mg/kg s.m. (otwór 4), 7945 mg/kg s.m. (otwór 7), 27951 mg/kg s.m. (otwór 8), 3472 mg/kg s.m. (otwór 9)",
+      "area_ha": 15.771
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "16,8 mg/kg s.m. (otwór 8)",
+      "area_ha": 15.771
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "12,4 mg/kg s.m. (otwór 7), 14,9 mg/kg s.m. (otwór 8)",
+      "area_ha": 15.771
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-10-05",
+    "legal_basis": "101h ust. 1 oraz 101l ust. 1 i 4 POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-01-23",
+        "reference": "WSI.511.2.1.2017.KS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TRACK TEC LIPA Sp. z o.o.",
+        "address": "Lipa, ul. Leśna 24, 37-470 ZAKLIKÓW",
+        "economic_activity_code": "16.10.Z"
+      }
+    ],
+    "planned_start": "2018-04-01",
+    "planned_end": "2027-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

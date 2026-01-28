@@ -1,0 +1,149 @@
+{
+  "registry_id": 1644,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "gorlicki",
+    "municipality": "Gorlice (gmina miejska)",
+    "address": "teren byłej Rafinerii Nafty Glimar w Gorlicach, ul. Wyszyńskiego 2",
+    "precinct": "0001 Gorlice",
+    "parcel_numbers": [
+      "120501_1.0001.506/12",
+      "120501_1.0001.517/155",
+      "120501_1.0001.517/158",
+      "120501_1.0001.517/159",
+      "120501_1.0001.517/161",
+      "120501_1.0001.517/167",
+      "120501_1.0001.517/215",
+      "120501_1.0001.517/217",
+      "120501_1.0001.517/260"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "nielegalne zmagazynowanie odpadów"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "od lipca 2017 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wystąpienie bezpośredniego zagrożenia szkodą lub szkody w środowisku spowodowane działalnością związaną z nielegalnym magazynowaniem/ składowaniem odpadów na nieruchomości",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Małopolski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Biuro Finansowe MULTIBEST J. Gąsior, S. Witalińska Gąsior Spólka Jawna",
+      "address": "ul. Szkolna 48 41-300 Dąbrowa Górnicza",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki wolne",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Fenol",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Krezole",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2020-08-03",
+    "detection_date": "2019-07-03",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

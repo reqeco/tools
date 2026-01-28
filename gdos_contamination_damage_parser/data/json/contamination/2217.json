@@ -1,0 +1,132 @@
+{
+  "registry_id": 2217,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2917,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Gwiaździsta we Wrocławiu",
+    "precinct": "Południe",
+    "parcel_numbers": [
+      "17/11",
+      "obręb Południe"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((361449.46015429578255862 360603.04913205839693546, 361455.58417156478390098 360610.39194215554744005, 361449.76226515165762976 360614.22994384076446295, 361453.26484936382621527 360619.17921414412558079, 361447.47917496896116063 360624.33275657705962658, 361441.77734590962063521 360618.41789863537997007, 361434.90014509542379528 360622.65741388779133558, 361432.63401986914686859 360620.66969444788992405, 361449.46015429578255862 360603.04913205839693546)),((361421.81422797183040529 360621.91320516169071198, 361410.37514217692660168 360629.69753363076597452, 361419.92096750717610121 360641.87485211528837681, 361427.40803345630411059 360643.19283299427479506, 361446.63241344434209168 360652.00788641162216663, 361446.56654017115943134 360663.29222935903817415, 361444.34900846349773929 360670.12531178444623947, 361444.35702307324390858 360673.3289460763335228, 361451.08906633371952921 360677.22589107695966959, 361464.21819556440459564 360673.82687761075794697, 361473.10888757521752268 360669.08876105956733227, 361491.58310360054019839 360653.65880516637116671, 361449.46015429578255862 360603.04913205839693546, 361437.18751061923103407 360611.45164559036493301, 361441.84277052676770836 360624.33950110711157322, 361438.76690122450236231 360629.37148393224924803, 361432.47114324616268277 360630.30082345567643642, 361421.81422797183040529 360621.91320516169071198)),((361443.52139051863923669 360644.96136366482824087, 361451.05948437371989712 360640.56965034734457731, 361452.75632938276976347 360635.08616150822490454, 361449.83546730526722968 360631.29036688152700663, 361444.39966639695921913 360629.87101932615041733, 361438.82362439250573516 360631.05936090834438801, 361435.24188876536209136 360634.65071951132267714, 361435.30870629101991653 360639.56859453115612268, 361436.87545074848458171 360642.8264962574467063, 361443.52139051863923669 360644.96136366482824087)),((361432.63401986914686859 360620.66969444788992405, 361431.82683972362428904 360619.80842936970293522, 361426.79457624797942117 360623.83837156370282173, 361423.96178930951282382 360620.7706280741840601, 361449.46015429578255862 360603.04913205839693546, 361432.63401986914686859 360620.66969444788992405)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "REMEA Sp. z o. o.",
+      "address": "ul. Bonifraterska 17 00-203 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-07-18",
+    "legal_basis": "art. 101l ust. 2 ustawy Prawo ochrony środowiska",
+    "case_reference": "WSI.513.15.2024.NS",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "REMEA Sp. z o. o.",
+        "address": "ul. Bonifraterska 17 00-203 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2028-08-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "WSI.515.13.2025.NS"
+}

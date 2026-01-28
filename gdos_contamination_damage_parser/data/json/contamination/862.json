@@ -1,0 +1,84 @@
+{
+  "registry_id": 862,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.01,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "strzelecko-drezdenecki",
+    "municipality": "Stare Kurowo",
+    "address": "Nowe Kurowo 28 b",
+    "precinct": "0004 Nowe Kurowo",
+    "parcel_numbers": [
+      "080603_2.0004.107"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((278882.31249804306 559979.3858996555,278883.6354173982 559973.8296385417,278890.38230603794 559975.1525578508,278889.72084635944 559978.59214806,278887.2072996136 559978.3275642013,278886.4135480039 559980.1796512436,278882.31249804306 559979.3858996555))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Konserwacja i naprawa pojazdów samochodowych, z wyłączeniem motocykli",
+    "current": "Przetwarzanie i unieszkodliwianie odpadów niebezpiecznych"
+  },
+  "land_holders": [
+    {
+      "name": "REMONDIS Połnoc Sp. z o.o.",
+      "address": "Zawodzie 18, 02-981 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "38.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "mg/kg s.m.8024",
+      "area_ha": 0.01
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-08-21",
+    "legal_basis": "art. 61 kpa",
+    "case_reference": "WZŚ.512.19.2019.KM",
+    "decisions": [
+      {
+        "issue_date": "2019-09-11",
+        "reference": "WZŚ.512.19.2019.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "REMONDIS Połnoc Sp. z o.o.",
+        "address": "Zawodzie 18, 02-981 Warszawa",
+        "economic_activity_code": "38.22.Z"
+      }
+    ],
+    "planned_start": "2019-10-14",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-12-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace naprawcze na przedmiotowym terenie wykonano metodą ex-situ. W trakcie prac wydobyto i wywieziono z terenu przedmiotowej działki 354,940 Mg gruntu zanieczyszczonego cynkiem. Załączone wyniki analiz laboratoryjnych, potwierdzają uzyskanie zakładanego efektu ekologicznego, określonego w decyzji Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wlkp. z dnia 11 września 2019 r., znak:WZŚ.512.19.2019.KM.",
+    "ecological_effect": "założony efekt ekologiczny został uzyskany",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

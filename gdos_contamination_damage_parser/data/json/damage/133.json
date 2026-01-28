@@ -1,0 +1,119 @@
+{
+  "registry_id": 133,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Słupsk",
+    "municipality": "Słupsk",
+    "address": "Słupsk, ul. Portowa",
+    "precinct": "nr 1 w Słupsku",
+    "parcel_numbers": [
+      "26/10",
+      "26/1",
+      "12"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((372285.86290466593 737011.6587069584,372318.40671979066 737026.210819399,372350.95053491666 736992.8732527178,372341.6900997169 736986.2586561581,372307.02961369016 736968.7961212303,372285.86290466593 737011.6587069584))",
+    "site_description": "Teren stanowiący projekt obszaru siedliskowego Natura 2000"
+  },
+  "occurrence_time": {
+    "date": "2009-02-10",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "zagrożenie szkoda spowodowane deponowaniem odpadów budowlanych i masy ziemi na terenie stanowiącym projektowany obszar siedliskowy Natura 2000 \"Dolina Rzeki Słupi\", na działce 26/10, 26/1 i 12 w Słupsku w rejonie ulicy Portowej",
+  "total_area_ha": 0.1985,
+  "reporters": [
+    {
+      "name": "Urząd Miejski w Słupsku",
+      "address": "Pl. Zwycięstwa 3, 76-200 Słupsk",
+      "legal_form": "Jednostka samorządowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Janusz Nastaj",
+      "address": "76-200 Słupsk, ul. Sołdka 9/8",
+      "economic_activity_code": null
+    },
+    {
+      "name": "Zofia Kęczkowska",
+      "address": "ul. Portowa 17, 76-200 Słupsk",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "minóg rzeczny (Lampetra planeri)",
+    "minóg strumieniowy (Lampetra planeri)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": "Twardowodne oligo- i mezotroficzne zbiorniki z podwodnymi łąkami ramienic (Charcteria spp.)",
+      "other": null
+    },
+    {
+      "natura_2000": "Nizinne i podgórskie rzeki ze zbiorowiskami włosieniczników (Ranunculion fluitantis)",
+      "other": null
+    },
+    {
+      "natura_2000": "Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2009-04-08",
+    "detection_date": "2009-02-10",
+    "decisions": [
+      {
+        "issue_date": "2012-05-13",
+        "reference": "RDOŚ-Gd-WSI-I.511.4.2011.KG.18",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2012-07-16",
+        "reason": "Naruszenie art. 6, 7, 8, 10, 11, 12, 77 par. 1 oraz art. 107 par. 3 k.p.a.",
+        "appealed_decision_reference": "RDOŚ-Gd-WSI-I.511.4.2011.KG.18",
+        "resolution_reference": null,
+        "appellant_name": "Zofia Kęczkowska",
+        "appellant_address": "ul. Portowa 17, 76-200 Słupsk",
+        "resolution_date": "2012-12-31",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Uchylona w całości zaskarżona decyzja i przekazana do ponownego rozpatrzenia  przez organ I instancji"
+      },
+      {
+        "date": "2012-07-25",
+        "reason": "Naruszenie art. 6, 7, 8, 10, 11, 12, 77 par. 1 oraz art. 107 par. 3 k.p.a.",
+        "appealed_decision_reference": "RDOŚ-Gd-WSI-I.511.4.2011.KG.18",
+        "resolution_reference": null,
+        "appellant_name": "Jan Nastaj",
+        "appellant_address": "ul. Sodka 9/8, 76-200 Słupsk",
+        "resolution_date": "2012-12-31",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Uchylona w całości zaskarżona decyzja i przekazana do ponownego rozpatrzenia  przez organ I instancji"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Zawieszono postępowanie do czasu usunięcia odpadów nawiezionych na przedmiotowe działki - postanowienie z dnia 30.04.2014 r., sygn.: RDOŚ-Gd-WSI-I.512.6.2013.IG.30",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

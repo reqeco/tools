@@ -1,0 +1,88 @@
+{
+  "registry_id": 25,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "Bydgoszcz Borówkowa,",
+    "precinct": "0137",
+    "parcel_numbers": [
+      "9/57 obręb 0137"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((439902.96727616794 581168.4964014273,439922.5464819883 581163.7338918997,439926.77982378815 581185.4297686294,440137.91774607025 581129.3379897792,440319.42227574193 581079.0670559015,440335.826475222 581064.7795273196,440356.9931842224 581010.2752516493,440332.12230114214 580975.3501818012,440235.2846074711 580891.2125135204,439992.3966216889 580949.4209632687,439959.5882227387 581026.6794511173,439904.0256116182 581042.5544828679,439904.554779338 581045.7294892184,439880.7422317178 581051.0211664783,439902.96727616794 581168.4964014273))",
+    "site_description": "stacja paliw (rejon Zakładu Pianek PUR)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "II. połowa 2007 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie stacji paliw przy ul. Borówkowej w Bydgoszczy",
+  "total_area_ha": 8.4027,
+  "reporters": [
+    {
+      "name": "Zakłady Chemiczne ZACHEM S.A.",
+      "address": "ul. Wojska Polskiego 65, 85-825 Bydgoszcz",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zakłady Chemiczne ZACHEM S.A.",
+      "address": "Bydgoszcz Wojska Polskiego 65",
+      "economic_activity_code": "20.13.Z, 20.14.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "237 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2403 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2007-12-10",
+    "detection_date": "2007-12-10",
+    "decisions": [
+      {
+        "issue_date": "2008-04-24",
+        "reference": "WSRiRW-III-DL/6642/1/08",
+        "issuing_authority": "Wojewoda Kujawsko-Pomorski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2008-05-01",
+    "planned_end": "2009-05-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, inne działania tj. działania zapobiegawcze, o których mowa w art. 6 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+    "description": "metoda ex-situ",
+    "ecological_effect": "osiągnięto zakładany efekt ekologiczny, wywieziono łącznie 253,780 Mg zanieczyszczonego gruntu",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

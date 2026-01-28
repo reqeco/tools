@@ -1,0 +1,100 @@
+{
+  "registry_id": 1967,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Chorzów",
+    "municipality": "Chorzów",
+    "address": "rejon  ul. Stefana Batorego w Chorzowie.",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "246301_1.0002.AR_2.804/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((495686.51 267274.93,495690.68 267290.38,495706.39 267311.36,495721.35 267322.95,495725.08 267363.85,495760.37 267360.19,495749.71 267267.72,495686.51 267274.93))",
+    "site_description": "działka o nr ew. 804/2 obręb 0002, a.m. 2 położonej w rejonie ul. Stefana Batorego w Chorzowie."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ALCHEMIA S.A.",
+      "address": "Al. Jerozolimskie 92 00-807 Warszawa.",
+      "entity_type": null,
+      "parcels": [
+        "246301_1.0002.AR_2.804/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "35,76 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "201 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "450 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-04",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.20.2019",
+    "decisions": [
+      {
+        "issue_date": "2024-01-19",
+        "reference": "WSI.513.20.2019.MO.16",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ALCHEMIA S.A.",
+        "address": "Al. Jerozolimskie 92 00-807 Warszawa.",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

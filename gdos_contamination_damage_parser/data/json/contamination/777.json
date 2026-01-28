@@ -1,0 +1,59 @@
+{
+  "registry_id": 777,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "policki",
+    "municipality": "Police",
+    "address": "ul. Jasienicka, 72-010 Police",
+    "precinct": null,
+    "parcel_numbers": [
+      "121/3",
+      "121/4 i 1973/40 obręb 7 miasta Police"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((206464.01355900001362897 641817.0224760000128299, 206459.57125300000188872 641815.48724000004585832, 206458.57649400000809692 641817.26116999995429069, 206454.53071500000078231 641822.59706800000276417, 206472.04466000001411885 641830.96830499998759478, 206476.93475099999341182 641831.58746900002006441, 206485.08548199999495409 641821.44872800004668534, 206464.01355900001362897 641817.0224760000128299)),((206393.67713100000401028 641879.24350700003560632, 206417.50539899998693727 641845.43711800000164658, 206435.91685000000870787 641825.73328000004403293, 206447.17798199999378994 641811.61262200004421175, 206468.29126800000085495 641778.44282999995630234, 206472.39093799999682233 641766.1557050000410527, 206469.53631699999095872 641765.33529199997428805, 206462.97374099999433383 641775.7932280000532046, 206455.36990699998568743 641787.98576800001319498, 206436.20038799999747425 641807.46878300001844764, 206426.44122800001059659 641809.98458000004757196, 206416.80060499999672174 641815.72175499994773418, 206408.84771299999556504 641828.41508499998599291, 206410.02121599999372847 641847.79189899994526058, 206389.58973599999444559 641882.626475999946706, 206393.67713100000401028 641879.24350700003560632)))",
+    "site_description": "okolice kanału Łarpii w sąsiedztwie ronda w ciągu ulicy Jasienickiej, wskazano przekroczenia WWA i BTEX, grupa gruntów IV"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "po 2007 r. czas wystąpienia zanieczyszczenia nieznany, prawdopodobne źródło zanieczyszczenia to dawna fabryka paliw syntetycznych Hydriewerke Politz, wskazano przekroczenia WWA i BTEX, grupa gruntów IV"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Marszałek Województwa Zachodniopomorskiego, Zachodniopomorski Zarząd Dróg Wojewódzkich w Koszalinie",
+      "address": "ul. Szczecińska 31, 75-122 Koszalin",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-05-31",
+    "legal_basis": "61 kpa w związku z 101c ust. 3 POŚ",
+    "case_reference": "WONS-NS.513.11.2019.KD",
+    "decisions": [
+      {
+        "issue_date": "2019-06-11",
+        "reference": "WONS-NS.513.11.2019.KD",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

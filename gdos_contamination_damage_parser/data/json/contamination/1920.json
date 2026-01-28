@@ -1,0 +1,86 @@
+{
+  "registry_id": 1920,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0075,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Ryżowa  Dzielnica Ursus",
+    "precinct": "2-11-08",
+    "parcel_numbers": [
+      "172/28"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((630421.6144007506 482743.8404868115,630387.4830824598 482648.85488017276,630467.3874090067 482615.25272962917,630491.4645405187 482685.3674531989,630488.024950296 482695.1570561109,630421.6144007506 482743.8404868115))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Eolian Park S.A.",
+      "address": "ul. Ryżowa 36 02-495 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "172/28"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0075
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-10-05",
+    "legal_basis": "art. 101l",
+    "case_reference": "WOOŚ-IV.515.47.2023.JS",
+    "decisions": [
+      {
+        "issue_date": "2023-11-15",
+        "reference": "WOOŚ-IV.515.47.2023.JS.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Eolian Park S.A.",
+        "address": "ul. Ryżowa 36 02-495 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-11-01",
+    "planned_end": "2026-06-30",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

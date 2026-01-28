@@ -1,0 +1,113 @@
+{
+  "registry_id": 1930,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "oświęcimski",
+    "municipality": "Polanka Wielka",
+    "address": "ul. Spółdzielcza 1 32-607 Polanka Wielka",
+    "precinct": "Polanka Wielka",
+    "parcel_numbers": [
+      "121307_2.0001.2409/116"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((522944.9975658301 236033.06781811267,523165.66050715 235808.17153498996,522955.5809203301 235632.4878502898,522955.05175259995 235804.99652864225,522963.51843620016 235811.3465413414,522951.87674624997 235822.988231292,522943.9392303801 235816.63821859192,522877.79326475 235827.2215730911,522872.50158750016 235835.68825669214,522864.56407163007 235830.92574716173,522676.70952925 235767.9547878923,522677.23869698006 235769.0131233409,522944.9975658301 236033.06781811267),(522954.41675132996 235804.99652864132,522955.47508678 235633.01701801084,523000.98351113 235579.04191006068,523006.27518838 235576.92523916252,522904.1458174601 235533.53348571248,522673.95785708004 235769.0131233409,522863.92907036014 235830.3965794416,522870.8082507801 235820.34239266347,522880.33326983 235827.2215730911,522945.42090001 235816.1090508625,522954.41675132996 235804.99652864132)))",
+    "site_description": "Teren Rolniczej Spółdzielni Produkcyjnej w Polance Wielkiej. Powierzchnia całej działki wynosi ok. 10 ha. Jedynie niewielka część działki jest ogrodzona i zabudowana budynkami (magazyny do przechowywania maszyn rolniczych), instalacjami służącymi do prowadzenia działalności rolniczej oraz stacją paliw. Na pozostałej części działki są uprawy rolne."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Teren pierwotnie ujęty przez Starostę Oświęcimskiego w wykazie sporządzonym na podstawie art. 101d ust. 6 POŚ i przekazanym do RDOŚ zgodnie z art. 101d ust. 9 POŚ. W toku postępowania ustalono, że do zanieczyszczenia doszło po 30.04.2007, zatem nie będzie to historyczne zanieczyszczenia powierzchni ziemi, a szkoda w środowisku. Zanieczyszczenie wynika z działalności stacji paliw.",
+  "total_area_ha": 0.1889,
+  "reporters": [
+    {
+      "name": "Rolnicza Spółdzielnia Produkcyjna im. T. Kościuszki",
+      "address": "ul. Spółdzielcza 1 32-607 Polanka Wielka",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Rolnicza Spółdzielnia Produkcyjna im. T. Kościuszki",
+      "address": "ul. Spółdzielcza 1 32-607 Polanka Wielka",
+      "economic_activity_code": "01.11.Z, 47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "mg/kg s.m.0,486",
+      "area_ha": 0.1889
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "mg/kg s.m.0,438",
+      "area_ha": 0.1889
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "mg/kg s.m.0,118",
+      "area_ha": 0.1889
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "mg/kg s.m.0,466",
+      "area_ha": 0.1889
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.0,559",
+      "area_ha": 0.1889
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "mg/kg s.m.0,463",
+      "area_ha": 0.1889
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "mg/kg s.m.0,443",
+      "area_ha": 0.1889
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "mg/kg s.m.0,362",
+      "area_ha": 0.1889
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": "2022-07-28",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

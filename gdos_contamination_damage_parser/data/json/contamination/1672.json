@@ -1,0 +1,186 @@
+{
+  "registry_id": 1672,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 3.3147,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Chełm",
+    "municipality": "Chełm",
+    "address": "rejon ulic: Lubelskiej i Trubakowskiej",
+    "precinct": "0012 Obręb 12",
+    "parcel_numbers": [
+      "066201_1.0012.359",
+      "066201_1.0012.361",
+      "066201_1.0012.363",
+      "066201_1.0012.365/50"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((810824.041653927 372763.76390046347,810800.6127390636 372734.1362992991,810777.8586470964 372705.09922181256,810753.3881569447 372674.4790804256,810730.4008700012 372645.56754925195,810709.4596585577 372619.8922086423,810801.5260368322 372550.9805067545,810819.8390580523 372562.73564361036,810858.5459862663 372586.3204478901,810903.433000823 372614.46395718586,810941.1059938412 372638.15187658835,810980.2165220426 372662.82023064326,810930.5749335496 372694.96396985184,810947.6592163062 372735.06966321636,810850.1249004728 372792.52629650757,810824.041653927 372763.76390046347))",
+    "site_description": "rejon wyłączonych z eksploatacji magazynów substancji pędnych i smarów (MPS)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Lublinie",
+      "address": "ul. Lipowa 1a, 20-020 Lublin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "066201_1.0012.359",
+        "066201_1.0012.361",
+        "066201_1.0012.363",
+        "066201_1.0012.365/50"
+      ],
+      "economic_activity_code": "68.32.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "731 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "35,2-94,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,247 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,229-1,303 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,133-1,33 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,104-0,231 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,151-1,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,166-1,22 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,139-1,12 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,211-0,71 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,227-0,961 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-05-06",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.515.2.2022.SG",
+    "decisions": [
+      {
+        "issue_date": "2022-11-22",
+        "reference": "WSI.515.2.2022.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-03-06",
+        "reference": "WSI.515.1.2023.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-05-12",
+        "reference": "WSI.515.2.2023.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-11-20",
+        "reference": "WSI.515.3.2023.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury w Lublinie",
+        "address": "ul. Lipowa 1a, 20-020 Lublin",
+        "economic_activity_code": "68.32.Z"
+      }
+    ],
+    "planned_start": "2023-07-01",
+    "planned_end": "2023-12-30",
+    "actual_end": "2023-12-12",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "(1) Remediację należy przeprowadzić poprzez usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko, z zastosowaniem metody ex-situ. (2) Po uzyskaniu wyników badań laboratoryjnych próbek gruntów z dna i ścian wykopów, potwierdzających usunięcie zanieczyszczenia w całości metodą ex-situ, powstałe wykopy nie będą wypełnianie czystym gruntem.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

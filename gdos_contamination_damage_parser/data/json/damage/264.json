@@ -1,0 +1,65 @@
+{
+  "registry_id": 264,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "świebodziński",
+    "municipality": "Łagów",
+    "address": "Gronów",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2009-01-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "szkoda w chronionych gatunkach i siedliskach(krasnorosty) powstała w skutek zanieczyszczenia wód rzeki Łagowa przez wprowadzanie nieoczyszczonych ścieków z Oczyszczalni Ścieków w Gronowie, gm.Łagów",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Zakład Gospodarki Komunalnej i Mieszkaniowej w Gronowie",
+      "address": "Gronowo",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-01-07",
+    "detection_date": "2008-12-10",
+    "decisions": [
+      {
+        "issue_date": "2009-03-10",
+        "reference": "RDOŚ-08-WSI-6629-001/09/gm",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2012-03-01",
+    "method": null,
+    "description": "Zakres działań polegał na: 1.\tZwiększeniu nadzoru nad procesem technologicznego oczyszczania ścieków  w Oczyszczalni Ścieków w Gronowie. 2.\tRozszerzeniu badanych wskaźników zanieczyszczeń, tj. oprócz BZT5, CHZT, zawiesiny ogólnej, wyszczególnionych w pozwoleniu wodno-prawnym Starosty Świebodzińskiego z dnia 29 grudnia 2006 r., znak:OŚR.III.6223-33/06 o wskaźniki zanieczyszczeń biogennych, tj. azot ogólny i fosfor ogólny. 3.\tDokonywaniu kontroli ścieków o podwyższonym ładunku zanieczyszczeń, dostarczanych do Oczyszczalni Ścieków – co najmniej cztery razy w miesiącu. 4.\tZabezpieczeniu studzienek na kolektorze odprowadzającym ścieki z Oczyszczalni do rzeki Łagowej, aby uniemożliwić niekontrolowane wprowadzanie ścieków do rzeki. 5.\tKonserwacji rzeki Łagowej poprzez koszenie dna i skarp rzeki na odcinku od 4+125 km do 3+0,34 km – w sierpniu każdego roku, a w przypadku dużych odrostów również w styczniu. Skoszona roślinność wywożona będzie poza obręb doliny. Koszenie nie powinno naruszać dna i skarp rzeki, a także zgromadzonych osadów. 6.\tProwadzenie monitoringu jakości wód odbiornika ścieków, tj. rz. Łagowej w dwóch punktach: 100 m poniżej i 100 m powyżej miejsca zrzutu ścieków – raz w kwartale. 7.\tPodjęciu działań w celu budowy nowej oczyszczalni ścieków lub modernizacji oczyszczalni istniejącej.",
+    "ecological_effect": "Wyniki badań laboratoryjnych za IV kw. 2011 r. oraz I kw. 2012 r. w zakresie BZT5, CHZT, zawiesiny ogólnej oraz azotu i fosforu ogólnego, wskazują na znaczą redukcję zanieczyszczeń i mieszczą się w granicach wymaganych standardów, określonych w rozporządzeniu Ministra Środowiska z dnia 24 lipca 2006 r. w sprawie warunków, jakie należy spełnić przy wprowadzaniu ścieków do wód lub do ziemi, oraz w sprawie substancji szczególnie szkodliwych dla środowiska wodnego (Dz. U. Nr 137, poz. 984).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

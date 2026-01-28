@@ -1,0 +1,156 @@
+{
+  "registry_id": 1644,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Milczańska w Poznaniu",
+    "precinct": "0006 Żegrze",
+    "parcel_numbers": [
+      "18/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((361613.1844643363 505079.88112674095,361547.03849862557 505020.61434153747,361558.68018859124 504994.15595529135,361628.5303283762 505055.010243671,361613.1844643363 505079.88112674095))",
+    "site_description": "Teren z przeznaczeniem pod budownictwo mieszkaniowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp. z o.o.",
+      "address": "ul. Aleja Armii Ludowej 14, 00-638 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "18/6"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,78 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "4,31 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,04 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,584 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "3,29 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "3,01 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,83 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,47 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,088 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Aldryna",
+      "concentration": "0,007 mg/kg s.m.",
+      "area_ha": 0.3
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dieldryna",
+      "concentration": "0,2 mg/kg s.m.",
+      "area_ha": 0.3
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-05-10",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.9.2022.ASB",
+    "decisions": [
+      {
+        "issue_date": "2022-07-26",
+        "reference": "WSS.515.9.2022.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp. z o.o.",
+        "address": "ul. Aleja Armii Ludowej 14, 00-638 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2022-08-16",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-12-14",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja polegała na usunięciu z wyznaczonych  miejsc zanieczyszczonych mas ziemnych do głębokości występowania zanieczyszczenia. Po wydobyciu zanieczyszczonego gruntu, z dna i ścian wykopów należało pobrać co najmniej po 4 próbki gruntu i poddać je analizie na zawartość substancji wymienionych w pkt 2 decyzji. Dopiero po spełnianiu wymagań zawartości badanych substancji powstałe wykopy miały być pogłębione na potrzeby planowanej inwestycji lub w przypadku, gdy nie będzie ona kontynuowana miały być zasypane czystą ziemią",
+    "ecological_effect": "Z treści sprawozdani wynika, że sposób remediacji terenu przebiegał w ramach ustalonego planu remediacji. W dokumentacji poinformowano o późniejszym terminie rozpoczęcia remediacji, co nie miało jednak wpływu na termin jej zakończenia.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Zrzeczenie się 03.08.2022 r. prawa do wniesienia odwołania."
+}

@@ -1,0 +1,105 @@
+{
+  "registry_id": 164,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.267,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "czarnkowsko-trzcianecki",
+    "municipality": "Krzyż Wielkopolski",
+    "address": "64-761 Krzyż Wielkopolski, ul. Kosynierów Gdyńskich 1",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "916/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((299132.3161227588 560906.7763952548,299129.4057002645 560863.6492256746,299196.87458604237 560885.6096862471,299211.16211477155 560925.2972656228,299132.3161227588 560906.7763952548))",
+    "site_description": "teren byłej lokomotywowni i stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "-1.0",
+    "to": "1998-01-01",
+    "description": "Na obszarze tym funkcjonowała od 1877 r. lokomotywownia, wraz ze stacją paliw, której eksploatację zakończono 1998 r., obecność związków ropopochodnych stwierdzono w 1993 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja lokomotyw kolejowych oraz taboru szynowego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKP S.A.",
+      "address": "ul. Szczęśliwicka 62, 00-973 Warszawa",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": "30.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od < 0,01 do 4029 mg/kg s.m.",
+      "area_ha": 0.267
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 0,01 do 14234 mg/kg s.m.",
+      "area_ha": 0.267
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od < 0,01 do 4029 mg/kg s.m.",
+      "area_ha": 0.267
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 0,01 do 14234 mg/kg s.m.",
+      "area_ha": 0.267
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-05-06",
+    "legal_basis": "art. 101l",
+    "case_reference": "WSS.511.27.2015.BM",
+    "decisions": [
+      {
+        "issue_date": "2015-08-18",
+        "reference": "WSS.511.27.2015.BM.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKP S.A.",
+        "address": "ul. Szczęśliwicka 62, 00-973 Warszawa",
+        "economic_activity_code": "30.20.Z"
+      }
+    ],
+    "planned_start": "2015-09-15",
+    "planned_end": "2018-09-15",
+    "actual_end": "2018-09-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja polegała na sczerpywaniu wolnego produktu ropopochodnego ze zwierciadła wód gruntowych oraz oczyszczaniu powierzchni ziemi metodą bioremediacji. Do sczerpywania wolnego produktu ropopochodnego wykorzystano pięć automatycznych skimerów pneumatycznych i ręczny skimer pneumatyczny. Sczerpany produkt ropopochodny był czasowo magazynowany w szczelnych pojemnikach, w sposób zabezpieczający powierzchnię ziemi przed wtórnym zanieczyszczeniem, a następnie zagospodarowany zgodnie z przepisami o odpadach.  W końcowej fazie sczerpywania wolnego produktu rozpoczeło się oczyszczanie powierzchni ziemi metodą bioremediacji.",
+    "ecological_effect": "Wykonano remediację zgodnie z decyzją Regionalnego Dyrektora Ochrony Środowiska w Poznaniu",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

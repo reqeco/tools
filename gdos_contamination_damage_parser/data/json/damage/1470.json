@@ -1,0 +1,82 @@
+{
+  "registry_id": 1470,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": "Dąbrowa",
+    "precinct": "Dąbrowa",
+    "parcel_numbers": [
+      "153/6",
+      "Dąbrowa"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((302129.1328301154426299 408020.81592308764811605, 302127.51526352477958426 408018.68574736610753462, 302129.89604815474012867 408016.37331062025623396, 302131.12061441183323041 408018.50918199878651649, 302129.1328301154426299 408020.81592308764811605))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2021-03-30",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Krajowy Ośrodek Wsparcia Rolnictwa )",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W wyniku awarii z dnia 30 marca 2021 r. podziemnego rurociągu stalowego RW2 DN 1000, przesyłającego wodę technologiczną z Obiektu Unieszkodliwiania Odpadów Wydobywczych „Żelazny Most” doszło do zalania i zanieczyszczenia fragmentu działki o nr ewid. 153/6 obręb Dąbrowa.",
+  "total_area_ha": 0.0007,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A. Oddział Zakład Hydrotechniczny",
+      "address": "ul. Polkowicka 52, 59-305 Rudna",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. Polkowicka 52, 59-305 Rudna",
+      "economic_activity_code": "24.44.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II-1",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "12,8-22,8 mg/kg s.m.",
+      "area_ha": 0.0007
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2022-05-20",
+    "detection_date": "2021-03-30",
+    "decisions": [
+      {
+        "issue_date": "2022-07-01",
+        "reference": "WSI.511.1.2022.NŁ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13 ustawy szkodowej",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-07-14",
+    "planned_end": "2023-07-25",
+    "actual_end": "2023-07-25",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne przeprowadzono metodą ex-situ, poprzez wydobycie zanieczyszczonego gruntu, w ilości ok. 1,75 m3.",
+    "ecological_effect": "Remediacja doprowadziła do osiągnięcia zawartości  substancji powodującej ryzyko w glebie i ziemi na poziomie nie wyższym niż określony w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395) dla II grupy gruntów, z uwzględnieniem głębokości oraz wodoprzepuszczalności.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

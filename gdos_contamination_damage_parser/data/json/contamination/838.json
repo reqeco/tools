@@ -1,0 +1,93 @@
+{
+  "registry_id": 838,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Biała Podlaska",
+    "municipality": "Biała Podlaska",
+    "address": null,
+    "precinct": "0003 Obręb 3",
+    "parcel_numbers": [
+      "066101_1.0003.AR_30.2030"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((784974.4611550418 469881.783477176,785066.8009318316 469965.92114568595,785074.870740363 469966.3180214977,784984.3830507951 469883.3709803689,784974.7257389259 469881.7834771769,784974.4611550418 469881.783477176))",
+    "site_description": "grunty zadrzewione i zakrzewione na użytkach rolnych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1958-01-01",
+    "to": "1996-10-31",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2030"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2030"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066101_1.0003.AR_30.2030"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-24",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.513.39.2019.AWF",
+    "decisions": [
+      {
+        "issue_date": "2019-05-21",
+        "reference": "WSI.513.39.2019.AWF",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,184 @@
+{
+  "registry_id": 75,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.38,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Solidarności, Okopowa, Wolska",
+    "precinct": "6-04-03",
+    "parcel_numbers": [
+      "2/1",
+      "2/2",
+      "2/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635077.8273839077 487350.5101158088,635062.7461037331 487400.25188195985,635120.6899696848 487420.88942322787,635136.3004175895 487357.91846395936,635077.8273839077 487350.5101158088))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Sezam XIX Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych",
+      "address": "ul. Nowogrodzka 47A, 00-695 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "37-96",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "380-540",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,46",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,163-2,3",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,186-2,7",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,206-3,7",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,222-1,6",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,447-2,8",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,12-0,688",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "439-2940",
+      "area_ha": 0.12
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "203",
+      "area_ha": 0.12
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "49,2",
+      "area_ha": 0.12
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,49",
+      "area_ha": 0.12
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "156",
+      "area_ha": 0.12
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "158",
+      "area_ha": 0.12
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-11-08",
+    "legal_basis": "art. 101 l ust. 4",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-04-07",
+        "reference": "WSI.511.36.2016.MGł.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Sezam XIX Fundusz Inwestycyjny Zamknięty Aktywów Niepublicznych",
+        "address": "ul. Nowogrodzka 47A, 00-695 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2017-04-22",
+    "planned_end": "2017-06-30",
+    "actual_end": "2017-07-14",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - wydobycie zanieczyszczonego gruntu i przekazanie do unieszkodliwienia",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

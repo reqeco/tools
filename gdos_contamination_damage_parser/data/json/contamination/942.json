@@ -1,0 +1,80 @@
+{
+  "registry_id": 942,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Dworcowa 27 w Trzebini",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.795/78",
+      "120305_4.0013.2318/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532783.2654093709 254159.56231475342,532773.4758064608 254133.8976800833,532784.191452891 254130.72267373465,532776.518520881 254109.9528405331,532785.2497883408 254097.38510706462,532817.5290195708 254095.5330200242,532825.4665354409 254098.0465667136,532831.2873804208 254103.60282783303,532843.4582380909 254132.83934463467,532783.2654093709 254159.56231475342))",
+    "site_description": "Teren w przeszłości należący do Zakładów Metalurgicznych \"Trzebinia\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "120305_4.0013.795/78",
+        "120305_4.0013.2318/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-06",
+    "legal_basis": "art. 61 § 1  Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.92.2019.MK",
+    "decisions": [
+      {
+        "issue_date": "2019-10-03",
+        "reference": "ZS.513.92.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,205 @@
+{
+  "registry_id": 798,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.0,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul.Metalowców 31 Wrocław",
+    "precinct": "obręb Gądów Mały",
+    "parcel_numbers": [
+      "4/4",
+      "4/5",
+      "4/131 AM-2 obręb Gądów Mały"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((356838.44000000040978193 364852.03999999910593033, 356875.50999999977648258 364935.58000000007450581, 356877.5400000000372529 364941.40000000037252903, 356879.23000000044703484 364951.67989999987185001, 356883.08000000007450581 364958.92009999975562096, 356884.19000000040978193 364960.65010000020265579, 356909.17999999970197678 364996.18999999947845936, 356913 365001.61999999918043613, 356917.57000000029802322 365008.13000000081956387, 356928.08999999985098839 364996.83000000007450581, 356940.42999999970197678 364983.53999999910593033, 356952.91999999992549419 364970.13000000081956387, 356965.58999999985098839 364956.53999999910593033, 356969.41999999992549419 364952.41999999992549419, 356973.58000000007450581 364948.24000000022351742, 356986.49000000022351742 364935.49000000022351742, 356999.41999999992549419 364922.69999999925494194, 357012.76999999955296516 364910.49000000022351742, 357026.50999999977648258 364898.41999999992549419, 357042.29999999981373549 364888.05000000074505806, 357049 364883.5, 357057.61000000033527613 364879.76999999955296516, 357071.4599999999627471 364857.82000000029802322, 357049.71999999973922968 364803.67999999970197678, 357040.5 364780.75999999977648258, 357042.34999999962747097 364808.52999999932944775, 357025.7099999999627471 364815.33009999990463257, 357031.82000000029802322 364830.14000000059604645, 357017.90000000037252903 364835.90000000037252903, 357011.83999999985098839 364821.05000000074505806, 356999.23000000044703484 364790.42989999987185001, 356985.40000000037252903 364796.08000000007450581, 356977.62000000011175871 364799.25999999977648258, 356976.26999999955296516 364795.93009999953210354, 356868.24000000022351742 364839.94999999925494194, 356852.08999999985098839 364846.5, 356838.44000000040978193 364852.03999999910593033))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Danfoss Power Solutions Sp. z o.o.",
+      "address": "ul.Metalowców 31 54-156 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0.2-1.7 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0.4-11.0 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0.3-11 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0.4-14.0 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0.1-1.8 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0.4-12.0 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0.2-6.6 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0.20-1.2 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3.5-13.0 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "340 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "240.0- 8300.0 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "210.0-1700.0 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "21.0-1800.0 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "550.0-24.000 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0.3-1.8 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "55.0-1200.0 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "180.0 mg/kg",
+      "area_ha": 1.0
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "550.0 mg/kg",
+      "area_ha": 1.0
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-19",
+    "legal_basis": "art.61 par.4 KPA",
+    "case_reference": "WSI.515.2.2019.KMA",
+    "decisions": [
+      {
+        "issue_date": "2019-05-16",
+        "reference": "WSI.515.2.2019.KMA.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Danfoss Power Solutions Sp. z o.o.",
+        "address": "ul.Metalowców 31 54-156 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Decyzja o zwolnieniu z przeprowadzenia remediacji",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

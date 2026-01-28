@@ -1,0 +1,192 @@
+{
+  "registry_id": 786,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1231,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul.Miedziana 4,6,8,10,12  Wrocław",
+    "precinct": "Grabiszyn AM-10",
+    "parcel_numbers": [
+      "13/17",
+      "obręb Grabiszyn",
+      "AM-10"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((359791.67812990513630211 361164.3609832925722003, 359800.63735136308241636 361164.73450926505029202, 359813.95962553477147594 361160.97353105526417494, 359799.59084337769309059 361154.87483763601630926, 359791.67812990513630211 361164.3609832925722003)),((359890.62856907432433218 361190.09600168745964766, 359893.14813467743806541 361189.71822076849639416, 359897.72246597293997183 361109.38513788935961202, 359892.5280755729181692 361109.70438966248184443, 359890.62856907432433218 361190.09600168745964766)),((359817.0782870672410354 361111.13864166289567947, 359838.75890153838554397 361114.25742005556821823, 359839.87282185489311814 361107.82861021714052185, 359817.15524258039658889 361106.81152333877980709, 359817.0782870672410354 361111.13864166289567947)),((359785.13619925710372627 361159.90366944018751383, 359787.65507446991978213 361159.52585612796247005, 359786.30346004938473925 361152.76474862918257713, 359783.38773274095728993 361152.84411693084985018, 359785.13619925710372627 361159.90366944018751383)),((359851.57223503128625453 361170.4555693781003356, 359859.59497844870202243 361164.98452612664550543, 359855.91208872688002884 361151.17968760710209608, 359851.72613478905986995 361161.7991108950227499, 359851.57223503128625453 361170.4555693781003356)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Kupno i sprzedaż nieruchomości na własny rachunek"
+  },
+  "land_holders": [
+    {
+      "name": "Budimex Nieruchomości Sp. z o.o.",
+      "address": "ul.Stawki 40 01-040 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,370 mg/kg s.m.",
+      "area_ha": 0.0146
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,570 mg/kg s.m.",
+      "area_ha": 0.0544
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,350 mg/kg s.m.",
+      "area_ha": 0.0146
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,560 mg/kg s.m.",
+      "area_ha": 0.0544
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,620 mg/kg s.m.",
+      "area_ha": 0.0544
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,142 mg/kg s.m.",
+      "area_ha": 0.0544
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,440 mg/kg s.m.",
+      "area_ha": 0.0146
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,630 mg/kg s.m.",
+      "area_ha": 0.0544
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "430,0 mg/kg s.m.",
+      "area_ha": 0.0146
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,107 mg/kg s.m.",
+      "area_ha": 0.0398
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "478 mg/kg s.m.",
+      "area_ha": 0.0337
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "5,7 mg/kg s.m.",
+      "area_ha": 0.0337
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "2482 mg/kg s.m.",
+      "area_ha": 0.0499
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "586 mg/kg s.m.",
+      "area_ha": 0.0499
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "5700 mg/kg s.m.",
+      "area_ha": 0.0187
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-04",
+    "legal_basis": "art.61 par.4 KPA",
+    "case_reference": "WSI.513.6.2019.APC",
+    "decisions": [
+      {
+        "issue_date": "2019-05-20",
+        "reference": "WSI.513.6.2019.APC.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-07-19",
+        "reference": "WSI.515.4.2019.KS.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Budimex Nieruchomości Sp. z o.o.",
+        "address": "ul.Stawki 40 01-040 Wrocław",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2019-07-01",
+    "planned_end": "2020-03-31",
+    "actual_end": "2019-08-20",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne we wszystkich pięciu obszarach zanieczyszczonych, o których mowa w punkcie 1 niniejszej decyzji, prowadzone będą metodą ex situ, poprzez wydobycie zanieczyszczonego gruntu, w ilości minimum 931,31 m3, tj. ok. 1583,23 ton. Powstały odpad, w postaci zanieczyszczonego gruntu, przekazany zostanie uprawnionemu podmiotowi. W przypadku wydobywania gruntu metodą na odkład, miejsce odkładania zanieczyszczonego gruntu zabezpieczone będzie przed wtórnym zanieczyszczeniem. W przypadku napływu do powstałego wykopu wód podziemnych zanieczyszczonych substancjami ropopochodnymi, woda zostanie odpompowana w ilości niezbędnej, aby uniknąć wtórnego zanieczyszczenia gruntu i przekazana uprawnionemu podmiotowi. W przypadku zaistnienia konieczności częściowego uzupełnienia powstałych wykopów, wykorzystany do tego celu zostanie grunt niezanieczyszczony,  o zawartościach substancji powodujących ryzyko nieprzekraczających wartości dopuszczalnych dla grupy gruntów I, określonych w rozporządzeniu. W celu potwierdzenia całkowitego wydobycia zanieczyszczonego gruntu, pobrane zostaną próbki gruntu ze ścian i dna powstałych wykopów (minimum po 5) i przekazane do analiz laboratoryjnych na zawartość substancji powodujących ryzyko w odniesieniu do każdego z obszarów zanieczyszczonych.",
+    "ecological_effect": "Zgodnie z Rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczeń powierzchni ziemi (Dz. U. z 2016 r., poz.1395) badane parametry tj. zawartość kadmu, ołowiu, cynku,chromu, chryzenu, naftalenu, benzo(a)antracenu, benzo(a)piranu, dibenzo(a,h)antracenu, benzo(b)fluorantenu, benzo(k)fluorantenu, benzo(g,h,i)perylenu, indeno(1,2,3-cd)pirenu oraz suma węglowodorów C12-C35 frakcji oleju, nie przekraczają dopuszczalnych zawartości substancji powodujących ryzyko dla I grupy gruntów dla głębokości 0-0,25 m ppt oraz przekraczającej głębokość 0,25 m ppt z podziałem na odpowiednią wartość wodoprzepuszczalności.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

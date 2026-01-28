@@ -1,0 +1,107 @@
+{
+  "registry_id": 1205,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Zabrze",
+    "municipality": "Zabrze",
+    "address": "ul. Handlowa 2, działka nr 2079/158",
+    "precinct": "03 Grzybowice",
+    "parcel_numbers": [
+      "247801_1.0003.2079/158"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((483056.34832152194576338 276296.07606385968392715, 483060.19128281972371042 276309.91652073833392933, 483100.47499999962747097 276298.49100000038743019, 483119.5130000002682209 276293.18799999915063381, 483145.45566684374352917 276285.99241307895863429, 483155.90400000009685755 276324.56100000068545341, 483166.51499999966472387 276363.7760000005364418, 483178.19000000040978193 276406.96499999985098839, 483188.64300000015646219 276445.60199999995529652, 483199.9627005482907407 276487.52340620337054133, 483149.178999999538064 276501.59100000001490116, 483104.18200000002980232 276514.05900000035762787, 483054.39499999955296516 276527.86099999956786633, 483007.50700000021606684 276540.85400000028312206, 482970.2369999997317791 276551.17999999970197678, 482930.50700000021606684 276562.18789999932050705, 482922.94972140097524971 276564.28864914044970647, 482948.50214914744719863 276656.26262273575412109, 483035.62200000043958426 276634.62299999967217445, 483033.35099999979138374 276626.29900000058114529, 483086.48300000000745058 276611.57200000062584877, 483131.61799999978393316 276598.96199999935925007, 483191.64099999982863665 276582.34490000084042549, 483245.00200000032782555 276567.58500000089406967, 483261.58999999985098839 276562.90499999932944775, 483281.71700611710548401 276557.76835036667762324, 483285.32338134676683694 276518.21461612154962495, 483268.52359201334184036 276517.08351561665767804, 483273.23900000005960464 276462.95500000007450581, 483282.56400000024586916 276355.14100000075995922, 483293.16431913780979812 276222.37498303689062595, 483258.41700000036507845 276231.64499999955296516, 483210.2630000002682209 276244.98499999940395355, 483174.45700000040233135 276254.91100000031292439, 483162.12000000011175871 276258.32499999925494194, 483114.66299999970942736 276271.46600000001490116, 483085.93699999991804361 276279.42799999937415123, 483084.75200000032782555 276279.7630000002682209, 483058.1830000001937151 276292.84300000034272671, 483056.34832152194576338 276296.07606385968392715)))",
+    "site_description": "Na przedmiotowej nieruchomości od 1973 r. do 1992 r. prowadzona była produkcja tzw. „wielkiej płyty” wykorzystywanej w budownictwie. W ramach działalności przemysłowej, na omawianym obszarze funkcjonowała wewnętrzna stacja paliw, kotłownia opalana węglem oraz lokomotywownia wraz z torami kolejowymi. Ww. obiekty zostały wyburzone w latach 2002–2009, natomiast pozostałe istniejące zabudowania (budynek biurowy, portiernia, warsztaty, rozdzielnia prądu, transformator, kompresorownia) były i nadal są częściowo wykorzystywane do celów magazynowych. Obecnie na przedmiotowym terenie znajduje się hala logistyczno-magazynowa (hala A)."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1992-12-31",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja wyrobów budowlanych z betonu",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PDC INDUSTRIAL CENTER 2  Spółka z o. o. sp. kom.",
+      "address": "ul. Grzybowska 2 00-131 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "247801_1.0003.2079/158"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "140 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "3100 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "770 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "460 mg/kg s.m.",
+      "area_ha": 0.006
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-11-12",
+    "legal_basis": "art. 101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo Ochrony Środowiska (Dz. U. z 2019 r. poz. 1396 ze zm.)",
+    "case_reference": "WSI.515.22.2019.TK",
+    "decisions": [
+      {
+        "issue_date": "2020-02-28",
+        "reference": "WSI.515.22.2019.TK.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PDC INDUSTRIAL CENTER 2  Spółka z o. o. sp. kom.",
+        "address": "ul. Grzybowska 2 00-131 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

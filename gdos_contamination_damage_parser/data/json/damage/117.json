@@ -1,0 +1,56 @@
+{
+  "registry_id": 117,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "żuromiński",
+    "municipality": "Żuromin",
+    "address": "Lidzbarska 62",
+    "precinct": null,
+    "parcel_numbers": [
+      "140/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((559332.2955932347 578906.4144860432,559317.8757727246 578868.3144098418,559381.1113158652 578846.4862411926,559393.6790493353 578885.3800689727,559332.2955932347 578906.4144860432))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw nr 356 w Żurominie przy ul. Lidzbarskiej 62",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Orlen Eko",
+      "address": null,
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "ORLEN EKO Sp.zo.o. - Regionalny Zespół Prewencji w Olsztynie",
+      "address": "Olsztyn",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2012-08-07",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,91 @@
+{
+  "registry_id": 330,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "kolbuszowski",
+    "municipality": "Kolbuszowa",
+    "address": "Stacja Paliw PKN ORLEN SA Nr 442 w Kolbuszowej",
+    "precinct": "6 Kolbuszowa Dolna",
+    "parcel_numbers": [
+      "246"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((697076.29900567594449967 269342.15811396099161357, 697089.35232029599137604 269327.22599032497964799, 697114.62031503301113844 269299.53960637800628319, 697131.07793508504983038 269281.11827594001078978, 697151.14248189004138112 269291.50894189300015569, 697176.10447593801654875 269304.26154701202176511, 697180.25742953701410443 269306.41345465398626402, 697168.55804742500185966 269323.44231677998322994, 697144.53063283499795943 269352.2322155560250394, 697140.96438946900889277 269356.53721448901342228, 697128.5692020789720118 269364.09569859498878941, 697118.09381615999154747 269363.85434676700970158, 697089.20728653098922223 269348.26584339002147317, 697076.29900567594449967 269342.15811396099161357))",
+    "site_description": "Inne tereny zabudowane Bi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1973-01-01",
+    "to": null,
+    "description": "Co najmniej kilkanaście lat przed rokiem 2017."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od <5,00 do 12180 [mg/kg suche masy]",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od <30,00 do 6536 [mg/kg suche masy]",
+      "area_ha": 0.1
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-10-09",
+    "legal_basis": "art. 101l ust. 2",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-11-13",
+        "reference": "WSI.515.3.1.2017.KT.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polski Koncern Naftowy ORLEN Spółka Akcyjna",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": "2017-12-05",
+    "planned_end": "2018-03-31",
+    "actual_end": "2017-11-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja środowiska gruntowego będzie przeprowadzone pod stałym nadzorem uprawnionego geologa metodą „ex-situ\", polegającą na kontrolowanym wydobyciu zanieczyszczonej gleby i ziemi do głębokości 5,0 m ppt i jej przekazaniu do unieszkodliwienia bądź odzysku podmiotowi posiadającemu stosowne zezwolenia. Potwierdzenie usunięcia całej zanieczyszczonej ziemi zostanie dokonane poprzez pobranie co najmniej 10 próbek gleby i ziemi z oczyszczonego terenu oraz dokonaniu ich analizy na zawartość substancji: suma węglowodorów C6-C12, składników frakcji benzyn, suma węglowodorów C12-C35, składników frakcji oleju. Usunięta ziemia zostanie zastąpiona ziemią spełniającą wymagania zawarte w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U., poz. 1395) dla gruntów grupy I – inne tereny zabudowane, o wodoprzepuszczalności ≤ 1x10-7. Wypompowana oraz przekazaniu jako odpad zostanie gromadząca się w powstałych wykopach woda, np. z opadu atmosferycznego, która mogłaby wypłukiwać substancje ropopochodne.  W przypadku stwierdzania na podstawie badań nieusunięcia całej zanieczyszczonej ziemi, tzn. że zastosowana metoda remediacji „ex-situ” na danym terenie jest niewystarczająca, podmiot korzystający ze środowiska wystąpi do Regionalnego Dyrektora Ochrony Środowiska w Rzeszowie o wydanie nowej decyzji w kwestii dotyczącej zakresu i sposobu przeprowadzenia remediacji.  Remediacja terenu stacji paliw została zakończona w dniu 23 listopada 2018 r. Sprawozdanie przedłożono w dniu 24 maja 2018 r., tj. w terminie. W wyniku remediacji usunięto 2396,320 Mg zanieczyszczonego gruntu z terenu wskazanego na załączniku do decyzji uzgadniającej plan remediacji , w tym również zawodnionych pyłów. Ww. grunt przetransportowano do miejsca odzysku, a ubytek zastąpiono gruntem niezanieczyszczonym. Pobrano 49 próbek gruntu oraz dodatkowo 1 próbkę wody do badań, w tym próbki z dna i ścian wykopów potwierdzające usunięcie zanieczyszczonego gruntu.",
+    "ecological_effect": "Spełnienie wymagań zawartych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U., poz. 1395) dla gruntu grupy I",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

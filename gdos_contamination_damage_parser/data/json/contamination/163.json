@@ -1,0 +1,134 @@
+{
+  "registry_id": 163,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.052,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "gnieźnieński",
+    "municipality": "Gniezno (gmina miejska)",
+    "address": "62-200 Gniezno, ul. Prymasa Wyszyńskiego",
+    "precinct": "0001 Gniezno, ark. 10",
+    "parcel_numbers": [
+      "125/1",
+      "125/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((405216.5626093244 519903.4757425245,405199.36465826206 519894.2153073447,405203.8625839228 519869.87359199487,405222.3834543052 519878.60485945456,405231.9084733564 519886.27779146563,405216.5626093244 519903.4757425245))",
+    "site_description": "teren byłej stacji paliw nr 22"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1945-01-01",
+    "to": "2007-04-30",
+    "description": "Stacja paliw funkcjonowała od 1945 r. do 2010 r., do zanieczyszczenia doszło w czasie eksploatacji, przed 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od < 0,8 do 22800 mg/kg s.m.",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od < 6 do 14000 mg/kg s.m.",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "od < 0,07 do 3400 mg/kg s.m.",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzen",
+      "concentration": "od < 0,01 do 176 mg/kg s.m.",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Etylobenzen",
+      "concentration": "od < 0,01 do 387 mg/kg s.m.",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Toluen",
+      "concentration": "od < 0,01 do 1070 mg/kg s.m.",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "od < 0,01 do 1759 mg/kg s.m.",
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Styren",
+      "concentration": "od < 0,01 do 5,15 mg/kg s.m.",
+      "area_ha": 0.052
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-05-11",
+    "legal_basis": "art. 101l",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-07-07",
+        "reference": "WSS.511.24.2016.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2016-07-25",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-12-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona metodą bierną z ręcznym sczerpywaniem wolnego produktu wspomaganą bioremediacją, polegającą na cyklicznych iniekcjach do środowiska mikroorganizmów zdolnych do rozkładu zanieczyszczeń substancji ropopochodnych oraz iniekcjach substancji odżywczych. Zainstalowany system technologiczny składający się z dwóch modułów, z których pierwszy składał się z otworów technologicznych dwufunkcyjnych służących do sczerpywania wolnego produktu, a po jego sczerpaniu do zadawania biopreparatu, a drugi z otworów technologicznych przeznaczonych do zadawania biopreparatu.",
+    "ecological_effect": "Analiza Raportu z remediacji wykazała, iż przebiegała ona zgodnie z ustaleniami decyzji Regionalnego Dyrektora. Wyniki analiz pobranych próbek gruntu wskazują na osiągnięcie zakładanych dla tego obszaru standardów jakości dla badanych wskaźników.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

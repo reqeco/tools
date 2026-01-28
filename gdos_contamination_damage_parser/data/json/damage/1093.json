@@ -1,0 +1,97 @@
+{
+  "registry_id": 1093,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "bełchatowski",
+    "municipality": "Drużbice",
+    "address": "dz. ewid. nr. 29/28, 29/29, 113, obręb Brzezie w gminie Drużbice",
+    "precinct": null,
+    "parcel_numbers": [
+      "29/28",
+      "29/29",
+      "113"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((527659.42565044737420976 402232.33228967775357887, 527716.58058481488842517 402709.35616497608134523, 527741.86065193905960768 402691.77003132452955469, 527731.96845176001079381 402581.85669600235996768, 527884.74798785790335387 402573.06362917658407241, 527890.24365462397690862 402618.1280966586782597, 527962.78645593661349267 402619.22723001189297065, 527921.01938851422164589 402215.84528937941649929, 527772.63638582918792963 402246.62102326966123655, 527659.42565044737420976 402232.33228967775357887))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2017-10-24",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda, gatunki chronione",
+  "event_description": "wprowadzanie do ziemi ołowiu z użytej amunicji oraz do wód gruntowych, a następnie do okolicznych wód Grabi i Brzeziny, hałas emitowany na strzelnicy SIGMA SHOOTING wpływa niekorzystnie na gatunki chronione występujące w sąsiednim lesie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "mieszkańcy obrębu Brzezie, działający przez pełnomocnika",
+      "address": "obręb Brzezie, gmina Drużbice",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) prowadzący działalność gospodarczą pod nazwą(…)",
+      "address": "(…)",
+      "economic_activity_code": "93.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "160 - 420 mg/kg s.m.",
+      "area_ha": 0.019
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie egzekucyjne w toku",
+    "initiation_date": "2017-11-20",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2019-04-25",
+        "reference": "WSI.512.3.2018.AK.34",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-08-01",
+        "reference": "WSI.512.3.2018.AK.40",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania remediacyjne części działki o numerze ewidencyjnym 29/28, obręb Brzezie, gmina Drużbice, polegać będą na usunięciu metodą ex-situ gruntu zanieczyszczonego, z powierzchni ziemi, a w szczególności na:  a)\tusunięciu gruntu do głębokości 0,25 m ppt,  b)\twydobyty zanieczyszczony grunt zostanie zabezpieczony zgodnie z przepisami o odpadach, wywieziony i przekazany do unieszkodliwienia firmie posiadającej stosowne zezwolenia, na czego potwierdzenie zostaną przedłożone karty przekazania odpadu,  c)\tpo wybraniu zanieczyszczonego gruntu zostanie wykonana analiza dna każdego z wykopów, poprzez pobór do badań laboratoryjnych osobno dla każdego dna z wykopów 15 pojedynczych próbek gruntu, składających się na 1 próbę zbiorczą osobno dla każdego dna z wykopów, na obecność ołowiu (Pb),  d)\tw momencie stwierdzenia zanieczyszczenia ołowiem poniżej wskazanej głębokości, wykopy zostaną poszerzone o zasięg występowania zanieczyszczenia,  e)\tnawiezieniu czystej ziemi, po uprzednim uzyskaniu pisemnego potwierdzenia, że gleba jest wolna od zanieczyszczeń, o wartości pH zawartym w przedziale od 6,5 do 8,5,  f)\tpowstałe wykopy, po uprzednim uzyskaniu pisemnego potwierdzenia, zostaną wypełnione ziemią wolną od zanieczyszczeń tj. ziemią o zawartościach nieprzekraczających dopuszczalnych wartości przewidzianych dla gruntów grupy II, podgrupy I-1, w zakresie tych substancji, których przekroczenie zostało stwierdzone.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

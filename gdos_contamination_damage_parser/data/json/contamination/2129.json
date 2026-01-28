@@ -1,0 +1,120 @@
+{
+  "registry_id": 2129,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5273,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Lębork",
+    "address": "ul. Warszawska",
+    "precinct": "7",
+    "parcel_numbers": [
+      "409/48",
+      "409/49",
+      "409/10",
+      "409/14"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Burmistrz Lęborka",
+      "address": null,
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-11-04",
+    "legal_basis": null,
+    "case_reference": "RDOŚ-Gd-WZS.515.12.2024.KP.5",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Burmistrz Lęborka",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-02-01",
+    "planned_end": "2028-11-01",
+    "actual_end": null,
+    "method": null,
+    "description": "Planowana remediacja przy zastosowaniu metody ex situ ma na celu osiągnięcie efektu ekologicznego, poprzez usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko, ustalonej dla I grupy, wskazanych w Rozporządzeniu.  Z uwagi na dalsze planowane zagospodarowanie działek objętych niniejszą decyzją, remedjację uzgadnia się dokonać w dwóch etapach: a)\tEtap I Remediacja ex situ na działce 409/48  Z powierzchni działki 409/48, czyli 1596 m2, odjęto powierzchnię 122,5 m2, co stanowi ok. 1/3 obszaru zabetonowanego fundamentu zbiornika po gazie (z jego obszaru nie ma konieczności usuwania nasypu, bo stwierdzono tam wypełnienie wykopu pospółką bez zanieczyszczeń). Z tak otrzymanej powierzchni 1473,5 m2, na której jest warstwa nasypu żużlowego o średniej miąższości 0,64 m (średnia miąższość wygenerowana w programie Surfer), obliczono objętość gruntu zanieczyszczonego - 943 m3, co przy ciężarze właściwym nasypów ok. 1,7 g/cm3 daje masę 1603 Mg. Jest to około 80 pojazdów 20-tonowych. b)\tEtap II. Remediacja ex situ na działkach 409/48, 409/10 i 409/14  Dla pozostałej powierzchni zbadanego i poddanego ocenie obszaru, czyli działek 409/48, 409/10 i 409/14 o powierzchni sumarycznej 4081 m2 odjęto 245 m2, co stanowi 2/3 obszaru dawnego zbiornika gazu oraz 36 m2, czyli powierzchnię terenu zajętego przez budynek starego transformatora. Daje to obszar 3800 m2 o średniej miąższości nasypów 0,5 m, co generuje do usunięcia objętość 1900 m3. Jest to około 3230 Mg, czyli ok. 162 ciężarówki 20-tonowe. Warstwę powierzchniową oraz warstwę nasypów antropologicznych (zbudowanych w znacznej części z mieszaniny ziemi, żużli, gruzu) należy usunięć w całości w granicach geodezyjnych działek.  Zanieczyszczoną glebę i ziemię należy przekazać do zagospodarowania uprawnionym odbiorcom.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

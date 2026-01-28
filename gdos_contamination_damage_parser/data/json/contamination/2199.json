@@ -1,0 +1,85 @@
+{
+  "registry_id": 2199,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Czechowice-Dziedzice",
+    "address": "ul. Łukasiewicza 2 w Czechowicach-Dziedzicach",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "240204_4.0001.3762/116"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((501250.86975440802052617 226648.7967014939931687, 501253.84540584799833596 226647.10795618899282999, 501241.08821139397332445 226631.02805254800477996, 501254.6311284460243769 226623.62154604800161906, 501262.51775004301453009 226614.74149838200537488, 501246.03284968697698787 226588.18768310500308871, 501231.29553666099673137 226562.28012907700031064, 501265.53862213302636519 226541.5950137689942494, 501285.66445441101677716 226569.87914469398674555, 501328.42790754302404821 226545.86218895399360918, 501336.08325448597315699 226544.36080649500945583, 501377.76940679998369887 226594.59369420498842373, 501405.30841382802464068 226636.92034199100453407, 501407.61689901299541816 226644.3950122740061488, 501367.24936560302739963 226670.45873177799512632, 501344.21799322398146614 226685.78726253600325435, 501323.95001788297668099 226698.50044105900451541, 501295.12775174900889397 226717.24429920001421124, 501291.89804039697628468 226719.3661795039952267, 501291.04081414797110483 226718.03842970001278445, 501240.37397835199953988 226751.92508020999957807, 501237.40993382502347231 226747.74718985101208091, 501209.7407883899868466 226700.91497552298824303, 501197.73446104297181591 226684.18542885399074294, 501209.82645976002095267 226674.39973354199901223, 501231.91286128101637587 226660.15317676198901609, 501250.86975440802052617 226648.7967014939931687)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN OIL Sp. z o.o.",
+      "address": "80-718 Gdańsk, ul. Elbląska 135",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-08-21",
+    "legal_basis": "art. 101c ust 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.591.2024.MS2.4",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

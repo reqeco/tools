@@ -1,0 +1,82 @@
+{
+  "registry_id": 926,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": null,
+    "precinct": "obręb Dąbrowa",
+    "parcel_numbers": [
+      "166"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((301292.18691460322588682 407467.89506917912513018, 301199.83196725172456354 407519.1254881052300334, 301157.93274438293883577 407540.84785275533795357, 301050.41345422994345427 407596.57257509976625443, 301072.61268243938684464 407624.84019300434738398, 301096.01088847167557105 407654.63040760532021523, 301217.13750307692680508 407607.42708230298012495, 301244.59037572355009615 407596.72921496350318193, 301283.44732998189283535 407581.58668017014861107, 301291.75806816609110683 407578.34092369116842747, 301311.55493892752565444 407565.99568945355713367, 301358.76144145452417433 407536.56095545087009668, 301379.76864917570492253 407524.83754222840070724, 301334.17923748726025224 407497.85419474542140961, 301308.03608883271226659 407481.78775460924953222, 301292.18691460322588682 407467.89506917912513018))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2011-07-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Awaria rurociągu odpadów poflotacyjnych „Betras” Φ 1200 w dniu 18.07.2011 r. w miejscowości Dąbrowa, w wyniku czego doszło do wycieku odpadów poflotacyjnych przesyłanych z ZWR na OUOW Żelazny Most",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S. A.",
+      "address": "Oddział Zakład Hydrotechniczny, ul. Polkowicka 52,  59-305 Rudna",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Miedź (Cu)",
+      "concentration": "2125 mg/kg",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Ołów (Pb)",
+      "concentration": "155 mg/kg",
+      "area_ha": 0.02
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2011-11-02",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "WSI.511.2.2012.AS.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-04-01",
+    "planned_end": "2012-06-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Usunięcie zanieczyszczonego gruntu metodą ex – situ z powierzchni ok. 200 m2 o miąższości do 0,30 m i oczyszczenie go poza miejscem jego pierwotnego występowania oraz dowiezienie czystego gruntu do wykopu.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

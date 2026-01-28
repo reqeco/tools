@@ -1,0 +1,83 @@
+{
+  "registry_id": 659,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Sosnowiec",
+    "municipality": "Sosnowiec",
+    "address": "Sosnowiec ul. Kilinskiego 45",
+    "precinct": "0011",
+    "parcel_numbers": [
+      "834 (obręb 0011)"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((509185.600000 268335.832000,509223.224000 268349.039000,509225.077000 268341.898000,509263.687000 268351.054000,509267.725000 268339.186900,509269.225000 268334.789000,509274.244000 268320.071000,509277.906000 268298.075000,509274.783000 268279.059100,509265.762000 268260.012000,509248.644000 268244.501000,509221.811000 268222.915000,509211.692000 268236.712000,509193.440000 268262.492000,509197.701000 268265.722000,509182.336000 268285.527000,509194.147000 268295.072000,509192.223000 268297.677000,509187.855000 268303.582000,509168.480000 268329.825900,509185.600000 268335.832000))",
+    "site_description": "Elewacja budynku przy ul. Kilińskiego 45 w Sosnowcu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2012-12-12",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w chronionych siedliskach przyrodniczych powstała na skutek prowadzenia prac termomodernizacyjnych na budynku mieszkalnym przy ul. Kilińskiego 45 w Sosnowcu.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Fundacja Ratujmy Ptaki",
+      "address": "Szczecin",
+      "legal_form": "Fundacja"
+    },
+    {
+      "name": "Fundacja SOS dla Zwierząt",
+      "address": null,
+      "legal_form": "Fundacja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Sosnowiecka Spółdzielnia Mieszkaniowa",
+      "address": "Sosnowiec Al.Zwycięstwa 3",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "jerzyk (Apus apus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-06-18",
+    "detection_date": "2013-03-25",
+    "decisions": [
+      {
+        "issue_date": "2014-02-26",
+        "reference": "WSI.512.2.2.2013.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2014-04-30",
+    "actual_end": "2014-04-17",
+    "method": null,
+    "description": "Montaż 3 podwójnych budki lęgowe dla jerzyka na elewacji wschodniej budynku przy ul. Kilińskiego 45 w Sosnowcu",
+    "ecological_effect": "Przywrócenie miejsc lęgowych ptaków.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

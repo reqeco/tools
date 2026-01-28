@@ -1,0 +1,64 @@
+{
+  "registry_id": 1056,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Kaliska",
+    "address": "ul. Dworcowa 2, 83-260 Kaliska",
+    "precinct": "0008 Kaliska",
+    "parcel_numbers": [
+      "464/50",
+      "464/51",
+      "464/52"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((448739.8399796591 671374.4073319472,448797.51926168945 671341.0697652679,448855.7277114396 671285.5071541481,448862.6068918596 671283.9196509691,448852.0235373597 671269.6321223993,448841.4401828596 671249.5237488486,448864.19439503975 671226.7695366684,448592.83718564844 670916.9418336675,448562.4100414685 670865.3479804872,448534.62873589824 670887.8376087975,448576.9621538985 670918.2647529878,448423.5035136479 671051.879603547,448535.9516552182 671190.7861313559,448565.0558800884 671164.3277451061,448662.95190921886 671263.5466935467,448648.3997967787 671276.7758866772,448658.9831512789 671291.3279991085,448699.99364996894 671329.6926591778,448741.00414865906 671374.6719157966,448739.8399796591 671374.4073319472))",
+    "site_description": "Obszar działalności \"Tartaki\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja wyrobów tartacznych",
+    "current": "Produkcja wyrobów tartacznych"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "464/50",
+        "464/51",
+        "464/52"
+      ],
+      "economic_activity_code": "16.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-09-27",
+    "legal_basis": "art. 61 Kpa i art. 101 C ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "RDOŚ-Gd-WZS.513.207.2019.IK.1",
+    "decisions": [
+      {
+        "issue_date": "2020-08-13",
+        "reference": "RDOŚ-Gd-WZS.513.207.2019.MK.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 103 usta. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

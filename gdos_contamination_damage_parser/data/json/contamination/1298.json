@@ -1,0 +1,121 @@
+{
+  "registry_id": 1298,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.02,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Gordona Bennetta",
+    "precinct": "2-06-05",
+    "parcel_numbers": [
+      "48/12"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635429.41 480148.27,635427.35 480129.54,635432.67 480123.10,635436.69 480123.58,635520.80 480067.31,635579.31 480034.50,635593.01 480030.11,635707.43 480032.88,635704.49 480113.70,635515.72 480159.05,635475.49 480153.92,635429.41 480148.27))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Brookford Investments Sp. z o.o.",
+      "address": "ul. Sturmowa 2, 02-678 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "48/12"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.005
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-12-16",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.9.2021.MTo",
+    "decisions": [
+      {
+        "issue_date": "2021-05-10",
+        "reference": "WOOŚ-IV.515.9.2021.MTo.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Brookford Investments Sp. z o.o.",
+        "address": "ul. Sturmowa 2, 02-678 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-05-01",
+    "planned_end": "2021-12-31",
+    "actual_end": "2021-07-08",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

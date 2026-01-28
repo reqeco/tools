@@ -1,0 +1,113 @@
+{
+  "registry_id": 51,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.196,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "00-849 Warszawa, ul. Pereca 1",
+    "precinct": "6-01-06",
+    "parcel_numbers": [
+      "94"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636141.2825339185 487158.8191073714,636189.0399211517 487172.7097601602,636196.5805612393 487147.44200129155,636191.1565920531 487145.9867900405,636194.860766127 487133.02218078077,636153.0565158103 487118.20548447967,636141.2825339185 487158.8191073714))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Matexi Polska Pereca Sp. z o.o.",
+      "address": "al. Jana Pawła II 23, Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "500-1900",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "470",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "4-16",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "190-960",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-12-17",
+    "legal_basis": "61 § 1 Kpa w ziweązuz art. 101 l ust 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-02-16",
+        "reference": "WSI.511.14.2014.KW.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-06-23",
+        "reference": "WSI.511.14.2014.KW.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Matexi Polska Pereca Sp. z o.o.",
+        "address": "al. Jana Pawła II 23, Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2015-09-30",
+    "planned_end": "2016-03-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - wydobycie zanieczyszczonego gruntu i przekazanie do unieszkodliwienia",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

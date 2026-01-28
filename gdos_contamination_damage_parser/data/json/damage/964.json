@@ -1,0 +1,74 @@
+{
+  "registry_id": 964,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Ul. Jasna 78-92 Szczecin",
+    "precinct": null,
+    "parcel_numbers": [
+      "47",
+      "obręb 4076"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((210704.17005332998814993 621368.85450536897405982, 210642.74673602401162498 621351.67457189399283379, 210644.04933842498576269 621344.97890440700575709, 210628.66057416299008764 621329.22524906997568905, 210609.66290258700610138 621346.71396460803225636, 210610.46999155200319365 621390.01680044597014785, 210622.00287193100666627 621388.4673820580355823, 210658.79235217699897476 621418.67554384504910558, 210681.59904327298863791 621437.89198961004149169, 210704.76168551298906095 621466.08097564498893917, 210696.5039364899857901 621471.73077343101613224, 210703.85701312200399116 621482.4597170630004257, 210712.93239537399495021 621476.23920467495918274, 210756.20229462301358581 621446.59673485800158232, 210704.17005332998814993 621368.85450536897405982))",
+    "site_description": "Budynek wielorodzinny"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "2013 r. czerwiec termomodernizacja budynku"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Podczas termomodernizacji budynku doszło do zniszczenia siedliska ptaków (jerzyków) i nietoperzy",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Fundacja Ratujmy Ptaki",
+      "address": "ul. Szafera 196/18 Szczecin",
+      "legal_form": "Fundacja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "WAM Sp. z o.o. Administracja Nr 3",
+      "address": "ul. Jasna 78, 70-777 Szczecin",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-06-27",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2013-07-15",
+        "reference": "WSI.511.10.2013.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2013-10-18",
+    "actual_end": null,
+    "method": null,
+    "description": "zawieszenie budek dla jerzyków i nietoperzy",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

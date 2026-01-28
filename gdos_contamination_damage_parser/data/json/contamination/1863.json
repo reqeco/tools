@@ -1,0 +1,100 @@
+{
+  "registry_id": 1863,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.057,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "starachowicki",
+    "municipality": "Starachowice",
+    "address": "ul. Ostrowiecka w Starachowicach",
+    "precinct": "07",
+    "parcel_numbers": [
+      "884/5",
+      "884/9",
+      "884/32"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "RHENOY AUTODEMONTAGE B. V. z siedzibą RHENOY",
+      "address": "HOLWEISTRAAT 10; 4181 CC KRÓLESTWO NIDERLANDÓW msc. WAARDENBURG",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "110 mg/kg s.m., 120 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "11 mg/kg s.m., 14 mg/kg s.m., 13 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "684mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-06-21",
+    "legal_basis": "art. 101l. ust. 2 i 3 ustawy Prawo ochrony środowiska",
+    "case_reference": "WPN-II.515.1.2023.IŁ",
+    "decisions": [
+      {
+        "issue_date": "2023-10-12",
+        "reference": "WPN-II.515.1.2023.IŁ.4",
+        "issuing_authority": null,
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "RHENOY AUTODEMONTAGE B. V. z siedzibą RHENOY",
+        "address": "HOLWEISTRAAT 10; 4181 CC KRÓLESTWO NIDERLANDÓW msc. WAARDENBURG",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-11-01",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Z terenu nieruchomości oznaczonych nr ew. 884/5, 884/9 i 884/32 (obręb 07 Starachowice) usunięto zanieczyszczony grunt z powierzchni ok. 410 m2, a powstały ubytek gleby i ziemi zasypano czystym materiałem piaszczystym.  Zanieczyszczony grunt został użyty do prac ziemnych w miejscowości w miejscowości  Skarżysko – Kamienna (dz. nr ew. 53, 171/6, 172/1, 173/1).",
+    "ecological_effect": "Z terenu nieruchomości oznaczonych nr ew. 884/5, 884/9 i 884/32 (obręb 07 Starachowice) został usunięty zanieczyszczony grunt (na tym terenie został osiągnięty zakładany w niniejszej decyzji efekt ekologiczny), z zastrzeżeniem poniższego. Zanieczyszczony grunt został użyty w do prac ziemnych w miejscowości Skarżysko – Kamienna (dz. nr ew. 53, 171/6, 172/1, 173/1). Tym samym nastąpił transfer (przeniesienie) zanieczyszczeń z terenu podlegającego remediacji stanowiących teren przemysłowy – IV grupa gruntów  (o najbardziej liberalnej dopuszczalnej  zawartości substancji powodujących ryzyko, tj. zanieczyszczeń) - do terenów, które winny się charakteryzować bardzo wysokimi parametrami jakościowymi, tj. m. in. tereny mieszkaniowe, rolnicze (klasyfikowane jako I i II grupa gruntów  o bardzo restrykcyjnej  dopuszczalnej  zawartości  substancji powodujących ryzyko). Zatem stoi to w sprzeczności z ustawowym zakazem używania do prac ziemnych zanieczyszczonej gleby lub ziemi  wynikającym z art. 101 r ustawy Poś. WIOŚ w Kielcach zgłosił w związku z tym bezpośrednie zagrożenie szkodą w środowisku w miejscowości Skarżysko - Kamienna.",
+    "effect_assessment": null
+  },
+  "notes": "użytkowanie wieczyste: RHENOY AUTODEMONTAGE B. V. z siedzibą RHENOY"
+}

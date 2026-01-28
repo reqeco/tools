@@ -1,0 +1,182 @@
+{
+  "registry_id": 1440,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.47,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Białej Kończyny, ul. Inspektowa Warszawa",
+    "precinct": "1-02-28",
+    "parcel_numbers": [
+      "13",
+      "19/7",
+      "19/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639242.0201756877 481870.9783242531,639246.2535174915 481831.0261610234,639536.7665988782 481839.2282607481,639637.0438828961 481843.7261864152,639650.2730760446 481888.1762753157,639273.2410714967 481871.77207584213,639242.0201756877 481870.9783242531)) POLYGON((639134.5991273748 481917.2805001931,639347.8537208224 481926.80551924184,639350.7641433149 481886.32418828085,639136.715798276 481877.3283369532,639134.5991273748 481917.2805001931)) POLYGON((639599.4729743795 481885.26585282665,639607.6750741185 481843.4616025463,639637.5730506267 481843.46160254534,639650.8022437651 481887.91169144586,639599.4729743795 481885.26585282665))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "TC Forum Stegny sp. z o. o.",
+      "address": "ul. Bronowicka 19/ LU 17, 30-084 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "13",
+        "19/7",
+        "19/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 2.47
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dieldryna",
+      "concentration": null,
+      "area_ha": 2.47
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-06-17",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "WOOŚ-IV.515.43.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-09-21",
+        "reference": "WOOŚ-IV.515.43.2021.DŚc.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-09-09",
+        "reference": "WOOŚ-IV.515.43.2021.DŚc.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TC Forum Stegny sp. z o. o.",
+        "address": "ul. Bronowicka 19/ LU 17, 30-084 Kraków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-03-31",
+    "planned_end": "2027-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

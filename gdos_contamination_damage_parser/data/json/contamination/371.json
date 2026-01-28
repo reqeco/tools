@@ -1,0 +1,113 @@
+{
+  "registry_id": 371,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.34,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Legnica",
+    "municipality": "Legnica",
+    "address": "ul. Ścinawska",
+    "precinct": "obręb Piątnica",
+    "parcel_numbers": [
+      "część działki 201/21"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((302322.13901099772192538 375840.93733009602874517, 302409.25316551845753565 375833.86971043422818184, 302390.23429175320779905 375824.09047015383839607, 302329.69542855105828494 375815.29282647650688887, 302322.13901099772192538 375840.93733009602874517))",
+    "site_description": "nieczynna kolejowa stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKP S.A.",
+      "address": "Al. Jerozolimskie 142 A, 02-305 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "52.21.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "793 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4330 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2262,8 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "14700 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-08-29",
+    "legal_basis": "art. 61 § 4 ustawy Kpa",
+    "case_reference": "WSI.515.5.2017.MR",
+    "decisions": [
+      {
+        "issue_date": "2018-06-08",
+        "reference": "WSI.515.5.2017.MR.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-09-18",
+        "reference": "WSI.515.15.2020.MR.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 155 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKP S.A.",
+        "address": "Al. Jerozolimskie 142 A, 02-305 Warszawa",
+        "economic_activity_code": "52.21.Z"
+      }
+    ],
+    "planned_start": "2018-06-08",
+    "planned_end": "2022-09-30",
+    "actual_end": "2022-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Oczyszczenie powierzchni ziemi na przedmiotowym terenie przeprowadzone zostanie metodą in – situ w czterech etapach: 3.1\tWstępne przygotowanie terenu do realizacji zabiegów remediacyjnych oraz montaż niezbędnej infrastruktury technologicznej; 3.2\tRemediacja chemiczna polegająca na wykonaniu serii iniekcji selektywnych preparatów o działaniu utleniającym; 3.3\tBioremediacja przy użyciu preparatu mikrobiologicznego; 3.4 \tPrace końcowe: demontaż infrastruktury remediacyjnej, uporządkowanie terenu.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

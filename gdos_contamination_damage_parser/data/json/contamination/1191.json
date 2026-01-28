@@ -1,0 +1,342 @@
+{
+  "registry_id": 1191,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.95,
+  "status": null,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Krakowska i ul. Roździeńska w Katowicach",
+    "precinct": "0005 Roździeń",
+    "parcel_numbers": [
+      "344/59",
+      "345/59",
+      "418/55",
+      "417/55",
+      "353/53",
+      "354/53",
+      "413/51",
+      "412/51",
+      "362/51",
+      "363/51",
+      "365/51",
+      "366/51",
+      "368/48",
+      "369/48",
+      "371/45",
+      "372/45",
+      "374/36",
+      "375/36",
+      "377/37",
+      "378/37",
+      "380/38",
+      "381/38",
+      "815/77",
+      "817/77",
+      "721/60",
+      "726/55",
+      "976/51"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((505310.7486279999720864 265796.57633299997542053, 505285.81766399997286499 265805.80557800002861768, 505275.20686600002227351 265809.73570700001437217, 505276.33522499998798594 265837.21392700000433251, 505279.29068400000687689 265845.19940300000598654, 505268.44222099997568876 265849.29262500000186265, 505253.20867700001690537 265855.04373799997847527, 505258.43917999998666346 265891.80125299998326227, 505264.50775099999736995 265933.6644220000016503, 505268.78746500000124797 265963.61882099998183548, 505280.51360000000568107 266045.76163500000257045, 505289.15130199998384342 266106.28900400002021343, 505289.18214900000020862 266116.03269399999408051, 505288.41999500000383705 266122.53899400000227615, 505308.98243700002785772 266119.92440499999793246, 505304.0009810000192374 266119.59151200001360849, 505300.38710699998773634 266117.65122300002258271, 505297.67487500002607703 266113.64007700001820922, 505288.91136600001482293 266052.67466399999102578, 505275.90965699998196214 265962.61377400002675131, 505374.47352900000987574 265948.72840999998152256, 505369.86803200002759695 265916.83956300001591444, 505367.04026300000259653 265897.51923299999907613, 505376.1792600000044331 265896.36719000001903623, 505367.03252100001554936 265829.930240000016056, 505362.11551099998177961 265830.67582599999150261, 505359.82443400000920519 265814.85616999998455867, 505364.69685000000754371 265813.02184200001647696, 505383.48947600001702085 265805.87377700000070035, 505398.49413700000150129 265800.19569700001738966, 505411.96751599997514859 265795.09783099999185652, 505423.64116800000192598 265790.68372299999464303, 505452.4968970000045374 265779.75280000001657754, 505510.03955599997425452 265757.973173999984283, 505599.16464999999152496 265724.39653899997938424, 505631.05389300000388175 265712.37554199999431148, 505659.75973099999828264 265701.44663899997249246, 505681.91252700000768527 265692.97425600001588464, 505678.60144400002900511 265686.04292300000088289, 505668.02407300000777468 265664.16822799999499694, 505663.0721239999984391 265666.03360299998894334, 505440.57400399999460205 265748.47186200000578538, 505414.54927299998234957 265758.11554199998499826, 505401.27332199999364093 265763.0308649999788031, 505389.72782400000141934 265767.31333199999062344, 505375.15906299999915063 265772.70572999998694286, 505340.95994199998676777 265785.3773640000144951, 505331.54257099999813363 265788.87172699999064207, 505327.37570799997774884 265790.40675999998347834, 505317.18270399997709319 265794.19136499997694045, 505310.7486279999720864 265796.57633299997542053))",
+    "site_description": "Teren działalności Huty Metali Nieżelaznych „Szopienice” (pierwotnie Huta Cynku „Wilhelmina” wybudowana w 1834 r.)."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2004-12-31",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "WPC REIT ROCK Sp. z o.o.",
+      "address": "WPC REIT ROCKSp. z o.o. ul.Garażowa5A 02-651 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "344/59",
+        "345/59",
+        "418/55",
+        "417/55",
+        "353/53",
+        "354/53",
+        "413/51",
+        "412/51",
+        "362/51",
+        "363/51",
+        "365/51",
+        "366/51",
+        "368/48",
+        "369/48",
+        "371/45",
+        "372/45",
+        "374/36",
+        "375/36",
+        "377/37",
+        "378/37",
+        "380/38",
+        "381/38",
+        "815/77",
+        "817/77",
+        "721/60",
+        "726/55",
+        "976/51"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-09-18",
+    "legal_basis": "art. 101l ust. 2 ustawy Poś",
+    "case_reference": "WSI.515.13.2018",
+    "decisions": [
+      {
+        "issue_date": "2019-01-18",
+        "reference": "WSI.515.13.2018.SA.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-11-20",
+        "reference": "WSI.515.24.2019.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "WPC REIT ROCK Sp. z o.o.",
+        "address": "WPC REIT ROCKSp. z o.o. ul.Garażowa5A 02-651 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

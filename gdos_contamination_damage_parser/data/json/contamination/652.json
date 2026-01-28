@@ -1,0 +1,67 @@
+{
+  "registry_id": 652,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Malbork (gmina miejska)",
+    "address": "ul. Koszykowa 9\tMalbork\t82-200",
+    "precinct": "0006 Malbork",
+    "parcel_numbers": [
+      "296/4\t6\tmiasto Malbork"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((504086.91 685784.95,504127.30 685788.14,504134.68 685781.14,504136.80 685760.81,504102.74 685757.63,504104.51 685736.26,504078.88 685733.08,504074.28 685764.96,504088.68 685767.43,504086.56 685784.60,504086.91 685784.95))",
+    "site_description": "dawniej stacja paliw, obecnie pawilon handlowy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "296/4\t6\tmiasto Malbork"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.76.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.76.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

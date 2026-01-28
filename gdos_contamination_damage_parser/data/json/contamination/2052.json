@@ -1,0 +1,111 @@
+{
+  "registry_id": 2052,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "tarnogórski",
+    "municipality": "Radzionków",
+    "address": null,
+    "precinct": "0001 Radzionków",
+    "parcel_numbers": [
+      "241303_1.0001.AR_19.10"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((493936.53804709401447326 280486.49099972797557712, 494016.56157786102266982 280453.81335216300794855, 494243.3995716649806127 280361.7050443590269424, 494251.13353665900649503 280381.65930805000243708, 494269.35935625300044194 280429.7059641579980962, 494286.75460648001171649 280485.84905577998142689, 494306.3496789259952493 280580.71988367900485173, 494035.39432182302698493 280716.43640732899075374, 493936.53804709401447326 280486.49099972797557712))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Burmistrz Miasta Radzionków",
+      "address": "ul. Męczenników Oświęcimia 42, 41-922 Radzionków",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-04-29",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.204.2022.MS2",
+    "decisions": [
+      {
+        "issue_date": "2022-10-05",
+        "reference": "WSI.513.204.2022.MS2.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2022-10-20",
+      "reason": null,
+      "appealed_decision_reference": null,
+      "resolution_reference": null,
+      "appellant_name": "Burmistrz Gminy Radzionków",
+      "appellant_address": null,
+      "resolution_date": "2023-11-09",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "utrzymanie w mocy"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,66 @@
+{
+  "registry_id": 1420,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 15.86,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "bolesławiecki",
+    "municipality": "Warta Bolesławiecka",
+    "address": null,
+    "precinct": "Tomaszów Bolesławiecki",
+    "parcel_numbers": [
+      "915/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((268367.48367259104270488 384750.57853119447827339, 268290.53192161530023441 384753.02324520330876112, 268291.90646804554853588 384704.04524027090519667, 268289.90996294526848942 384704.16415387857705355, 268275.48231982486322522 384497.12072497978806496, 267965.4902526579098776 384617.59358885791152716, 268049.55353164148982614 384829.25172924995422363, 268158.27847060933709145 385135.54786583594977856, 268218.85157641058322042 385137.43149991519749165, 268230.29703849361976609 385138.31943658459931612, 268237.84752245165873319 385137.9376205625012517, 268328.67934645613422617 385141.35546500701457262, 268367.48367259104270488 384750.57853119447827339)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Krajowy Ośrodek Wsparcia Rolnictwa",
+      "address": "ul. Karolkowa 30 01-207",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": "01.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II-3",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "623,5 mg/kg s.m.",
+      "area_ha": 15.86
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-06",
+    "legal_basis": "art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, w związku z art. 101c ust. 3 ustawy z dnia  27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.25.2020.KMA",
+    "decisions": [
+      {
+        "issue_date": "2020-12-17",
+        "reference": "WSI.513.25.2020.KMA.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

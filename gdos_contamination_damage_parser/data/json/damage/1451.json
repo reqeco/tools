@@ -1,0 +1,56 @@
+{
+  "registry_id": 1451,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "inowrocławski",
+    "municipality": "Inowrocław (gmina wiejska)",
+    "address": "Jaronty 24",
+    "precinct": "0015 Jaronty",
+    "parcel_numbers": [
+      "50/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((454692.6034564789 543886.2052585892,454762.98276390915 543906.8427998722,454842.8870903793 543663.6902302327,454764.57026707905 543638.02559557,454764.834850949 543639.348514881,454764.83485094906 543638.8193471618,454692.6034564789 543886.2052585892)))",
+    "site_description": "miejsce nielegalnego gromadzenia osadów ściekowych, demontażu pojazdów, złomu, kabli, paliwa alternatywnego oraz przetwarzania odpadów (cięcie, kruszenie)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2022-03-23",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "podejrzenie zanieczyszczenia powierzchni  ziemi  i wód podziemnych na skutek m.in. deponowania osadów ściekowych",
+  "total_area_ha": 1.8904,
+  "reporters": [
+    {
+      "name": "Gmina Inowrocław",
+      "address": "ul. Królowej Jadwigi 43, 88-100 Inowrocław",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Profi-Eko Sp. z o.o.",
+      "address": "ul. Kazimierza Odnowiciela 14, 88-100 Inowrocław",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2022-04-11",
+    "detection_date": "2022-03-23",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "postępowanie znak: WSS.512.11.2022.MW"
+}

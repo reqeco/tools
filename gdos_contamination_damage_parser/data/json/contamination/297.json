@@ -1,0 +1,134 @@
+{
+  "registry_id": 297,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0285,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "ul. Łęczycka 8, Bydgoszcz",
+    "precinct": "208",
+    "parcel_numbers": [
+      "115/52 obręb 208"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((436968.17661489523 585075.6062989738,437040.40800935606 585073.4896280728,437035.116332106 584926.6455843821,436943.570315675 584928.7622552821,436956.0057572151 585006.0207431335,436968.1766148953 585075.0771312425,436968.17661489523 585075.6062989738))",
+    "site_description": "północna część działki"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1995-01-01",
+    "description": "przed 1 stycznia 1995 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Sprzedaż hurtowa perfum i kosmetyków"
+  },
+  "land_holders": [
+    {
+      "name": "PHC CHEMIA sp. z o.o.",
+      "address": "ul. Łęczycka 8, 85-957 Bydgoszcz",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "46.45.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,336 mg/kg s.m.",
+      "area_ha": 0.0285
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,322 mg/kg s.m.",
+      "area_ha": 0.0285
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,231 mg/kg s.m",
+      "area_ha": 0.0285
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,296 mg/kg s.m",
+      "area_ha": 0.0285
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,335 mg/kg s.m",
+      "area_ha": 0.0285
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,33 mg/kg s.m",
+      "area_ha": 0.0285
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,209 mg/kg s.m",
+      "area_ha": 0.0285
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-04-25",
+    "legal_basis": "art. 101l Poś",
+    "case_reference": "WSI.515.1.2017.MW; WSS.515.3.2018.BW",
+    "decisions": [
+      {
+        "issue_date": "2017-08-08",
+        "reference": "WSI.515.1.2017.MW.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-07-06",
+        "reference": "WSS.515.3.2018.BW.3 (zmiana decyzji RDOŚ w Bydgoszczy z dnia 8.08.2017 r., znak: WSI.515.1.2017.MW.8)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 2 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PHC CHEMIA sp. z o.o.",
+        "address": "ul. Łęczycka 8, 85-957 Bydgoszcz",
+        "economic_activity_code": "46.45.Z"
+      }
+    ],
+    "planned_start": "2017-08-29",
+    "planned_end": "2018-08-15",
+    "actual_end": "2018-08-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięcie zanieczyszczonej ziemi, przekazanie jej do utylizacji, oraz wypełnienie wykopu czystym gruntem.",
+    "ecological_effect": "efekt ekologiczny zakłada uzyskanie standardów jakości gleby przewidzianych dla I grupy gruntów.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

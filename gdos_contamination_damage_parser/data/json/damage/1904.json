@@ -1,0 +1,101 @@
+{
+  "registry_id": 1904,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Kościelna 35, 60-537 Poznań",
+    "precinct": "0021 Jeżyce",
+    "parcel_numbers": [
+      "154/23"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((357628.7860378356 507638.9705136921,357627.33082658343 507634.60487996135,357644.1319018787 507630.6361220209,357643.0735664274 507622.6986061502,357648.10065982444 507633.4142525792,357629.05062169593 507640.0288491417,357628.7860378356 507638.9705136921))",
+    "site_description": "Teren byłej Stacji Paliw nr 122"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "Podczas badań stanu gruntu w sierpniu 2023 r. ustalono, że teren wykazuje zanieczyszczenie."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "jednostka samorządu terytorialnego (Miasto Poznań)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Teren wykorzystywany zgodnie z przeznaczeniem, magazynowanie i dystrybucja paliw spowodowała zanieczyszczenie terenu.",
+  "total_area_ha": 0.02,
+  "reporters": [
+    {
+      "name": "ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "96 mg/kg s.m.",
+      "area_ha": 0.0085
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "320 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "27 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "31 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "4,5 mg/kg s.m.",
+      "area_ha": 0.01
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2024-04-04",
+    "detection_date": "2023-08-31",
+    "decisions": [
+      {
+        "issue_date": "2024-05-14",
+        "reference": "WSS.511.2.2024.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

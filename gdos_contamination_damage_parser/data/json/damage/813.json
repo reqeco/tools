@@ -1,0 +1,108 @@
+{
+  "registry_id": 813,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "sokólski",
+    "municipality": "Krynki",
+    "address": "16-120 Krynki, ul. Zaułek Nowy 13",
+    "precinct": "110 Krynki",
+    "parcel_numbers": [
+      "4083/3",
+      "4083/2",
+      "4082",
+      "4081",
+      "4080",
+      "4079",
+      "4078",
+      "4077",
+      "4076",
+      "4075",
+      "4074",
+      "4073"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((818240.1034306041 609803.8269214239,818227.4034021536 609779.4852059595,818214.9282700266 609754.7466146946,818203.5511611789 609731.0663589034,818378.0442547477 609659.7610092824,818407.2807788455 609733.1830313988,818259.9075367546 609791.3914800296,818261.6273322855 609795.227946056,818240.1034306041 609803.8269214239))",
+    "site_description": "Tereny rolnicze wokół zakładu garbarskiego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "W 2012 r. pracownicy WIOŚ w trakcie kontroli interwencyjnej w miejscu prowadzenia działalności przez PPHU (...), tj. przy ul. Zaułek Nowy 13 w Krynkach dotyczącej nieprawidłowości w postępowaniu ze ściekami garbarskimi stwierdzili, iż właściciele pozbywali się nieczystości płynnych na pole uprawne zlokalizowane w sąsiedztwie zakładu. W próbkach gruntu pobranych do analizy stwierdzono przekroczenie dopuszczalnych zawartości chromu."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Ścieki garbarskie z zakładu PPHU (...) przy ul. Zaułek Nowy 13 w Krynkach były odprowadzane na sąsiednie pole uprawne. W próbkach gruntu pobranych do analizy stwierdzono przekroczenie dopuszczalnych zawartości chromu. Decyzją z dnia 11 stycznia 2013 r. znak: WSI.511.7.2012.JŁ uzgodniono warunki przeprowadzenia działań naprawczych szkody w środowisku w powierzchni ziemi. Mimo wykonania działań naprawczych nie osiągnięto zadowalającego efektu ekologicznego. Decyzją z dnia 18 kwietnia 2014 r. znak: WSI.511.1.2014.JŁ uzgodniono warunki prowadzenia działań naprawczych w roku 2014. Podjęte działania nie doprowadziły do osiągnięcia zakładanego efektu ekologicznego. W dniu 15 maja 2015 r. złożono wniosek o uzgodnienie warunków przeprowadzenia kolejnych działań naprawczych na przedmiotowym obszarze.",
+  "total_area_ha": 1.0,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Białymstoku",
+      "address": "ul. Ciołkowskiego 2/3, 15-264 Białystok",
+      "legal_form": "Organ rządowej administracji zespolonej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PPHU (…)",
+      "address": "(…)",
+      "economic_activity_code": "15.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Chrom (Cr)",
+      "concentration": "2000 mg/kg s.m.",
+      "area_ha": 1.0
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-05-15",
+    "detection_date": "2012-06-06",
+    "decisions": [
+      {
+        "issue_date": "2015-10-30",
+        "reference": "WPN.511.2.2015.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2014-04-18",
+        "reference": "WSI.511.1.2014.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-01-11",
+        "reference": "WSI.511.7.2012.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2018-09-30",
+    "actual_end": null,
+    "method": null,
+    "description": "W decyzji wskazano, iż \"Remediacja prowadzona będzie metodą fitoekstrakcji metali ciężkich z gleby polegającą na: - wysiewie nasion gorczycy (Sinapis sp.), na powierzchni działek wymienionych w pkt 1 niniejszej decyzji (z wyłączeniem obszaru zabudowań) – w kwietniu - zbiorze masy roślinnej - we wrześniu - przekazaniu zbiorów (stanowiących odpad niebezpieczny) do utylizacji wyspecjalizowanym jednostkom. Wymienione wyżej działania powtarzane będą przez okres 3 lat.\"",
+    "ecological_effect": "W decyzji wskazano, iż \"W wyniku remediacji zawartość chromu w glebie lub ziemi zostanie przywrócona do poziomu nieprzekraczającego obowiązujących standardów jakości dla gruntów grupy „B” określonych w załączniku do Rozporządzenia Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz.U. z 2002 r. nr 165, poz. 1359). W grupie B dopuszczalna wartość stężenia chromu w glebie lub ziemi na głębokości 0-0,3 m ppt wynosi 150 mg/kg suchej masy.\"  Jak wynika ze sprawozdania z badań nr 326019/19/SOK oraz nr 326020/19/SOK  z dnia 26.07.2019 r. (J.S. Hamilton Poland Sp. z o.o. Laboratorium Badawcze w Gdyni) zawartość chromu w pobranych z przedmiotowego terenu próbkach gleby wynosi 34,6 mg/kg suchej masy i 30,8+/-6,2 mg/kg suchej masy.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

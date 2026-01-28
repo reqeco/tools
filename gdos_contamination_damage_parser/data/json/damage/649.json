@@ -1,0 +1,96 @@
+{
+  "registry_id": 649,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "zamojski",
+    "municipality": "Zwierzyniec",
+    "address": "ul. Biłgorajska 2",
+    "precinct": "0001 Zwierzyniec",
+    "parcel_numbers": [
+      "062015_4.0001.AR_10.1379/1",
+      "062015_4.0001.AR_10.1379/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((780404.7631022091 312307.15051225666,780405.1599778912 312269.31501991395,780427.2527318227 312256.0858268272,780443.1277647065 312280.1629583435,780465.8819784931 312309.2671832526,780404.7631022091 312307.15051225666))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 1235 w Zwierzyńcu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1960-01-01",
+    "to": "2013-09-17",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw PKN ORLEN S.A. Nr 1235 w Zwierzyńcu przy ul. Biłgorajskiej 2.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3300 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-12-18",
+    "detection_date": "2013-08-17",
+    "decisions": [
+      {
+        "issue_date": "2014-02-13",
+        "reference": "WSI.511.15.2013.RSZ.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2014-02-20",
+    "planned_end": "2014-06-30",
+    "actual_end": "2014-05-12",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zmniejszenie ilości zanieczyszczeń",
+    "description": "W ramach działań naprawczych likwidację zanieczyszczenia wykonano metodą ex-situ, usuwając zanieczyszczone substancjami ropopochodnymi grunty, następnie wypełniając wykopy gruntami czystymi.",
+    "ecological_effect": "Doprowadzenie stanu gruntów na terenie stacji paliw do standardów jakości gleby i ziemi obowiązujących dla grupy C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

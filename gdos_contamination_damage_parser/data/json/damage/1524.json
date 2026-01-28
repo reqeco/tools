@@ -1,0 +1,67 @@
+{
+  "registry_id": 1524,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Bielsko-Biała",
+    "municipality": "Bielsko-Biała",
+    "address": "ul. Miodowa",
+    "precinct": "0032",
+    "parcel_numbers": [
+      "246101_1.0032.651/25"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((505160.33434399997349828 214724.60740300000179559, 505165.70093599997926503 214670.88194200000725687, 505170.20419700001366436 214646.21667600001092069, 505230.50853099999949336 214656.90606000000843778, 505229.31755999999586493 214671.75635099998908117, 505226.73701699997764081 214703.73544799999217503, 505190.9441019999794662 214708.08209700000588782, 505162.20656800002325326 214730.96193699998548254, 505160.33434399997349828 214724.60740300000179559))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Górnośląskie Towarzystwo Przyrodnicze im. A. Czudka z siedzibą w Katowicach",
+      "address": "ul. Św. Huberta 35 40-543 Katowice",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2018-12-20",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2021-11-25",
+        "reference": "WSI.512.12.2018.MB.16",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": {
+    "issue_date": null,
+    "case_number": "IV SA/Wa 1868/22",
+    "challenged_decision_reference": "DOA-WSzOP.512.1.2022.MG",
+    "ruling_type": "wyrok",
+    "verdict": "Jeszcze brak wyroku",
+    "court": "WSA w Warszawie",
+    "cassation_appeal_to_nsa": null
+  },
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,173 @@
+{
+  "registry_id": 855,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6503,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Stanisława Witkiewicza 10",
+    "precinct": "0027 miasta Elbląga",
+    "parcel_numbers": [
+      "66"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((528515.5880323405 704645.2952754144,528514.2651130205 704589.7326642852,528542.0464185905 704532.8471338432,528598.9319490206 704563.2742780345,528598.9319490207 704589.7326642843,528597.6090297106 704643.972356094,528608.1923842105 704674.3995002853,528543.3693379005 704662.4932264742,528520.8797095907 704646.6181947244,528515.5880323405 704645.2952754144))",
+    "site_description": "W latach 90. XX w. funkcjonował na tym terenie warsztat remontowy dla potrzeb pobliskiego Państwowego Gospodarstwa Rolnego."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "lata 90. XX w."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Naprawa i konserwacja metalowych wyrobów gotowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "66"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "40,3-71,6 mg/kg s.m.",
+      "area_ha": 0.2917
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2,3 mg/kg s.m.",
+      "area_ha": 0.095
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,239 mg/kg s.m.",
+      "area_ha": 0.095
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,837 mg/kg s.m.",
+      "area_ha": 0.095
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,214-3 mg/kg s.m.",
+      "area_ha": 0.5573
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,154-2,81 mg/kg s.m.",
+      "area_ha": 0.6503
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,133-0,359 mg/kg s.m.",
+      "area_ha": 0.2897
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,177-2,33 mg/kg s.m.",
+      "area_ha": 0.6503
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,262-3,37 mg/kg s.m.",
+      "area_ha": 0.6503
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,162-1,28 mg/kg s.m.",
+      "area_ha": 0.4774
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,224-1,57 mg/kg s.m.",
+      "area_ha": 0.4774
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,234-1,72 mg/kg s.m.",
+      "area_ha": 0.4774
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "7,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "7,07 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,58 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "7,96 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-08-19",
+        "reference": "WSI.513.28.2019.JJ.KPi.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101c ust. 3 pkt 1 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie, działając zgodnie z art. 101g ust. 1 Prawa ochrony środowiska, wykonał na terenie przedmiotowej  nieruchomości badania zanieczyszczenia gleby i ziemi w celu potwierdzenia występowania historycznego zanieczyszczenia powierzchni ziemi. Badania przeprowadzono 13 września 2022 r."
+}

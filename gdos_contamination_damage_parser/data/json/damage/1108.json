@@ -1,0 +1,88 @@
+{
+  "registry_id": 1108,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "świebodziński",
+    "municipality": "Szczaniec",
+    "address": "Myszęcin 84",
+    "precinct": null,
+    "parcel_numbers": [
+      "132/6 i 132/7 Myszęcin"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((271557.49558957375 496320.30561128445,271557.49558957375 496320.30561128445))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-07-02",
+    "from": null,
+    "to": null,
+    "description": "data sporządzenia spr. z badań"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "niekontrolowany wyciek oleju napędowego ze zbiornika naziemnego",
+  "total_area_ha": 0.015,
+  "reporters": [
+    {
+      "name": "WIOŚ Zielona Góra",
+      "address": "Siemiradzkiego 19 Zielona Góra",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) Transport",
+      "address": "(…)",
+      "economic_activity_code": "49.41.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "49100",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "12200",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-07-16",
+    "detection_date": "2018-07-02",
+    "decisions": [
+      {
+        "issue_date": "2018-09-26",
+        "reference": "WZŚ.512.12.2018.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-10-15",
+    "planned_end": "2018-11-30",
+    "actual_end": "2018-11-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja została wykonana metodą ex-situ",
+    "ecological_effect": "osiągnięto zamierzony efekt ekologiczny",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

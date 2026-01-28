@@ -1,0 +1,89 @@
+{
+  "registry_id": 557,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "żyrardowski",
+    "municipality": "Mszczonów",
+    "address": "Wymysłów k/Mszczonowa",
+    "precinct": null,
+    "parcel_numbers": [
+      "9/2",
+      "13/2",
+      "14/2",
+      "15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((603063.9182147996 456404.6824565632,603088.2599301545 456384.04491528403,603102.5474587269 456335.3614845844,603126.3600063619 456307.31559516303,603075.0307370211 456218.4154173536,603023.1722999609 456237.465455465,603023.1722999609 456237.465455465,603032.6973190127 456271.3321898645,603063.9182147996 456404.6824565632))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2012-10-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda polegająca na znieczyszczeniu gruntu substancjami ropopochodnymi w wyniku wycieku paliwa z nieczynnego zbiornika na terenie Stacji Paliw nr 4238 w Wyn=mysłowie k/Mszczonowa (działka nr ew. 9/2, 13/2, 14/2, 15)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A",
+      "address": "ul. Chemików 7 Płock",
+      "legal_form": "podmiot korzystąjcy ze srodowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 4238 w wymysłowie k/Mszczonowa-PKN ORLEN S.A.",
+      "address": "Wymysłów k/Mszczonowa",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-05-14",
+    "detection_date": "2012-10-01",
+    "decisions": [
+      {
+        "issue_date": "2013-05-11",
+        "reference": "WSI.511.2.2013.ES.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2015-03-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": "po przeprowadzonych działaniach teren spełnia określone prawem standardy",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "podmiot",
+    "covered_by_obligee": "TAK",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

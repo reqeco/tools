@@ -1,0 +1,145 @@
+{
+  "registry_id": 1434,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "kłodzki",
+    "municipality": "Nowa Ruda (gmina wiejska)",
+    "address": "Świerki",
+    "precinct": "Świerki",
+    "parcel_numbers": [
+      "704/3",
+      "704/4",
+      "Świerki"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((317157.49634037388022989 309227.28106014541117474, 317191.79990470095071942 309229.16070750582730398, 317212.00611382513307035 309164.62614813249092549, 317182.08839333895593882 309167.91553101316094398, 317161.25563509465428069 309168.38544285326497629, 317137.91668036981718615 309169.48190381348831579, 317157.49634037388022989 309227.28106014541117474)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "organ ochrony środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na terenie działek nr 704/3 i 704/4 w latach 2007-2012 funkcjonowała stacja tankowania pojazdów transportowych z kamieniołomu melafiru \"Świerki\". Obecnie stacja jest zlikwidowana, a jej lokalizacja jest niewidoczna w terenie. Z dużym prawdopodobieństwem podczas funkcjonowania opisywanej stacji doszło do zanieczyszczenia powierzchni ziemi olejem mineralnym oraz WWA.",
+  "total_area_ha": 0.33,
+  "reporters": [
+    {
+      "name": "Dolnośląskiego Wojewódzkiego Inspektoratu Ochrony Środowiska we Wrocławiu",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KSS „Świerki” Sp. z o.o.",
+      "address": null,
+      "economic_activity_code": "08.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "66,9-152 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,893-2,55 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,117-6,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,237-6,11 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,315-8,28 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,212-3,86 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,05-2,84 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,45-5,41 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,583-0,924 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,239-4,43 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1870 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2019-12-12",
+    "detection_date": "2019-09-25",
+    "decisions": [
+      {
+        "issue_date": "2020-09-07",
+        "reference": "WSI.512.31.2019.AS.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

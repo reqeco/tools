@@ -1,0 +1,87 @@
+{
+  "registry_id": 1905,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Dolna 1",
+    "precinct": "1-03-08",
+    "parcel_numbers": [
+      "34"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638962.621030421 483665.10685288627,638993.57734237 483677.80687828735,639000.8533985992 483677.9391702162,639006.1450758555 483674.631871935,639009.7169579995 483663.25476584584,639005.6159081241 483657.566212805,638993.577342369 483652.4068274852,638978.3637702502 483646.4536905745,638972.6752172034 483660.34434335586,638962.621030421 483665.10685288627))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-07-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W wyniku badań gruntu wykryto występowanie zanieczyszczeń. Brak konkretnych informacji o dacie powstania szkody",
+  "total_area_ha": 0.0158,
+  "reporters": [
+    {
+      "name": "Orlen S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Orlen S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0055
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.0103
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0103
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-03-12",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2024-07-29",
+        "reference": "WOOŚ-IV.511.7.2024.AGi.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

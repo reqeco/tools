@@ -1,0 +1,64 @@
+{
+  "registry_id": 1484,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": null,
+    "precinct": "3 Polkowice",
+    "parcel_numbers": [
+      "454/314 obręb 3 Polkowice"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((299618.1579619999974966 407812.35630400001537055, 299647.37835900002392009 407773.41961699997773394, 299718.45281799999065697 407683.60065600002417341, 299753.66117099998518825 407685.11903399997390807, 299770.13942700001643971 407698.42591200000606477, 299795.38372199999867007 407755.93083199998363853, 299824.50931900000432506 407817.02830800000810996, 299851.09284400002798066 407860.94250499998452142, 299865.73159899999154732 407884.00242500001331791, 299863.73136199999134988 407894.29497300001094118, 299842.08454299997538328 407914.81410600000526756, 299824.2078149999724701 407923.53205199999501929, 299775.90810900001088157 407904.72670300002209842, 299736.10545099998125806 407894.81857200001832098, 299687.15533600002527237 407875.83851099997991696, 299659.2077469999785535 407865.0114739999989979, 299618.1579619999974966 407812.35630400001537055))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2022-02-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W wyniku awarii rurociągu należącego do KGHM Polska Miedź S.A. Oddział Zakład Hydrotechniczny, na granicy działek o nr ewid. 400/2 i 454/314 obręb Miasto Polkowice 3 doszło do wycieku wody technologicznej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Nadleśnictwo Lubin",
+      "address": "ul. Spółdzielcza 18 58-300 Lubin",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A., Oddział Zakład Hydrotechniczny",
+      "address": "ul. Polkowicka 52  59-305 Rudna",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "373 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-03-16",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSI.512.8.2022.KMA"
+}

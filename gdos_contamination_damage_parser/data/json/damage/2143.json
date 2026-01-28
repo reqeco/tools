@@ -1,0 +1,50 @@
+{
+  "registry_id": 2143,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "augustowski",
+    "municipality": "Sztabin",
+    "address": null,
+    "precinct": "Hruskie",
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;LINESTRING(779481.5998659476 664154.0007721912,779519.9645304217 664209.563383447,779603.3084571334 664397.4179261373,779660.193994592 664552.1994859194,779658.871075141 664552.1994859148)",
+    "site_description": "droga gminna nr 102836B biegnąca z miejscowości Hruskie do miejscowości Krasnybór"
+  },
+  "occurrence_time": {
+    "date": "2025-02-21",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione",
+  "event_description": "Usunięcie na przełomie 2024 i 2025 roku znacznej ilości drzew z gat. wierzba rosnących wzdłuż drogi gminnej o nr 102836B, biegnącej z miejscowości Hruskie do miejscowości Krasnybór, gmina Sztabin, powiat augustowski. Aleja tych drzew stanowiła miejsce występowania wielu cennych gatunków ptaków m.in. dudków. Zgodnie z informacją przekazaną przez dr (...) w wyciętej alei w roku 2023 gniazdowały dwie pary dudków, jak również w sezonie 2021 i 2022 były zaobserwowane w tej lokalizacji.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Towarzystwo Biebrzańskie",
+      "address": "Osowiec Twierdza 58, 19-110 Osowiec",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "dudek Upupa epops"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

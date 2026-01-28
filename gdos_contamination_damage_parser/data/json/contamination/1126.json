@@ -1,0 +1,60 @@
+{
+  "registry_id": 1126,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Gołębia, Gdynia",
+    "precinct": "0026",
+    "parcel_numbers": [
+      "651/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((468416.3654644088 741302.9069085931,468492.16874101886 741351.4580473639,468521.9344255489 741296.9537716834,468510.82190331875 741294.4402249949,468485.9510202488 741291.2652186444,468458.4342985488 741292.191262167,468428.1394462888 741298.8058587248,468416.3654644088 741302.9069085931))",
+    "site_description": "teren dawnej Stoczni Gdynia (im. Komuny Paryskiej)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Naprawa i konserwacja statków i łodzi",
+    "current": "Obróbka mechaniczna elementów metalowych"
+  },
+  "land_holders": [
+    {
+      "name": "STALKONE sp. z o.o.",
+      "address": "ul. Gryfa Pomorskiego 48a/9, 81-572 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "651/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3",
+    "case_reference": "RDOS-GD-WZS.513.81.2019.TW.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-04",
+        "reference": "RDOŚ-Gd-WZS.513.81.2019.TW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

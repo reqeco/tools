@@ -1,0 +1,107 @@
+{
+  "registry_id": 2051,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "ropczycko-sędziszowski",
+    "municipality": "Iwierzyce",
+    "address": null,
+    "precinct": "nr 0004 Nockowa, nr 0007 Sielec",
+    "parcel_numbers": [
+      "181501_2.0007.406",
+      "181501_2.0004.1513"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((698190.00967745494563133 243633.26592750099371187, 698202.20858939795289189 243638.99345137100317515, 698224.05914148804731667 243532.25897537500713952, 698210.14737891498953104 243530.73637326998868957, 698190.00967745494563133 243633.26592750099371187)),((696079.1046612790087238 246494.10532418600632809, 696211.10412053798791021 246528.595472476008581, 696344.74203572096303105 246563.52959763500257395, 696357.2951000879984349 246545.94263212999794632, 696321.07595310604665428 246536.71128637398942374, 696292.78644528402946889 246529.41258840999216773, 696261.12688794697169214 246520.97346343900426291, 696203.41118139098398387 246506.24561845499556512, 696133.46542225498706102 246489.1999296460126061, 696083.39229512400925159 246476.66709976099082269, 696079.1046612790087238 246494.10532418600632809)))",
+    "site_description": "Bi - łąki trwale, Br - grunty rolne zabudowane, Ł - łąki trwałe, R - grunty orne"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-10-02",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W wyniku kontroli przeprowadzonej przez Podkarpackiego Wojewódzkiego Inspektora Ochrony Środowiska w Rzeszowie na terenie dz. o nr ewid. 406 w m. Sielec i dz. o nr ewid. 1513 w m. Nockowa, gdzie kontrolowany prowadzi punkt skupu złomu, stwierdzono magazynowanie odpadów w postaci części samochodowych oraz pojazdy w znacznym stanie zdekompletowania w miejscu na ten cel nieprzeznaczonym. Podczas oględzin stwierdzono nagromadzenie znacznej ilości odpadów, a w szczególności odpadów niebezpiecznych na nieutwardzonej powierzchni gruntu, bez zabezpieczenia przed wpływem czynników atmosferycznych. Stwierdzono nielegalny demontaż odpadów  i przetwarzanie odpadów bez zezwolenia. Przeprowadzono badania wskazują, że doszło do przekroczenia dopuszczalnych zawartości substancji w pobranych próbkach gleby.",
+  "total_area_ha": 0.6548,
+  "reporters": [
+    {
+      "name": "Podkarpacki Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Generała Mariana Langiewicza 26, 35-101 Rzeszów",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Firma Usługowa (…)",
+      "address": "(…)",
+      "economic_activity_code": "38.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-12-19",
+    "detection_date": "2024-11-13",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Sprawa znak: WSI.512.14.2024.KT"
+}

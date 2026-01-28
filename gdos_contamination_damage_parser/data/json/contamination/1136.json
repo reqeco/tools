@@ -1,0 +1,59 @@
+{
+  "registry_id": 1136,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. inż. Śmidowicza, 81-127  Gdynia",
+    "precinct": "0026 Gdynia",
+    "parcel_numbers": [
+      "516",
+      "517"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((470226.3439801891 742133.5679448675,470204.91268732905 742026.4114805581,470260.73988230916 742012.917703568,470260.4752984491 742017.151045368,470265.76697569917 742015.5635421881,470264.7086402492 742011.8593681175,470268.1482304593 742011.5947842579,470268.14823045913 742006.3031070074,470294.6066167092 741999.423926576,470313.6566548092 742094.144949358,470362.60466937925 742091.2345268689,470364.7213402793 742145.2096348181,470226.3439801891 742133.5679448675))",
+    "site_description": "teren Stoczni Marynarki Wojennej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Naprawa i konserwacja metalowych wyrobów gotowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "STAL COMLEX sp z o.o.",
+      "address": "ul. Merkurego 37, 81-601 Gdynia 81-601",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-12",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3",
+    "case_reference": "RDOŚ-Gd-WZS.513.144.2019.TW.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-03",
+        "reference": "RDOŚ-Gd-WZS.513.144.2019.TW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

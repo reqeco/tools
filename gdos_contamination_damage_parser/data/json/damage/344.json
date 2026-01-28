@@ -1,0 +1,116 @@
+{
+  "registry_id": 344,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "opolski",
+    "municipality": "Poniatowa",
+    "address": "ul. Opolska 3",
+    "precinct": "0001 Poniatowa",
+    "parcel_numbers": [
+      "061206_4.0001.403"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((714288.7510057956 372775.8101406647,714281.8718252545 372737.97464832384,714331.3490082461 372728.4496292807,714337.9636049238 372767.3434570739,714288.7510057956 372775.8101406647))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 1299 w Poniatowej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2008-05-01",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu środowiska gruntowego substancjami ropopochodnymi na terenie Stacji Paliw PKN ORLEN S.A. Nr 1229 w Poniatowej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "ORLEN EKO Sp. z o.o. Regionalny Zespół Prewencji Lublin",
+      "address": "ul. Narutowicza 63, 20-017 Lublin",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "141-1122 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1354-4710 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "13,4-18,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Styren",
+      "concentration": "2,81 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "16,9-27,8 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-09-07",
+    "detection_date": "2008-05-01",
+    "decisions": [
+      {
+        "issue_date": "2010-11-29",
+        "reference": "RDOŚ-06-WSI-6623-026-3/10/rsz",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2010-11-30",
+    "planned_end": "2010-12-31",
+    "actual_end": "2011-01-04",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W trakcie prac związanych z usunięciem podziemnej infrastruktury paliwowej, usunięto i wywieziono grunty zanieczyszczone substancjami ropopochodnymi (ex-situ), wykopy uzupełniono czystym kruszywem naturalnym.",
+    "ecological_effect": "Środowisko gruntowe zostało doprowadzone do standardów jakości gleby i ziemi dla obszaru typu C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

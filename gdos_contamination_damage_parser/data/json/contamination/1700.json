@@ -1,0 +1,76 @@
+{
+  "registry_id": 1700,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Ujastek",
+    "precinct": "20 Nowa Huta",
+    "parcel_numbers": [
+      "126103_9.0020.1/91"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((576958.1983961817 246673.717826223,576997.8859755627 246622.91772462148,576964.0192411618 246589.58015795238,576961.9025702619 246587.46348705236,576961.9025702617 246583.75931297243,576890.4649273797 246529.78420502413,576886.2315855797 246531.90087592322,576785.6897178272 246456.22989125457,576775.1063633268 246464.1674071243,576770.8730215266 246476.33826480433,576768.2271829067 246477.39660025388,576795.2147368774 246514.43834100384,576800.5064141274 246531.3717082031,576818.498116778 246559.94676535577,576853.952354359 246597.51767382212,576958.1983961817 246673.717826223))",
+    "site_description": "działka na terenie Huty Arcelor Mittal Poland S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres działalności Huty Arcelor Mittal Poland S.A.( dawniej Kombinat Metalurgiczny Huta im. Lenina, Huta im. T. Sendzimira), tj. od lat 50-tych XX wieku."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych"
+  },
+  "land_holders": [
+    {
+      "name": "ArcelorMittal Poland S.A.",
+      "address": "ul. T. Sendzimira 31-752 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-15",
+    "legal_basis": "art. 61 § 1 Kpa",
+    "case_reference": "ZS.513.43.2021.MKub",
+    "decisions": [
+      {
+        "issue_date": "2022-05-25",
+        "reference": "ZS.513.43.2021.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ArcelorMittal Poland S.A.",
+        "address": "ul. T. Sendzimira 31-752 Kraków",
+        "economic_activity_code": "24.10.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

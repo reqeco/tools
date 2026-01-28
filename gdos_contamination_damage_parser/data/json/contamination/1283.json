@@ -1,0 +1,114 @@
+{
+  "registry_id": 1283,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.013,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wałbrzych",
+    "municipality": "Wałbrzych",
+    "address": "ul. Przemysłowa",
+    "precinct": "Śródmieście 27",
+    "parcel_numbers": [
+      "755/5",
+      "obręb Śródmieście 27"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((308169.5772241176 325450.27142307255,308174.8898422861 325453.5788786467,308180.31087030424 325442.62294300273,308174.49028790276 325441.57285624184,308169.5772241176 325450.27142307255)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Prezydent Miasta Wałbrzycha",
+      "address": "ul. Magistracka 1 58-300 Wałbrzych",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "160 mg/kg s.m.",
+      "area_ha": 0.013
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "38 mg/kg s.m.",
+      "area_ha": 0.013
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "44000 mg/kg s.m.",
+      "area_ha": 0.013
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "630 mg/kg s.m.",
+      "area_ha": 0.013
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-06",
+    "legal_basis": "art. 61 par.4 Kpa w związku z art.101c ust. 3",
+    "case_reference": "WSI.513.24.2020",
+    "decisions": [
+      {
+        "issue_date": "2021-06-08",
+        "reference": "WSI.513.24.2020.JS.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-09-28",
+        "reference": "WSI.515.9.2023.JR.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Prezydent Miasta Wałbrzycha",
+        "address": "ul. Magistracka 1 58-300 Wałbrzych",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-10-01",
+    "planned_end": "2023-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne prowadzone będą metodą ex-situ poprzez wydobycie zanieczyszczonego gruntu  z powierzchni ok. 0,013 ha do głębokości 2,0 m ppt.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "WSI.515.9.2023.JR"
+}

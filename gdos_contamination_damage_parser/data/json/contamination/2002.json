@@ -1,0 +1,59 @@
+{
+  "registry_id": 2002,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wałbrzych",
+    "municipality": "Wałbrzych",
+    "address": "ul. 1 maja w Wałbrzychu",
+    "precinct": "Śródmieście nr 27",
+    "parcel_numbers": [
+      "478/3",
+      "obręb Śródmieście nr 27"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((307580.15345624298788607 325575.6948522690217942, 307525.41778705798787996 325579.75954288500361145, 307516.95684613997582346 325549.60098917601862922, 307514.51993199397111312 325530.10944683599518612, 307562.36270130099728703 325526.69828754698392004, 307568.45619437599088997 325526.25825803400948644, 307571.75471654802095145 325528.19220454600872472, 307574.63568065199069679 325531.29012224602047354, 307575.9846756819752045 325540.48817557701840997, 307580.15345624298788607 325575.6948522690217942))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-10",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.513.27.2021.KMA",
+    "decisions": [
+      {
+        "issue_date": "2022-04-19",
+        "reference": "WSI.512.27.2021.KMA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "WSI.513.27.2021.KMA"
+}

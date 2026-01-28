@@ -1,0 +1,155 @@
+{
+  "registry_id": 959,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.12,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "oświęcimski",
+    "municipality": "Oświęcim (gmina miejska)",
+    "address": "ul. Legionów, Oświęcim",
+    "precinct": "0001 Oświęcim",
+    "parcel_numbers": [
+      "121301_1.0001.1375/74",
+      "121301_1.0001.1376/9",
+      "121301_1.0001.1376/10",
+      "121301_1.0001.1512/41",
+      "121301_1.0001.1512/42",
+      "121301_1.0001.1512/43",
+      "121301_1.0001.1512/59",
+      "121301_1.0001.2565",
+      "121301_1.0001.2736"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((515218.8912031201 241084.18355767988,515129.99102532 241140.01075266954,515209.1016002 241258.27973920852,515296.94344255 241204.30463126022,515278.95173990005 241176.7879095599,515269.4267208501 241175.46499023866,515275.77673355 241171.7608161699,515218.8912031201 241084.18355767988))",
+    "site_description": "teren po dawnej garbarni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Wyprawa skór, garbowanie; wyprawa i barwienie skór futerkowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Specbruk Sp. z o.o. Sp. komandytowa",
+      "address": "ul. Oświęcimska 69, 32-590 Libiąż (władający zobowiązany do remediacji)",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "121301_1.0001.1375/74",
+        "121301_1.0001.1376/10",
+        "121301_1.0001.1376/9",
+        "121301_1.0001.1512/41",
+        "121301_1.0001.1512/42",
+        "121301_1.0001.1512/43",
+        "121301_1.0001.1512/59",
+        "121301_1.0001.2565",
+        "121301_1.0001.2736"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "Trei Real Estate Poland Sp. z o.o.",
+      "address": "ul. Wspólna 47/49, 00-684 Warszawa  (aktualny władający terenem)",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "121301_1.0001.1375/74",
+        "121301_1.0001.1376/9",
+        "121301_1.0001.1376/10",
+        "121301_1.0001.1512/41",
+        "121301_1.0001.1512/42",
+        "121301_1.0001.1512/43",
+        "121301_1.0001.1512/59",
+        "121301_1.0001.2565",
+        "121301_1.0001.2736"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "470 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,8 i 10 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "94 i 150 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "190 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-15",
+    "legal_basis": "61 § 1 Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.146.2019.MK",
+    "decisions": [
+      {
+        "issue_date": "2019-11-04",
+        "reference": "ZS.513.146.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-04-23",
+        "reference": "ZS.515.3.2020.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Specbruk Sp. z o.o. Sp. komandytowa",
+        "address": "ul. Oświęcimska 69, 32-590 Libiąż (władający zobowiązany do remediacji)",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Trei Real Estate Poland Sp. z o.o.",
+        "address": "ul. Wspólna 47/49, 00-684 Warszawa  (aktualny władający terenem)",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2020-04-01",
+    "planned_end": "2022-12-01",
+    "actual_end": "2021-02-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczonej gleby i ziemi z remediowanego terenu (remediacja ex-situ)",
+    "ecological_effect": "W wyniku remediacji zawartości substancji powodujących ryzyko w glebie i ziemi, spełniają wymagania dla I grupy gruntów, ustalone w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) – w zakresie substancji dla których stwierdzono przekroczenia.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

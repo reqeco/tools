@@ -1,0 +1,149 @@
+{
+  "registry_id": 1368,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.795,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": null,
+    "precinct": "0008 Dębogórze",
+    "parcel_numbers": [
+      "35/11",
+      "36/5",
+      "36/6",
+      "37/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((465009.3826390176 749094.2869907711,465155.4329311176 749088.9953135196,465157.54960201756 749092.6994875921,465240.0997671176 749088.9953135196,465308.89157136774 749050.8952373201,465316.8290872377 749005.386812971,465220.5205612875 749012.2659933902,465215.75805176754 748905.9032806698,465249.09561843774 748863.5698626712,465343.8166412176 748857.7490176922,465358.6333375177 748759.8529885719,465276.6123401377 748552.4192403611,465295.6623782377 748392.6105874116,465201.99969091755 748367.7397043407,465108.86617131764 748346.5729953423,465071.2952628376 748672.0111462111,465043.2493734176 748912.2532933708,464999.32845223753 748893.2032552697,464992.44927181746 748737.0987763898,464889.2615654375 748674.6569848405,464927.36164163746 748374.61888476,465023.1409998677 748326.9937895108,465108.8661713177 748347.6313307919,465111.5120099376 748346.043827611,465009.3826390176 749094.2869907711))",
+    "site_description": "północno-zachodni fragment części B terenu Bazy Paliw nr 21 PERN SA"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "zanieczyszczenie stwierdzone w badaniach z 1999 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Transport rurociągowy pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PERN SA",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "35/11",
+        "36/5",
+        "36/6",
+        "37/8"
+      ],
+      "economic_activity_code": "49.50.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "342 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "5200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1790 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "65,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "178 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "463 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "844 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "20,9 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-26",
+    "legal_basis": "101l",
+    "case_reference": "RDOŚ-Gd-WZS.515.24.2019.IK.2",
+    "decisions": [
+      {
+        "issue_date": "2021-08-26",
+        "reference": "RDOŚ-Gd-WZS.515.24.2019.IK.MJ.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "101l ust. 4 ustawy p.o.ś., 101q ust. 1 pkt. 1 i pkt2 lit. b i c ustawy p.o.ś, art. 105  § 1 i 162 § 1 pkt. 1 k.p.a.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-01-03",
+        "reference": "RDOŚ-Gd-WZS.515.24.2019.IK.MJ.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4, 155k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PERN SA",
+        "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+        "economic_activity_code": "49.50.B"
+      }
+    ],
+    "planned_start": "2021-10-01",
+    "planned_end": "2041-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "sekcja V warstwa powierzchniowa- bioremediacja; poniżej warstwy 0,25 m samooczyszczenie",
+    "ecological_effect": "Osiągnięcie w glebie i ziemi, dopuszczalnej zawartości substancji powodujących ryzyko dla gr III",
+    "effect_assessment": null
+  },
+  "notes": "decyzja z 26.01.2021 r. została zmieniona w zakresie terminu rozpoczęcia bioremediacji, decyzją z dnia 03.01.2022"
+}

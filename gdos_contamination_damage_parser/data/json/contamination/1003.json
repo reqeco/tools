@@ -1,0 +1,319 @@
+{
+  "registry_id": 1003,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.2,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "sławieński",
+    "municipality": "Sławno (gmina miejska)",
+    "address": "ul. Dworcowa 9 Sławno",
+    "precinct": "Sławno 3",
+    "parcel_numbers": [
+      "36/1",
+      "36/2",
+      "660/3",
+      "21/9",
+      "36/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((348194.80644079099874943 723890.39290865301154554, 348194.2255935330176726 723886.0925822330173105, 348277.13191057497169822 723884.95616068504750729, 348312.8295230150106363 723884.91946941602509469, 348449.00656104000518098 723890.01483348000328988, 348501.10236480698222294 723891.64482604595832527, 348506.07070414401823655 723891.64430396002717316, 348507.01866159599740058 723868.97839070798363537, 348302.55630927201127633 723862.61270631197839975, 348302.66125774499960244 723856.62320777005515993, 348302.76953540800604969 723850.16381818405352533, 348013.61249172402312979 723841.49107025098055601, 348013.87807144102407619 723836.95880514499731362, 347850.38096387899713591 723831.93119169294368476, 347825.32503076700959355 723832.33670718898065388, 347829.0419311830191873 723876.58927090605720878, 347850.11290112498681992 723877.14999694004654884, 347886.89195519400527701 723878.64744665997568518, 347927.25052465597400442 723881.60360338003374636, 347958.60495403100503609 723884.05773404403589666, 347967.8220996399759315 723884.7766642679926008, 347982.58338304999051616 723885.91675937501713634, 348068.96548370498931035 723888.78966956795193255, 348074.45397466700524092 723888.81175677303690463, 348078.41702859499491751 723887.0061034900136292, 348098.05790175998117775 723887.5271414399612695, 348194.80644079099874943 723890.39290865301154554)),((348205.64718247199198231 723890.69892987096682191, 348194.80644079099874943 723890.39290865301154554, 348193.79253794101532549 723895.02576100395526737, 348189.63092767598573118 723894.81490237603429705, 348183.98794174799695611 723900.8130079850088805, 348184.05717244802508503 723909.91899985994677991, 348182.24304727197159082 723965.94613549404311925, 348196.39443461201153696 723966.37512174097355455, 348192.57947503798641264 723997.6388852649834007, 348196.12291654897853732 724000.07777750503737479, 348214.48803722602315247 724005.09542629995848984, 348230.20697441697120667 724008.91103558300528675, 348230.19517905300017446 723990.46733225404750556, 348229.54612153698690236 723969.38355187105480582, 348232.94402414897922426 723969.31534315005410463, 348233.89277979801408947 723990.3848740910179913, 348234.66205001500202343 724010.07741029502358288, 348246.78855727601330727 724010.1152677140198648, 348252.79137999902013689 724009.75018184399232268, 348260.598489789001178 724009.72937055898364633, 348269.01796104101231322 724008.48027535702567548, 348271.08288563298992813 724008.17106751899700612, 348308.31972844200208783 724004.59369767596945167, 348315.52148480602772906 724004.18160924303811044, 348318.12853208597516641 724004.03465232905000448, 348329.22822248202282935 724006.38631574297323823, 348336.68297290400369093 724007.60009558801539242, 348347.90547353599686176 724017.19760632200632244, 348356.28062196000246331 724025.50596226798370481, 348359.10685785999521613 724028.12497423496097326, 348360.09800843702396378 724024.00227621395606548, 348365.85939514002529904 723996.75955520197749138, 348374.67225238401442766 723952.07931959605775774, 348380.06560861697653309 723924.26201491698157042, 348385.27289660298265517 723896.71726118202786893, 348385.35462298197671771 723896.13629434199538082, 348372.67606816900661215 723895.23655727598816156, 348350.6149350039777346 723894.63989889004733413, 348270.76074035000056028 723892.47409628296736628, 348205.64718247199198231 723890.69892987096682191)))",
+    "site_description": "Teren byłej stacji paliw Orlen Morena"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN PALIWA Sp. z o.o.",
+      "address": "Widełka 869, 36-145 Widełka",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "36/1",
+        "660/3",
+        "36/3",
+        "36/2",
+        "21/9"
+      ],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "256 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "2,46 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "2,56 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,81 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "4,16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,44 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "2,78 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "4,16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,55 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,61 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "2,03 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "6,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "437 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "3,86 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "4,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "2,81 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "3,21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,38 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,38 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,89 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,34 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,48 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "8,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "11,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "225 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3930 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "12,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,36 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "11,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "36,4 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-10-16",
+    "legal_basis": "101 l ust 2 POŚ",
+    "case_reference": "WONS-NS.515.6.2019.AS",
+    "decisions": [
+      {
+        "issue_date": "2020-02-07",
+        "reference": "WONS-NS.515.6.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-02-11",
+        "reference": "WONS-NS.513.17.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ORLEN PALIWA Sp. z o.o.",
+        "address": "Widełka 869, 36-145 Widełka",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2020-06-01",
+    "planned_end": "2024-05-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Sposób przeprowadzenia remediacji powierzchni ziemi.  1.\tCelem orzeczonego sposobu remediacji jest usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodującej ryzyko dla gruntów grupy I, II i IV – odpowiednio do wypisu i wyrysu z rejestru gruntów.  2.\tRemediacja powierzchni ziemi w trybie in-situ dla gruntów grupy I, warstwa przypowierzchniowa 0,0-0,25 m p.p.t., sekcja S2, S3, S4 (łączna powierzchnia ok. 2 425,0 m2) - będzie polegała na usunięciu zanieczyszczeń w wyniku wspomagania naturalnych procesów bioremediacyjnych zachodzących w środowisku, poprzez jej intensywne napowietrzanie i zastosowanie biopreparatów.  Proces remediacji będzie składał się z prac agrotechnicznych w celu spulchnienia gleby i aplikacji biopreparatu na zaoraną powierzchnię gruntu.  Spulchnianie gleby będzie się odbywać 4 razy do roku, przy czym, raz do roku zostanie zastosowany biopreparat w ilości 1 dm3/m2.  W celu monitoringu osiąganego efektu ekologicznego, po każdym roku prowadzenia prac pobrane będą kontrolne próby gruntów w ilości 3 zbiorczych prób gruntów (po jednej dla każdej sekcji). Analizy laboratoryjne wykonane zostaną w zakresie zawartości olejów oraz wielopierścieniowych węglowodorów aromatycznych.  3.\tRemediacja powierzchni ziemi w trybie in-situ dla gruntów grupy II, warstwa przypowierzchniowa 0,0-0,25 m p.p.t., sekcja S1, S6-S10 (łączna powierzchnia ok. 10 947,0 m2) - będzie polegała na usunięciu zanieczyszczeń w wyniku wspomagania naturalnych procesów bioremediacyjnych zachodzących w środowisku, poprzez jej intensywne napowietrzanie.  Proces remediacji będzie polegał na spulchnieniu gleby do gł. min. 0,25 m p.p.t.  Zabiegi spulchniania warstwy przypowierzchniowej prowadzone będą na całej powierzchni 4 razy w roku przez okres 4 lat. W celu monitoringu osiąganego efektu ekologicznego, po każdym roku prowadzenia prac pobrane będą kontrolne próby gruntów w ilości 6 zbiorczych prób gruntów (po jednej dla każdej sekcji).  Analizy laboratoryjne wykonane zostaną w zakresie zawartości benzyn i olejów oraz wielopierścieniowych węglowodorów aromatycznych.  4.\tRemediacja powierzchni ziemi w trybie in-situ dla gruntów grupy I, zanieczyszczenie na głębokości przekraczającej 0,25 m p.p.t., rejon otworów S12, S14 i S15 (zaleganie zanieczyszczonych gruntów na obszarze ok. 1 597,0 m2  i na  głębokościach od 0,25 m do 5,0 m p.p.t.) – będzie polegała na usunięciu zanieczyszczeń w wyniku wspomagania naturalnych procesów bioremediacyjnych zachodzących w środowisku, poprzez dawkowanie bioroztworu i napowietrzanie gruntów za pomocą otworów aplikacyjno-napowietrzających.  W zależności od głębokości zalegania zanieczyszczenia, zostanie wykonanych 160 otworów aplikacyjno-napowietrzających, których długość będzie wynosić do głębokości od 0,7 do 4,5 m p.p.t. W wykonanych otworach zainstalowane będą rury PCV o średnicy 50 mm owinięte siatką filtracyjną.  Aplikacja biopreparatu, posiadającego atest PZH, prowadzona będzie okresowo z częstotliwością jeden raz na kwartał w ilości 10 dm3 na otwór aplikacyjny przez okres 4 lat.  W celu monitorowania postępu remediacji in situ w tym obszarze, po każdym roku prowadzenia prac wykonanych będzie osiem otworów badawczych do głębokości max. 6,0 m p.p.t., z których do analiz laboratoryjnych pobierane będą kontrolne próby gruntów w ilości po 4 pojedyncze próby gruntów z przedziałów głębokości 0,25-1,0 m p.p.t., 1,0-3,0 m p.p.t., 3,0-5,0 m p.p.t. oraz 5,0-6,0 m p.p.t. z każdego z otworów w zależności od głębokości zalegania zanieczyszczenia.  Analizy laboratoryjne pobranych prób gruntów wykonane zostaną w zakresie benzyn i olejów oraz węglowodorów aromatycznych.  4a.\tZ uwagi na występujące od strony południowej tego obszaru ograniczenia techniczne, niemożliwe jest umieszczenie otworów filtracyjno-aplikujących na obszarze o powierzchni ok. 194,0 m2, obejmującej istniejącą asfaltową drogę dojazdową do terenu bazy, ogrodzenie i szpaler dużych drzew wzdłuż ogrodzenia, jednakże ze względu na charakter remediacji in situ przewiduje się oddziaływanie na ten obszar rekultywacji ze strony okolicznych otworów aplikująco-napowietrzających.  5.\tRemediacja powierzchni ziemi w trybie in-situ dla gruntów grupy IV, zanieczyszczenie na głębokości przekraczającej 0,25 m p.p.t., rejon otworu  S2 (zaleganie zanieczyszczonych gruntów na obszarze ok. 146,0 m2 i na  głębokościach od 1,0 m do 5,0 m p.p.t.) – będzie polegała na usunięciu zanieczyszczeń w wyniku wspomagania naturalnych procesów bioremediacyjnych, zachodzących w środowisku, poprzez dawkowanie bioroztworu i napowietrzanie gruntów za pomocą otworów aplikacyjno-napowietrzających. W tym celu wykonanych zostanie 10-12 otworów aplikacyjno-napowietrzających do głębokości od 3,0 do 5,0 m p.p.t. W wykonanych otworach zainstalowane będą rury PCV o średnicy 50 mm i długości 3,0-5,0 m z filtrem w interwale od 1,0 m do końca, owinięte siatką filtracyjną.  Aplikacja biopreparatu, posiadającego atest PZH, prowadzona będzie okresowo z częstotliwością jeden raz na kwartał w ilości 20-25 dm3 na otwór aplikacyjny przez okres 4 lat.  W celu monitorowania postępu procesu remediacji in situ w tym obszarze, po każdym roku prowadzenia prac wykonywane będą dwa otwory badawcze do głębokości min. 6,0 m p.p.t., z których do analiz laboratoryjnych pobierane będą kontrolne próby gruntów w ilości po 3 pojedyncze próby gruntów z przedziałów głębokości 1,0-3,0 m p.p.t., 3,0-5,0 m p.p.t. oraz 5,0-6,0 m p.p.t. z każdego z otworów.  Analizy laboratoryjne pobranych prób gruntów wykonane zostaną w zakresie benzyn i olejów oraz węglowodorów aromatycznych.  6.\tPobór prób gruntu do analiz oraz analizy laboratoryjne muszą być wykonane zgodnie z zapisami Rozporządzenia Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

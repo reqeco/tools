@@ -1,0 +1,275 @@
+{
+  "registry_id": 1599,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.78,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Mieszczańska",
+    "precinct": "Plac Grunwaldzki",
+    "parcel_numbers": [
+      "3/43",
+      "3/51",
+      "3/45",
+      "3/12",
+      "3/38",
+      "3/37",
+      "3/39",
+      "3/62",
+      "AM-21",
+      "obręb Plac Grunwaldzki"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((361585.03647675074171275 363451.67139679187675938, 361599.15140060358680785 363467.84547404252225533, 361599.47746109234867617 363467.9722743125166744, 361598.03382781200343743 363466.56486432382371277, 361599.3172285242471844 363467.90996215387713164, 361588.2973751820391044 363491.09884105622768402, 361591.72451114020077512 363509.45083491771947592, 361590.5421207778272219 363521.86593372240895405, 361605.61759789782809094 363527.18669035303173587, 361614.48552561551332474 363519.50115299772005528, 361615.96351356845116243 363487.87221080478047952, 361625.42263646726496518 363486.98541803302941844, 361647.29685817076824605 363498.51372406596783549, 361656.46038347901776433 363479.89107585890451446, 361645.22767503670183942 363474.27472163771744817, 361631.55259119102265686 363479.34656050626654178, 361607.1626035085064359 363466.23112380690872669, 361591.53976264601806179 363425.1316222024615854, 361608.01932832138845697 363392.87453512940555811, 361617.80132320284610614 363372.26965812593698502, 361681.66642640810459852 363246.32582754082977772, 361651.31697182590141892 363208.80171078257262707, 361605.36848509416449815 363209.92602415662258863, 361545.74831181770423427 363329.72432225104421377, 361544.71626372030004859 363331.01789741963148117, 361537.7389835441717878 363339.76872056513093412, 361550.78424484375864267 363349.79118630109587684, 361545.63084093644283712 363353.8218475678586401, 361545.63084093644283712 363353.8218475678586401, 361587.62309457082301378 363370.40911824471550062, 361563.05154485313687474 363424.02313123765634373, 361568.25315103877801448 363430.6926966505125165, 361565.74566619709366933 363432.01739194249967113, 361568.96349666494643316 363435.84703486121725291, 361570.73708220844855532 363434.22124811296816915, 361585.03647675074171275 363451.67139679187675938)))",
+    "site_description": "północna cześć wyspy Kępa Mieszczańska"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zarząd Zieleni Miejskiej",
+      "address": "al. Śląska 1, 54-118 Wrocław",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,7-2,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "230-490 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "27-61mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "57-400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "6,5-13 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,3-0,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,3- 1,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,4- 20 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,5-21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,4-16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,5-6,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,4-14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,2-2,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,3-13,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "350-520 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "350-1400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "120-1300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "310-19000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "11,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "5,1-11 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,5-30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "6,5-39 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,2-17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,4-16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,4-31,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "8,0-24,0mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "7,1-20,0 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-04-21",
+    "legal_basis": "art.61 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.5.2022.JS",
+    "decisions": [
+      {
+        "issue_date": "2022-11-10",
+        "reference": "WSI.515.5.2022.JS.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Zarząd Zieleni Miejskiej",
+        "address": "al. Śląska 1, 54-118 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "WSI.515.5.2022.JR"
+}

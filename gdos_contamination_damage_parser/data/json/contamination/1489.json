@@ -1,0 +1,74 @@
+{
+  "registry_id": 1489,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": null,
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.1163/7",
+      "120305_4.0013.1165/1",
+      "120305_4.0013.1167/1",
+      "120305_4.0013.1168/1",
+      "120305_4.0013.1169",
+      "120305_4.0013.1162",
+      "120305_4.0013.1161"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((533256.7779188908 254178.3477689717,533177.402760141 254095.79760387354,533261.540428411 254062.9892049227,533409.1782236911 254231.7937091915,533316.5738718109 254237.08538644295,533309.1655236608 254214.33117427304,533289.5863178411 254194.7519684434,533272.123782911 254171.99775627255,533256.7779188908 254178.3477689717) , (533184.2819405609 254235.49788327236,533283.7654728609 254234.96871554386,533257.836254341 254187.87278802227,533251.4862416409 254190.5186266424,533226.6153585609 254164.58940812293,533189.0444500908 254169.35191764217,533192.748624161 254188.4019557424,533185.3402760108 254197.39780707192,533177.931927861 254186.81445257273,533164.7027347409 254194.75196844246,533184.2819405609 254235.49788327236))",
+    "site_description": "teren byłych Zakładów Metalurgicznych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "55.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-08",
+    "legal_basis": "Art. 61. § 1 Kodeks postępowania administracyjnego",
+    "case_reference": "ZS.513.118.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2019-09-05",
+        "reference": "ZS.513.118.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-09-30",
+      "reason": "Brak przeprowadzenia badań gleby i ziemi.",
+      "appealed_decision_reference": "ZS.513.118.2019.MKub",
+      "resolution_reference": "DOA-WSzOP.513.59.2019.MBA",
+      "appellant_name": "(…)",
+      "appellant_address": "(…)",
+      "resolution_date": "2021-10-14",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "utrzymanie w mocy decyzji Regionalnego Dyrektora Ochrony Środowiska w Krakowie."
+    }
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

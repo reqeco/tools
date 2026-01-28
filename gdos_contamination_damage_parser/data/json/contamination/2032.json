@@ -1,0 +1,392 @@
+{
+  "registry_id": 2032,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.155,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": null,
+    "precinct": "0170",
+    "parcel_numbers": [
+      "1/18",
+      "1/10",
+      "1/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((434390.74720400001388043 585945.13990199996624142, 434387.78247999999439344 585928.23931800003629178, 434380.92403900000499561 585932.41316600004211068, 434376.09734199999365956 585935.34921300003770739, 434365.29001400002744049 585915.84942999994382262, 434356.08225400000810623 585899.23593299998901784, 434311.37506499997107312 585925.83797600003890693, 434297.77461099997162819 585933.93416599999181926, 434287.0510939999949187 585939.76123399997595698, 434219.98248000000603497 585976.24103699997067451, 434236.54291299998294562 586004.74618699995335191, 434260.47899299999698997 586042.49391600000672042, 434266.75445200002286583 586052.40155299997422844, 434284.13671799999428913 586077.48683299997355789, 434316.2708870000205934 586125.39520999998785555, 434325.99815499997930601 586129.10754700005054474, 434376.23854599997866899 586116.52155199996195734, 434378.08644899999490008 586114.28679000004194677, 434383.09135399997467175 586107.65000200003851205, 434388.77309899998363107 586100.09419199998956174, 434394.1866440000012517 586091.94241100002545863, 434397.15232300001662225 586086.72344400000292808, 434399.27406700002029538 586082.62573800003156066, 434402.64592899999115616 586076.43155700003262609, 434405.42204400000628084 586069.80590399994980544, 434405.74311699997633696 586068.46205400000326335, 434389.15604400000302121 586067.39430799998808652, 434385.8076279999804683 586055.22684599994681776, 434382.64966799999820068 586045.24568900000303984, 434388.24185200000647455 585989.7637989999493584, 434393.49725700000999495 585968.1406010000500828, 434391.44898799998918548 585951.01731699996162206, 434390.74720400001388043 585945.13990199996624142))",
+    "site_description": "teren budowy kampusu Akademii Muzycznej im. Feliksa Nowowiejskiego w Bydgoszczy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1980-09-01",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja cegieł, dachówek i materiałów budowlanych, z wypalanej gliny",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Akademia Muzyczna im. Feliksa Nowowiejskiego w Bydgoszczy",
+      "address": "ul. Juliusza Słowackiego 7 85-008 Bydgoszczy",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "1/18",
+        "1/14",
+        "1/10"
+      ],
+      "economic_activity_code": "85.42.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "22,2-91,2 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "363-459 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "653 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,2 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "32-1100 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,927-3,26 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,188-1,19 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,859-3,75 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,982-4,15 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,823-3,17 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,771-2,68 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,57-2,12 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,117-0,463 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,675-2,42 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,122-1,14 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "389,9-1114 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "392-450,7 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "203,5-300,5 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "207 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "7,81-126 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "33,6-478 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "9,11-258 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "9,21-237 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "8,36-116 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,02-104 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,06-59,9 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "16,9-20,1 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,95-66,4 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "11,4-416 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "606,7-1626 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "51,85-90,93 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "520,7-5021 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "310-1894 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "115,1-1870 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "20,9-73 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "26,7-150 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "24-110 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "27,7-139 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "21,9-75,3 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "55,5-65,4 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "31,4-39,2 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "35,6-44,9 mg/kg s.m.",
+      "area_ha": 1.155
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "35,5 mg/kg s.m.",
+      "area_ha": 1.155
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-06-24",
+    "legal_basis": "101c ust. 3 POŚ",
+    "case_reference": "WSS.513.2.2024.SS",
+    "decisions": [
+      {
+        "issue_date": "2024-07-19",
+        "reference": "WSS.513.2.2024.SS.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-06-27",
+        "reference": "WSS.515.3.2024.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Akademia Muzyczna im. Feliksa Nowowiejskiego w Bydgoszczy",
+        "address": "ul. Juliusza Słowackiego 7 85-008 Bydgoszczy",
+        "economic_activity_code": "85.42.B"
+      }
+    ],
+    "planned_start": "2024-08-09",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń",
+    "description": "Zmniejszenie ilości zanieczyszczeń poprzez remediację ex-situ polegającą na usunięciu przypowierzchniowej warstwy gruntu z głębokości 0-0,25 m p.p.t. oraz z warstwy przekraczającej 0,25 m p.p.t. stanowiącej urobek wydobyty podczas robót ziemnych związanych z uzbrojeniem i zagospodarowaniem terenu oraz zabezpieczeniem zbiornika wodnego. Średnia miąższość usuwanego gruntu w obrębie całego obszaru remediacji wyniesie ok. 1m.",
+    "ecological_effect": "przywrócenie standardów jakości gleby i ziemi dla gruntów grupy I do głębokości usuniętego gruntu.",
+    "effect_assessment": null
+  },
+  "notes": "postępowanie ws. dokonania wpisu do rejestru hzpz WSS.513.2.2024.SS postępowanie ws. ustalenia planu remediacji WSS.515.3.2024.SS"
+}

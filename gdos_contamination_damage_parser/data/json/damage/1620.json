@@ -1,0 +1,59 @@
+{
+  "registry_id": 1620,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Ks. Szulczyka/ul. Sóweczki",
+    "precinct": "3-15-10",
+    "parcel_numbers": [
+      "158",
+      "47"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((653343.8505908843 481671.8789674826,653332.4734847678 481654.1518487036,653362.7683370939 481634.70493480377,653374.6746109317 481648.46329565253,653374.4100270713 481652.69663745165,653343.8505908843 481671.8789674826))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2020-11-15",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wylanie żrącej substancji na obszarze działki nr 47 z obrębu 3-15-10, brak badań z powodu właściwości silnie żrących wylanej substancji  Bezpośrednie zagrożenie szkodą w środowisku - wylanie silnie żrącej substancji (prawdopodobnie kwasu fosforowego) na obszarze działki nr 47 z obrębu 3-15-10. Działania zapobiegawcze, przeprowadzone przez władającego gruntem, dotyczą wyeliminowania emisji i wystąpienia szkody w środowisku z powodu działania substancji stwarzającej ryzyko, zgodnie z jej definicją zawartą w art 3 pkt 10a ustawy szkodowej",
+  "total_area_ha": 0.012,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Bartycka 110A 00-716 Warszawa",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2020-11-15",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2021-02-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usuniecie zanieczyszczonej warstwy ziemi",
+    "ecological_effect": "brak oceny",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "WOOŚ-IV.511.47.2021.IA  W postępowaniu występowała jako działka nr 47 z obrębu 3-15-10, lecz badania były pobierane z działki nr 158."
+}

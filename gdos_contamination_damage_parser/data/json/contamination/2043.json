@@ -1,0 +1,93 @@
+{
+  "registry_id": 2043,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4184,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "sochaczewski",
+    "municipality": "Sochaczew (gmina miejska)",
+    "address": "ul. Łuszczewskich",
+    "precinct": "Sochaczew Boryszew",
+    "parcel_numbers": [
+      "2124/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((584369.2055889488 484050.3556256201,584391.4306334003 484045.0639483696,584403.601491071 484075.75567642134,584411.0098392216 484072.0515023386,584444.8765736237 484136.6099647889,584429.0015418726 484145.07664839085,584455.4599281243 484201.1684272392,584424.2390323525 484220.74763306975,584358.6222344482 484100.0973917693,584356.5055635481 484096.39321768936,584373.9680984692 484085.8098631883,584369.2055889488 484050.3556256201))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MDR SOCHACZEW sp. z o. o.",
+      "address": "ul. Przeskok 2, 00-032 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "2124/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.4184
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-07-11",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.25.2024.PBu",
+    "decisions": [
+      {
+        "issue_date": "2024-09-13",
+        "reference": "WOOŚ-IV.515.25.2024.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MDR SOCHACZEW sp. z o. o.",
+        "address": "ul. Przeskok 2, 00-032 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-09-01",
+    "planned_end": "2025-04-07",
+    "actual_end": "2025-04-17",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "bioremediacja, ex situ w miejscach występowania kadmu",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

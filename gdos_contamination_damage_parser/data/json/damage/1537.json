@@ -1,0 +1,56 @@
+{
+  "registry_id": 1537,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Czechowice-Dziedzice",
+    "address": "ul. Łukasiewicza 2",
+    "precinct": "0001 Czechowice",
+    "parcel_numbers": [
+      "240204_4.0001.3762/209"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((501494.17141856701346114 226858.18021394300740212, 501508.96694151201518252 226850.27726629801327363, 501501.77653821400599554 226830.46523383999010548, 501489.0679833929752931 226808.29834515499533154, 501481.00233632099116221 226812.00389007199555635, 501475.29631824401440099 226809.0519028730050195, 501457.95787837298121303 226818.86767901899293065, 501437.91760933597106487 226785.76531381200766191, 501457.12477011297596619 226764.71131463500205427, 501458.70407270197756588 226757.99424445399199612, 501466.55214488500496373 226753.7119534510129597, 501488.41289465600857511 226742.02687721000984311, 501550.21091750799678266 226841.20163057898753323, 501511.2399848320055753 226864.07861018800758757, 501502.12815163697814569 226871.01619441198999994, 501494.17141856701346114 226858.18021394300740212))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2019-11-26",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gruntu na terenie nieruchomości położonej w Czechowicach-Dziedzicach przy ul. Łukasiewicza 2 w obrębie działki o numerze ewidencyjnym 3762/209 (obręb 0001 Czechowice).",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polwax S. A. z siedzibą w Jaśle",
+      "address": "ul. 3 Maja 101 38-200 Jasło",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Orlen Projekt S. A.",
+      "address": "ul. Zglenickiego 42, 09-411 Płock",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2019-12-20",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

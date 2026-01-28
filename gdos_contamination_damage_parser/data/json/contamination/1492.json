@@ -1,0 +1,129 @@
+{
+  "registry_id": 1492,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.45,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Pruszcz Gdański (gmina miejska)",
+    "address": "rejon MPS, na terenie JW w Pruszczu Gdańskim, część 4 działek, nr: 1/62, 1/159, 1/161, 1/164",
+    "precinct": "22",
+    "parcel_numbers": [
+      "1/62",
+      "1/159",
+      "1/161",
+      "1/164"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((477102.85914394975 708647.5866691014,477101.8008084998 708698.386770702,477424.5931207499 708679.8659003228,477406.07225037995 708623.7741214707,477301.82620854984 708576.1490262207,477176.41345772985 708620.599115123,477102.85914394975 708647.5866691014))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Obrona narodowa",
+    "current": "Obrona narodowa"
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+      "address": "ul. Jana z Kolna 8B, 81-301 Gdynia",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": "84.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-01-15",
+    "legal_basis": "61 paragraf 1 i 4 kodeksu postępowania administracyjnego",
+    "case_reference": "RDOŚ-Gd-WZS.515.31.2020.MJ.1",
+    "decisions": [
+      {
+        "issue_date": "2021-05-19",
+        "reference": "RDOŚ-Gd-WZS.515.31.2020.MJ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "101l ust. 4 oraz 101q ust. 1 pkt 1 i pkt 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+        "address": "ul. Jana z Kolna 8B, 81-301 Gdynia",
+        "economic_activity_code": "84.22.Z"
+      }
+    ],
+    "planned_start": "2021-06-01",
+    "planned_end": "2034-05-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Bioremediacja, metodą in situ, poprzez iniekcję preparatów biologicznych za pośrednictwem otworów napowietrzających.",
+    "ecological_effect": "sunięcie zanieczyszczeń do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko, dla gruntów kl III, wg rozporządzenia Ministra Środowiska (Dz.U. z 2016 r., poz. 1395)",
+    "effect_assessment": null
+  },
+  "notes": null
+}

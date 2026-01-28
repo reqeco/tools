@@ -1,0 +1,82 @@
+{
+  "registry_id": 429,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "lipnowski",
+    "municipality": "Lipno (gmina wiejska)",
+    "address": "m. Suradowo",
+    "precinct": null,
+    "parcel_numbers": [
+      "dz. 68/2 obręb Piątki"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((520542.63000594015 549299.8320208741,520673.5990178799 549204.5818303749,520641.84895438014 549170.9796798332,520611.95097792015 549141.8754549632,520552.94877658016 549164.3650832763,520465.90068582 549212.2547623832,520542.6300059401 549298.7736854246,520542.63000594015 549299.8320208741))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2011-08-24",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu olejem mineralnym na terenie działki nr 58/2 w m.Surardowo w wyniku działalności firmy Usługi Transportowe (…)",
+  "total_area_ha": 0.0001,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Usługi Transportowe(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "30500 mg/kg s.m.",
+      "area_ha": 0.0001
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-12-02",
+    "detection_date": "2011-08-24",
+    "decisions": [
+      {
+        "issue_date": "2014-03-26",
+        "reference": "WSI.512.3.2011.JD.45",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "w dniu 02.05.2016 r. została złożona informacja odnośnie przeprowadzenia działań naprawczych wraz z opracowaniem \"Dokumentacja końcowa z przeprowadzonych działań naprawczych związanych z rekultywacją środowiska gruntowego zanieczyszczonego olejem mineralnym na działce nr 68/2 obręb ewidencyjny 0027 Piątki w miejscowości Suradowo, gm. Lipno\" z czerwca 2014 r. oprac. Hydrogeotechnika Sp. z o.o. Z dokumentacji wynika, że osiągnięto zakładany efekt ekologiczny. Informacja do GDOŚ pod sygn. WSI.511.2.11.2014.AP",
+    "ecological_effect": "efekt ekologiczny został osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": "środki własne sprawcy",
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

@@ -1,0 +1,105 @@
+{
+  "registry_id": 550,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 3.5013,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wołowski",
+    "municipality": "Brzeg Dolny",
+    "address": "ul. Sienkiewicza 4, 56-120 Brzeg Dolny",
+    "precinct": null,
+    "parcel_numbers": [
+      "20/499",
+      "20/502",
+      "20/505",
+      "20/539",
+      "20/480",
+      "20/482",
+      "20/538",
+      "20/506",
+      "20/509",
+      "20/503",
+      "20/508",
+      "20/497",
+      "20/495",
+      "20/227 AM-13",
+      "obręb 0001 Brzeg Dolny – Miasto"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((341950.55063436855562031 380169.88487342745065689, 341913.42441225552465767 380156.81489533931016922, 341923.44173442502506077 380178.87136461026966572, 341976.26140079356264323 380241.00184327457100153, 341992.60489425697596744 380248.24684508889913559, 342000.27330258151050657 380250.51163772772997618, 342017.93850345246028155 380195.52851397078484297, 342013.45313063391949981 380189.89142892230302095, 341950.55063436855562031 380169.88487342745065689)),((342143.903784443391487 380198.87115172017365694, 342144.30682721472112462 380197.63605512119829655, 342053.64088074414758012 380168.65065423026680946, 342053.20975893898867071 380170.02608872950077057, 342036.26177181617822498 380164.63872811384499073, 342022.51216293888865039 380203.24373197834938765, 342007.03821711073396727 380252.4988293144851923, 342113.25105284876190126 380283.82164149638265371, 342143.903784443391487 380198.87115172017365694)),((342020.5746800551423803 380157.14486049395054579, 341944.84567849745508283 380133.42424951959401369, 341933.15954870928544551 380129.7646421454846859, 341926.80360995989758521 380127.71189752127975225, 341926.17008154222276062 380129.63991360552608967, 341914.02132465550675988 380125.77667436935007572, 341905.2672897715237923 380120.13774890080094337, 341922.04777849814854562 380145.52100824564695358, 341926.71226636407664046 380152.56520467717200518, 341937.67590090679004788 380156.02471958473324776, 342016.3589398271869868 380180.84472755528986454, 342023.2898319210507907 380178.87092411611229181, 342028.64129696000600234 380162.22332950960844755, 342019.86595706455409527 380159.42378870584070683, 342020.5746800551423803 380157.14486049395054579)),((342005.76854058040771633 380258.36425490770488977, 341996.34919024119153619 380291.95186489354819059, 342005.4137163955019787 380308.6430251058191061, 342094.03253868676256388 380337.05648223124444485, 342110.73658021789742634 380290.77367942314594984, 342005.76854058040771633 380258.36425490770488977)),((342050.34783224144484848 380118.44156822189688683, 342039.46520675776991993 380152.48896368313580751, 342147.84670822042971849 380186.70132014434784651, 342159.51323537406278774 380153.69291744660586119, 342166.65245340875117108 380156.00490584876388311, 342150.92728376138256863 380201.49461671803146601, 342218.68017906462773681 380226.78338484093546867, 342225.15107933373656124 380174.89181682839989662, 342226.99904646637151018 380160.84113270603120327, 341949.09967578633222729 380072.16585513204336166, 341946.17263700859621167 380084.79170306771993637, 342043.20874905283562839 380116.13957387115806341, 342050.34783224144484848 380118.44156822189688683)),((341985.01176140713505447 380299.21402068063616753, 341998.12889189383713529 380256.00909940619021654, 341968.52376475452911109 380246.86539712175726891, 341956.91349869756959379 380255.38086951617151499, 341971.07449740404263139 380280.73982174787670374, 341985.01176140713505447 380299.21402068063616753)))",
+    "site_description": "Zakład PCC Rokita SA"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PCC Rokita SA",
+      "address": "ul. Sienkiewicza 4, 56-120 Brzeg Dolny",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "20.16.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "> 30 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "> 4 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-07-10",
+    "legal_basis": "art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego",
+    "case_reference": "WSI.515.4.2017.MR",
+    "decisions": [
+      {
+        "issue_date": "2017-11-23",
+        "reference": "WSI.515.4.2017.MR.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PCC Rokita SA",
+        "address": "ul. Sienkiewicza 4, 56-120 Brzeg Dolny",
+        "economic_activity_code": "20.16.Z"
+      }
+    ],
+    "planned_start": "2017-11-23",
+    "planned_end": null,
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Przeprowadzenie remediacji zanieczyszczonego terenu planowane jest po zakończeniu eksploatacji instalacji, ze względu na brak znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska.  Natomiast przeprowadzone zostaną działania dodatkowe, mające na celu zapobieżenie  i zmniejszenie istniejącego i dalszego zanieczyszczenia poprzez: 1.\tUsunięcie pierwotnego źródła zanieczyszczenia – zakończenie demontażu i usunięcie obiektów pomocniczych instalacji rtęciowej. 2.\t\tOgraniczenie wielkości zanieczyszczenia na obszarze działek tj.: a) 20/497, 20/499, 20/502, 20/503 - na nieutwardzonej części terenu, przeprowadzone zostaną prace polegające na wydobyciu zanieczyszczonej rtęcią ziemi, do głębokości  30 cm, powierzchnia terenu z którego zostanie usunięte zanieczyszczenie wynosi 3888 m2, kubatura 1 166,44 m3.  b) 20/502 - w rejonie piezometru R-12, przeprowadzone zostaną prace polegające na wydobyciu zanieczyszczonej rtęcią ziemi, do głębokości 100 cm, powierzchnia terenu  z którego zostanie usunięte zanieczyszczenie wynosi 100 m2, kubatura 100 m3. c) 20/497 - w rejonie piezometru R-7, przeprowadzone zostaną prace polegające na usunięciu takiej warstwy gruntu, jaka nie będzie zagrażała bezpieczeństwu istniejących instalacji naziemnych i utwardzeniu powierzchni tego obszaru w analogiczny sposób jak na terenach dróg komunikacyjnych, w celu ograniczenia potencjalnego ryzyka emisji par rtęci  z ziemi. Powierzchnia terenu, która wymaga utwardzenia wynosi ok. 150 m2. Wydobyte grunty zanieczyszczone rtęcią zostaną załadowane do szczelnych kontenerów, wyposażonych w szczelne przykrycia, podstawionych przez uprawnionych odbiorców odpadów a następnie wywieziony do miejsca docelowego składowania. Na potwierdzenie utylizacji zanieczyszczonego gruntu wystawiona zostanie karta przekazania odpadu.  Po usunięciu zanieczyszczonej warstwy ziemi powstałe wykopy zostaną wypełnienie gruntem niezanieczyszczonym. 3. Sposób kontrolowania zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie – badania będą prowadzone zgodnie  z harmonogramem określonym w pozwoleniu zintegrowanym, czyli raz na 10 lat, dla pracującej Instalacji Produkcji Chloru i w lokalizacjach wskazanych w dokumencie „Raport początkowy opisujący stan zanieczyszczenia gleby, ziemi i wód gruntowych substancjami stwarzającymi ryzyko – instalacja do produkcji chloru na terenie PCC Rokita SA w Brzegu Dolnym” Ramboll Environ Poland Sp. z o.o. kwiecień 2017 r.,",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

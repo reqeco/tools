@@ -1,0 +1,83 @@
+{
+  "registry_id": 1358,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "wolsztyński",
+    "municipality": "Przemęt",
+    "address": null,
+    "precinct": "Osłonin",
+    "parcel_numbers": [
+      "250/2"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "lądowa część działki jeziornej Jeziora Wieleńskiego, stanowiąca piaszczystą plażę w Osłoninie"
+  },
+  "occurrence_time": {
+    "date": "2020-03-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "Skarb Państwa (Państwowe gospodarstwo Wodne Wody Polskie)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "W marcu 2020 r na zlecenie Wójta Gminy Przemęt firma zewnętrzna wykonała prace rekultywacyjne na plaży w Osłoninie, w wyniku których  zostało nieumyślnie zasypane stanowisko selerów błotnych Apium repens, guatunku objętego ścisła ochroną, na terenie dz. nr 250/2, obręb Osłonin, gm. Przemęt. Selery zostały wsiedlone w tym miejscu w ramach realizowanej przez RDOŚ w Poznaniu strategii ochrony selerów błotnych na obszarze woj. wielkopolskiego jesienią 2016 r. przez pracowników Zakładu Taksonomii Roślin Wydziału Biologii UAM w Poznaniu. Miejsce to zostało objęte monitoringiem, mającym na celu ocenę udatności wykonanego zabiegu. Wg. ostatniego monitoringu przeprowadzonego we wrześniu 2019 r. populacja selerów błotnych na terenie przedmiotowej działki liczyła 324 ramety. W trakcie prowadzonych w kwietniu 2020 r. obserwacji pracownicy Zakładu stwierdzili zasypanie piaskiem ww. stanowiska i zniszczenie siedliska ww. gatunku.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Zakład Taksonomii Roślin Wydziału Biologii Uniwersytetu im. A. Mickiewcza w Poznaniu",
+      "address": null,
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Wójt Gminy Przemęt",
+      "address": "ul. Jagiellońska 8, 64-234 Przemęt",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "selery błotne (Apium repens)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2021-05-19",
+    "detection_date": "2020-04-01",
+    "decisions": [
+      {
+        "issue_date": "2020-07-27",
+        "reference": "WPN-I.512.2.2020.TB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-05-27",
+        "reference": "WPN-I.511.1.2021.KD.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-06-09",
+    "planned_end": "2021-06-09",
+    "actual_end": "2021-06-09",
+    "method": null,
+    "description": "W dniu 9 czerwca 2021 r. nastąpiło wsiedlenie 324 ramet selerów błotnych Apium repens na terenie działki 250/1 obręb Osłonin, gm. Przemęt. Materiał namnożeniowy tj. 324 ramety w 29 donicach przygotowany został przez pracowników Ogrodu Botanicznego w Poznaniu. Ramety zostały wsiedlone w trawiastej części plaży po uprzedniej ocenie warunków siedliskowych przez pracowników Zakładu Taksonomii Roślin wydziału Biologii Uniwersytetu UAM w Poznaniu. Wsiedlenie polegało na wykopaniu 29 płaskich dołków w których umieszczono ramety wraz z całością podłoża zawierającego się w donicy. Monitoring stanu zachowania populacji zaplanowany został na wrzesień 2021 r.",
+    "ecological_effect": "odbudowa zniszczonej nieumyślnie populacji selerów błotnych na stanowisku Osłonin Plaża 2.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

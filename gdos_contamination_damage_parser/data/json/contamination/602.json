@@ -1,0 +1,85 @@
+{
+  "registry_id": 602,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Postępu 15A",
+    "precinct": "1-08-08",
+    "parcel_numbers": [
+      "15/13",
+      "15/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636328.4491367493 481298.68342974316,636268.3885998938 481314.82304535434,636254.8948228975 481272.48962735385,636313.6324404319 481255.2916762931,636328.4491367493 481298.68342974316))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-07-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "HIE Warszawa Mokotów Sp. zo.o.",
+      "address": "ul. Wita Stwosza 48 02-661 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "125-488 [mg/kg]",
+      "area_ha": 0.2
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-12-11",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.13.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-02-21",
+        "reference": "WOOŚ-IV.515.13.2019.MB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HIE Warszawa Mokotów Sp. zo.o.",
+        "address": "ul. Wita Stwosza 48 02-661 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2019-03-01",
+    "planned_end": "2019-04-30",
+    "actual_end": "2019-05-25",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "Prace remediacyjne zgodne z planem remediacji",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "(dawniej WSI.515.74.2018.MB"
+}

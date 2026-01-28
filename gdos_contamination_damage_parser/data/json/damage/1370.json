@@ -1,0 +1,62 @@
+{
+  "registry_id": 1370,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "municipality": "Czeremcha",
+    "address": "ul. Fabryczna 7, 17-240 Czeremcha",
+    "precinct": "Czeremcha",
+    "parcel_numbers": [
+      "1163/3",
+      "1163/5",
+      "1203",
+      "1204",
+      "1205",
+      "1206",
+      "1207",
+      "1209",
+      "1210",
+      "1212",
+      "1213/1",
+      "1216/1",
+      "1216/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((794856.3000339784 524110.2180877542,794726.6539271085 524280.8746786425,794934.3522851533 524447.5625128159,794974.0398694263 524467.406302657,794978.0086277938 524462.1146254176,794995.2065809523 524466.0833834121,795058.7067156129 524472.6979802139,795060.029635214 524491.218850594,795048.1233600043 524495.1876084926,795017.6962124021 524528.2605912006,795040.1858435697 524550.7502196068,795017.6962127996 524583.8232023455,795026.9566491472 524590.4377989396,795046.8004410274 524565.302332066,795063.998394246 524577.2086059507,795075.9046693235 524554.7189776674,795058.7067161053 524541.4897844829,795067.9671522637 524522.9689141326,795067.9671519133 524474.0208995594,795126.1756086898 524479.3125770222,795171.1548708591 524497.8334475709,795246.561280125 524411.8436925039,795245.2383606464 524410.5207731873,794856.3000339784 524110.2180877542)) POLYGON((795207.8791145047 524375.0665354617,795239.629181537 524334.8497884674,795238.5708451304 524219.49122438114,795240.6875159086 524167.10361960623,795241.7458512086 524128.4743756708,795151.7873279381 524239.5995976217,795136.9706297594 524225.84123671334,795244.3916899136 524094.60764126945,795247.0375283541 524025.28666929156,795197.8249244434 524085.0826220494,795179.8332195277 524070.7950934097,795136.44146124 524123.18269803375,795121.095595276 524110.48267257493,795221.1083064519 523988.7740961574,795192.5332457102 523967.0782193281,794994.62449456 524211.0245398935,795022.1412197154 524233.2495844485,795026.9037297531 524225.84123631194,795039.6037567587 524237.48292631283,795035.3704144892 524242.77460354846,795035.8995822864 524243.3037712807,795207.8791145047 524375.0665354617))",
+    "site_description": "teren użytkowany pod działalność prowadzoną przez Nasycalnię Podkładów w Czeremsze Sp. z o.o. oraz tereny przyległe do południowo-wschodniej granicy Zakładu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2020-09-01",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska, osoba fizyczna, jednostka samorządu terytorialnego (Gmina Czeremcha)",
+  "land_owner": "Skarb Państwa, osoba fizyczna, jednostka samorządu terytorialnego (Wójt Gminy Czeremcha)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": null,
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Nasycalnia Podkładów w Czeremsze Sp. z o.o.",
+      "address": "ul. Fabryczna 7, 17-240 Czeremcha",
+      "economic_activity_code": "16.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2021-09-06",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

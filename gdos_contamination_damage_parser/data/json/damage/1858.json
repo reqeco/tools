@@ -1,0 +1,58 @@
+{
+  "registry_id": 1858,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Kujawska 10, Gdańsk",
+    "precinct": "3, Miasta Gdańska",
+    "parcel_numbers": [
+      "16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((478463.3895309599 724032.0199388536,478467.09370504 724050.0116415042,478455.9811828099 724044.1907965243,478068.63040810986 724213.5244685337,478061.75122768985 724227.8119971026,478049.05120228993 724119.332613484,478051.1678731899 724068.003344154,478377.1351917898 724015.0865716543,478384.5435399399 724020.9074166259,478391.95188808994 724014.0282362057,478415.2352679899 724011.3823975744,478416.82277115993 724045.7782997051,478463.3895309599 724032.0199388536))",
+    "site_description": "Na omawianym terenie firma prowadzi działalność w zakresie gospodarki odpadami"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2010-07-31",
+    "description": "Przedsiębiorstwo COMAL zostało właścicielem terenu w 2010 r. Poprzednim był PKN ORLEN, który zaprzestał tam działąlność osiem lat temu"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska, null",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Władający powierzchnią ziemi został właścicielem terminalu i bazy magazynowej paliw płynnych. Przeznaczenie obiektu i długi czas wyłączenia z eksploatacji było przesłanką dla dokonania aktualnej oceny stanu środowiska gruntowo-wodnego pod kątem ewentualnych skażeń substancjami węglowodorowymi.  Uzyskane wyniki badań wykazały",
+  "total_area_ha": 3.73,
+  "reporters": [
+    {
+      "name": "\"COMAL\"Sp. z o. o.",
+      "address": "ul.  Bałtycka 5, 80-341 Gdańsk",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": null,
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Poprzednim właścicielem terminalu i bazy magazynowej paliw płynnych był PKN  ORLEN"
+}

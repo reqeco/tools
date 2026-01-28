@@ -1,0 +1,254 @@
+{
+  "registry_id": 473,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "myśliborski",
+    "municipality": "Barlinek",
+    "address": "ul. Ogrodowa 2, Barlinek",
+    "precinct": "0001 Barlinek",
+    "parcel_numbers": [
+      "664/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((246229.10977572174 576992.0085803634,246217.46808524276 576962.3751877742,246252.39315695313 576950.7334977826,246262.97651192348 576981.4252258213,246229.10977572174 576992.0085803634))",
+    "site_description": "dawna rozdzielnia gazu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1976-12-31",
+    "description": "Funkcjonowanie klasycznej gazowni, instalacji do produkcji gazu węglowego"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polskie Górnictwo Naftowe i Gazownictwo S.A.i",
+      "address": "ul. Kasprzaka 25, 01-224 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2920 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "8,05 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "26,2mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "45,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "40,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "10,1  mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "18,3  mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "25,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "2,24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "12,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "2,12 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "28 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,152 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "494  mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "61,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "51,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "77,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3510 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "27,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "37,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "22,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "10,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "13 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-05-22",
+    "legal_basis": "101 e, 101l ust. 3",
+    "case_reference": "WONS-NS.513.5.2018.AS",
+    "decisions": [
+      {
+        "issue_date": "2018-09-26",
+        "reference": "WONS-NS.513.5.2018.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-08-13",
+        "reference": "WONS-NS.515.3.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-02-04",
+        "reference": "WONS-NS.515.1.2020.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polskie Górnictwo Naftowe i Gazownictwo S.A.i",
+        "address": "ul. Kasprzaka 25, 01-224 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-09-01",
+    "planned_end": "2020-10-31",
+    "actual_end": "2020-07-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "1.\tCelem orzeczonego sposobu remediacji jest usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodującej ryzyko dla gruntów grupy I.  2.\tRemediacja metodą ex situ będzie polegała na usunięciu z obszarów zidentyfikowanych jako zanieczyszczone, całości zanieczyszczonych gruntów na głębokości od 0,0 do 3,20 m p.p.t.   3.\tPo wybraniu gruntu zanieczyszczonego, celem dokonania kontroli skutecznego usunięcia stwierdzonego zanieczyszczenia (osiągnięcia zamierzonego efektu ekologicznego) z dna wykopów należy pobrać nie mniej niż 10 prób gruntu do analiz laboratoryjnych, w celu określenia wodoprzepuszczalności oraz zawartości substancji powodujących ryzyko, które stwierdzono w glebie i ziemi na etapie wstępnego i szczegółowego rozpoznania stanu zanieczyszczenia środowiska.  4.\tPo jednoznacznym laboratoryjnym stwierdzeniu, że pozostałe w wykopie grunty spełniają wymagania określone dla gruntów grupy I, wykop należy uzupełnić gruntem nawiezionym czystym (grupa I). Dopuszcza się użycie gruntu pochodzącego z terenu działki, pod warunkiem, że spełnia on dopuszczalne normy zanieczyszczenia określone dla  gruntów grupy I.  5.\tWykopy uzupełniając gruntem czystym, należy odpowiednio zagęścić, po zakończeniu prac ziemnych należy odtworzyć pierwotną morfologię terenu.  6.\tPobór prób gruntu do analiz oraz analizy laboratoryjne muszą być wykonane zgodnie z zapisami Rozporządzenia Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "ecological_effect": "usunięto zanieczyszczenie przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodującej ryzyko dla gruntów grupy I.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

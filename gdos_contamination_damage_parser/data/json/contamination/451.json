@@ -1,0 +1,276 @@
+{
+  "registry_id": 451,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.56,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "municipality": "Nysa",
+    "address": "obszar projektowanej inwestycji, zlokalizowanej przy ul. Kolejowej, Józefa Bema, Piastowskiej, Wolności w Nysie (dz. nr 93/1, 93/2, 94/1, 95/1 obręb 0005).",
+    "precinct": "Nysa",
+    "parcel_numbers": [
+      "93/1",
+      "93/2",
+      "94/1",
+      "95/1 obręb 0005"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((381928.87713013025 291411.04470237717,381978.0897286149 291344.1049851561,381981.2647349683 291344.104985157,382104.5608150282 291444.64685292356,382107.471237511 291450.2031140346,382105.6191504792 291452.31978493463,382109.3233245532 291454.965623552,382117.2608404411 291475.60316483304,382084.1878575847 291522.6990923546,382077.3086771573 291523.75742780324,382061.962813111 291511.8511539912,382055.8773842744 291510.26365081966,381928.87713013025 291411.04470237717))",
+    "site_description": "obszar projektowanej inwestycji, zlokalizowanej przy ul. Kolejowej, Józefa Bema, Piastowskiej, Wolności w Nysie (dz. nr 93/1, 93/2, 94/1, 95/1 obręb 0005)."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Transport lądowy pasażerski, miejski i podmiejski",
+    "current": "Pozostała działalność usługowa, gdzie indziej niesklasyfikowana"
+  },
+  "land_holders": [
+    {
+      "name": "Dekada Nysa Sp. z o.o.",
+      "address": "ul. Klimczaka 1 02-797 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "96.09.Z"
+    },
+    {
+      "name": "TAURON Dystrybucja S.A. Oddział w Opolu",
+      "address": "ul. Waryńskiego 1 45-047 Opole",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,84 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "62-180 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,46-9,87 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,24 - 2,65 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,103 - 0,354 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,397 - 7,38 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,13 - 4,1 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,446 - 9,95 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,399 - 13,6 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,429 - 14,8 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,486 - 15,8 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,484 - 16,5 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "39,8 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "307 - 552 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "30,5 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "344 - 2530 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "103 - 760 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "5,52 - 7,74 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,23 - 26,0 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,09 - 19,2 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "9,21 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,93 - 33,4 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "12,0 - 41,9 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "14, 7 - 28,6 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "12,3 - 32,7 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "13, 9 - 36,2 mg/kg",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-07-23",
+    "legal_basis": "art. 101 l POŚ",
+    "case_reference": "WOOŚ.515.14.2018.ER",
+    "decisions": [
+      {
+        "issue_date": "2018-09-28",
+        "reference": "WOOŚ.515.14.2018.ER.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Dekada Nysa Sp. z o.o.",
+        "address": "ul. Klimczaka 1 02-797 Warszawa",
+        "economic_activity_code": "96.09.Z"
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TAURON Dystrybucja S.A. Oddział w Opolu",
+        "address": "ul. Waryńskiego 1 45-047 Opole",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-10-23",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-06-26",
+    "method": null,
+    "description": "ex-situ- Remediacja przedmiotowego terenu, polegać będzie na usunięciu (ex-situ), przez uprawniony podmiot,  zanieczyszczonych gruntów z 10 wydzielonych sekcji i obejmie następujące etapy: 1.\tOgrodzenie i oznakowanie obszarów prac remediacyjnych (planowanych wykopów) przy pomocy taśmy ostrzegawczej, wykonanie bram wjazdowych. 2.\tWykonanie umocnienia i uszczelnienia skarp odpowiednio do głębokości i umiejscowienia zanieczyszczenia. 3.\tUsunięcie zanieczyszczonych gruntów nasypowych w ilości ok. 56 230 Mg, o łącznej powierzchni ok. 15 560 m2, w przedziale głębokościowym 0,0 – 5,2 m ppt i średniej gęstości gruntu 1,8 Mg/ m3. 4.\tZaładowanie zanieczyszczonego gruntu na samochody o tonażu 20 – 25 ton, ze szczelną skrzynią i zwijaną plandeką i przetransportowanie przez uprawiony podmiot do dalszego zagospodarowania, zgodnie z obowiązującymi przepisami. 5.\tPotwierdzenie ilości usuniętych gruntów nasypowych w karcie przekazania odpadów. 6.\tPobranie próbek gruntów ze ścian i dna każdego z powstałych wykopów (10 próbek gruntu) i przekazanie ich do analiz laboratoryjnych na zawartość substancji powodujących ryzyko, o których mowa w punkcie 2 niniejszej decyzji w celu potwierdzenia osiągnięcia zakładanego efektu ekologicznego. 7.\tZasypanie czystym kruszywem wykopów, powstałych w wyniku wydobycia  zanieczyszczonych gruntów, do poziomu posadowienia planowanej inwestycji.  8.\tWyrównanie i zagospodarowanie terenu po remediacji.",
+    "ecological_effect": "Pobór gruntu oraz oznaczenie zanieczyszczeń musi być wykonane przez akredytowane laboratorium. Poziom badanych zanieczyszczeń nie może przekraczać wartości dopuszczalnych w glebie i ziemi, określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

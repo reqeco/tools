@@ -1,0 +1,103 @@
+{
+  "registry_id": 799,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "krośnieński",
+    "municipality": "Jedlicze",
+    "address": "38-460 Jedlicze Moderówka",
+    "precinct": "0005 Moderówka",
+    "parcel_numbers": [
+      "180704_5.0005.2009"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((688641.52414476394187659 211078.2002625789900776, 688730.96259654604364187 211076.49349996400997043, 688800.28736408997792751 211073.69055825800751336, 688997.04998009605333209 211066.41310382398660295, 689250.95471344294492155 211024.10328739800024778, 689250.60140694305300713 211021.22344876799616031, 689065.03913661395199597 211051.43278072800603695, 688997.41239071299787611 211062.57220072799827904, 688972.67544073204044253 211063.82315922199632041, 688800.01627268898300827 211070.35284855600912124, 688799.84667392796836793 211033.5629800150054507, 688798.98357156396377832 210975.51153928099665791, 688809.11035747395362705 210973.8111614829977043, 688812.25091639603488147 210882.62159322400111705, 688832.61839038494508713 210876.82351723400643095, 688884.80977419205009937 210863.17236217399477027, 688931.27900185098405927 210854.4494330819870811, 688983.8286428670398891 210862.63100403500720859, 689000.6825881750555709 210862.20007617099327035, 689026.21480569103732705 210859.63009985501412302, 689036.22979648504406214 210857.9967470089904964, 689064.51670052797999233 210853.38988053498906083, 689068.80587027198635042 210852.69407919200602919, 689098.12898467795457691 210838.10336320201167837, 689126.84893408499192446 210830.00752239901339635, 689170.79860792297404259 210825.00798350598779507, 689205.98572041804436594 210835.817254783003591, 689225.81485776603221893 210839.33618946900242008, 689242.08311336801853031 210836.48929679300636053, 689255.14709793799556792 210828.15620821600896306, 689255.99470154696609825 210833.87963688900345005, 689262.31509547797031701 210859.04176535800797865, 689266.56161404401063919 210876.45748990701395087, 689270.53392707603052258 210887.27493751101428643, 689293.05743743502534926 210882.76449687499552965, 689295.15303614304866642 210890.82152733800467104, 689297.59049869200680405 210902.93826552899554372, 689303.67195994302164763 210928.43408116599312052, 689313.38772965304087847 210970.29915808999794535, 689318.57551108405459672 210992.5506833030085545, 689321.98606559401378036 211007.93383645400172099, 689325.10140412405598909 211019.75859875400783494, 689328.42968235001899302 211031.09896467300131917, 689331.62447246199008077 211045.19617951000691392, 689334.39430879603605717 211059.8521522379887756, 689336.93375105003360659 211075.27209793101064861, 689338.90071119798813015 211090.40674556200974621, 689341.47179275401867926 211110.26818926000851206, 689344.34994580701459199 211133.61833063699305058, 689345.79094089497812092 211139.2175575029978063, 689350.28849653503857553 211156.21992085300735198, 689354.72505838994402438 211176.26110710098873824, 689293.50118675595149398 211189.20141023999894969, 689290.1644568289630115 211193.56312881800113246, 689285.17921743600163609 211200.11123644700273871, 689283.71373293595388532 211207.06320424299337901, 689282.05017735401634127 211210.18933058800757863, 689253.06006791500840336 211216.78771777599467896, 689208.95250612800009549 211225.08347383700311184, 689052.57276713894680142 211249.72956928098574281, 688990.53974286094307899 211257.00745038001332432, 688931.25956179399508983 211263.06851405999623239, 688886.97839180903974921 211259.11784143198747188, 688829.98415202798787504 211255.58842711200122721, 688799.62539884494617581 211251.998842428001808, 688759.58039438794367015 211248.59114586800569668, 688646.86158732196781784 211235.92534953900030814, 688641.52414476394187659 211078.2002625789900776))",
+    "site_description": "grunty orne, oznaczone symbolem R"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2015-12-31",
+    "to": "2016-01-04",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "awaria rurociągu kopalnianego (rozszczelnienie), w wyniku której do gleby wyciekł płyn złożowy, zawierający ropę naftową",
+  "total_area_ha": 0.25,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Rzeszowie, Delegatura w Jaśle",
+      "address": "ul. Floriańska 108, 38-200 Jasło",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polskie Górnictwo Naftowe i Gazownictwo SA w Warszawie, Oddział w Sanoku",
+      "address": "ul. Sienkiewicza 12, 38 - 500 Sanok",
+      "economic_activity_code": "06.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "550 mg/ kg s.m.",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "7,38 mg/kg s.m.",
+      "area_ha": 0.25
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2016-05-12",
+    "detection_date": "2016-04-11",
+    "decisions": [
+      {
+        "issue_date": "2018-07-30",
+        "reference": "WSI.511.3.3.2016.KS.75",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-12-29",
+        "reference": "WSI.510.3.1.2016.AF.20",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2021-12-31",
+    "actual_end": "2021-07-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "I. Prace remediacyjne prowadzone będą metodą „in - situ” polegającą na: 1. Analizie parametrów fizykochemicznych gleby, obejmującej: - pobór prób gleby z przedziału głębokości 0 - 0,25 m p.p.t., do oznaczeń laboratoryjnych, - pomiar temperatury gleby w przedziale głębokości 0 - 0,25 m p.p.t., - oznaczenie laboratoryjne zawartości azotu, potasu, fosforu (N:K:P) w glebie, - oznaczenie laboratoryjne zawartości próchnicy oraz jonów: magnezu, potasu, azotu (Mg, K, N) w glebie, - oznaczenie laboratoryjne odczynu pH gleby. 2. Analizie mikrobiologicznej gleby, obejmującej: - oznaczenie laboratoryjne ogólnej liczebności mikroorganizmów oraz liczebności mikroorganizmów, zdolnych do bioremediacji powierzchni ziemi zanieczyszczonej substancjami ropopochodnymi. 3. Bioremediacji podstawowej, obejmującej: 3.1. Modyfikację struktury gleby w przedziale głębokości 0 - 0,25 m p.p.t., w tym m.in. orka, bronowanie z użyciem typowego sprzętu rolniczego, w celu poprawy warunków infiltracji wód opadowo – roztopowych w powierzchnię ziemi oraz w celu zwiększenia poziomu koncentracji tlenu w zanieczyszczonej powierzchni ziemi (w trakcie prowadzenia remediacji na podstawie wyników ww. badań stwierdzono, że parametry fizykochemiczne gleby na omawianym terenie są bardzo dobre i świadczą o istnieniu korzystnych warunków do życia mikroorganizmów zdolnych do rozkładu substancji ropopochodnych. W związku z powyższym uznano, że poprawa warunków glebowych na przedmiotowym terenie nie jest konieczna i zawężono zakres zabiegów agrotechnicznych jedynie do nawożenia gleby odpowiednio dobranym nawozem, tym samym rezygnując z realizacji określonego w decyzji elementu sposobu przeprowadzenia remediacji, obejmującego modyfikację struktury gleby poprzez m.in. orkę, bronowanie z użyciem typowego sprzętu rolniczego. Jak ponadto wskazano, zastosowanie mechanicznych zabiegów agrotechnicznych nie miało ekonomicznego oraz środowiskowego uzasadnienia, ze względu na konieczność usunięcia z powierzchni terenu (przed ewentualnym przystąpieniem do orki i bronowania), wszystkich roślin, w tym zdrowych nasadzeń szkółkarskich, co spowodowałoby straty zarówno środowiskowe, jak i materialne gospodarstwa szkółkarskiego. Zdrowe nasadzenia swoją liczbą przewyższały liczbę nasadzeń obumarłych. Dodatkowo zdrowe nasadzenia szkółkarskie i pozostałe rośliny poprzez system korzeniowy poprawiają warunki tlenowe gleby, tym samym wspomagając proces bioremediacji). 3.2. Aplikację nawozu (biomasy), zasobnego w składniki pokarmowe N:K:P. 3.3. Korektę wilgotności poprzez zraszanie wodą terenu objętego remediacją. Ilość wody zostanie dostosowana do panujących warunków meteorologicznych. Zużycie wody kształtować się będzie na poziomie od 10 do 25 litrów wody na 1 m2 i będzie na bieżąco modyfikowane przez Wykonawcę prac remediacyjnych, na podstawie oceny organoleptycznej. 4. Inokulację biopreparatem: 4.1 Cykliczne zadawanie (co miesiąc) biocenoz mikroorganizmów z gotowych biopreparatów dostępnych na rynku, posiadających atest Państwowego Zakładu Higieny lub biopreparatu z namnożonych biocenoz mikroorganizmów autochtonicznych, pobranych w miejscu prowadzenia bioremedacji, z kontrolą zawartości mikroorganizmów patogennych, do zraszania, w dawce jednorazowej min. 10 dm3/m3, zanieczyszczonej gleby.  4.2. Prace prowadzone będą w sezonie wegetacyjnym, od kwietnia do października.  4.3. Analiza oznaczenia efektywności i skuteczności procesu remediacji, po upływie okresu wegetacyjnego, poprzez pobór uśrednionych, kontrolnych prób gleby (w liczbie nie mniej niż 3), z przedziału głębokości 0 - 0,25 m p.p.t. oraz wykonanie: - oznaczenia zawartości oleju mineralnego (węglowodory C12-C35), - oznaczenia zawartości składników frakcji benzyn (węglowodory C6-C12), - oznaczenia ilości mikroorganizmów zdolnych do rozkładu substancji ropopochodnych. 5. W przypadku potwierdzenia zawartości oleju mineralnego (węglowodory C12-C35) oraz składników frakcji benzyn (węglowodory C6-C12), w powierzchni ziemi, na poziomie powyżej dopuszczalnego, określonego dla gruntów II grupy, zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz.U. z 2016 r., poz. 1395), przed okresem zimowym wykonana będzie: 5.1 Modyfikacja struktury gleby w przedziale głębokości 0 - 0,25 m p.p.t., w tym m.in. orka, bronowanie z użyciem typowego sprzętu rolniczego, w celu poprawy warunków infiltracji wód opadowo – roztopowych w powierzchnię ziemi oraz w celu zwiększenia poziomu koncentracji tlenu w zanieczyszczonej powierzchni ziemi. 5.2. Aplikacja nawozu (biomasy), zasobnego w składniki pokarmowe N:K:P. Dawka pożywki oraz proporcja składników pokarmowych będzie ustalona na podstawie wyników badań laboratoryjnych prób gleby, pobranych i oznaczonych w zakresie parametrów fizykochemicznych, o których mowa w pkt I.1. 5.3. W kolejnym okresie wegetacyjnym prace będą analogicznie powtarzane w sposób określony w punkcie 4.",
+    "ecological_effect": "W wyniku przeprowadzonej remediacji zawartość substancji powodujących ryzyko szczególnie istotne dla ochrony powierzchni ziemi na analizowanym terenie osiągnęła wartości dopuszczalne dla gruntów grupy II (grunty orne, oznaczone symbolem R), dla głębokości 0-0,25 m p.p.t., określone w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz.U. z 2016 r., poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "Sprawa znak: WSI.511.3.3.2016.KS/AF oraz WSI.510.3.1.2016.KS/AF"
+}

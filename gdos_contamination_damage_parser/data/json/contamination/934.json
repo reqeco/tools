@@ -1,0 +1,76 @@
+{
+  "registry_id": 934,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": null,
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.2323/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532984.0061383308 254240.95694688335,533103.5980441809 254325.09461516328,533115.2397341309 254321.3904410852,533153.8689780609 254243.07361778244,533127.4105918108 254243.60278550163,533122.1189145608 254236.7236050833,533097.7771992108 254232.49026328232,532984.5353060609 254237.25277280342,532984.0061383308 254240.95694688335))",
+    "site_description": "Hałda odpadów poprzemysłowych na terenie byłych zakładów metalurgicznych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-08",
+    "legal_basis": "art 61 kpa",
+    "case_reference": "ZS.513.116.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2019-08-30",
+        "reference": "ZS.513.116.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

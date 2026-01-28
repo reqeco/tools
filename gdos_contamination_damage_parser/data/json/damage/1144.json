@@ -1,0 +1,79 @@
+{
+  "registry_id": 1144,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "inowrocławski",
+    "municipality": "Rojewo",
+    "address": "Rojewice 6, 88-111 Rojewo",
+    "precinct": null,
+    "parcel_numbers": [
+      "119/22"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((454700.4018711487 565905.6637878316,454621.02671239857 565912.5429682508,454622.6142155685 565948.5263735522,454561.75992719847 565951.7013799008,454572.3432816885 566099.3391751815,454562.8182626483 566100.397510631,454534.77237321844 565751.1468121298,454687.70184574864 565734.7426126506,454698.2852002486 565901.9596137535,454700.4018711487 565905.6637878316))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-06-29",
+    "from": null,
+    "to": null,
+    "description": "kontrola WIOŚ w Bydgoszczy"
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi na skutek gromadzenia na nieutwardzonym gruncie odpadów w postaci kabli energetycznych oraz spalania odpadów",
+  "total_area_ha": 2.9677,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Bydgoszczy",
+      "address": "ul. Piotra Skargi 2, 85-018 Bydgoszcz",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "656, 3650 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "2065, 23 510 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "951, 5130 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,96 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2018-09-11",
+    "detection_date": "2018-06-29",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "postępowanie znak: WSS.512.31.2018.BW"
+}

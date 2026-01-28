@@ -1,0 +1,126 @@
+{
+  "registry_id": 1570,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1395,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "piaseczyński",
+    "municipality": "Piaseczno",
+    "address": "ul. Okulickiego",
+    "precinct": "7",
+    "parcel_numbers": [
+      "6/3",
+      "7",
+      "20/2",
+      "23/4",
+      "1/1",
+      "5/2",
+      "21/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638956.6135624864 470821.6916423859,639104.7805256572 470513.4514425639,639428.8957576319 470636.48293862585,639599.552349156 470665.5871634949,639582.3543980729 470620.60790687613,639657.7607989766 470599.4411978638,639738.4588771383 470604.73287511244,639731.8442805713 470643.09753518086,639734.490119206 470680.13927593175,639892.3408517767 470706.5976621704,639913.5075608038 470715.85809736047,639721.6842602572 471174.91109880153,639484.8817030182 471118.0255683651,638995.4015567853 470864.0250603752,638956.6135624864 470821.6916423859))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "HIPARK Piaseczno sp. z o.o.",
+      "address": "ul. Prosta 68, 00-838 Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "6/3",
+        "7",
+        "20/2",
+        "23/4",
+        "1/1",
+        "5/2",
+        "21/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0265
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.113
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.113
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.113
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.113
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-09-17",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.62.2021",
+    "decisions": [
+      {
+        "issue_date": "2022-03-17",
+        "reference": "WOOŚ-IV.515.62.2021.PBu.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HIPARK Piaseczno sp. z o.o.",
+        "address": "ul. Prosta 68, 00-838 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-03-01",
+    "planned_end": "2024-06-30",
+    "actual_end": "2023-11-23",
+    "method": null,
+    "description": null,
+    "ecological_effect": "efekt ekologiczny osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

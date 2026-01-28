@@ -1,0 +1,60 @@
+{
+  "registry_id": 1107,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Rdestowa 49",
+    "precinct": "0014",
+    "parcel_numbers": [
+      "1046"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((464527.82363899745 733136.7475232501,464541.5819998473 733121.1370753599,464553.22368979733 733131.1912621399,464561.16120567743 733121.4016592298,464597.4091948374 733157.1204806706,464587.09042419743 733158.7079838412,464564.07162815734 733184.1080346396,464528.61739058746 733155.0038097715,464530.99864534725 733140.45169733,464527.8236389974 733137.8058586996,464527.82363899745 733136.7475232501))",
+    "site_description": "była stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "Województwo Pomorskie",
+      "address": "ul. Okopowa 21/27, 80-810 Gdańsk",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "1046"
+      ],
+      "economic_activity_code": "-"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-29",
+    "legal_basis": "61 par. 1 i par. 4 ustawy z dnia 14 czerwca 1960 r. Kodeksu pPostępowania administracyjnego w związku z art. 101c ust. 3 pkt. 1 ustawy z dnia 27 kwietnia 2001 Prawo ochrony Środowiska",
+    "case_reference": "RDOŚ-Gd-WZS.513.165.2019.TW.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-15",
+        "reference": "RDOŚ-Gd-WZS.513.165.2019.TW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

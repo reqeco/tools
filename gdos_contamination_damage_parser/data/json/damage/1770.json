@@ -1,0 +1,60 @@
+{
+  "registry_id": 1770,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "gliwicki",
+    "municipality": "Knurów",
+    "address": "ul. Niepodległości w Knurowie",
+    "precinct": "0001 Knurów",
+    "parcel_numbers": [
+      "240501_1.0001.AR_36.3152",
+      "240501_1.0001.AR_36.3151",
+      "240501_1.0001.AR_36.3153",
+      "240501_1.0001.AR_36.3154/5",
+      "240501_1.0001.AR_36.3165/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((476111.05564033897826448 261245.80748678199597634, 476121.68978191801579669 261259.96692024200456217, 476139.09732057998189703 261247.09042857299209572, 476142.7761228249873966 261244.17267221299698576, 476154.39632057299604639 261258.07901128000230528, 476169.00691094400826842 261246.05958324900711887, 476178.35783402697416022 261238.31837471199105494, 476188.44285264197969809 261230.16754117401433177, 476229.7991969549912028 261193.60276642598910257, 476266.90729103999910876 261159.97338481701444834, 476257.13701061997562647 261153.58804996300023049, 476252.37771689501823857 261150.46365564101142809, 476249.37014776800060645 261148.28522729501128197, 476238.3896368449786678 261139.5974106159992516, 476210.17036153399385512 261118.36790296400431544, 476178.7050611280137673 261092.08475801500026137, 476114.27011901902733371 261153.13569386699236929, 476093.85453546297503635 261171.2496518479892984, 476090.42313650099094957 261173.98418911700719036, 476111.60484781302511692 261201.0649070719955489, 476114.23616768600186333 261204.99741338100284338, 476122.09924365801271051 261198.84529255100642331, 476140.91044272598810494 261222.80954957701032981, 476132.99673376500140876 261228.91237740399083123, 476127.93249615497188643 261232.85815796098904684, 476113.71672555297845975 261243.76290524599608034, 476111.05564033897826448 261245.80748678199597634))",
+    "site_description": "Nieruchomości niezabudowane"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Początek lipca 2023 r."
+  },
+  "land_surface_holder": "osoba fizyczna, podmiot korzystający ze środowiska",
+  "land_owner": "osoba fizyczna, podmiot korzystający ze środowiska, Skarb Państwa (Starosta Gliwicki)",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi, gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Wyciek wód kopalnianych - zanieczyszczenie powierzchni ziemi, zamieranie roślinności.",
+  "total_area_ha": 1.0,
+  "reporters": [
+    {
+      "name": "Prezydent Miasta Knurów",
+      "address": "dr. Floriana Ogana 5; 44-190 Knurów",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Jastrzębska Spółka Węglowa S.A.",
+      "address": "Al. Jana Pawła II; 44-330 Jastrzębie Zdrój",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2023-07-27",
+    "detection_date": "2023-07-21",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Dot. KWK Knurów-Szczygłowice"
+}

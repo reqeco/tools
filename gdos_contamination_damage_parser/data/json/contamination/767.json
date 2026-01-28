@@ -1,0 +1,241 @@
+{
+  "registry_id": 767,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4096,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Powstańców Śląskich we Wrocławiu",
+    "precinct": "obręb Południe",
+    "parcel_numbers": [
+      "17/8 AM-23",
+      "obręb Południe"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((361594.54399999225279316 360776.66595001274254173, 361642.79176380508579314 360737.54614651051815599, 361600.08599999221041799 360687.34195001400075853, 361553.46799999283393845 360727.11395001341588795, 361594.54399999225279316 360776.66595001274254173))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "A19 Sp. z o.o.",
+      "address": "Al. Solidarności 173, 00-877 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,409 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,281-1,14 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,26-1,11 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,143 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,326-0,907 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,321-0,769 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,178-0,55 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,367-0,498 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,271-0,543 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "628 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "206 mg/kg s.m.",
+      "area_ha": 0.4096
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "349-929 mg/kg s.m.",
+      "area_ha": 0.342
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "110-265 mg/kg s.m.",
+      "area_ha": 0.342
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "8,06 mg/kg s.m.",
+      "area_ha": 0.342
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "23,8 mg/kg s.m.",
+      "area_ha": 0.342
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "18,4 mg/kg s.m.",
+      "area_ha": 0.342
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "15,8 mg/kg s.m.",
+      "area_ha": 0.342
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "12,6 mg/kg s.m.",
+      "area_ha": 0.342
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,16 mg/kg s.m.",
+      "area_ha": 0.342
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "7,06 mg/kg s.m.",
+      "area_ha": 0.342
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,64 mg/kg s.m.",
+      "area_ha": 0.342
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-19",
+    "legal_basis": "art.61 par. 4 Kpa",
+    "case_reference": "WSI.513.1.2018.AB",
+    "decisions": [
+      {
+        "issue_date": "2019-05-20",
+        "reference": "WSI.513.1.2018.AB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-11-29",
+        "reference": "WSI.515.15.2019.AS.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-10-10",
+        "reference": "WSI.515.13.2022.NŁ.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "A19 Sp. z o.o.",
+        "address": "Al. Solidarności 173, 00-877 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-12-01",
+    "planned_end": "2022-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediację przeprowadzić metodą ex-situ, polegającą na wydobyciu zanieczyszczonego gruntu i przekazaniu go, jako odpad uprawnionemu podmiotowi, w ilości ok. 3722 m3.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

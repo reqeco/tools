@@ -1,0 +1,90 @@
+{
+  "registry_id": 1798,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "gryfiński",
+    "municipality": "Banie",
+    "address": "Sosnowo, Baniewice",
+    "precinct": "Sosnowo, Baniewice",
+    "parcel_numbers": [
+      "130/3",
+      "127/7",
+      "131",
+      "434"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((206652.35551960099837743 587600.88241758395452052, 206700.27723116299603134 587496.16067518200725317, 206383.13722044101450592 587444.89482283196412027, 206070.69863822701154277 587393.85684866504743695, 206107.6631924870016519 587513.77266022504772991, 206652.35551960099837743 587600.88241758395452052)),((209016.5887200360011775 596380.04440140898805112, 209040.6887626159877982 595592.51583467097952962, 208957.06156744199688546 595581.19429914897773415, 208930.70871542100212537 596370.7230730940354988, 208970.31887567701051012 596374.69838447996880859, 209016.5887200360011775 596380.04440140898805112)),((208906.39490052498877048 595703.89612010994460434, 208868.63054729500436224 595701.57079302100464702, 208851.93048864998854697 596352.94836951396428049, 208879.46135694099939428 596359.15280382102355361, 208906.39490052498877048 595703.89612010994460434)),((208602.69797481899149716 595897.11997465195599943, 208602.68846505900728516 595926.84919336601160467, 208602.63278595000156201 596079.82429150596726686, 208600.95743124801083468 596250.40462309098802507, 208683.31062664900673553 596262.76905044005252421, 208690.01439735200256109 596045.25531919696368277, 208660.08505430098739453 596044.35525641799904406, 208656.73457363899797201 596047.50862261198926717, 208656.00635552499443293 596071.55676297203171998, 208628.51594874399597757 596070.73062273894902319, 208629.96400405498570763 596022.48450616304762661, 208682.04416298799333163 596024.04864611197263002, 208687.74554640898713842 595839.28556074004154652, 208602.90909073199145496 595826.94966308400034904, 208602.6963256289891433 595884.9159753059502691, 208602.69547308998880908 595890.98800949600990862, 208602.69797481899149716 595897.11997465195599943)))",
+    "site_description": "Farma wiatrowa"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "marzec 2023 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione",
+  "event_description": "martwe ptaki/szczątki",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Gaberpoint Investments sp. z o.o. Banie 3 sp. j.",
+      "address": "pl. Władysława Andersa 7 61-894 Poznań zmiana adresu ul. Wybrzeże Kościuszkowskie43B 00-347 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "sp. z o.o. Banie 3 sp. j.",
+      "address": "pl. Władysława Andersa 7 61-894 Poznań zmiana adresu ul. Wybrzeże Kościuszkowskie43B 00-347 Warszawa",
+      "economic_activity_code": "35.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "bielik (Haliaeetus albicilla)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2023-09-28",
+    "detection_date": "2023-03-09",
+    "decisions": [
+      {
+        "issue_date": "2025-01-16",
+        "reference": "WONS.512.10.2023.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2025-02-13",
+        "reason": "art. 7 oraz art. 77 paragraf 1 Kpa, 11 Kpa, 79a w zw. z 10 paragraf 1 Kpa",
+        "appealed_decision_reference": "WONS.512.10.2023.AS",
+        "resolution_reference": "DOA-WSzS.512.8.2025.MGO",
+        "appellant_name": "Gaberpoint Investmants sp. z o.o. Banie 3 sp. j.",
+        "appellant_address": "ul. Wybrzeże Kościuszkowskie 43B, 00-347 Warszawa",
+        "resolution_date": "2025-03-05",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "Odwołanie pozostawiono bez rozpoznania."
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2025-04-01",
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Działania zapobiegawcze. Montaż systemu detekcyjno-reakcyjnego na turbinach wiatrowych.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

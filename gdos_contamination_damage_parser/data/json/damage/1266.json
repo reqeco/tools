@@ -1,0 +1,129 @@
+{
+  "registry_id": 1266,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "kamieński",
+    "municipality": "Kamień Pomorski",
+    "address": "Buniewice",
+    "precinct": "Buniewice",
+    "parcel_numbers": [
+      "1/25",
+      "1/386"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((220152.82 687192.30, 220130.39 687334.24, 220134.55 687339.97, 220132.98 687349.84, 220127.28 687354.00, 220117.78 687414.08, 220115.69 687433.64, 220113.89 687446.03, 220126.13 687462.97, 220124.44 687475.25, 220107.73 687487.63, 220105.75 687499.98, 220101.60 687516.86, 220080.65 687649.95, 220081.38 687678.19, 220097.28 687753.30, 220117.87 687748.45, 220144.21 687860.31, 220144.17 687860.35, 220118.75 687866.34, 220093.31 687872.33, 220049.52 687882.65, 220028.46 687887.61, 220007.40 687892.58, 219975.39 687900.12, 219942.00 687907.98, 219888.37 687920.61, 219811.53 687921.64, 219778.53 687932.47, 219685.93 687938.67, 219697.00 687866.64, 219700.03 687846.86, 219702.63 687829.96, 219704.68 687816.61, 219707.27 687799.73, 219710.31 687779.96, 219711.22 687773.96, 219713.37 687760.20, 219716.44 687740.44, 219719.53 687720.68, 219722.60 687700.92, 219725.69 687681.14, 219728.77 687661.38, 219731.85 687641.63, 219734.49 687624.73, 219736.56 687611.40, 219737.84 687603.17, 219742.38 687574.68, 219745.53 687554.93, 219748.68 687535.16, 219751.82 687515.40, 219754.97 687495.65, 219758.11 687475.89, 219761.26 687456.13, 219764.41 687436.37, 219767.09 687419.49, 219769.22 687406.16, 219771.90 687389.28, 219775.05 687369.54, 219778.19 687349.78, 219781.33 687330.01, 219784.48 687310.26, 219787.39 687291.98, 219787.62 687290.47, 219790.79 687270.72, 219793.96 687250.98, 219797.12 687231.23, 219800.29 687211.48, 219803.45 687191.73, 219807.41 687167.04, 219795.44 687166.34, 219788.48 687209.59, 219782.13 687249.09, 219778.95 687268.85, 219775.78 687288.60, 219775.53 687290.13, 219772.64 687308.30, 219769.49 687328.07, 219766.36 687347.83, 219763.21 687367.59, 219760.07 687387.34, 219757.39 687404.23, 219755.27 687417.56, 219752.58 687434.46, 219749.43 687454.22, 219746.29 687473.98, 219743.16 687493.74, 219740.01 687513.48, 219736.87 687533.24, 219733.73 687552.99, 219730.58 687572.73, 219727.44 687592.47, 219725.91 687602.04, 219724.79 687609.30, 219722.70 687622.63, 219720.08 687639.51, 219716.99 687659.26, 219713.91 687679.03, 219710.83 687698.80, 219707.74 687718.57, 219704.66 687738.34, 219701.57 687758.11, 219699.32 687772.54, 219698.50 687777.82, 219695.47 687797.60, 219692.87 687814.48, 219690.83 687827.84, 219688.23 687844.74, 219685.20 687864.51, 219682.16 687884.28, 219679.13 687904.05, 219676.09 687923.82, 219673.70 687939.49, 219573.49 687952.00, 219555.16 687954.30, 219501.38 687961.00, 219501.31 687931.05, 219449.48 687931.18, 219449.54 687956.73, 219382.46 687951.20, 219376.60 687950.72, 219301.05 687955.37, 219224.61 687949.67, 219057.10 687939.84, 218941.52 687853.53, 218942.12 687776.47, 219009.71 687652.31, 219049.64 687534.56, 219054.98 687484.34, 219074.62 687488.94, 219079.95 687438.82, 219040.68 687429.61, 219029.97 687530.24, 218991.14 687644.08, 218922.18 687771.28, 218916.01 687817.51, 218921.54 687863.50, 218968.00 687900.26, 219049.88 687959.42, 219104.02 687979.28, 219136.73 687977.14, 219207.97 687987.35, 219249.50 687986.41, 219300.79 687974.06, 219353.85 687972.46, 219376.13 687970.65, 219377.82 687978.01, 219402.03 687982.16, 219449.44 687980.95, 219501.27 687980.93, 219563.70 687978.25, 219616.14 687969.67, 219651.19 687962.33, 219672.22 687960.29, 219710.21 687963.26, 219782.35 687952.19, 219814.75 687941.61, 219890.79 687940.58, 219976.82 687927.61, 220005.76 687921.10, 220024.56 687917.50, 220066.65 687910.42, 220099.45 687902.41, 220138.01 687891.32, 220173.27 687873.94, 220180.08 687865.67, 220177.37 687851.60, 220198.71 687852.70, 220204.51 687863.07, 220235.17 687854.43, 220276.00 687843.62, 220327.43 687829.14, 220409.44 687796.46, 220476.74 687780.05, 220568.87 687759.63, 220613.05 687751.57, 220597.04 687694.16, 220625.46 687678.32, 220652.26 687669.15, 220661.86 687604.55, 220675.96 687592.72, 220683.75 687549.21, 220696.08 687538.65, 220712.43 687542.99, 220741.53 687572.84, 220802.88 687552.47, 220806.46 687551.16, 220807.60 687526.80, 220744.96 687548.92, 220719.79 687524.08, 220689.40 687515.94, 220669.69 687532.33, 220662.24 687538.52, 220655.15 687582.85, 220642.01 687594.41, 220630.97 687655.45, 220614.06 687661.46, 220571.22 687686.15, 220586.90 687735.24, 220510.45 687752.79, 220497.87 687755.69, 220465.39 687763.14, 220445.44 687767.71, 220403.57 687777.32, 220392.71 687781.63, 220392.75 687781.59, 220504.54 687049.46, 220494.42 687049.57, 220443.73 687050.08, 220375.62 687050.79, 220340.52 687054.15, 220351.20 687188.69, 220182.50 687200.07, 220152.82 687192.30))",
+    "site_description": "skraj łąki w północnej części działki 1/386 przylegający do drogi i pasa drzew"
+  },
+  "occurrence_time": {
+    "date": "2019-07-08",
+    "from": null,
+    "to": null,
+    "description": "8:15"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wyciek ropy w wyniku rozszczelnienia ropociągu",
+  "total_area_ha": 0.05,
+  "reporters": [
+    {
+      "name": "Kopalnia Ropy Naftowej Kamień Pomorski",
+      "address": "Buniewice 72-400 Kamień Pomorski",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polskie Górnictwo Naftowe i Gazownictwo SA",
+      "address": "ul.Bohaterów Westerplatte 15 65-034 Zielona Góra",
+      "economic_activity_code": "06.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3370 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "13 200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "51,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2330 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "13 600 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "28,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "8,01 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "13,9 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2019-07-08",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2019-10-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zanieczyszczony grunt zebrano i wywieziono jako odpad o kodzie 170503",
+    "ecological_effect": "uzyskano spodziewany efekt ekologiczny, wyniki analizy próbek gruntu potwierdzają brak zanieczyszczeń",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "podmiot na podstawie art. 11 zgłosił zagrożenie szkodą i samodzielnie podjął działania zapobiegawcze i naprawcze, które okazały się niewystarczające i zostały powtórzone, w efekcie szkodę zażegnano"
+}

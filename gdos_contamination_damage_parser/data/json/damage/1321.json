@@ -1,0 +1,102 @@
+{
+  "registry_id": 1321,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "bialski",
+    "municipality": "Piszczac",
+    "address": null,
+    "precinct": "0018 Piszczac Osada",
+    "parcel_numbers": [
+      "060111_2.0018.997"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "likwidowana Stacja Paliw PKN ORLEN S.A. Nr 526 w Piszczacu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "19-20.05.2020 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Podczas prac ziemnych związanych z likwidacją Stacji Paliw PKN ORLEN Nr 526 w Piszczacu, w jednym z wykopów - powstałym po wydołowaniu 2 zbiorników po 2 m3 -  w 4 próbkach gruntu, pobranych z dna wykopu na głębokości 3 m ppt, stwierdzono przekroczenie badanych parametrów. W związku z tym przystąpiono do zlecenia badań szczegółowych w celu wyznaczenia zasięgu występowania zanieczyszczenia substancjami powodującymi ryzyko.",
+  "total_area_ha": 0.0077,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3780-10394 mg/kg s.m.",
+      "area_ha": 0.0077
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4271 mg/kg s.m.",
+      "area_ha": 0.0077
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "434-751 mg/kg s.m.",
+      "area_ha": 0.0077
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2020-10-16",
+    "detection_date": "2020-05-19",
+    "decisions": [
+      {
+        "issue_date": "2021-04-27",
+        "reference": "WSI.511.2.2020.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-05-19",
+    "planned_end": "2021-07-31",
+    "actual_end": "2021-05-26",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediację należy przeprowadzić metodą ex situ poprzez kontrolowane usunięcie zanieczyszczonych gruntów w zasięgu i do głębokości występowania zanieczyszczenia i zastąpienie go w całości gruntem spełniającym dopuszczalne zawartości substancji powodujących ryzyko dla grupy gruntów I. Zgodnie z planowanym sposobem użytkowania zanieczyszczonego terenu, po zakończeniu prac remediacyjnych teren zostanie uporządkowany, wyrównany i obsiany trawą.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "W związku z wystąpieniem szkody w środowisku, podmiot korzystający ze środowiska, działając na podstawie art. 11 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, zgłosił Regionalnemu Dyrektorowi Ochrony Środowiska w Lublinie i Wojewódzkiemu Inspektorowi Ochrony Środowiska w Lublinie fakt wystąpienia szkody w środowisku."
+}

@@ -1,0 +1,62 @@
+{
+  "registry_id": 1052,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "poznański",
+    "municipality": "Pobiedziska",
+    "address": "miejscowość Bednary, gmina Pobiedziska",
+    "precinct": null,
+    "parcel_numbers": [
+      "17",
+      "22 Bednary"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((377953.95158125425 519737.3676226372,377945.3526057195 519714.74570239894,378042.058007518 519671.7508247392,378094.9747800492 519692.3883660212,377953.95158125425 519737.3676226372))",
+    "site_description": "Żwirowisko BEDNARY I"
+  },
+  "occurrence_time": {
+    "date": "2017-09-11",
+    "from": null,
+    "to": null,
+    "description": "Data zgłoszeń na Policję i do Gminy"
+  },
+  "land_surface_holder": "osoba fizyczna, osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Odpady z Elektrociepłowni KAROLIN składowane w Kopalni Kruszywa BEDNARY",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "\"Transpol\" Kopalnia Kruszywa(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "Transpol Lider Sp. z o.o. Sp. k.",
+      "address": "Łojewo 70, 88-101 Inowrocław",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2017-11-09",
+    "detection_date": "2017-09-11",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

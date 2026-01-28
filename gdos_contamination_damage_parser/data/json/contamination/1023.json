@@ -1,0 +1,282 @@
+{
+  "registry_id": 1023,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.95,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Strzegomska 146",
+    "precinct": "Muchobór Mały, AM-4",
+    "parcel_numbers": [
+      "12/37",
+      "12/42",
+      "12/45",
+      "12/46",
+      "12/48",
+      "12/49",
+      "12/57",
+      "12/60",
+      "12/66",
+      "obręb Muchobór Mały"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((358443.97204765473725274 362720.41021290980279446, 358439.65044772333931178 362677.59285174869000912, 358438.72413039300590754 362668.27768363617360592, 358407.86297547817230225 362674.09721673280000687, 358405.69616189727094024 362674.20263784658163786, 358347.5221003366750665 362676.90357370022684336, 358307.68548489100066945 362685.62312179896980524, 358297.41962382197380066 362687.87190475407987833, 358238.24623416340909898 362700.82186857983469963, 358234.16918377194087952 362682.17777160927653313, 358220.30775615130551159 362682.82199372258037329, 358186.08118669065879658 362684.40675304550677538, 358174.64243626175448298 362684.94207681249827147, 358169.5374623155221343 362685.18139576818794012, 358152.02452484052628279 362685.98920346423983574, 358148.95879325224086642 362640.10481190588325262, 358137.28028909675776958 362657.3495935183018446, 358140.71717106888536364 362710.90427729580551386, 358140.88179564033634961 362714.19089823495596647, 358145.03788664529565722 362781.68096569646149874, 358145.08941110759042203 362782.52997046615928411, 358180.95137361832894385 362779.39750924427062273, 358226.85077805968467146 362772.80279041547328234, 358239.39702556468546391 362770.05217782873660326, 358252.76264875545166433 362767.12948561366647482, 358311.94107345852535218 362754.18244589399546385, 358409.81393416773062199 362733.50404235348105431, 358435.95236349187325686 362730.08487732335925102, 358443.97204765473725274 362720.41021290980279446))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "GNT VENTURES WEST LAND Sp. z o.o.",
+      "address": "ul. Ksawerego Liskiego 7 50-345 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "35-570 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,5-0,71 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,25-1,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,23-5,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,35-4,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,47-5,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,17-2,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,33-3,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,21-1,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,14-0,46 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,27-1,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "28 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "840 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "120-330 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "200-390 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "31 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "520-1400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "7,7-33 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,4-60 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,3-61 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,8-63 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,4-22 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,6-50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,6-25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "6,4-26 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "5,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "7,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "9900 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-11-27",
+    "legal_basis": "art. 61 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.18.2019.JS",
+    "decisions": [
+      {
+        "issue_date": "2020-06-03",
+        "reference": "WSI.515.18.2019.JS.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "GNT VENTURES WEST LAND Sp. z o.o.",
+        "address": "ul. Ksawerego Liskiego 7 50-345 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2020-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne wykonano metodą ex-situ, poprzez usunięcie zanieczyszczonego gruntu i przekazaniu go jako odpad uprawnionemu podmiotowi.",
+    "ecological_effect": "Zgodnie z Rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczeń powierzchni ziemi (Dz. U. z 2016 r., poz.1395) badane parametry tj. suma węglowodorów C12-C35, składników frakcji oleju,  wielopierścieniowe węglowodorów aromatyczne WWA, arsen, miedź, bar, ołów, cyna i cynk nie przekraczają dopuszczalnych zawartości substancji powodujących ryzyko dla I grupy gruntów.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "WSI.51518.2019.JS sprawozdanie WSI.501.27.2020.JS"
+}

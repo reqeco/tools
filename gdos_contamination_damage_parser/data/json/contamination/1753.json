@@ -1,0 +1,70 @@
+{
+  "registry_id": 1753,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0423,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Królewiecka 82-300 Elbląg",
+    "precinct": "0029 Elbląg",
+    "parcel_numbers": [
+      "286101_1.0029.38",
+      "286101_1.0029.39/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((531713.5029337811 703762.6214627968,531731.6269283611 703753.0964437472,531722.6310770412 703733.7818217883,531721.175865791 703734.707865309,531725.0123318011 703741.9839215288,531708.078964601 703749.7891454669,531705.1685421112 703744.629760148,531721.8373254512 703736.4276604094,531721.1758657912 703734.840157236,531699.2154052112 703744.8943440095,531704.5070824611 703755.6099904375,531713.3706418512 703763.0183385881,531713.5029337811 703762.6214627968))",
+    "site_description": "Teren dawnego Państwowego Gospodarstwa Rolnego. Działka nr 38 stanowi obecnie nieużytek. Na działce nr 39/7 znajdują się garaże oraz nieużytki."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": "Chów i hodowla bydła mlecznego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zarząd Budynków Komunalnych w Elblągu",
+      "address": "ul. Ratuszowa 4, 82-300 Elbląg",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "286101_1.0029.38",
+        "286101_1.0029.39/7"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3,75 mg/kg s.m.",
+      "area_ha": 0.0423
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-11-24",
+    "legal_basis": "art. 101d ust. 6, 8 i 9 Poś",
+    "case_reference": "WSI.513.18.2022.KPi.3",
+    "decisions": [
+      {
+        "issue_date": "2023-01-26",
+        "reference": "WSI.513.18.2022.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

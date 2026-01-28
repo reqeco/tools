@@ -1,0 +1,87 @@
+{
+  "registry_id": 1797,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "gryfiński",
+    "municipality": "Widuchowa",
+    "address": "Żarczyn",
+    "precinct": "Żarczyn",
+    "parcel_numbers": [
+      "294/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((202584.17564469401258975 588906.49683757405728102, 202567.44084874400869012 588944.10639485297724605, 202486.8161641999904532 589135.97181669203564525, 202394.51612863899208605 589361.48676806595176458, 202313.01382459400338121 589560.58619436796288937, 202234.17478701399522834 589753.19412942102644593, 202216.1331495670019649 589831.21820548002142459, 202211.05598099698545411 589894.69942663703113794, 202209.38135407801019028 589916.35651052696630359, 202161.85173948798910715 589851.24813129298854619, 202150.51224573398940265 589834.28685087198391557, 202138.97437586999149062 589806.07397384499199688, 202106.27195398899493739 589783.02272955002263188, 201977.16836287899059244 589688.35747325595002621, 201861.0717553659924306 589602.8445771619444713, 201855.54044893701211549 589596.57063420000486076, 201849.44087602099170908 589557.02131334494333714, 201842.33801383798709139 589517.62829884304665029, 201822.64020467200316489 589422.87657870200928301, 201787.02890667499741539 589266.63896006601862609, 201833.40524542398634367 589233.00294007197953761, 201856.80334491998655722 589212.05489511403720826, 201850.59219015800044872 589159.93645001505501568, 201850.72276850300841033 589102.42320800398010761, 201850.91312383799231611 589058.16335149004589766, 201806.83260234701447189 588891.48728324298281223, 201918.00743846301338635 588851.18179946800228208, 201957.95661609098897316 588847.39476567704696208, 202016.31001145200571045 588841.40623317204881459, 202036.82802435199846514 588823.78570459201000631, 202144.15785682800924405 588760.05772113404236734, 202167.56008865800686181 588747.42631095496471971, 202196.14492272399365902 588739.13442674104589969, 202225.46534942599828355 588731.63308726798277348, 202244.78010063199326396 588726.00388867105357349, 202278.74423076800303534 588716.60960009403061122, 202343.69359207298839465 588690.42238043004181236, 202365.01590469898656011 588676.43433566298335791, 202403.01261187301133759 588658.69824014394544065, 202394.19233001300017349 588674.42209749901667237, 202395.73896680801408365 588694.37594298797193915, 202407.4891915509942919 588716.53481224202550948, 202438.65908775600837544 588756.26531318004708737, 202469.52459069300675765 588795.2112063430249691, 202503.089890667994041 588850.90010194503702223, 202515.30003301199758425 588851.17926275904756039, 202523.05887973500648513 588857.50900466297753155, 202584.17564469401258975 588906.49683757405728102))",
+    "site_description": "rola, rejon farmy wiatrowej"
+  },
+  "occurrence_time": {
+    "date": "2023-03-26",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "martwy ptak w rejonie farmy wiatrowej",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Banie 4 sp. z o.o.",
+      "address": "pl. Władysława Andersa 7 61-894 Poznań zmiana adresu ul. Wybrzeże Kościuszkowskie43B 00-347 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Banie 4 sp. z o.o.",
+      "address": "pl. Władysława Andersa 7 61-894 Poznań zmiana adresu ul. Wybrzeże Kościuszkowskie43B 00-347 Warszawa",
+      "economic_activity_code": "35.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "bielik (Haliaeetus albicilla)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2023-09-28",
+    "detection_date": "2023-03-26",
+    "decisions": [
+      {
+        "issue_date": "2025-01-17",
+        "reference": "WONS.512.11.2023.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2025-02-06",
+        "reason": "art. 7 oraz art. 77 paragraf 1 Kpa, 11 Kpa, 79a w zw. z 10 paragraf 1 Kpa",
+        "appealed_decision_reference": "WONS.512.11.2023.AS",
+        "resolution_reference": "DOA-WSzS.512.6.2025.MBA",
+        "appellant_name": "Banie 4 sp. z o.o. sp. j.",
+        "appellant_address": "ul. Wybrzeże Kościuszkowskie 43B, 00-347 Warszawa",
+        "resolution_date": "2025-03-05",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "Odwołanie pozostawiono bez rozpoznania."
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2025-04-01",
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Działania zapobiegawcze. Montaż systemu detekcyjno-reakcyjnego na turbinach wiatrowych.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

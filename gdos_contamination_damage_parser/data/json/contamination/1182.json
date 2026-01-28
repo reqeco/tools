@@ -1,0 +1,182 @@
+{
+  "registry_id": 1182,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.4318,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Dmowskiego 13 we Wrocławiu",
+    "precinct": "obręb 0005 Plac Grunwaldzki",
+    "parcel_numbers": [
+      "3/16",
+      "3/32",
+      "3/50",
+      "3/52",
+      "3/54",
+      "3/55",
+      "AM-21",
+      "obręb 0005 Plac Grunwaldzki"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((361640.42870891530765221 363145.30803572537843138, 361646.46366636897437274 363141.68706125317839906, 361639.15071792516391724 363141.40306325536221266, 361631.19877398619428277 363143.9590452357660979, 361640.42870891530765221 363145.30803572537843138)),((361651.00763433397514746 363208.67508898867527023, 361645.39867387706181034 363201.64613854268100113, 361640.99670491088181734 363195.75318008795147762, 361641.28070290869800374 363193.97819260158576071, 361632.06027229258324951 363188.64846392179606482, 361643.19768939405912533 363178.92629871721146628, 361643.19768939405912533 363161.53142135078087449, 361631.6247709829476662 363170.47735828207805753, 361630.50249024434015155 363187.74801187071716413, 361628.99778950301697478 363186.8782426561228931, 361622.32383655430749059 363180.06229070847621188, 361617.28287209302652627 363175.94431974005419761, 361613.80389661970548332 363172.3943447673227638, 361607.05894417152740061 363171.32935227552661672, 361600.52699022169690579 363174.95032674772664905, 361601.4499837146140635 363190.57021662773331627, 361557.14629605482332408 363194.83018659515073523, 361550.40134360658703372 363208.24909199209650978, 361569.42920946044614539 363217.55002642062027007, 361573.97317742556333542 363207.75209549587452784, 361575.74816491192905232 363207.04210050136316568, 361600.52699022163869813 363219.25401440757559612, 361605.21295718563487753 363209.74008148064604029, 361651.00763433397514746 363208.67508898867527023)))",
+    "site_description": "3/16, 3/32, 3/48, 3/50, 3/52, 3/54, 3/55 AM-21, obręb 0005 Plac Grunwaldzki przy ul. Dmowskiego 13 we Wrocławiu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Eiffage Immobilier Polska Sp. z o.o.",
+      "address": "ul. Domaniewska 28 02-672 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "Fermy Drobiu \"WOŹNIAK\" Sp. z o.o.",
+      "address": "Żylice 35A 63-900 Rawicz",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "> 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "> 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "> 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "> 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "> 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": ">0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": ">0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": ">0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": ">0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "> 30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "> 150 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-05-13",
+    "legal_basis": "art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego",
+    "case_reference": "WSI.515.13.2020.MR",
+    "decisions": [
+      {
+        "issue_date": "2020-07-20",
+        "reference": "WSI.515.13.2020.MR.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Eiffage Immobilier Polska Sp. z o.o.",
+        "address": "ul. Domaniewska 28 02-672 Warszawa",
+        "economic_activity_code": null
+      },
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Fermy Drobiu \"WOŹNIAK\" Sp. z o.o.",
+        "address": "Żylice 35A 63-900 Rawicz",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-07-01",
+    "planned_end": "2023-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja polegać będzie na usunięciu zanieczyszczenia przynajmniej  do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko.  -Prace remediacyjne prowadzić metodą ex situ, poprzez wydobycie zanieczyszczonego gruntu, w ilości ok. 1700 m3.  - Powstały odpad, w postaci zanieczyszczonego gruntu, przekazać uprawnionemu podmiotowi. - W przypadku wydobywania gruntu na odkład, miejsce odkładania zanieczyszczonego gruntu zabezpieczyć przed wtórnym zanieczyszczeniem.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,200 @@
+{
+  "registry_id": 915,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.094,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "tarnobrzeski",
+    "municipality": "Nowa Dęba",
+    "address": "Nowa Dęba",
+    "precinct": "0003 NOWA DĘBA",
+    "parcel_numbers": [
+      "182004_4.0003.275",
+      "182004_4.0003.326/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((695655.78585909097455442 285997.54253622400574386, 695661.6661698849638924 285953.72316174197476357, 695657.00142869597766548 285953.49758317199302837, 695601.91055334894917905 285950.94451245100935921, 695578.44362044997978956 285949.19265702797565609, 695574.88146286399569362 285948.50667170301312581, 695574.66675168299116194 285951.28137551998952404, 695579.38311881804838777 285951.81839751597726718, 695577.73281574598513544 285967.79676092299632728, 695580.90817811200395226 285973.56321992300217971, 695592.89447452104650438 285995.32958471600431949, 695586.6908227950334549 286036.66981496900552884, 695648.22760456695687026 286059.10984003398334607, 695650.26685102900955826 286042.80188327701762319, 695655.78585909097455442 285997.54253622400574386))",
+    "site_description": "Bi - inne tereny zabudowane"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1961-01-01",
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa, osoba fizyczna, osoba fizyczna",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "182004_4.0003.275",
+        "182004_4.0003.326/1"
+      ],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "37 - 210 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "17 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "2,2 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,28 - 12 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,93 - 21 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,72 - 22 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,24 - 2,7 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,4 - 23 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,94 - 27 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,40 - 11 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,86 - 13 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,75 - 12 mg/kg s.m.",
+      "area_ha": 0.094
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1600 mg/kg s.m.",
+      "area_ha": 0.059
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1500 mg/kg s.m.",
+      "area_ha": 0.059
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "1,1 mg/kg s.m.",
+      "area_ha": 0.059
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,2 mg/kg s.m.",
+      "area_ha": 0.059
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "4,8 - 79 mg/kg s.m.",
+      "area_ha": 0.059
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-08-27",
+    "legal_basis": "art. 101l ust. 2 poś",
+    "case_reference": "WSI.515.2.2.2019.KN",
+    "decisions": [
+      {
+        "issue_date": "2019-09-18",
+        "reference": "WSI.515.2.2.2019.KN.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polski Koncern naftowy ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2019-09-17",
+    "planned_end": "2020-03-31",
+    "actual_end": "2019-09-26",
+    "method": null,
+    "description": "Prace remediacyjne będą wykonywane metodą „ex-situ” polegającą na:  - kontrolowanym usunięciu zanieczyszczonej warstwy gleby i ziemi z obszaru o łącznej powierzchni 1530 m2, do maksymalnej głębokości 5,00 m p.p.t.,  - przekazaniu zanieczyszczonej gleby i ziemi uprawnionemu podmiotowi do unieszkodliwiania lub odzysku, - w trakcie wydobywania zanieczyszczonej gleby i ziemi oraz po zakończeniu wydobycia pobraniu kontrolnych próbek gleby i ziemi z dna i ścian wykopów (nie mniej niż 10 prób)  i wykonaniu analizy ze względu na zawartość substancji powodujących ryzyko o których mowa w pkt II, - zasypaniu powstałego wykopu odpowiednio zagęszczoną glebą spełniającą standardy dla grupy gruntów I.",
+    "ecological_effect": "Osiągnięto zamierzony efekt ekologiczny - próbki pobrane z dna wykopu spełniały wymagania dla I grupy gruntów (tereny inne, oznaczone Bi), zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. poz. 1395), a powstały wykop wypełniono materiałem spełniającym wymagania dla ww. grupy gruntów.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

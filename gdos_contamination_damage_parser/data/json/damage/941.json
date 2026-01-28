@@ -1,0 +1,107 @@
+{
+  "registry_id": 941,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "Suwałki",
+    "municipality": "Suwałki",
+    "address": "ul. Przemysłowa 6 16-400 Suwałki",
+    "precinct": "10 Suwałki",
+    "parcel_numbers": [
+      "24981"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((758860.0199696259 700302.082557126,758853.6699565696 700325.895104737,758853.4053728181 700358.7035036888,758862.9303926842 700395.745244462,758881.7158483323 700419.2932082703,758896.0033779674 700430.9348982507,758901.0304717076 700429.6119789397,758906.3221493377 700431.1994821299,758960.5618452133 700489.937099711,759020.0932180405 700374.3139519002,758860.0199696259 700302.082557126))",
+    "site_description": "teren byłej bazy magazynowej PKN ORLEN S.A. nr 24 w Suwałkach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "We wrześniu 2008 r. przeprowadzono prace terenowe i badania laboratoryjne mające na celu uściślenie i okonturowanie zasięgu zanieczyszczenia gruntu i wody podziemnej."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Zanieczyszczenie substancjami ropopochodnymi środowiska gruntowo-wodnego bazy magazynowej PKN ORLEN SA Nr 24 w Suwałkach. Obszar występowania zanieczyszczenia wody: 9700 m2 i gruntów 2200 m2.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "legal_form": "spółka akcyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "322,95 mg/kg sm",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "140,14 mg/kg sm",
+      "area_ha": 0.22
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "BTX-lotne węglowodory aromatyczne"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-01-26",
+    "detection_date": "2009-01-26",
+    "decisions": [
+      {
+        "issue_date": "2009-02-24",
+        "reference": "RDOŚ-20-WSI-6617/005/09/zd",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2009-04-28",
+        "reference": "RDOŚ-20-WSI-6617/005/09/zd",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2013-12-31",
+    "method": null,
+    "description": "Działania naprawcze  prowadzono z wykorzystaniem instalacji technologicznej składającej się z otworów technologiczno-pompowych, otworów aplikacyjnych i stacji oczyszczania wody oraz centrum do wytwarzania biopreparatu. W trakcie wykonywania ww. otworów (dodatkowo wykonano otwory badawcze) były pobierane próbki gruntu i wody do badań laboratoryjnych. Wyniki analiz gruntu nie wykazały przekroczenia dopuszczalnych zawartości substancji ropopochodnych przy wschodniej granicy bazy magazynowej. Dodatkowo usunięto 2 studnie betonowe (w jednej z nich znajdowała się woda z olejem). System do oczyszczani środowiska gruntowo-wodnego składał się z podwójnego separatora (lamel owy węglowodorów i koalescencyjny), filtra węglowego, wieży strippingowej, systemu do napowietrzania oraz centrum do wytwarzania biopreparatu. Wyprodukowany na terenie bazy biopreparat BIOTECH-RL był aplikowany naprzemiennie do otworów technologicznych (łącznie zaaplikowano do gruntu 479m3) biopreparatu, do którego przygotowania używano wody odpompowanej z otworów technologicznych i oczyszczonej w stacji. Pompowanie wody i jej oczyszczanie w stacji prowadzono w sposób ciągły. Po oczyszczeniu woda była wtłaczana z powrotem do środowiska gruntowo-wodnego poprzez wybrane otwory aplikacyjne. W wybranych otworach prowadzono napowietrzanie w celu dostarczenia tlenu do prawidłowego rozwoju mikroorganizmów. Napowietrzanie było prowadzone systematycznie dla warstwy wodonośnej. Nie odsysano powietrza gruntowego z uwagi na małą efektywność procesu. Praca systemu była cały czas kontrolowana przez pracownika obsługi. Podczas pracy systemu prowadzony był ciągły monitoring środowiska wodnego w seriach miesięcznych, natomiast monitoring środowiska gruntowego prowadzono na koniec danego roku. W próbkach wody pobranych w grudniu 2013 r. nie wykazano przekroczeń dopuszczalnych stężeń substancji ropopochodnych (dla obszaru C wg. „Wskazówek metodycznych do oceny stopnia zanieczyszczenia gruntu i wód podziemnych produktami ropopochodnymi i innymi substancjami chemicznymi w procesach rekultywacji” PIOS 1995). Z monitoringu środowiska gruntowego przeprowadzonego w dniach 23-24 października 2013 r. wynika, iż dla badanych próbek gruntu nie stwierdzono przekroczenia wartości dopuszczalnych stężeń zanieczyszczeń ropopochodnych (dla grupy C).",
+    "ecological_effect": "Działania naprawcze przyrosły zakładany efekt, którym było doprowadzeni gruntów  na terenie Bazy Magazynowej nr 24 w Suwałkach do stanu odpowiadającego standardom jakościowym przewidzianym dla obszarów grupy C (terenu przemysłowe) zgodnie z Rozporządzeniem Ministra Środowiska z dnia  9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r. Nr 165, poz. 1359). Jak wskazuje podmiot, na przedmiotowym terenie bezpośrednio pod nieużytkowanymi zbiornikami do magazynowania paliw płynnych może występować pewien ładunek zanieczyszczeń zaadsorbowany przez podłoże gruntowe, który z powodów technicznych nie był możliwy do rozpoznania i usunięcia, co sugeruje konieczność prewencyjnego prowadzenia pomiarów zawartości substancji ropopochodnych.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

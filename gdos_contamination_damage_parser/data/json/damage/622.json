@@ -1,0 +1,80 @@
+{
+  "registry_id": 622,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Warszawa ul. Płowiecka 56",
+    "precinct": "3-11-01",
+    "parcel_numbers": [
+      "3/9",
+      "3/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((645980.5692501694 486952.60824543517,645972.1025665547 486938.8498845855,645960.7254604459 486942.554058657,645936.6483289165 486966.6311901454,645941.1462545845 486973.77495443635,645980.5692501694 486952.60824543517))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2014-04-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda w powierzchni ziemi polegająca na zanieczyszczeniu gruntu substanjami ropochodymi na terenie likwidowanej Stacji Paliw nr 672 w Warszawie przy ul. Płowiekiej 56",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A",
+      "address": "ul. Chemików 7 Warszawa",
+      "legal_form": "podmiot korzystajcy ze srodowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 672 w Warszawie - PKN ORLEN S.A.",
+      "address": "Warszawa ul. Płowiecka 56",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2014-04-30",
+    "detection_date": "2014-04-01",
+    "decisions": [
+      {
+        "issue_date": "2014-03-26",
+        "reference": "WSI.511.10.2014.KW.14",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2017-10-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "bioremediacja",
+    "ecological_effect": "spełnione wymagane prawem standardy",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

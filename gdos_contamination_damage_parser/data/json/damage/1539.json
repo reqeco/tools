@@ -1,0 +1,87 @@
+{
+  "registry_id": 1539,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Czechowice-Dziedzice",
+    "address": "ul. B. Prusa",
+    "precinct": "0001 Czechowice",
+    "parcel_numbers": [
+      "240204_4.0001.3762/70"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((500691.89830857800552621 226572.72078172699548304, 500685.72921898902859539 226544.8199152699962724, 500751.25291821401333436 226528.5741840899863746, 500764.08086953201564029 226524.50522749099764042, 500774.69346575101371855 226519.93616988000576384, 500779.54912737099220976 226518.3322543760004919, 500807.02561734901973978 226503.58397741199587472, 500814.88711404299829155 226517.52059157501207665, 500830.8078681820188649 226507.06413961001089774, 500824.00370984501205385 226494.4725929010019172, 500832.557238468027208 226489.88106077400152571, 500837.42084371502278373 226499.35040546199888922, 500836.01241283200215548 226503.14694885999779217, 500849.74885013297898695 226525.94975552699179389, 500847.29683912597829476 226530.17998232899117284, 500751.24982917297165841 226581.48253571699024178, 500746.77731184498406947 226581.84207793700625189, 500740.96505041199270636 226569.43716563199996017, 500695.26223612000467256 226586.63750208000419661, 500693.7811324599897489 226580.50096606998704374, 500692.57583814399549738 226575.56002894800622016, 500691.89830857800552621 226572.72078172699548304))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2019-09-30",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wystąpienie  szkody w powierzchni ziemi z 19 listopada 2019 r. w związku ze skażeniem powierzchni ziemi składnikami frakcji oleju",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polwax S. A.",
+      "address": null,
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2019-12-20",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2022-06-02",
+        "reference": "WSI.512.16.2019.MB1.20",
+        "issuing_authority": null,
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": "tak"
+      },
+      {
+        "issue_date": "2024-09-11",
+        "reference": "WSI.512.16.2019.MB1.MS2.28",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2022-07-13",
+        "reason": null,
+        "appealed_decision_reference": "WSI.512.16.2019.MB1.20",
+        "resolution_reference": null,
+        "appellant_name": "Polwax S. A.",
+        "appellant_address": "ul. 3 Maja 101 38-200 Jasło",
+        "resolution_date": null,
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": null
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

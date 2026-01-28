@@ -1,0 +1,92 @@
+{
+  "registry_id": 1676,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.282,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Przejezdna/Ostródzka",
+    "precinct": "4-16-12",
+    "parcel_numbers": [
+      "6/4",
+      "7/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639020.1401489079 499542.1376248924,639028.606832517 499494.51252964325,639296.3657017114 499541.0792894382,639276.7864958674 499577.5918624699,639275.7281604165 499586.05854606815,639275.7281604165 499586.05854606815,639252.4447804865 499582.8835397195,639252.4447804865 499582.8835397195,639252.973948207 499582.3543719901,639253.5031159378 499582.35437198915,639118.0361781634 499559.07099209353,639020.1401489079 499542.1376248924))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Uni 2 sp. z o.o.",
+      "address": "ul. Kondratowicza 37, 03-285 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-09-02",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.40.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2022-11-09",
+        "reference": "WOOŚ-IV.515.40.2022.PBu.3",
+        "issuing_authority": null,
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Uni 2 sp. z o.o.",
+        "address": "ul. Kondratowicza 37, 03-285 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-11-01",
+    "planned_end": "2027-08-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

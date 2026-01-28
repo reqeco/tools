@@ -1,0 +1,92 @@
+{
+  "registry_id": 924,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "kłodzki",
+    "municipality": "Nowa Ruda (gmina miejska)",
+    "address": null,
+    "precinct": "2-Drogosław",
+    "parcel_numbers": [
+      "148",
+      "408",
+      "obręb Drogosław"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((323350.50866949174087495 305131.16147563554113731, 323445.28743114433018491 305157.4018765888758935, 323416.69714353844756261 305145.26079555077012628, 323405.33935805107466877 305143.69420444912975654, 323468.76728660624939948 305165.70566984196193516, 323511.86755296628689393 305184.42557309317635372, 323530.66664618661161512 305196.17500635585747659, 323586.28063029679469764 305207.14114406774751842, 323626.22870338999200612 305211.05762182193575427, 323650.56489492597756907 305212.6116895389277488, 323671.65984533907612786 305205.57455296604894102, 323699.07518961874302477 305213.40750847448362038, 323717.09098728821845725 305222.0237595338257961, 323760.17224258481292054 305247.0892171609448269, 323779.75463135598693043 305275.28785699140280485, 323804.82008898310596123 305305.05308792361756787, 323818.91940889833495021 305319.93570338969584554, 323856.51759533898439258 305359.10048093204386532, 323880.8250550024677068 305425.67344859172590077, 323890.98259957623668015 305462.49549364385893568, 323909.78181515634059906 305487.56777622236404568, 323935.63044597452972084 305540.04175317770568654, 323947.37987923726905137 305547.09141313534928486, 323952.07965254230657592 305539.25845762685639784, 323948.94647033896762878 305514.19299999973736703, 323934.06588015542365611 305493.04132402734830976, 323923.09771716099930927 305485.99436016927938908, 323916.04805720335571095 305471.89504025405040011, 323902.73203283897601068 305449.17946927947923541, 323891.76589512708596885 305420.9808294489630498, 323885.4995307203498669 305399.83184957609046251, 323875.31668855930911377 305353.61741207609884441, 323828.31895550852641463 305299.57001906767254695, 323815.7862266949377954 305283.90410805074498057, 323754.68917372886789963 305214.97409957618219778, 323747.63951377128250897 305211.84091737278504297, 323726.49053389840992168 305207.92443961859680712, 323706.12484957638662308 305196.95830190670676529, 323635.62825000006705523 305194.21676747873425484, 323571.78966260602464899 305191.47523305081995204, 323561.60682044504210353 305190.69193749997066334, 323513.04249629250261933 305163.27659322030376643, 323505.20954078406793997 305156.61858103808481246, 323497.37658527557505295 305152.70210328383836895, 323485.61435163137502968 305149.99043641303433105, 323465.2801515149185434 305141.30071934836450964, 323441.76260116545017809 305132.72806673723971471, 323390.06509480951353908 305118.62874682201072574, 323351.683612818014808 305100.61294915253529325, 323327.35271898505743593 305090.84563137055374682, 323350.50866949174087495 305131.16147563554113731))",
+    "site_description": "odcinek rzeki Włodzica o długości 1,1 km w miejscowości Nowa Ruda od miejsca, w którym rzeka przylega do ulicy Cmentarnej w Nowej Rudzie do mostu na Włodzicy przy połączeniu ulic Stara Droga i Górnicza"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "wrzesień 2009 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Bezpośrednie zagrożenie szkodą w środowisku w chronionych siedliskach przyrodniczych priorytetowe łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albae, Populetum albae, alnenion glutinoso-incanae, olsy źródliskowe) - (kod*91E0), grąd środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum) -  (kod 9170), ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium) - (kod 6430) oraz ściany skalne i urwiska krzemianowe (kod 8220), na skutek realizacji inwestycji pn.: „Remont istniejącej zabudowy regulacyjnej, wraz z modernizacją stopni celem poprawienia spływu wód oraz umożliwienia migracji ryb na potoku Włodzica w km 5+300- 9+000 w miejscowości Nowa Ruda\"",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dolnośląska Fundacja Ekorozwoju",
+      "address": "ul. Białoskórnicza 26,  50-134 Wrocław",
+      "legal_form": "stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Regionalny Zarząd Gospodarki Wodnej we Wrocławiu",
+      "address": "ul. C.K. Norwida 34 50-950 Wrocław",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe",
+      "other": null
+    },
+    {
+      "natura_2000": "Grąd środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum)",
+      "other": null
+    },
+    {
+      "natura_2000": "Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium)",
+      "other": null
+    },
+    {
+      "natura_2000": "Ściany skalne i urwiska krzemianowe ze zbiorowiskami z Androsacion vandelii",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-10-16",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "RDOŚ-02-WSI-6614-3/22-4/09/as",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "1.\tDla siedliska: priorytetowe Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albae, Populetum albae, alnenion glutinoso-incanae, olsy źródliskowe) - (kod*91E0) znajdującego się: \tponiżej oraz powyżej mostu na ul. Piłsudskiego: planowane jest ubezpieczenie skarpy po obu stronach rzeki w najbliższym sąsiedztwie mostu za pomocą muru oporowego z okładziną kamienną oraz bruku spoinowanego zaprawą cementową. Działania te są niezbędne ze względu na konieczność przywrócenia drożności koryta rzeki w okolicach mostu, jednak spowodują całkowite zniszczenie siedliska na powyższym odcinku.  Należy zastosować działania minimalizujące polegające na zachowaniu płatu siedliska na lewym brzegu rzeki, poniżej mostu. Ponadto drzewa na tym obszarze należy  zabezpieczyć na czas prowadzenia prac budowlanych, \tna prawym brzegu rzeki powyżej mostu na ul. Piłsudskiego: planowane jest ubezpieczenie skarpy prawego brzegu za pomocą muru oporowego z okładziną oraz materacy siatkowo - kamiennych (gabionów). Umocnienie brzegu na tym odcinku jest konieczne ze względu na postępującą erozję i bliskie sąsiedztwo mostu. W ramach działań minimalizujących należy ograniczyć do minimum wycinkę drzew, a tam gdzie jest to możliwe pozostawić je rosnące na zboczach skarpy. Zastosowane wówczas gabiony należy ułożyć wokół pnia  nie naruszając kory drzewa. Pozostawione drzewa powinno się zabezpieczyć na czas prowadzenia prac budowlanych. W miejscach bezdrzewnych należy nasadzić drzewa na skarpie powyżej umocnień. Do nasadzeń należy zastosować klon pospolity (Acer platanoides), klon jawor (Acer pseudoplatanus) oraz wiąz górski (Ulmus gabra), \tna lewym brzeg rzeki na długości od ok. km 6+850 do ok. 7+000 (na wysokości dawnych Zakładów Przemysłu Jedwabniczego ZPJ), gdzie łęg występuje  w mozaice z ziołoroślami: planowane jest ubezpieczenie skarpy lewego brzegu za pomocą muru oporowego z okładziną kamienną i gabionów oraz przeznaczenie terenu pod plac budowy i deponie tymczasowe. Na tym odcinku koryta należy całkowicie odstąpić od umacniania brzegu. Nie występuje tutaj ryzyko podmywania skarpy a tym samym zwężenia koryta rzeki w przypadku jej podmycia, ze względu na jej duże oddalenie od koryta rzeki. Ponadto zabrania się przeznaczenia powyższego terenu pod deponie tymczasowe oraz plac budowy. W przypadku prowadzenia prac budowlanych w korycie rzeki, drzewa rosnące wzdłuż koryta należy odpowiednio zabezpieczyć. 2.\tDla siedliska: Grąd Środkowoeuropejski i subkontynentalny (Galio-Carpinetum, Tilio-Carpinetum) -  (kod 9170), znajdującego się: \tna lewym brzegu rzeki powyżej mostu na ul. Piłsudskiego: planowane jest ubezpieczenie skarpy lewego brzegu za pomocą muru oporowego  z okładziną kamienną oraz gabionów. Na powyższym odcinku nie stwierdzono erozji skarpy, dlatego należy pozostawić siedlisko w stanie nienaruszonym  i odstąpić od jakiegokolwiek umacniania brzegu. W przypadku prowadzenia prac budowlanych w korycie rzeki, drzewa rosnące wzdłuż koryta należy odpowiednio zabezpieczyć, \tna prawym brzegu rzeki w okolicach km 6+800: planowane jest ubezpieczenie stromej skarpy prawego brzegu (na długości 25 m) za pomocą muru oporowego z okładziną kamienną oraz zmodyfikowanych gabionów. Umocnienie brzegu jest konieczne ze względu na postępującą erozję. W ramach działań minimalizujących zaleca się ograniczenie do minimum wycinki drzew, a tam, gdzie jest to możliwe pozostawienie ich rosnących na zboczach skarpy. Zastosowane gabiony należy wówczas ułożyć wokół pnia, nie naruszając kory drzewa. Pozostawione drzewa zabezpieczyć na czas prowadzenia prac budowlanych. W miejscach bezdrzewnych należy nasadzić drzewa na skarpie powyżej umocnień. Do nasadzeń należy stosować klon pospolity, klon jawor oraz wiąz górski. 3.\tDla siedliska: Ziołorośla górskie (Adenostylion alliariae) i ziołorośla nadrzeczne (Convolvuletalia sepium) - (kod 6430), znajdującego się: \tna lewym brzegu rzeki na długości od ok. km 6+850 do ok. 7+000 (na wysokości dawnych Zakładów Przemysłu Jedwabniczego ZPJ), gdzie ziołorośla występują w mozaice z łęgiem: planowane jest ubezpieczenie skarpy lewego brzegu rzeki za pomocą muru oporowego z okładziną kamienną i gabionów oraz przeznaczenie terenu pod plac budowy i deponie tymczasowe.  Ponieważ nie występuje tutaj ryzyko podmywania skarpy a tym samym zwężenia koryta rzeki w przypadku jej podmycia, należy całkowicie odstąpić od umacniania brzegu na powyższym odcinku. Zabrania się przeznaczenia powyższego terenu pod deponie tymczasowe oraz plac budowy. 4.\tDla siedliska : Ściany skalne i urwiska krzemianowe (kod 8220) znajdującego się: \tna lewym brzegu rzeki w okolicy km 6+825, km 7+025 , km 7+100 częściowo umocnionego starym murem, częściowo występuje tu skała ze zbiorowiskami 8220-3: planowane jest zwężenie koryta rzeki oraz ubezpieczenie skarpy  za pomocą muru oporowego z okładziną kamienną oraz gabionów. Ze względu na fakt, iż siedlisko rozwija się na skale, brzeg w jego rejonie nie jest zagrożony erozją. Zaleca się pozostawienie siedliska w stanie nienaruszonym. Należy zwrócić uwagę na to, że siedlisko to jest wrażliwe na zmianę stosunków świetlnych – należy znacząco ograniczyć lub zrezygnować z wycinki drzew zacieniających siedlisko,",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

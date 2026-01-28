@@ -1,0 +1,50 @@
+{
+  "registry_id": 1784,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "municipality": "Głogów Małopolski",
+    "address": "36-003 Przewrotne",
+    "precinct": "0007 Przewrotne",
+    "parcel_numbers": [
+      "181606_5.0007.1055"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((710704.52012499596457928 265406.87961008702404797, 710699.34704719902947545 265409.93145491200266406, 710682.90806823095772415 265417.95204698399174958, 710678.9220543010160327 265420.00552665797295049, 710647.96905227296520025 265434.38799898297293112, 710632.38636309595312923 265442.1815196429961361, 710613.27595805504824966 265451.35066609497880563, 710602.23592064494732767 265456.47550781298195943, 710594.20412560598924756 265460.20077471801778302, 710572.64996635797433555 265470.23452326800907031, 710572.01846695598214865 265470.65766916901338845, 710554.12277757201809436 265434.57922842801781371, 710548.12266483204439282 265423.35566027398454025, 710542.12597294896841049 265411.63207186898216605, 710541.17188204394187778 265410.2861614219727926, 710540.00286415801383555 265408.004271745972801, 710570.01812977599911392 265391.66619332297705114, 710656.99612912605516613 265335.83806283498415723, 710666.26435881399083883 265329.2753369240090251, 710704.52012499596457928 265406.87961008702404797))",
+    "site_description": "Teren, na którym firma MIDAN Sp. z o.o. prowadziła działalność w zakresie zbierania odpadów."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Regionalny Dyrektor otrzymał zawiadomienie Starosty Rzeszowskiego z dnia 01 sierpnia 2023 r., znak: OŚ.604.1.22.2021, o wszczęciu postępowania w sprawie usunięcia odpadów (mauzerów z zaolejonymi filtrami, wody odpompowanej z mauzerów z filtrami oraz ziemi zanieczyszczonej ropopochodnymi), zgromadzonych przez spółkę MIDAN Sp. z o.o., zalegających przed halą na części działki nr 1055 położonej w Przewrotnem, należącej do Spółdzielni Usługowo-Wytwórczej Rol-Pol w Przewrotnem.",
+  "total_area_ha": 1.14,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "MIDAN Sp. z o.o.",
+      "address": "ul. Rynek Główny 28 31-010 Kraków",
+      "economic_activity_code": "38.12.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-09-06",
+    "detection_date": "2023-08-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,81 @@
+{
+  "registry_id": 131,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Długołęka",
+    "address": "ul. Bławatna 1A, 55-095 Mirków",
+    "precinct": "obręb Mirków",
+    "parcel_numbers": [
+      "11/1",
+      "12/2",
+      "obręb Mirków"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((372620.01600315002724528 368010.01607930287718773, 372602.7203619172796607 368005.45306962542235851, 372545.27559016144368798 368032.93433630652725697, 372565.90582747309235856 368082.76514313835650682, 372583.44013135985005647 368117.37372723966836929, 372697.49651993159204721 368061.42288847826421261, 372701.10482850286643952 368043.02064935583621264, 372671.12228796456474811 368031.7227429486811161, 372622.38311596575658768 368010.60365809500217438, 372620.01600315002724528 368010.01607930287718773))",
+    "site_description": "oczyszczalnia ścieków w Mirkowie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "szkoda polegająca na zanieczyszczeniu potoku Topór, rzeki Dobrej oraz Widawy poprzez odprowadzenie nieoczyszczonych ścieków do wód powierzchniowych z Gminnej Oczyszczalni Ścieków w Mirkowie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Fundacja Wspierania Inicjatyw Ekologicznych",
+      "address": "ul. Czysta 17/4, 31-121 Kraków",
+      "legal_form": "Fundacja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Gmina Długołęka",
+      "address": "ul. Wrocławska 18, 55-095 Mirków",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2009-01-07",
+    "detection_date": "2008-07-01",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "RDOŚ-02-WSI-6614-3/80-12/08/09/apc",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2010-05-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Wykonanie podstawowych działań naprawczych mających na celu natychmiastowe ograniczenie przyjmowania ścieków dowożonych i zrzutu nieoczyszczonych ścieków do wód oraz podjęcia wszelkich starań i niezbędnych działań w celu modernizacji oraz rozbudowy oczyszczalni ścieków w Mirkowie zgodnie z aktualnym harmonogramem modernizacji, i rozbudowy oczyszczalni ścieków oraz Koncepcją Gospodarki Ściekowej Gminy, ponadto wykorzystanie naturalnego zjawiska właściwości samooczyszczających się rzek, zachodzących w wyniku kompleksowego działania procesów fizycznych, fizyczno-chemicznych, chemicznych, biochemicznych i biologicznych.",
+    "ecological_effect": "Podstawowe działania naprawcze mają na celu poprawę parametrów ścieków odpływających  z oczyszczalni ścieków, a tym samym poprawę stanu wód potoku Topór, które pośrednio wpływają  na stan wód rzeki Dobrej oraz rzeki Widawy. Podjęte działania wyeliminują zagrożenie dla elementów przyrodniczych oraz zdrowia ludzi, ponadto mają na celu przywrócenie funkcji rzek jako naturalnego środowiska życia ryb karpiowatych, a co za tym idzie stworzenia warunków umożliwiających prowadzenie zarybień dwuśrodowiskowych ryb łososiowatych.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

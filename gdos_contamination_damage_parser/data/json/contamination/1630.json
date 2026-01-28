@@ -1,0 +1,162 @@
+{
+  "registry_id": 1630,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0562,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Księcia Witolda",
+    "precinct": "Plac Grunwaldzki",
+    "parcel_numbers": [
+      "54/2",
+      "AM-10",
+      "obręb Plac Grunwaldzki"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((361605.1729378417 362864.5606288947,361607.4925275806 362863.11960225366,361606.612075961 362860.7268054867,361613.1888214949 362857.11422698107,361614.2159082396 362859.1296049487,361621.1229953652 362855.41701223515,361620.10694857955 362850.5325506078,361612.6274861477 362856.2622125773,361605.7925346034 362860.13376851846,361602.83915164496 362860.5437758211,361605.1729378417 362864.5606288947)),((361639.12663361104 362910.58276433684,361644.9882237966 362907.17427768186,361642.90905719576 362903.50384105183,361637.0766358423 362906.85195245687,361639.12663361104 362910.58276433684)),((361678.7186699393 362877.9260317739,361681.778425843 362876.26508367993,361681.06306922936 362874.95424363855,361678.13525740046 362876.9243172966,361678.7186699393 362877.9260317739)),((361673.0622045422 362863.3280897653,361674.34241016605 362862.64092772733,361672.2486488393 362858.8024460692,361670.779478403 362859.39051498007,361673.0622045422 362863.3280897653)),((361658.09023724485 362865.0010471102,361656.99541200814 362863.14658660814,361649.9636926971 362867.2507352857,361650.8661629764 362869.040367553,361649.35207512206 362870.05805887375,361658.09023724485 362865.0010471102)),((361630.95536020445 362875.70617305953,361637.31247106666 362871.9810617799,361634.47455021343 362866.9114346262,361628.04666192865 362870.57752896193,361630.95536020445 362875.70617305953)),((361639.1565206485 362876.0045703249,361642.51916158176 362874.0795340743,361641.3727331836 362872.1058172127,361638.0410269327 362874.1004083296,361639.1565206485 362876.0045703249)),((361634.60335396207 362878.5955569949,361637.09325964446 362877.1822050987,361635.00995243795 362877.6203735694,361633.58052848245 362876.89006496686,361634.60335396207 362878.5955569949)),((361620.10694857955 362850.5325506078,361621.4098162253 362852.9839720549,361625.19950952556 362850.853202628,361623.1708596507 362847.2220650166,361625.3474574151 362846.29280177224,361636.0525455079 362839.58963068575,361650.5857321046 362831.3749498008,361655.70465330157 362828.48637712374,361651.27573031525 362820.35945979226,361635.1150719626 362827.24673505966,361629.8515538916 362814.3468495542,361613.30252245767 362822.8148467289,361625.276540515 362837.3969075484,361622.36618132464 362838.76599110663,361615.7010025515 362842.6252430193,361617.7093915134 362846.23666310124,361620.10694857955 362850.5325506078)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "eReRa Sp. z o.o.",
+      "address": "ul. Ks. Witolda 64/3, 50-203 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    },
+    {
+      "name": "Camera Nera Sp. z o.o.",
+      "address": "ul. Ks. Witolda 68/1, 50-203 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-08-16",
+    "legal_basis": "art.61 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.10.2021.KMA",
+    "decisions": [
+      {
+        "issue_date": "2021-10-26",
+        "reference": "WSI.515.10.2021.KMA.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

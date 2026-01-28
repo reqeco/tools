@@ -1,0 +1,96 @@
+{
+  "registry_id": 751,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "limanowski",
+    "municipality": "Niedźwiedź",
+    "address": "Poręba Wielka, Koninki",
+    "precinct": "4 Poręba Wielka",
+    "parcel_numbers": [
+      "120710_2.0004.4188/2",
+      "120710_2.0004.4191",
+      "120710_2.0004.4194",
+      "120710_2.0004.4195",
+      "120710_2.0004.4196",
+      "120710_2.0004.4197/1",
+      "120710_2.0004.4197/2",
+      "120710_2.0004.4380"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((577218.8333759381 190657.95986773353,577214.6000341378 190606.63059840258,577288.1543479096 190600.54516956024,577293.4460251598 190632.29523306154,577322.2856661805 190633.08898465242,577324.1377532107 190636.52857486345,577312.7606471303 190658.48903545272,577296.62103151 190672.24739630148,577314.6127341605 190775.1705188239,577240.0000849387 190786.54762490373,577223.0667177382 190711.14122409187,577242.6459235586 190711.93497568183,577233.3854883783 190685.74117329344,577218.8333759381 190657.95986773353), (577311.3318942704 190661.39945795294,577321.9152487707 190640.23274895363,577377.477859892 190652.1390227629,577431.7175517132 190690.50368283316,577546.8115318965 190742.09753601253,577602.3741430277 190740.77461669967,577720.1139618409 190715.6391497599,577786.2599274724 190710.3474725103,577952.9477608469 190761.9413256999,578036.2916775391 190776.49343813863,578073.3334182901 190760.61840638705,578069.36466035 190720.93082700856,578192.3961564233 190743.42045532633,578148.7398191021 190791.04555057827,577942.3644063466 190800.30598576833,577829.9162647836 190746.0662939502,577765.0932184719 190732.83710082993,577577.2386760872 190759.29548707977,577508.4468718355 190752.6808905108,577386.7382950822 190674.62865108158,577311.3318942704 190661.39945795294)))",
+    "site_description": "teren trasy narcisrskiej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2011-09-30",
+    "description": "prace powodujące szkodę zostały przeprowadzone we wrześniu 2011 r."
+  },
+  "land_surface_holder": "osoba fizyczna, Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "wykonanie niwelacji terenu i instalacji oświetlenia i naśnieżania - zdarcie pokrywy roślinnej",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Pracownia na rzecz Wszystkich Istot",
+      "address": "ul. Jasna 17 43-360 Bystra",
+      "legal_form": "stowarzyszenie"
+    },
+    {
+      "name": "Gorczański Park Narodowy",
+      "address": "Poręba Wielka 590 34-735 Niedźwiedź",
+      "legal_form": "Park Narodowy"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "85.51.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "widłak goździsty (Lycopodium clavatum)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": "Górskie łąki konietlicowe użytkowane ekstensywnie (Polygono-Trisetion)",
+      "other": null
+    },
+    {
+      "natura_2000": "Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2013-04-26",
+    "detection_date": "2012-03-15",
+    "decisions": [
+      {
+        "issue_date": "2015-03-13",
+        "reference": "ZS.511.3.2.2013.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2019-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

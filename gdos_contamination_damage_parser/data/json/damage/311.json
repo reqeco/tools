@@ -1,0 +1,82 @@
+{
+  "registry_id": 311,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "przemyski",
+    "municipality": "Bircza",
+    "address": "Borownica 31, 37-751 Zohatyń",
+    "precinct": "0003 Borownica",
+    "parcel_numbers": [
+      "181301_2.0003.93/1",
+      "181301_2.0003.98"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((739080.1501080000307411 210336.53890799998771399, 739066.49688300001434982 210318.87293300000601448, 738983.05755699996370822 210249.1928030000126455, 738948.18640000000596046 210226.01318099998752587, 738902.45972599997185171 210176.12470899999607354, 738822.42342000000644475 210333.71142499998677522, 738730.52981500001624227 210355.19133599998895079, 738699.91415399999823421 210362.118505999998888, 738692.70971800002735108 210411.54343099999823608, 738700.6902909999480471 210474.44738900000811554, 738708.16660500003490597 210459.86414200000581332, 738720.38659400003962219 210443.72329699998954311, 738729.47710200003348291 210431.23188800000934862, 738739.40944299998227507 210427.30459200000041164, 738747.98982100002467632 210414.04761499998858199, 738762.17537099996116012 210392.47609499999089167, 738773.96673600003123283 210388.17171500000404194, 738802.29814199998509139 210391.75473499999498017, 738822.07857899996452034 210402.74434000000474043, 738833.36091399996075779 210407.57538699998985976, 738857.63763600005768239 210416.05892899999162182, 738863.84513499995227903 210419.29888499999651685, 738833.28373499994631857 210408.582377999991877, 738818.08054300001822412 210402.43762300000526011, 738802.18836100003682077 210393.2505890000029467, 738773.84697800001595169 210389.66690400001243688, 738763.42376499995589256 210394.04248400000506081, 738751.10198100004345179 210411.55947300000116229, 738740.02865200000815094 210428.0874539999931585, 738730.35704499995335937 210431.711462000006577, 738722.58212799998000264 210444.9119209999917075, 738709.04654699994716793 210460.34371499999542721, 738700.33634999999776483 210478.40218599999207072, 738699.94121800002176315 210480.42015200000605546, 738759.42179399996530265 210526.92686999999568798, 738764.07933900004718453 210538.68166699999710545, 738774.26283000002149493 210545.56393000000389293, 738783.47656900004949421 210552.71221800000057556, 738785.6151829999871552 210569.02901999998721294, 738787.67478000000119209 210580.06941500000539236, 738794.12091399997007102 210588.59643199999118224, 738859.06347499997355044 210531.26729700001305901, 739033.6171679999679327 210405.4278700000140816, 739037.80211000004783273 210433.28529199998592958, 739042.62820899998769164 210461.74666400000569411, 739045.25318500003777444 210472.42394000000786036, 739048.77177200000733137 210468.80043900001328439, 739038.04753400001209229 210406.01394899998558685, 739082.84577599994372576 210339.69497800001408905, 739080.1501080000307411 210336.53890799998771399))",
+    "site_description": "Użytki; Ls – lasy, dr - droga"
+  },
+  "occurrence_time": {
+    "date": "2010-10-16",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Gmina Bircza ), podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa (Nadleśnictwo Dynów ), jednostka samorządu terytorialnego (Gmina Bircza)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu powierzchni ziemi wskutek wycieku oleju opałowego, magazynowanego w m. Borownica, gm.Bircza",
+  "total_area_ha": 0.0043,
+  "reporters": [
+    {
+      "name": "PWIOŚ Rzeszów",
+      "address": "ul. Langiewicza 26",
+      "legal_form": "administracja rządowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "AUTO KOMIS (…)",
+      "address": "(…)",
+      "economic_activity_code": "45.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "14400 - 26000 mg/kg s.m.",
+      "area_ha": 0.0043
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie egzekucyjne w toku",
+    "initiation_date": "2010-11-03",
+    "detection_date": "2010-10-16",
+    "decisions": [
+      {
+        "issue_date": "2011-05-13",
+        "reference": "WSI.512.2.2.2011.KG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-05-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Wydobycie zanieczyszczonej gleby do głębokości 0,30 m p.p.t. W przypadku stwierdzenia, w trakcie realizacji działań naprawczych, zanieczyszczenia na większej głębokości niż 0,30 m - zostanie zebrana dodatkowo, taka ilość ziemi, która zapewni usuniecie całości zanieczyszczenia. Miejsce po usuniętej zanieczyszczonej ziemi zostanie uzupełnione czystą (niezanieczyszczoną ziemią.",
+    "ecological_effect": "Osiągnięcie standardów jakości gleby i ziemi w zakresie stężenia oleju mineralnego (węglowodory C12-C35) dla gruntów grupy „B” - grunty zaliczone do użytków rolnych z wyłączeniem gruntów pod stawami i gruntów pod rowami, grunty leśne oraz zadrzewione i zakrzewione, nieużytki, a także grunty zabudowane i zurbanizowane z wyłączeniem terenów przemysłowych, użytków kopalnych oraz terenów komunikacyjnych, zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359) \"",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

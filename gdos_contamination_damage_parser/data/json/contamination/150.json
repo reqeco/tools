@@ -1,0 +1,91 @@
+{
+  "registry_id": 150,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0045,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "lidzbarski",
+    "municipality": "Orneta",
+    "address": "Miłkowo",
+    "precinct": "0011 Miłkowo",
+    "parcel_numbers": [
+      "38/68"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((585439.8453148289 701337.5196422366,585446.4599113899 701575.6451184852,585442.4911534596 701660.3119544853,585466.3037010818 701725.1350008063,585513.9287963364 701762.1767415525,585549.6476177799 701838.9060616773,585626.3769379071 701866.6873672334,585631.6686151577 701906.3749466157,585674.0020331617 701959.2917191144,585709.7208546052 701975.1667508641,585711.0437739153 702054.5419096118,585722.9500477366 702074.3856993029,585797.0335292434 702111.4274400529,585806.2939644245 702178.8963249829,585794.3876906136 702231.8130974928,585773.2209816115 702245.042290614,585786.4501747428 702352.1987549225,585914.773348065 702258.2714837426,586076.16950421 702004.2709757295,586127.7633573946 701817.7393526696,586298.4199487306 701375.8843022892,586327.5241736032 701303.1237401087,585864.5024141785 701318.9987718621,585937.2629763755 701370.5926250415,585978.2734750697 701476.4261700409,585965.0442819385 701487.0095245419,585867.1482528092 701484.3636859227,585782.481416801 701487.0095245438,585770.5751429899 701411.6031237338,585597.2727130337 701408.9572851155,585599.9185516541 701508.1762335459,585552.2934563996 701505.5303949248,585549.6476177792 701457.9052996757,585584.0435199025 701453.9365417333,585578.7518426517 701333.5508842943,585442.4911534591 701340.1654808652,585439.8453148289 701337.5196422366))",
+    "site_description": "Jest to teren byłego Państwowego Gospodarstwa Rolnego. Powierzchnia działki wynosi 49,24 ha. Zanieczyszczony grunt występuje w rejonie nieczynnej stacji paliw, która przez kilkadziesiąt lat (od wczesnych lat 80. XX wieku) służyła do zaopatrywania w paliwo środki transportowe PGR."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Stwierdzone zanieczyszczenie powstało przed 2007 r.i było związane z funkcjonowaniem od lat 80. XX wieku stacji paliw."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu",
+    "current": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu"
+  },
+  "land_holders": [
+    {
+      "name": "ROLNIS Sp. z o.o.",
+      "address": "ul. Przyokopowa 33, 01-208 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "01.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "7210 mg/kg s.m.",
+      "area_ha": 0.0045
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1110 mg/kg s.m.",
+      "area_ha": 0.0045
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-07-03",
+    "legal_basis": "art. 101l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-08-19",
+        "reference": "WSI.511.8.2015.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ROLNIS Sp. z o.o.",
+        "address": "ul. Przyokopowa 33, 01-208 Warszawa",
+        "economic_activity_code": "01.11.Z"
+      }
+    ],
+    "planned_start": "2015-10-31",
+    "planned_end": "2015-12-31",
+    "actual_end": "2015-12-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metoda ex-situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go nowym, wolnym od zanieczyszczeń. Łącznie zostanie wydobyte około 81 Mg gruntu niespełniającego wymogów dla gruntów grupy C.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji, powinny spełniać standardy jakości przewidziane dla gruntów grupy C, określone w załączniku do rozporządzenia Ministra środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r. Nr 165, poz. 1359).  Po remediacji ex-situ grunt został przywrócony do wyżej wymienionych standardów jakości.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

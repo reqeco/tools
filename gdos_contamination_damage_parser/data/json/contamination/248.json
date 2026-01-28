@@ -1,0 +1,225 @@
+{
+  "registry_id": 248,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0125,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "bytowski",
+    "municipality": "Bytów",
+    "address": "Kardynała Josyfa Slipyja 13",
+    "precinct": "0007 Bytów",
+    "parcel_numbers": [
+      "109/5",
+      "109/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((401473.7899597008 702817.035517145,401503.4233523071 702821.4011508757,401527.23589994234 702770.0718815466,401501.835849137 702756.9749803571,401473.7899597008 702817.035517145))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "1899 - 1992"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Dystrybucja paliw gazowych w systemie sieciowym",
+    "current": "Dystrybucja paliw gazowych w systemie sieciowym"
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "address": "ul. Marcina Kasprzaka 25, 01-224 Warszawa Oddział w Gdańsku ul. Wałowa 41/43, 80-858 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Benzen",
+      "concentration": "532,9 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Cyjanki wolne",
+      "concentration": "8,1 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "21 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": ">2400 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">3000 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzen",
+      "concentration": "66,7 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Toluen",
+      "concentration": ">200 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Etylobenzen",
+      "concentration": "48,4 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": ">400 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Naftalen",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Antracen",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(a)antracen",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(a)piren",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "56,3 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Chryzen",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "28,2 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Fenol",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0125
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ołów (Pb)",
+      "concentration": "374 mg/kg s.m.",
+      "area_ha": 0.0125
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-05-27",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WZS.515.12.2020",
+    "decisions": [
+      {
+        "issue_date": "2021-01-19",
+        "reference": "RDOŚ-Gd-WZS.515.12.2020.IK.MJ.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "101l ust. 4 oraz 101q ust. 1 pkt 1 i pkt 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+        "address": "ul. Marcina Kasprzaka 25, 01-224 Warszawa Oddział w Gdańsku ul. Wałowa 41/43, 80-858 Gdańsk",
+        "economic_activity_code": "35.22.Z"
+      }
+    ],
+    "planned_start": "2021-05-01",
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Zastosowana będzie metoda ex-situ polegająca na wymianie zanieczyszczonego gruntu na grunt niezanieczyszczony",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

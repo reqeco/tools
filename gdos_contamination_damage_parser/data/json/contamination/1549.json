@@ -1,0 +1,93 @@
+{
+  "registry_id": 1549,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.045,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Bukowiecka Dzielnica Targówek",
+    "precinct": "4-11-12",
+    "parcel_numbers": [
+      "22/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((642095.1602611571 491171.63025882654,642144.9020273801 491207.61366412695,642281.9564683564 491183.27194877435,642297.3023323976 491160.7823204631,642170.3020782107 491067.1196331354,642095.1602611571 491171.63025882654))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "brak działalności",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "22/6"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.045
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Trichloroeten",
+      "concentration": null,
+      "area_ha": 0.045
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-07-09",
+    "legal_basis": "art.101l ust.2",
+    "case_reference": "WOOŚ-IV.515.50.2021",
+    "decisions": [
+      {
+        "issue_date": "2022-02-15",
+        "reference": "WOOŚ-IV.515.50.2021.DŚc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-03-01",
+    "planned_end": "2022-07-31",
+    "actual_end": "2022-04-04",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

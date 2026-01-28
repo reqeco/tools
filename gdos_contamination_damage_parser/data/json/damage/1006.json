@@ -1,0 +1,127 @@
+{
+  "registry_id": 1006,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Łeba",
+    "address": "ul. Nadmorska",
+    "precinct": "0002 Łeba",
+    "parcel_numbers": [
+      "78/6",
+      "78/7",
+      "78/13",
+      "78/14 obręb 2 Łeba"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((409078.0605731268 767915.778552223,409068.5355540753 767905.195197721,409090.23143080866 767823.1742003523,409100.81478531036 767815.2366844732,409225.16920069844 767851.2200897736,409203.47332397505 767943.8244416518,409078.0605731268 767915.778552223))",
+    "site_description": "Działki nr 78/6, 78/7,78/13 i 78/14 w Łebie w rejestrze gruntów oznaczone nr Tr - tereny różne( gdyż jest to teren powojskowy. W rzeczywistości mama do czynienia ze zniszczeniem prawie 3 ha ekosystemu leśnego, czyli zniszczeniem przede wszystkim w świecie roślin, które można i należy uznać za znaczące. Usunięcie drzew z terenu porośniętego lasem całkowicie zmieniło typ ekosystemu występującego na ww. działkach. Zmieniły się tym samym warunki środowiskowe gatunków roślin, grzybów i zwierząt związanymi z ekosystemem lasu sosnowego, w tym związanych z nadmorskim borem bażynowym. Dla organizmów związanych z lasami spowodowało to utratę siedlisk związanych z ich bezpośrednim lub czasowym, np. na czas rozrodu lub zimowania, przebywaniem. Fakt ten dotyczy zarówno zwierząt,jak i roślin i grzybów. Wycinka spowodowała też fragmentację ekosystemów leśnych pasowo porastających Mierzeję Sarbską. Należy zaznaczyć, że mierzeja stanowi wąski pas lądu pomiędzy Morzem Bałtyckim a Jeziorem Sarbskim i właściwie każda ingerencja powodująca uszczuplenie zasobów leśnych na tak wąskim pasie lądu powoduje fragmentację lasów tego terenu. Mierzeja stanowi też korytarz ekologiczny rangi ponadlokalnej - przymorski południowobałtycki, ważny szczególnie dla przemieszczających  się wzdłuż wybrzeża i występujących na wybrzeżu gatunków ptaków, zwłaszcza dla gatunków związanych z lasami sosnowymi."
+  },
+  "occurrence_time": {
+    "date": "2017-03-03",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "zniszczenie siedliska przyrodniczego 2180 - lasy mieszane i bory na wydmach nadmorskich położonego na terenie działek o numerach geodezyjnych 78/6, 78/7, 78/13, 78/14 obręb Łeba, w gminie Łeba, poprzez wycinkę drzewostanu znajdującego się na ww. dziłkach",
+  "total_area_ha": 3.0,
+  "reporters": [
+    {
+      "name": "Regionalna Dyrekcja Ochrony Środowiska w Gdańsku",
+      "address": "ul. Chmielna 54/57",
+      "legal_form": "Administracja państwowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "02.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "listera sercowata (Listera cordata)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": "Lasy mieszane i bory na wydmach nadmorskich",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2017-04-13",
+    "detection_date": "2017-03-03",
+    "decisions": [
+      {
+        "issue_date": "2018-01-03",
+        "reference": "RDOŚ-Gd-WZS.512.3.2018.PG.MB.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": "skarga Klubu Przyrodników do WSA w Warszawie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-04-05",
+        "reference": "DOA-ks.512.8.2018.at.3",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 § 1 pkt 2",
+        "complaint_to_wsa": "tak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2018-01-29",
+        "reason": "nie zgadza się z treścią decyzji",
+        "appealed_decision_reference": "RDOŚ-Gd-WZS.512.3.2018.PG.MB.1",
+        "resolution_reference": "DOA-ks.512.8.2018.at.3",
+        "appellant_name": "(…)",
+        "appellant_address": null,
+        "resolution_date": "2018-04-05",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "uchylenie zaskarżonej decyzji i umorzenie postępowania w całości"
+      },
+      {
+        "date": "2018-02-02",
+        "reason": "nie zgadza się z treścią decyzji",
+        "appealed_decision_reference": "RDOŚ-Gd-WZS.512.3.2018.PG.MB.1",
+        "resolution_reference": "DOA-ks.512.8.2018.at.3",
+        "appellant_name": "(…)",
+        "appellant_address": null,
+        "resolution_date": "2018-04-05",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "uchylenie zaskarżonej decyzji i umorzenie postępowania w całości"
+      }
+    ]
+  },
+  "court_proceedings": {
+    "issue_date": "2018-10-01",
+    "case_number": "Sygn. akt IV SA/Wa 1430/18",
+    "challenged_decision_reference": "DOA-ks.512.8.2018.at.3",
+    "ruling_type": "wyrok",
+    "verdict": "Uchylenie zaskarżonej  decyzji GDOŚ DOA-ks.512.8.2018.at.3 zasadzenie od GDOŚ na rzecz Klubu Przyrodników z siedzią w Świebodzinie kwotę 200 (słownie dwieście złotych) tytułem zwrotu kosztów postępowania sądowego",
+    "court": "WSA w Warszawie",
+    "cassation_appeal_to_nsa": null
+  },
+  "remedial_actions": {
+    "planned_start": "2018-09-01",
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "3.1.\tZapewnić warunki do przywrócenia zbiorowiska leśnego, będącego chronionym siedliskiem przyrodniczym o kodzie 2180 – lasy mieszane i bory na wydmach nadmorskich,  poprzez: 3.1.1.\tOdnowienie gatunkiem sosna zwyczajna Pinus sylvestris, w ilości 2500 sztuk sadzonek jednorocznych, działki o nr ew. 78/6, obręb 2 Łeba oraz w ilości 4500 sztuk sadzonek jednorocznych, działki nr ew. 78/7, obręb 2 Łeba, zgodnie z granicą terenu, oznaczonego symbolem 03/1.1.ZL, ujętego w Uchwale Nr XL/361/2010 Rady Miejskiej w Łebie z dnia 29 lipca 2010 r. w sprawie miejscowego planu zagospodarowania przestrzennego miasta Łeby dla terenu zlokalizowanego na zakończeniu ulicy Nadmorskiej (Dz. Urz. Woj. Pom. z 2010 r., poz. 2283), a także odnowienie gatunkiem sosna zwyczajna Pinus sylvestris w ilości 6000 sztuk sadzonek jednorocznych, działki nr 78/13, obręb 2 Łeba oraz 5000 sztuk sadzonek jednorocznych, działki nr ew. 78/14 obręb 2 Łeba. 3.1.2.\tPrace związane z odnowieniem drzewostanu prowadzić w terminie jesiennym lub wiosennym, ręcznie, techniką sadzenia „w szparę” (inaczej: „pod kostur”), poprzedzając odpowiednim przygotowaniem terenu, umożliwiającym prowadzenie nasadzeń. Sadzenie należy przeprowadzić poprzez wbicie kostura pionowo w miejsce sadzenia na głębokość około 30 cm, a następnie w tak przygotowaną szparę wpuścić sadzonkę, potrząsnąć nią i podciągnąć tak, aby szyja korzeniowa znalazła się równo z powierzchnią ziemi, zasypać ziemią i udeptać dookoła sadzonki. 3.1.3.\tW drugim i piątym roku od wykonania nasadzeń, należy dokonać sprawdzenia ich udatności. W przypadku stwierdzonych wypadów (obumarcia sadzonek) przeprowadzić uzupełnienia nasadzeń, sadzonkami 2-3 letnimi, których bryły korzeniowe przed sadzeniem należy rozbić. 3.1.4.\tWszelkie prace związane z ww. nasadzeniami należy prowadzić pod nadzorem osoby z wykształceniem leśnym.",
+    "ecological_effect": "odtworzenie siedliska przyrodniczego – lasy mieszane i bory na wydmach nadmorskich (kod 2180), reprezentowanego przez zbiorowisko roślinne – nadmorski bór bażynowy Empetro nigri-Pinetum, a także siedlisk chronionych gatunków.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

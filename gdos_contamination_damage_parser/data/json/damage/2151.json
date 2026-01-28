@@ -1,0 +1,62 @@
+{
+  "registry_id": 2151,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "bieszczadzki",
+    "municipality": "Czarna",
+    "address": "Olchowiec 176 38-710 Czarna",
+    "precinct": "0017 Olchowiec",
+    "parcel_numbers": [
+      "180103_2.0017.288"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((754640.473290683 167174.460579447,754685.770916013 167125.528614918,754693.449359567 167110.693645229,754707.003726653 167065.129169831,754814.172262065 167088.550799778,754820.040548658 167089.831855761,754805.88446739 167154.59921887,754768.002630183 167223.947158556,754757.486310862 167244.09619174,754640.473290683 167174.460579447)))",
+    "site_description": "RIVb - Grunty orne, Bi - Inne tereny zabudowane"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-08-30",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "woda",
+  "event_description": "Odprowadzanie ścieków do Jeziora Solińskiego z obiektu usługowego „Ostoja Spokoju”",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Podkarpacki Wojewódzki Inspektor Nadzoru Budowlanego",
+      "address": "ul. 8-go Marca 5 35-065 Rzeszów",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "GAMESYSTEM S.C. (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-08-05",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Sprawa znak: WSI.512.6.2025.AL"
+}

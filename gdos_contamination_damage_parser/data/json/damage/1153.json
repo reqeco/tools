@@ -1,0 +1,123 @@
+{
+  "registry_id": 1153,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "bartoszycki",
+    "municipality": "Bisztynek",
+    "address": null,
+    "precinct": "0016 Wojkowo",
+    "parcel_numbers": [
+      "101/19"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((631633.4090906742 693886.7483267933,631424.387839023 693323.1846996667,631416.4503231436 693324.5076189777,631363.5335505753 693178.9864946073,631367.502308519 693151.205189039,631374.1169050866 693137.9759959178,631396.6065334235 693135.3301572874,631403.2211299911 693128.7155607268,631431.0024355947 693137.9759959169,631445.5545480417 693122.1009641681,631446.8774673616 693074.4758689161,631457.4608218734 693044.0487247277,631499.794239924 693036.1112088561,631727.3363619471 692960.7048080312,631740.565555084 692983.1944363518,631949.586806718 692930.2776638474,632019.7015303643 692931.6005831575,632219.4623468017 692926.3089059023,632296.1916670166 692903.8192775911,632092.4620926535 693200.1532035936,632072.6183029386 693193.5386070283,631993.2431440941 693291.4346361561,631973.3993543792 693276.8825237183,631953.5555646757 693302.0179906571,631969.4305964457 693319.2159417169,631936.3576135851 693319.215941716,631907.2533886788 693304.6638292866,631874.1804058297 693348.320166599,631876.8262444539 693381.3931494094,631939.003452222 693423.7265674081,631633.4090906741 693881.4566495419,631633.4090906742 693886.7483267933))",
+    "site_description": "teren nieczynnej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Stacja paliw funkcjonowała na tym terenie od lat 50. XX wieku, a została zamknięta po 30 kwietnia 2007 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi w związku z funkcjonowaniem stacji paliw państwowego gospodarstwa rolnego",
+  "total_area_ha": 0.0195,
+  "reporters": [
+    {
+      "name": "Agat Sp. z o.o.",
+      "address": "Łozice 27, 74-200 Pyrzyce",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Agat Sp. z o.o.",
+      "address": "Łozice 27, 74-200 Pyrzyce",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2,6 mg/kg s.m.",
+      "area_ha": 0.0195
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "79-1980 mg/kg s.m.",
+      "area_ha": 0.0195
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,118 mg/kg s.m.",
+      "area_ha": 0.0195
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,246 mg/kg s.m.",
+      "area_ha": 0.0195
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,258 mg/kg s.m.",
+      "area_ha": 0.0195
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,258 mg/kg s.m.",
+      "area_ha": 0.0195
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3932 mg/kg s.m.",
+      "area_ha": 0.0035
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-09-05",
+    "detection_date": "2017-04-01",
+    "decisions": [
+      {
+        "issue_date": "2018-11-22",
+        "reference": "WSI.511.8.2018.KPi.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-12-01",
+    "planned_end": "2019-03-31",
+    "actual_end": "2019-03-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metodą ex-situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go gruntem wolnym od zanieczyszczeń. Metodą ex-situ zostanie usunięty grunt niespełniający norm przewidzianych dla gruntów grupy I: •\tw przedziale głębokości 0,0-0,25 m ppt - z powierzchni około 195,5 m2, •\tw przedziale głębokości 0,25-1,0 m ppt  - z powierzchni około 35,5 m2. Łącznie zostanie wydobyte około 75,5 m3 gruntu o zawartości zanieczyszczeń przekraczających wartości dopuszczalne ustalone dla gruntów grupy I. Przy założeniu średniej gęstości objętościowej na poziomie 1,9 Mg/m3, stanowi to około 143,45 Mg zanieczyszczonego gruntu.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym dla gruntów grupy I w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).  Ich zawartość w glebie i w ziemi nie będzie zatem przekraczać: •\tna głębokości 0-0,25 m ppt: - suma węglowodorów C6-C12, składników frakcji benzyn – 1 mg/kg s.m., - suma węglowodorów C12-C35, składników frakcji oleju – 30 mg/kg s.m., - benzo(a)piren – 0,1 mg/kg s.m., - benzo(b)fluoranten – 0,1 mg/kg s.m., - benzo(g,h,i)perylen – 0,2 mg/kg s.m., - indeno(1,2,3-c,d)piren – 0,2 mg/kg s.m. •\tna głębokości poniżej 0,25 m ppt, dla gleby i ziemi o wodoprzepuszczalności niższej niż 1x10-7 m/s: - suma węglowodorów C12-C35, składników frakcji oleju – 3000 mg/kg s.m  Pismem z 30.04.2019 r. przekazano \"Sprawozdania z przeprowadzonych działań naprawczych metodą ex situ zanieczyszczenia powierzchni ziemi na terenie likwidowanej stacji paliw zlokalizowanej w Wojkowie, dz. nr ew. 101/19 obręb 0016 Wojkowo, gmina Bisztynek\". Prace zrealizowano zgodnie z decyzją RDOŚ w Olsztynie z 22.11.2018 r.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

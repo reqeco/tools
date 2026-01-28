@@ -1,0 +1,56 @@
+{
+  "registry_id": 1535,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Żory",
+    "municipality": "Żory",
+    "address": "ul. Sosnowa 23",
+    "precinct": "0004 Kleszczów",
+    "parcel_numbers": [
+      "247901_1.0004.1651/93"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((482105.0882165469811298 241738.29863270799978636, 482082.492181614972651 241627.45779035298619419, 482069.27747917297529057 241565.51770992900128476, 482066.26935426099225879 241551.1880797820049338, 482108.05465781298698857 241542.14382940300856717, 482102.40308306500082836 241514.89489155699266121, 482094.55066239601001143 241477.03141625499119982, 482086.5967142740264535 241439.04936609099968337, 482085.18705508601851761 241432.2920568400004413, 482123.53507541102590039 241430.55169839999871328, 482118.78645981202134863 241407.67020344399497844, 482114.0268532820045948 241384.78885517400340177, 482117.52411227597622201 241384.65711419499712065, 482117.68478590698214248 241385.38655091100372374, 482125.93046775099355727 241425.30360023700632155, 482133.80580713500967249 241463.01285447701229714, 482138.49585614097304642 241485.62528456500149332, 482139.82878703298047185 241492.39961056498577818, 482146.04031685902737081 241521.68589883699314669, 482162.23742443899391219 241597.67710119599360041, 482165.67227809899486601 241613.871961372991791, 482155.7293490800075233 241615.47415871400153264, 482187.52555821102578193 241728.58454144900315441, 482140.63192054000683129 241733.65243801299948245, 482105.0882165469811298 241738.29863270799978636))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2019-08-05",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wystąpienie bezpośredniego zagrożenia szkodą w środowisku, tj. zanieczyszczenie ziemi substancjami niebezpiecznymi, w wyniku zdeponowania odpadów w gruncie na nieruchomości zlokalizowanej przy ul. Sosnowej 23 w Żorach (działka numer 1651/93)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Prezydent Miasta Żory",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "ZO EUROBAU Sp. z o.o.",
+      "address": "ul. Sosnowa 23 44-240 Żory",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2019-11-20",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

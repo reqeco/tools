@@ -1,0 +1,89 @@
+{
+  "registry_id": 960,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.066,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "municipality": "Brzeg",
+    "address": "Brzeg, ul. Składowa",
+    "precinct": "obręb 1103 Południe",
+    "parcel_numbers": [
+      "dz. 851/18 obr. Południe"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((392872.56004668423 332400.83100452926,392852.18708925997 332392.8934886493,392852.05479732994 332386.41118402034,392870.84025157406 332365.11218308844,392877.3225562053 332379.1351277996,392886.0538236672 332388.792438779,392872.5600466843 332400.96329646,392872.56004668423 332400.83100452926))",
+    "site_description": "dz. 851/18 obręb Południe w Brzegu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Zbieranie odpadów niebezpiecznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Rosiek&Rosiek Sp. J. Krzysztof i Przemysław Rosiek",
+      "address": "ul. Kaliska 7, 56-500 Syców",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Aldryna",
+      "concentration": "22,81 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,0293 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "α-HCH",
+      "concentration": "0,0120 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rosiek&Rosiek Sp. J. Krzysztof i Przemysław Rosiek",
+        "address": "ul. Kaliska 7, 56-500 Syców",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

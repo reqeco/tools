@@ -1,0 +1,61 @@
+{
+  "registry_id": 2058,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "bytowski",
+    "municipality": "Miastko",
+    "address": "Jezioro Bobięcińskie Wielkie, działka nr 466/4",
+    "precinct": "Bobięcino 0002",
+    "parcel_numbers": [
+      "220106_5.0002.466/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;53°58'39.18\"N ; 16°48'20.20\"E.",
+    "site_description": "Wyspa \"Buszowe Grądy\""
+  },
+  "occurrence_time": {
+    "date": "2024-08-27",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "woda, chronione siedliska przyrodnicze",
+  "event_description": "budowa „chałupniczej” konstrukcji platformy pływającej, która negatywne wpływa na chronione siedlisko przyrodnicze istotne do utrzymania ekosystemu wodnego na jeziorze Bobięcińskim Wielkim",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "TOWARZYSTWO OCHRONY PRZYRODY LOBELIA",
+      "address": "Cybulin 3, 78-426 Sępolno Wielkie, Polska",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym, w stanie ekologicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Jeziora lobeliowe",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2024-10-02",
+    "detection_date": "2024-08-27",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

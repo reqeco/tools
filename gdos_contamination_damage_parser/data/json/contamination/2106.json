@@ -1,0 +1,167 @@
+{
+  "registry_id": 2106,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 11.25,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "Gorzów Wielkopolski",
+    "municipality": "Gorzów Wielkopolski",
+    "address": "Wawrów, ul. Bierzarina 37, gmina Gorzów Wielkopolski,",
+    "precinct": "Wawrów",
+    "parcel_numbers": [
+      "2201/1",
+      "2201/2",
+      "2201/3",
+      "2201/4",
+      "2201/5",
+      "2201/7",
+      "2201/8",
+      "2201/9",
+      "2201/10",
+      "2201/11",
+      "2201/12",
+      "2201/13",
+      "2201/14",
+      "2201/15",
+      "2201/16",
+      "2201/17",
+      "2201/18",
+      "2201/23",
+      "2201/24",
+      "2201/25",
+      "2201/26",
+      "2201/27",
+      "2201/28",
+      "2201/29",
+      "2201/30",
+      "2201/31",
+      "2201/32",
+      "2201/33"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((249031.93623794877 550135.8582165493,248763.3836056178 549801.1596307484,249050.45711032875 549667.5447798781,249066.33214288994 549641.0863936115,249106.01972416547 549625.2113618199,249172.1656928852 549633.1488776216,249203.91575690245 550039.2851065537,249031.93623794877 550135.8582165493))",
+    "site_description": "teren byłego zakładu STOLBUD w Gorzowie Wlkp. Okna i Drzwi S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "lata 1980-2002"
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ATRIUM sp. z o.o.",
+      "address": "ul. Poznańska 41 A, 62-081 Przeźmierowo",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "51,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,25mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "2,06mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,28mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,85mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "2,26mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,07mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,06mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,039mg/kg s.m.",
+      "area_ha": 0.1
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-09-18",
+    "legal_basis": "61 kpa",
+    "case_reference": "WZŚ.515.2.2025.KM",
+    "decisions": [
+      {
+        "issue_date": "2025-07-04",
+        "reference": "WZŚ.515.2.2025.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ATRIUM sp. z o.o.",
+        "address": "ul. Poznańska 41 A, 62-081 Przeźmierowo",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-07-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "-kontrolowane wydobycie ziemi przekraczającej standardy jakości, określone zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2024 r. poz.1657) dla grupy gruntów I - z przedziału głębokości 0-0,25 m p.p.t. na powierzchni ok. 48 054 m2  (sekcje: S1A-S1C, S4A, S3A, S3C, S6A-S6C, S4C, S7C, S9A, S10A, S10B, S12A-S12D, S14A+S14E, S16A, S18A); -kontrolowane wydobycie ziemi przekraczającej standardy jakości, określone zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi dla grupy gruntów I - z przedziału głębokości 0,25-1,0 m p.p.t. na powierzchni ok. 1336,47 m2 (sekcja: OW17);    -przekazanie zanieczyszczonej ziemi do zagospodarowania, zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach (t.j. Dz. U. z 2023 r. poz. 1587, z późn. zm.) - dalej ustawa o odpadach; -zasypanie i zagęszczenie wyrobisk ziemią wolną od zanieczyszczeń, w celu uzupełnienia przestrzeni w powstałym wykopie.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

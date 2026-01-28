@@ -1,0 +1,88 @@
+{
+  "registry_id": 591,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6285,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "olsztyński",
+    "municipality": "Dywity",
+    "address": "Barkweda",
+    "precinct": "0002 Bukwałd",
+    "parcel_numbers": [
+      "2/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((590801.7693268631 667505.6376677621,590777.4276115098 667452.985479123,590805.2089170832 667450.6042243615,590813.9401845443 667378.9019976212,590881.9382372127 667365.9373883624,590881.1444856329 667398.2166195912,590850.1881737089 667461.1875788625,590845.9548319086 667483.9417910408,590855.2152670998 667513.0460159108,590829.8152162965 667502.7272452712,590809.4422588838 667502.9918291429,590801.7693268631 667505.6376677621))",
+    "site_description": "Na działce znajduje się gminna oczyszczalnia ścieków."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Zidentyfikowane potencjalne historyczne zanieczyszczenie powierzchni ziemi jest związane z dawną działalnością stacji paliw na potrzeby Państwowego Gospodarstwa Rolnego."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Dywity",
+      "address": "ul. Olsztyńska 32, 11-001 Dywity",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "31-153 mg/kg s.m.",
+      "area_ha": 0.4467
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,12-0,27 mg/kg s.m.",
+      "area_ha": 0.4667
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,11-0,25 mg/kg s.m.",
+      "area_ha": 0.5589
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-02-15",
+        "reference": "WSI.513.44.2018.KPi.JJ.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 1 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-09-28",
+        "reference": "WSI.515.20.2019.KPi.JJ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101f ust. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Pismem z 04.03.2022 r., znak: GP.6234.2.2018.DP Gmina Dywity przedłożyła wyniki badań zanieczyszczenia gleby i ziemi, wypełniając tym samym obowiązek nałożony decyzją RDOŚ w Olsztynie z 28.09.2020 r., znak: WSI.515.20.219.KPi.JJ.6"
+}

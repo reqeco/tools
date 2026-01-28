@@ -1,0 +1,173 @@
+{
+  "registry_id": 1308,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.996,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Światowida",
+    "precinct": "4-03-09, 4-03-10",
+    "parcel_numbers": [
+      "63/8",
+      "67/1",
+      "69/11",
+      "77/11",
+      "83/8",
+      "81/7",
+      "85/5",
+      "86/5",
+      "87/15",
+      "1/11",
+      "5/6",
+      "6/14",
+      "8/17"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634118.25 496479.47,634119.43 496476.21,634160.52 496498.86,634170.44 496483.44,634129.03 496459.69,634184.82 496358.32,634193.43 496358.01,634287.42 496408.82,634291.83 496413.00,634284.46 496473.77,634268.42 496512.01,634261.19 496508.89,634251.93 496526.52,634259.14 496530.36,634248.69 496551.60,634118.25 496479.47))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ECO 15 Sp. z o.o.",
+      "address": "ul. Bukowińska 21, 02-703 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dieldryna",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 1.996
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 1.996
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-02-13",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.35.2021.DŚc",
+    "decisions": [
+      {
+        "issue_date": "2018-06-11",
+        "reference": "WSI.515.10.2018.SSz.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ECO 15 Sp. z o.o.",
+        "address": "ul. Bukowińska 21, 02-703 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-06-01",
+    "planned_end": "2024-12-31",
+    "actual_end": "2021-05-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

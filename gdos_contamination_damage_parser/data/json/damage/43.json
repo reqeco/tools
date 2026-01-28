@@ -1,0 +1,73 @@
+{
+  "registry_id": 43,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "ostrowiecki",
+    "municipality": "Bodzechów",
+    "address": "Mychów",
+    "precinct": null,
+    "parcel_numbers": [
+      "W dokumentacji sprawy brak danych w zakresie nr ewidencyjnych działek."
+    ],
+    "coordinates_ewkt": "SRID=2180;W dokumentacji sprawy brak danych pozwalających wskazanie współrzędnych lokalizacyjnych.",
+    "site_description": "Teren stacji transformatorowej \"Mychów 1\"  w miejscowości Mychów,  znajdujący się na terenie pola nieużytku rolnego (łąka) w odległości ok. 5 m od drogi, która biegnie od trasy nr 751 przez Mychów-Kolonia- Mychów -Łużyce. Tuz obok znajduje się przystanek autobusowy PKS \"Mychów\". Po przeciwnej stronie ulicy, vis-a-vis stacji transformatorowej znajduje się Kościół."
+  },
+  "occurrence_time": {
+    "date": "2009-04-15",
+    "from": null,
+    "to": null,
+    "description": "Szkoda powstała wskutek awarii transformatora w dniu 15 kwietnia 2009 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu olejem transformatorowym w wyniku awarii transformatora w miejscowości Mychów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PGE Zakłady Energetyczne Okręgu Radomsko-Kieleckiego Dystrybucja Sp. zo.o.",
+      "address": "Al. Marszałka Józefa Piłsudskiego 51 26-110 Skarżysko-Kamienna",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PGE Zakłady Energetyczne Okręgu Radomsko-Kieleckiego Dystrybucja Sp. zo.o.",
+      "address": "Al. Marszałka Józefa Piłsudskiego 51 26-110 Skarżysko-Kamienna",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-04-20",
+    "detection_date": "2009-04-15",
+    "decisions": [
+      {
+        "issue_date": "2009-05-06",
+        "reference": "RDOŚ-26-WSI-6621-022/09/ił",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Kielcach",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2009-05-25",
+    "planned_end": "2009-06-04",
+    "actual_end": "2009-05-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Zakres i sposób przeprowadzenia działań naprawczych polegał na: - wydobyciu silnie zanieczyszczonego gruntu z obszaru wytyczonego przez obrys plamy widocznej na powierzchni terenu; -dokonaniu oceny stopnia zanieczyszczenia pozostałego gruntu i jego selekcji w celu wyeliminowania mniejszych ognisk zanieczyszczenia; - przeprowadzeniu analizy gruntu w celu potwierdzenia całkowitego usunięcia gruntu zanieczyszczonego; - wypełnieniu powstałego wykopu piaskiem, a następnie odtworzenie wierzchniej warstwy glebowej poprzez nawiezienie czystej ziemi oraz obsianie trawą.",
+    "ecological_effect": "Stan środowiska spełnia standardy odpowiadające dla grupy \"B\" zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

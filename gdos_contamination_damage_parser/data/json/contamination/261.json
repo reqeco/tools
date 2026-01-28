@@ -1,0 +1,188 @@
+{
+  "registry_id": 261,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6473,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Wadowicka 3 w Krakowie",
+    "precinct": "0030 Podgórze",
+    "parcel_numbers": [
+      "126104_9.0030.73/4",
+      "126104_9.0030.73/5",
+      "126104_9.0030.73/7",
+      "126104_9.0030.73/11",
+      "126104_9.0030.73/15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((567091.1501990919 241239.59190570097,567105.9668953918 241242.50232818164,567105.966895392 241238.53357025143,567220.2671239933 241202.81474880967,567203.0691729331 241148.31047313195,567113.3752435421 241177.94386573136,567105.9668953919 241213.3981033126,567095.9127086119 241212.0751840016,567091.1501990919 241239.59190570097))",
+    "site_description": "Przedmiotowe zanieczyszczenie  związane jest z wykorzystaniem w latach 50-tych XX wieku zanieczyszczonego gruntu do niwelacji tego terenu."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "Projekt Wadowicka Spółka z ograniczoną odpowiedzialnością",
+      "address": "Al. 29 listopada 20, Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "67,8 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "366 - 960 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "722 - 5410 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "276 - 293 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "238 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "242 - 2280 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "292 - 895 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "16,8 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "8,69 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,5 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "8,39 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "8,08 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,81 [mg/kg s.m.]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-01-04",
+    "legal_basis": "art. 61 § 3 Kpa",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-04-26",
+        "reference": "ZS.515.1.2017.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-11-27",
+        "reference": "ZS.515.13.2018.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-07-08",
+        "reference": "ZS.515.6.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Projekt Wadowicka Spółka z ograniczoną odpowiedzialnością",
+        "address": "Al. 29 listopada 20, Kraków",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2020-01-01",
+    "planned_end": "2021-12-01",
+    "actual_end": "2021-10-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Na powierzchni około 5677 m2 przeprowadzono remediację ex-situ. Na powierzchni około 796 m2, remediacja polegała na ograniczeniu oddziaływania zanieczyszczenia poprzez wykonanie warstwy ochronnej, tj. przykrycie powierzchni terenu warstwą gleby i ziemi o miąższość około 0,5 – 1,0 m, spełniających wymagania określone dla gruntów grupy I, oraz uporządkowaniu istniejącej zieleni, przeprowadzeniu nasadzeń nowej roślinności i wysianiu traw.",
+    "ecological_effect": "W wyniku remediacji ex-situ, w obszarze jej prowadzenia zawartości substancji powodujących ryzyko odpowiadają dopuszczalnym zawartościom ustalonym dla I grupy gruntów, określonym w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395). Na pozostałym obszarze wykonano warstwę ochronną oraz wysiano/nasadzono roślinność.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Wpis dotyczy części działki numer 73/4"
+}

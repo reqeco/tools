@@ -1,0 +1,154 @@
+{
+  "registry_id": 1249,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.039,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "bialski",
+    "municipality": "Międzyrzec Podlaski (gmina miejska)",
+    "address": "ul. Zarówie 9",
+    "precinct": "0001 Obręb 1",
+    "parcel_numbers": [
+      "060101_1.0001.918"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((760025.3086242668 464570.5074718781,760034.0422259598 464579.0509036016,760028.177584264 464584.4212312903,760036.006223056 464592.48026916664,760048.8749023888 464580.2472027065,760034.3442002742 464561.93509185314,760025.3684897126 464570.511596174,760025.3086242668 464570.5074718781)), ((760041.5218849031 464592.7138954345,760038.9015377746 464595.46165423095,760047.60626852 464604.4241469512,760050.3831661288 464601.76135784574,760041.5218849031 464592.7138954345)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PPG Deco Polska Sp. z o. o.",
+      "address": "ul. Kwidzyńska 8, 51-416 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "20.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "4260 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,694 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "3,94 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,22 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "7,196 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,81 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "8,17 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,44 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "3,66 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,41 mg/kg s.m.",
+      "area_ha": 0.039
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "170 mg/kg s.m.",
+      "area_ha": 0.039
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-20",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.515.7.2020.AK",
+    "decisions": [
+      {
+        "issue_date": "2021-04-13",
+        "reference": "WSI.515.7.2020.AK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PPG Deco Polska Sp. z o. o.",
+        "address": "ul. Kwidzyńska 8, 51-416 Wrocław",
+        "economic_activity_code": "20.30.Z"
+      }
+    ],
+    "planned_start": "2021-07-01",
+    "planned_end": "2022-06-30",
+    "actual_end": "2022-06-09",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko określonej dla grupy gruntów I metodą ex situ poprzez usunięcie zanieczyszczonych gruntów do głębokości występowania zanieczyszczenia. Po uzyskaniu wyników badań laboratoryjnych próbek gruntów z dna i ścian wykopów, potwierdzających usunięcie zanieczyszczenia w całości, zasypanie wykopów czystym gruntem, spełniającym dopuszczalne zawartości substancji powodujących ryzyko dla grupy gruntów I. Remediację należy przeprowadzić przy zachowaniu następujących warunków: (a) prace remediacyjne metodą ex-situ powinny być prowadzone z zachowaniem zasad bezpieczeństwa oraz zdrowia i życia ludzi, w tym przepisów BHP, a teren prowadzonych prac remediacyjnych powinien być zabezpieczony przed dostępem osób postronnych, (b) wydobyte, zanieczyszczone masy ziemne należy zagospodarować zgodnie z przepisami o odpadach, w tym przekazać do przetworzenia podmiotom posiadającym stosowne zezwolenia na prowadzenie gospodarowania odpadami, udzielone zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

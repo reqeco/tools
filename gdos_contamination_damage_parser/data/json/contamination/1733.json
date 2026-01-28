@@ -1,0 +1,80 @@
+{
+  "registry_id": 1733,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 1.3392,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "cieszyński",
+    "municipality": "Dębowiec",
+    "address": "ul. Karola Miarki 18  43-190 Mikołów",
+    "precinct": "obręb 0007 Simoradz",
+    "parcel_numbers": [
+      "1115"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((482860.91198291000910103 216211.49488659499911591, 482879.01888417598092929 216215.03129745900514536, 482891.77510584599804133 216216.04053161799674854, 482934.17175712500466034 216219.09314425699994899, 482927.9784361959900707 216274.04456763100461103, 482943.38281596498563886 216275.77805716099101119, 482941.36927239701617509 216294.16447967500425875, 482937.30643544299528003 216293.77890535900951363, 482931.26527234597597271 216346.6494810429867357, 482805.68010164401493967 216331.17384542600484565, 482806.97365799697581679 216321.00236091599799693, 482817.56802737398538738 216322.53014217800227925, 482820.83116414700634778 216297.42086003901204094, 482817.34736120101297274 216296.98758720300975256, 482821.28732246800791472 216267.17194691699114628, 482811.14621566602727398 216265.90796743301325478, 482811.3703130770009011 216263.9760742649959866, 482813.91241797799011692 216264.24200646800454706, 482814.90420367097249255 216256.92292916600126773, 482822.47136245801812038 216257.78148062500986271, 482824.93204154097475111 216239.94877437700051814, 482825.57795560301747173 216235.92244247801136225, 482841.63118990499060601 216239.84603297099238262, 482856.81720153300557286 216241.69237314100610092, 482859.64454221102641895 216225.12405815999954939, 482860.91198291000910103 216211.49488659499911591))",
+    "site_description": "Pismem z 5 czerwca 2021 r., znak WS.641.1.2021, Starosta Cieszyński przekazał Regionalnemu Dyrektorowi Ochrony Środowiska w Katowicach (dalej RDOŚ) aktualizację wykazu potencjalnych historycznych zanieczyszczeń powierzchni ziemi dla Powiatu Cieszyńskiego (dalej wykaz). W wykazie uwzględniono m.in. działkę o nr ew. 1115, obręb 7 Simoradz, położoną w miejscowości Simoradz, gmina Dębowiec, powiat cieszyński. Przedmiotowa nieruchomość stanowi własność Krajowego Ośrodka Wsparcia Rolnictwa z siedzibą w Warszawie, Oddziału Terenowego z siedzibą w Mikołowie."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Krajowy Ośrodek Wsparcia Rolnictwa",
+      "address": "ul. Inflancka 4 00-189 Warszawa 2.\tKrajowy Ośrodek Wsparcia Rolnictwa Oddział Terenowy w Mikołowie ul. Karola Miarki 18  43-190 Mikołów",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-06-29",
+    "legal_basis": "art. 101l ust. 4, 101p ust. 2 i 101q ust. 1 pkt 1 poś",
+    "case_reference": "WSI.513.296.2022.MB.1",
+    "decisions": [
+      {
+        "issue_date": "2022-12-29",
+        "reference": "WSI.513.296.2022.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

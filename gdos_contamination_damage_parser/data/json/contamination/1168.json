@@ -1,0 +1,112 @@
+{
+  "registry_id": 1168,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Olsztyn",
+    "municipality": "Olsztyn",
+    "address": "ul. Lubelska",
+    "precinct": "0077 miasto Olsztyn",
+    "parcel_numbers": [
+      "2/2",
+      "2/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((598983.0386957126 658767.9397590039,599000.765814506 658751.2709756624,599021.1387719302 658743.0688759349,599020.3450203402 658761.0605785847,599035.9554682336 658795.7210645629,599037.278387544 658803.9231643043,599006.8512433476 658816.8877735641,598974.0428443908 658809.2148415558,598978.8053539116 658772.173100804,598976.159515291 658761.325162447,598957.374061047 658731.4271859871,598971.9261734901 658747.0376338651,598983.8324473025 658768.7335105948,598983.0386957126 658767.9397590039))",
+    "site_description": "Działka nr 2/2 jest obecnie zagospodarowana jako parking dla autobusów, natomiast działka 2/3 stanowi część pasa drogowego. Zanieczyszczenie tego terenu jest najprawdopodobniej związane z działalnością wytwórni mas bitumicznych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zarząd Dróg Zieleni i Transportu w Olsztynie",
+      "address": "ul. Knosały 3/5 10-015 Olsztyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "2/2",
+        "2/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "446-1710 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "329-1380 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,99 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "55,6-295 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "230-599 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "224 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">4000 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-09-24",
+    "legal_basis": "101e ust. 1 POŚ",
+    "case_reference": "WSI.513.6.2020.KPi",
+    "decisions": [
+      {
+        "issue_date": "2020-10-19",
+        "reference": "WSI.513.6.2020.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101c ust. 3 pkt 3 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

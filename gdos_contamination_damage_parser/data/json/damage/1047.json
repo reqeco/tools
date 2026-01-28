@@ -1,0 +1,106 @@
+{
+  "registry_id": 1047,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "miński",
+    "municipality": "Mińsk Mazowiecki (gmina wiejska)",
+    "address": "Budy Janowskie",
+    "precinct": null,
+    "parcel_numbers": [
+      "336",
+      "552",
+      "551",
+      "550/1 obręb Janów",
+      "550/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((678058.7767039763 484005.44949491415,677994.7474089136 484048.3120806441,677968.289022512 484012.85784306284,678033.37665303 483969.2015057551,678058.7767039763 484005.44949491415))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa, podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gruntu w rejonie ropociągów składu paliw MPS w jednostce wojskowej",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Stołeczny Zarząd Infrastruktury w Warszawie",
+      "address": "Al. Jerozolimskie 97, 00-909 Warszawa",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Stołeczny Zarząd Infrastruktury w Warszawie",
+      "address": "Al. Jerozolimskie 97, 00-909 Warszawa",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "55,3-2267,90",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1117",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "197-633",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2010",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2017-03-29",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2017-09-27",
+        "reference": "WSI.511.2.2017.MGł.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-01-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "ex-situ oraz in-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

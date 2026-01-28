@@ -1,0 +1,163 @@
+{
+  "registry_id": 1568,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1535,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Pawia",
+    "precinct": "5-01-07",
+    "parcel_numbers": [
+      "33/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636080.69280788 488772.6483776523,636098.9490944094 488742.4858173216,636161.6554698898 488777.6754710404,636142.8700156399 488808.3671990903,636080.69280788 488772.6483776523))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Willa Pawia sp. z o.o.",
+      "address": "Mokotowska 14 lok.201 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "33/1"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.1535
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": 0.011
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.011
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-13",
+    "legal_basis": "101l ust.1",
+    "case_reference": "WOOŚ-IV.515.83.2021",
+    "decisions": [
+      {
+        "issue_date": "2022-02-28",
+        "reference": "WOOŚ-IV.515.83.2021.PBu.4",
+        "issuing_authority": null,
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Willa Pawia sp. z o.o.",
+        "address": "Mokotowska 14 lok.201 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-03-01",
+    "planned_end": "2024-01-30",
+    "actual_end": "2024-04-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ, zastosowanie metody samooczyszczenia w przypadku zanieczyszczonego gruntu z obszaru o powierzchni ok. 600 m2 z głębokości 0,0- 0,25m p.p.t. i z obszaru o powierzchni ok. 50 m2 z głębokości poniżej 0,25m p.p.t. uzasadnione celami ochrony czynnej grupy 23 drzew będących pomnikiem przyrody.",
+    "ecological_effect": "Zawartość substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadziła remediacja jest zgodna z dopuszczalnymi zawartościami substancji powodujących ryzyko określonymi dla grupy I w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (t.j. Dz. U. poz. 1395)",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

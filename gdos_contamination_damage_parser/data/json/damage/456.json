@@ -1,0 +1,88 @@
+{
+  "registry_id": 456,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "parczewski",
+    "municipality": "Jabłoń",
+    "address": "Gęś",
+    "precinct": "0002 Gęś",
+    "parcel_numbers": [
+      "061302_2.0002.1384"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((779196.3915102787 433183.6986691179,779204.0644428371 433175.7611532621,779219.6748919634 433188.1965948343,779212.2665432901 433197.4570300104,779196.1269263865 433183.16950139776,779195.8623425065 433183.16950139776,779196.9206780379 433183.4340852583,779196.3915102787 433183.6986691179))",
+    "site_description": "pas drogowy drogi wojewódzkiej nr 815 Wisznice-Parczew-Siemień-Lubartów w miejscowości Gęś"
+  },
+  "occurrence_time": {
+    "date": "2012-01-13",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi (w pasie drogowym drogi wojewódzkiej nr 85 Wisznice-Parczew-Siemień-Lubartów) w miejscowości Gęś, gmina Jabłoń, w wyniku wypadku drogowego.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Przedsiębiorstwo Handlowe \"CONKRET\" Sp. z o.o.",
+      "address": "ul. Parkowa 13, 21-500 Biała Podlaska",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiębiorstwo Handlowe \"CONKRET\" Sp. z o.o.",
+      "address": "ul. Parkowa 13, 21-500 Biała Podlaska",
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-01-18",
+    "detection_date": "2012-01-13",
+    "decisions": [
+      {
+        "issue_date": "2012-02-23",
+        "reference": "WSI.511.1.2012.RSZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-01-13",
+    "planned_end": "2012-03-31",
+    "actual_end": "2012-03-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięto zanieczyszczone grunty, wykopy po wydobytych masach ziemnych wypełniono czystym gruntem.",
+    "ecological_effect": "Doprowadzenie gruntów do standardów jakości gleby i ziemi obowiązujących dla grupy C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Przedsiębiorstwo Handlowe \"CONKRET\" Sp. z o.o. w Białej Podlaskiej",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

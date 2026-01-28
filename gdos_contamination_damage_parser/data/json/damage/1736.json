@@ -1,0 +1,50 @@
+{
+  "registry_id": 1736,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kartuski",
+    "municipality": "Kartuzy",
+    "address": null,
+    "precinct": "Grzybno",
+    "parcel_numbers": [
+      "344/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((448860.9929302872 723061.1294553261,448887.45131653734 723054.779442627,448903.3263482874 723105.8441280844,448877.92629748734 723110.8712214753,448860.9929302872 723061.1294553261))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "2021 rok"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": null,
+  "event_description": "użycie podkładów kolejowych celem zabezpieczenia nawiezionych mas ziemnych przed",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2023-06-07",
+    "detection_date": "2021-07-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

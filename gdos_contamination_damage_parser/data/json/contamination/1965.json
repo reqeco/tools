@@ -1,0 +1,168 @@
+{
+  "registry_id": 1965,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "Krosno",
+    "municipality": "Krosno",
+    "address": "ul. Gen. Okulickiego 7 38-400 Krosno",
+    "precinct": "0003 Przemysłowa",
+    "parcel_numbers": [
+      "186101_1.0003.49/35",
+      "186101_1.0003.49/37"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((697191.403797901 206465.27038497,697161.672701016 206462.48808311,697160.476270819 206462.346194311,697138.006621357 206459.557282772,697135.336695192 206458.786041117,697134.775995825 206461.061505656,697102.819115016 206452.098847732,697103.366624839 206449.943053052,697095.134568867 206447.713423535,697059.007093375 206437.61949774,697057.051990747 206437.047328732,697045.289559918 206448.326032152,697000.505926233 206496.98180519,696982.430688809 206519.964414239,696965.178084522 206543.228978502,696949.309498046 206569.730963693,696934.309401149 206597.046217917,696921.864449438 206623.809424845,696913.18708192 206646.182209094,696924.724984708 206649.340049915,696918.299569244 206675.033388011,696903.61759157 206670.881636258,696900.782255696 206678.197393518,696896.088720646 206690.314495044,696885.488921589 206717.646936115,696855.195613391 206803.555039261,696835.371815069 206859.136705459,696832.558082792 206867.143154415,696807.952914151 206949.402092641,696822.16038155 206950.340661679,696827.18262854 206950.664482,696835.57747405 206951.288181257,696916.132407974 206947.122982534,696916.602692721 206956.877204482,696947.404496198 206958.887939852,697036.571782515 206964.453821619,697058.633869792 206966.02170448,697077.504613158 206967.994658821,697052.051405328 206956.684756598,697052.273540382 206956.230593817,697070.74445939 206918.395954209,697137.023108175 206861.811348102,697159.071705016 206833.473637987,697192.65171861 206856.97211327,697210.640839766 206869.513428775,697222.027770457 206877.588121244,697260.06903756 206878.541480571,697259.021252254 206842.407246463,697270.916651261 206834.022598866,697294.868064394 206846.892773125,697328.829396744 206857.579170456,697331.282445858 206880.00843814,697334.007296365 206905.375460642,697349.313728024 206898.851989664,697356.506995185 206895.773035662,697389.581988676 206881.911524338,697393.04143162 206880.453407258,697387.106220917 206852.450412403,697388.146478408 206843.436536042,697371.154731023 206842.263773643,697349.510264404 206840.787037998,697352.03320975 206803.897762212,697352.28084055 206800.233714754,697356.114531057 206800.495866313,697368.074558654 206801.324552161,697373.925041385 206801.72044197,697374.053720999 206799.893548552,697383.217250971 206800.947792784,697383.643044546 206796.978436465,697384.674881836 206787.154193519,697384.702059688 206786.884870087,697385.625451502 206778.127926138,697383.929819835 206777.952734485,697375.093184978 206777.017218253,697369.258532921 206775.651580401,697367.974412135 206784.808986577,697341.015138918 206781.600398673,697340.776065754 206781.564024894,697328.273377644 206780.080772118,697328.113729302 206780.066517594,697309.738297198 206777.896731834,697315.017784476 206770.065971252,697318.202082725 206765.419966231,697318.295762048 206765.282437143,697319.612352394 206763.917263385,697323.39180419 206759.4571419,697348.945836761 206720.800956998,697399.282917553 206725.372410852,697404.411389065 206725.839081875,697405.396536898 206723.774957298,697406.068239331 206716.581583769,697417.215772846 206717.498642167,697419.306447635 206724.245509261,697418.770080147 206729.362122743,697424.992667342 206735.688963552,697472.091920741 206741.284366361,697502.689766156 206734.058023601,697534.666288178 206729.518871331,697545.273683194 206729.311346743,697590.231493239 206732.319260285,697592.733020565 206692.478861588,697560.260415718 206689.733523456,697504.058032894 206684.945823227,697467.40396808 206687.860115631,697454.989450005 206675.557312726,697451.257885735 206667.706548849,697413.847861105 206629.913559164,697411.039569093 206632.459212614,697387.71440251 206608.093712489,697361.14070399 206583.65168487,697359.804923688 206584.986343217,697342.944557514 206569.494584191,697334.509377147 206561.748572257,697321.322839392 206552.895824424,697313.010056775 206547.31345262,697306.544588856 206542.970497594,697281.104767628 206525.899972623,697261.649196024 206512.839529733,697231.650659783 206492.687060054,697232.082287659 206469.724537265,697202.129030088 206466.64626613,697193.167793846 206465.507406168,697191.403797901 206465.27038497),(696944.591203577 206872.638002555,696990.128973764 206874.521184953,696990.126591894 206865.599567775,697054.065842678 206881.81535376,697051.262984643 206892.792616399,696993.07343202 206890.142328426,696993.60793124 206908.749805163,696943.572712817 206907.116875032,696942.99391815 206896.17955635,696944.591203577 206872.638002555)))",
+    "site_description": "1.P,U - teren obiektów produkcyjnych i usługowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pozostałych pomp i sprężarek",
+    "current": "Produkcja pozostałych części i akcesoriów do pojazdów silnikowych, z wyłączeniem motocykli"
+  },
+  "land_holders": [
+    {
+      "name": "BWI Poland Technologies Sp. z o.o.",
+      "address": "ul. Gen. Okulickiego 7 38-400 Krosno",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "186101_1.0003.49/35",
+        "186101_1.0003.49/37"
+      ],
+      "economic_activity_code": "29.32.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,017 - 0,046 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "0,028 - 0,071 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dichloroeten",
+      "concentration": "0,0258 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3 - 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "32,1 - 1270 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,301 - 0,616 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "0,11 - 2,39 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dichloroeten",
+      "concentration": "0,142 - 0,321 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "53,2 - 66 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">10000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1320 - >10000 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-01-08",
+    "legal_basis": "art. 61 par. 1 i par. 4 Kpa oraz art. 101c ust. 3 pkt 3 Poś",
+    "case_reference": "WSI.513.29.2023.AL",
+    "decisions": [
+      {
+        "issue_date": "2024-02-21",
+        "reference": "WSI.513.29.2023.AL.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2024-03-11",
+      "reason": "- naruszenie par. 2 pkt 3 lit. c rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie rejestru historycznych zanieczyszczeń powierzchni ziemi poprzez niewskazanie w decyzji granic obszaru wystąpienia zanieczyszczenia za pomocą współrzędnych, co skutkowało wpisem do rejestru historycznych zanieczyszczeń powierzchni ziemi o potencjalnym historycznym zanieczyszczeniu powierzchni ziemi terenu całych działek o nr ewid.: 49/35 i 49/37 obręb 0003 Przemysłowa Miasto Krosno, podczas gdy zanieczyszczenia są zlokalizowane tylko na części działek - naruszenie art. 77 Kpa poprzez wskazanie w uzasadnieniu decyzji informacji niezgodnych ze zgromadzonym w sprawie materiałem dowodowym",
+      "appealed_decision_reference": "WSI.513.29.2023.AL.4",
+      "resolution_reference": null,
+      "appellant_name": "adwokat(…) - pełnomocnik BWI Poland Technologies Sp. z o.o.",
+      "appellant_address": "Rymarz, Zdort, Maruta, Wachta, Gasiński, Her i Wspólnicy Sp.k., ul. Prosta 18, 00-850 Warszawa",
+      "resolution_date": null,
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": null
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "BWI Poland Technologies Sp. z o.o.",
+        "address": "ul. Gen. Okulickiego 7 38-400 Krosno",
+        "economic_activity_code": "29.32.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Sprawa znak: WSI.513.29.2023.AL - wpis do rejestru historycznych zanieczyszczeń powierzchni ziemi o potencjalnym historycznym zanieczyszczeniu powierzchni ziemi"
+}

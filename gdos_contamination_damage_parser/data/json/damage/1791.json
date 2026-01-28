@@ -1,0 +1,74 @@
+{
+  "registry_id": 1791,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina wiejska)",
+    "address": null,
+    "precinct": "Szklary Górne",
+    "parcel_numbers": [
+      "391/30",
+      "Szklary Górne"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((303070.33787621278315783 400253.36174258217215538, 303069.64837076503317803 400255.40195648185908794, 303072.54339084005914629 400255.24373132362961769, 303070.33787621278315783 400253.36174258217215538)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2023-04-08",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W dniu 8 kwietnia 2023 r. na terenie działki o nr ewid. 391/30 obręb Szklary Górne, gmina Lubin, doszło do awarii rurociągu stalowego, przesyłającego wody technologiczne z Obiektu Unieszkodliwiania Odpadów Wydobywczych „Żelazny Most”. W wyniku rozszczelnienia rurociągu doszło do zalania działek o nr ewid. 391/30 i 844 obręb Szklary Górne. Oceniono, że łączna powierzchnia zalanego obszaru wynosiła ok. 0,055 ha.",
+  "total_area_ha": 0.0003,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. Polkowicka 52, 59-305 Rudna",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. Polkowicka 52, 59-305 Rudna",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1124 mg/kg s.m.",
+      "area_ha": 0.0003
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2024-03-08",
+    "detection_date": "2023-04-08",
+    "decisions": [
+      {
+        "issue_date": "2024-11-26",
+        "reference": "WSI.511.1.2024.ŁJ.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 17b ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Postępowanie znak: WSI.511.1.2024.ŁJ. Decyzja zwalniająca podmiot korzystający ze środowiska z obowiązku prowadzenia działań naprawczych"
+}

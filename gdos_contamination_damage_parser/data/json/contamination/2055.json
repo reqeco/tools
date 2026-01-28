@@ -1,0 +1,114 @@
+{
+  "registry_id": 2055,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": null,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Bielsko-Biała",
+    "municipality": "Bielsko-Biała",
+    "address": "ul. Grażyńskiego",
+    "precinct": "0053 Dolnej Przedmieście",
+    "parcel_numbers": [
+      "246101_1.0053.13"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((503593.46270407602423802 218383.67959284101380035, 503661.46909373998641968 218371.7895136289880611, 503650.01934030698612332 218300.09990121598821133, 503648.44825079297879711 218287.95892471401020885, 503647.54065921501023695 218280.60591658801422454, 503647.63304235099349171 218262.81647576799150556, 503650.69934205099707469 218234.23448253300739452, 503654.60293330997228622 218205.49141718598548323, 503654.73174017801648006 218203.91074557098909281, 503656.52637713501462713 218195.15615069199702702, 503657.44491190800908953 218190.80320989098981954, 503659.52041574998293072 218183.08061771199572831, 503663.47308142198016867 218169.99651638700743206, 503597.2381569659919478 218182.08284296898636967, 503599.30347410700051114 218191.568978210008936, 503608.71534026402514428 218237.85262996298843063, 503605.92686454200884327 218248.31292505099554546, 503560.60820614302065223 218299.34415218399954028, 503557.42784318700432777 218302.9042536850029137, 503535.12587088602595031 218327.86545912400470115, 503544.22016885597258806 218392.29132268400280736, 503593.46270407602423802 218383.67959284101380035))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-02-19",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.197.2024.MS2",
+    "decisions": [
+      {
+        "issue_date": "2024-07-18",
+        "reference": "WSI.513.197.2024.MS2.5",
+        "issuing_authority": null,
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

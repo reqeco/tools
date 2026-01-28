@@ -1,0 +1,54 @@
+{
+  "registry_id": 2078,
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kluczborski",
+    "municipality": "Kluczbork",
+    "address": "ciek Stara Stobrawa przy ul. Jagiellońskiej w Kluczborku",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2025-01-21",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Państwowe Gospodarstwo Wodne Wody Polskie Regionalny Zarząd Gospodarki Wodnej w Gliwicach)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "woda",
+  "event_description": "Zanieczyszczenie cieku Stara Stobrawa, w okolicy ul. Jagiellońskiej w m. Kluczbork, w postaci utrzymującego się na powierzchni opalizującego filmu.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-02-17",
+    "detection_date": "2025-01-21",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,97 @@
+{
+  "registry_id": 169,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "grójecki",
+    "municipality": "Warka",
+    "address": "Branków",
+    "precinct": null,
+    "parcel_numbers": [
+      "312/1",
+      "209 (rów przy drodze)"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639615.4204395898 428546.31220699474,639669.1309637417 428493.7923102835,639682.4924488179 428506.2277518222,639633.1475584011 428553.85284707416,639650.8746772124 428566.28828861285,639647.5673789287 428569.5955868941,639615.4204395898 428546.31220699474))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2012-01-12",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu powierzchni ziemi w wyniku wypadku drogowego na drodze nr 731 w m. Branków, gm.Warka",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ",
+      "address": "ul. Bartycka 110a, Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) Usługi Transportowe",
+      "address": "(…)",
+      "economic_activity_code": "49.41.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "31201-39428",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "248-48462",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2012-02-20",
+    "detection_date": "2012-01-12",
+    "decisions": [
+      {
+        "issue_date": "2012-05-10",
+        "reference": "WSI.510.7.2012.MGł.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-05-04",
+        "reference": "WOOŚ-IV.511.8.2019.MTo.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-06-01",
+    "planned_end": "2012-10-31",
+    "actual_end": "2020-02-19",
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "Złożono badania gleby z 2020 r., gdzie nie stwierdzono zanieczyszczeń. Postępowanie zakończone uchyleniem decyzji nakładającej przeprowadzenie działań naprawczych."
+}

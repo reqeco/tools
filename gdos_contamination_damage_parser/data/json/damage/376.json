@@ -1,0 +1,71 @@
+{
+  "registry_id": 376,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "piaseczyński",
+    "municipality": "Piaseczno",
+    "address": "Głosków ul. Wierzbowa 4c",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((632072.8877485988 464336.95038435794,632093.2607060277 464369.2296155859,632126.8628565972 464348.85665816534,632104.9023959971 464317.9003462568,632104.9023959971 464317.9003462568,632105.960731448 464317.106594665,632072.8877485988 464336.95038435794))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2011-03-29",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu fenolem na terenie warsztatu blacharsko-lakierniczego (…) przy ul.Wierzbowej 4c, Baszkówka w m.Głosków",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektor Ochrony Środowiska w Warszawie",
+      "address": "ul. Bartycka 110 a, 00-716 Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2011-04-01",
+    "detection_date": "2011-03-29",
+    "decisions": [
+      {
+        "issue_date": "2011-09-06",
+        "reference": "WSI.510.60.2011.ES.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-11-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": "gleba po przeprowadzeniu działań spełnia standardy określone prawem",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

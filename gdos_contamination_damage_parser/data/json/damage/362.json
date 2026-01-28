@@ -1,0 +1,65 @@
+{
+  "registry_id": 362,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Warszawa ul. Złoptopolska 10",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POINT(639535.5230550724 491829.9149088096)",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w siedliskach chronionego gatunku kawki na terenie budynku mieszkalnego przy ul.Złotopolskiej 10 w Warszawie",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "SOLAN Zarządzanie Nieruchomościami Mieszkalnymi i Komercyjnymi",
+      "address": "(…)",
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-07-21",
+    "detection_date": "2010-06-09",
+    "decisions": [
+      {
+        "issue_date": "2011-03-04",
+        "reference": "WSI.512.2.2011.WM.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-03-31",
+    "actual_end": "2011-04-06",
+    "method": null,
+    "description": "Powieszenie budek lęgowych",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

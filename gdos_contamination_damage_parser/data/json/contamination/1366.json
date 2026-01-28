@@ -1,0 +1,93 @@
+{
+  "registry_id": 1366,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.025,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Annopol 20",
+    "precinct": "4-07-10",
+    "parcel_numbers": [
+      "14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637143.7113936828 496071.458808586,637457.2432711254 496194.4903046414,637475.7641415161 496158.7714832127,637491.6391732792 495980.17737602256,637483.7016573983 495937.843958023,637514.1288016131 495902.1251365803,637234.9928263433 495876.98966964707,637143.7113936828 496071.458808586))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PDC Industrial Center 135 sp. z o.o.",
+      "address": "ul. Plac Europejski 1 00-844 Warszawa",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "14"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.025
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-10",
+    "legal_basis": "art.101l ust.4",
+    "case_reference": "WOOŚ-IV.515.43.2020.DŚc",
+    "decisions": [
+      {
+        "issue_date": "2020-11-12",
+        "reference": "WOOŚ-IV.515.43.2020.DŚc",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PDC Industrial Center 135 sp. z o.o.",
+        "address": "ul. Plac Europejski 1 00-844 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-11-01",
+    "planned_end": "2020-12-01",
+    "actual_end": "2020-12-16",
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

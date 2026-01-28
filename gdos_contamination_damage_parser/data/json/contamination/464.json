@@ -1,0 +1,91 @@
+{
+  "registry_id": 464,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3971,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "wągrowiecki",
+    "municipality": "Skoki",
+    "address": "Baza Paliw nr 4, 62-093 Rejowiec",
+    "precinct": "Rejowiec",
+    "parcel_numbers": [
+      "część działki 199"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((376739.08761878876 528803.3640666008,376627.433228749 528661.01794858,376653.8916150187 528496.446786101,376880.9045691825 528644.0845813854,376739.08761878876 528803.3640666008))",
+    "site_description": "część działki nr 199, na terenie Bazy Paliw nr 4 w Rejowcu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Baza funkcjonuje od lat 90-tych XX w., w tym czasie miały miejsce awaryjne wycieki substancji ropopochodnych."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PERN S.A.",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "52.10.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3700 mg/kg s.m.",
+      "area_ha": 0.3971
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "9387 mg/kg s.m.",
+      "area_ha": 0.3971
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-06-04",
+    "legal_basis": "art. 101l ustawy Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-08-23",
+        "reference": "WSS.515.23.2018.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PERN S.A.",
+        "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+        "economic_activity_code": "52.10.B"
+      }
+    ],
+    "planned_start": "2019-01-31",
+    "planned_end": "2027-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

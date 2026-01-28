@@ -1,0 +1,133 @@
+{
+  "registry_id": 1772,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5526,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Talarowa dzielnica Białołęka",
+    "precinct": "4-03-03",
+    "parcel_numbers": [
+      "13/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((632868.8299227431 497185.2245778702,632896.2143525392 497162.86724147946,632904.2841603573 497173.31830404885,632908.1206263609 497170.27558962815,632918.9685647315 497183.63707469124,632943.0456962446 497163.2641172791,632956.0103055174 497171.3339250786,632967.3874116186 497185.3568698,632968.8426228715 497233.2465489069,632987.4957851901 497255.8684691461,632951.6446717861 497287.3539487878,632868.8299227431 497185.2245778702))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska sp. z o.o.",
+      "address": "ul. Rondo ONZ 1 lok 24, 00-124 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-01-12",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.3.2023.PBu",
+    "decisions": [
+      {
+        "issue_date": "2023-03-16",
+        "reference": "WOOŚ-IV.515.3.2023.PBu.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska sp. z o.o.",
+        "address": "ul. Rondo ONZ 1 lok 24, 00-124 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-03-01",
+    "planned_end": "2023-08-30",
+    "actual_end": "2023-05-25",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex- situ",
+    "ecological_effect": "Zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

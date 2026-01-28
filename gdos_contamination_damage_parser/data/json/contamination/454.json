@@ -1,0 +1,112 @@
+{
+  "registry_id": 454,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 5.1,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Bytom",
+    "municipality": "Bytom",
+    "address": "\"Orzeł Biały\" S.A. ul. Siemianowicka 98 41-902 Bytom",
+    "precinct": "0013 Rozbark a. m. 2",
+    "parcel_numbers": [
+      "246201_1.0013.AR_2.356/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((496024.434000 274786.341000,496037.133000 274835.941100,496063.860000 274825.697000,496047.817000 274877.592000,496068.057000 274956.604000,496070.738000 274957.537000,496105.601000 274963.015000,496122.611000 274963.696000,496206.703000 274948.235000,496207.913000 274946.769000,496240.129000 274940.490000,496259.034000 274938.647100,496288.775000 274933.390000,496348.411000 274923.004000,496341.292000 274878.896000,496324.673000 274777.879000,496363.167000 274771.695000,496382.420000 274768.278000,496374.877000 274714.141000,496271.242000 274730.825000,496245.550000 274615.018000,496242.838000 274602.812000,496222.397000 274622.725000,496200.051000 274645.822100,496171.821000 274672.826100,496143.659000 274696.770000,496106.741000 274724.290000,496078.051000 274746.073000,496052.232000 274765.829000,496027.339000 274783.893000,496024.434000 274786.341000))",
+    "site_description": "Na działce o nr ewidencyjnym nr 356/6 zlokalizowana była nieczynna instalacja do przerobu złomu akumulatorowego."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1996-01-01",
+    "description": "Na omawianym terenie już od 1910 r. prowadzona była działalność przemysłowa związana z intensywnym wydobyciem i przetwarzaniem rud cynku i ołowiu. Początek działalności przemysłowej na tym obszarze sięga 1858 r., kiedy to w rejonie Niecki Bytomskiej rozpoczęto zorganizowane wydobycie rudy cynkowo-ołowiowej. Ponadto, badania przeprowadzone przed 1996 r. wykazały już wówczas zanieczyszczenie gruntu metalami ciężkimi."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Zbieranie odpadów niebezpiecznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORZEŁ BIAŁY S.A.",
+      "address": "ul. Harcerska 23 41-946 Piekary Śląskie",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "38.12.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Arsen (As)",
+      "concentration": "973",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Cynk (Zn)",
+      "concentration": "18360",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Kadm (Cd)",
+      "concentration": "191",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Miedź (Cu)",
+      "concentration": "10420",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Ołów (Pb)",
+      "concentration": "12180",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-08-19",
+    "legal_basis": "art. 101l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-10-04",
+        "reference": "WSI.511.16.3.2016.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 104 Kpa, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ORZEŁ BIAŁY S.A.",
+        "address": "ul. Harcerska 23 41-946 Piekary Śląskie",
+        "economic_activity_code": "38.12.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

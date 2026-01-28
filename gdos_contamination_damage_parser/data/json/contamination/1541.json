@@ -1,0 +1,127 @@
+{
+  "registry_id": 1541,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.077,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Postępu 2 Dzielnica Mokotów",
+    "precinct": "1-08-13",
+    "parcel_numbers": [
+      "30"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636272.0663156188 480346.8429843439,636219.1495430563 480198.67602134496,636310.6955595859 480166.9259578455,636335.0372749652 480246.30111659225,636316.5164045651 480251.5927938456,636341.3872876744 480324.61793989316,636272.0663156188 480346.8429843439))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Ghelamco GP7 sp. z o.o. Postępu S.K.A.",
+      "address": "Plac Europejski 1 00-844 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.062
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.062
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.062
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.015
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-10",
+    "legal_basis": "101l ust.1",
+    "case_reference": "WOOŚ-IV.515.82.2021",
+    "decisions": [
+      {
+        "issue_date": "2022-02-11",
+        "reference": "WOOŚ-IV.515.82.2021.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-05-16",
+        "reference": "WOOŚ-IV.515.82.2021.PBu.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 162 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Ghelamco GP7 sp. z o.o. Postępu S.K.A.",
+        "address": "Plac Europejski 1 00-844 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-02-01",
+    "planned_end": "2024-02-28",
+    "actual_end": null,
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Ghelamco GP7 sp. z o.o. Postępu S.K.A., przekształcona w Ghelamco Postępu sp. z o. o. sprzedała nieruchomość i utraciła status władającego powierzchnią działki o nr ew. 30, wydano decyzję wygaszającą"
+}

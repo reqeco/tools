@@ -1,0 +1,103 @@
+{
+  "registry_id": 1199,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1055,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Miedziana",
+    "precinct": "obręb 004 Dąbrówka Mała",
+    "parcel_numbers": [
+      "246901_1.0004.AR_12.594/5",
+      "246901_1.0004.AR_12.610/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((504737.713000 266759.870000,504767.704000 266714.365000,504770.008000 266712.565000,504772.511000 266712.881000,504781.099000 266718.333000,504786.610000 266735.029000,504753.097000 266789.116000,504765.547000 266797.874000,504742.647000 266831.861000,504745.774000 266833.967000,504825.344000 266887.446000,504851.696000 266905.142000,504911.829000 266815.758000,504911.365000 266795.337000,504788.046000 266712.493000,504778.929000 266708.528000,504769.273000 266708.428000,504760.565000 266711.912000,504753.374000 266718.955000,504729.257000 266754.547000,504737.713000 266759.870000)),((504796.494000 266700.057000,504910.961000 266777.163000,504908.649000 266674.906000,504785.811000 266695.593000,504796.494000 266700.057000)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2000-01-01",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Magazynowanie i przechowywanie pozostałych towarów"
+  },
+  "land_holders": [
+    {
+      "name": "PDC INDUSTRIAL CENTER 102  Spółka z o. o.",
+      "address": "ul. Grzybowska 2/29 00-131 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246901_1.0004.AR_12.594/5",
+        "246901_1.0004.AR_12.610/5"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "23000 mg/kg s.m.",
+      "area_ha": 0.1055
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "23000 mg/kg s.m.",
+      "area_ha": 0.1055
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-04-10",
+    "legal_basis": "art. 101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo Ochrony Środowiska (Dz. U. z 2019 r. poz. 1396 ze zm.)",
+    "case_reference": "WSI.515.3.2020.TK",
+    "decisions": [
+      {
+        "issue_date": "2020-08-26",
+        "reference": "WSI.515.3.2020.TK.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-12-10",
+        "reference": "WSI.515.15.2021.TK.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PDC INDUSTRIAL CENTER 102  Spółka z o. o.",
+        "address": "ul. Grzybowska 2/29 00-131 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-10-01",
+    "planned_end": "2022-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń",
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi polegać będzie na zmniejszeniu ilości zanieczyszczeń w zakresie sumy węglowodorów C12-C35, składników frakcji oleju do wartości 11 000 mg/kg s.m., poprzez wydobycie zanieczyszczonej gleby i ziemi w obszarach: Obszar A – o powierzchni około 350 m2 (0,035 ha), do głębokości 1,0 m p.p.t.;  Obszar B – o powierzchni około 270 m2 (0,027 ha), do głębokości 1,0 m p.p.t.;  Obszar C – o powierzchni około 290 m2 (0,029 ha), do głębokości 3,5 m p.p.t.;  Obszar D – o powierzchni około 145 m2 (0,0145 ha), do głębokości 1,5 m p.p.t..",
+    "ecological_effect": "Remediacja historycznego zanieczyszczenia powierzchni ziemi doprowadzi do zmniejszenia ilości zanieczyszczeń na głębokości 0 – 0,25 m p.p.t. oraz głębokości przekraczającej 0,25 m p.p.t w zakresie wskaźnika: suma węglowodorów C12-C35, składników frakcji oleju – 11 000 mg/kg s.m.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

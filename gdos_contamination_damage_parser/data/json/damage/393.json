@@ -1,0 +1,120 @@
+{
+  "registry_id": 393,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "nowodworski",
+    "municipality": "Nowy Dwór Gdański",
+    "address": "Rakowo",
+    "precinct": "0020 Wierciny",
+    "parcel_numbers": [
+      "199/115 obręb Wierciny"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((513578.76627718 697861.5809410317,513569.77042585 697896.5060108807,513496.7452798 698010.277071761,513459.1743713299 698122.9897971814,513418.4284565 698182.2565823784,513403.61176019994 698217.1816522311,513413.13677925005 698274.331766529,513405.7284311 698308.1985009303,513385.09088983014 698328.306874482,513354.9283295 698348.9444157602,513320.53242738 698375.402802011,513296.19071203005 698391.8070014799,513246.44894587994 698399.2153496305,513282.43235118 698473.2988311313,513367.6283549 698410.3278718609,513393.55757343 698400.8028528094,513472.40356445 698477.5321729295,513477.6952417 698526.2156036412,513522.1453306 698574.8990343409,513534.31618828 698579.13237614,513759.74163912993 698555.8489962397,513923.2544661501 698575.428202061,513852.345991 698560.0823380398,513860.8126746 698482.8238501791,513875.62937089993 698447.3696126118,513880.92104814993 698409.7987041296,513936.4836592801 698363.2319443282,513940.7170010799 698348.4152480299,513939.65866562986 698323.0151972305,514004.21712808 698208.7149686301,514023.26716617995 698079.5980437305,513982.52125134994 698059.4896701798,513908.96693758 698022.9770971611,513790.43336718006 697957.8894669814,513745.98327828 697918.7310553286,513678.24980948 697890.685165911,513578.76627718 697861.5809410317))",
+    "site_description": "Teren zlikwidowanej stacji paliw w miejscowości Rakowo"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2011-04-01",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie zlikwidowanej stacji paliw w miejscowości Rakowo",
+  "total_area_ha": 31.0,
+  "reporters": [
+    {
+      "name": "PROKOM Investments S.A.",
+      "address": "ul. Podolska 21, 81-231 Gdynia",
+      "legal_form": "Spółka Akcyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "POL JAZOWA AGRO SP.ZO.O.",
+      "address": "00-519 Warszawa, ul. Wspólna 35/7",
+      "economic_activity_code": "01.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "461-3010 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2824-14090 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Etylobenzen",
+      "concentration": "1,61-4,26 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Ksyleny",
+      "concentration": "1,77-12,3 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Styren",
+      "concentration": "1,43 mg/kg s.m.",
+      "area_ha": 0.02
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Benzen"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-08-12",
+    "detection_date": "2011-04-01",
+    "decisions": [
+      {
+        "issue_date": "2011-10-18",
+        "reference": "RDOŚ-Gd-WSI.I.510.57.2011.WZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-11-18",
+    "planned_end": null,
+    "actual_end": "2011-11-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Wybrano i przekazano do unieszkodliwienia zanieczyszczony grunt w rejonie wystąpienia skażenia substancjami ropopochodnymi. Odpompowano z rejonu wykopu skażoną wodę i przekazano ją do unieszkodliwienia. Wypełniono powstałą po wybranym gruncie przestrzeń ziemią nieskażoną.",
+    "ecological_effect": "Doprowadzono do poziomu zanieczyszczeń w glebie nie przekraczających wartości przewidzianych dla funkcji grupy B - grunty zaliczone do użytków rolnych z wyłączeniem gruntów pod stawami i gruntów pod rowami, grunt leśne oraz zadrzewione i zakrzewione, nieużytki, a także grunty zabudowane i zurbanizowane z wyłączeniem terenów przemysłowych, użytków kopalnych oraz terenów komunikacyjnych podanych w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359) Doprowadzono wody podziemne do stanu, w którym stężenie nie będzie przekraczało wartości: substancji ropopochodnych 300 µg/dm3",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

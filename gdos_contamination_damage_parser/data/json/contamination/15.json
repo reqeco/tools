@@ -1,0 +1,91 @@
+{
+  "registry_id": 15,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0006,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Siechnice",
+    "address": "Siechnice",
+    "precinct": "Siechnice",
+    "parcel_numbers": [
+      "230/22 obręb Siechnice"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((369286.18695033737458289 354098.35647583287209272, 369288.78809712862130255 354098.5110950730741024, 369390.0797748890472576 354104.31340624298900366, 369390.23101394670084119 354121.3451095363125205, 369388.27092735230689868 354137.48581179790198803, 369389.80614476907067001 354137.17507701925933361, 369412.76150767307262868 354137.45323491841554642, 369434.12448896031128243 354137.51309780683368444, 369435.3670181201887317 354139.2056034104898572, 369436.25036093947710469 354181.44812033884227276, 369483.44887922122143209 354181.87699061911553144, 369500.93589604884618893 354184.33860801812261343, 369507.4783994120080024 354184.69962609000504017, 369513.7773273954517208 354186.26351083815097809, 369524.4299206230789423 354189.68758892826735973, 369526.44736123608890921 354190.28997040819376707, 369546.15501413639867678 354200.95841994881629944, 369550.18387956265360117 354200.9836971340700984, 369552.86665176757378504 354197.57851315289735794, 369554.66832963126944378 354199.22344228252768517, 369576.99152299610432237 354228.77944174595177174, 369605.73844605323392898 354240.3747915867716074, 369722.7978428146452643 354243.49392683245241642, 369731.95116226212121546 354238.83133233804255724, 369739.97080501390155405 354230.18559621460735798, 369742.24602234788471833 354232.1039934353902936, 369762.43559304613154382 354208.31854382995516062, 369769.4317261193646118 354197.17762445751577616, 369810.59660335257649422 354170.6683258069679141, 369847.17826293164398521 354147.48005241807550192, 369850.63160497788339853 354144.87411227636039257, 369889.45821811829227954 354112.53871576394885778, 369949.72923209518194199 354062.69853793364018202, 369944.70562081690877676 354055.66934253834187984, 369937.81557640375103801 354054.74325060192495584, 369905.5574016347527504 354050.32294510118663311, 369890.09489191987086087 354048.98342008423060179, 369885.02348178892862052 354048.74237901903688908, 369768.89102678780909628 354043.21150300931185484, 369581.66104519896907732 354035.20704402588307858, 369453.84967048431281 354029.44484789855778217, 369382.98536247608717531 354026.47827884741127491, 369384.6983586045098491 354033.37248925771564245, 369384.91018801718018949 354034.24929121695458889, 369318.07817813230212778 354036.71597256325185299, 369307.99848093581385911 354037.20267754048109055, 369305.45568162103882059 354054.60083438642323017, 369300.24553031724644825 354075.80382041539996862, 369286.18695033737458289 354098.35647583287209272))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i zaopatrywanie w parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych",
+    "current": "Wytwarzanie i zaopatrywanie w parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych"
+  },
+  "land_holders": [
+    {
+      "name": "Zespołu Elektrociepłowni Wrocławskich KOGENERACJI S.A.",
+      "address": "ul. Łowiecka 24, 50-220 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Chrom (Cr)",
+      "concentration": "927 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Chrom (Cr)",
+      "concentration": "173-323 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-02-20",
+    "legal_basis": "art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska",
+    "case_reference": "WSI.511.1.2015.MR",
+    "decisions": [
+      {
+        "issue_date": "2015-03-24",
+        "reference": "WSI.511.1.2015.MR.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Zespołu Elektrociepłowni Wrocławskich KOGENERACJI S.A.",
+        "address": "ul. Łowiecka 24, 50-220 Wrocław",
+        "economic_activity_code": "35.30.Z"
+      }
+    ],
+    "planned_start": "2015-04-01",
+    "planned_end": "2019-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczonego gruntu metodą ex – situ, poprzez wydobycie i przekazanie do odzysku lub unieszkodliwienia poza miejscem jego pierwotnego występowania oraz dowiezienie czystego gruntu do wykopów i jego zagęszczenie.  W razie napływu zanieczyszczonych wód, odpompowanie ich i przekazanie do unieszkodliwienia.",
+    "ecological_effect": "sprawozdanie z przeprowadzenia remediacji wraz z wynikami badań kontrolnych powierzchni ziemi",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

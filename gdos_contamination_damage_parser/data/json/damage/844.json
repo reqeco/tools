@@ -1,0 +1,64 @@
+{
+  "registry_id": 844,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Dąbrowa Górnicza",
+    "municipality": "Dąbrowa Górnicza",
+    "address": "Dąbrowa Górnicza, ul. Poboczna",
+    "precinct": "0007 Łosień",
+    "parcel_numbers": [
+      "pogranicze działek 1366 i 1367"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((523941.300000 276888.684000,523952.194000 276885.050100,523927.203000 276739.519000,523917.745000 276744.483000,523908.686000 276749.341000,523931.331000 276891.996000,523941.300000 276888.684000))",
+    "site_description": "Teren  zagrożenia szkodą w środowisku w powierzchni ziemi znajduje się w Dąbrowie Górniczej w okolicach ul. Pobocznej w dzielnicy Łosień i należy do obszaru B-grunty zaliczane do użytków rolnych z wyłączeniem gruntów pod stawami i gruntów pod rowami, grunty leśne oraz zadrzewione i zakrzewione, nieużytki, a także grunty zabudowane i zurbanizowane z wyłączeniem terenów przemysłowych, użytków kopalnych oraz terenów komunikacyjnych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2016-02-25",
+    "description": "25 lutego 2016 r. WIOŚ dokonał poboru próbek w miejscu wylewania bezpośrednio do gruntu pozostałości (płynnych odpadów) po produkcji substancji psychotropowych."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gleby substancjami toksycznymi w postaci odpadów, powstałych w wyniku procesu wytwarzania amfetaminy, które były wylewane bezposrednio do gruntu.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w katowicach",
+      "address": "ul. Wita Stwosza 2, 40-036 Katowice",
+      "legal_form": "Organ administracji"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "w trakcie ustalania",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Rtęć (Hg)",
+      "concentration": "1600",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2016-04-01",
+    "detection_date": "2016-02-25",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

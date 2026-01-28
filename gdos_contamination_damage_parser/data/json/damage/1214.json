@@ -1,0 +1,187 @@
+{
+  "registry_id": 1214,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "zielonogórski",
+    "municipality": "Sulechów",
+    "address": "Ośrodek Produkcyjny Kije Kopalnia Roy naftowej i gazy Ziemnego Radoszyn",
+    "precinct": "Kije, Mozów",
+    "parcel_numbers": [
+      "729 obręb Kije",
+      "52/2 obręb Mozów"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((263478.9380994078 474196.0537093887,263478.9380994078 474196.0537093887))  POLYGON((263478.9360914634 474196.05372824334,263478.9360914634 474196.05372824334))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2019-01-01",
+    "from": null,
+    "to": null,
+    "description": "zgłoszenie zagrożenia lipiec 2018 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": 0.13,
+  "reporters": [
+    {
+      "name": "Polskie Górnictwo Naftowe i Gazownictwo S.A. Oddział w Zielonej Górze",
+      "address": "Boh. Westerplatte 15, 65-034 Zielona Góra",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polskie Górnictwo Naftowe i Gazownictwo S.A. Oddział w Zielonej Górze",
+      "address": "Boh. Westerplatte 15, 65-034 Zielona Góra",
+      "economic_activity_code": "06.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2019-05-07",
+    "detection_date": "2019-01-01",
+    "decisions": [
+      {
+        "issue_date": "2020-01-20",
+        "reference": "WZŚ.512.2.2020.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2020-02-01",
+    "planned_end": "2020-05-31",
+    "actual_end": "2020-05-25",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace naprawcze na terenie działek nr 52/2 obręb 0016 Mozów oraz nr 729  obręb 0011 Kije, gm. Sulechów, wykonano metodą ex-situ. W trakcie prac wydobyto i wywieziono łącznie 957,090 Mg zanieczyszczonej gleby/ziemi jako odpadu  o kodzie 17 05 03* (gleba i ziemia zawierająca substancje ropopochodne).",
+    "ecological_effect": "Załączone wyniki analiz laboratoryjnych, potwierdzają uzyskanie zakładanego efektu ekologicznego, określonego w decyzji Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wlkp. z dnia 20 stycznia 2020 r., znak: WZŚ.512.2.2020.KM.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

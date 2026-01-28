@@ -1,0 +1,155 @@
+{
+  "registry_id": 351,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 12.6,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Cybernetyki",
+    "precinct": "1-08-13",
+    "parcel_numbers": [
+      "8/21",
+      "8/22"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636395.4947302362 480397.3785002129,636477.5157276964 480372.2430332694,636474.8698890733 480362.9825980915,636505.2970332964 480345.7846470224,636466.9323731821 480283.6074393401,636424.5989551332 480222.75315096136,636391.525972287 480235.98234409373,636380.9426177776 480306.0970676504,636378.2967791462 480351.07632427197,636395.4947302362 480397.3785002129))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Linaria Sp. z o.o.",
+      "address": "Cybernetyki 7",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "77-110 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,28-1,3 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,22-3 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,44-8,7 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,22-7 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,23-1,7 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,33-7,3 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,33-9,4 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,58-3,7 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,55-4,3 [mg/kg]",
+      "area_ha": 12.6
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,24-4,9 [mg/kg]",
+      "area_ha": 12.6
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-01-24",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.7.2018",
+    "decisions": [
+      {
+        "issue_date": "2018-03-21",
+        "reference": "WSI.515.7.2018.SSz.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Linaria Sp. z o.o.",
+        "address": "Cybernetyki 7",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-04-04",
+    "planned_end": "2023-12-31",
+    "actual_end": "2018-09-03",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

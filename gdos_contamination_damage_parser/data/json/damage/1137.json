@@ -1,0 +1,52 @@
+{
+  "registry_id": 1137,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": null,
+    "precinct": "obręb Żuków",
+    "parcel_numbers": [
+      "9/2",
+      "53/2",
+      "obręb Żuków"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((302295.27466405491577461 413022.88141748402267694, 302317.84554496442433447 412975.43097239546477795, 302341.90055079641751945 412939.08853746950626373, 302436.89355248905485496 412794.45826303958892822, 302469.31176332145696506 412740.49151209648698568, 302470.41763317352160811 412738.1452266676351428, 302435.76841520861489698 412728.6231519840657711, 302467.33030613418668509 412624.17996630445122719, 302487.38513665419304743 412593.54754080157727003, 302485.14677762379869819 412591.11761461943387985, 302473.54024776292499155 412578.51096341013908386, 302452.01563455874565989 412553.22390446811914444, 302429.35861060081515461 412537.30726729705929756, 302416.44060954067390412 412555.47678417805582285, 302414.85714528348762542 412558.84874540381133556, 302412.94529142638202757 412564.16206595301628113, 302318.81635846430435777 412913.21083742473274469, 302289.95413077768171206 413009.11422806885093451, 302295.27466405491577461 413022.88141748402267694)),((301430.84835335816023871 412838.12727814540266991, 301403.83056913485052064 412798.36802907753735781, 301323.13107127323746681 412853.96192485652863979, 301349.26903426129138097 412897.51097286958247423, 301430.84835335816023871 412838.12727814540266991)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-08-01",
+    "from": null,
+    "to": null,
+    "description": "W dniu 01.08.2018 r. około godz. 19.00 stwierdzono wypływ wody technologicznej  ok. 200m3  na dz. 9/2. W dniu 02.08.2018 r. około godz. 12.30 stwierdzony kolejny wypływ wody technologicznej. Awaria wystąpiła na dz. 53/2, wypłynęło ok 250 m3 wody technologicznej."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W dniu 01.08.2018 r.  stwierdzono wypływ wody technologicznej z rurociągu stalowego DN 800, w którym przesyłana jest woda technologiczna z komory Świnino II do komory K1 przy zbiorniku Polanka. Wypłynęło ok. 200m3 wody technologicznej na dz. 9/2. W dniu 02.08.2018 r.  stwierdzony kolejny wypływ wody technologicznej z rurociągu stalowego DN 1000, którym przesyłana jest woda technologiczna z pompowni Tarnówek do komory Świnino. Awaria wystąpiła na dz. 53/2, wypłynęło ok 250 m3 wody technologicznej. Z obu awarii woda dostała się do cieku Moskorzynka w rejonie wsi Żuków. Rurociągi w trybie awaryjnym zostały wyłączone z eksploatacji.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A. Oddział Zakład Hydrotechniczny",
+      "address": "59-305 Rudna ul. Polkowicka 52",
+      "legal_form": "Spółka Akcyjna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

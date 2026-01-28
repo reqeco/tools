@@ -1,0 +1,87 @@
+{
+  "registry_id": 981,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": "Dębogórze",
+    "precinct": "0008 Dębogórze",
+    "parcel_numbers": [
+      "48/2 obręb 0008 Dębogórze"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((466259.590995668 748063.9523309255,466287.10771736805 748076.6523563247,466348.49117346806 748062.3648277437,466354.8411861682 748055.4856473245,466341.08282531815 747929.014561044,466325.73696129804 747929.014561045,466318.328613148 747923.1937160743,466255.88682159805 748057.6023182245,466259.590995668 748063.9523309255))",
+    "site_description": "rurociąg należący do OLPP Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": "2009-08-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "W dniu 1 sierpnia 2009 r. w wyniku przestępczego przewiertu podziemnego rurociągu paliwowego DN600 należącego do OLPP a eksploatowanego przez bazę paliw nr 21 w Dębogórzu, doszło do wycieku oleju napędowego, w wyniki którego zanieczyszczony został grunt w obszarze drogi polnej.",
+  "total_area_ha": 0.9156,
+  "reporters": [
+    {
+      "name": "Operator Logistyczny Paliw Płynnych Sp. z o.o.",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Operator Logistyczny Paliw Płynnych Sp. z o.o.",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "economic_activity_code": "52.10.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1015,05-3330,23 mg/kg s.m.",
+      "area_ha": 0.25
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-02-03",
+    "detection_date": "2009-08-01",
+    "decisions": [
+      {
+        "issue_date": "2016-03-30",
+        "reference": "RDOŚ-Gd-WSI.I.511.1.2016.AK.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2016-05-05",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "a)\twykorzystaniu do badań istniejącego piezometru obserwacyjnego i wykonaniu pięciu otworów badawczych do głębokości ok. 2,5 m p.p.t. zgodnie  z rysunkiem stanowiącym załącznik nr 1 do niniejszej decyzji, b)\tw przypadku stwierdzenia w otworach badawczych w przedziale 1,0 do 2,0 m p.p.t. obecność wody wówczas w punktach 2 i 4 (załącznik nr 1 do decyzji) założyć piezometry obserwacyjne, c)\tjeżeli w nowych piezometrach zostaną przekroczone standardy w gruncie       i wodach podziemnych tj. 50 do 100% wykonać kolejny piezometr  odległy       o 10 m w kierunku południowo-wschodnim od nowego piezometru nr 2.",
+    "ecological_effect": "a)\tstan czystości gruntów do wartości nie przekraczających wielkości ustalonych dla grupy „B”, tj. m.in. do gruntów zaliczanych do użytków rolnych, ustalonych w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359), b)\tstan czystości wód podziemnych do  wartości  nie przekraczających  wielkości   ustalonych dla III klasy czystości wód zgodnie z kryteriami zawartymi  w rozporządzeniu Ministra Środowiska z dnia 21 grudnia 2015 r. w sprawie kryteriów i sposobu oceny stanu jednolitych części wód podziemnych (Dz. U.  z 2016 r. poz.  85).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

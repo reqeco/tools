@@ -1,0 +1,50 @@
+{
+  "registry_id": 1895,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Cewice",
+    "address": null,
+    "precinct": "Krępkowice",
+    "parcel_numbers": [
+      "9/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((414939.5955030413 734269.6956222532,414923.7204712896 734274.9872995038,414856.25158634316 734346.4249423742,414786.1368627765 734405.9563114457,414746.4492834024 734558.0920323739,414820.5327649091 734708.9048340032,414984.57475967484 734636.1442718152,415189.62725313427 734458.8730839491,415114.22085230745 734331.8728299467,415061.3040798027 734296.1540085068,415042.78320943075 734319.9665561253,415050.7207253014 734354.362458257,414966.0538892936 734370.2374900058,414939.5955030413 734269.6956222532))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2023-09-25",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": null,
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Cewice",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

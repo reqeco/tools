@@ -1,0 +1,76 @@
+{
+  "registry_id": 986,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": null,
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.1165/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((533193.4771822708 254071.09410714265,533206.706375391 254081.28058585245,533241.499153311 254068.84514431283,533228.2699601909 254052.17636097316,533214.643891271 254039.8732113624,533193.4771822708 254071.09410714265))",
+    "site_description": "hałda odpadów poprzemysłowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Starosta Chrzanowski",
+      "address": "ul. Partyzantów 2 32-500 Chrzanów",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-11",
+    "legal_basis": "Art. 61. § 1 Kodeks postępowania administracyjnego",
+    "case_reference": "ZS.513.133.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2019-11-04",
+        "reference": "ZS.513.133.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Starosta Chrzanowski",
+        "address": "ul. Partyzantów 2 32-500 Chrzanów",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

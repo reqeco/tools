@@ -1,0 +1,74 @@
+{
+  "registry_id": 2052,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "szamotulski",
+    "municipality": "Pniewy",
+    "address": null,
+    "precinct": "0001, 0415",
+    "parcel_numbers": [
+      "2100",
+      "26/6"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "W pobliżu skrzyżowania dróg krajowych 24 i 92, pod drogą krajową nr 92."
+  },
+  "occurrence_time": {
+    "date": "2024-12-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna, Skarb Państwa (Generalna Dyrekcja Dróg Krajowych i Autostrad)",
+  "land_owner": "osoba fizyczna, Skarb Państwa (Generalna Dyrekcja Dróg Krajowych i Autostrad)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "awaria rurociągu",
+  "total_area_ha": 0.1,
+  "reporters": [
+    {
+      "name": "PERN S.A.",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PERN S.A.",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "economic_activity_code": "49.50.B"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2024-12-01",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "WSS.511.8.2024.ASB",
+        "issuing_authority": null,
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie uszkodzonej infrastruktury, wymiana i usunięcie zanieczyszczonych mas ziemnych..",
+    "ecological_effect": "Wyniki przeprowadzonych badań jakości gleby i ziemi, po wykonaniu działań, nie wskazują przekroczeń analizowanych wskaźników.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "Zgłoszenie zak. działań z 10.02.2025 r."
+}

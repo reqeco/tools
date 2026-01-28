@@ -1,0 +1,156 @@
+{
+  "registry_id": 2153,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.15,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "ul. Startowa 3 Bydgoszcz",
+    "precinct": "0217",
+    "parcel_numbers": [
+      "6/3",
+      "6/4",
+      "69/8",
+      "69/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((437858.8548938661115244 584932.90260147675871849, 437852.90175695606740192 584933.03489340655505657, 437853.43092468607937917 584942.16303666867315769, 437905.15706979657988995 584940.17865769751369953, 437902.69643821672070771 584830.32343954779207706, 437855.86509455612394959 584830.58802340738475323, 437856.12967841606587172 584838.26095541659742594, 437878.61930673633469269 584837.73178769741207361, 437878.35472286632284522 584835.08594906702637672, 437894.49433848646003753 584834.29219747707247734, 437894.49433848657645285 584845.14013584703207016, 437895.02350620640208945 584850.96098081767559052, 437895.02350620651850477 584934.56948136724531651, 437858.7755170461605303 584935.62781681586056948, 437858.8548938661115244 584932.90260147675871849)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MODERATOR STARTOWA Sp. z o.o.",
+      "address": "ul. Marszałka Focha 12 85-070 Bydgoszcz",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "6/3",
+        "69/8",
+        "6/4",
+        "69/11"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,699 mg/kg s.m.",
+      "area_ha": 0.15
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,233 mg/kg s.m.",
+      "area_ha": 0.15
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,795 mg/kg s.m.",
+      "area_ha": 0.15
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,26 mg/kg s.m.",
+      "area_ha": 0.15
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,701 mg/kg s.m.",
+      "area_ha": 0.15
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,599 mg/kg s.m.",
+      "area_ha": 0.15
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,383 mg/kg s.m.",
+      "area_ha": 0.15
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,146 mg/kg s.m.",
+      "area_ha": 0.15
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,406 mg/kg s.m.",
+      "area_ha": 0.15
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-03-04",
+    "legal_basis": "101c ust. 3 pkt. 3 POŚ",
+    "case_reference": "WSS.513.2.2025.SS",
+    "decisions": [
+      {
+        "issue_date": "2025-03-28",
+        "reference": "WSS.513.2.2025.SS.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-03-19",
+        "reference": "WSS.515.3.2025",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MODERATOR STARTOWA Sp. z o.o.",
+        "address": "ul. Marszałka Focha 12 85-070 Bydgoszcz",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2025-04-01",
+    "planned_end": "2025-12-31",
+    "actual_end": "2025-05-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - usunięcie zanieczyszczonej przypowierzchniowej warstwy gruntu",
+    "ecological_effect": "przywrócenie standardów dla gruntów grupy I zgodnie z rozporządzniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "sygnatura sprawy: WSS.513.2.2025 i WSS.515.3.2025"
+}

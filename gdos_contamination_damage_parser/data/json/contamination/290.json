@@ -1,0 +1,91 @@
+{
+  "registry_id": 290,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0325,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "ostrowiecki",
+    "municipality": "Ostrowiec Świętokrzyski",
+    "address": "Ul. Samsonowicza 2, 27-400 Ostrowiec Świętokrzyski",
+    "precinct": null,
+    "parcel_numbers": [
+      "1/58 obr. 0028 Ostrowiec Świętokrzyski"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((672511.6320880966 344476.6800003089,672527.7717037783 344485.94043550175,672537.8258905839 344469.5362360198,672521.4216910513 344459.48204925004,672511.6320880966 344476.6800003089))",
+    "site_description": "teren nieczynnej stacji paliw w południowo-zachodniej części działki"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "od lat 70-tych XX wieku w trakcie eksploatacji zbiorników paliwa, jednopłaszczowych dla potrzeb tankowania pojazdów zakładowych"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych"
+  },
+  "land_holders": [
+    {
+      "name": "Celsa Huta Ostrowiec Sp.z o.o.",
+      "address": "ul. Samsonowicza 2, 27-400 Ostrowiec Świętokrzyski",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "60 mg/kg suchej masy",
+      "area_ha": 0.0325
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3700 mg/kg suchej masy",
+      "area_ha": 0.0325
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-03-27",
+    "legal_basis": "61 § 1 ustawy Kodeks postępowania administracyjnego  w związku z art.101 l ust. 2 ustawy Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-10-03",
+        "reference": "WSI.515.1.2017.WŁ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Kielcach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Celsa Huta Ostrowiec Sp.z o.o.",
+        "address": "ul. Samsonowicza 2, 27-400 Ostrowiec Świętokrzyski",
+        "economic_activity_code": "24.10.Z"
+      }
+    ],
+    "planned_start": "2017-10-19",
+    "planned_end": "2037-12-31",
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Samooczyszczanie  monitorowane będzie poprzez obserwacje zawartości zanieczyszczeń poprzez badania kontrolne gruntu,",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

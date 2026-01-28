@@ -1,0 +1,97 @@
+{
+  "registry_id": 1544,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Żory",
+    "municipality": "Żory",
+    "address": "ul. Kradziejówka",
+    "precinct": "Folwarki",
+    "parcel_numbers": [
+      "247901_1.0002.AR_1.1968/151"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((476530.59226229001069441 244167.59794880199478939, 476610.23537811398273334 244265.22720150899840519, 476611.95262356702005491 244267.33303549801348709, 476608.98367052001412958 244279.23617959799594246, 476607.73838003899436444 244298.95190102799097076, 476607.57904739800142124 244307.20944661198882386, 476601.93645735102472827 244323.58391012300853617, 476598.53494823997607455 244334.00866863899864256, 476597.70627113897353411 244336.537360752990935, 476596.0137143440078944 244348.14957454698742367, 476594.10420739697292447 244348.10716893599601462, 476590.89698483498068526 244348.03215957101201639, 476582.36694319802336395 244347.82450350001454353, 476582.9322920209961012 244327.86102399200899526, 476563.80530462600290775 244327.29247486300300807, 476517.23635306401411071 244260.69508547699660994, 476470.68050303298514336 244194.10550548299215734, 476533.70549506298266351 244150.0460095519956667, 476544.09306176198879257 244152.53552694100653753, 476571.09535864100325853 244133.66442384201218374, 476574.1420074769994244 244138.02120582899078727, 476530.59226229001069441 244167.59794880199478939))",
+    "site_description": "Nieruchomość położona w Żorach przy ul. Kradziejówka, przy wylocie rowu odwadniającego ze strefy przemysłowej w rejonie przepompowni ścieków."
+  },
+  "occurrence_time": {
+    "date": "2020-04-29",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi, woda, gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Wystąpienie bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku w: wodach, powierzchni ziemi, gatunkach chronionych oraz chronionych siedliskach przyrodniczych; na terenie nieruchomości położonej w Żorach przy ul. Kradziejówka, przy wylocie rowu odwadniającego ze strefy przemysłowej w rejonie przepompowni ścieków",
+  "total_area_ha": 0.0001,
+  "reporters": [
+    {
+      "name": "Fundacja Frank Bold z siedzibą w Krakowie",
+      "address": "Marii Skłodowskiej-Curie 4/3, 31-025 Kraków",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Nifco Korea Poland sp. z o.o.",
+      "address": "ul. Wygoda 8, 44-240 Żory",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "brak danych mg/kg s.m.",
+      "area_ha": 0.0001
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "brak danych mg/kg s.m.",
+      "area_ha": 0.0001
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym, w stanie ekologicznym",
+      "substance": "Miedź"
+    },
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym, w stanie ekologicznym",
+      "substance": "Mangan"
+    },
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym, w stanie ekologicznym",
+      "substance": "Chrom (chrom ogólny)"
+    },
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym, w stanie ekologicznym",
+      "substance": "OWO - Ogólny węgiel organiczny"
+    },
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym, w stanie ekologicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2020-05-05",
+    "detection_date": "2020-04-29",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,84 @@
+{
+  "registry_id": 2102,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Dąbrowa Górnicza",
+    "municipality": "Dąbrowa Górnicza",
+    "address": "ul. Koksownicza 42-523 Dąbrowa Górnicza",
+    "precinct": "0007 Łosień",
+    "parcel_numbers": [
+      "246501_1.0007.1757/1; 246501_1.0007.994/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((524393.02641528402455151 274498.43278836697572842, 524329.54112090403214097 274484.61525759397773072, 524321.89480464998632669 274483.0390790089732036, 524330.58784495503641665 274439.79977221199078485, 524358.93449291901197284 274298.84853755298536271, 524365.69347203604411334 274299.8370246869744733, 524420.11501583200879395 274307.74022154102567583, 524526.85506131197325885 274329.17129801900591701, 524539.65153471799567342 274331.74758952297270298, 524533.6655356859555468 274361.50908187398454174, 524528.97314909496344626 274384.9072421999881044, 524524.33601494901813567 274407.95488372497493401, 524521.15161168295890093 274423.83756485400954261, 524515.0568261289736256 274456.65856930799782276, 524501.48167614603880793 274521.81951876502716914, 524393.02641528402455151 274498.43278836697572842)),((524526.85506131197325885 274329.17129801900591701, 524420.11501583200879395 274307.74022154102567583, 524365.69347203604411334 274299.8370246869744733, 524392.39859204203821719 274166.8727823100052774, 524501.27396304998546839 274148.64048976701451465, 524509.44966014905367047 274202.25633919902611524, 524505.32847020903136581 274248.08250392897753045, 524526.85506131197325885 274329.17129801900591701)))",
+    "site_description": "Teren spółki SARPI Dąbrowa Górnicza Sp. z o.o., na którym prowadzona jest działalność polegająca na przetwarzaniu i unieszkodliwianiu odpadów niebezpiecznych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Lata 70 XX w. (powstanie Kombinatu Metalurgicznego „Huta Katowice”), lata 80 XX w. (powstanie Koksowni „Przyjaźń\")."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Przetwarzanie i unieszkodliwianie odpadów niebezpiecznych"
+  },
+  "land_holders": [
+    {
+      "name": "SARPI Dąbrowa Górnicza Sp. z o.o., z siedzibq:",
+      "address": "ul. Koksownicza 16 42-523 Dąbrowa Górnicza.",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2024-11-26",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.639.2024.AH",
+    "decisions": [
+      {
+        "issue_date": "2024-12-19",
+        "reference": "WSI.513.639.2024.AH.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-03-12",
+        "reference": "WSI.515.19.2024.AH.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "SARPI Dąbrowa Górnicza Sp. z o.o., z siedzibq:",
+        "address": "ul. Koksownicza 16 42-523 Dąbrowa Górnicza.",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-04-02",
+    "planned_end": "2029-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Remediację gruntu skarpy mieszącej się na działce o nr ew. 994/14, obręb 0007 Łosień, położonej przy ul. Koksowniczej w Dąbrowie Górniczej w ilości ok. 2820 m3 tj. ok. 4512 Mg należy wykonać poprzez wydobycie metodą ex-situ, w tym:  1) grunt zanieczyszczony rtęcią i pestycydami z głębokości 0,0-0,25 m p.p.t. (ok. 725 m3 tj. ok. 1160 Mg) ma zostać usunięty wraz z całą warstwą ziemi na głębokości 0,0–0,25 m p.p.t. sekcji 7 i 8 (zał. nr 2) co stanowi ok. 2900 m2,  2) grunt zanieczyszczony substancjami ropopochodnymi, pestycydami i cyjankami z głębokości poniżej 0,25 m p.p.t (ok. 885 m3 tj. ok. 1416 Mg), w sekcji 8 podobszaru A, B i C (zał. nr 2) należy wydobyć do maksymalnej stwierdzonej głębokości zalegania zanieczyszczenia w danym rejonie, tj. a) w podobszarze A grunty zanieczyszczone głównie węglowodorami i WWA zostaną wydobyte do gł. 5,5 m p.p.t. w rej. pkt. 8.4, do głębokości 5 m p.p.t. w rej. pkt. 8.7 i 8.11, do głębokości 4 m p.p.t. w rejonie punktu 8.0 oraz do 1 m p.p.t. w rej. pkt. 8.2. Ww. zanieczyszczone grunty mają zostać wydobyte łącznie z nadkładem, b) w podobszarze B grunty zanieczyszczone manebem w rejonie pkt. 8.8 mają zostać wydobyte do głębokości 1 m p.p.t., c) w podobszarze C grunty zanieczyszczone w rej. pkt. 8.6 cyjankami związanymi mają zostać wydobyte łącznie z nadkładem do głębokości 1-2 m p.p.t.  3) w obszarze skarpy wydobyciu mają podlegać grunty stanowiące nadkład, zanieczyszczone wyłącznie metalami w ilości ok. 1210 m3 tj. ok. 1936 Mg.  Usunięta w wyniku prac remediacyjnych zanieczyszczona ziemia ma zostać ponownie przebadana, a poszczególne partie w zależności od uzyskanych wyników badań, muszą zostać przekazane do odzysku np. metodą bioremediacji na płycie remediacyjnej lub unieszkodliwienia np. na składowisku lub w instalacji termicznego przekształcania.  Po przeprowadzeniu remediacji metodą ex-situ należy ograniczyć możliwość rozprzestrzeniania się zanieczyszczeń oraz kontrolowanie zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie na dz. o nr ew. 994/14, obręb 0007 Łosień, położonej przy ul. Koksowniczej w Dąbrowie Górniczej w sekcji 7 i 8, poprzez nawiezienie czystej ziemi w ilości umożliwiającej zniwelowanie wykopów oraz przykrycie warstwą czystej ziemi o grubości 0,25 m.  Kontrolowanie zanieczyszczenia musi nastąpić poprzez przeprowadzenie jednorazowych badań w ilości dwóch prób zbiorczych pobranych z głębokości 0-0,25 m p.p.t., po jednej na każdą sekcję, Dodatkowo okresowe badania zanieczyszczenia powierzchni ziemi mają być prowadzone w punkcie zlokalizowanym we wschodniej części obecnej skarpy.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

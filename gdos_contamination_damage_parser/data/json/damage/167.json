@@ -1,0 +1,50 @@
+{
+  "registry_id": 167,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "piaseczyński",
+    "municipality": "Góra Kalwaria",
+    "address": "Góra Kalwaria Marianki 26",
+    "precinct": null,
+    "parcel_numbers": [
+      "14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((650981.913449599 458950.50418977346,651014.9864324769 459000.51053978223,650990.9093009406 459017.44390698243,650988.5280461757 459016.12098767236,650955.719647158 458965.3208860727,650981.913449599 458950.50418977346))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2009-04-07",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu związkami miedzi wskutek działalności firmy SEMTEX AB Beata Kleine na terenie działki przy ul.Marianki 26 w Górze Kalwarii.",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2009-04-07",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,112 @@
+{
+  "registry_id": 470,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0349,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "kętrzyński",
+    "municipality": "Korsze",
+    "address": null,
+    "precinct": "0008 Dubliny",
+    "parcel_numbers": [
+      "16/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((647883.1438163064 699619.1876627477,648196.6756941667 699932.7195398044,648179.4777430678 699981.6675543645,648204.6132100627 700012.0946985539,648303.8321587534 700047.8135199919,648383.2073176935 699936.688297742,648449.3532834935 699982.9904736811,648662.3432933183 699687.9794669896,648346.1655768075 699386.3538637413,648323.6759484413 699388.9997023623,648246.9466281246 699452.4998293631,647892.4042515081 699605.9584696181,647879.1750583565 699616.5418241182,647883.1438163064 699619.1876627477))",
+    "site_description": "teren nieczynnej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Stacja paliw funkcjonowała na tym terenie przed 30 kwietnia 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu",
+    "current": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu"
+  },
+  "land_holders": [
+    {
+      "name": "Agro Dubliny Sp. z o.o.",
+      "address": "Łozice 27, 74-200 Pyrzyce",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "01.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "5,2",
+      "area_ha": 0.0349
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 32 do 14 700",
+      "area_ha": 0.0349
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,145",
+      "area_ha": 0.0349
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "95,9",
+      "area_ha": 0.0349
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 4490 do 6070",
+      "area_ha": 0.0349
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-09-03",
+    "legal_basis": "101l ust. 2",
+    "case_reference": "WSI.515.9.2018.JJ",
+    "decisions": [
+      {
+        "issue_date": "2018-12-11",
+        "reference": "WSI.515.9.2018.JJ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101l ust. 4 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Agro Dubliny Sp. z o.o.",
+        "address": "Łozice 27, 74-200 Pyrzyce",
+        "economic_activity_code": "01.11.Z"
+      }
+    ],
+    "planned_start": "2018-12-31",
+    "planned_end": "2019-03-31",
+    "actual_end": "2019-02-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metodą ex-situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go gruntem wolnym od zanieczyszczeń. Metodą ex-situ zostanie usunięty grunt niespełniający norm przewidzianych dla gruntów grupy I: •\tw przedziale głębokości 0,0-0,25 m ppt - z powierzchni około 271,31 m2, •\tw przedziale głębokości 0,25-1,0 m ppt  - z powierzchni około 161,65 m2. Łącznie zostanie wydobyte około 189,06 m3 gruntu o zawartości zanieczyszczeń przekraczających wartości dopuszczalne ustalone dla gruntów grupy I. Przy założeniu średniej gęstości objętościowej na poziomie 1,9 Mg/m3, stanowi to około 359,22 Mg zanieczyszczonego gruntu. Dokładna ilość gruntu wymagającego wymiany zostanie określona w trakcie prowadzonych prac remediacyjnych.  Wydobyty grunt (odpad niebezpieczny o kodzie 17 05 03*) zostanie załadowany na samochody przystosowane do transportu odpadów niebezpiecznych i przekazany podmiotowi posiadającemu zezwolenie na unieszkodliwianie tego rodzaju odpadów. Pojawiająca się w wykopach woda gruntowa zostanie odpompowana i przekazana do unieszkodliwienia jako odpad niebezpieczny o kodzie 16 10 01*. Po usunięciu zanieczyszczonej partii gruntów, powstałe wykopy (ściany i dno) zostaną opróbowane i przebadane pod kątem określenia w glebie i ziemi zawartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji. Następnie wykopy zostaną uzupełnione czystym gruntem. Prace remediacyjne będą prowadzone pod stałym nadzorem geologicznym, w tym w zakresie usuwania i załadunku gruntu, przy zachowaniu szczególnych środków bezpieczeństwa oraz zastosowaniu środków ochrony indywidualnej odpowiednich do rodzaju wykonywanych prac i zagrożeń związanych z narażeniem na kontakt z odpadami niebezpiecznymi. Do czasu zakończenia prac remediacyjnych obszar historycznego zanieczyszczenia powierzchni ziemi będzie zabezpieczony przed dostępem osób postronnych.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym dla gruntów grupy I w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).  Ich zawartość w glebie i w ziemi nie będzie zatem przekraczać: •\tna głębokości 0-0,25 m ppt: - suma węglowodorów C6-C12, składników frakcji benzyn – 1 mg/kg s.m., - suma węglowodorów C12-C35, składników frakcji oleju – 30 mg/kg s.m., - wielopierścieniowe węglowodory aromatyczne: benzo(b)fluoranten – 0,1 mg/kg s.m. •\tna głębokości poniżej 0,25 m ppt, dla gleby i ziemi o wodoprzepuszczalności wyższej lub równej 1x10-7 m/s: - suma węglowodorów C6-C12, składników frakcji benzyn – 50 mg/kg s.m., - suma węglowodorów C12-C35, składników frakcji oleju – 1000 mg/kg s.m. •\tna głębokości poniżej 0,25 m ppt, dla gleby i ziemi o wodoprzepuszczalności niższej niż 1x10-7 m/s: - suma węglowodorów C6-C12, składników frakcji benzyn – 500 mg/kg s.m., - suma węglowodorów C12-C35, składników frakcji oleju – 3000 mg/kg s.m.  W trakcie prac remediacyjnych wydobyto i przekazano do przetworzenia łącznie 474 Mg zanieczyszczonego gruntu (odpad o kodzie 17 05 03*). W celu określenia stanu gruntu pozostawionego w wykopie, na bieżąco w trakcie postępu prac remediacyjnych, pobierano próby gruntu do analiz laboratoryjnych. Łącznie pobrano 6 prób gruntu. W żadnej próbie nie stwierdzono przekroczenia norm dla substancji stwarzających ryzyko, określonych w rozporządzeniu Ministra Środowiska w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

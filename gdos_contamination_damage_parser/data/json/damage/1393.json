@@ -1,0 +1,78 @@
+{
+  "registry_id": 1393,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "lipnowski",
+    "municipality": "Wielgie",
+    "address": "Suradówek 49",
+    "precinct": "0015 Suradówek",
+    "parcel_numbers": [
+      "416/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((520790.5263307001 548564.5672390833,520826.24515212997 548564.5672390833,520824.92223282 548557.9526425237,520832.8597487 548556.6297232145,520847.41186113015 548567.2130777147,520847.41186113004 548584.4110287735,520791.84925001004 548584.4110287735,520793.17216932 548637.3278012732,520809.0472010701 548630.7132047145,520868.5785701301 548569.8589163339,520885.7765212002 548567.2130777137,520885.7765212001 548547.3692880236,520885.7765212001 548536.7859335234,520880.48484395 548527.5254983343,520887.09944051004 548530.1713369647,520888.42235982005 548540.7546914639,520892.3911177601 548546.0463687144,520889.74527913006 548565.8901583944,520900.32863363 548573.8276742734,520906.9432302 548577.796432212,520912.23490745004 548434.9211464645,520909.58906882 548432.2753078341,520906.94323020015 548327.7646821439,520891.06819845 548327.7646821439,520893.71403707017 548399.2023250228,520873.87024738 548388.6189705227,520854.0264577002 548395.2335670842,520852.70353838 548139.910139774,520813.01595901005 548135.9413818354,520807.72428176005 548188.858154336,520811.6930397001 548331.7334400844,520785.2346534502 548330.4105207734,520790.5263307001 548564.5672390833)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2020-10-22",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Kontrola WIOŚ wykazała, że doszło do zakopania na działce o nr ew. 416/2 w Suradówku 49, gm. Wielgie, odpadów w postaci m.in. opakowań z tworzyw sztucznych, folii, puszek, tekstyliów i innych odpadów pochodzących z sortowania odpadów komunalnych oraz odpadów z demontażu pojazdów. Badania WIOŚ wykazały zanieczyszczenie.",
+  "total_area_ha": 3.7,
+  "reporters": [
+    {
+      "name": "WIOŚ w Bydgoszczy",
+      "address": "ul. Piotra Skargi 2 85-018 Bydgoszcz",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiębiorstwo Usługowo-Handlowe (…)",
+      "address": "(…)",
+      "economic_activity_code": "38.31.Z, 38.32.Z, 45.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "88,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "57,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2020-12-30",
+    "detection_date": "2020-10-22",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Postępowanie znak: WSS.512.31.2020.MW"
+}

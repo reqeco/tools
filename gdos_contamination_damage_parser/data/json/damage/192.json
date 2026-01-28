@@ -1,0 +1,58 @@
+{
+  "registry_id": 192,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "legionowski",
+    "municipality": "Jabłonna",
+    "address": "Chotomów ul. Piusa XI/10",
+    "precinct": null,
+    "parcel_numbers": [
+      "576/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((629184.3748565542 506671.0344162043,629203.0280188797 506674.8708822029,629195.0905029912 506583.58944964316,629176.5696326058 506585.3092447547,629184.3748565542 506671.0344162043))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 11.08.2008r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu olejem mineralnym w wyniku prac w zakresie mechaniki pojazdowej, prowadzonych przez TRANS - (…) w miejscowości Chotomów",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Firma TRANS - (…)",
+      "address": "(…)",
+      "economic_activity_code": "45.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-03-16",
+    "detection_date": "2008-09-11",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": "grunt spełnia wymagane prawem standardy",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

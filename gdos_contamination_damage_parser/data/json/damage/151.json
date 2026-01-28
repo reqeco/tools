@@ -1,0 +1,48 @@
+{
+  "registry_id": 151,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "płocki",
+    "municipality": "Słupno",
+    "address": "Miszewko Strzałkowskie",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((555977.1788587458 518689.29663008265,555987.7622132458 518109.85797121096,557043.4518246322 518131.0246802084,557030.2226315023 519377.2146725878,556516.9299382492 519366.6313180914,556469.3048429987 518676.0674369633,555977.1788587458 518689.29663008265))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2009-09-15",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu produktami ropopochodnymi na terenie Bazy Surowcowej Plebanka PERN \"Przyjaźń\" S.A. w Miszewku Strzałkowskim, gm. Słupno, w wyniku wycieku z rurociagu ok. 240 dm3 ropy naftowej",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": "Płock Wyszogrodzka",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2009-05-19",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "registry_id": 1940,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "częstochowski",
+    "municipality": "Mykanów",
+    "address": "ul. Miodowa 6  Pasieka",
+    "precinct": "0019 Lubojna",
+    "parcel_numbers": [
+      "240411_2.0019.2062"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((507377.25 336221.19,507559.01 336156.62,507706.51 336104.23,507704.07 336096.31,507702.47 336091.18,507688.53 336045.95,507538.27 336110.54,507339.63 336195.95,507360.35 336207.35,507377.25 336221.19))",
+    "site_description": "Działka prywatna, będąca we władaniu osoby fizycznej."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Na przedmiotowym terenie zostały nielegalnie zmagazynowane odpady niebezpieczne. W trakcie działań kontrolnych WIOŚ, przeprowadzonych w ramach nadzoru miejsc porzucenia odpadów pobrane zostały próbki gleby i ziemi do badań. Wyniki analiz próbek gleby udokumentowano w sprawozdaniach.",
+  "total_area_ha": 1.7824,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach",
+      "address": "0-022 Katowice ul. Konstantego Damrota 16",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "20 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "86 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-07-18",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2024-09-17",
+        "reference": "WSI.512.20.2024.AH.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,118 @@
+{
+  "registry_id": 724,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0674,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "Rzeszów",
+    "municipality": "Rzeszów",
+    "address": "rejon ul. Wywrockiego",
+    "precinct": "nr 212 Staroniwa",
+    "parcel_numbers": [
+      "186301_1.0212.226/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((712027.97400000004563481 244963.74299999998765998, 712032.13500000000931323 244961.86400000000139698, 712028.92399999999906868 244960.01699999999254942, 712047.84999999997671694 244936.79910000000381842, 712055.32700000004842877 244930.98689999998896383, 712059.49800000002142042 244935.10999999998603016, 712051.33999999996740371 244945.41399999998975545, 712052.62800000002607703 244947.73900000000139698, 712065.13899999996647239 244941.45300000000861473, 712067.60499999998137355 244939.77799999999115244, 712079.06999999994877726 244928.11199999999371357, 712102.38600000005681068 244898.20000000001164153, 712105.18019999994430691 244894.60070000000996515, 712102.40090000000782311 244892.28450000000884756, 712102.40090000000782311 244887.27710000000661239, 712094.94799999997485429 244880.75580000001355074, 712088.79280000005383044 244877.49720000001252629, 712012.79099999996833503 244943.55199999999604188, 712008.16799999994691461 244962.68200000000069849, 712016.5779999999795109 244963.1279999999969732, 712027.97400000004563481 244963.74299999998765998))",
+    "site_description": "Łąki trwałe ŁII i ŁIII, MPZP : ZP - tereny zieleni urządzonej, U - tereny zabudowy usługowej, KDL - teren drogi publicznej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "W latach 1977-1978"
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": "Działalność usługowa wspomagająca eksploatację złóż ropy naftowej i gazu ziemnego",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "451 - 454 mg/kg s.m.",
+      "area_ha": 0.0674
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-03-17",
+    "legal_basis": "art. 61 § 1 Kpa w związku z art. 101m ust. 1 pkt 2 Poś",
+    "case_reference": "WSI.515.3.2021.KN/JW",
+    "decisions": [
+      {
+        "issue_date": "2019-03-28",
+        "reference": "WSI.513.46.2018.KT.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-06-17",
+        "reference": "DOA-WSzOP.513.6.2019.EDA",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Tak, przez pełnomocnika Panu(…), pismem z dnia 17 lipca 2019 r.",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-02-14",
+        "reference": "WSI.515.3.2021.JW.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-04-08",
+      "reason": "Naruszenie art. 7, 77 i 80 kpa",
+      "appealed_decision_reference": "WSI.513.46.2018.KT.3",
+      "resolution_reference": "DOA-WSzOP.513.6.2019.EDA",
+      "appellant_name": "(…)",
+      "appellant_address": "(…)",
+      "resolution_date": "2020-06-17",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "Utrzymuję w mocy zaskarżoną decyzję."
+    }
+  },
+  "court_proceedings": {
+    "issue_date": "2019-11-14",
+    "case_number": "IV WA SA/Wa 2034/19",
+    "challenged_decision_reference": "DOA-WSzOP.513.6.2019.EDA",
+    "ruling_type": "wyrok",
+    "verdict": "Oddalenie skargi",
+    "court": "Wojewódzki Sąd Administracyjny w Warszawie",
+    "cassation_appeal_to_nsa": "Nie"
+  },
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Sprawa znak: WSI.513.46.2018.KT - wpis o potencjalnym historycznym zanieczyszczeniu powierzchni ziemi do rejestru historycznych zanieczyszczeń powierzchni ziemi WSI.515.3.2021.KN - nałożenia obowiązku przeprowadzenia remediacji historycznego zanieczyszczenia powierzchni ziemi - zwolniono władającego powierzchnią ziemi z obowiązku przeprowadzenia remediacji"
+}

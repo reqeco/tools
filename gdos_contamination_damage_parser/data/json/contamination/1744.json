@@ -1,0 +1,93 @@
+{
+  "registry_id": 1744,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0053,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "działka położona na wschód od przejazdu kolejowego, znajdującego się na ulicy Puckiej w Gdyni",
+    "precinct": "Chylonia",
+    "parcel_numbers": [
+      "863"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((466298.0748878081 742824.7502326192,466449.4168571583 742743.7875706982,466329.8249513081 742638.4831934171,466284.845694678 742661.2374055972,466212.349716358 742735.3208870981,466298.0748878081 742824.7502326192))",
+    "site_description": "Omawiana działka zlokalizowana jest na terenie kolejowym, w obrębie budowanego Portu Gdynia."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polskie Koleje Państwowe SA",
+      "address": "Al. Jerozolimskie 142A, 02-305 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "863"
+      ],
+      "economic_activity_code": "49.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-06-10",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia  14 czerwca 1960 r. Kodeks postępowania administracyjnego; art.101l ustawy poś",
+    "case_reference": "RDOŚ-Gd-WZS.515.6.2022.MK",
+    "decisions": [
+      {
+        "issue_date": "2023-02-03",
+        "reference": "RDOŚ-Gd-WZS.515.6.2022.MK.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4, art. 104 § 1 ustawy kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polskie Koleje Państwowe SA",
+        "address": "Al. Jerozolimskie 142A, 02-305 Warszawa",
+        "economic_activity_code": "49.10.Z"
+      }
+    ],
+    "planned_start": "2023-04-01",
+    "planned_end": "2023-08-31",
+    "actual_end": "2023-08-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Zanieczyszczony grunt z przedziału głębokości od 0,00 - 0,25 m p.p.t., zostanie usunięty z wykorzystaniem metody ex-situ, z powierzchni całego terenu zanieczyszczonego.",
+    "ecological_effect": "Usunięcie zanieczyszczenia przynajmniej do dopuszczalnych stężeń substancji, określony dla gruntów grupy IV.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

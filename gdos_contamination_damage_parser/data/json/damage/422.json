@@ -1,0 +1,88 @@
+{
+  "registry_id": 422,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "łańcucki",
+    "municipality": "Łańcut (gmina miejska)",
+    "address": "37-100 Łańcut, ul. Polna",
+    "precinct": "0001 Miasto Łańcut",
+    "parcel_numbers": [
+      "181001_1.0001.2051"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((730539.99691317102406174 250587.44790500501403585, 730576.15385857399087399 250587.58647496800404042, 730648.04794061998836696 250587.85236620300565846, 730804.79685066197998822 250588.50136010799906217, 730809.98543401702772826 250591.9713715199904982, 730803.54166737699415535 250608.09352947000297718, 730786.59780929598491639 250649.86200140698929317, 730775.54132829199079424 250677.23392011999385431, 730772.64070055400952697 250684.31831416199565865, 730771.83084992703516036 250685.79705755799659528, 730756.82592187996488065 250686.93545471000834368, 730717.46938429796136916 250689.73203109001042321, 730695.81191089295316488 250690.89223139299429022, 730624.19270632695406675 250690.07351429300615564, 730485.25887426803819835 250687.94124246900901198, 730493.29096929600927979 250673.39211442199302837, 730539.99691317102406174 250587.44790500501403585))",
+    "site_description": "Użytki: R - grunty rolne, Ps - pastwiska trwałe, S - sady,"
+  },
+  "occurrence_time": {
+    "date": "2011-06-29",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Emisja oleju hydraulicznego na terenie działki ogrodowej nr 9 (Zarząd Rodzinnego Ogrodu Działkowego \"Związkowiec\" zs. w Łańcucie), przy ul. Polnej w Łańcucie, w wyniki awarii sprzętu w Zakładzie betoniarskim przy ul. Polnej 2.",
+  "total_area_ha": 0.01,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "EUROBET A.Sidor, T. Otręba Sp.J",
+      "address": "37-300 Leżajsk,  Pl.Targowy 13",
+      "economic_activity_code": "23.63.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 50 mg/kg s.m.",
+      "area_ha": 0.01
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-08-02",
+    "detection_date": "2011-06-29",
+    "decisions": [
+      {
+        "issue_date": "2011-08-25",
+        "reference": "WSI.510.2.10.2011.KG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-08-25",
+    "planned_end": "2011-09-15",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Wydobycie zanieczyszczonej gleby do głębokości 0,30 m p.p.t. W przypadku stwierdzenia, w trakcie realizacji działań naprawczych, zanieczyszczenia na większej głębokości niż 0,30 m - zostanie zebrana dodatkowo, taka ilość ziemi, która zapewni usuniecie całości zanieczyszczenia. Miejsce po usuniętej zanieczyszczonej ziemi zostanie uzupełnione czystą (niezanieczyszczoną ziemią.",
+    "ecological_effect": "Osiągnięcie standardów jakości gleby i ziemi w zakresie stężenia oleju mineralnego (węglowodory C12-C35) dla gruntów grupy „B” - grunty zaliczone do użytków rolnych z wyłączeniem gruntów pod stawami i gruntów pod rowami, grunty leśne oraz zadrzewione i zakrzewione, nieużytki, a także grunty zabudowane i zurbanizowane z wyłączeniem terenów przemysłowych, użytków kopalnych oraz terenów komunikacyjnych, zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": "Tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

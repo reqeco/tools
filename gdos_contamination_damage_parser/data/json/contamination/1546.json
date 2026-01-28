@@ -1,0 +1,217 @@
+{
+  "registry_id": 1546,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.75,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "kłodzki",
+    "municipality": "Kłodzko (gmina miejska)",
+    "address": "ul. Śląska",
+    "precinct": "Twierdza, AM-5",
+    "parcel_numbers": [
+      "3/2",
+      "7/1",
+      "7/3",
+      "8/3",
+      "8/4",
+      "8/5",
+      "8/7",
+      "AM-5"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((333927.41314095200505108 288489.67507380497409031, 333935.07926285499706864 288492.53096749499673024, 333946.53122217202326283 288501.10413614800199866, 333946.30900377302896231 288501.6769540180102922, 333957.66797085001599044 288511.51099017902743071, 333961.88748046301770955 288515.283017996000126, 333967.81725676002679393 288521.34131729800719768, 333976.67145906400401145 288529.27966128697153181, 333981.76333381800213829 288533.98965507699176669, 333987.54527690401300788 288538.72034962102770805, 333989.409007003006991 288540.5247013489715755, 333991.59217790397815406 288542.2947617499739863, 333996.22312628297368065 288529.84619498898973688, 334000.97491350199561566 288531.57167858898174018, 334003.26918287598527968 288531.94067015300970525, 334012.65144864399917424 288533.06398075702600181, 334019.58174925000639632 288508.73807275097351521, 334043.53421533800428733 288507.23597470100503415, 334046.69401594199007377 288496.89657716202782467, 334049.73039761197287589 288488.52824048697948456, 334051.38268606597557664 288483.53751240397104993, 334044.73601107398280874 288479.17834937298903242, 334045.24499365600058809 288478.37174122699070722, 334028.49928374798037112 288469.39998317201389, 334020.9565445429761894 288465.31280364497797564, 334020.00986986100906506 288464.79570969397900626, 334007.46469567698659375 288458.18666409398429096, 333995.43582888302626088 288452.80029253999236971, 333989.47170750400982797 288450.13142174197128043, 333960.08971290301997215 288435.95141517597949132, 333960.57981969002867118 288434.48526222497457638, 333945.13311429100576788 288429.92466388898901641, 333933.89935231598792598 288465.03523869102355093, 333932.03005486202891916 288471.7283711259951815, 333932.834682637010701 288471.34765170398168266, 333927.41314095200505108 288489.67507380497409031))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "JM Nieruchomości BIS Sp. z o.o.",
+      "address": "ul. Żniwna 5, 62-025 Kostrzyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,2-0,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,8-1,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,2-2,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,1-2,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,1-2,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,2-3,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,2-1,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,2-1,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,2- 1,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "47,2-461 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "52,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "444-761 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "695-3500 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "27,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "30,9- 363 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "314-829 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "495-1070 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "218-362 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-02-10",
+    "legal_basis": "art.61 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.1.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-07-28",
+        "reference": "WSI.515.1.2022.JS.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "JM Nieruchomości BIS Sp. z o.o.",
+        "address": "ul. Żniwna 5, 62-025 Kostrzyn",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2022-11-30",
+    "actual_end": "2022-12-31",
+    "method": "zmniejszenie ilości zanieczyszczeń, usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja została przeprowadzona metodą ex-situ, poprzez usunięcie zanieczyszczonego gruntu i przekazaniu go jako odpad uprawnionemu podmiotowi oraz in-situ poprzez proces stabilizacji.",
+    "ecological_effect": "W wyniki przeprowadzonej remediacji osiągnięto założony w decyzji efekt ekologiczny.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "WSI.515.1.2023.JS sprawozdanie WSI.501.4.2023.JS"
+}

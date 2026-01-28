@@ -1,0 +1,123 @@
+{
+  "registry_id": 1185,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.9,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "goleniowski",
+    "municipality": "Goleniów",
+    "address": "działka 696/54 obręb nr 2 GLEWICE",
+    "precinct": "nr 2 Glewice",
+    "parcel_numbers": [
+      "696/54"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((230026.05322397299460135 642713.06302252702880651, 229990.13672626300831325 642686.00025958800688386, 230285.34595633301069029 642279.75826502603013068, 230451.05023946199798957 642223.63791347295045853, 230469.78908990600029938 642292.26224282302428037, 230475.40363400499336421 642290.734082035953179, 230479.15196916399872862 642304.46893232001457363, 230473.53742533799959347 642305.99709357100073248, 230483.15190276599605568 642341.19211872504092753, 230491.21358007501112297 642397.75382408394943923, 230493.0122519540018402 642448.23605859105009586, 230489.48598724001203664 642498.6272037549642846, 230480.79531427900656126 642548.39726938295643777, 230466.49973258099635132 642596.83969621500000358, 230447.98460704099852592 642643.82644104398787022, 230424.1094051490072161 642688.13931627897545695, 230396.14184803899843246 642730.40828484599478543, 230261.2786879760096781 642882.38417212897911668, 230188.18202708900207654 642828.59038855403196067, 230174.08252016000915319 642818.20311527699232101, 230103.01999737700680271 642790.94410649104975164, 230097.77744370099389926 642788.93485063395928591, 230035.9914370040060021 642723.5642543169669807, 230026.05322397299460135 642713.06302252702880651))",
+    "site_description": "Nieczynna baza paliw i miejsce magazynowania materiałów pędnych i smarów, teren wojskowy."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-07-30",
+    "description": "Funkcjonowanie Bazy Paliw na potrzeby wojskowe."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Obrona narodowa",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Agencja Mienia Wojskowego",
+      "address": "ul. Nowowiejska 26A, 00-911 Warszawa, Oddział Regionalny w Szczecinie ul. Potulicka 2, 70-230 Szczecin",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "696/54"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "wolny produkt na zwierciadle wód podziemnych",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "wolny produkt na zwierciadle wód podziemnych",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "wolny produkt na zwierciadle wód podziemnych",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "wolny produkt na zwierciadle wód podziemnych",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-08-11",
+    "legal_basis": "art. 20 ustawy z dn. 11.07.2014 r. o zmianie ustawy - Prawo ochrony środowiska oraz niektórych innych ustaw.",
+    "case_reference": "WONS-NS.515.6.2020.AS",
+    "decisions": [
+      {
+        "issue_date": "2020-11-20",
+        "reference": "WONS-NS.515.6.2020.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-11-26",
+        "reference": "WONS-NS.513.4.2020.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-07-23",
+        "reference": "WONS.515.9.2015.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Agencja Mienia Wojskowego",
+        "address": "ul. Nowowiejska 26A, 00-911 Warszawa, Oddział Regionalny w Szczecinie ul. Potulicka 2, 70-230 Szczecin",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-12-01",
+    "planned_end": "2025-09-30",
+    "actual_end": null,
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "I.\tSposób przeprowadzenia remediacji powierzchni ziemi.  Remediacja z wykorzystaniem metody in-situ, w celu usunięcia zagrożenia dla zdrowia ludzi i stanu środowiska będzie polegała na ograniczaniu możliwości rozprzestrzeniania się zanieczyszczeń i kontrolowaniu zanieczyszczenia poprzez okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie.   1.\tOczyszczanie i monitorowanie wód podziemnych.   - Do tego celu należy wykorzystać 48 istniejących na omawianym terenie piezometrów i otworów technologicznych nr P1 – P48.  - Monitoring stanu otworów technologicznych i piezometrów należy prowadzić przynajmniej 1 raz w tygodniu, przez cały rok, w zakresie pomiaru miąższości wolnego produktu naftowego oraz poziomu zwierciadła wód gruntowych. Miąższość paliwa w otworach należy określać miernikiem elektrycznym bądź inną metodą (niezmienną w całym okresie trwania prac), np. próbnikiem teflonowym. Natomiast poziom zwierciadła wód gruntowych należy określać przy pomocy świstawki hydrologicznej bądź inną metodą (niezmienną w całym okresie trwania prac).  - W przypadku pojawienia się wolnego produktu naftowego w którymkolwiek z otworów należy go sczerpać. Sczerpanie przeprowadzone zostanie przy pomocy czerpaków ręcznych lub, w przypadku ewentualnego napływu do poszczególnych otworów większej ilości substancji ropopochodnych, przy pomocy skimmerów pasywnych lub aktywnych. - Sczerpany z powierzchni wód gruntowych wolny produkt ropopochodny gromadzony będzie w paleto-pojemnikach o objętości 1 000 l, w wyznaczonym i przygotowanym miejscu na bazie paliw. Miejsce magazynowania powinno zostać utwardzone i zabezpieczone geomembraną w formie szczelnej tacy mogącej pomieścić objętość zgromadzonego w niej odpadu na wypadek rozszczelnienia pojemników. - Sczerpany wolny produkt naftowy zakwalifikować należy jako odpad o kodzie 13 07 03* - inne paliwa (włącznie z mieszaninami). Po uzbieraniu partii transportowej odpad należy przekazać do zagospodarowania w sposób zgodny z ustawą z dnia 14 grudnia 2012 r. o odpadach.  - Ilość sczerpanego paliwa, daty serii monitoringowych oraz informacje o wszelkich sytuacjach awaryjnych należy odnotowywać w dzienniku prac remediacyjnych, który powinien znajdować się na obiekcie.   2.\tKontrola procesów remediacyjnych.  - Corocznie - w wyznaczonym okresie prowadzenia remedaicji, należy wykonywać 2 serie monitoringowe w ramach, których należy wykonać 3 sondy badawcze w promieniu do 2 m od miejsc wykonania 3 sondowań badawczych nr W1, W2 i S6, w których w 2020 roku na etapie oceny zanieczyszczenia powierzchni ziemi stwierdzono przekroczenie dopuszczalnych stężeń substancji ropopochodnych. - Z każdego sondowania należy pobierać po 1 próbce gruntu z przedziału głębokości 0-0,5 m poniżej stropu występowania pierwszego poziomu wód gruntowych. Próbki gruntu należy pobierać na wiosnę i jesienią (kwiecień i październik), przez cały okres prowadzenia prac remediacyjnych. - Pobór i analiza laboratoryjna próbek gruntu, w ramach monitoringu prac remediacyjnych, przeprowadzone zostaną przez akredytowane laboratorium w rozumieniu ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności. - Próbki gruntu poddane zostaną analizie laboratoryjnej na zawartość następujących substancji ropopochodnych:  a) sumy węglowodorów C6-C12, składników frakcji benzyn i sumy węglowodorów C12-C35, składników frakcji oleju, b) węglowodorów aromatycznych: etylobenzenu i ksylenów. - Z przebiegu prac remediacyjnych i monitoringowych sporządzane będą sprawozdania półroczne, które zawierać będą interpretację wyników analiz laboratoryjnych próbek gruntu oraz pomiarów hydrologicznych. W każdym sprawozdaniu ujęte będzie podsumowanie prowadzonych działań oraz wnioski i wskazówki na kolejne półrocze prowadzenia prac. Sprawozdanie powinno zawierać również proponowane zmiany w zakresie i lokalizacji rejonów kontrolnych do monitoringu na kolejny okres prowadzenia prac remediacyjnych. - Półroczne sprawozdania należy przekazywać do RDOŚ w Szczecinie w terminie miesiąca od daty ich wykonania.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,278 @@
+{
+  "registry_id": 1766,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "rybnicki",
+    "municipality": "Czerwionka-Leszczyny",
+    "address": "przy ul. Przemysłowej 12",
+    "precinct": "0001 Czerwonka",
+    "parcel_numbers": [
+      "241201_4.0001.AR_1.2026/178",
+      "241201_4.0001.AR_1.2240/197",
+      "241201_4.0001.AR_1.2411/202"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((476540.82420196698512882 254642.62411185400560498, 476542.37213567201979458 254658.19471172400517389, 476541.32420409499900416 254673.22042317601153627, 476538.44070417800685391 254688.50060749799013138, 476535.57900292298290879 254697.20415027099079452, 476541.52188343397574499 254693.93627309499424882, 476559.42478972498793155 254682.96229580999352038, 476578.48090136400423944 254641.69967046199599281, 476588.55316036398289725 254628.86173467201297171, 476607.18606287299189717 254573.17279798598610796, 476624.79653375002089888 254525.46314455600804649, 476617.83631980599602684 254523.66747261700220406, 476602.23218268598429859 254551.05150799101102166, 476592.70407891500508413 254564.2219607179868035, 476574.48106517299311236 254581.88651168599608354, 476552.55244494299404323 254596.74231274100020528, 476532.87564463901799172 254605.86110397399170324, 476540.82420196698512882 254642.62411185400560498)),((476142.90628210001159459 254643.46948944899486378, 476122.89141781901707873 254648.2452294290123973, 476124.36328514298656955 254658.14000722501077689, 476084.83635075902566314 254667.17503290201420896, 476085.74210843798937276 254671.37056161998771131, 476064.35972031898563728 254676.27456968699698336, 476067.60988098400412127 254686.11553228201228194, 476059.04257118998793885 254688.19926054400275461, 476052.25218390300869942 254691.61842109999270178, 476048.71523345302557573 254692.4453914669866208, 476040.21626499097328633 254694.40827044300385751, 476038.76804966700728983 254704.92186350500560366, 476265.31849403999513015 254790.38653212200733833, 476360.38946400000713766 254825.71206384399556555, 476372.86780163098592311 254816.40989342000102624, 476381.80085701902862638 254808.80432329600444064, 476405.75204401300288737 254792.73206262200255878, 476443.83772187202703208 254767.88513391700689681, 476488.07151991297723725 254738.67818450799677521, 476498.82975838298443705 254717.36574978299904615, 476513.02134099998511374 254668.85237419800250791, 476472.12444028200116009 254680.81414132501231506, 476455.80588269798317924 254684.72079681299510412, 476383.1430030029732734 254699.39702642799238674, 476371.83341319300234318 254695.2309938549879007, 476364.35406201198929921 254663.64880962399183773, 476412.88519785401877016 254653.06390690099215135, 476521.69589829002507031 254624.06091511101112701, 476519.16744861798360944 254609.9026787499897182, 476515.59885658801067621 254594.19924756098771468, 476467.39499177399557084 254615.03406664601061493, 476391.17005805502412841 254631.64697750800405629, 476390.33759778301464394 254627.70033003098797053, 476377.7691284739994444 254630.27743572599138133, 476368.63985465397126973 254630.69961952799349092, 476339.78775671997573227 254637.55270696198567748, 476333.83009097998728976 254638.97180849299184047, 476322.44276330602588132 254641.68300187200657092, 476298.1078312229947187 254638.07132228498812765, 476286.87109339702874422 254639.34129585401387885, 476285.34138250298565254 254631.09638140100287274, 476284.11383107997244224 254624.51649163701222278, 476242.86688156198943034 254634.22420398399117403, 476240.16115845198510215 254621.00781550499959849, 476195.1059810200240463 254631.43619467801181599, 476164.22857763001229614 254638.55629412998678163, 476142.90628210001159459 254643.46948944899486378)),((476027.76820738782407716 254909.55600032210350037, 476048.28519245784264058 254922.85349673125892878, 476067.23407807154580951 254934.74276294372975826, 476086.01916225400054827 254900.10006498359143734, 476123.40297649137210101 254919.82781304139643908, 476124.26587332872441038 254919.33652635663747787, 476135.26103948912350461 254894.07304129842668772, 476159.02816195337800309 254844.13210167642682791, 476164.55017682805191725 254843.01862195041030645, 476193.23649237299105152 254853.62806082423776388, 476222.55989455315284431 254868.51654619537293911, 476262.25599085056455806 254799.02278890367597342, 476226.93244508345378563 254787.60280191898345947, 476201.5892134714522399 254836.27572789695113897, 476176.35682102391729131 254833.56556391064077616, 476126.90972844912903383 254815.32872802019119263, 476121.3216594954719767 254813.004926523193717, 476088.21052268985658884 254800.36600793898105621, 476053.41251065989490598 254786.40033380594104528, 476039.62662935466505587 254780.91828154865652323, 475997.32608184823766351 254860.41138838138431311, 475997.16953283816110343 254889.74721801094710827, 476027.76820738782407716 254909.55600032210350037)))",
+    "site_description": "teren Koksowni Dębieńsko"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "JSW KOKS S. A.",
+      "address": "ul. Pawliczka 1 41-800 Zabrze",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyjanki wolne",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Krezole",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-11-16",
+    "legal_basis": "art. 101c ust 6 pkt 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.516.5.2022",
+    "decisions": [
+      {
+        "issue_date": "2023-01-25",
+        "reference": "WSI.516.5.2022.MS2.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

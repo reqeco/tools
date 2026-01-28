@@ -1,0 +1,99 @@
+{
+  "registry_id": 1065,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6894,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Zamość",
+    "municipality": "Zamość",
+    "address": "ul. Parkowa",
+    "precinct": "0001 Miasto Zamość",
+    "parcel_numbers": [
+      "066401_1.0001.AR_26.44/37",
+      "066401_1.0001.AR.26.44/40",
+      "066401_1.0001.AR.26.44/44",
+      "066401_1.0001.AR.26.44/46"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((797625.9603719774 325714.4967691153,797634.6916399372 325652.84872916806,797700.8376119663 325661.8445806578,797695.8105183123 325699.94465685077,797748.4627120481 325706.82383741625,797743.4356183734 325741.21973953024,797686.5500824136 325733.01763965376,797683.1104920083 325757.6239388585,797660.0916937371 325754.44893244933,797665.1187874214 325720.05303032696,797625.9603719774 325714.4967691153))",
+    "site_description": "zurbanizowane tereny niezabudowane lub w trakcie zabudowy, drogi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "MDR Zamość Sp. z o.o.",
+      "address": "ul. Przeskok 2, 00-032 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "066401_1.0001.AR_26.44/37",
+        "066401_1.0001.AR.26.44/40",
+        "066401_1.0001.AR.26.44/44",
+        "066401_1.0001.AR.26.44/46"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "41-79 mg/kg s.m.",
+      "area_ha": 0.6894
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "29,5 mg/kg s.m.",
+      "area_ha": 0.0113
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-05-28",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.515.2.2020.SG",
+    "decisions": [
+      {
+        "issue_date": "2020-08-07",
+        "reference": "WSI.515.2.2020.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MDR Zamość Sp. z o.o.",
+        "address": "ul. Przeskok 2, 00-032 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2020-08-12",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-09-14",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczonych gruntów do głębokości występowania zanieczyszczenia: (a) sekcje SZ1-SZ6 oraz SZ8 o łącznej powierzchni 6.894,0 m2, na działkach ewidencyjnych nr: 26.44/37 (na powierzchni 574,0 m2), 26.44/40 (na powierzchni 2.500,0 m2), 26.44/44 (na powierzchni 2.581,0 m2), 26.44/46 (na powierzchni 1.239,0 m2) – do głębokości 0,25 m ppt, (b) obszar w rejonie sondy badawczej nr 2 o powierzchni 113,0 m2, na działce ewidencyjnej nr 26.44/40 – do głębokości 2,0 m ppt. Usunięcie zanieczyszczonego gruntu metodą ex situ przy użyciu ciężkiego sprzętu. W przypadku, gdy w projekcie budowlanym na obszarach planowanej remediacji będą wykonywane prace związane z realizacją inwestycji budowlanej, w tym wykopy budowlane, a głębokość wykopu będzie obejmować głębokość planowanej remediacji, obszary po wykonaniu prac remediacyjnych należy zagospodarować zgodnie z projektem budowlanym.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

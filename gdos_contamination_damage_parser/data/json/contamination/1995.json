@@ -1,0 +1,150 @@
+{
+  "registry_id": 1995,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.096,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Królowej Jadwigi 51, 61-872 Poznań",
+    "precinct": "0061 Wilda",
+    "parcel_numbers": [
+      "49"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((359173.7771289499 505759.9192267684,359172.7187934986 505755.1567172492,359201.5584345488 505748.2775368197,359170.8667064623 505594.8188965684,359174.3062966771 505594.28972884826,359207.90844725736 505751.18795930874,359173.7771289499 505759.9192267684)) POLYGON((359105.77907618915 505662.2877815077,359110.2770018656 505660.96486219484,359101.01656666386 505628.42104710545,359098.3707280302 505630.0085502872,359105.24990846845 505661.7586137876,359105.77907618915 505662.2877815077))",
+    "site_description": "Teren kompleksu usługowego, parkingi."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "NP 16 Sp. z o.o.",
+      "address": "Al. Jerozolimskie 98, 00-807 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "49"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,141 mg/kg s.m.",
+      "area_ha": 0.096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,391 mg/kg s.m.",
+      "area_ha": 0.096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,681 mg/kg s.m.",
+      "area_ha": 0.096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,687 mg/kg s.m.",
+      "area_ha": 0.096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,824 mg/kg s.m.",
+      "area_ha": 0.096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,749 mg/kg s.m.",
+      "area_ha": 0.096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,639 mg/kg s.m.",
+      "area_ha": 0.096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,638 mg/kg s.m.",
+      "area_ha": 0.096
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,829 mg/kg s.m.",
+      "area_ha": 0.096
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-01-30",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.4.2024.ASB",
+    "decisions": [
+      {
+        "issue_date": "2024-04-26",
+        "reference": "WSS.515.4.2024.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-06-06",
+        "reference": "WSS.515.4.2024.ASB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "113 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "NP 16 Sp. z o.o.",
+        "address": "Al. Jerozolimskie 98, 00-807 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2024-09-30",
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Zwolnienie z obowiązku przeprowadzenia remediacji przypowierzchniowej warstwy 0-0,25 m ppt o powierzchni do 130 m2 historycznego zanieczyszczenia powierzchni ziemi w wyznaczonej w Projekcie podsekcji S5/2. Postanowienie z 06.06.2024 o sprostowaniu oczywistej omyłki."
+}

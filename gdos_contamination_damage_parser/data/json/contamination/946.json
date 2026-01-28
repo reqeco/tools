@@ -1,0 +1,128 @@
+{
+  "registry_id": 946,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.001,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Karolkowa 22/24",
+    "precinct": "6-04-09",
+    "parcel_numbers": [
+      "5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635094.4607349546 486620.23842087016,635228.8693372472 486644.0509684887,635282.8444452547 486655.6926584346,635288.1361225093 486622.35509176645,635251.0943817198 486614.94674361683,635243.6860335597 486537.68825576734,635248.4485430841 486513.3465404073,635236.2776854013 486512.81737268623,635236.2776854008 486506.4673599871,635220.4026536341 486499.05901183747,635224.6359954381 486485.8298187079,635206.6442927687 486472.6006255895,635136.7941529931 486413.33384038974,635129.3858048358 486431.3255430404,635095.5190704053 486608.59673091955,635098.164909028 486609.1258986397,635094.4607349546 486620.23842087016))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Warszawskie Zakłady Farmaceutyczne Polfa S.A.",
+      "address": "ul. Karolkowa 22/24, 01-207 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "5"
+      ],
+      "economic_activity_code": "21.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "49000-81000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "470-2000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "220-550 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "69 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "64-66 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "59-65 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "190-320 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-08-05",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.84.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-10-25",
+        "reference": "WOOŚ-IV.515.84.2019.SSz.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Warszawskie Zakłady Farmaceutyczne Polfa S.A.",
+        "address": "ul. Karolkowa 22/24, 01-207 Warszawa",
+        "economic_activity_code": "21.20.Z"
+      }
+    ],
+    "planned_start": "2019-10-10",
+    "planned_end": "2019-11-01",
+    "actual_end": "2019-11-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex-situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

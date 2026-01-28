@@ -1,0 +1,156 @@
+{
+  "registry_id": 2026,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2619,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": null,
+    "precinct": "0170",
+    "parcel_numbers": [
+      "1/8",
+      "1/11",
+      "1/13",
+      "4/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((434249.38107900001341477 585861.18468800000846386, 434277.48984699998982251 585910.71854999999050051, 434275.22517300001345575 585918.89632499997969717, 434287.0510939999949187 585939.76123399997595698, 434297.77461099997162819 585933.93416599999181926, 434311.37506499997107312 585925.83797600003890693, 434299.61035999999148771 585905.06217000004835427, 434291.43272600002819672 585902.80748900002799928, 434277.68075100000714883 585878.58107800001744181, 434269.92405600001802668 585864.9558919999981299, 434249.38107900001341477 585861.18468800000846386)),((434219.98248000000603497 585976.24103699997067451, 434167.22894599998835474 585885.45099399995524436, 434136.78095200000097975 585902.45835800003260374, 434145.06073700002161786 585915.60646399995312095, 434153.29111400002148002 585928.79524000000674278, 434157.71863700001267716 585925.9047479999717325, 434169.14088199997786433 585918.57862499996554106, 434223.59434299997519702 586012.28353599994443357, 434228.54122299997834489 586020.1007250000257045, 434254.31713300000410527 586060.76137099997140467, 434263.06515600002603605 586073.08332099998369813, 434271.72036300000036135 586085.91632499999832362, 434271.88374499999918044 586086.16392600000835955, 434312.13259100000141189 586146.13322299998253584, 434360.11365399998612702 586133.51880600000731647, 434363.41193000000203028 586130.64408300002105534, 434369.06868899997789413 586124.87777499994263053, 434372.40506800002185628 586121.15292200003750622, 434376.23854599997866899 586116.52155199996195734, 434325.99815499997930601 586129.10754700005054474, 434316.2708870000205934 586125.39520999998785555, 434284.13671799999428913 586077.48683299997355789, 434266.75445200002286583 586052.40155299997422844, 434260.47899299999698997 586042.49391600000672042, 434236.54291299998294562 586004.74618699995335191, 434219.98248000000603497 585976.24103699997067451)))",
+    "site_description": "teren dróg dojazdowych do nowobudowanego kampusu Akademii Muzycznej im. Feliksa Nowowiejskiego w Bydgoszczy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1980-09-01",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja cegieł, dachówek i materiałów budowlanych, z wypalanej gliny",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Prezydent Miasta Bydgoszczy",
+      "address": "ul. Jezuicka 1 85-102 Bydgoszcz",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "1/8",
+        "1/11",
+        "1/13",
+        "4/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1310 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "405-656 mg/kg s.m.",
+      "area_ha": 0.2619
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "48,3-82,4 mg/kg s.m.",
+      "area_ha": 0.2619
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "359-661 mg/kg s.m.",
+      "area_ha": 0.2619
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "460 mg/kg s.m.",
+      "area_ha": 0.2619
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "208-335 mg/kg s.m.",
+      "area_ha": 0.2619
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "1,82-6,68 mg/kg s.m.",
+      "area_ha": 0.2619
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "20,6 mg/kg s.m.",
+      "area_ha": 0.2619
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,53 mg/kg s.m.",
+      "area_ha": 0.2619
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-06-24",
+    "legal_basis": "101c ust. 3 POŚ",
+    "case_reference": "WSS.513.1.2024.SS",
+    "decisions": [
+      {
+        "issue_date": "2024-07-19",
+        "reference": "WSS.513.1.2024.SS.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-06-18",
+        "reference": "WSS.515.4.2024.SS.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Prezydent Miasta Bydgoszczy",
+        "address": "ul. Jezuicka 1 85-102 Bydgoszcz",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-08-01",
+    "planned_end": "2027-04-30",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "remediacja ex-situ warstwy przypowierzchniowej i podłoża do głębokości ok. 1,5-2 m ppt.",
+    "ecological_effect": "zmniejszenie ilości zanieczyszczeń do standardów określonych w rozporządzeniu, dla gruntów grupy IV, do głębokości ok. 1,5-2 m ppt.",
+    "effect_assessment": null
+  },
+  "notes": "postępowanie o wpisie do rejestru hzpz pod sygnaturą WSS.513.1.2024.SS postępowanie ws. wydania decyzji uzgadniającej projekt planu remediacji pod sygnaturą WSS.515.4.2024.SS"
+}

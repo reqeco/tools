@@ -1,0 +1,60 @@
+{
+  "registry_id": 1504,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "Pollytag S.A., ul. Wielopole 6, 80-556 Gdańsk",
+    "precinct": "70",
+    "parcel_numbers": [
+      "88/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((477287.4730270999 724586.1849187221,477241.17085116985 724572.9557255926,477221.32706147985 724583.5390800927,477204.1291104198 724819.018717722,477239.8479318498 724842.8312653415,477257.0458829198 724837.5395880928,477270.27507603995 724807.1124439137,477279.53551122977 724811.081201843,477280.85843053996 724774.039461093,477287.4730270998 724647.0392070916,477284.8271884799 724645.7162877815,477287.4730270999 724586.1849187221))",
+    "site_description": "ul. Wielopole"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja wyrobów tartacznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Pollytag S.A.",
+      "address": "ul. Wielopole 6, 80-556 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "88/2"
+      ],
+      "economic_activity_code": "46.13.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2020-10-20",
+    "legal_basis": "61 k.p.a., w związku 101c ust. 3 pkt 1 Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.4.2020.MJ.1",
+    "decisions": [
+      {
+        "issue_date": "2021-11-26",
+        "reference": "RDOŚ-Gd-WZS.513.4.2020.MJ.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3, art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

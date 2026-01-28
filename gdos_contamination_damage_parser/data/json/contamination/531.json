@@ -1,0 +1,393 @@
+{
+  "registry_id": 531,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 13.9,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Doki 1, 80-958 Gdańsk",
+    "precinct": "0068",
+    "parcel_numbers": [
+      "151/4",
+      "151/5",
+      "151/6",
+      "151/7",
+      "151/8",
+      "151/9",
+      "151/10",
+      "151/11",
+      "151/12",
+      "151/13",
+      "151/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((477449.59063588997 722308.0505458927,477464.67191604996 722306.4630427146,477746.45372960984 722210.9482683549,477835.88307513995 722120.9897551052,477831.1205656199 722114.9043262647,477841.17475239 722110.6709844647,477840.64558466995 722103.7918040343,477794.0788248698 722019.389551905,477800.42883756995 722013.8332907837,477798.31216665986 722012.245787615,477835.3539074199 721995.5770042753,477835.61849127995 721997.958259034,477863.1352129799 721995.8415881349,477877.15815768985 722097.9709590655,477879.5394124499 722097.9709590646,477881.65608334984 722098.7647106545,477889.5935992298 722090.8271947736,477934.8374397199 722043.2020995244,477941.18745241984 722047.1708574649,477943.3041233198 722043.7312672548,477942.2457878699 722041.8791802144,477947.2728812498 722034.7354159253,477949.12496828986 722035.7937513739,477952.03539077984 722032.0895772958,477948.33121669997 722028.3854032233,477990.6646346998 721968.5894503053,477995.42714422994 721970.7061212054,478004.68757941993 721956.1540087648,478000.71882147994 721953.2435862757,478031.4105495299 721908.2643296551,477943.0395394599 721845.0287865158,477735.34120738995 721912.2330875844,477678.7202608198 721928.901870924,477609.1347049799 721943.9831510838,477578.7075607899 721952.9790024143,477531.6116332698 721972.293624376,477436.3614427598 722043.466683385,477404.6113792699 722074.4229953028,477421.54474646994 722165.9690117249,477449.59063588997 722307.7859620247,477449.59063588997 722308.0505458927))",
+    "site_description": "Teren byłej stoczni Cesarskiej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2000-01-01",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja statków i konstrukcji pływających",
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Stocznia Cesarska Development Sp. z o.o.",
+      "address": "ul. Doki 1, 80-958 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "151/4",
+        "151/5",
+        "151/6",
+        "151/7",
+        "151/8",
+        "151/9",
+        "151/10",
+        "151/11",
+        "151/12",
+        "151/13",
+        "151/14"
+      ],
+      "economic_activity_code": "74.90.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "2000 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "237 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "74,5 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "2460 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,46 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": "109 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1540 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "99 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1890 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "18,1 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "590 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,26 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "2,92 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "4,96 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "4,7 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,442 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,28 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "3,76 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,71 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,87 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "2,39 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "109 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "3490 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": "295 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "3000 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "265 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "3000 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "97,3 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "5000 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "467 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "149 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,19 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "3,75 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "7,44 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "6,78 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,81 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "16,2 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,63 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "6,4 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "6,16 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "6,54 [mg/kg s.m.]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,63 [mg/kg s.m.]",
+      "area_ha": 0.2
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-04-27",
+    "legal_basis": "art. 61 par. 1 kpa, art. 101l poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-10-04",
+        "reference": "RDOŚ-Gd-WZS.515.20.2018.LK.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 105 Kpa, art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Stocznia Cesarska Development Sp. z o.o.",
+        "address": "ul. Doki 1, 80-958 Gdańsk",
+        "economic_activity_code": "74.90.Z"
+      }
+    ],
+    "planned_start": "2018-10-31",
+    "planned_end": "2031-04-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "a)\tusunięcie zanieczyszczenia w obszarze występowania najbardziej zanieczyszczonych gruntów do poziomu dopuszczalnej zawartości substancji powodujących ryzyko w gruncie, klasyfikowanym do I grupy gruntów, w rozumieniu Rozporządzenia Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395), z wykorzystaniem metody ex-situ (wymiana gruntu). Pozostałe najbardziej zanieczyszczone grunty, które będą wykryte podczas prac ziemnych i budowlanych, również zostaną usunięte. Planowane                             jest przeprowadzenie prac remediacyjnych w ten sposób w rejonie 5 otworów – B3, B4, B10, B12, B18, o łącznej powierzchni ok. 2 260 m2. W sumie planuje się usunięcie ok. 4 400 Mg zanieczyszczonego gruntu, który przekazany zostanie do unieszkodliwienia lub odzysku. Grunty usuwane będą przy użyciu sprzętu mechanicznego - koparki, ładowarki. Zanieczyszczony grunt będzie na bieżąco wywożony do miejsca ostatecznego zagospodarowania odpadów.  b)\tograniczenie możliwości rozprzestrzeniania się zanieczyszczeń w gruntach antropogenicznych (stabilizacja zanieczyszczenia), poprzez przykrycie terenu budynkami, powierzchniami utwardzonymi i drogami (ok. 70-80 % powierzchni terenu), a na terenach zielonych – przykrycie warstwą gruntów naturalnych, niezanieczyszczonych, o niskim współczynniku filtracji, wraz z warstwą gleby.",
+    "ecological_effect": "Działania remediacyjne będą prowadzone dwutorowo. W pewnej części nastąpi usunięcie zanieczyszczenia w obszarze występowania najbardziej zanieczyszczonych gruntów do poziomu dopuszczalnej zawartości substancji powodujących ryzyko w gruncie, klasyfikowanym do I grupy gruntów, w rozumieniu Rozporządzenia Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395), z wykorzystaniem metody ex-situ (wymiana gruntu). Pozostałe najbardziej zanieczyszczone grunty, które będą wykryte podczas prac ziemnych i budowlanych, również zostaną usunięte. W pozostałej części, zastosowane zostanie ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń w gruntach antropogenicznych (stabilizacja zanieczyszczenia), poprzez przykrycie terenu budynkami, powierzchniami utwardzonymi i drogami (ok. 70-80 % powierzchni terenu ), a na terenach zielonych – przykrycie warstwą gruntów naturalnych, niezanieczyszczonych, o niskim współczynniku filtracji,                         wraz z warstwą gleby.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

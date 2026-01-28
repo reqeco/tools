@@ -1,0 +1,274 @@
+{
+  "registry_id": 910,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.28,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Fabryczna w Trzebini",
+    "precinct": "obr. 14 Trzebionka",
+    "parcel_numbers": [
+      "120305_4.0014.1987/127",
+      "120305_4.0014.1987/94",
+      "120305_4.0014.1987/5",
+      "120305_4.0014.1987/75",
+      "120305_4.0014.1987/119",
+      "120305_4.0014.2184",
+      "120305_4.0014.1987/92",
+      "120305_4.0014.537/8",
+      "120305_4.0014.2234"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((532144.4144441708 255435.78257552627,532146.5311150706 255430.75548213348,532154.9977986708 255427.5804757839,532161.3478113707 255430.22631440405,532155.5269664007 255435.25340779405,532147.5894505208 255437.10549483448,532143.8852764507 255436.8409109749,532144.4144441708 255435.78257552627), (531941.3860172905 255338.28342218418,531933.1839175507 255333.78549651615,531936.3589239006 255326.64173223544,531945.8839429509 255331.5365336854,531941.3860172905 255338.28342218418), (531970.2256583008 255235.09571580496,531964.0079375309 255235.62488353532,531958.5839683507 255232.18529331405,531961.3620989108 255226.62903220486,531966.5214842305 255226.49674027506,531971.5485776106 255229.4071627641,531970.2256583008 255235.09571580496), (531912.1495004807 255311.16357627418,531907.2546990307 255308.51773765497,531906.8578232308 255302.56460074522,531911.0911650307 255295.68542031664,531917.8380535307 255298.5958428057,531912.1495004807 255311.16357627418), (531906.0640716406 255288.80623989645,531888.0723689907 255280.7364320848,531881.8546482307 255279.94268050604,531874.8431758708 255276.76767415646,531877.4890144907 255270.68224531505,531872.3296291706 255268.9624502072,531873.6525484906 255264.06764875632,531872.9910888307 255260.09889081493,531870.6098340707 255256.39471673407,531866.1119084107 255254.5426297048,531860.1587715007 255255.07179742493,531857.6452248106 255258.7759715058,531856.7191812906 255261.28951819614,531850.8983363109 255255.73325708508,531855.5285539107 255243.16552361567,531884.5004868507 255255.60096515343,531880.9286047107 255265.91973578557,531911.4880408306 255277.16454994585,531906.0640716406 255288.80623989645), (531978.5335915907 255109.94754884578,531969.2731564005 255112.06421974394,531960.0127212108 255109.1537972549,531953.6627085106 255108.62462953385,531945.4606087706 255104.39128773473,531944.6668571907 255091.69126233459,531956.0439632708 255084.28291418403,531972.4481627507 255083.22457873635,531976.9460884107 255076.08081444446,531987.2648590509 255079.52040465362,531984.6190204208 255098.30585889518,531978.5335915907 255109.94754884578), (531993.6148717506 255040.09740914404,531995.9961265107 255042.74324776419,531994.1440394707 255049.09326046612,531987.5294429107 255049.35784433503,531983.8252688408 255043.8015832156,531989.1169460907 255038.24532210454,531993.6148717506 255040.09740914404), (531893.8667555805 255075.28706285544,531889.6334137807 255072.9058080949,531887.5167428807 255054.12035385426,531894.9250910307 255037.18698665593,531914.5042968607 255022.89945808612,531903.1271907707 254988.2389720967,531895.9834264808 254952.25556679443,531899.9521844208 254931.882609386,531916.8855516206 254945.11180250533,531920.5897257007 254939.02637366485,531936.7293413107 254946.96388954483,531932.2314156506 254955.16598928627,531923.7647320508 254958.60557949543,531920.5897257007 254981.09520780575,531922.1772288708 254989.82647526544,531928.2626577106 254994.85356865544,531942.2856024207 254990.6202268554,531957.8960503107 254981.35979166627,531978.7981754505 254981.0952078048,531995.7315426508 254980.8306239443,532007.3732326007 254987.1806366453,532009.2253196407 254993.53064934537,531988.5877783608 255035.5994834872,531980.3856786205 255052.79743454512,531966.0981500507 255060.47036655433,531936.2001735808 255065.49745994527,531893.8667555805 255075.28706285544), (531901.0105198707 255026.0744644357,531892.8084201308 255023.1640419457,531891.4855008206 255014.4327744851,531892.8084201308 255006.23067474551,531899.1584328307 255003.58483611513,531903.6563585007 255010.46401654556,531905.7730294007 255020.2536194548,531901.0105198707 255026.0744644357), (531869.2604563707 254928.7076030355,531866.3500338808 254933.4701125566,531857.6187664208 254937.7034543557,531849.4166666807 254937.70345435478,531848.3583312306 254931.0888577951,531851.0041698606 254925.79718054645,531857.8833502807 254917.595080805,531866.6146177509 254916.00757763442,531874.5521336206 254917.0659130849,531869.2604563707 254928.7076030355), (531857.3541825607 254951.4618152054,531854.9729278006 254957.01807631552,531848.8874989607 254955.9597408641,531848.8874989606 254948.55139271542,531852.3270891707 254944.31805091538,531856.8250148306 254941.93679615576,531860.2646050506 254945.64097023662,531858.9416857307 254947.49305726495,531857.3541825607 254951.4618152054), (531787.5040428607 254955.1659892844,531771.3644272508 254948.55139271542,531772.1581788308 254945.6409702357,531768.9831724806 254944.31805091538,531775.3331851807 254926.32634826563,531794.9123910108 254932.6763609657,531802.3207391605 254939.02637366485,531800.7332359808 254927.91385144554,531802.5853230206 254920.7700871555,531806.5540809608 254913.8909067344,531813.9624291105 254909.39298106637,531819.7832740806 254913.36173900496,531819.7832740808 254923.15134191513,531817.9311870506 254937.70345435385,531813.9624291107 254952.52015065495,531806.2894971007 254953.84306996502,531800.4686521206 254940.08470911626,531800.2040682606 254956.48890859447,531787.5040428607 254955.1659892844)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "120305_4.0014.1987/94",
+        "120305_4.0014.1987/127",
+        "120305_4.0014.1987/5",
+        "120305_4.0014.1987/75",
+        "120305_4.0014.1987/119",
+        "120305_4.0014.2184",
+        "120305_4.0014.1987/92",
+        "120305_4.0014.537/8",
+        "120305_4.0014.2234"
+      ],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "6900 i 7680 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "302 - 704 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "51,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "309 - 2170 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "7,21 - 17,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "202 - 1590 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "7,85 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "76, 5 - >500 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1410 - 16500 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "19,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "13,1 i 44,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "35,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "8,11 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,09 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "54,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "12,73 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "51,62 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "177,38 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "5,3 - 40,05 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "> 500 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3180 - 7350 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-31",
+    "legal_basis": "art. 61 § 1 Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.63.2019.MK",
+    "decisions": [
+      {
+        "issue_date": "2019-09-10",
+        "reference": "ZS.513.63.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-09-23",
+        "reference": "ZS.515.4.2021.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-10-04",
+        "reference": "ZS.513.6.2020.MK.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-10-05",
+        "reference": "ZS.513.6.2020.MK.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 7",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-15",
+        "reference": "ZS.515.8.2023.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": "2021-09-01",
+    "planned_end": "2034-04-01",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Zwolnienie z remediacji w zakresie metali ciężkich na terenie dz. nr: 1987/127, 1987/94, 1987/119 i 2184. Pozostałe - ustalenie planu."
+}

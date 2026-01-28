@@ -1,0 +1,298 @@
+{
+  "registry_id": 1823,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.554,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Kolejowa 1/3, 60-715 Poznań",
+    "precinct": "Łazarz",
+    "parcel_numbers": [
+      "21/10",
+      "21/11",
+      "21/14",
+      "39/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((357718.1236682312 505663.803529514,357657.2693797626 505632.58263373375,357640.3360125413 505545.2699591117,357695.1048721619 505553.47205884196,357718.1236682312 505663.803529514))",
+    "site_description": "Teren w przeszłości wykorzystywany przemysłowo, fabryka narzędzi rolniczych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "NOVAFORM Polska Sp. z o.o.",
+      "address": "ul. Seweryna Mielżyńskiego 14, 61-725 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "21/10",
+        "21/11",
+        "21/14",
+        "39/6"
+      ],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "822 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "214 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "792 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "995 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "757 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "300 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,17 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "0,23 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,169 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "3,25 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "13,6 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "12,5 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "10 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "1,44 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "9,12 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,6 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "6,59 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "6,27 mg/kg s.m.",
+      "area_ha": 0.446
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "87 mg/kg s.m.",
+      "area_ha": 0.108
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "568 mg/kg s.m.",
+      "area_ha": 0.108
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "1.000 mg/kg s.m.",
+      "area_ha": 0.108
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1.580 mg/kg s.m.",
+      "area_ha": 0.108
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "3.000 mg/kg s.m.",
+      "area_ha": 0.108
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1.250 mg/kg s.m.",
+      "area_ha": 0.108
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "8,88 mg/kg s.m.",
+      "area_ha": 0.108
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "8,63 mg/kg s.m.",
+      "area_ha": 0.108
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "7,66 mg/kg s.m.",
+      "area_ha": 0.108
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-02-27",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.9.2023.ASB.5",
+    "decisions": [
+      {
+        "issue_date": "2023-05-08",
+        "reference": "WSS.515.9.2023.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4 POŚ",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-10-03",
+        "reference": "WSS.515.25.2023.ASB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-11-27",
+        "reference": "WSS.515.27.2023.ASB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-04-18",
+        "reference": "WSS.515.12.2024.ASB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "NOVAFORM Polska Sp. z o.o.",
+        "address": "ul. Seweryna Mielżyńskiego 14, 61-725 Poznań",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2024-06-30",
+    "planned_end": "2024-12-31",
+    "actual_end": "2025-03-21",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne polegały na wydobyciu z terenu ww. działek z głębokości 0,25 m ppt - ok. 4.460 m2, a także z pięciu obszarów do głębokości ponad 0,25 m ppt na ok. 1.080 m2 powierzchni, zanieczyszczonych mas ziemnych do głębokości zalegania zanieczyszczenia. Z dna głębszych niż 0,25 m ppt wykopów i jego ścian należało pobrać co najmniej po 5 próbek gleby, z każdej ściany i dna wykopu, i przekazać do badań na zawartość substancji, które spowodowały obowiązek remediacji. Każda z sekcji w przypowierzchniowej warstwie gleby spełniać powinna wymagania określone w pkt 2 decyzji w tabelce dot. dopuszczanych zawartości substancji do 0,25 m ppt. Po uzyskaniu wymaganych zawartości substancji w glebie, wykopy mogły być pogłębione na potrzeby inwestycji, lub jeśli nie będzie ona kontynuowana zostać zasypane czystą ziemią.",
+    "ecological_effect": "Z treści złożonych dokumentów wynika, że sposób remediacji terenu przebiegał w ramach ustalonego planu remediacji. Wykonane prace i przedłożone wyniki analiz próbek gleby i ziemi, pozwalają na stwierdzenie, że remediację terenu polegającą na usunięciu zanieczyszczenia, można uznać za zakończoną.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Dec. zm. z 03.10.2023 r., dec. zm. z 27.11.2023 r., dec. zm. z 18.04.2024 r."
+}

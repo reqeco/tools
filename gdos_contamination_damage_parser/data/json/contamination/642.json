@@ -1,0 +1,60 @@
+{
+  "registry_id": 642,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Malbork (gmina miejska)",
+    "address": "ul. Łąkowa 1\tMalbork\t82-200",
+    "precinct": "0004 Malbork",
+    "parcel_numbers": [
+      "20\t4\tmiasto Malbork"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((502281.08 686344.79,502368.20 686305.24,502401.94 686249.55,502322.95 686200.10,502260.74 686289.42,502264.60 686291.17,502251.60 686313.94,502280.03 686346.19,502281.08 686344.79))",
+    "site_description": "PKD 46.71.Z - sprzedaż hurtowa paliw i produktów pochodnych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż hurtowa paliw i produktów pochodnych",
+    "current": "Sprzedaż hurtowa paliw i produktów pochodnych"
+  },
+  "land_holders": [
+    {
+      "name": "PRZEDSIĘBIORSTWO HANDLOWO-USŁUGOWE \"MALNAFT\" SP.Z O.O.",
+      "address": "ul. Łąkowa 1, 82-200 Malbork",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "20\t4\tmiasto Malbork"
+      ],
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.66.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.66.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

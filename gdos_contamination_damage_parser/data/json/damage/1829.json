@@ -1,0 +1,72 @@
+{
+  "registry_id": 1829,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "leżajski",
+    "municipality": "Nowa Sarzyna",
+    "address": "37-310 Nowa Sarzyna",
+    "precinct": "0007 Nowa Sarzyna",
+    "parcel_numbers": [
+      "180805_4.0007.2/156"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((735577.2813539848 277361.19185935054,735657.9794338493 277374.68563636485,735731.2691654004 277385.9304505391,735736.6931346997 277384.73982315976,735739.3389733866 277382.49086032994,735740.7941846547 277378.2575185308,735750.0546199953 277322.430323543,735756.0077570388 277323.2240751339,735767.5171552447 277252.4478919171,735796.0789836559 277076.8964991532,735697.7860765174 277046.20477107074,735628.8619787849 277024.5088943299,735620.3952950519 277079.67462966125,735607.0338097815 277166.45813655574,735582.1629263209 277328.7803361919,735577.1358328515 277361.19185935054,735577.2813539848 277361.19185935054))",
+    "site_description": "Teren instalacji IPPC do produkcji podstawowych produktów lub półproduktów chemii organicznej i nieorganicznej oraz środków ochrony roślin przy zastosowaniu procesów chemicznych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2015-10-15",
+    "to": null,
+    "description": "15.10.2015 r - wykonano badania gleby na potrzeby raportu początkowego"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie zidentyfikowano w trakcie badań gleby na potrzeby sporządzenia raportu końcowego dla instalacji IPCC: do produkcji podstawowych produktów lub półproduktów chemii organicznej i nieorganicznej oraz środków ochrony roślin przy zastosowaniu procesów chemicznych - badania gleby wykonano w północno-wschodniej części działki o nr ewid. 2/156 (powierzchnia działki: 5,6053 ha)",
+  "total_area_ha": 5.6053,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Synthos Agro Sp. z o.o.",
+      "address": "ul. Chemików 1 32-600 Oświęcim",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chlorobenzeny pojedyncze",
+      "concentration": "1,42 mg/kg s.m.",
+      "area_ha": 5.6053
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,042 mg/kg s.m.",
+      "area_ha": 5.6053
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,038 mg/kg s.m.",
+      "area_ha": 5.6053
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-12-12",
+    "detection_date": "2022-06-28",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,121 @@
+{
+  "registry_id": 1896,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Płock",
+    "municipality": "Płock",
+    "address": "Płock-Góry, stacja PERN S.A., dz. nr. ew. 125/6 obręb Góry",
+    "precinct": "Góry",
+    "parcel_numbers": [
+      "125/6"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "stacja PERN S.A. miasto Płock obręb Góry"
+  },
+  "occurrence_time": {
+    "date": "2024-03-05",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W dniu 5 marca 2024 r. ok. godz. 5.00 miało miejsce zdarzenie awaryjne polegające na awaryjnym wycieku ok. 0,6 m3 ropy naftowej ze zbiornika technologicznego., tzw. zbiuornika przecieków na Stacji Pomp na trasie odcinka zachodniego rurociągu dalekosiężnego w miejscowości Płock Góry. Wstępnie oszacowano, że że w wyniku uwolnienia zanieczyszczeniu powierzchniowemu uległo ok. 150 m2 utwardzonego terenu stacji olraz ok. 20 m2 terenów zielonych na dz. o nr. ew. 125/6 obręb Góry.",
+  "total_area_ha": 0.021,
+  "reporters": [
+    {
+      "name": "PERN S.A.",
+      "address": "ul. Wyszogrodzka 133  09-410 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PERN S.A.",
+      "address": "ul. Wyszogrodzka 133  09-410 Płock",
+      "economic_activity_code": "49.50.B, 52.10.B, 46.71.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.021
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.021
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzen",
+      "concentration": null,
+      "area_ha": 0.021
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": 0.021
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": 0.021
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": 0.021
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Styren",
+      "concentration": null,
+      "area_ha": 0.021
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2024-03-05",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-03-05",
+    "planned_end": "2024-04-05",
+    "actual_end": "2024-03-12",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, inne działania tj. działania zapobiegawcze, o których mowa w art. 6 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+    "description": "Po stwierdzeniu awarii poprzez system automatyki zostały zamknięte zasuwy trasowe po obu stronach rurociągu, zlokalizowane po obu stronach miejsca zdarzenia, służby techniczne PERN S. A.  przystąpiły do zbierania rozlanej ropy naftowej. Zanieczyszczenia zostały zatrzymane w instalacji odwadniającej. Odpompowano z instalacji ok. 24 m3 roztworu wody z ropą naftową.. Prewencyjnie założono rękawy sorpcyjne na wylocie kanalizacji deszczowej obiektu do utwardzonego rowu na zewnątrz obiektu. Podjęto działania polegające na wybraniu zanieczyszczonego gruntu. Wydobyto a następnie zagospodarowano 58,46 Mg gruntu, pobrano próbki z dna wykopu a następnie zasypano czystym gruntem.",
+    "ecological_effect": "Wyniki próbek gruntu pobranych po wydobyciu zanieczyszczenia dowodzą skuteczności działań zapobiegawczych. Przeprowadzone działania prowadzone były zgodnie zapisami ustawy szkodowej i przyczyniły sie do usunięcia skutków zdarzenia awaryjnego na terenie dz. o nr ew.  125/6 obręb Góry w Płocku",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "zanieczyszczajacy",
+    "covered_by_obligee": "tak",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "WOOŚ-IV.511.9.2024.IA"
+}

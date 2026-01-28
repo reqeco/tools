@@ -1,0 +1,66 @@
+{
+  "registry_id": 1776,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 1.0722,
+  "status": null,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "gliwicki",
+    "municipality": "Toszek",
+    "address": "ul. Strzelecka Toszek",
+    "precinct": "Toszek",
+    "parcel_numbers": [
+      "240507_4.0014.AR_9.142/16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((465349.89 287681.08,465348.71 287675.87,465335.63 287643.88,465332.86 287645.01,465326.13 287628.76,465319.07 287631.7,465306.48 287602.82,465306.08 287602.82,465290.67 287609.32,465292.26 287613.44,465270.84 287623.09,465222.38 287643.54,465207.52 287649.82,465215.26 287661.45,465256.43 287725.66,465258.79 287728.89,465265.39 287737.88,465270.24 287740.64,465279.61 287741.19,465285.91 287739.91,465292.45 287731.43,465299.66 287721.94,465305.69 287716.62,465338.69 287687.49,465349.89 287681.08))",
+    "site_description": "działka nr ew. 142/16, a. m. 9, obręb Toszek, położona w rejonie ul. Strzeleckiej w Toszku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": "Produkcja piwa",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1200 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-15",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096) oraz art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2018 r. poz. 799 ze zm.)",
+    "case_reference": "WSI.513.40.2019.TK/MO",
+    "decisions": [
+      {
+        "issue_date": "2023-02-15",
+        "reference": "WSI.513.40.2019.MO.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

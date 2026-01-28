@@ -1,0 +1,64 @@
+{
+  "registry_id": 2070,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "tomaszowski",
+    "municipality": "Lubochnia",
+    "address": "Cygan 2,  97-217 Cygan",
+    "precinct": "Łąki Henrykowskie",
+    "parcel_numbers": [
+      "1023/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((574666.345072093 409358.75239509065,574655.2325498626 409322.23982206266,574659.4658916625 409312.714803013,574717.6743414141 409300.014777611,574747.3077340149 409313.7731384607,574734.6077086146 409320.1231511608,574699.1534710436 409355.57738874294,574666.345072093 409358.75239509065))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-12-23",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenia powierzchni ziemi spowodowanego wodami pogaśniczymi po pożarze budynku produkcyjnego",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Łodzi, Delegatura w Piotrkowie Trybunalskim",
+      "address": "ul. Bawełniana 18, 97-300 Piotrków Trybunalski",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "TEDEX S.A",
+      "address": "Cygan 2, 97-217 Cygan",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "140±52 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-01-23",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

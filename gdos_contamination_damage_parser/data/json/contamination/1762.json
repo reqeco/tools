@@ -1,0 +1,279 @@
+{
+  "registry_id": 1762,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Zabrze",
+    "municipality": "Zabrze",
+    "address": "przy ul. Zamkowej 9",
+    "precinct": "0002 Biskupice",
+    "parcel_numbers": [
+      "247801_1.0002.AR_5.933/13",
+      "247801_1.0002.AR_5.973/13",
+      "247801_1.0002.AR_5.974/13",
+      "247801_1.0002.AR_9.338/34"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((487697.76063816202804446 273721.06710644299164414, 487710.71401158801745623 273736.00439755001571029, 487701.05822523997630924 273753.01444207597523928, 487782.36000598501414061 273770.7512894370011054, 487850.89164450200041756 273785.70140627800719813, 487922.70101210998836905 273801.36704436101717874, 487913.79834714601747692 273807.48321497597498819, 487903.51910147099988535 273816.02649813302559778, 487897.24393493798561394 273823.55653449898818508, 487884.71635107102338225 273855.18678742001065984, 487878.20873557101003826 273887.81553823500871658, 487868.6943151869927533 273929.47952469397569075, 487868.19513429497601464 273932.49450445297406986, 487854.92310074297711253 273995.74661449401173741, 487847.15455882699461654 274017.83837003097869456, 487850.16990418202476576 274020.59624879399780184, 487848.16969178698491305 274032.39636467501986772, 487838.40627832902828231 274079.33067772601498291, 487874.80804608797188848 274097.38092985097318888, 487874.56101405498338863 274094.61583856598008424, 487875.30707181000616401 274092.86681280197808519, 487951.37284509901655838 274134.48028677102411166, 487982.74875773099483922 274139.23573565401602536, 488020.83284857700346038 274145.63005726598203182, 488021.85167621198343113 274145.58638514397898689, 488027.31338699400657788 274145.20317755499854684, 488067.80204454297199845 274142.37047189398435876, 488074.27774898800998926 274141.58386389800580218, 488083.50299148401245475 274081.37443105800775811, 488086.04775939101818949 274064.72978219599463046, 488087.16882836702279747 274057.41891097498591989, 488088.13749953598016873 274052.89848538697697222, 488093.2903012249735184 274041.42580311297206208, 488093.41303014097502455 274041.63403351802844554, 488094.01060074102133512 274039.24737109197303653, 488099.08894082100596279 274011.07528493599966168, 488099.53240545798325911 274009.12044623802648857, 488104.81153585598804057 273981.01562262402148917, 488106.14528656599577516 273975.40091800998197868, 488109.27898029901552945 273961.67667496297508478, 488112.39376184099819511 273942.82563211902743205, 488105.2865944430232048 273939.01336943102069199, 488107.75813967600697652 273922.86941862897947431, 488084.54526669799815863 273923.15132357500260696, 488082.40423000702867284 273905.13046066300012171, 488080.22865175001788884 273886.77025695599149913, 488110.05271376401651651 273892.06627007300266996, 488112.28666973597137257 273892.45601361501030624, 488112.5468524870229885 273870.16532381798606366, 488006.61896800599060953 273849.43128637701738626, 488013.58965097501641139 273816.30660296900896356, 488045.88622508599655703 273822.63878593099070713, 488113.57346185197820887 273839.45916602597571909, 488115.00690803298493847 273831.59441446897108108, 488120.97476190602174029 273832.43370311497710645, 488122.39326755597721785 273825.688509224972222, 488127.33093725901562721 273798.94749539799522609, 488103.34563469601562247 273794.55246672499924898, 488091.86394076200667769 273792.44802972202887759, 488070.16744582500541583 273788.06222566601354629, 488063.83773407299304381 273783.35002611402887851, 488059.11544583598151803 273782.23415105498861521, 488051.15297467698110268 273780.22234991198638454, 488034.03664756898069754 273776.04485216800821945, 488032.37985626899171621 273771.74959257198497653, 488031.85177130199735984 273769.63790491502732038, 488043.19660385901806876 273720.64353747200220823, 488020.08478485600790009 273715.05744644702645019, 488030.48468970699468628 273686.48405116202775389, 488038.21509387600235641 273665.27231462398776785, 488039.82341958599863574 273660.75328955898294225, 488053.83576470200205222 273621.35755100601818413, 487996.97952523699495941 273602.84251411200966686, 487969.34513996902387589 273639.27308297698618844, 487973.23168504302157089 273651.08405167399905622, 487971.51315366599010304 273659.30243401601910591, 487952.12859329098137096 273664.82985068601556122, 487943.11499159300001338 273685.74900879699271172, 487915.17816789401695132 273749.50795760797336698, 487913.90352541499305516 273752.08361405797768384, 487840.99182316701626405 273735.45334244699915871, 487833.39310530701186508 273733.73648042097920552, 487830.12482344702584669 273732.98085091297980398, 487780.34089801000664011 273721.6366256860201247, 487726.87792116199852899 273709.46233341400511563, 487711.45957431598799303 273705.95162182400235906, 487708.44250347802881151 273704.55298388900700957, 487705.54292557400185615 273702.9728705920279026, 487702.8305193210253492 273701.19035723200067878, 487700.15593483200063929 273699.24742746102856472, 487697.79040612798416987 273704.68610684899613261, 487693.66373016202123836 273710.70812717499211431, 487675.66289760998915881 273701.69528983801137656, 487669.92394513700855896 273702.27210927801206708, 487669.10249130602460355 273708.07981973502319306, 487670.49361052399035543 273709.71018295100657269, 487681.58267203101422638 273713.08917025901610032, 487690.45507568801986054 273715.8782951720058918, 487696.90798022097442299 273720.08913023601053283, 487697.76063816202804446 273721.06710644299164414))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "JSW KOKS S. A.",
+      "address": "ul. Pawliczka 1 41-800 Zabrze",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Krezole",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-08-11",
+    "legal_basis": "art. 101c ust 6 pkt 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.516.4.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-12-20",
+        "reference": "WSI.516.4.2022.MS2.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

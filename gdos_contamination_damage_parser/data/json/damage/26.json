@@ -1,0 +1,75 @@
+{
+  "registry_id": 26,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "grudziądzki",
+    "municipality": "Łasin",
+    "address": "Łasin ul. Grudziądzka",
+    "precinct": null,
+    "parcel_numbers": [
+      "300/1 obręb Wybudowanie Łasińskie"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((504637.06883414 628210.3312165439,504634.15841165 628280.4459401146,504697.92312250996 628280.9751078347,504747.4003048001 628210.331216543,504638.12716958986 628209.8020488238,504637.06883414 628210.3312165439))",
+    "site_description": "stacja paliw  PKN ORLEN nr 1492"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "CZERWIEC 2007, SZCZEGÓŁOWO PO WYDOŁOWANIU ZBIORNIKÓW NA PALIWO W DNIACH 20-27 LISTOPAD 2007"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie stacji paliw PKN Orlen nr 1492 w Łasinie",
+  "total_area_ha": 0.6189,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 1492 w Łasinie-PKN ORLEN SA",
+      "address": "Łasin, ul. Grudziądzka 11",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "825,31 MG/KG S.M.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2008-08-23",
+    "detection_date": "2008-11-20",
+    "decisions": [
+      {
+        "issue_date": "2008-10-10",
+        "reference": "wśrrw-iii-dl/6642/12/08",
+        "issuing_authority": "Wojewoda Kujawsko-Pomorski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": "OSIĄGNIĘTO EFEKT EKOLOGICZNY",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

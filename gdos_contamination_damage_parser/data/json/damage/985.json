@@ -1,0 +1,104 @@
+{
+  "registry_id": 985,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": "Dębogórze",
+    "precinct": "0008 Dębogórze",
+    "parcel_numbers": [
+      "93/41",
+      "225/2 obręb Dębogórze"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((465371.27713570767 747346.7977730315,465282.6415417677 747340.712344192,465295.07698330766 747246.5204891441,465415.1980568777 747256.5746759241,465422.0772373078 747212.9183386015,465448.2710396978 747214.7704256419,465428.6918338677 747349.972779382,465371.27713570767 747346.7977730315))",
+    "site_description": "Zanieczyszczony grunt"
+  },
+  "occurrence_time": {
+    "date": "2014-01-03",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W dniu 3 stycznia 2014 r. doszło do wycieku paliwa z rurociągu naftowego. W następstwie awarii doszło do zanieczyszczenia gruntów produktami ropopochodnymi na polu uprawnym.",
+  "total_area_ha": 1.4881,
+  "reporters": [
+    {
+      "name": "Rejonowy Zarzad Infrastruktury w Gdyni",
+      "address": "ul. Jana z Kolna 8b, 81-301 Gdynia",
+      "legal_form": "Skarb Państwa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Rejonowy Zarzad Infrastruktury w Gdyni",
+      "address": "ul. Jana z Kolna 8b, 81-301 Gdynia",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "5,53-130 mg/kg s.m.",
+      "area_ha": 0.038
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "215-1137 mg/kg s.m.",
+      "area_ha": 0.038
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2014-06-17",
+    "detection_date": "2014-01-03",
+    "decisions": [
+      {
+        "issue_date": "2015-11-25",
+        "reference": "RDOŚ-Gd-WSI.I.511.4.2014.AK.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-01-27",
+        "reference": "RDOŚ-Gd-WZS.511.7.2016.AK.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art 155 k.p.a.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2016-09-15",
+    "planned_end": "2016-11-30",
+    "actual_end": "2017-05-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Etapowo wybrano zanieczyszczony grunt i uzupełniono wykop czystym gruntem o strukturze zbliżonym do rodzimego.",
+    "ecological_effect": "Doprowadzono do poziomu zanieczyszczeń w glebie nie przekraczających wartości przewidzianych dla funkcji grupy B określonych w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "brak danych",
+    "covered_by_obligee": "brak danych",
+    "enforcement": "brak danych",
+    "financial_security": "brak danych",
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

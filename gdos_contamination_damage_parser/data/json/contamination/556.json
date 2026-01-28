@@ -1,0 +1,225 @@
+{
+  "registry_id": 556,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Elektryczna 2A",
+    "precinct": "5-04-06",
+    "parcel_numbers": [
+      "24/17"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638297.6674526623 488004.2968409136,638423.0802036372 488074.67614833266,638534.2054260186 487940.26754618157,638433.6635581427 487858.77571653295,638410.3801782167 487932.85919803195,638389.7426369223 487946.08839116246,638346.3508834185 487920.15917263366,638297.6674526623 488004.2968409136))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "EP Office 2 Sp. z o.o.",
+      "address": "ul. Grzybowska 5A 00-132 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "24/17"
+      ],
+      "economic_activity_code": "41.20.Z"
+    },
+    {
+      "name": "EP Office 1 Sp. z o.o.",
+      "address": "ul. Grzybowska 5A 00-132 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    },
+    {
+      "name": "EP Retail Sp. zo.o.",
+      "address": "ul. Grzybowska 5A 00-132 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    },
+    {
+      "name": "Ep Apartments Sp. zo.o.",
+      "address": "ul. Grzybowska 5A 00-132 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "26 [mg/kg]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "20-470 [mg/kg]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "320-2100 [mg/kg]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "100-1100 [mg/kg]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "100-1200 [mg/kg]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "3,4-6,3 [mg/kg]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "380 [mg/kg]",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "180 [mg/kg]",
+      "area_ha": 0.2
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-07-24",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.76.2019",
+    "decisions": [
+      {
+        "issue_date": "2014-08-18",
+        "reference": "WSI.511.11.2014.KW.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 106 ust. 2 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-06-30",
+        "reference": "WSI.511.11.2014.KW.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-07-04",
+        "reference": "WSI.511.11.2014.ES.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-06-02",
+        "reference": "WSI.511.11.2014.ES.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-06-02",
+        "reference": "WSI.511.11.2014.ES.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-08-15",
+        "reference": "WSI.511.11.2014.SSz.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-08-20",
+        "reference": "WOOŚ-IV.515.76.2019.SSz.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.154 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "EP Office 2 Sp. z o.o.",
+        "address": "ul. Grzybowska 5A 00-132 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "EP Office 1 Sp. z o.o.",
+        "address": "ul. Grzybowska 5A 00-132 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "EP Retail Sp. zo.o.",
+        "address": "ul. Grzybowska 5A 00-132 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Ep Apartments Sp. zo.o.",
+        "address": "ul. Grzybowska 5A 00-132 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2014-08-18",
+    "planned_end": "2020-07-31",
+    "actual_end": "2020-07-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,144 @@
+{
+  "registry_id": 369,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.14,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Kolejowa na terenie Dzielnicy Wola w Warszawie",
+    "precinct": "6-04-08",
+    "parcel_numbers": [
+      "123/1",
+      "123/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634724.7005551364 486188.7223745566,634717.2922069781 486167.0264978362,634693.4796593336 486174.4348459868,634649.558738105 486053.2554369569,634654.8504153605 486052.19710150827,634666.4921053216 486025.2095475262,634790.8465208317 486073.3638105057,634786.6131790284 486115.16806078516,634826.3007584427 486223.64744440373,634838.4716161354 486220.47243805416,634846.4091320143 486241.10997933336,634853.2883124514 486242.6974825049,634856.4633188053 486264.92252695374,634850.1133060994 486290.32257775404,634849.5841383692 486299.8475968037,634769.6798118146 486248.5183274867,634730.5214001229 486204.5974063063,634724.1713874158 486189.78071000613,634734.2255741959 486172.84734280594,634764.9173022774 486161.73482058477,634734.2255741934 486080.24299092684,634724.7005551332 486071.77630732674,634713.0588651705 486049.0220951559,634691.3629884282 486055.901275577,634735.283909647 486173.3765105363,634724.7005551364 486188.7223745566))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Skanska Residential Development Poland Sp. z o.o.",
+      "address": "Al. Jana Pawła II 17 00-854 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "123/1",
+        "123/2"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "520 [mg/kg]",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "70-380 [mg/kg]",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,29-3,1 [mg/kg]",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,35-3,1 [mg/kg]",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,51-4,3 [mg/kg]",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,55-2,2 [mg/kg]",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,13-1,4 [mg/kg]",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,32 [mg/kg]",
+      "area_ha": 0.14
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,29 [mg/kg]",
+      "area_ha": 0.14
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-04-03",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.23.2018.MB",
+    "decisions": [
+      {
+        "issue_date": "2018-05-08",
+        "reference": "WSI.515.23.2018.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Skanska Residential Development Poland Sp. z o.o.",
+        "address": "Al. Jana Pawła II 17 00-854 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-05-08",
+    "planned_end": "2022-12-31",
+    "actual_end": "2024-04-08",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Metoda ex-situ",
+    "ecological_effect": "Efekt ekologiczny osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

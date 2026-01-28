@@ -1,0 +1,166 @@
+{
+  "registry_id": 1063,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3225,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "Kraków, Al. Pokoju",
+    "precinct": "obręb 17 Śródmieście",
+    "parcel_numbers": [
+      "104/2",
+      "104/14",
+      "107/5",
+      "108/7",
+      "109/5",
+      "106/13"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((568858.6810390045 243861.0551391039,568834.074739794 243894.2604138432,568811.0559437537 243876.5332950633,568813.7017823736 243872.56453712564,568811.4528195437 243871.24161781557,568812.1142792037 243859.86451172456,568858.6810390045 243861.0551391039), (568933.8228562259 243878.25308985077,568934.881191676 243878.7822575774,568933.558272366 243883.14789131097,568933.2936884961 243879.04684144165,568915.0374019854 243875.3426673701,568915.3019858451 243870.84474170022,568903.2634201047 243869.9186981786,568903.3957120347 243866.34681604058,568899.2946621645 243865.94994025026,568899.5592460243 243861.58430651855,568935.5426513262 243863.96556127723,568933.822856226 243872.29995295033,568930.3832660157 243871.50620135758,568928.9280547658 243877.19475439936,568930.6478498762 243877.591630199,568933.8228562259 243878.25308985077), (568952.0923716556 243806.94773922395,568951.0340362056 243811.3133729538,568939.2600543255 243810.51962137315,568940.0538059155 243803.90502480324,568952.0923716556 243806.94773922395), (568937.2756753553 243810.2550375024,568937.6725511455 243802.8466893537,568932.1162900353 243801.39147811383,568926.0308611953 243799.01022335235,568920.6068920151 243795.43834120315,568918.6225130452 243792.52791872248,568916.241258285 243789.2206204338,568906.054779585 243788.42686885316,568904.334984475 243809.1967020547,568937.2756753553 243810.2550375024), (568944.1548557855 243794.3800057536,568953.4152909656 243795.04146541283,568953.2829990356 243799.67168300133,568952.0923716556 243800.9946023235,568943.3611041954 243797.9518879028,568944.1548557855 243794.3800057536), (568957.9132166355 243759.58722783253,568960.9559310456 243760.51327135228,568960.1621794655 243764.0851535024,568961.7496826358 243765.01119702403,568958.4423843557 243779.29872559197,568938.4663027354 243777.7112224223,568936.6142156953 243796.36438472476,568931.0579545854 243795.570633132,568925.3694015453 243792.26333485357,568922.3266871251 243787.8977011228,568921.1360597452 243783.66435932182,568922.7235629152 243772.2872532336,568925.1048176852 243766.73099212348,568934.3652528652 243767.3924517855,568939.5246381854 243767.26015985385,568947.4621540655 243767.39245178457,568952.3569555156 243767.52474371158,568957.9132166355 243759.58722783253), (568913.595419665 243743.44761222415,568907.9068666149 243755.75076183397,568908.3037424149 243757.99972466473,568939.6569301153 243758.39660045225,568942.8319364655 243757.0736811431,568944.0225638455 243754.95701024402,568921.1360597451 243745.82886698283,568920.6068920152 243745.96115892287,568919.6808484951 243753.10492320266,568913.992295455 243752.44346355274,568915.1829228351 243746.2257427834,568920.342308155 243747.15178630315,568920.6068920152 243745.96115892287,568913.595419665 243743.44761222415), (568923.3878212853 243764.79197089374,568917.566976305 243770.0836481424,568914.921137685 243780.4024187848,568907.2482056748 243780.40241878387,568908.0419572649 243772.20031904243,568912.8044667849 243772.72948677465,568913.5982183749 243764.26280317362,568923.3878212853 243764.79197089374)))",
+    "site_description": "Budynki biurowe, hale, garaże, utwardzane drogi, place i parkingi oraz około 20% terenów zielonych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Pozostałe drukowanie",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Melar Development Sp. z o. o.",
+      "address": "Warszawa, Al. Solidarności 173 00-877 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "104/2",
+        "104/14",
+        "107/5",
+        "108/7",
+        "109/5",
+        "106/13"
+      ],
+      "economic_activity_code": "70.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "8,59 - 23,6 mg/kg s.m.",
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1200 mg/kg s.m.",
+      "area_ha": 0.19
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,169 - 0,215 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,259 - 0,424 mg/kg s.m.",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,108 - 0,321 mg/kg s.m.",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,133 - 0,384 mg/kg s.m.",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,194 - 0,321 mg/kg s.m.",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,179 - 0,248 mg/kg s.m.",
+      "area_ha": 0.22
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,26 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,371 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Pirydyna",
+      "concentration": "362 mg/kg s.m.",
+      "area_ha": 0.0025
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2020-04-09",
+        "reference": "ZS.515.23.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Melar Development Sp. z o. o.",
+        "address": "Warszawa, Al. Solidarności 173 00-877 Warszawa",
+        "economic_activity_code": "70.22.Z"
+      }
+    ],
+    "planned_start": "2020-04-21",
+    "planned_end": "2020-06-20",
+    "actual_end": "2020-05-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Metoda ex-situ - wybranie zanieczyszczonego gruntu",
+    "ecological_effect": "Zawarte w przesłanej dokumentacji wyniki badań próbek ziemi pobranych z dna i ścian wykopów, powstałych po usunięciu warstwy zanieczyszczonej gleby i ziemi potwierdzają, iż w wyniku remediacji osiągnięto efekt ekologiczny zgodnie  z decyzją ustalającą plan remediacji tj. zawartość  w glebie i w ziemi substancji powodujących ryzyko mieści się w granicach zawartości dopuszczalnych dla I grupy gruntów, dla głębokości 0-0,25 m p.p.t. i dla głębokości poniżej 0,25 m p.p.t. przy wodoprzepuszczalności wyższej lub równej 1 x 10 (-7) m/s, określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz.U. z 2016r. poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

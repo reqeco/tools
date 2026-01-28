@@ -1,0 +1,125 @@
+{
+  "registry_id": 2013,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.029,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "poznański",
+    "municipality": "Suchy Las",
+    "address": "ul. Promienista 39 i 41, 62-002 Suchy Las",
+    "precinct": "0004, Suchy Las",
+    "parcel_numbers": [
+      "357/1",
+      "357/5",
+      "357/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((355068.95466865675 514410.4189726915,355060.4879850445 514373.9063996747,355070.542171841 514378.668909193,355074.7755136468 514406.7147986237,355068.95466865675 514410.4189726915)) POINT(354984.28783251904 514337.39382664114)",
+    "site_description": "Teren przeznaczony pod zabudowę mieszkaniową, w przeszłości wykorzystywany pod szklarnie, galwanizernię, kotłownie."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "YARD Development Sp. z o.o. II Sp. k.",
+      "address": "ul. Wojskowa 6A/18 60-792 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "357/1",
+        "357/5",
+        "357/7"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "490 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "320 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "58 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,4 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,4 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-11-28",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.30.2023.ASB",
+    "decisions": [
+      {
+        "issue_date": "2024-06-03",
+        "reference": "WSS.515.30.2023.ASB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "YARD Development Sp. z o.o. II Sp. k.",
+        "address": "ul. Wojskowa 6A/18 60-792 Poznań",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2024-08-01",
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

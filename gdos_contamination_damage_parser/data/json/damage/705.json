@@ -1,0 +1,54 @@
+{
+  "registry_id": 705,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "płocki",
+    "municipality": "Bodzanów",
+    "address": "Bodzanów ul. Wyszogrodzka 19",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((570757.8932353726 514815.09097426385,570764.7724158027 514716.1366096819,570852.6142581546 514726.71996418387,570852.6142581546 514726.71996418387,570802.8724920035 514771.1700530946,570757.8932353726 514815.09097426385))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2014-03-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w powierzchni ziemi polegająca na zanieczyszczeniu guntu substancjami ropopochodnymi na terenie Stacji Paliw nr 92 przy ul. Wyszogrodzkiej 19 w m. Bodzanów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN",
+      "address": "ul. Chemików 7 , 05-Płock",
+      "legal_form": "podmiot korzystajcy ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 92 w m.Bodzanów-PKN ORLEN S.A.",
+      "address": "Wyszogrodzka 19",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2014-03-18",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

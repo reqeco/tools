@@ -1,0 +1,84 @@
+{
+  "registry_id": 323,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0222,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Cybernetyki róg ul. Postępu",
+    "precinct": "1-08-11",
+    "parcel_numbers": [
+      "21/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636578.8248461003 480740.8083556583,636632.7999541152 480895.85449908767,636619.04159325 480899.0295054382,636602.1082260296 480847.70023610815,636515.853886754 480871.51278374065,636489.3955004724 480796.9001345085,636548.6622857377 480776.26259323023,636541.7831053094 480752.45004560985,636578.8248461003 480740.8083556583))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ECI Moduo 4 Sp. z o.o.",
+      "address": "ul. Marynarska 15, 02-674 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "140",
+      "area_ha": 0.0222
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-10-04",
+    "legal_basis": "Art. 61 §1 Kpa w związku z art. 101 l Poś",
+    "case_reference": "WSI.515.38.2017",
+    "decisions": [
+      {
+        "issue_date": "2017-11-30",
+        "reference": "WSI.515.38.2017.SSz.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ECI Moduo 4 Sp. z o.o.",
+        "address": "ul. Marynarska 15, 02-674 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2017-12-06",
+    "planned_end": "2018-02-28",
+    "actual_end": "2017-12-21",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - usunięcie zanieczyszczonej ziemi",
+    "ecological_effect": "zgonie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

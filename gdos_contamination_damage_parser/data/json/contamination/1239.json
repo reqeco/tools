@@ -1,0 +1,138 @@
+{
+  "registry_id": 1239,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.324,
+  "status": null,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "Łódź, ul. Pszenna 7",
+    "precinct": "0006",
+    "parcel_numbers": [
+      "80",
+      "82"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((528433.12712461955379695 435144.19269977975636721, 528439.35925273247994483 435161.39623131416738033, 528441.88882940378971398 435170.95543662924319506, 528439.80700309132225811 435172.18322562891989946, 528473.41625975398346782 435254.56958341039717197, 528504.05839017173275352 435186.19255996122956276, 528463.78985972446389496 435164.758819580078125, 528474.58746373176109046 435143.22433699946850538, 528436.86757653544191271 435125.45328690949827433, 528437.59714750840794295 435127.64188266824930906, 528435.84111048874910921 435130.76399570982903242, 528434.53395908803213388 435130.18230428081005812, 528428.89495468256063759 435141.65239543281495571, 528433.12712461955379695 435144.19269977975636721)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Domy Drewniane S.A",
+      "address": "ul. Pszenna 7",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "80",
+        "82"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "> 0,1 mg/kg s.m.",
+      "area_ha": 0.324
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "> 0,1 mg/kg s.m.",
+      "area_ha": 0.324
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "> 0,1 mg/kg s.m.",
+      "area_ha": 0.324
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "> 0,1 mg/kg s.m.",
+      "area_ha": 0.324
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "> 0,1 mg/kg s.m.",
+      "area_ha": 0.324
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "> 0,2 mg/kg s.m.",
+      "area_ha": 0.324
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "> 0,2 mg/kg s.m.",
+      "area_ha": 0.324
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-12-04",
+    "legal_basis": "101l",
+    "case_reference": "WSI.515.9.2020.MG",
+    "decisions": [
+      {
+        "issue_date": "2021-03-15",
+        "reference": "WSI.515.9.2020.MG.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-07-26",
+        "reference": "WSI.515.6.2021.MG.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Domy Drewniane S.A",
+        "address": "ul. Pszenna 7",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-07-01",
+    "planned_end": "2023-06-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usuniecie zanieczyszczenia metodą exsitu",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "wznowiono postępowanie w sprawie wydania decyzji, które zostało umorzone"
+}

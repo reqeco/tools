@@ -1,0 +1,102 @@
+{
+  "registry_id": 1330,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Dworcowa, Trzebinia",
+    "precinct": "13 Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.1467/27",
+      "120305_4.0013.1467/26",
+      "120305_4.0013.1467/43",
+      "120305_4.0013.1467/39"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((532997.2608373808 254065.23816777114,532973.1837058908 253988.2442637831,533026.8942299809 253972.8983997628,533043.298429451 253974.75048680417,533122.9381720709 253954.64211325254,533142.5173778909 254014.70265003294,533195.9633181209 253974.75048680324,533222.9641012909 254012.45368721243,533212.9099145108 254021.44953854382,533205.5015663608 254029.3870544117,533200.5670773309 254038.77978154365,533182.7076666111 254065.3704597233,533166.3034671408 254083.36216237303,533123.837757211 254020.25891116355,533078.0647489908 254038.11832188442,533080.4460037608 254045.79125389457,533068.1428541509 254049.7600118341,533065.7615993909 254042.35166368168,533057.678562381 254045.65896196477,532997.2608373808 254065.23816777114), (532836.8833291208 254073.5725594638,532836.0895775309 254071.72047242336,532835.957285601 254068.9423418641,532827.3583100708 254040.10270085465,532887.9480145809 254021.44953854382,532898.3990771509 254055.58085681312,532836.8833291208 254073.5725594638)))",
+    "site_description": "Teren po dawnej Gumowni Trzebinia. Źródłem zanieczyszczenia są dawne Zakłady Metalurgiczne \"Trzebinia\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ASETINO Sp. z o.o.",
+      "address": "ul. Czerwieńskiego 3B, 31-319 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "120305_4.0013.1467/27",
+        "120305_4.0013.1467/26",
+        "120305_4.0013.1467/43",
+        "120305_4.0013.1467/39"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-05",
+    "legal_basis": "art. 61 § 1  Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.84.2019.MK",
+    "decisions": [
+      {
+        "issue_date": "2019-11-18",
+        "reference": "ZS.513.84.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-06-22",
+        "reference": "DOA-WSzOP.510.1.2020.MG - postanowienie",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 134 w zw. z art. 57 § 1 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-12-11",
+      "reason": "M.in. naruszenie art. 7 Kpa w zw. z art. 77 § 1 Kpa, poprzez niewyjaśnienie stanu faktycznego oraz niewyczerpujące zebranie i błędne rozpatrzenie całości materiału dowodowego.",
+      "appealed_decision_reference": "ZS.513.84.2019.MK",
+      "resolution_reference": "DOA-WSzOP.510.1.2020.MG - postanowienie",
+      "appellant_name": "ASETINO Sp. z o.o.",
+      "appellant_address": "ul. Czerwieńskiego 3B, 31-319 Kraków",
+      "resolution_date": "2020-06-22",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "Uchybienie terminu do wniesienia odwołania."
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ASETINO Sp. z o.o.",
+        "address": "ul. Czerwieńskiego 3B, 31-319 Kraków",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,156 @@
+{
+  "registry_id": 1362,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.75,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Posag 7 Panien",
+    "precinct": "2-09-09",
+    "parcel_numbers": [
+      "126/1",
+      "126/4",
+      "126/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628591.3026135786 483561.40462195966,628653.2152374447 483451.07315128855,628761.1654534405 483511.13368807826,628698.9882457041 483622.5234941896,628591.3026135786 483561.40462195966))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "8/126 ROBYG PRAGA INWESTMENT I Sp. z o.o. Sp.k.,",
+      "address": "Al. Rzeczypospolitej 1 02-972 Warszawa",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 1.75
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 1.75
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-10-12",
+    "legal_basis": "art.101l ust.4",
+    "case_reference": "WOOŚ-IV.515.57.2020.DŚc",
+    "decisions": [
+      {
+        "issue_date": "2021-01-13",
+        "reference": "WOOŚ-IV.515.57.2020.DŚc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "8/126 ROBYG PRAGA INWESTMENT I Sp. z o.o. Sp.k.,",
+        "address": "Al. Rzeczypospolitej 1 02-972 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-01-01",
+    "planned_end": "2021-09-30",
+    "actual_end": "2022-01-12",
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

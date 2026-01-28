@@ -1,0 +1,76 @@
+{
+  "registry_id": 1725,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Ujastek",
+    "precinct": "20 Nowa Huta",
+    "parcel_numbers": [
+      "126103_9.0020.1/215"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((576640.7639068031 245973.29819638561,576646.0555840533 245881.7521799542,576658.7556094535 245860.58547095302,576722.2557364552 245854.76462598424,576899.5269243398 245867.4646513844,577015.9438238429 245877.5188381523,577050.3397259639 245886.5146894846,577048.7522227938 245913.50224345177,577073.0939381444 245915.0897466326,577073.0939381444 245894.98137308285,577168.3441286471 245932.0231138328,577223.9067397683 245942.60646833107,577309.1027435007 245948.95648103207,577305.3985694207 246018.27745300066,576978.3729153619 245996.58157628216,576928.6311492106 246003.46075670235,576783.6391925568 245993.40656993352,576732.8390909554 245980.17737680394,576640.7639068031 245973.29819638561))",
+    "site_description": "działka na terenie Huty Arcelor Mittal Poland S.A"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres działalności Huty Arcelor Mittal Poland S.A.( dawniej Kombinat Metalurgiczny Huta im. Lenina, Huta im. T. Sendzimira), tj. od lat 50-tych XX wieku"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych"
+  },
+  "land_holders": [
+    {
+      "name": "Krakodlew S.A.",
+      "address": "ul. Ujastek 1 31-752 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2022-04-27",
+    "legal_basis": "art. 61 § 1 Kpa",
+    "case_reference": "ZS.513.17.2021.PD",
+    "decisions": [
+      {
+        "issue_date": "2022-12-16",
+        "reference": "ZS.513.17.2021.PD",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Krakodlew S.A.",
+        "address": "ul. Ujastek 1 31-752 Kraków",
+        "economic_activity_code": "24.10.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

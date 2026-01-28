@@ -1,0 +1,128 @@
+{
+  "registry_id": 1261,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.46,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "Bydgoszcz ul. Wojska Polskiego 65",
+    "precinct": "0132",
+    "parcel_numbers": [
+      "7/334",
+      "7/349",
+      "7/350",
+      "7/333"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((438048.3599998987 581641.5699997703,438029.7499998985 581541.1999997701,438027.6199998984 581541.5099997707,437915.6599998971 581557.1099997703,438048.3599998987 581641.5699997703)),((438220.2999999006 581551.9799997704,438240.27999990084 581538.0899997689,438233.4499999008 581535.7099997699,438223.94999990077 581465.0299997721,438233.55999990075 581451.7399997711,438383.1999999025 581426.5199997704,438385.26999990264 581426.1699997718,438383.40999990236 581416.3499997705,438231.81999990076 581441.8999997694,438219.5799999007 581432.53999977,438212.6899999006 581381.2999997698,438222.7599999007 581368.5899997707,438368.95999990246 581340.1899997704,438332.13999990205 581146.0199997695,438150.2899998999 581179.3999997713,437968.4299998977 581212.7799997712,437986.57999989815 581311.6899997694,438004.70999989833 581410.5999997705,438064.9799998989 581398.8399997698,438189.76999990037 581374.99999977,438202.8799999005 581383.3399997726,438209.8599999006 581435.2199997697,438200.6399999004 581448.1699997718,438078.799999899 581471.3999997703,438080.679999899 581481.2099997681,438120.0299998997 581473.7099997699,438204.30999990046 581457.6399997696,438213.76999990054 581464.3099997705,438224.2599999008 581542.3599997703,438220.2999999006 581551.9799997704)),((438368.95999990246 581340.1899997704,438222.7599999007 581368.5899997707,438212.6899999006 581381.2999997698,438219.5799999007 581432.53999977,438231.81999990076 581441.8999997694,438383.40999990236 581416.3499997705,438368.95999990246 581340.1899997704)),((438078.799999899 581471.3999997703,438200.6399999004 581448.1699997718,438209.8599999006 581435.2199997697,438202.8799999005 581383.3399997726,438189.76999990037 581374.99999977,438064.9799998989 581398.8399997698,438078.799999899 581471.3999997703)))",
+    "site_description": "przedwojenny zakład DAG FABRIK"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Pierwsze wzmianki o zanieczyszczeniach przypadają na lata 60 XX w."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Fermapole sp. z o.o.",
+      "address": "Al. Wincentego Witosa 31 00-710 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "7/334",
+        "7/349",
+        "7/350",
+        "7/333"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": ">3000 mg/kg s.m.",
+      "area_ha": 0.0005
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1180 mg/kg s.m.",
+      "area_ha": 0.0005
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4600 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "od 417 do 1070 mg/kg s.m.",
+      "area_ha": 1.46
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "od 351 do 640 mg/kg s.m.",
+      "area_ha": 1.46
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-03-19",
+    "legal_basis": "101c ust. 3 pkt 3 ustawy Poś",
+    "case_reference": "WSS.513.2.2021.BW",
+    "decisions": [
+      {
+        "issue_date": "2021-04-15",
+        "reference": "WSS.513.2.2021.BW.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-05-21",
+        "reference": "WSS.515.1.2021.BW.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Fermapole sp. z o.o.",
+        "address": "Al. Wincentego Witosa 31 00-710 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2021-05-01",
+    "planned_end": "2022-03-31",
+    "actual_end": "2021-11-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Usunięcie zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko poprzez wydobycie gruntu zanieczyszczonego. Pozostawienie do samooczyszczania gruntu poniżej głębokości posadowienia obiektów budowlanych; zabudowa ograniczy możliwości rozprzestrzeniania się zanieczyszczeń i ich dostępność.",
+    "ecological_effect": "Likwidacja zanieczyszczenia",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Działki w użytkowaniu wieczystym"
+}

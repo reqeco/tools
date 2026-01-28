@@ -1,0 +1,62 @@
+{
+  "registry_id": 633,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Stare Pole",
+    "address": "ul. Marynarki Wojennej 2C\tStare Pole",
+    "precinct": "0012 Stare Pole",
+    "parcel_numbers": [
+      "863/3\tStare Pole",
+      "863/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((512933.74 687714.17,512924.62 687711.70,512926.74 687704.70,512914.52 687682.24,512925.48 687651.80,512936.79 687625.91,512951.88 687629.11,512958.24 687614.06,512995.07 687628.18,513006.38 687601.24,512986.74 687591.38,513005.84 687540.29,513078.46 687562.56,513077.73 687573.07,513083.69 687574.49,513075.11 687630.50,513105.64 687635.14,513089.92 687729.67,512952.76 687689.01,512948.87 687699.15,512940.80 687698.08,512933.39 687714.17,512933.74 687714.17))",
+    "site_description": "dawniej: kompleks fabryczny cukrowni z działalnością związaną z produkcją cukru"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja cukru",
+    "current": "Produkcja olejów i pozostałych tłuszczów płynnych"
+  },
+  "land_holders": [
+    {
+      "name": "ELSTAR FATS SP. Z O .O.",
+      "address": "ul. Marynarki Wojennej 2C, 82-220 Stare Pole",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "863/3\tStare Pole",
+        "863/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.58.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-03-28",
+        "reference": "RDOŚ-Gd-WZS.513.58.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

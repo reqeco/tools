@@ -1,0 +1,56 @@
+{
+  "registry_id": 599,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "makowski",
+    "municipality": "Maków Mazowiecki",
+    "address": "Bazar k. Makowa Mazowieckiego",
+    "precinct": null,
+    "parcel_numbers": [
+      "10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641902.416846515 557352.3099218225,641913.0002010316 557348.8703316124,641922.789803967 557356.2786797611,641938.4002518704 557335.3765546214,641942.1044259547 557301.2452363623,641902.416846515 557352.3099218225))",
+    "site_description": "Stacja Paliw nr 681 w m.Bazar k. Makowa Mazowieckiego - PKN ORLEN S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropochodnymi na terenie Stacji Paliw nr 681 w m. Bazar k. Makowa Mazowieckiego",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7, Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7, Płock",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2013-06-03",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

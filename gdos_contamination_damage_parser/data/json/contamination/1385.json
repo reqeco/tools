@@ -1,0 +1,100 @@
+{
+  "registry_id": 1385,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0403,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Żupnicza",
+    "precinct": "3-02-02",
+    "parcel_numbers": [
+      "2/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((640440.78351251 489143.3303689277,640382.0458949665 489272.9764615577,640686.3173372492 489415.85174730327,640711.1882203607 489359.7599684512,640628.638055148 489321.6598922536,640646.1005900899 489279.32647425216,640624.9338810612 489272.976461553,640641.8672482824 489230.11387582496,640440.78351251 489143.3303689277))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Simens sp. z o. o.",
+      "address": "ul. Żupnicza 11, 03-821 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "2/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0403
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0403
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.0403
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-09",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "WOOŚ-IV.515.45.2020",
+    "decisions": [
+      {
+        "issue_date": "2020-10-07",
+        "reference": "WOOŚ-IV.515.45.2020.TM.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Simens sp. z o. o.",
+        "address": "ul. Żupnicza 11, 03-821 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-10-01",
+    "planned_end": "2020-11-01",
+    "actual_end": "2021-01-19",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

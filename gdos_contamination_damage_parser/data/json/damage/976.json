@@ -1,0 +1,88 @@
+{
+  "registry_id": 976,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "kraśnicki",
+    "municipality": "Kraśnik (gmina wiejska)",
+    "address": "Piaski - Zarzecze II",
+    "precinct": "0021 Zarzecze II",
+    "parcel_numbers": [
+      "060705_2.0021.240"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((728232.9555709859 347410.0154916551,728218.403458243 347399.1675532805,728225.0180549261 347387.79044719134,728237.4534967333 347406.5759014357,728234.2784903224 347410.0154916551,728232.9555709859 347410.0154916551))",
+    "site_description": "Środowisko gruntowe pod dnem niecki byłego wylewiska odpadów płynnych Fabryki Łożysk Tocznych - Kraśnik S.A. w Kraśniku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2006-02-09",
+    "description": "przed datą wykrycia podaną wyżej"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie środowiska gruntowego występującego pod dnem niecki betonowego otwartego zbiornika, byłego wylewiska odpadów płynnych Fabryki Łożysk Tocznych - Kraśnik S.A. w Kraśniku.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Związek Komunalny Gmin \"Strefa Usług Komunalnych\" w Kraśniku",
+      "address": "ul. Lubelska 84, 23-200 Kraśnik",
+      "legal_form": "Jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Fabryka Łożysk Tocznych - Kraśnik S.A. w Kraśniku",
+      "address": "ul. Fabryczna 6, 23-210 Kraśnik",
+      "economic_activity_code": "28.15.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "5126,9 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2008-11-19",
+    "detection_date": "2006-02-09",
+    "decisions": [
+      {
+        "issue_date": "2008-12-01",
+        "reference": "RDOŚ-06-WSI-6623/1/2008/RSz",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2008-12-20",
+    "planned_end": "2010-11-30",
+    "actual_end": "2010-11-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Zgruzowano i usunięto ściany oraz dno niecki wylewiska, wydobyto zanieczyszczoną ziemię zalegającą pod dnem niecki, odpady przekazano do unieszkodliwienia, nieckę wypełniono czystą ziemią wraz z utworzeniem wierzchniej warstwy glebowej w celu uzyskania użytku zielonego.",
+    "ecological_effect": "Doprowadzenie stanu gruntów do standardów jakości gleby i ziemi obowiązujących dla grupy C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne Fabryki Łożysk Tocznych - Kraśnik S.A. w Kraśniku",
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

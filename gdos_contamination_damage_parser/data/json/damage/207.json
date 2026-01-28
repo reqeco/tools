@@ -1,0 +1,122 @@
+{
+  "registry_id": 207,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "tomaszowski",
+    "municipality": "Rokiciny",
+    "address": "ul. Reymonta 2, Rokiciny",
+    "precinct": "Kolonia Rokiciny",
+    "parcel_numbers": [
+      "214",
+      "1",
+      "280",
+      "288/1",
+      "289"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((554180.56800715997815132 422290.04818615748081356, 554189.52924821001943201 422299.00942720763850957, 554201.88122911693062633 422308.93945107399486005, 554214.71760143199935555 422302.1579713603714481, 554224.64762529835570604 422283.75109785201493651, 554221.01468973746523261 422269.94594272074755281, 554302.39244630071334541 422265.10202863963786513, 554304.57220763724762946 422261.71128878282615915, 554220.04590692126657814 422230.71023866347968578, 554203.57659904530737549 422258.32054892601445317, 554203.57659904530737549 422258.32054892601445317, 554180.56800715997815132 422290.04818615748081356))",
+    "site_description": "Stacji Paliw nr 888 w Rokicinach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed lutym 2013 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda polegająca na zanieczyszczeniu środowiska gruntowo - wodnego na terenie Stacji Paliw nr 888",
+  "total_area_ha": 0.1,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2800 mg/kg suchej masy",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2400 mg/kg suchej masy",
+      "area_ha": 0.1
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "BTX-lotne węglowodory aromatyczne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-02-07",
+    "detection_date": "2008-02-01",
+    "decisions": [
+      {
+        "issue_date": "2013-03-29",
+        "reference": "WSI.511.2.2013.AR/JS.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-09-06",
+        "reference": "WSI.511.17.2013.AR.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-06-08",
+        "reference": "WSI-I.511.1.2015.DJ.JS.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-10-26",
+        "reference": "WSI.511.7.2018.MG.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "pompowanie zanieczyszczonej wody podziemnej z piezometru P1 i P2 oraz z otworu technologicznego OT1 z częstotliwością raz na miesiąc, prowadzenie monitoringu wody w piezometrze P2 oraz w otworach OT1 i OT2",
+    "ecological_effect": "uzyskano w wodzie wartości nieprzekraczające stężeń granicznych dla obszaru „C” określonych we „Wskazówkach metodycznych do oceny zanieczyszczenia gruntów i wód podziemnych produktami ropopochodnymi i innymi substancjami chemicznymi w procesie rekultywacji” PIOŚ, Warszawa 1995 r.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

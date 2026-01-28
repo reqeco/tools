@@ -1,0 +1,114 @@
+{
+  "registry_id": 2072,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Mysłowice",
+    "municipality": "Mysłowice",
+    "address": null,
+    "precinct": "0007 MYSŁOWICE",
+    "parcel_numbers": [
+      "247001_1.0007.AR_3.8681/453"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((509001.22 263226.39,508986.63 263248.4,508976.1 263264.27,508972.3 263270,509019.61 263297.51,509086.68 263346.57,509109.15 263362.52,509135.32 263305.39,509001.22 263226.39))",
+    "site_description": "działka o nr ew. 8681/453, obręb 0007 Mysłowice położona w Mysłowicach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "NETTO INDYGO Sp. z o.o.",
+      "address": "Motaniec 30 73-108 Motaniec",
+      "entity_type": null,
+      "parcels": [
+        "247001_1.0007.AR_3.8681/453"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-03-11",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (tekst jedn. Dz. U. z 2023 r., poz. 775 ze zm.) [dalej Kpa], w związku z art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2024 r., poz. 54)",
+    "case_reference": "WSI.513.325.2024",
+    "decisions": [
+      {
+        "issue_date": "2024-08-26",
+        "reference": "WSI.513.325.2024.MO.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "NETTO INDYGO Sp. z o.o.",
+        "address": "Motaniec 30 73-108 Motaniec",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

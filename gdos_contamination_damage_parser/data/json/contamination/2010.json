@@ -1,0 +1,193 @@
+{
+  "registry_id": 2010,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5239,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "al. Spółdzielczości Pracy 47",
+    "precinct": "0042 Wiktoryn",
+    "parcel_numbers": [
+      "066301_1.0042.AR_10.3/19",
+      "066301_1.0042.AR_10.3/20"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((749290.662747042 383727.309959543,749291.5798388462 383732.4698229687,749257.5703633379 383738.8470572352,749252.0811513597 383743.8007363374,749229.8230662049 383747.24822922616,749225.0929434005 383751.8273422911,749213.2777493208 383754.203769429,749199.1052462925 383755.17702696304,749199.0265063667 383743.6108854592,749209.145839262 383741.806985617,749210.465743972 383752.14093955,749218.653051496 383750.845021566,749217.303445732 383740.358689955,749290.662747042 383727.309959543)),((749268.2475500513 383763.44809872255,749266.6409514236 383762.91256584664,749265.2351776244 383761.4398504379,749265.1012944054 383759.29771893425,749266.3062433761 383757.82500352553,749267.7789587849 383757.2225290401,749270.1888567265 383757.891945135,749271.1260392594 383759.4985437627,749270.9252144309 383761.23902560945,749269.988031898 383762.57785779925,749269.1177909747 383763.1803322846,749268.2475500513 383763.44809872255)),((749237.5213512959 383755.01345592696,749236.2494607156 383754.24362741783,749236.9188768105 383752.83785361855,749247.5291219144 383750.79613452917,749248.8010124947 383751.1308425766,749249.1357205422 383752.1349667189,749248.5667168616 383753.13909086125,749237.5213512959 383755.01345592696)),((749219.674786309 383760.84791396,749247.3617678909 383756.3522881167,749252.315446993 383756.3522881167,749254.7253449346 383757.42335386854,749257.1700503743 383760.72220644256,749261.9442994397 383780.4616157622,749263.7851937014 383780.69591139554,749267.6519271345 383803.70350732835,749269.0094195658 383818.86080938426,749268.9062268293 383825.11166931037,749267.5856715115 383831.35492697457,749232.325241536 383836.665851703,749219.674786309 383760.84791396)),((749267.5508640133 383830.86762199923,749288.5977993358 383834.00455512386,749309.2513777883 383831.9879391379,749313.569724805 383856.29008968,749274.646875248 383864.841514559,749271.873623831 383849.657324746,749267.5508640133 383830.86762199923)),((749290.857078656 383788.59513271216,749283.6943264407 383789.93396490195,749280.1815536842 383770.47359050595,749290.628779118 383768.9141881205,749289.9198961231 383765.36639421957,749288.7149471523 383764.6300365152,749277.3348735393 383766.9060512378,749276.4646326159 383768.1110002086,749276.3307493969 383770.1861901028,749279.8786546998 383791.27279709175,749280.9497204516 383792.47774606256,749283.0249103458 383792.94633732893,749291.5264947509 383791.6744467487,749290.857078656 383788.59513271216)),((749287.4447183171 383816.094297392,749287.8841731285 383812.3174541915,749282.394961148 383808.9703737156,749283.7756479844 383814.35836173553,749287.4447183171 383816.094297392)),((749306.1923275038 383815.14508699503,749301.7702227539 383813.95216588746,749299.9336628417 383810.84473878215,749286.8131073762 383803.61504495423,749286.9469905952 383802.2762127639,749303.491162455 383800.57117405365,749306.1923275038 383815.14508699503)), ((749245.9101519822 383743.691083517,749245.9056052899 383743.6894260377,749244.1608367361 383736.4150358791,749243.9545867657 383736.3793166105,749241.0286658959 383736.33974462334,749238.7806226154 383736.64201668923,749237.1617630436 383736.9179830827,749238.3647354959 383743.05632692325,749238.3634813705 383743.05915884743,749238.3649747982 383743.05919728277,749238.7792695384 383743.401810517,749239.5486146319 383744.6775757757,749241.1656601463 383746.8471864924,749243.2657719816 383748.7262339239,749244.5258390827 383749.4115335754,749245.9702989002 383749.4707450929,749246.9426692312 383749.0080867204,749247.6869692459 383748.2880573584,749248.188562734 383747.30105081724,749248.1642920814 383746.41112688667,749248.0334423166 383746.1279692723,749247.6584224598 383745.66186399694,749247.2494258977 383745.49684926885,749246.5209852613 383745.3419400374,749246.0843798604 383744.99331242224,749245.8289567704 383744.4513294578,749245.7810604714 383744.0912672007,749245.9101519822 383743.691083517)), ((749238.3634813705 383743.05915884743,749238.3647354959 383743.05632692325,749237.1617630436 383736.9179830827,749227.438404281 383738.57552046067,749225.1297708418 383739.5320822951,749225.0246542139 383740.44309306977,749225.3400040974 383741.2139483406,749226.9167535151 383742.72062000644,749229.3694748316 383743.4914752773,749233.5836217136 383743.8630150023,749237.8502431643 383743.0459499918,749238.3634813705 383743.05915884743)), ((749244.1608367361 383736.4150358791,749245.9056052899 383743.6894260377,749245.9101519822 383743.691083517,749245.9101672119 383743.69103630504,749246.0693988586 383743.36826945376,749246.3117435205 383743.14981615875,749246.7607195084 383742.9039483559,749247.3593541587 383742.72756493214,749247.9098571771 383742.34626276075,749248.4551731776 383741.55313264014,749248.7029335609 383740.4412732847,749248.6098665948 383738.7366920764,749248.1659245673 383737.93653221626,749247.3726260512 383737.36849130347,749245.7076785482 383736.6829246846,749244.1608367361 383736.4150358791)))",
+    "site_description": "teren dawnej hali warsztatowej, myjni pojazdów oraz stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MURAPOL REAL ESTATE S.A.",
+      "address": "ul. Dworkowa 4, 34-300 Bielsko-Biała",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "066301_1.0042.AR_10.3/19",
+        "066301_1.0042.AR_10.3/20"
+      ],
+      "economic_activity_code": "64.19.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "267 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "32,4-61,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,227 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,251-1,02 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,103-1,04 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,139 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,103-0,951 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,159-1,53 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,103-0,587 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,202-0,720 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,211-0,692 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "615-5880 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "152 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4420-21700 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1770 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "37,4-57 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-02-09",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.515.2.2024.SG",
+    "decisions": [
+      {
+        "issue_date": "2024-06-18",
+        "reference": "WSI.515.2.2024.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MURAPOL REAL ESTATE S.A.",
+        "address": "ul. Dworkowa 4, 34-300 Bielsko-Biała",
+        "economic_activity_code": "64.19.Z"
+      }
+    ],
+    "planned_start": "2024-06-19",
+    "planned_end": "2026-12-31",
+    "actual_end": "2024-09-04",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko, z zastosowaniem metody ex-situ. Po uzyskaniu wyników badań laboratoryjnych próbek gruntu z dna i ścian wykopów, potwierdzających usunięcie w całości zanieczyszczenia metodą ex-situ, w przypadku, gdy w projekcie budowlanym na obszarach planowanej remediacji będą wykonywane wykopy budowlane, a głębokość wykopu będzie obejmować głębokość planowanej remediacji, obszary po wykonaniu prac remediacyjnych należy zagospodarować zgodnie z projektem budowlanym. Jeżeli w powstałych wykopach nie będą wykonywane prace fundamentowe bądź inne prace związane z budową nowych obiektów, należy wypełnić wykopy gruntem, spełniającym dopuszczalne zawartości substancji powodujących ryzyko dla grupy gruntów I na głębokości ich użycia, a w razie potrzeby zagęścić je mechanicznie",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

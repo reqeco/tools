@@ -1,0 +1,134 @@
+{
+  "registry_id": 936,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0241,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "Łomża",
+    "municipality": "Łomża",
+    "address": "Al. Legionów 133b 18-400 Łomża",
+    "precinct": "Łomża 1",
+    "parcel_numbers": [
+      "206201_1.0001.12220/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((704589.1491056331 592745.338626232,704578.8303348424 592747.4552971302,704485.1676461769 592797.9908148423,704507.1281071038 592837.1492264979,704398.6487219279 592894.0347569184,704428.017531133 592950.9202873642,704398.1195542347 592966.5307352487,704489.9301559777 593139.3039974784,704518.7697974023 593124.2227173224,704523.5323070029 593125.5456366325,704553.694867803 593184.2832541093,704553.9594516824 593192.7499377104,704547.3448550316 593219.7374916878,704553.1657000973 593219.7374916887,704658.2054950218 593165.4977998976,704660.5867498252 593162.322793548,704774.6223962044 593103.3205922283,704686.7805524503 592935.0452556601,704686.5159685864 592935.045255661,704662.1742528472 592886.890992675,704589.1491056331 592745.338626232))",
+    "site_description": "Zanieczyszczenie zidentyfikowano w cześć działki, na której funkcjonowała stacja paliw."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Stacja paliw eksploatowana była do 2011 r. Poszczególne zbiorniki wyłączane były z eksploatacji w latach 2002-2007. Ostatni zbiornik funkcjonował do 2011 r. Brak jest informacji, aby po roku 2007 nastąpiła awaria, która mogłaby spowodować zanieczyszczenie gruntu. Istniejące zanieczyszczenie należy traktować jako historyczne."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury",
+      "address": "ul. Saperska 1, 10-073 Olsztyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "2,4 mg/kg s.m.",
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "2,16 mg/kg s.m.",
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,65 mg/kg s.m.",
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "2,56 mg/kg s.m.",
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3340,0 mg/kg s.m.",
+      "area_ha": 0.0241
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,4 mg/kg s.m.",
+      "area_ha": 0.0241
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "7,4 mg/kg s.m.",
+      "area_ha": 0.0241
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-10-21",
+    "legal_basis": "101l POŚ",
+    "case_reference": "WPN.515.3.2019.TG",
+    "decisions": [
+      {
+        "issue_date": "2020-06-08",
+        "reference": "WPN.515.3.2019.TG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-10-17",
+        "reference": "WPN.514.1.2022.AP",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art.155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury",
+        "address": "ul. Saperska 1, 10-073 Olsztyn",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-09-01",
+    "planned_end": "2024-12-31",
+    "actual_end": "2022-11-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona była metodą ex-situ polegającą na wybraniu zanieczyszczonego gruntu i przekazaniu go do przetworzenia podmiotowi posiadającemu zezwolenie na prowadzenie gospodarowania odpadami.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

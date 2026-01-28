@@ -1,0 +1,56 @@
+{
+  "registry_id": 2125,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "trzebnicki",
+    "municipality": "Prusice",
+    "address": "działka o nr ewid. 123/3 AM 1 obręb Skokowa, gm. Prusice, położona przy ul. Żmigrodzkiej 2C Skokowa",
+    "precinct": "Skokowa",
+    "parcel_numbers": [
+      "022002_5.0021.123/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((350172.8203999437 393563.0776591357,350265.5130566239 393553.277896286,350263.2650341189 393540.3085564701,350257.32976229535 393528.9372522272,350243.30658025923 393521.9003663892,350216.0267986499 393521.2120514298,350184.88352531346 393528.83112482633,350177.25629675714 393536.1316498853,350170.5599644375 393562.39921778813,350172.8203999437 393563.0776591357))",
+    "site_description": "samochodowa myjnia bezdotykowa"
+  },
+  "occurrence_time": {
+    "date": "2025-03-13",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "ścieki przedostały się poza zbiorniki bezodpływowe",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Burmistrz Prusic",
+      "address": "Rynek 1, 55-110 Prusice",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "LEVARD INVESTMENTS Sp. z o.o.",
+      "address": "ul. Konwaliowa 7 55-100 Skokowa",
+      "economic_activity_code": "45.20.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-05-21",
+    "detection_date": "2025-03-13",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "sprawa WSI.512.9.2025.MR"
+}

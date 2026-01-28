@@ -1,0 +1,94 @@
+{
+  "registry_id": 995,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.5184,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Mełgiewska",
+    "precinct": "0046",
+    "parcel_numbers": [
+      "066301_1.0046.AR_11.19",
+      "066301_1.0046.AR_11.8/4",
+      "066301_1.0046.AR_11.15/4",
+      "066301_1.0046.AR_11.11/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((752969.2306233388 381128.76591176353,752945.4460110973 381147.04496865347,752948.3950956366 381163.2777064517,753014.1675769889 381149.85121816304,753092.322943967 381511.35919742845,753102.9103039722 381509.63807325996,753024.7556328267 381148.129754141,753079.3035046856 381137.35748259816,753128.6774661011 381382.97060344927,753137.6576865156 381383.41462526284,753155.8395721692 381379.8244325919,753101.3388250744 381131.71257401817,753168.0458782791 381117.8010373125,753153.5270117044 381062.4610556876,752969.2306233388 381128.76591176353)),((753164.4508752977 381418.01076902915,753181.3842433073 381492.623418265,753248.5885469645 381464.0483611645,753244.8843727065 381442.35248444043,753258.6427340897 381438.1191426506,753251.7635533119 381398.4315632647,753232.7135144718 381403.1940727802,753164.4508752977 381418.01076902915)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PDC Industrial Center 127 Sp. z o. o.",
+      "address": "ul. Grzybowska 2/29, 00-131 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,56 - 16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "31 - 54 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-04",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.515.3.2019.AST",
+    "decisions": [
+      {
+        "issue_date": "2020-01-28",
+        "reference": "WSI.515.3.2019.AST",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PDC Industrial Center 127 Sp. z o. o.",
+        "address": "ul. Grzybowska 2/29, 00-131 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-02-01",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-02-06",
+    "method": null,
+    "description": "Usunięcie zanieczyszczonych gruntów do głębokości występowania zanieczyszczenia : Obszar 1 o powierzchni 170 m2 na dz. nr 11/6 - 0,7 m p. p. t. Obszar 2 o powierzchni 12m2 na dz. nr 8/4 - 1,5 m p. p. t. Obszar 3 o powierzchni 20m2 na dz. nr 19 - 0,5 m p. p. t. Obszar 4 o powierzchni 20m2 na dz. nr 15/4 - 1,2 m p. p. t.  Usunięcie zanieczyszczonego gruntu metodą ex-situ przy użyciu ciężkiego sprzętu. W przypadku, gdy w projekcie budowlanym na obszarach planowanej remediacji będą wykonywane wykopy budowlane, a głębokość wykopu będzie obejmować głębokość planowanej remediacji, obszary po wykonaniu prac remediacyjnych należy zagospodarować zgodnie z projektem budowlanym.",
+    "ecological_effect": "Wyniki analiz chemicznych prób gruntu z dna i ścian wykopów nie wykazały przekroczeń wartości dopuszczalnych dla substancji powodujących ryzyko w zakresie zawartości kadmu i cyny dla I grupy gruntów.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

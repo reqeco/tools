@@ -1,0 +1,106 @@
+{
+  "registry_id": 1413,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "inowrocławski",
+    "municipality": "Janikowo",
+    "address": "Ludzisko 80 88-160 Janikowo",
+    "precinct": "0011 Ludzisko",
+    "parcel_numbers": [
+      "172"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((444002.0899999526 540496.3999998132,444017.9099999526 540560.4199998146,444112.8799999533 540523.9999998156,444121.2599999533 540407.5599998143,444111.2899999533 540401.9999998147,444088.16999995295 540401.2099998146,444074.0299999531 540407.1799998125,444060.729999953 540410.4699998135,444057.72999995283 540418.2999998135,444013.5899999526 540424.6899998132,443987.0799999525 540435.7199998125,444002.0899999526 540496.3999998132)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2020-06-08",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Pożar miejsca magazynowania odpadów. Wyniki badań gruntu wskazują na przekroczenia dopuszczalnych wartości w zakresie metali (cynk Zn, miedź Cu i ołów Pb), sumy węglowodorów C12-C35 (składniki frakcji olejów) oraz wielopierścieniowych węglowodorów aromatycznych WWA",
+  "total_area_ha": 1.5,
+  "reporters": [
+    {
+      "name": "WIOŚ w Bydgoszczy",
+      "address": "ul. ks. Piotra Skargi 2 85-018 Bydgoszcz",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PPHU (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1350 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "326 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "180 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "362, 1791 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,15 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,43 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,11 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2020-11-23",
+    "detection_date": "2020-06-08",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Postępowanie znak: WSS.512.28.2020"
+}

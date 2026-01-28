@@ -1,0 +1,112 @@
+{
+  "registry_id": 1973,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2308,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Włocławek",
+    "municipality": "Włocławek",
+    "address": "ul. Żytnia 6 87-800 Włocławek",
+    "precinct": "KM 112/1",
+    "parcel_numbers": [
+      "43/3",
+      "46/5",
+      "49/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((506831.39469257998280227 530775.90169886220246553, 506847.53430818999186158 530765.71522015146911144, 506814.99049310007831082 530721.26513125281780958, 506801.7612999799894169 530730.65785837359726429, 506831.39469257998280227 530775.90169886220246553)),((506790.38419388997135684 530775.76940693333745003, 506791.04565354011720046 530774.18190375249832869, 506789.7227342298720032 530769.02251843363046646, 506788.66439877991797403 530766.50897174328565598, 506786.81231174001004547 530763.06938153132796288, 506784.69564083992736414 530759.89437518268823624, 506782.31438608001917601 530758.17458007484674454, 506781.25605063000693917 530757.11624462343752384, 506778.34562814008677378 530756.71936883311718702, 506777.02270883007440716 530756.71936883311718702, 506774.50916214002063498 530757.51312042213976383, 506771.59873964992584661 530761.21729449275881052, 506769.99498663790291175 530765.0664102224400267, 506766.83623013005126268 530759.76208325196057558, 506770.27582033997168764 530757.38082848489284515, 506768.55602522997651249 530754.86728179361671209, 506774.37687020993325859 530751.03081578388810158, 506773.05395089002558962 530749.84018840361386538, 506756.64975142007460818 530761.21729449275881052, 506754.92995631002122536 530764.39230084326118231, 506775.83208144985837862 530795.34861275460571051, 506781.78521836001891643 530792.3058983338996768, 506784.82793278008466586 530790.71839516144245863, 506786.28314402000978589 530789.39547585137188435, 506786.94460367999272421 530787.01422108337283134, 506787.209187539992854 530784.76525825262069702, 506786.1508520899224095 530782.38400349300354719, 506785.75397629011422396 530781.32566804345697165, 506788.92898263997631148 530778.15066169388592243, 506790.38419388997135684 530775.76940693333745003)))",
+    "site_description": "Teren, na którym funkcjonowała stacja paliw Poczty Polskiej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Zbieranie odpadów innych niż niebezpieczne"
+  },
+  "land_holders": [
+    {
+      "name": "Przedsiębiorstwo Gospodarki Komunalnej SANIKO Sp. z o.o.",
+      "address": "Ul. Żytnia 6 87-800 Włocławek",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "43/3",
+        "46/5",
+        "49/8"
+      ],
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "51,2-263,8 mg/kg s.m.",
+      "area_ha": 0.1958
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "106,8 mg/kg s.m.",
+      "area_ha": 0.035
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1529-6403 mg/kg s.m.",
+      "area_ha": 0.035
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-02-12",
+    "legal_basis": "101c ust. 3 pkt 3 i ust 4 POŚ",
+    "case_reference": "WSS.513.7.2023.BW oraz WSS.515.11.2024.MG/SS",
+    "decisions": [
+      {
+        "issue_date": "2024-03-05",
+        "reference": "WSS.513.7.2023.BW.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-12-31",
+        "reference": "WSS.515.11.2024.MG/SS.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Przedsiębiorstwo Gospodarki Komunalnej SANIKO Sp. z o.o.",
+        "address": "Ul. Żytnia 6 87-800 Włocławek",
+        "economic_activity_code": "38.11.Z"
+      }
+    ],
+    "planned_start": "2025-03-01",
+    "planned_end": "2031-12-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "In situ - bioremediacja, ex-situ",
+    "ecological_effect": "uzyskanie standardów jakości gleby i ziemi dla gruntów grupy I zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi w zakresie sumy węglowodorów C6-C12 oraz sumy węglowodorów C12-C35.",
+    "effect_assessment": null
+  },
+  "notes": "WSS.513.7.2023.BW, ustalenie projektu planu remediacji WSS.515.11.2024.MG/SS"
+}

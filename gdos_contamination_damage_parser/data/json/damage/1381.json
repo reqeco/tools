@@ -1,0 +1,67 @@
+{
+  "registry_id": 1381,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": null,
+    "precinct": "Biedrzychowa",
+    "parcel_numbers": [
+      "499",
+      "349/315",
+      "obręb Biedrzychowa"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((299799.81072959106 407245.20531365275,299979.72634793154 407311.81878274307,299973.4383538298 407323.0469921967,299983.6826835787 407325.1994120339,299992.0567012185 407318.8428946659,300017.7946580764 407328.31920952164,300020.2532105497 407324.73362086155,300021.0416226607 407325.01182026323,300017.51821926615 407328.6945200674,300029.3475175852 407341.7650878001,300041.09666715347 407332.0884504486,300042.6743168025 407326.95823449455,299802.4760521759 407240.54653228447,299799.81072959106 407245.20531365275)),((299983.3884432545 407325.41975628305,299990.21259267424 407343.36694677453,299996.42006268085 407340.37269027624,299992.05980093393 407319.0729742581,299983.3884432545 407325.41975628305)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Lubin ), podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": 0.03,
+  "reporters": [
+    {
+      "name": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Lubin",
+      "address": "Spółdzielcza 18,  59-300 Lubin",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "3960 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1120 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2021-10-21",
+    "detection_date": "2020-11-05",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

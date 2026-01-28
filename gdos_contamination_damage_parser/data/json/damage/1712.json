@@ -1,0 +1,50 @@
+{
+  "registry_id": 1712,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Starogard Gdański (gmina miejska)",
+    "address": null,
+    "precinct": "8 Żabno",
+    "parcel_numbers": [
+      "51/16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((466121.0153670882 679309.5419522477,466139.0070697382 679347.112860715,466204.3592837782 679327.2690710267,466194.30509699817 679286.2585723475,466194.30509699817 679286.2585723475,466181.3404877383 679289.9627464162,466121.0153670882 679309.5419522477))",
+    "site_description": "Teren znajduje się w obszarze Natura 2000 - obszary siedliskowe Doliny Wierzycy."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "luty 2022"
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "nawiezienie i grodzenie mas ziemnych.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Starogard Gdański",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2022-03-31",
+    "detection_date": "2022-02-03",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

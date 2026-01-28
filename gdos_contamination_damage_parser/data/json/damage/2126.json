@@ -1,0 +1,50 @@
+{
+  "registry_id": 2126,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "jeleniogórski",
+    "municipality": "Stara Kamienica",
+    "address": "działka 439/3, obręb Rybnica, gm. Stara Kamienica",
+    "precinct": "Rybnica",
+    "parcel_numbers": [
+      "020609_2.0008.439/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((264281.2378719313 343854.10123631824,264421.99649020634 343847.4866396971,264423.05482577963 343758.8510457659,264275.94619465474 343761.76146829873,264281.2378719313 343854.10123631824))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "maj 2021 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zakopanie 88 beczek z odpadami pochodzącymi z przemysłu farbiarskiego,",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektor Ochrony Środowiska we Wrocławiu Delegatura w Jeleniej Górze",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": null,
+    "initiation_date": "2002-09-20",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSI.512.39.2022.MR postępowanie zawieszone na podstawie art. 24a ust. 1 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie"
+}

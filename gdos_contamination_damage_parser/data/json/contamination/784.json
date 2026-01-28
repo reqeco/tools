@@ -1,0 +1,144 @@
+{
+  "registry_id": 784,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.41,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Kotsisa",
+    "precinct": "4-18-06",
+    "parcel_numbers": [
+      "101/1",
+      "102"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637491.1364870814 492070.289346925,637587.974180868 491831.1055352241,637602.2617094552 491835.86804475356,637550.9324400785 491961.8099633036,637553.5782787015 491962.8682987541,637523.9448860688 492034.835109354,637520.2407119946 492034.3059416255,637503.8365124966 492076.6393596241,637491.1364870814 492070.289346925))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Hotel Warszawianka Centrum kongresowe Sp. z o.o.",
+      "address": "ul. Jachranka 77, 05-140 Serock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "101/1",
+        "102"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "240-390",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "33-190",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,97",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,3",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,47",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,48",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,50",
+      "area_ha": 0.41
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,41",
+      "area_ha": 0.41
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-04-12",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.56.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-07-01",
+        "reference": "WOOŚ-IV.515.56.2019.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Hotel Warszawianka Centrum kongresowe Sp. z o.o.",
+        "address": "ul. Jachranka 77, 05-140 Serock",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-11-01",
+    "planned_end": "2020-12-31",
+    "actual_end": "2020-10-22",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

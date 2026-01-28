@@ -1,0 +1,134 @@
+{
+  "registry_id": 1884,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5534,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "policki",
+    "municipality": "Police",
+    "address": "ul. Kamienna Police",
+    "precinct": "Police 6",
+    "parcel_numbers": [
+      "2532",
+      "2533/2",
+      "1973/41"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((205967.86126599999261089 641865.92128200002480298, 205937.3991950000054203 641844.46248099999502301, 205925.90131799998925999 641834.96588799997698516, 205910.43924400000832975 641839.26963999995496124, 205854.2373129999905359 641962.93790599994827062, 205794.97339800000190735 642080.47537999995984137, 205846.76165100000798702 642138.76836300001014024, 205897.49466900000697933 642131.098712999955751, 205903.9209780000091996 642132.97480199998244643, 205928.78459600001224317 642140.48966800002381206, 205978.11459700000705197 642049.10152799997013062, 206006.20148300001164898 641998.82408399996347725, 206043.08635999998659827 641952.84020099998451769, 206021.18609299999661744 641930.63712099997792393, 206016.86532099999021739 641926.30828999995719641, 205967.86126599999261089 641865.92128200002480298))",
+    "site_description": "na przedmiotowym terenie znajdowała się założona w 1938 r., niemiecka fabryka benzyny syntetycznej Hydrierwerke Pölitz AG"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa, jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Powiat Policki",
+      "address": "ul. Tanowska 8 72-010 Police",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "2532",
+        "1973/41",
+        "2533/2"
+      ],
+      "economic_activity_code": "-"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "53,6 -1120 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3600-7144 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "2,09 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "527 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1855-3700 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-05-31",
+    "legal_basis": "art. 101 c ust. 3 pkt 3",
+    "case_reference": "WONS.513.4.2023.MR",
+    "decisions": [
+      {
+        "issue_date": "2023-09-25",
+        "reference": "WONS.513.4.2023.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-07-20",
+        "reference": "WONS.515.7.2023.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-03-05",
+        "reference": "WONS.515.7.2023.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Powiat Policki",
+        "address": "ul. Tanowska 8 72-010 Police",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-10-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2024-06-30",
+    "method": null,
+    "description": "Usunięcie zanieczyszczenia będzie odbywało się przy zastosowaniu metody ex situ (kontrolowane wydobycie zanieczyszczonej gleby i ziemi oraz jej przekazanie do unieszkodliwienia uprawnionym odbiorcom) w granicach obszarów wyznaczonych w projekcie planu remediacji, obejmujących okolice otworów 4, 5, 11, 16, 17 tj. odpowiednio obszary o nr: V, II, III, I, IV.",
+    "ecological_effect": "Potwierdzeniem osiągnięcia efektu ekologicznego będą wyniki badań próbek gleby wskazujące osiągnięcie dopuszczalnych zawartości dla stwierdzonych w badanych obszarach substancji powodujących ryzyko, przy czym należy pobrać po 2 próbki gruntu z dna każdego remediowanego obszaru oraz po 1 próbce gruntu z każdej ściany wykopu poniżej 0,25 m p.p.t. Przez ścianę wykopu należy rozumieć każdy bok wieloboku wyznaczającego poszczególne obszary zanieczyszczenia. Łącznie 26 próbek ze ścian wykopu oraz 10 próbek z dna wykopu tj. w sumie 36 próbek.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "dz. nr 2532 i 2533/2 właścicielem jest Skarb Państwa, natomiast właścicielem działki nr 1973/41 jest gmina Police"
+}

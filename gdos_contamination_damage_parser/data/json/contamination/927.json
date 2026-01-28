@@ -1,0 +1,76 @@
+{
+  "registry_id": 927,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "32-540 Trzebinia",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.795/43"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532734.1500931408 254327.16802130546,532753.3324231708 254289.2002370339,532786.0085301908 254302.95859788172,532763.651193811 254343.43992884364,532734.1500931408 254327.16802130546))",
+    "site_description": "Teren w przeszłości należący do Zakładów Metalurgicznych Trzebinia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": "Dystrybucja energii elektrycznej"
+  },
+  "land_holders": [
+    {
+      "name": "ENERGOMEDIA Sp. z o.o.",
+      "address": "32-540 Trzebinia, ul. Fabryczna 22",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.13.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-29",
+    "legal_basis": "art. 61 kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.47.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-07-15",
+        "reference": "ZS.513.47.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ENERGOMEDIA Sp. z o.o.",
+        "address": "32-540 Trzebinia, ul. Fabryczna 22",
+        "economic_activity_code": "35.13.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

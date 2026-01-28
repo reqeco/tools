@@ -1,0 +1,135 @@
+{
+  "registry_id": 425,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.566,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "słupski",
+    "municipality": "Słupsk",
+    "address": "JW Redzikowo",
+    "precinct": "0021 Redzikowo",
+    "parcel_numbers": [
+      "43/65 KM 3",
+      "obręb 0021 Redzikowo"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((379642.9827572849 736842.0362787759,379574.19095298694 736625.0775115248,379111.169193262 736606.5566411391,379108.5233546304 736588.0357707683,378936.5438438659 736601.2649638848,378822.7727829071 736572.1607390139,378804.2519125135 736529.8273210125,378671.95998116356 736304.9310378805,378613.75153137 736177.9307838827,378341.23015278205 736162.0557521265,377952.2918745847 736207.035008749,377899.3751020415 736191.1599769983,377883.50007028785 735749.3049266199,377616.2703689462 735754.5966038657,377576.58278952993 735889.5343737332,377486.62427620444 735897.4718896132,377457.52005130076 735863.0759874815,377423.1241491519 735863.0759874806,377483.9784375679 736101.2014637431,376859.5605215309 736275.8268129826,376809.2895876098 736164.7015907327,376761.66449232836 736164.7015907327,376737.8519446797 736074.7430774821,376629.3725609643 736101.2014637282,376589.68498155347 735926.5761144701,376512.955661356 735934.5136303483,376425.6429866653 735654.0547360973,376359.4970209767 735661.9922519652,376446.8096956754 736032.409659477,376478.559759202 736085.3264319757,376325.1011188166 736064.1597229643,376298.6427325422 736101.2014637245,376301.28857116227 736204.3891700953,376176.93415568117 736201.7433314631,376179.5799943038 736188.5141383428,376118.72570588044 736138.2432044707,376094.9131582308 736069.4514002213,376049.93390157016 736069.4514002204,376026.12135391566 736196.45165422,375674.2248164758 736177.9307838343,375679.5164937375 735897.4718895843,375660.9956233405 735897.4718895853,375568.39127135853 736990.2032417106,375629.2455597825 737082.8075935813,375769.4750070397 737143.6618819637,375901.7669384098 737167.4744295869,376002.3088062501 737204.5161703387,376274.83018486504 737201.8703317214,376632.01839955605 737432.0582921077,376854.2688442484 737503.4959349809,376989.20661424217 737635.7878662348,377047.41506404354 737580.225255115,377711.520559485 737617.2669958742,377737.97894575645 737643.7253821269,377867.62503848306 737683.4129614979,378005.2086470962 737696.6421546284,378346.52183000423 737696.6421546349,378407.3761184234 737693.9963160064,378452.35537508863 737733.6838953849,378582.00146781426 737649.0170593895,378595.230660956 737590.8086096384,378666.66830388433 737524.6626440082,378724.87675368076 737508.7876122603,378791.02271936426 737453.2250011424,378859.8145236674 737500.8500963934,378910.08545757725 737482.3292260151,378994.7522936417 737588.1627710173,379066.18993657635 737638.4337048978,379145.5650953878 737656.9545752686,379161.44012715056 737627.8503503902,379203.7735451842 737585.5169323981,379232.87777008786 737529.9543212699,379283.1487039973 737498.2042577695,379359.87802418065 737278.599651901,379412.79479673086 737299.766360892,379399.56560359243 737209.8078476526,379486.87827829056 737138.3702047756,379505.39914867387 737178.0577841466,379600.6493392465 737167.4744296456,379568.8992757244 737058.9950460251,379579.4826302364 736860.5571491467,379640.33691866277 736842.0362787768,379642.9827572849 736842.0362787759))",
+    "site_description": "MPS 4 JW Redzikowo"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+      "address": "ul. Jana z Kolna 8B, 81-301 Gdynia",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "79,8-4066 mg/kg s.m.",
+      "area_ha": 0.566
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1581 mg/kg s.m.",
+      "area_ha": 0.566
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "3,2 mg/kg s.m.",
+      "area_ha": 0.566
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "3,17-81,1 mg/kg s.m.",
+      "area_ha": 0.566
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "1,06-34,6 mg/kg s.m.",
+      "area_ha": 0.566
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,17-83,9 mg/kg s.m.",
+      "area_ha": 0.566
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "1,48-39,3 mg/kg s.m.",
+      "area_ha": 0.566
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-05-10",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WZS.515.13.2018.PG.4",
+    "decisions": [
+      {
+        "issue_date": "2018-11-07",
+        "reference": "RDOŚ-Gd-WZS.515.13.2018.PG.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-12-27",
+        "reference": "RDOŚ-Gd-WZS.515.13.2018.PG.LK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "155 kpa, 101l ust. 4 poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+        "address": "ul. Jana z Kolna 8B, 81-301 Gdynia",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-04-01",
+    "planned_end": "2029-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "a)\tmontaż ciśnieniowego, automatycznego systemu sczerpywania wolnego produktu ropopochodnego z powierzchni zwierciadła wody podziemnej; b)\tmontaż stacji oczyszczania wody podziemnej; c)\tmontaż systemu rozsączania oczyszczonej wody podziemnej; d)\tmontaż systemu napowietrzania; e)\tuzupełnienie istniejącej sieci monitoringu lokalnego  o wykonanie dodatkowych 6 piezometrów (MP10÷MP15) na odpływie wód z przedmiotowego terenu,                   zgodnie z obowiązującymi przepisami prawnymi, tj. ustawą z dnia                                      09 czerwca 2011 r. Prawo geologiczne i górnicze (t.j. Dz. U. z 2016 r. poz. 1131                ze zm.); f)\twykonanie 86 otworów, w tym: 37 otworach technologiczno-czerpalnych (W), 9 otworów wielofunkcyjnych (S), wspomagających 40 otworach infiltracyjnych (dwie linie ciągów rozsączających – barier hydraulicznych);  g)\tistniejące 4 otwory zlokalizowane poza obszarem zanieczyszczenia o oznaczeniu serii 7MW i URS, w których nie stwierdzono występowania produktu ropopochodnego (7MW-6, 7MW-8, 7MW-12, URS-13), należy zaliczyć do punktów monitoringowych. z jednoczesnym poborem próbek gruntu i wody podziemnej w celu oznaczenia zawartości:  - w gruncie – sumy węglowodorów C6 – C12 (składników frakcji benzyn), sumy węglowodory C12 – C35 (składników frakcji oleju), węglowodory aromatyczne: benzen, etylobenzen, ksyleny, toluen, styren.",
+    "ecological_effect": "Przeprowadzone działania remediacyjne doprowadzą do osiągnięcia na przedmiotowym terenie, wartości dopuszczalnych stężeń substancji powodujących ryzyko szczególnie istotne dla ochrony powierzchni ziemi określonych dla gruntów grupy III, zgodnie z Rozporządzeniem Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": null
+  },
+  "notes": null
+}

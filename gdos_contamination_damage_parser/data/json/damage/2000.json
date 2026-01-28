@@ -1,0 +1,48 @@
+{
+  "registry_id": 2000,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "kielecki",
+    "municipality": "Piekoszów, Chęciny",
+    "address": null,
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "woda, gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Zanieczyszczenie koryta rzeki Hutki wskutek odprowadzania w miejscowości Charężów (gm. Chęciny) wód z odwodnienia Zakładu Górniczego Miedzianka (zwanego Zakładem), zanieczyszczenie koryta rzeki Hutki w miejscowości Gałęzice (gm. Piekoszów) wskutek odprowadzania przez NORDKALK Sp. z o.o. z siedzibą w Krakowie nieoczyszczonych ścieków przemysłowych, okresowy zanik przepływu rzeki Hutki w miejscowości Gałęzice gm. Piekoszów (przed wpływem na teren Zakładu), zanik przepływu rzeki Hutka po zachodniej stronie Zakładu na odcinku pomiędzy miejscowościami Gałęzice (gm. Piekoszów) i Charężów (gm. Chęciny).",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat  Ochrony Środowiska w Kielcach",
+      "address": "al. IX Wieków Kielc 3, 25-516 Kielce",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-07-23",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

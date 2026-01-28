@@ -1,0 +1,100 @@
+{
+  "registry_id": 435,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.102,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Mjr H. Sucharskiego 12, 80-601 Gdańsk",
+    "precinct": "275S 0275 Gdańsk",
+    "parcel_numbers": [
+      "2/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((479203.61959200987 725100.1015152568,479243.83633912 725138.9953430463,479293.8426891299 725088.7244091658,479258.65303541993 725054.0639231754,479204.14875974 725100.3660991145,479203.61959200987 725100.1015152568))",
+    "site_description": "Teren objęty działalnością zakładu Siarkopol Gdańsk S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-01",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PERN S.A.",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "2/14"
+      ],
+      "economic_activity_code": "49.50.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2100 mg/kg s.m.",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "15000 mg/kg s.m.",
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "350 mg/kg s.m.",
+      "area_ha": 0.002
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-02-09",
+    "legal_basis": "art. 61 par. 1 kpa, art. 101l poś",
+    "case_reference": "RDOŚ-Gd-WZS.515.18.2017.LK.7",
+    "decisions": [
+      {
+        "issue_date": "2018-06-06",
+        "reference": "RDOŚ-Gd-WZS.515.18.2017.LK.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4, art. 104 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PERN S.A.",
+        "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+        "economic_activity_code": "49.50.B"
+      }
+    ],
+    "planned_start": "2018-07-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-03-01",
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń, usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W zakresie zanieczyszczenia sumą węglowodorów C6-C12, składników frakcji benzyn i sumą węglowodorów C12-C35, składników frakcji oleju:  a)\tze względu na brak możliwości demontażu torowiska i infrastruktury podziemnej, a co za tym idzie, brak możliwości przeprowadzenia remediacji przy pomocy metody ex-situ, obszar zanieczyszczony sumą węglowodorów C6-C12, składników frakcji benzyn i sumą węglowodorów C12-C35, składników frakcji oleju, zostanie poddany remediacji metodą in-situ – bioremediacji; b)\tdo remediacji omawianego terenu zostaną wykorzystane biopreparaty bakteryjne posiadające stosowne atesty higieniczne Państwowego Zakładu Higieny; c)\tproces oczyszczenia będzie przebiegał pod wpływem specjalnie wyselekcjonowanych mikroorganizmów, wykorzystujących węgiel zawarty w węglowodorach jako źródło pokarmowe do zaspokajania potrzeb energetycznych. Namnażanie się biomasy bakteryjnej przełoży się bezpośrednio na biologiczną transformację zanieczyszczenia do naturalnych produktów, tj. dwutlenku węgla, wody i soli mineralnych. Proces przebiega intensywnie od momentu zainicjowania, aż do wyczerpania źródła pokarmowego – związków organicznych. W chwili usunięcia zanieczyszczenia, proces namnażania się bakterii samoczynnie ustaje, a pozbawiona pożywienia populacja bakterii obumiera, wzbogacając oczyszczony grunt biomasą; d)\tna omawianym terenie planowane jest wykonanie minimum 3 aplikacji biopreparatów rocznie; e)\tprace z wykorzystaniem metody in-situ prowadzone będą głównie w okresie wiosna – jesień; f)\tw celu równomiernego wprowadzenia biopreparatu do całego zanieczyszczonego obszaru, planuje się wykonanie do 30 otworów aplikacyjnych; g)\tw celu kontroli procesu bioremediacji, prowadzony będzie monitoring, z częstotliwością raz na kwartał, z wyłączeniem okresu zimowego, polegający na pobraniu próbek gruntu i poddaniu ich analizie laboratoryjnej w celu oznaczenia zawartości sumy węglowodorów C6-C12, składników frakcji benzyn     i sumy węglowodorów C12-C35, składników frakcji oleju; h)\tprzeprowadzenie planowanych prac remediacyjnych ma doprowadzić do obniżenia zawartości badanych substancji powodujących ryzyko, co najmniej do ich dopuszczalnego stężenia, określonego dla IV grupy gruntów.  W zakresie zanieczyszczenia ołowiem:  a)\tze względu na niską mobilność metalu, niedostępność zanieczyszczenia dla ludzi i zwierząt (występowanie na głębokości ok. 1,7 m p.p.t.), oraz brak możliwości demontażu torowiska i infrastruktury podziemnej, a co za tym idzie, brak możliwości przeprowadzenia remediacji przy pomocy metody ex-situ, teren zanieczyszczony ołowiem zostanie objęty pracami związanymi z kontrolowaniem zanieczyszczenia poprzez okresowe prowadzenia badań zanieczyszczonej gleby i ziemi w okresie prowadzenia prac remediacyjnych; b)\tw ramach prac związanych z kontrolowaniem zanieczyszczenia, prowadzony będzie monitoring, z częstotliwością raz na kwartał, z wyłączeniem okresu zimowego, polegający na pobraniu próbek gruntu i poddaniu ich analizie laboratoryjnej w celu oznaczenia zawartości ołowiu.",
+    "ecological_effect": "a)\tusunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i ziemi, określonej dla IV grupy gruntów, zgodnie z Rozporządzeniem Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395). – w zakresie zanieczyszczenia sumą węglowodorów C6-C12, składników frakcji benzyn i sumą węglowodorów C12-C35, składników frakcji oleju; b)\tusunięcie znaczącego zagrożenia dla zdrowia i stanu środowiska, poprzez ograniczenie możliwości rozprzestrzeniania się zanieczyszczenia i jego kontrolowanie z wykorzystaniem okresowych badań gleby i ziemi w określonym czasie – w zakresie zanieczyszczenia ołowiem.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

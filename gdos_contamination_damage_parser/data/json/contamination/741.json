@@ -1,0 +1,187 @@
+{
+  "registry_id": 741,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.25,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Al. KEN i ul. Iwanowa Szajnowicza",
+    "precinct": "1-11-13",
+    "parcel_numbers": [
+      "62/9",
+      "107/10",
+      "64/1",
+      "107/4",
+      "64/7",
+      "72/15",
+      "72/6",
+      "72/9",
+      "74/6",
+      "1/27",
+      "83/12",
+      "83/1",
+      "83/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641735.1939150458 475501.38641839474,641774.8814944812 475512.4989406131,641764.5627238278 475533.93023348413,641719.318883276 475553.2448554449,641707.67719331 475556.684445655,641706.8834417278 475531.5489787143,641729.637653929 475522.55312739406,641735.1939150458 475501.38641839474))",
+    "site_description": "zanieczyszczenie jest na działkach: 72/9, 74/6, 83/9, 83/12"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Longbridge Kabaty 1 Sp. zo.o. Spółka komandytowa",
+      "address": "ul. Cybernetyki 10, 02-677 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "62/9",
+        "107/10",
+        "64/1",
+        "107/4",
+        "64/7",
+        "72/15",
+        "72/6",
+        "72/9",
+        "74/6",
+        "1/27",
+        "83/12",
+        "83/1",
+        "83/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "mg/kg s.m.4,6-15",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "mg/kg s.m.1100",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "mg/kg s.m.0,25",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "mg/kg s.m.1,1",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "mg/kg s.m.8,5",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "mg/kg s.m.7,5",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "mg/kg s.m.2,6",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "mg/kg s.m.8,0",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.9,4",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "mg/kg s.m.3,9",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "mg/kg s.m.8,4",
+      "area_ha": 0.25
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "mg/kg s.m.4,9",
+      "area_ha": 0.25
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-05-20",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.61.2019.MGł",
+    "decisions": [
+      {
+        "issue_date": "2019-08-13",
+        "reference": "WOOŚ-IV.515.61.2019.MGł.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Longbridge Kabaty 1 Sp. zo.o. Spółka komandytowa",
+        "address": "ul. Cybernetyki 10, 02-677 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-12-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - usunięcie zanieczyszczonego gruntu",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

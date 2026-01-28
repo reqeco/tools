@@ -1,0 +1,62 @@
+{
+  "registry_id": 709,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Trąbki Wielkie",
+    "address": "Gołębiewo Średnie 27 Gołębiewo Wlk.\t83-033",
+    "precinct": "220408_2 0006 Trąbki Wielkie",
+    "parcel_numbers": [
+      "312/17",
+      "312/18"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((470041.93 697324.73,470062.84 697308.52,470013.14 697208.16,469988.68 697218.81,469944.02 697244.60,469977.64 697296.82,470010.18 697343.45,470039.84 697325.08,470041.93 697324.73))",
+    "site_description": "Byłe PPH Materiałami Izolacji Budowlanych \"IZOLEX' S.C."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja ceramicznych izolatorów i osłon izolacyjnych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "1)(…);  2)(…)",
+      "address": "1)(…);  2)(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "312/17",
+        "312/18"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-12",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.137.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.137.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,174 @@
+{
+  "registry_id": 939,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.0,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Sosnowiec",
+    "municipality": "Sosnowiec",
+    "address": "ul. Orląt Lwowskich 146  Sosnowiec",
+    "precinct": "0012",
+    "parcel_numbers": [
+      "247501_1.0012.4076/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((513801.135840 263097.756701,513792.078409 263109.589457,513777.524683 263098.793659,513701.604318 263200.738953,513705.009678 263204.771874,513725.274619 263219.174168,513702.975560 263250.551236,513767.684000 263283.664000,513839.964000 263333.902000,513870.028000 263274.545000,513903.218000 263209.000000,513925.250000 263165.501000,513870.776000 263158.966900,513814.092000 263120.292100,513801.135840 263097.756701))",
+    "site_description": "Na przedmiotowym terenie w latach 1964-1967 prowadzono płytką eksploatację górniczą węgla kamiennego systemem odkrywkowym oraz z zawałem stropu w kopalni upadowej Marian V Zachód. Eksploatacją objęta była wschodnia części działki numer 4076/1 oraz zachodnia i centralna część działki nr 4076/2. Natomiast w latach 1999-2015 funkcjonowała tutaj kruszarnia kamienia dołowego oraz skład łupka nieprzepalonego. We wschodniej części działki nr 4076/2 hałda istnieje do dzisiaj, natomiast w jej zachodniej części znajduje się hala magazynowa nr 5 oddana do użytku w pierwszym półroczu 2018 r. Obecność zanieczyszczeń na tym terenie wynika z historycznej działalności górniczej i funkcjonowania osadników wód kopalnianych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1961-01-01",
+    "to": "1979-12-12",
+    "description": "Zanieczyszczenie powierzchni ziemi mogło wystąpić pomiędzy rokiem 1961 a drugą połową lat siedemdziesiątych."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wydobywanie węgla kamiennego",
+    "current": "Magazynowanie i przechowywanie pozostałych towarów"
+  },
+  "land_holders": [
+    {
+      "name": "Biuro Inwestycji Kapitałowych Sosnowiec 2 sp. z o. o.",
+      "address": "ul. Albatrosów 2 30-716 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "4076/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,185 mg/kg s.m.",
+      "area_ha": 0.325
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,576 mg/kg s.m.",
+      "area_ha": 0.815
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,374 mg/kg s.m.",
+      "area_ha": 0.815
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,361 mg/kg s.m.",
+      "area_ha": 0.815
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,376 mg/kg s.m.",
+      "area_ha": 0.815
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,178 mg/kg s.m.",
+      "area_ha": 0.815
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,249 mg/kg s.m.",
+      "area_ha": 0.325
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,247 mg/kg s.m.",
+      "area_ha": 0.325
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2,85 mg/kg s.m.",
+      "area_ha": 0.175
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "140 mg/kg s.m.",
+      "area_ha": 0.325
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "1140 mg/kg s.m.",
+      "area_ha": 1.0
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-12-04",
+    "legal_basis": "art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.16.2018.TK",
+    "decisions": [
+      {
+        "issue_date": "2019-06-11",
+        "reference": "WSI.515.16.2018.TK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-07-02",
+        "reference": "WSI.515.16.2018.TK.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-06-24",
+      "reason": "Skarżący kwestionował zobowiązanie do utylizacji gruntu wydobytego w trakcie remediacji jako odpadu niebezpiecznego oraz wniósł o zmianę określonego w uzasadnieniu ww. decyzji sposobu postępowania z tym gruntem.",
+      "appealed_decision_reference": "WSI.515.16.2018.TK.3",
+      "resolution_reference": "WSI.515.16.2018.TK.4",
+      "appellant_name": "Biuro Inwestycji Kapitałowych Sosnowiec 2 Sp. z o. o.",
+      "appellant_address": "ul. Albatrosów 2, 30-716 Kraków",
+      "resolution_date": "2019-07-02",
+      "reviewing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+      "resolution_content": "Zmieniono uzasadnienie decyzji pierwotnej."
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Biuro Inwestycji Kapitałowych Sosnowiec 2 sp. z o. o.",
+        "address": "ul. Albatrosów 2 30-716 Kraków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-07-01",
+    "planned_end": "2024-11-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Remediacja powierzchni ziemi zanieczyszczonej węglowodorami zostanie przeprowadzona metodą „ex-situ”, polegającą na wydobyciu gleby i ziemi do głębokości 0,25 m p.p.t.  Remediacja powierzchni ziemi zanieczyszczonej barem zostanie przeprowadzona w sposób mający na celu ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń poprzez uszczelnienie terenów nieprzewidzianych do zabudowy obiektami kubaturowymi, drogą dojazdową i parkingami, przy użyciu geomembrany lub maty bentonitowej z zachowaniem spadków 2-3% w kierunku powierzchni utwardzonych wraz z systemem drenażu odprowadzającym wody do kanalizacji deszczowej.",
+    "ecological_effect": "Remediacja historycznego zanieczyszczenia powierzchni ziemi doprowadzi do ograniczenia możliwości rozprzestrzeniania się zanieczyszczenia barem w gruntach oraz do usunięcia zanieczyszczenia węglowodorami, przynajmniej do dopuszczalnych zawartości w glebie i w ziemi substancji powodujących ryzyko.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

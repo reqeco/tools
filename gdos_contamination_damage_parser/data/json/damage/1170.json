@@ -1,0 +1,72 @@
+{
+  "registry_id": 1170,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "al. Bohaterów Warszawy 27b i 28",
+    "precinct": null,
+    "parcel_numbers": [
+      "1/1 obręb 2153"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((203323.98028138501103967 627731.39515179605223238, 203311.57796182399033569 627722.64114471396896988, 203282.49785223900107667 627727.72861471294891089, 203281.93571675001294352 627727.71239258896093816, 203266.70186168799409643 627730.16438429499976337, 203268.45413825500872917 627741.08246454305481166, 203270.92113041199627332 627756.52716467005666345, 203272.75429181000799872 627767.95133186795283109, 203273.86646401300095022 627774.90931566897779703, 203278.90418010999565013 627778.17294000799302012, 203285.57961334701394662 627782.5002169490326196, 203288.91045376998954453 627781.89833266800269485, 203294.48221774300327525 627780.90066204499453306, 203296.18349210900487378 627790.96981603698804975, 203310.47162561799632385 627788.49551859998609871, 203321.95989391198963858 627786.50806458899751306, 203322.67621970400796272 627790.56369484798051417, 203333.89352188300108537 627788.62411507195793092, 203323.98028138501103967 627731.39515179605223238))",
+    "site_description": "zwarta zabudowa"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2018-01-10",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "zagrożenie szkodą w środowisku wskutek uszkodzenia bluszczu na elewacji budynku, skutkującego jego całkowitym zamarciem",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Spółdzielnia Mieszkaniowa",
+      "address": "al. Boh. Warszawy 29c/4, 70-340 Szczecin",
+      "legal_form": "SM Plomba"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "wróbel (Passe domesticus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-01-10",
+    "detection_date": "2018-01-10",
+    "decisions": [
+      {
+        "issue_date": "2019-02-14",
+        "reference": "WONS-NS.511.5.2018.Kd",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2019-03-15",
+    "actual_end": null,
+    "method": null,
+    "description": "montaż budek lęgowych dla wróbla",
+    "ecological_effect": "zasiedlenie części budek",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,139 @@
+{
+  "registry_id": 437,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "municipality": "Garbów",
+    "address": null,
+    "precinct": "0011 Przybysławice",
+    "parcel_numbers": [
+      "060904_2.0011.862/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((728593.457585521 394239.40093173925,728653.7827074562 394215.5883841263,728634.9972527628 394168.22787273116,728576.7888017751 394193.0987557918,728593.9867532526 394239.4009317402,728593.457585521 394239.40093173925))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 935 w Przybysławicach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2008-01-01",
+    "to": "2012-04-25",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw PKN ORLEN S.A. Nr 935 w Przybysławicach.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "74,9-10592 mg/kg s. m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2201-30195 mg/kg s. m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "13,3-123 mg/kg s. m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Toluen",
+      "concentration": "18,3  mg/kg s. m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Etylobenzen",
+      "concentration": "24,5 mg/kg s. m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "5,24-79,1 mg/kg s. m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-08-24",
+    "detection_date": "2012-04-25",
+    "decisions": [
+      {
+        "issue_date": "2013-12-17",
+        "reference": "WSI.511.6.2012.RSZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2012-10-18",
+        "reference": "WSI.511.6.2012.RSZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2014-12-31",
+        "reference": "WSI.511.6.2012.RSZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-11-15",
+    "planned_end": "2017-12-31",
+    "actual_end": "2017-04-25",
+    "method": null,
+    "description": "Działania naprawcze metodą ex-situ, polegające na usunięciu i wywiezieniu gruntów zanieczyszczonych substancjami ropopochodnymi. Prace ziemne wykonywane w trakcie likwidacji Stacji Paliw PKN ORLEN S.A. Nr 935 w Przybysławicach odbywały się pod nadzorem uprawnionego geologa.",
+    "ecological_effect": "Przedstawione wyniki badań wskazują, iż na badanym obszarze, zaliczonym do gruntów grupy IV, nie występuje zanieczyszczenie powierzchni ziemi w odniesieniu do kryteriów określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi, (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

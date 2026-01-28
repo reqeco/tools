@@ -1,0 +1,66 @@
+{
+  "registry_id": 2097,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Czechowice-Dziedzice",
+    "address": "ul. Łukasiewicza 2",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "240204_4.0001.3762/125"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((501478.76486398297129199 226441.61610564601141959, 501512.98714949900750071 226495.71639037999557331, 501495.22544449201086536 226506.01752005101297982, 501461.79083703702781349 226453.27589464301127009, 501472.02113739401102066 226446.27341207698918879, 501478.76486398297129199 226441.61610564601141959)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2006-03-31",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN OIL Sp. z o.o.",
+      "address": "80-718 Gdańsk ul. Elbląska 135",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-09-25",
+    "legal_basis": "art. 101c ust 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.613.2024",
+    "decisions": [
+      {
+        "issue_date": "2024-11-15",
+        "reference": "WSI.513.613.2024.MS2.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

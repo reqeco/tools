@@ -1,0 +1,68 @@
+{
+  "registry_id": 1218,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wałbrzyski",
+    "municipality": "Boguszów-Gorce",
+    "address": "ul. Głowackiego 1, 58-371 Boguszów-Gorce",
+    "precinct": "7 Kuźnice Świdnickie",
+    "parcel_numbers": [
+      "77",
+      "Kuźnice Świdnickie",
+      "AM-5"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((303415.93623100570403039 323182.68124646041542292, 303457.34937387867830694 323225.64515576232224703, 303471.68564831180265173 323242.64097223337739706, 303528.50808954267995432 323387.72673844546079636, 303530.81526754249352962 323384.10759190656244755, 303545.74944135482655838 323354.43400161433964968, 303560.30997807957464829 323321.55669890623539686, 303562.89446790376678109 323321.02633971069008112, 303565.11331831087591127 323315.96020095515996218, 303563.57362162845674902 323313.78076847642660141, 303648.59028796228813007 323126.43607497960329056, 303664.26244014024268836 323084.868114591576159, 303651.95543047331739217 323079.46678062714636326, 303646.35538740688934922 323077.92761465720832348, 303640.83340471866540611 323077.64576523285359144, 303635.29986804310465232 323078.0754097206518054, 303629.81845742801669985 323079.28318735957145691, 303621.95581660920288414 323082.37198293022811413, 303582.65191763493930921 323099.83793388679623604, 303540.65982548415195197 323120.54316698294132948, 303493.08557983208447695 323141.1500407513231039, 303457.22778894344810396 323144.22213130071759224, 303449.32737451896537095 323143.46827493887394667, 303444.15494061936624348 323145.39022770058363676, 303431.45669343252666295 323159.95446312706917524, 303415.93623100570403039 323182.68124646041542292)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PW PROPERTIES Sp. z o.o.",
+      "address": "PW PROPERTIES Sp. z o.o. ul. Głowackiego 1 58-371 Boguszów-Gorce",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3500 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-20",
+    "legal_basis": "art. 61 kpa, w związku z art. 101c Poś",
+    "case_reference": "WSI.513.24.2019.AB.NL",
+    "decisions": [
+      {
+        "issue_date": "2021-01-18",
+        "reference": "WSI.513.24.2019.AS.NL.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

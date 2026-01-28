@@ -1,0 +1,127 @@
+{
+  "registry_id": 2112,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 3.5557,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Mysłowice",
+    "municipality": "b.d.",
+    "address": "działki o nr. ewid.: 2395/3 oraz 2398/3, zlokalizowane przy ul. ks. Norberta Bończyka w Mysłowicach, a. m. 2, obręb 0007 Mysłowice",
+    "precinct": "0007 Mysłowice",
+    "parcel_numbers": [
+      "247001_1.0007.AR_2.2395/3",
+      "247001_1.0007.AR_2.2398/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((507225.36536974098999053 264230.44538938102778047, 507236.72819660202367231 264257.23651046201121062, 507255.19706723501440138 264313.84406745398882776, 507289.07492745702620596 264349.4774764429894276, 507297.03882078401511535 264357.57560989202465862, 507305.45001515897456557 264364.74830009002471343, 507313.11226767598418519 264372.71056618198053911, 507313.91519747697748244 264370.73098944302182645, 507322.33395207300782204 264362.08320727397222072, 507372.87627603998407722 264388.37852492701495066, 507398.70157834101701155 264396.64671168802306056, 507443.43324210500577465 264235.70405551802832633, 507426.86902144399937242 264228.68075002502882853, 507418.10166523599764332 264222.52222436899319291, 507413.96844080800656229 264215.39206484699388966, 507424.72986305097583681 264181.72806166700320318, 507381.73232958698645234 264216.45427159499377012, 507326.91462384897749871 264201.47945653297938406, 507275.5614119729725644 264152.73866897402331233, 507263.46092533698538318 264161.83561172999907285, 507252.01762341498397291 264175.22112065000692382, 507242.03001216700067744 264190.58587930200155824, 507227.79443361202720553 264218.56999924901174381, 507225.36536974098999053 264230.44538938102778047)),((507454.59679390100063756 264232.00640700897201896, 507476.01871614897390828 264241.31309410597896203, 507512.56603708199691027 264264.36830868502147496, 507541.47048987000016496 264179.62180520198307931, 507526.24705721001373604 264183.14407320600003004, 507498.23658287298167124 264192.26463068398879841, 507460.07836873800260946 264213.75391688698437065, 507454.59679390100063756 264232.00640700897201896)))",
+    "site_description": "pomiędzy ulicami ks. N. Bończyka i Hodowców"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 30 kwietnia 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o. o. w Mysłowicach",
+      "address": "Ul. Fabryczna 10 41-400 Mysłowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "25 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "17,3; 20,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "400; 471 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1721' 2195 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "9,213 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "180 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "572,1 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-03-06",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2023 r. poz. 775 ze zm.), w związku z art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2024 r. poz. 54)",
+    "case_reference": "WSI.513.275.2024",
+    "decisions": [
+      {
+        "issue_date": "2024-12-20",
+        "reference": "WSI.513.275.2024.AS.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2024 r. poz. 572)",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o. o. w Mysłowicach",
+        "address": "Ul. Fabryczna 10 41-400 Mysłowice",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

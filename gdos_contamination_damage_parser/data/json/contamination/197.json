@@ -1,0 +1,162 @@
+{
+  "registry_id": 197,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.056,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Cybernetyki  Warszawa",
+    "precinct": "1-08-12",
+    "parcel_numbers": [
+      "9/7",
+      "9/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636071.8027898747 480853.1242053183,636155.9404582358 480825.60748361703,636091.3819957102 480660.507153417,635973.9067606337 480705.4864100376,636071.8027898747 480853.1242053183))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Dom Development S.A",
+      "address": "Pl. Piłsudskiego 3, 00-078 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,8 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,42-0,79 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,79-7,5 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,19-6,2 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,17-1,2 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,35-3,1 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,29-5,6 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,14-2,4 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,4-3,8 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,88-2,8 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "12 [mg/kg]",
+      "area_ha": 0.056
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "190-340 [mg/kg]",
+      "area_ha": 0.056
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-08-30",
+    "legal_basis": "61 § 1 Kpa w związku z art.101 l ust. 2 ustawy POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-11-22",
+        "reference": "WSI.511.20.2016.ES.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Dom Development S.A",
+        "address": "Pl. Piłsudskiego 3, 00-078 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2016-12-15",
+    "planned_end": "2017-01-30",
+    "actual_end": "2016-12-19",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięcie zan. gleby poprzez zastosowanie metody ex -situ",
+    "ecological_effect": "powierzchnia ziemi spełnia standardy dla grupy I określone w rozporządzeniu Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. poz. 1359).",
+    "effect_assessment": null
+  },
+  "notes": null
+}

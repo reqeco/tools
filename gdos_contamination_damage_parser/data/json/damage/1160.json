@@ -1,0 +1,124 @@
+{
+  "registry_id": 1160,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "gorzowski",
+    "municipality": "Kostrzyn nad Odrą",
+    "address": "ul. Graniczna 2 66-470 Kostrzyn n/Odrą",
+    "precinct": "001",
+    "parcel_numbers": [
+      "1314/27",
+      "1314/15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((205260.5933457577 534509.6331112096,205286.5225674308 534506.9872724814,205281.23088975908 534476.824712175,205351.6102057374 534469.9455314837,205336.26434039738 534394.8037145706,205251.59749403206 534413.8537529875,205260.5933457577 534509.6331112096))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-07-03",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby substancjami aromatycznymi",
+  "total_area_ha": 0.75,
+  "reporters": [
+    {
+      "name": "WIOŚ Zielona Góra",
+      "address": "Siemiradzkiego 19 Zielona Góra",
+      "legal_form": "jednostka państwowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "SBM Sp. z o.o.",
+      "address": "Klecińska 123 54-413 Wrocław",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,65",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,78",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,54",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,78",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "2,45",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,68",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,17",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-09-14",
+    "detection_date": "2018-07-03",
+    "decisions": [
+      {
+        "issue_date": "2018-12-17",
+        "reference": "WZŚ.512.15.2018.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-12-15",
+    "planned_end": "2019-03-15",
+    "actual_end": "2019-09-13",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ",
+    "ecological_effect": "Prace naprawcze na przedmiotowym terenie wykonano metodą ex-situ.  Załączone wyniki analiz laboratoryjnych, potwierdzają uzyskanie zakładanego efektu ekologicznego, określonego w decyzji Regionalnego Dyrektora Ochrony Środowiska  w Gorzowie Wlkp. z 17 grudnia 2018 r., znak:WZŚ.512.15.2018.KM.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,121 @@
+{
+  "registry_id": 33,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1004,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "31-154 Kraków, ul. Pawia 7 i 21",
+    "precinct": "8 Śródmieście",
+    "parcel_numbers": [
+      "126105_9.0008.325/3",
+      "126105_9.0008.325/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((567628.2025232087 245470.15557514783,567644.606722689 245468.03890424874,567641.1671324689 245423.32423148956,567621.8525105087 245423.32423148956,567628.2025232087 245470.15557514783), (567720.0131234999 245201.33837084845,567707.5776819597 245200.54461925942,567708.1068496896 245185.1987552382,567718.1610364598 245185.19875523727,567718.4256203199 245193.136271107,567720.0131234999 245201.33837084845), (567720.0131234999 245132.54656659812,567706.2547626497 245133.8694859082,567695.4068242896 245124.34446685947,567712.8693592098 245115.3486155402,567720.0131234998 245124.34446685854,567720.0131234999 245132.54656659812)))",
+    "site_description": "teren po dawnej bocznicy kolejowej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Działalność usługowa wspomagająca transport lądowy",
+    "current": "Kupno i sprzedaż nieruchomości na własny rachunek"
+  },
+  "land_holders": [
+    {
+      "name": "Tenali Investments Sp. z o.o. Inesite Company S.K.",
+      "address": "ul. Aleja Jana Pawła II nr 17   Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "432, 420, 498 i 1021 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "246, 146 i 280 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "22,8 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chlorobenzeny pojedyncze",
+      "concentration": "0,124; 0,157 i 0,149 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "22,9 [mg/kg s.m.]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-02-01",
+    "legal_basis": "art. 61 § 3 Kpa",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-02-19",
+        "reference": "ZS.516.1.1.2016.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-12-23",
+        "reference": "ZS.516.1.13.2016.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa, art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Tenali Investments Sp. z o.o. Inesite Company S.K.",
+        "address": "ul. Aleja Jana Pawła II nr 17   Warszawa",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2016-03-01",
+    "planned_end": "2017-08-31",
+    "actual_end": "2016-09-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usuniecie zanieczyszczonego gruntu z terenu przedmiotowych działek (ex-situ).",
+    "ecological_effect": "Ziemia została doprowadzona do standardów ustalonych dla gruntów grupy B, określonych w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359)",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,65 @@
+{
+  "registry_id": 1860,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Boya Żeleńskiego 95 Katowice",
+    "precinct": "Górne Lasy Pszczyńskie",
+    "parcel_numbers": [
+      "246901_1.0013.AR_22.1183/47"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((500305.25492908101296052 257193.06291773699922487, 500381.30830834101652727 257181.78939537098631263, 500385.34878994402242824 257182.00506393099203706, 500431.92113234900170937 257177.54296345601323992, 500447.172392405977007 257176.07924296500277705, 500472.66339498397428542 257163.12501730900839902, 500516.7223526929738 257147.86308408100740053, 500539.84516898600850254 257136.42972188899875619, 500573.67075715999817476 257119.71593822201248258, 500608.98360312602017075 257101.37317815999267623, 500656.9212348610162735 257076.49496581000857987, 500726.99523219402180985 257041.8956128369900398, 500731.93859830300789326 257040.13035382798989303, 500737.0678528809803538 257038.81233399600023404, 500749.8082414889940992 257037.1724056119855959, 500755.09734758199192584 257037.34135300799971446, 500768.162972837977577 257032.3790469910018146, 500762.85654125601286069 257021.22689472700585611, 500805.74466496199602261 257000.633871920988895, 500826.05984421697212383 256989.99770815399824642, 500831.04869337298441678 256970.75228673798847012, 500855.98204139602603391 256938.5670535929966718, 500748.33570987597340718 256990.69992652899236418, 500579.72191506397211924 257072.36304228598601185, 500480.47605991002637893 257120.43569789899629541, 500354.31409428000915796 257153.43844035299844109, 500198.50463190098525956 257209.16535976799787022, 500171.63007847801782191 257221.04879242400056683, 500175.75627614598488435 257229.14860816099098884, 500178.70438960700994357 257229.13906494498951361, 500194.75095350097399205 257222.88752963999286294, 500204.07150881597772241 257218.12533541501034051, 500213.58360298600746319 257212.7409430319967214, 500233.36962064699037001 257205.86961372301448137, 500260.1697891199728474 257198.8742644639860373, 500281.57932376302778721 257195.31917807899299078, 500305.25492908101296052 257193.06291773699922487)))",
+    "site_description": "Ujawnienie w wykopach ziemnych zakopanych odpadów niebezpiecznych w postaci podkładów kolejowych."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2022-07-29",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Ujawnienie w wykopach ziemnych zakopanych odpadów niebezpiecznych w postaci podkładów kolejowych.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Spółka Restrukturyzacji Kopalń S.A.",
+      "address": null,
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "P.H.U. COMPLEX Lech Wietrzyk",
+      "address": "z siedzibą w Żorach przy ul. Owocowej 1",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2022-12-13",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-04-03",
+        "reference": "WSI.512.28.2022.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

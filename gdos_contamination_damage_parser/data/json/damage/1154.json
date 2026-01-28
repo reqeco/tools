@@ -1,0 +1,73 @@
+{
+  "registry_id": 1154,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Dźwigowa 63",
+    "precinct": "6-12-17",
+    "parcel_numbers": [
+      "19/16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((630664.3915155567 485384.9488603743,630767.0500542963 485423.0489365719,630825.2585040955 485375.4238413228,630804.6209627948 485242.07357462496,630642.6956388042 485209.79434339516,630664.3915155567 485384.9488603743))",
+    "site_description": "Ww. działka nie istnieje, współrzędne oznaczone zgodnie z adresem oraz miejscem działalności zakładu."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wprowadzanie ścieków przemysłowych do ziemi bez zezwolenia wodnoprawnego.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ",
+      "address": "ul. Bartycka 110A, 00-716",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "BATER Sp. z o.o.",
+      "address": "Dźwigowa 63,  01-376 Warszawa",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": ">400 [mg/kg]",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2018-09-07",
+    "detection_date": "2018-05-08",
+    "decisions": [
+      {
+        "issue_date": "2018-11-30",
+        "reference": "WSI.511.8.2018.SSz.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

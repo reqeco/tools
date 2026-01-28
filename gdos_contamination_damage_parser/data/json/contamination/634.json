@@ -1,0 +1,68 @@
+{
+  "registry_id": 634,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Malbork (gmina miejska)",
+    "address": "ul. Piaskowa 1\tMalbork",
+    "precinct": "0008 Malbork",
+    "parcel_numbers": [
+      "119/4",
+      "119/9",
+      "120/1",
+      "118/10",
+      "118/20"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((504726.5230717001 685566.5116415629,504684.98340528994 685600.1137920935,504773.61899923 685735.5807296941,504784.20235373 685751.9849291733,504788.70027939 685763.8912029825,504791.87528574007 685803.0496146344,504870.45669290004 685803.3141985042,504863.5775124799 685683.1931249229,504865.42959952005 685680.0181185752,504883.42130217014 685678.4306153925,504882.0983828501 685656.4701548135,504862.25459317 685657.7930741226,504860.9316738499 685648.0034712125,504852.7295741201 685623.926339726,504846.90872913995 685528.6761492239,504848.7608161799 685509.6261111237,504837.38371009 685509.6261111237,504836.5899585 685516.2407076834,504762.24189314 685519.1511301734,504758.80230293 685519.9448817642,504760.38980610005 685568.3637285931,504736.57725847996 685569.6866479125,504726.5230717001 685566.5116415629))",
+    "site_description": "Teren ciepłowni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie energii elektrycznej",
+    "current": "Wytwarzanie energii elektrycznej"
+  },
+  "land_holders": [
+    {
+      "name": "ECO MALBORK Sp.z o.o.",
+      "address": "ul. Gen. Władysława Sikorskiego 39A,                   82-200 Malbork",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "119/9\t8\tmiasto Malbork",
+        "118/20",
+        "120/1",
+        "118/10",
+        "119/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.59.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-03-28",
+        "reference": "RDOŚ-Gd-WZS.513.59.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

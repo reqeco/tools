@@ -1,0 +1,285 @@
+{
+  "registry_id": 374,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.989,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Kasprzaka 25",
+    "precinct": "6-04-07",
+    "parcel_numbers": [
+      "8/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634242.9991745843 486235.8183020847,634350.1556390037 486249.0474952124,634363.3848321438 486129.98475708347,634346.1868810663 486128.66183777247,634336.9264458679 486165.7035785224,634290.6242698808 486168.3494171435,634278.7179960584 486153.79730470385,634274.7492381136 486131.30767639354,634274.7492381134 486116.7555639539,634261.5200449799 486115.4326446457,634253.5825290927 486144.5368695231,634242.9991745843 486235.8183020847))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Fundacja PGNiG S.A. im. I. Łukasiewicza",
+      "address": "ul. M. Kasprzaka 25, 01-224 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "8/5"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "444-1540  [mg/kg]",
+      "area_ha": 0.28
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "8,91-25 [mg/kg]",
+      "area_ha": 0.28
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "8,07-25 [mg/kg]",
+      "area_ha": 0.28
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "7,23-25 [mg/kg]",
+      "area_ha": 0.28
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "7,06-25 [mg/kg]",
+      "area_ha": 0.28
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,48-22,6 [mg/kg]",
+      "area_ha": 0.28
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "6,66-9,36 [mg/kg]",
+      "area_ha": 0.28
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,2-9,57 [mg/kg]",
+      "area_ha": 0.28
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "5,93-13,4 [mg/kg]",
+      "area_ha": 0.28
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "557-1360 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "55,1-1400 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "1,36-200 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "14,3-159 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,02-200 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,015-600 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "1,61-200 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "23,6-25 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "5,47-25 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,48-25 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,39-25 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,66-25 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "7,06-25 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,13-25 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "6,66-9,39 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "7,2-9,57 [mg/kg]",
+      "area_ha": 4.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": 4.01
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-03-15",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.58.2019",
+    "decisions": [
+      {
+        "issue_date": "2018-05-16",
+        "reference": "WSI.515.21.2018.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-06-05",
+        "reference": "WSI.515.21.2018.MB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.155",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-06-27",
+        "reference": "WOOŚ-IV.515.58.2019.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.154",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-08-12",
+        "reference": "WOOŚ-IV.515.58.2019.DŚc.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Fundacja PGNiG S.A. im. I. Łukasiewicza",
+        "address": "ul. M. Kasprzaka 25, 01-224 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-05-30",
+    "planned_end": "2020-06-30",
+    "actual_end": "2022-07-26",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "podniesienie terenu, wydobycie części zanieczyszczonych gruntów, zabezpieczenie dna wyrobiska geomembraną (folia PEHD), uzupełnienie nakładu czystym gruntem",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

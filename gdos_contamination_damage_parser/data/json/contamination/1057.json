@@ -1,0 +1,149 @@
+{
+  "registry_id": 1057,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5241,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Olsztyn",
+    "municipality": "Olsztyn",
+    "address": "ul. Zamenhofa",
+    "precinct": "0016 miasto Olsztyn",
+    "parcel_numbers": [
+      "22/3",
+      "22/5",
+      "23",
+      "97"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((598840.5999733364 659584.4455586644,598964.1606371518 659532.3225377537,598967.8648112225 659529.4121152647,598961.2502146612 659515.124586694,598953.0481149193 659510.6266610343,598933.7334929551 659464.0599012338,598891.1354910865 659483.9036909156,598903.0417648989 659508.2454062644,598910.4501130505 659523.591270294,598900.9250939987 659528.0891959546,598903.0417648989 659510.3620771635,598891.4000749465 659483.639107055,598820.7561836421 659515.6537544159,598821.549935232 659518.0350091867,598812.0249161801 659522.0037671169,598840.0708056162 659584.4455586644,598840.5999733364 659584.4455586644))",
+    "site_description": "W przeszłości (od lat 70. ubiegłego wieku do 2002 r.) prowadzono na tym terenie działalność związaną z produkcją energii cieplnej w osiedlowej kotłowni opalanej miałem węglowym. Budynek kotłowni zlokalizowany był na działce nr 97. Na terenie nieruchomości nr 22/3 znajdował się plac opałowy. Przemieszczanie węgla na placu odbywało się z wykorzystaniem maszyn napędowych z silnikami spalinowymi. W 2007 r. budynek kotłowni został rozebrany."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "od lat 70. XX wieku do 2002 r."
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Iławskie Przedsiębiorstwo Budowlane \"IPB\" Sp. z o.o. z siedzibą w Iławie",
+      "address": "ul. Lubawska 3, 14-200 Iława",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "22/3",
+        "22/5",
+        "23",
+        "97"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "30,2-76,7mg/kg s.m.",
+      "area_ha": 0.4028
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,105-0,229 mg/kg s.m.",
+      "area_ha": 0.1915
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,116-0,275 mg/kg s.m.",
+      "area_ha": 0.1915
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,11-0,354 mg/kg s.m.",
+      "area_ha": 0.3136
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,124 i 0,125 mg/kg s.m.",
+      "area_ha": 0.104
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,203 mg/kg s.m.",
+      "area_ha": 0.0548
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "1040 mg/kg s.m.",
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "386 mg/kg s.m.",
+      "area_ha": 0.009
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-11-12",
+    "legal_basis": "101e ust. 1 POŚ",
+    "case_reference": "WSI.513.35.2019.KPi",
+    "decisions": [
+      {
+        "issue_date": "2020-07-30",
+        "reference": "WSI.513.35.2019.KPi",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101c ust. 3 pkt 3 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-07-12",
+        "reference": "WSI.515.5.2022.KPi.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust.4 Poś, art. 101p ust. 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Iławskie Przedsiębiorstwo Budowlane \"IPB\" Sp. z o.o. z siedzibą w Iławie",
+        "address": "ul. Lubawska 3, 14-200 Iława",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-07-01",
+    "planned_end": "2023-09-20",
+    "actual_end": "2023-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja zostanie przeprowadzona na terenie części nieruchomości nr: 22/3, 22/5 i 97 w sposób polegający na usunięciu zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko (tj. zgodnie z art. 101q ust. 1 pkt 1 ustawy Prawo ochrony środowiska). Będzie prowadzona metodą ex-situ, która polega na wydobyciu zanieczyszczonego gruntu z miejsca jego występowania i przekazaniu go uprawnionemu podmiotowi zgodnie z przepisami ustawy o odpadach. Metodą ex-situ zostanie usunięty grunt niespełniający norm przewidzianych dla gruntów grupy I: \tna głębokości 0-0,25 m ppt z powierzchni około 2471 m2 \tna głębokości 0,25-1,0 m ppt z powierzchni około 90 m2  \tna głębokości 1,0-3,0 m ppt z powierzchni około 120 m2  Prace remediacyjne będą prowadzone w dwóch etapach. W etapie I zostanie usunięty zanieczyszczony grunt z głębokości 0,25-1,0 m ppt. Po usunięciu zanieczyszczonej partii gruntów powstały wykop (ściany i dno) zostanie opróbowany i przebadany pod kątem określenia w glebie i ziemi zawartości cynku. W drugim etapie prac remediacyjnych zostanie usunięty zanieczyszczony grunt z głębokości 0-0,25 m ppt oraz z głębokości 1,0-3,0 m ppt. Po usunięciu zanieczyszczonej partii gruntów z głębokości 0-0,25 m ppt dno wykopu zostanie opróbowane i przebadane pod kątem określenia w glebie i ziemi zawartości następujących substancji: suma węglowodorów C12-C35, składników frakcji oleju, benzo(a)antracen, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, indeno(1,2,3-c,d)piren. Po usunięciu zanieczyszczonej partii gruntów z głębokości 1,0-3,0 m ppt powstały wykop (ściany i dno) zostanie opróbowany i przebadany pod kątem określenia w glebie i ziemi zawartości chromu. Wydobyty grunt (stanowiący odpad) zostanie załadowany na samochody przystosowane do transportu odpadów i przekazany podmiotowi posiadającemu wymagane zezwolenia na ich zagospodarowanie bądź unieszkodliwienie. W przypadku pojawienia się w wykopach wody gruntowej zostanie ona odpompowana i przekazana uprawnionemu odbiorcy zgodnie z przepisami  ustawy o odpadach. Prace remediacyjne będą prowadzone pod stałym nadzorem geologicznym, w tym w zakresie usuwania i załadunku gruntu, przy zachowaniu szczególnych środków bezpieczeństwa oraz zastosowaniu środków ochrony indywidualnej odpowiednich do rodzaju wykonywanych prac i zagrożeń związanych z narażeniem na kontakt z odpadami niebezpiecznymi. Do czasu zakończenia prac remediacyjnych obszar historycznego zanieczyszczenia powierzchni ziemi będzie zabezpieczony przed dostępem osób postronnych. Jednocześnie RDOŚ w Olsztynie zwolnił Spółkę Iławskie Przedsiębiorstwo Budowlane „IPB” Sp. z o.o. ul. Lubawska 3, 14- 200 Iława z obowiązku przeprowadzenia remediacji historycznego zanieczyszczenia powierzchni ziemi stwierdzonego w przedziale głębokościowym 0-0,25 m ppt na terenie części nieruchomości o nr: 22/5, 22/3, 23 i 97.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy I i głębokości przekraczającej 0,25 m ppt. Ich zawartość w glebie i w ziemi nie będzie zatem przekraczać następujących wartości:  \tprzy wodoprzepuszczalności wyższej lub równej 1x10-7 m/s: •\tsuma węglowodorów C12-C35, składników frakcji oleju - 1000 mg/kg s.m., •\tbenzo(a)antracen - 5 mg/kg s.m., •\tbenzo(a)piren - 5 mg/kg s.m., •\tbenzo(b)fluoranten - 5 mg/kg s.m., •\tbenzo(k)fluoranten - 5 mg/kg s.m., •\tindeno(1,2,3-c,d)piren - 5 mg/kg s.m., •\tcynk - 300 mg/kg s.m., •\tchrom - 300 mg/kg s.m.,  \tprzy wodoprzepuszczalności niższej niż 1x10-7 m/s: •\tsuma węglowodorów C12-C35, składników frakcji oleju - 3000 mg/kg s.m., •\tbenzo(a)antracen - 20 mg/kg s.m., •\tbenzo(a)piren - 20 mg/kg s.m., •\tbenzo(b)fluoranten - 20 mg/kg s.m., •\tbenzo(k)fluoranten - 20 mg/kg s.m., •\tindeno(1,2,3-c,d)piren - 20 mg/kg s.m., •\tcynk - 500 mg/kg s.m., •\tchrom - 500 mg/kg s.m.  Przekazane wyniki analiz próbek gleby i ziemi, pobranych z dna i ścian wykopów po wybraniu zanieczyszczonego gruntu, potwierdzają osiągnięcie ww. efektu ekologicznego. Potwierdzeniem przekazania zanieczyszczonego gruntu (odpadów) uprawnionym odbiorcom są karty przekazania odpadu.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Właścicielem działki nr 22/5 jest Gmina Olsztyn, natomiast właścicielem działek o nr: 22/3, 23 i 97 - Iławskie Przedsiębiorstwo Budowlane \"IPB\" Sp. z.o.o. Działki nie są objęte ustaleniami miejscowego planu zagospodarowania przestrzennego. Zgodnie z wypisem z rejestru gruntów (stan na 27.01.2022 r.) działka nr 22/5 jest sklasyfikowana jako tereny przemysłowe oznaczone symbolem Ba. Natomiast działki o nr 22/3 i 97 jako inne tereny zabudowane, oznaczone symbolem Bi. Zatem, w myśl § 3 ust. 3 rozporządzenia Ministra Środowiska w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi, grunt na terenie nieruchomości nr 22/5 zaliczamy do IV grupy gruntów, natomiast na terenie działek nr 22/3 i 97 - do gruntów grupy I. Niemniej jednak, z uwagi na przyszłe zagospodarowanie i użytkowanie tego terenu (na omawianym terenie planuje się zabudowę mieszkaniową wielorodzinną), dla wszystkich ww. nieruchomości przyjęto I grupę gruntów, tj. właściwą dla terenów mieszkaniowych.   Zgodnie z informacją zawartą w dokumentacji powykonawczej z remediacji (pismo z 11.09.2023 r.) działki o nr 22/3, 23 i 97 wchodzą obecnie w skład działki nr 177 obręb 0016 miasta Olsztyna."
+}

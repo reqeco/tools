@@ -1,0 +1,271 @@
+{
+  "registry_id": 2131,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 15.2521,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "Gen. T. Bora-Komorowskiego we Wrocławiu",
+    "precinct": "Zakrzów",
+    "parcel_numbers": [
+      "11/7",
+      "11/20",
+      "11/23",
+      "7/5",
+      "11/5",
+      "11/8",
+      "7/3",
+      "11/4",
+      "AM-16",
+      "obręb Zakrzów"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((368363.55729222809895873 367461.08617321588099003, 368357.53438367531634867 367474.40326980967074633, 368348.67304370668716729 367491.89496318530291319, 368352.97135109890950844 367503.8309095986187458, 368347.21576284023467451 367506.3907751590013504, 368381.27910477656405419 367547.70115508325397968, 368403.22655805421527475 367580.07709144242107868, 368422.21186926553491503 367607.53010828047990799, 368425.22462198929861188 367616.17473546136170626, 368407.15893056464847177 367625.9331980412825942, 368405.6510432965005748 367636.70729861594736576, 368423.83742707467172295 367666.23917686194181442, 368484.06000239728018641 367654.25304038263857365, 368503.05958070931956172 367652.34027410484850407, 368538.49324609158793464 367642.34563292656093836, 368599.85516023600939661 367622.89921350684016943, 368608.12562460149638355 367622.78674741927534342, 368678.10966249817283824 367598.67348857037723064, 368676.94521953864023089 367573.87334512174129486, 368679.03835372818866745 367545.30650705844163895, 368677.19869403576012701 367531.68273551296442747, 368674.61633677931968123 367524.27305788919329643, 368668.98446301859803498 367535.93043201975524426, 368646.83415510773193091 367549.46682914067059755, 368638.80289379705209285 367536.7544518755748868, 368633.6719182837405242 367524.4162348210811615, 368670.59659729001577944 367502.40693882573395967, 368661.09421648166608065 367472.75698065105825663, 368648.64656612259568647 367439.42467501666396856, 368645.18655501934699714 367428.30453420523554087, 368660.00591180275660008 367423.13982207234948874, 368646.41069947124924511 367366.24793958012014627, 368587.00393482181243598 367377.39575005136430264, 368576.22983809653669596 367375.88785847276449203, 368573.81358841230394319 367350.27753297239542007, 368527.17542972322553396 367357.52931707073003054, 368518.60952636029105633 367366.33139149844646454, 368518.77259707293706015 367378.32356671895831823, 368383.2770813403185457 367451.30522222816944122, 368518.77259707287885249 367378.32356671802699566, 368484.34894719632575288 367371.34686719998717308, 368471.1560127439443022 367313.62229659035801888, 368514.04997460130834952 367304.76702983025461435, 368515.02322135795839131 367315.50738913752138615, 368551.49199273099657148 367320.80188311915844679, 368523.62590304482728243 367278.99363246653228998, 368491.59600891487207264 367295.97316348366439342, 368309.7774030109285377 367003.96240109484642744, 368148.14241432899143547 367101.28823002334684134, 368331.54773612110875547 367388.31426831986755133, 368286.44253304461017251 367417.05240856576710939, 368363.55729222798254341 367461.08617321401834488, 368370.2523912051692605 367466.78552953992038965, 368363.55729222809895873 367461.08617321588099003),(368370.2523912051692605 367466.78552953992038965, 368386.65836980560561642 367456.63604061800288036, 368386.65836980601307005 367456.63604061864316463, 368370.2523912051692605 367466.78552953992038965)))",
+    "site_description": "Teren byłej fabryki papieru aktualnie we władaniu Beko Poland Manufacturing Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja papieru i tektury",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Beko Poland Manufacturing Sp. z o.o.",
+      "address": "ul. Dąbrowskiego 21 93-231 Łódź",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "27.51.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "428-1080 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "21,1-98,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "573-3060 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "401 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "209-6110 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "37,2-1800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,211-5,21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,12-3,204 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,146-5,98 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,377-6,11 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,209-5,76 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,176-4,702 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,201-2,91 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,413-0,853 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,241-3,24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,126-1,13 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,025-0,089 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "0,014-0,199 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "311-2640-mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "45,5-271 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "329-9322 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "132-8058 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Trichloroeten",
+      "concentration": "0,109-32 -mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dichloroeten",
+      "concentration": "0,136-2,17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "3,42-9,74 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "430-3130 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "4,09-6,76 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "378 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-09-25",
+    "legal_basis": "art. 61 § 4 ustawy z dnia 14 czerwca 1960 r. Kpa, art. 101c ust. 3 ustawy Poś w związku z 101 e ust. 1 ustawy Poś",
+    "case_reference": "WSI.513.11.2024.ASZ",
+    "decisions": [
+      {
+        "issue_date": "2025-01-30",
+        "reference": "WSI.513.11.2024.ASZ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

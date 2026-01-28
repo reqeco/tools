@@ -1,0 +1,78 @@
+{
+  "registry_id": 1880,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "elbląski",
+    "municipality": "Markusy",
+    "address": null,
+    "precinct": "Węgle Żukowo",
+    "parcel_numbers": [
+      "280404_2.0015.8",
+      "280404_2.0015.12"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Zgłoszenie dotyczy szkód w środowisku w gatunkach chronionych i chronionych siedliskach siedliskach przyrodniczych występujących w wodach jeziora Drużno oraz na terenie bazy wędkarskiej Węgle Żukowo (dz. nr 8 i nr 12 obręb 0015 Węgle Żukowo)"
+  },
+  "occurrence_time": {
+    "date": "2023-07-14",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Szkody w środowisku w gatunkach chronionych i chronionych siedliskach przyrodniczych występujących w wodach jeziora Drużno oraz na terenie bazy wędkarskiej Węgle Żukowo (dz. nr 8 i nr 12 obręb 0015 Węgle Żukowo)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Stowarzyszenie Zimorodek z siedzibą w Wołominie",
+      "address": "(…)",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Okręg Polskiego Związku Wędkarskiego w Elblągu",
+      "address": "ul. Sukiennicza 10, 82-300 Elbląg",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2024-02-29",
+    "detection_date": "2023-07-14",
+    "decisions": [
+      {
+        "issue_date": "2024-09-24",
+        "reference": "WSI.512.1.2024.JJ.22",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 105 § 1 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2024-10-01",
+        "reason": null,
+        "appealed_decision_reference": "WSI.512.1.2024.JJ.22",
+        "resolution_reference": null,
+        "appellant_name": "(…) reprezentujący Stowarzyszenie \"ZIMORODEK\" z siedzibą w Wołominie",
+        "appellant_address": "(…)",
+        "resolution_date": null,
+        "reviewing_authority": null,
+        "resolution_content": null
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

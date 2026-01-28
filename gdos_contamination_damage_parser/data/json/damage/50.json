@@ -1,0 +1,81 @@
+{
+  "registry_id": 50,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": "Pogórze - wyciek oleju napędowego",
+    "precinct": "0007 Pogórze; arkusz 16",
+    "parcel_numbers": [
+      "193/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((467511.8653162184 745728.9566503279,467610.8196807985 745547.9812883809,467692.31151044864 745398.7559899287,467807.14090677863 745184.7076451704,467927.5265642086 744957.1655234089,468072.25393699866 744689.4066545609,468150.83534415875 744542.033443152,468163.7999534288 744540.4459399814,468061.67058249866 744729.8879855303,467960.86413088866 744916.1550247306,467890.2202395986 745044.2136141798,467843.1243120786 745133.9075435689,467766.3949919486 745277.0474131797,467609.4967614885 745566.5021587489,467482.4965074885 745807.5380574884,467432.4901574685 746035.3447631085,467425.6109770485 746032.4343406176,467474.0298238885 745807.5380574875,467490.43402335845 745774.465074678,467511.8653162184 745728.9566503279))",
+    "site_description": "Przestępczy nawiert w rurociągu DN 600, w Pogórzu, gmina Kosakowo, powiat pucki, woj. pomorskie należącym do Operatora Logistycznego Paliw Płynnych Sp. z o.o. - Baza Paliw nr 21 Dębogórze, około 1300 m na południe od skrzyżowania dróg Gdynia-Rewa i Rewa-Kosakowo w kierunku Dębogórza i Kazimierza, przy drodze gruntowej łączącej Kosakowo ze Starym Obłużem."
+  },
+  "occurrence_time": {
+    "date": "2007-05-29",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gruntu na skutek nielegalnego nawiertu do rurociągu podziemnego nastąpił wyciek oleju napędowego w dniu 29 maja 2007 r. w Pogórzu, gmina Kosakowo, powiat pucki, woj. pomorskie należącym do Operatora Logistycznego Paliw Płynnych Sp. z o.o. - Baza Paliw nr 21 Dębogórze",
+  "total_area_ha": 1.27,
+  "reporters": [
+    {
+      "name": "Operator Logistyczny Paliw Płynnych Sp. z o. o.",
+      "address": "ul. Wyszogrodzka 133, , 09-410 Płock",
+      "legal_form": "Sp. z o.o."
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Operator Logistyczny Paliw Płynnych Sp. z o.o.",
+      "address": "ul. Wyszogrodzka 133,  09-410 Płock",
+      "economic_activity_code": "52.10.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "15,0 – 10 521,0 mg/kg",
+      "area_ha": 0.023
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2007-06-04",
+    "detection_date": "2007-05-29",
+    "decisions": [
+      {
+        "issue_date": "2009-11-09",
+        "reference": "RDOŚ-22-WSI.I/6618-90/09/KG/HD",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-12-31",
+    "actual_end": "2011-05-24",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Na terenie objętym powierzchniowym rozlewem oleju napędowego bezpośrednio po powstaniu rozlewu, dokonano usunięcia zanieczyszczonych gruntów do głębokości około 0,3 – 0,5 m i nasypano w ich miejsce czystą glebę.  W granicach obszarów gruntów zanieczyszczonych zalecono prowadzić: - stałe przewietrzanie powierzchniowej warstwy gleby poprzez zabiegi agrotechniczne, w szczególności coroczną, jak najgłębszą orkę, - wstępne nawiezienie terenu materią organiczną (np. obornikiem, liśćmi, słomą itp) oraz, przed dopuszczeniem gruntu do produkcji rolnej, stałą uprawę roślin stanowiących tzw. zielony nawóz. Okres prowadzenia tych prac przed wprowadzeniem na pole roślin uprawnych powinien wynosić co najmniej 2 lata. Przed powrotem do produkcji rolnej na zanieczyszczonych obszarach powinno być przeprowadzone badanie zawartości substancji ropopochodnych w gruntach.",
+    "ecological_effect": "Badania prób gruntu pobranego w dniu 24 maja 2011 roku z omawianego terenu wykazały, że negatywne następstwa awarii zostały skutecznie wyeliminowane a wymagana, zgodnie z rozporządzeniem Ministra Środowiska z dnia 09 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. nr 165, poz. 1359), jakość dla gruntów typu „B” została osiągnięta.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

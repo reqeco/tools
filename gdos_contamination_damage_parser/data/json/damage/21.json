@@ -1,0 +1,81 @@
+{
+  "registry_id": 21,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "olecki",
+    "municipality": "Olecko",
+    "address": "ul. Nocznickiego 20 19-400 Olecko",
+    "precinct": null,
+    "parcel_numbers": [
+      "686/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((729479.4843458628 691229.0417115614,729498.2698007012 691206.2874993933,729542.4553072583 691218.9875248242,729555.9490847185 691226.6604568446,729535.0469589191 691256.5584333008,729515.2031685365 691244.1229917454,729509.6469072513 691252.0605076123,729481.3364329727 691233.5396372229,729479.2197619949 691229.8354631411,729479.4843458628 691229.0417115614))",
+    "site_description": "Punkt skupu złomu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2008-05-20",
+    "description": "Podczas kontroli przeprowadzonej przez WIOŚ w dniach 20 i 23 maja 2008 r. ustalono, że teren na którym prowadzona jest działalność Przedsiębiorstwa \"Wenus\" Sp z o.o. w Olecku (skup złomu) wykazuje cechy zaolejenia."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gruntu w wyniku prowadzenia działalności w zakresie zbierania i transportu odpadów, złomów metalicznych oraz stopów metali na terenie Przedsiębiorstwa \"WENUS\" Sp. z o.o w Olecku.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Warmińsko-Mazurski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. 1 maja 13 10-117 Olsztyn",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiębiorstwo \"WENUS\" Sp. z o.o.",
+      "address": "ul. Nocznickiego 20 19-400 Olecko",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "23307 mg/kg s.m.",
+      "area_ha": 0.012
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2008-06-30",
+    "detection_date": "2008-05-20",
+    "decisions": [
+      {
+        "issue_date": "2009-03-02",
+        "reference": "RDOŚ-28-WSIZ-6650-004/09/jk",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2009-03-01",
+    "planned_end": "2009-04-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania naprawcze będą prowadzone metodą ex-situ i będą obejmowały: wydobycie zanieczyszczonego gruntu, przekazanie go do utylizacji, wypełnienie powstałego wykopu czystym gruntem.",
+    "ecological_effect": "Osiągnięcie dopuszczalnych parametrów jakości gruntu określonych dla gruntów grupy B w rozporządzeniu Ministra Środowiska w z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz.U. Nr 165, poz. 1359).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

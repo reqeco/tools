@@ -1,0 +1,138 @@
+{
+  "registry_id": 753,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "Kraków, ul. Pawia",
+    "precinct": "8 Śródmieście",
+    "parcel_numbers": [
+      "126105_9.0008.144/2",
+      "126105_9.0008.144/6",
+      "126105_9.0008.144/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((567593.8463086383 244863.72936230712,567593.7140166983 244862.40644299798,567604.8265389284 244857.51164154056,567608.7952968684 244848.51579021942,567609.1921726584 244796.39276929758,567582.998370268 244797.7156886179,567579.955655848 244784.4864954874,567557.3337356077 244794.40839033108,567558.9212387878 244798.77402407024,567563.8160402379 244821.39594431035,567585.6442088981 244820.73448464926,567585.9087927581 244863.86165423878,567593.8463086383 244863.72936230712))",
+    "site_description": "działka niezbudowana"
+  },
+  "occurrence_time": {
+    "date": "2015-02-01",
+    "from": null,
+    "to": null,
+    "description": "Zanieczyszczenie stwierdzono w oparciu o wyniki badań przeprowadzonych w lutym 2015 roku"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wykrycie zanieczysczenia w trakcie bnadań kontrolnych",
+  "total_area_ha": 0.085,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "ORBIS S.A.",
+      "address": "ul. Bracka 16, 00-028 Warszawa",
+      "economic_activity_code": "55.10.Z"
+    },
+    {
+      "name": "ALX Property Sp. z o.o.",
+      "address": "ul.Worcela 6/8, 31-154 Kraków",
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Arsen (As)",
+      "concentration": "50 [mg/kg s.m.]",
+      "area_ha": 0.085
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Bar (Ba)",
+      "concentration": "290 - 930 [mg/kg s.m.]",
+      "area_ha": 0.085
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Kadm (Cd)",
+      "concentration": "5,7 [mg/kg s.m.]",
+      "area_ha": 0.085
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Miedź (Cu)",
+      "concentration": "1200 - 2300 [mg/kg s.m.]",
+      "area_ha": 0.085
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Ołów (Pb)",
+      "concentration": "120 - 2400 [mg/kg s.m.]",
+      "area_ha": 0.085
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Nikiel (Ni)",
+      "concentration": "86 [mg/kg s.m.]",
+      "area_ha": 0.085
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Cyna (Sn)",
+      "concentration": "69 - 210 [mg/kg s.m.]",
+      "area_ha": 0.085
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Cynk (Zn)",
+      "concentration": "1100 - 5200 [mg/kg s.m.]",
+      "area_ha": 0.085
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "450 - 1100 [mg/kg s.m.]",
+      "area_ha": 0.085
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-02-25",
+    "detection_date": "2015-02-12",
+    "decisions": [
+      {
+        "issue_date": "2015-03-26",
+        "reference": "ZS.516.1.1.2015.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2015-04-01",
+    "planned_end": "2015-08-31",
+    "actual_end": "2015-04-16",
+    "method": null,
+    "description": "Remediacja polegała na usunięciu zanieczyszczonej gleby i ziemi.",
+    "ecological_effect": "W wyniku remediacji osiągnięto standardy ustalone dla gruntów grupy B, określone w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

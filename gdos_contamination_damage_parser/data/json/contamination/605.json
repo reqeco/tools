@@ -1,0 +1,86 @@
+{
+  "registry_id": 605,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.05,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Raszyn",
+    "address": "ul. Słowikowskiego",
+    "precinct": "01",
+    "parcel_numbers": [
+      "6/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((630939.0028948917 479952.75675131567,631169.9846070523 479945.8775708908,631169.7200231912 479909.62958172895,630959.3758523184 479915.7150105648,630939.0028948917 479952.75675131567))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "JDA Investment Sp. z o.o.",
+      "address": "ul. Grzybowska 87, 00-844 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "6/5"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "90 [mg/kg]",
+      "area_ha": 0.05
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-12-18",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.10.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-02-21",
+        "reference": "WOOŚ-IV.515.10.2019.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "JDA Investment Sp. z o.o.",
+        "address": "ul. Grzybowska 87, 00-844 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2019-02-22",
+    "planned_end": "2019-11-30",
+    "actual_end": "2019-04-09",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "(dawniej WSI.515.76.2018.MB)"
+}

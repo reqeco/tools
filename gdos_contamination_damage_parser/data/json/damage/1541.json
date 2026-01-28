@@ -1,0 +1,60 @@
+{
+  "registry_id": 1541,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "żywiecki",
+    "municipality": "Milówka",
+    "address": "ul. Księdza Ciszka 34-360 Milówka",
+    "precinct": "0003 Milówka",
+    "parcel_numbers": [
+      "6756/2",
+      "6760/6",
+      "6759/3",
+      "6758",
+      "6757"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((506272.7749392359983176 187064.23116559299523942, 506274.31410633597988635 187101.857731172000058, 506304.31648504000622779 187104.16754808399127796, 506310.18717654200736433 187104.48932205600431189, 506265.10163471597479656 187043.31592544799786992, 506264.74394639802630991 187042.72104283500812016, 506264.22253485099645332 187041.83851195900933817, 506241.73627422098070383 187004.22035223699640483, 506237.54237936902791262 186990.94420042599085718, 506241.79699853097554296 186986.2205358789942693, 506206.6900975700118579 186989.35523320001084358, 506191.28696515900082886 186990.66915648200665601, 506186.45554965100018308 186991.09311276700464077, 506187.87741190101951361 187048.47918004699749872, 506188.40567705198191106 187069.43936244599171914, 506196.32426418899558485 187068.94441631098743528, 506219.86059614201076329 187067.49247438198653981, 506272.7749392359983176 187064.23116559299523942))",
+    "site_description": "Zanieczyszczenie powierzchni ziemi w obrębie działek ewidencyjnych o numerach: 6760/4, 6756/3, 6756/4, 6756/2, 6760/6, 6759/3, 6758 oraz 6757 (obręb Milówka), położonych przy ul. Księdza Ciszka w miejscowości Milówka. Przyczyną zanieczyszczenia były odpady zdeponowane na przedmiotowym terenie oraz wykonywany na tym terenie demontaż pojazdów wycofanych z eksploatacji."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "7.07. – 20.09.2021 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi w obrębie działek ewidencyjnych o numerach: 6760/4, 6756/3, 6756/4, 6756/2, 6760/6, 6759/3, 6758 oraz 6757 (obręb Milówka), położonych przy ul. Księdza Ciszka w miejscowości Milówka. Przyczyną zanieczyszczenia były odpady zdeponowane na przedmiotowym terenie oraz wykonywany na tym terenie demontaż pojazdów wycofanych z eksploatacji.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach",
+      "address": "ul. Wita Stwosza 2 40-036 Katowice",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Karol Grzegorzek F.H.U. „KAROLEX\"",
+      "address": "ul. Piekarska 14 34-360 Milówka",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2021-10-27",
+    "detection_date": "2021-08-20",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

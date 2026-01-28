@@ -1,0 +1,78 @@
+{
+  "registry_id": 687,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Warszawa ul. Wersalska 1, Stacja Paliw Nr 680",
+    "precinct": "3-01-15",
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((640583.9276579223 486243.0741247665,640578.7682725943 486219.129285207,640647.427785005 486184.46879921574,640645.8402818254 486248.2335100854,640583.9276579223 486243.0741247665))",
+    "site_description": "teren stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczniu środowiska substancjami ropochodnymi na terenie Stacji Paliw nr 680 w Warszawie przy ul. Wersalskiej 1",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "98.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "390-2267",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1899-12133",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2014-01-22",
+    "detection_date": "2014-01-24",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2014-02-01",
+    "planned_end": null,
+    "actual_end": "2016-04-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "wybranie zanieczyszczonej ziemi",
+    "ecological_effect": "osiągnięto odpowiednie standardy według rozporządzenia z 1.09.2016 r. w sprawie sposobu prowadzenia oceny historycznego zan. pow. ziemi",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "podmiot",
+    "covered_by_obligee": "TAK",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

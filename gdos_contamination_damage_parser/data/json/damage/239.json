@@ -1,0 +1,73 @@
+{
+  "registry_id": 239,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "radomski",
+    "municipality": "Zakrzew",
+    "address": "Gulin 33, 26-652 Zakrzew",
+    "precinct": null,
+    "parcel_numbers": [
+      "767/12"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639119.0627604015 402843.8759621708,639129.1169471926 402835.1446947111,639180.9753843027 402906.05316985864,639199.4962546933 402893.3531444585,639262.4672140467 402980.40123522,639236.0088277675 403003.1554473983,639119.0627604015 402843.8759621708))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2010-04-27",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu chromem terenu działki o nr ew.772/1 bezpośrednio przylegającej od strony północnej do posesji Zakładu Garbarskiego (…)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektorat Ochrony Środowiska",
+      "address": "ul. Bartycka 110 00-716 Waszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zakład Garbarski S.C.",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2010-04-27",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "WSI.510.5.2013.MGł.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,65 @@
+{
+  "registry_id": 1865,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "trzebnicki",
+    "municipality": "Oborniki Śląskie",
+    "address": null,
+    "precinct": "Kowale",
+    "parcel_numbers": [
+      "94/11 AM-1 obręb Kowale"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((358856.8512715794 383644.77503575664,358867.8181610599 383642.6262949705,358864.5882407067 383625.6762277456,358853.6213510989 383627.8249682244,358856.8512715794 383644.77503575664))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "wrzesień 2017 r."
+  },
+  "land_surface_holder": "Skarb Państwa (Krajowy Ośrodek Wsparcia Rolnictwa)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Burmistrz Obornik Śląskich",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2,3 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,113 - 0,254 mg/kg s.m.",
+      "area_ha": 0.02
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSI.510.1.2019.KMA"
+}

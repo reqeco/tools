@@ -1,0 +1,91 @@
+{
+  "registry_id": 557,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "warszawski zachodni",
+    "municipality": "Ożarów Mazowiecki",
+    "address": "ul. Radziwiłłów",
+    "precinct": "0011",
+    "parcel_numbers": [
+      "235"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((624343.9346908958 484198.7408763766,624341.2888522737 484176.5158319259,624375.1555866954 484173.34082557634,624376.2139221464 484195.03670230694,624343.9346908958 484198.7408763766))",
+    "site_description": "(obecnie dz. 235/1)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Tele- Fonika Kable Sp. J.",
+      "address": "ul. Wielickiej 114 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "61.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "1610-4410 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "2410  [mg/kg]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-06-13",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2014-06-25",
+        "reference": "WSI.511.7.2014.KW.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 106 ust 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Tele- Fonika Kable Sp. J.",
+        "address": "ul. Wielickiej 114 Kraków",
+        "economic_activity_code": "61.10.Z"
+      }
+    ],
+    "planned_start": "2014-06-25",
+    "planned_end": "2014-12-31",
+    "actual_end": "2014-09-02",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex- situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,118 @@
+{
+  "registry_id": 1103,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "tor stacyjny nr 113 stacji kolejowej w Trzebini",
+    "precinct": "14 Trzebionka",
+    "parcel_numbers": [
+      "120305_4.0014.1587/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((531103.5415291006 254812.42299546674,531095.0748455006 254798.92921848595,531180.2708492307 254764.00414863694,531185.0333587507 254776.70417403616,531103.5415291006 254812.42299546674))",
+    "site_description": "tor nr 113"
+  },
+  "occurrence_time": {
+    "date": "2017-09-10",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa (Starosta Chrzanowski)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Do zanieczyszczenia doszło w wyniku wycieku oleju napędowego w związku z kradzieżą z cysterny.",
+  "total_area_ha": 0.011,
+  "reporters": [
+    {
+      "name": "PKP Polskie Linie Kolejowe S.A. Zakład Linii Kolejowych w Krakowie",
+      "address": "Plac Matejki 12 31-157 Kraków",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "ORLEN KolTrans S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "economic_activity_code": "49.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 5000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "68 - 86mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 5000 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-07-06",
+    "detection_date": "2017-09-10",
+    "decisions": [
+      {
+        "issue_date": "2019-06-14",
+        "reference": "ZS.511.2.2018.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-02-10",
+        "reference": "ZS.511.1.2020.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-04-30",
+        "reference": "ZS.511.3.2020.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2020-05-20",
+    "planned_end": "2020-09-01",
+    "actual_end": "2020-06-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Wydobyto warstwę gleby i ziemi do głębokości 2,0 m, z obszaru o powierzchni 156 m2, na którym stwierdzono ponadnormatywne zawartości substancji powodujących ryzyko. Zanieczyszczona gleba i ziemia zostały przekazane podmiotowi, posiadającemu uregulowany stan formalno-prawny  w zakresie gospodarowania tego typu odpadami. Usunięcie zanieczyszczonej gleby i ziemi potwierdzono badaniami próbek ze ścian i z dna powstałego wykopu. Powstały wykop został uzupełniony gruntem wolnym od zanieczyszczeń.",
+    "ecological_effect": "Po przeprowadzeniu remediacji, zawartość w glebie i ziemi substancji powodujących ryzyko, mieści się w granicach zawartości dopuszczalnej określonej dla IV grupy gruntów ustalonej w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": null,
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "władającym działką są Polskie Koleje Państwowe S.A."
+}

@@ -1,0 +1,88 @@
+{
+  "registry_id": 945,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "siemiatycki",
+    "municipality": "Siemiatycze (gmina miejska)",
+    "address": "17-300 Siemiatycze",
+    "precinct": "2 Siemiatycze",
+    "parcel_numbers": [
+      "2705"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((761182.7462550034 511865.2007357767,761241.4838758219 511869.9632453751,761261.5922498797 511657.7669876637,761202.3254612705 511642.9502912834,761182.7462550034 511865.2007357767))",
+    "site_description": "teren leśny w sąsiedztwie składowiska odpadów komunalnych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "Zgłoszenie szkody w środowisku wpłynęło 12.01.2011 r."
+  },
+  "land_surface_holder": "Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Dnia 12 stycznia 2011 r. do Regionalnego Dyrektora Ochrony Środowiska w Białymstoku wpłynęło pismo Podlaskiego Wojewódzkiego Inspektora Ochrony Środowiska w Białymstoku (znak WT.6736-135/10) dotyczące kontroli w Przedsiębiorstwie Komunalnym Sp. z o.o. w Siemiatyczach, ul. Armii Krajowej 26, 17-300 Siemiatycze. Przedmiotem kontroli było podejrzenie wylewania nieczystości ciekłych ze studzienki odciekowej, zlokalizowanej na składowisku odpadów innych niż niebezpieczne i obojętne w Siemiatyczach, do pobliskiego lasu (działka o nr geod. 2705). Wyniki badań dwóch prób (z terenu leśnego oraz z terenu składowiska) wykazały przekroczenia dopuszczalnego stężenia cynku oraz WWA w odniesieniu do Rozporządzenia Ministra Środowiska w sprawie standardów jakości gleby oraz standardów jakości ziemi.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Białymstoku",
+      "address": "ul. Ciołkowskiego 2/3 15-264 Białystok",
+      "legal_form": "Organ rządowej administracji zespolonej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiębiorstwo Komunalne Sp. z o. o.",
+      "address": "ul. Armii Krajowej 26 17-300 Siemiatycze,",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Cynk (Zn)",
+      "concentration": "464 mg/kg sm",
+      "area_ha": 0.0845
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "2,94 mg/kg sm",
+      "area_ha": 0.0845
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-02-04",
+    "detection_date": "2011-01-12",
+    "decisions": [
+      {
+        "issue_date": "2011-07-25",
+        "reference": "WSI.512.4.2011.MZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2011-12-23",
+    "method": null,
+    "description": "Zakres i sposób przeprowadzenia działań naprawczych: obsiew skażonego terenu wybranymi gatunkami roślin: - kukurydza, powierzchnia zasiewu 135 m2        - sałata, powierzchnia zasiewu 110 m2        - lucerna, powierzchnia zasiewu 450 m2 - pszenżyto, powierzchnia zasiewu 150 m2        Obsiew o łącznej powierzchni 845 m2",
+    "ecological_effect": "Działania naprawcze były prowadzone do momentu uzyskania wyników potwierdzających osiągnięcie poziomu rekultywacji środowiska gruntowego do stanu odpowiadającego standardom jakościowym przewidzianym dla obszarów grupy B (grunty leśne) zgodnie z Rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r. Nr 165, poz. 1359).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,84 @@
+{
+  "registry_id": 1316,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.007,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Pruszków",
+    "address": "ul. 3 Maja 8",
+    "precinct": "0012",
+    "parcel_numbers": [
+      "121/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((623737.8997602011 478053.01204271987,623779.1748427768 478078.94126125146,623762.7706432963 478045.60369457025,623752.71645651 478042.4286882207,623753.7747919607 478042.4286882207,623737.8997602011 478053.01204271987))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MLP GROUP S.A.",
+      "address": "ul. 3 Maja 8 05-800 Pruszków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.007
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-09-27",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.97.2019.SSz",
+    "decisions": [
+      {
+        "issue_date": "2019-12-20",
+        "reference": "WOOŚ-IV.515.97.2019.SSz.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MLP GROUP S.A.",
+        "address": "ul. 3 Maja 8 05-800 Pruszków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-12-01",
+    "planned_end": "2020-01-30",
+    "actual_end": "2020-01-07",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

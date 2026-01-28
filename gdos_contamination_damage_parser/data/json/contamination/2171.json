@@ -1,0 +1,148 @@
+{
+  "registry_id": 2171,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.029,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Lotnicza 2a, 82-300 Elbląg",
+    "precinct": "0023 miasto Elbląg",
+    "parcel_numbers": [
+      "286101_1.0023.23/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((527440.4200000018 698102.9299992798,527411.5400000019 698113.8099992806,527412.8300000016 698117.0699992841,527447.6700000018 698104.249999282,527440.7900000018 698086.5199992787,527437.6000000017 698088.0499992799,527437.5000000019 698089.9999992829,527436.0900000018 698090.5199992806,527435.4400000017 698089.0099992808,527427.4400000018 698091.429999277,527426.6500000018 698094.6099992804,527435.7400000017 698091.249999282,527440.4200000018 698102.9299992798),(527421.6700000018 698093.6299992772,527409.6700000019 698098.2099992819,527407.7600000018 698101.6299992837,527424.4500000016 698095.289999281,527421.6700000018 698093.6299992772)))",
+    "site_description": "Działka wchodzi w skład terenu, na którym w przeszłości funkcjonowała jednostka wojskowa 14 Batalionu Budowy Lotnisk, w ramach której funkcjonowały wojskowe zakłady remontowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Laguna Sp. z o.o.",
+      "address": "ul. Grunwaldzka 103A, 83-000 Pruszcz Gdański",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "286101_1.0023.23/11"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "707 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,26 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "6,84 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "21,80 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "18,70 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "2,50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "18,40 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "25,30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "10,50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "8,88 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "10,30 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-02-11",
+    "legal_basis": "art. 101d ust. 6, 8 i 9 Poś",
+    "case_reference": "WSI.513.8.2025.KPi",
+    "decisions": [
+      {
+        "issue_date": "2025-04-11",
+        "reference": "WSI.513.8.2025.KPi.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2025-05-02",
+      "reason": "Naruszenie art. 101c ust 2 pkt 6 i pkt 7 oraz ust. 3 pkt 1 w zw. z art. 101d ust. 1 pkt 4 Poś; naruszenie art. 101c ust. 3 pkt 1 w zw. z art. 101d ust. 1 pkt 4 Poś; naruszenie §3 ust. 4 rozporządzenia w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi; naruszenie art. 101a ust. 2 i 3 Poś, naruszenie §6 i §7 rozporządzenia w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi, naruszenie art. 12 ustawy o wprowadzeniu ustawy Poś (...); naruszenie art. 11, art. 8, art. 7 i art. 6 kpa.",
+      "appealed_decision_reference": "WSI.513.8.2025.KPi.4",
+      "resolution_reference": null,
+      "appellant_name": "Laguna Sp. z o.o.",
+      "appellant_address": "ul. Grunwaldzka 103A, 83-300 Pruszcz Gdański",
+      "resolution_date": null,
+      "reviewing_authority": null,
+      "resolution_content": null
+    }
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

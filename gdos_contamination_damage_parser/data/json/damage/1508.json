@@ -1,0 +1,104 @@
+{
+  "registry_id": 1508,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": null,
+    "precinct": "Oksywie",
+    "parcel_numbers": [
+      "2193"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((471235.3685124194 742588.7414272893,471340.14372196933 742638.4831934394,471351.2562441893 742613.0831426391,471258.0698078193 742553.8163574403,471235.3685124194 742588.7414272893))",
+    "site_description": "Teren działki 2193, obręb Oksywie, przy budynku nr 60"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Awaria paliwociągu w 2008 roku",
+  "total_area_ha": 0.01,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+      "address": "ul. Jana z Kolna 8b, 81-301 Gdynia",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2020-12-17",
+    "detection_date": "2020-11-24",
+    "decisions": [
+      {
+        "issue_date": "2022-08-05",
+        "reference": "RDOŚ-Gd-WZS.511.4.2020.MK.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 7 ust. 1, art. 13 ust. 3 ustawy szkodowej",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-04",
+        "reference": "RDOŚ-Gd-WZS.511.4.2020.MK.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-07-31",
+    "planned_end": "2025-08-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Metod ex situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

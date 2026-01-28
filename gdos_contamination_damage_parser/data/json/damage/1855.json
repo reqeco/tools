@@ -1,0 +1,68 @@
+{
+  "registry_id": 1855,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": "Mosty ul. Wichrowa i ul. Księżycowa",
+    "precinct": "Mosty",
+    "parcel_numbers": [
+      "1005/18",
+      "1005/19",
+      "1005/20",
+      "1005/21",
+      "1005/22",
+      "1005/23",
+      "1005/24",
+      "1005/25"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((467174.19141911855 750601.399131855,467298.5458344984 750605.1033059247,467301.1916731184 750535.2531662248,467178.9539286485 750524.1406440036,467174.19141911855 750601.399131855))",
+    "site_description": "działki o nr. ew. 1005/18, 1005/19, 1005/20, 1005/21, 1005/22, 1005/23, 1005/24, 1005/25, obręb Mosty, gmina Kosakowo, powiat pucki (wcześniej działka 1005/11)"
+  },
+  "occurrence_time": {
+    "date": "2021-06-25",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna, osoba fizyczna",
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "woda, chronione siedliska przyrodnicze",
+  "event_description": "szkoda w środowisku, w siedlisku przyrodniczym, o znaczeniu priorytetowym 7110 - torfowiska wysokie z roślinnością torfotwórczą (żywe), na skutek zasypania odpadami w postaci mas ziemnych",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": "osoba fizyczna"
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

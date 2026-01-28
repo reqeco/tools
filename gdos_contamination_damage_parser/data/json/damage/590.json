@@ -1,0 +1,104 @@
+{
+  "registry_id": 590,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "łaski",
+    "municipality": "Widawa",
+    "address": "Rynek Kościuszki 1, Widawa",
+    "precinct": "0031",
+    "parcel_numbers": [
+      "165/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Point (495922.96025672764517367 396779.91100357880350202)",
+    "site_description": "PKN ORLEN stacja Paliw nr 1229 w Widawie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed majem 2013 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "zanieczyszczenie gleby substancjami ropopochodnymi na trenie Stacji Paliw nr 1229 w Widawie",
+  "total_area_ha": 0.015,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1913 mg/kg suchej masy",
+      "area_ha": 0.015
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3689 mg/kg suchej masy",
+      "area_ha": 0.015
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Benzen"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "WWA - wielopierścieniowe węglowodory aromatyczne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-10-03",
+    "detection_date": "2013-05-01",
+    "decisions": [
+      {
+        "issue_date": "2013-12-10",
+        "reference": "WSI.511.21.2013.AR.JS.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2014-12-31",
+    "actual_end": "2014-07-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięto zanieczyszczenie metodą exsitu",
+    "ecological_effect": "doprowadzono do standardów jakości gleby dla gruntów grupy C według rozporządzenia Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1395) w zakresie sumy benzyn i olei mineralnych oraz obniżono stężenia substancji ropopochodnych, benzenu i WWA w wodach podziemnych do wartości dopuszczalnych określonych Rozporządzeniem Ministra Środowiska w dnia 23 lipca 2008 r. w sprawie kryteriów i sposobu oceny wód podziemnych (Dz. U. Nr 143, poz. 896) oraz do wartości dopuszczalnych dla obszaru C określonych we „Wskazówkach metodycznych do oceny stopnia zanieczyszczenia gruntów i wód podziemnych produktami ropopochodnymi i innymi substancjami chemicznymi w procesach rekultywacji” opracowanych przez PIOŚ.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

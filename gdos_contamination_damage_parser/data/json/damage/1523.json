@@ -1,0 +1,56 @@
+{
+  "registry_id": 1523,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Częstochowa",
+    "municipality": "Częstochowa",
+    "address": "ul. Filomatów 28",
+    "precinct": "0258",
+    "parcel_numbers": [
+      "246401_1.0285.13/44"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((508539.09293058299226686 325666.4632875730167143, 508545.28526443499140441 325619.62794053001562133, 508538.07797878800192848 325618.76601257600123063, 508538.72234966297401115 325609.5129147989791818, 508539.12284452799940482 325609.56746108998777345, 508542.07065187598345801 325588.85015462298179045, 508543.30297317198710516 325582.4273791320156306, 508546.38082338502863422 325562.45785842702025548, 508594.96127017500111833 325568.36675127799389884, 508594.40326597599778324 325573.66108547797193751, 508587.36736191197996959 325575.12542347802082077, 508583.98565848398720846 325581.49732042598770931, 508582.03180276200873777 325581.86354248697170988, 508581.96301548898918554 325587.86082818801514804, 508581.95305026002461091 325600.42332725500455126, 508574.39961466600652784 325593.91951335099292919, 508577.47819194197654724 325609.46839508402626961, 508588.56270845502149314 325622.86022997600957751, 508587.84203118598088622 325630.90509416401619092, 508587.39374797098571435 325631.75064758397638798, 508583.61718701897189021 325656.21689094800967723, 508568.62126867199549451 325671.3606523210182786, 508551.74363116401946172 325668.56078872602665797, 508551.8878359780064784 325668.13909324497217312, 508539.09293058299226686 325666.4632875730167143))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-07-04",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wyciek nieznanej substancji, będący wynikiem zbierania i magazynowania odpadów niewiadomego pochodzenia (bez posiadanych zezwoleń) na działce o nr 13/44, obręb 285, położonej przy ul. Filomatów 28 w Częstochowie, do którego doszło 4 lipca 2018 r.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Urząd Miasta Częstochowa",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "„NIKOL-TEX” Sp. z o.o.",
+      "address": "ul. 1 Maja 19 42 – 200 Częstochowa",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2018-09-24",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

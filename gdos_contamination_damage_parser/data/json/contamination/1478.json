@@ -1,0 +1,174 @@
+{
+  "registry_id": 1478,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.9247,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "wołomiński",
+    "municipality": "Wołomin",
+    "address": "ul. Zielonej i Legionów  Wołomin",
+    "precinct": "0036",
+    "parcel_numbers": [
+      "226/2",
+      "275/2",
+      "276/3",
+      "276/6",
+      "282/2",
+      "283/2"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "GMINA WOŁOMIN",
+      "address": "ul. Ogrodowa 4 05-200 Wołomin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "226/2",
+        "275/2",
+        "276/3",
+        "276/6",
+        "282/2",
+        "283/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-09-09",
+    "legal_basis": "art.101l ust.2",
+    "case_reference": "WOOŚ-IV.515.95.2019",
+    "decisions": [
+      {
+        "issue_date": "2020-10-30",
+        "reference": "WOOŚ-IV.515.95.2019.DŚc.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-12-14",
+        "reference": "WOOŚ-IV.515.95.2019.DŚc.16",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "GMINA WOŁOMIN",
+        "address": "ul. Ogrodowa 4 05-200 Wołomin",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-01-03",
+    "planned_end": "2022-06-30",
+    "actual_end": "2022-05-20",
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": "osiągnięcie efektu ekologicznego",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Sprawa w toku, wpłynął wniosek o zmianę terminu rozpoczęcia remediacji"
+}

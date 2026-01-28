@@ -1,0 +1,128 @@
+{
+  "registry_id": 1004,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 14.175,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "namysłowski",
+    "municipality": "Domaszowice",
+    "address": "Przedsiębiorstwo Produkcyjno-Handlowe FERMA-POL Sp. z o.o.  w Zalesiu gm. Domaszowice (dz. nr  9/9,  9/13, 9/14, km 2 obręb Domaszowice",
+    "precinct": "Domaszowice",
+    "parcel_numbers": [
+      "9/9",
+      "9/13",
+      "9/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((419702.68346829945 353175.88207761664,419739.725209051 353027.7151146168,419909.05888105754 353085.923564367,420115.3813770454 353203.6633831775,420255.61082418077 353207.63214111794,420255.61082418077 353219.53841492906,420276.77753318136 353239.38220461924,420271.4858559313 353253.93431704864,420328.3713863634 353296.2677350491,420434.2049313674 353141.4861754887,420432.88201205723 353133.5486596199,420452.72580174817 353138.8403368704,420284.71504905174 353391.5179255493,420295.2984035519 353410.03879592847,420358.7985305545 353406.07003798895,420366.7360464347 353539.6848885603,420353.50685330405 353608.4766928097,420321.756789803 353613.7683700584,420304.55883874214 353654.77886873856,420211.95448685874 353658.74762667995,420210.6315675487 353649.48719148897,420152.42311779666 353649.48719148897,420144.48560192634 353501.3202284882,420082.3083942339 353499.99730917905,420079.8742226939 353467.45349409804,420086.22423539415 353467.45349409897,420086.7534031243 353453.6951332502,420090.98674492433 353453.6951332502,420090.4575771943 353437.29093376733,420062.41168777324 353435.70343059767,420059.7658491431 353374.3199744979,420253.3354029504 353364.2657877207,420270.4804372412 353376.96581311803,420318.05261572293 353306.0573379686,420256.1399918907 353260.01974589936,420138.1355892162 353266.3697585985,419967.2144140296 353322.99070516694,419955.0435563593 353267.4280940462,419703.90055405954 353176.41124534607,419702.68346829945 353175.88207761664))",
+    "site_description": "Przedsiębiorstwo Produkcyjno-Handlowe FERMA-POL Sp. z o.o.  w Zalesiu gm. Domaszowice (dz. nr  9/9,  9/13, 9/14, km 2 obręb Domaszowice"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Pozostałe uprawy rolne inne niż wieloletnie",
+    "current": "Chów i hodowla świń"
+  },
+  "land_holders": [
+    {
+      "name": "Przedsiębiorstwo Produkcyjno-Handlowe FERMA-POL Sp. z o.o.  w Zalesiu gm. Domaszowice",
+      "address": "Przedsiębiorstwo Produkcyjno-Handlowe FERMA-POL Sp. z o.o.  w Zalesiu gm. Domaszowice (dz. nr  9/9,  9/13, 9/14, km 2 obręb Domaszowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "01.46.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,195 - 0,368 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,139 - 0,506 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,136 - 0,807 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,114 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,288 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,276 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "36.6 - 37,3 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-03-02",
+    "legal_basis": "art. 101 m POŚ",
+    "case_reference": "WOOŚ.516.5.2023.ER / WOOŚ.515.1.2025.MO",
+    "decisions": [
+      {
+        "issue_date": "2025-04-14",
+        "reference": "WOOŚ.515.1.2025.MO.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Przedsiębiorstwo Produkcyjno-Handlowe FERMA-POL Sp. z o.o.  w Zalesiu gm. Domaszowice",
+        "address": "Przedsiębiorstwo Produkcyjno-Handlowe FERMA-POL Sp. z o.o.  w Zalesiu gm. Domaszowice (dz. nr  9/9,  9/13, 9/14, km 2 obręb Domaszowice",
+        "economic_activity_code": "01.46.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Wszczęto postępowanie w sprawie zobowiązania do przeprowadzenia remediacji WOOŚ.516.5.2023.ER do 31.12.2023"
+}

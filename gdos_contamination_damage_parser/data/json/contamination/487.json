@@ -1,0 +1,247 @@
+{
+  "registry_id": 487,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3192,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Sienna Grobla, Gdańsk",
+    "precinct": "0091 Gdańsk",
+    "parcel_numbers": [
+      "23/6",
+      "30/7",
+      "18/10 obręb 0091 Miasta Gdańsk"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((478327.5521759399 721182.9147566557,478328.61051139 721214.1356524266,478328.34592753 721220.2210812652,478339.1938658898 721266.2586733457,478366.44600372994 721262.0253315466,478382.05645162 721261.4961638171,478378.88144526986 721224.4544230653,478373.06060028996 721203.5522979256,478367.50433918 721198.260620676,478357.18556853995 721201.700210887,478327.5521759399 721182.9147566557))",
+    "site_description": "teren projektowanych prac położony jest przy ul. Sienna Grobla w Gdańsku - dzielnicy Śródmieście, gm. Gdańsk"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "od XIX w. prowadzona działalność przemysłowa związana z różnymi formami technicznego zabezpieczenia statków na omawianym terenie."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MTC CONSTRUCTIONS Sp. z o.o.",
+      "address": "ul. Jagiellońska 67, 70-382 Szczecin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "252-791 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "227-561 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "224-398 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "20,4-28,6 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "530-1220 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,2 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "60-3110 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,201-1,230 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,902-7,830 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,05-7,10 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,26-8,54 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,299-3,560 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,354-2,780 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,060-3,799 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,096-0,986 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,356-2,610 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,104-0,201 mg/kg s.m.",
+      "area_ha": 0.3192
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1080-1470 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "104-361 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "37,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "319-4640 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "368-518 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "25,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "5,28 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-10-09",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WZS.515.21.2018.DH",
+    "decisions": [
+      {
+        "issue_date": "2019-06-06",
+        "reference": "RDOŚ-Gd-WZS.515.21.2018.DH.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MTC CONSTRUCTIONS Sp. z o.o.",
+        "address": "ul. Jagiellońska 67, 70-382 Szczecin",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2019-01-18",
+    "planned_end": "2020-09-30",
+    "actual_end": "2019-03-23",
+    "method": null,
+    "description": "usunięcie zanieczyszczonego gruntu",
+    "ecological_effect": "wyniki badań potwierdziły, ze stężenia wskaźników we wszystkich pobranych próbkach grunt spełniają wymagani dla gruntów grupy I",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

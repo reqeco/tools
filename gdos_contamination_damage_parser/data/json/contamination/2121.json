@@ -1,0 +1,58 @@
+{
+  "registry_id": 2121,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Jaworzno",
+    "municipality": "b.d.",
+    "address": "ul. Fryderyka Chopina w Jaworznie",
+    "precinct": "165",
+    "parcel_numbers": [
+      "246801_1.0165.3355"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((517862.95 257842.76,517858.87 257833.37,517851.95 257838.26,517823.08 257852.41,517761.77 257876.91,517764.95 257884.32,517823.9 257858.2,517862.95 257842.76))",
+    "site_description": "Teren byłych Zakładów Organika Azot w Jaworznie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pestycydów i pozostałych środków agrochemicznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2023-11-24",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.722.2023.AH",
+    "decisions": [
+      {
+        "issue_date": "2024-11-22",
+        "reference": "WSI.513.722.2023.AH.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Działka została zgłoszona jako działka wchodząca w skład wielkoobszarowego terenu zdegradowanego, na którym jest konieczne podjęcie działań związanych z poprawą stanu środowiska. Teren Zakładów Chemicznych \"Organika-Azot\" w Jaworznie."
+}

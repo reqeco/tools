@@ -1,0 +1,48 @@
+{
+  "registry_id": 93,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "ełcki",
+    "municipality": "Ełk (gmina wiejska)",
+    "address": "Chełchy 20/2, 19-300 Ełk",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": "Teren zajmowany prze Pana(…)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-11-21",
+    "description": "Pismem z dnia 21.11.2007 r., znak: WIOŚ-G/KD-0712/15/07 WIOŚ w Olsztynie zgłosił zanieczyszczenie środowiska gruntowego substancjami ropopochodnymi."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gruntu w wyniku prowadzonej działalności w zakresie nielegalnego demontażu pojazdów wycofanych z eksploatacji na terenie przed budynkiem gospodarczym zajmowanym prze P. (…) w miejscowości Chełchy",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2007-10-26",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

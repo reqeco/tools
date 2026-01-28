@@ -1,0 +1,70 @@
+{
+  "registry_id": 1578,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "sochaczewski",
+    "municipality": "Sochaczew (gmina miejska)",
+    "address": null,
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": "wylot wód opadowych i roztopowych zlokalizowanych przy ul. 15 Sierpnia  w Sochaczewie"
+  },
+  "occurrence_time": {
+    "date": "2022-07-14",
+    "from": null,
+    "to": null,
+    "description": "przed godz. 15.00"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "woda",
+  "event_description": "zanieczyszczenie węglowodorami ropopchodnymi rzeki Pisi z wylotu wód opadowych i roztopowych zlokalizowanych przy ul. 15 Sierpnia  w Sochaczewie, którego właścicielem jest Miasto i gmina Sochaczew. podjęto działania zapobiegawcze w postaci  zaczopowania wylotu kanalizacji deszczowej z pobliskiej stacji paliw i ułożenia balotów słomy",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "mazxowiecki wojewódzki Inspektor Ochrony Środowiska Delegatura WIOŚ w Płocku",
+      "address": "ul. Kolegialna 15 09-402 Płock",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Profit Sp z o.o.",
+      "address": "ul. 15 Sierpnia 87 96-500 Sochaczew.",
+      "economic_activity_code": null
+    },
+    {
+      "name": "Burmistrz Miasta i Gminy Sochaczew",
+      "address": "ul. 1 Maja 16  96 -500 Sochaczew",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie ekologicznym",
+      "substance": "Zawiesina ogólna"
+    },
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie ekologicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2021-10-26",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

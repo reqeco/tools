@@ -1,0 +1,119 @@
+{
+  "registry_id": 1651,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.46,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "kutnowski",
+    "municipality": "Bedlno",
+    "address": "Pniewo k/Bedlna",
+    "precinct": "0028 Pniewo",
+    "parcel_numbers": [
+      "192/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((541169.21876515494659543 481665.03727967402664945, 541181.10071897099260241 481658.49755913199624047, 541195.52399342902936041 481688.39889843697892502, 541201.88710563001222908 481701.24265927099622786, 541170.6649030790431425 481745.24479877401608974, 541160.22772866894956678 481751.47478195000439882, 541160.6059611530508846 481752.08915898599661887, 541164.68796427105553448 481758.94832444202620536, 541145.67645397898741066 481770.25333532597869635, 541142.5421333919512108 481764.72022075799759477, 541118.25580795097630471 481731.95689199998741969, 541116.20023061905521899 481725.65938777400879189, 541119.60341542097739875 481713.01069567102240399, 541122.62113643798511475 481705.74380058399401605, 541171.53695030405651778 481676.60770606598816812, 541171.1971656340174377 481671.53571719501633197, 541169.21876515494659543 481665.03727967402664945))",
+    "site_description": "Stacja Paliw nr 4205"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed kwietniem 2007 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7, Płock 09-411",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "powyżej 50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 1000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "powyżej 1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "powyżej 1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "powyżej 1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "powyżej 1 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-11-19",
+    "legal_basis": "101l ust. 4 ustawy poś",
+    "case_reference": "WSI.515.11.2021.MG",
+    "decisions": [
+      {
+        "issue_date": "2024-02-07",
+        "reference": "WSI.515.11.2021.MG.19",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN Orlen S.A.",
+        "address": "ul. Chemików 7, Płock 09-411",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2024-03-01",
+    "planned_end": "2025-12-31",
+    "actual_end": "2024-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięcie zanieczyszczenia metodą ex-situ",
+    "ecological_effect": "osiągnięto efekt ekologiczny",
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,102 @@
+{
+  "registry_id": 1688,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "świdnicki",
+    "municipality": "Świdnik",
+    "address": "ul. Elektryczna 12, ul. Narzędziowa 3, 21-045 Świdnik",
+    "precinct": "0003 Miasto Świdnik",
+    "parcel_numbers": [
+      "061701_1.0001.1765/193"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((758770.7687866787 380045.91513767093,758766.0627489269 380029.0443549631,758819.606911855 380014.87148244586,758824.2294282021 380031.10004074406,758770.7687866787 380045.91513767093)), ((758792.9192910837 380115.0254302975,758787.5710309363 380098.23816677835,758807.0884945306 380092.05756793637,758811.7686090126 380109.308514948,758792.9192910837 380115.0254302975)), ((758840.7352240403 380100.84401023295,758837.6535340401 380088.1577896811,758840.6285323936 380087.46944804303,758844.2516515766 380099.68334907293,758840.7352240403 380100.84401023295)))",
+    "site_description": "rejon budynku B-18 na terenie Wytwórni Sprzętu Komunikacyjnego „PZL-Świdnik” S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": "2011-01-01",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w środowisku w powierzchni ziemi związana z gromadzeniem odpadów, w tym niebezpiecznych, w obiekcie B-18 i jego najbliższym sąsiedztwie w ramach eksploatacji instalacji wymagającej uzyskania pozwolenia zintegrowanego.",
+  "total_area_ha": 0.139,
+  "reporters": [
+    {
+      "name": "Wytwórnia Sprzętu Komunikacyjnego „PZL-Świdnik” S.A.",
+      "address": "al. Lotników Polskich 1, 21-045 Świdnik",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Wytwórnia Sprzętu Komunikacyjnego „PZL-Świdnik” S.A.",
+      "address": "al. Lotników Polskich 1, 21-045 Świdnik",
+      "economic_activity_code": "30.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "7940 mg/kg s.m.",
+      "area_ha": 0.097
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "38,2 mg/kg s.m.",
+      "area_ha": 0.097
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "669 mg/kg s.m.",
+      "area_ha": 0.042
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2023-02-02",
+    "detection_date": "2022-12-05",
+    "decisions": [
+      {
+        "issue_date": "2023-04-14",
+        "reference": "WSI.511.1.2023.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-04-20",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-05-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "(1) Remediację należy przeprowadzić poprzez usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko, z zastosowaniem metody ex-situ. (2) Po uzyskaniu wyników badań laboratoryjnych próbek gruntów z dna i ścian wykopów, potwierdzających usunięcie zanieczyszczenia w całości metodą ex-situ, powstałe wykopy nie będą wypełnianie czystym gruntem.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Wytwórnia Sprzętu Komunikacyjnego „PZL-Świdnik” S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

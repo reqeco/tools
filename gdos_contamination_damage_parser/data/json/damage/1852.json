@@ -1,0 +1,56 @@
+{
+  "registry_id": 1852,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kościerski",
+    "municipality": "Kościerzyna (gmina wiejska)",
+    "address": "Wdzydze, działka o nr ew. 224/5",
+    "precinct": "Wdzydze",
+    "parcel_numbers": [
+      "224/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((432048.3241504973 682957.3858218631,432066.8450208678 683270.91769893,432373.7623013746 683240.4905547434,432352.5955923741 683155.8237187453,432365.8247855045 682922.9899197426,432254.69956325216 682948.1253866842,432211.043225941 682932.2503549345,432135.63682511926 682944.1566287419,432125.05347061914 682956.0629025521,432125.05347061914 682957.3858218631,432048.3241504973 682957.3858218631))",
+    "site_description": "Siedlisko przyrodnicze, o znaczeniu priorytetowym [7110 – torfowiska wysokie z roślinnością torfotwórczą (żywe)],"
+  },
+  "occurrence_time": {
+    "date": "2022-01-13",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w środowisku, w siedlisku przyrodniczym, o znaczeniu priorytetowym [7110 – torfowiska wysokie z roślinnością torfotwórczą (żywe)], na skutek zasypania odpadami w postaci mas ziemnych",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Pomorski Zespół Parków Krajobrazowych",
+      "address": "Wdzydzki Park Krajobrazowy ul. Świętojańska 5E, 83-400 Kościerzyna",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

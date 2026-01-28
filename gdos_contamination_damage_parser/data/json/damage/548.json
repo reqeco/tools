@@ -1,0 +1,70 @@
+{
+  "registry_id": 548,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "radomski",
+    "municipality": "Pionki (gmina wiejska)",
+    "address": "Puborskie Łąki",
+    "precinct": null,
+    "parcel_numbers": [
+      "239",
+      "240/1",
+      "240/3",
+      "243"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((667932.4788321342 407913.16238956805,667999.9477173153 407967.4020813778,668048.8957320449 407959.46456550807,668099.1666661038 407984.6000324469,668218.2294046355 407935.65201787837,668268.5003386774 407807.32884456683,668384.9172385831 407766.3183458764,668367.7192874404 407663.1306395065,668328.0317079313 407672.3910746863,668215.5835659679 407603.599270436,668157.375115999 407476.59901643824,668181.1876636927 407393.2550997576,668079.3228762624 407271.54652300756,668122.9792137104 407147.1921076281,668406.0839475703 407014.90017637704,668342.5309035628 406901.12911549583,668241.9890354669 406967.27508112695,668077.947040161 407128.67123724706,667956.2384629895 407149.8379462501,667821.3006926659 407364.15087488014,667919.1967221448 407448.8177108802,667943.0092698523 407488.50529024843,667985.3426880025 407514.96367650013,668046.1969766011 407570.5262876274,668046.1969766117 407663.13063949905,668154.6763606159 407705.4640574977,668178.4889083343 407747.79747549817,668157.3221992649 407790.13089349866,667932.4788321342 407913.16238956805))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "2013 rok"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "szkoda w gatunkach chronionych i siedliskach powstała w wyniku odmulania rowów i cieku wodnego na obiekcie Puborskie Łąki, gm. Pionki",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Spółka dla zagospodarowania Wspólnoty Gruntowej Rolnej wsi Augustów",
+      "address": "Augustów Augustów 99",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2013-02-01",
+    "decisions": [
+      {
+        "issue_date": "2015-11-17",
+        "reference": "WSI.510.3.2013.WM.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2017-04-01",
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,242 @@
+{
+  "registry_id": 1011,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6834,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "Gdańsk, ul. Wałowa 35",
+    "precinct": "0081",
+    "parcel_numbers": [
+      "207/1",
+      "208"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((477686.2934975798 721711.4871727768,477762.4936499798 721717.3080177531,477724.3935737799 721617.8244854556,477723.86440604983 721609.8869695747,477660.89344677987 721628.4078399539,477686.82266529993 721710.4288373245,477686.2934975798 721711.4871727768))",
+    "site_description": "Teren działek znajduje się na obszarze, na którym w przeszłości zlokalizowana była II gazownia w Gdańsku. Na terenie znajdował się do niedawna zbiornik gazowni, który później był wykorzystywany jako magazyn, na terenie działała tez fabryka okien. Aktualnie zbiornik i znajdujący się tam budynek zostały wyburzone."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Gazownię uruchomiono 14.11.1904r. Do roku 1910 gazownia II wspomagała gazownię I, a w 1913 stała się gazownią główną. W 1945 gazownia uległa częściowemu zniszczeniu ale wszystkie uszkodzenia usunięto. Od 1973 wprowadzono do użycie\\a gaz ziemny. Proces przystosowania sieci i urządzeń gazowych u odbiorców ukończono w 1991 r., wyłączenie gazowni nastąpiło w 1994 r. Na terenie znajdował się zbiornik gazowni, który później był wykorzystywany jako magazyn, działała tez fabryka okien.. Aktualnie zbiornik i budynek zostały wyburzone, z terenu usunięto częściowo powierzchnie utwardzone i fundamenty zbiornika."
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Dystrybucja paliw gazowych w systemie sieciowym",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "Wałowa 35 Sp. z o.o. spółka komandystowa",
+      "address": "ul. Hutnicza 3, 81-212 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "207/1",
+        "208"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "mg/kg s.m .57,3",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "mg/kg s.m.1390",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "mg/kg s.m.554",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.994",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "mg/kg s.m.1117",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzen",
+      "concentration": "mg/kg s.m.0.105",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "mg/kg s.m.0,144",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "mg/kg s.m.0,74",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "mg/kg s.m.7,15",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "mg/kg s.m.22,62",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "mg/kg s.m.23,74",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "mg/kg s.m.1,93",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "mg/kg s.m.19,64",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.26,16",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "mg/kg s.m.7,67",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "mg/kg s.m.9,08",
+      "area_ha": 0.6834
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.604",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "mg/kg s.m.341",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "mg/kg s.m.316",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "mg/kg s.m.917",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "mg/kg s.m.870",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "mg/kg s.m.3,14",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "mg/kg s.m.1690",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-04",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2018 r. poz. 2096, ze zm)",
+    "case_reference": "RDOŚ-Gd-WZS.515.21.2019.IK",
+    "decisions": [
+      {
+        "issue_date": "2020-02-24",
+        "reference": "RDOŚ-Gd-WZS.515.21.2019.IK.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "nie było",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Wałowa 35 Sp. z o.o. spółka komandystowa",
+        "address": "ul. Hutnicza 3, 81-212 Gdynia",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2020-01-01",
+    "planned_end": "2020-05-31",
+    "actual_end": "2020-05-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja polegać będzie na: Zastosowaniu metody ex situ, tj. usunięciu zanieczyszczonego gruntu, do głębokości, jaka zapewni, że pozostawiana warstwa gruntu będzie się cechowała parametrami zanieczyszczeń nie przekraczającymi dopuszczalnych norm dla obszaru grupy gruntów I (wg rozporządzenia Ministra Środowiska z dnia 01 września 2016 r., w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi – Dz. U. z 2016 r., poz. 1395). Wierzchnia warstwa gruntu (głębokość 0,00-0,25 m) zostanie usunięta z powierzchni około 6834 m2 ww. działek (łącznie około 13 000 m3, tj. około 20 800 Mg). Zanieczyszczona warstwa gruntu zostanie po wydobyciu zagospodarowana, jako odpad, zgodnie z ustawą z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2019 r., poz. 701, ze zm.).",
+    "ecological_effect": "Otrzymane wyniki badań próbek gruntu pobranych po przeprowadzeniu remediacji ostatecznie potwierdziły brak przekroczenia dopuszczalnych zawartości substancji powodujących ryzyko dla gruntów grupy I - zgodnie z Rozporządzeniem Ministra Środowiska z dnia 1 wrześnie 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz.U. z 2016 r. poz. 1395)",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Wałowa 35 Sp. z o.o. spółka komandystowa"
+}

@@ -1,0 +1,60 @@
+{
+  "registry_id": 696,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Pszczółki",
+    "address": "ul. Gdańska 32\tPszczólki\t83-032",
+    "precinct": "0003 Pszczółki",
+    "parcel_numbers": [
+      "127/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((479439.92 701703.02,479483.73 701717.49,479500.50 701709.03,479540.85 701652.28,479495.31 701643.75,479440.27 701703.37,479439.92 701703.02))",
+    "site_description": "stacja paliw ORLEN"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "PKN ORLEN SA ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "127/4"
+      ],
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.123.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.123.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

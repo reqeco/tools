@@ -1,0 +1,161 @@
+{
+  "registry_id": 1719,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.179,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Al. Prymasa Tysiąclecia",
+    "precinct": "6-05-06",
+    "parcel_numbers": [
+      "10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((633728.1189335346 486078.3909058338,633737.9085364528 486019.9178722231,633751.4023134557 486005.63034365047,633756.9585745706 485985.2573862318,633781.0357060846 485990.2844796218,633807.7586762216 486006.4240952311,633802.4669989675 486051.6679357225,633760.9273325178 486102.2034534626,633737.6439525941 486085.7992539825,633735.7918655523 486078.9200735623,633728.1189335346 486078.3909058338))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ETOB Warszawa sp. z o.o.",
+      "address": "Al. Prymasa Tysiąclecia 48A 01-242 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-09-22",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.46.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2022-12-06",
+        "reference": "WOOŚ-IV.515.46.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ETOB Warszawa sp. z o.o.",
+        "address": "Al. Prymasa Tysiąclecia 48A 01-242 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-06-01",
+    "planned_end": "2024-12-31",
+    "actual_end": "2025-04-10",
+    "method": null,
+    "description": null,
+    "ecological_effect": "Efekt ekologiczny osiągnięto",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

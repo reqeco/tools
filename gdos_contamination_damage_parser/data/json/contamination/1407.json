@@ -1,0 +1,101 @@
+{
+  "registry_id": 1407,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.005,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Brwinów",
+    "address": "ul. Warszawska 21, Kanie",
+    "precinct": "7",
+    "parcel_numbers": [
+      "17/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((621596.4461191664 476971.6789426347,621555.700204324 476969.0331040034,621556.758539775 477018.7748701535,621584.2752614903 477018.2457024334,621583.2169260412 477132.5459310347,621712.3338510126 477120.3750733519,621710.7463478302 477007.13318020385,621636.662866289 477009.24985110294,621625.0211763326 476998.6664966028,621596.4461191664 476971.6789426347))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Komepol sp z o. o.",
+      "address": "ul. Warszawska 21, 05805 Kanie",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "17/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.005
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-13",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "WOOŚ-IV.515.7.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-08-17",
+        "reference": "WOOŚ-IV.515.7.2021.DŚc.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-02-15",
+        "reference": "WOOŚ-IV.515.7.2021.DŚc.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art.155 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Komepol sp z o. o.",
+        "address": "ul. Warszawska 21, 05805 Kanie",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-09-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-08-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "Zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

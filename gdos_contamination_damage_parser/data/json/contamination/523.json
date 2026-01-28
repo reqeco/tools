@@ -1,0 +1,132 @@
+{
+  "registry_id": 523,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 10.6,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Gdańska 34 Szczecin",
+    "precinct": null,
+    "parcel_numbers": [
+      "4 obręb 1093",
+      "43 oraz 61 obręb 1084"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((206957.79890059301396832 625094.29382401995826513, 206937.68382730399025604 625071.45187182794325054, 206919.27598790801130235 625050.6960460830014199, 206879.66620280899223872 625006.44085560797248036, 206860.34116697098943405 625022.52370351098943502, 206844.22295612099696882 625035.74821472505573183, 206842.78278295800555497 625036.94789658696390688, 206830.92771171199274249 625046.84563258802518249, 206824.31331970600876957 625038.34772357298061252, 206810.86936125700594857 625048.80351130897179246, 206817.451161648001289 625057.28242234594654292, 206813.71769854499143548 625060.49501192395109683, 206806.26225620100740343 625066.60908115294296294, 206790.92934522000723518 625079.14387453102972358, 206779.8127220009919256 625088.34598494600504637, 206736.49671875999774784 625123.66441306099295616, 206743.07528840401209891 625131.99753746401984245, 206907.15782908801338635 625339.2610974139533937, 206914.72157830800279044 625339.23467348096892238, 206958.42027090900228359 625394.35432872700039297, 206969.55301224999129772 625408.81280352198518813, 206971.61845166000421159 625413.64845292596146464, 206971.99483738699927926 625419.70907824800815433, 207006.11427772100432776 625419.29726608702912927, 207007.11562325101112947 625419.29631404799874872, 207009.8354771209997125 625419.23061812203377485, 207018.5837332830124069 625419.14868257194757462, 207081.83151327600353397 625418.51212343701627105, 207085.98305058298865333 625418.39140960096847266, 207088.3731553970137611 625418.14650172798428684, 207125.51401997799985111 625417.98874735098797828, 207170.15252283398876898 625412.49022428900934756, 207175.72264863998861983 625411.5662433149991557, 207187.1773293960141018 625410.29940501099918038, 207245.80365627800347283 625403.08698179898783565, 207250.45310216100187972 625398.4651792380027473, 207307.68792019301326945 625388.2867677960311994, 207306.28535901199211366 625385.31447509105782956, 207301.62416595598915592 625375.43735423998441547, 207245.13237309799296781 625387.17238990298938006, 207216.07209429299109615 625272.55490151094272733, 207160.07523160200798884 625303.05111919098999351, 207134.0168289820139762 625275.70940475398674607, 207164.9549273659940809 625239.82682573096826673, 207164.65131498299888335 625234.87135604594368488, 207171.42822890999377705 625231.73711921903304756, 207175.51891666601295583 625226.79957759601529688, 207116.95321923599112779 625192.14263083098921925, 207115.29413719300646335 625186.84388191404286772, 207068.71032432399806567 625159.18779050500597805, 207035.43916393199469894 625139.30869382794480771, 207029.47922801598906517 625141.53183678898494691, 206982.16315462699276395 625113.31799832405522466, 206968.33684993800125085 625097.95302761800121516, 206964.27617999698850326 625101.54658323398325592, 206957.79890059301396832 625094.29382401995826513))",
+    "site_description": "Baza ORLEN, teren przemysłowy, teren portowy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1997-12-31",
+    "description": "magazynowanie i dystrybucja oleju opałowego"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": "Magazynowanie i przechowywanie paliw gazowych"
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN PALIWA Sp. z o.o.",
+      "address": "ul. Zglenickiego 44, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "52.10.A"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "wolna faza produktu ropopochodnego na zwierciadle wody gruntowej oraz forma związana w gruncie",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "wolna faza produktu ropopochodnego na zwierciadle wody gruntowej oraz forma związana w gruncie",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-01-19",
+    "legal_basis": "101 l ust. 4 POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-02-09",
+        "reference": "WONS-NS.515.1.2017.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-05-12",
+        "reference": "WONS-NS.515.2.2022.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-05-12",
+        "reference": "WONS.515.2.2022.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-05-17",
+        "reference": "WONS-NS.515.7.2021.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-27",
+        "reference": "WONS.515.2.2022.AS.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-05-27",
+        "reference": "WONS.515.2.2022.AS.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ORLEN PALIWA Sp. z o.o.",
+        "address": "ul. Zglenickiego 44, 09-411 Płock",
+        "economic_activity_code": "52.10.A"
+      }
+    ],
+    "planned_start": "2022-06-01",
+    "planned_end": "2034-04-30",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "I etap remediacji powierzchni ziemi polegający na sczerpywaniu wolnego produktu. II etap remediacji powierzchni ziemi polegający na zastosowaniu metody ex situ (rozpoczęcie 16.10.2023 r.)",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

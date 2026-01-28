@@ -1,0 +1,109 @@
+{
+  "registry_id": 906,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3244,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Toruń",
+    "municipality": "Toruń",
+    "address": null,
+    "precinct": "obręb 0049 i 0043",
+    "parcel_numbers": [
+      "116/5 i 117/8 obręb 0049",
+      "713 obręb 0043"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((475779.5167640499 574493.840826218,475791.68762171984 574321.3321478702,475799.62513759977 574315.5113028893,475810.2084920998 574264.7112012869,475850.4252391998 574263.1236981172,475851.4835746499 574298.5779356882,475874.76695454994 574326.623825117,475892.7586571998 574328.2113282885,475928.2128947699 574331.9155023685,475916.5712048198 574491.7241553189,475909.6920243998 574499.1325034704,475902.2836762499 574504.4241807181,475882.1753026999 574518.7117092973,475877.94196089986 574514.4783674991,475860.47942596994 574518.1825415669,475820.26267886994 574510.2450256981,475779.5167640499 574493.840826218))",
+    "site_description": "Tereny przemysłowe Zakładu NOMET (obróbka metali; galwanizernia)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Pierwsze obiekty produkcyjne Zakładu Nomet Sp. z o.o. przy ul. Kanałowej 40-42 w Toruniu zaczęły powstawać od 1995 roku"
+  },
+  "land_owner": "osoba fizyczna, osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": "Produkcja opakowań z tworzyw sztucznych"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "116/5 i 117/8 obręb 0049",
+        "713 obręb 0043"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1280 mg/kg s.m.",
+      "area_ha": 0.006
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "2530 mg/kg s.m.",
+      "area_ha": 0.006
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "984 mg/kg s.m.",
+      "area_ha": 0.3184
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "5,09 mg/kg s.m.",
+      "area_ha": 0.0001
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-06-06",
+    "legal_basis": "art. 101l ust. 2 Poś, art. 61 § 4 Kpa",
+    "case_reference": "WSS.515.9.2019.BW",
+    "decisions": [
+      {
+        "issue_date": "2019-10-15",
+        "reference": "WSS.515.9.2019.BW.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-04-01",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Teren punktowo zanieczyszczony rtęcią pozostawia się do samooczyszczenia.  Usunięcie  gruntów zanieczyszczonych cynkiem na powierzchni obejmującej ok. 3 184 m2 do głębokości min. 2 m p.p.t.  Usunięcie  gruntów zanieczyszczonych cynkiem i miedzią na powierzchni obejmującej ok. 60 m2 do głębokości 0,25 m p.p.t.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

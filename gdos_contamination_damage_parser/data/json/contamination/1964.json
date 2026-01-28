@@ -1,0 +1,92 @@
+{
+  "registry_id": 1964,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.29,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Wschodu Słońca",
+    "precinct": "2-07-21",
+    "parcel_numbers": [
+      "25/5",
+      "25/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((632472.4171499996 483386.77927267645,632472.946317729 483335.58229528554,632550.8662653016 483336.640630736,632544.7808364667 483363.76047663577,632472.4171499996 483386.77927267645))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska sp. z o.o.",
+      "address": "Rondo ONZ 1 - 24 piętro 00-124 Warszawa",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 0.29
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dieldryna",
+      "concentration": null,
+      "area_ha": 0.29
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-12-19",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.1.2024.MTo",
+    "decisions": [
+      {
+        "issue_date": "2024-02-06",
+        "reference": "WOOŚ-IV.515.1.2024.MTo.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska sp. z o.o.",
+        "address": "Rondo ONZ 1 - 24 piętro 00-124 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-02-15",
+    "planned_end": "2024-12-15",
+    "actual_end": "2024-08-27",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "Efekt ekologiczny osiągnięto.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

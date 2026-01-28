@@ -1,0 +1,122 @@
+{
+  "registry_id": 730,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0113,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "lubaczowski",
+    "municipality": "Wielkie Oczy",
+    "address": "37-626 Łukawiec 5a",
+    "precinct": "nr 0004 Łukawiec",
+    "parcel_numbers": [
+      "180908_2.0004.2408/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((792084.4840605845 254307.02719037794,792106.8413987039 254305.7042710986,792107.8997340081 254252.65520666447,792069.2704870696 254251.72916307207,792069.9319468156 254262.04793371446,792084.484060585 254307.1594823068,792084.4840605845 254307.02719037794))",
+    "site_description": "inne tereny zabudowane Bi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": "Sprzedaż hurtowa paliw i produktów pochodnych",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "180908_2.0004.2408/1"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "26,5 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "49,5 - 66,0 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,155 - 3,30 mg/kg s.m.",
+      "area_ha": 0.01
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "245 mg/kg s.m.",
+      "area_ha": 0.0013
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1457 mg/kg s.m.",
+      "area_ha": 0.0013
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-03-17",
+    "legal_basis": "art. 61 § 1 i § 4 Kpa oraz art. 101m ust. 1 pkt 2 Poś",
+    "case_reference": "WSI.515.1.2021.KN/JW",
+    "decisions": [
+      {
+        "issue_date": "2019-04-05",
+        "reference": "WSI.513.33.2018.AF.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-02-14",
+        "reference": "WSI.515.1.2021.JW.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Teren byłej stacji paliw Sprawa znak: WSI.513.33.2018.AF - wpis o potencjalnym historycznym zanieczyszczeniu powierzchni ziemi do rejestru historycznych zanieczyszczeń powierzchni ziemi WSI.515.1.2021.KN - nałożenie obowiązku przeprowadzenia remediacji historycznego zanieczyszczenia powierzchni ziemi - zwolniono władającego powierzchnią ziemi z obowiązku przeprowadzenia remediacji"
+}

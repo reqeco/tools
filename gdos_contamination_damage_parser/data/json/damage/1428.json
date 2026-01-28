@@ -1,0 +1,64 @@
+{
+  "registry_id": 1428,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "bełchatowski",
+    "municipality": "Kleszczów",
+    "address": "Rogowiec ul. Instalacyjna 22",
+    "precinct": "Rogowiec",
+    "parcel_numbers": [
+      "1060/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((521268.7085132702 378481.9883159334,521271.88351962005 378484.7664464917,521279.1595758401 378485.0310303513,521281.80541446013 378581.7364321016,521103.87276693014 378583.0593514126,521106.7831894201 378481.723732071,521268.7085132702 378481.9883159334))",
+    "site_description": "teren przemysłowy, na którym składowane są odpady"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "w trakcie 2017 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby spowodowane nielegalnym magazynowaniem odpadów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ w Łodzi, Delegatura w Piotrkowie Tryb.",
+      "address": "ul. Bawełniana 18, 97-300 Piotrków Tryb.",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PLASTIKS z siedzibą w Bytomiu",
+      "address": "ul. Północna 70, 97-400 Bytom",
+      "economic_activity_code": "38.21.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">10 000 mg/kg sm.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2022-02-01",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

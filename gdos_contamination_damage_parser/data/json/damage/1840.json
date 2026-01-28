@@ -1,0 +1,71 @@
+{
+  "registry_id": 1840,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "węgorzewski",
+    "municipality": "Węgorzewo",
+    "address": "Prynowo 27, 11-600 Węgorzewo",
+    "precinct": "0018 Prynowo",
+    "parcel_numbers": [
+      "281903_5.0018.254"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "na terenie posesji prowadzono nielegalny demontaż pojazdów wycofanych z eksploatacji"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "07.09.2022 r. przedstawiciele Głównego Inspektoratu Ochrony Środowiska Centralnego Laboratorium Badawczego Oddział w Olsztynie Pracownia w Olsztynie pobrali z części działki nr 254 obręb 0018 Prynowo, gmina Węgorzewo 3 zbiorcze próbki gleby do analiz laboratoryjnych. Analizy wykazały we wszystkich badanych próbkach gruntu ponadnormatywne zawartości węglowodorów C12-C35, składników frakcji oleju."
+  },
+  "land_surface_holder": "osoba fizyczna, osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby w następstwie prowadzenia demontażu pojazdów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Warmińsko-Mazurski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "Delegatura w Giżycku ul. Łuczańska 5, 11-500 Giżycko",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Albert Barszcz",
+      "address": "Prynowo 27 11-600 Węgorzewo",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">3000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2500 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-01-04",
+    "detection_date": "2023-09-07",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

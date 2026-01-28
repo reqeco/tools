@@ -1,0 +1,84 @@
+{
+  "registry_id": 2145,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina wiejska)",
+    "address": null,
+    "precinct": "Szklary Górne",
+    "parcel_numbers": [
+      "816",
+      "484/710",
+      "obręb Szklary Górne"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((303824.46200075617525727 401295.20850490219891071, 303822.64039447205141187 401285.69597949832677841, 303839.31162588088773191 401284.78470689430832863, 303840.04828392411582172 401298.26145002245903015, 303824.46200075617525727 401295.20850490219891071)),((303877.33183093986008316 401317.24993112962692976, 303876.75084130128379911 401315.77979932632297277, 303876.06841761863324791 401316.11747962608933449, 303877.33183093986008316 401317.24993112962692976)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2024-04-07",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Państwowe Gospodarstwo Leśne Lasy Pastwowe Nadleśnictwo Lubin), podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "organ ochrony środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Awaria rurociągu",
+  "total_area_ha": 0.0184,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A. Odział Hydrotechniczny",
+      "address": "ul. Polkowicka 52",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1422mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "407mg/kg s.m.",
+      "area_ha": 0.0184
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2025-01-03",
+    "detection_date": "2022-04-07",
+    "decisions": [
+      {
+        "issue_date": "2024-12-20",
+        "reference": "WSI.511.2.2024.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2025-01-01",
+    "planned_end": "2025-02-28",
+    "actual_end": "2025-02-26",
+    "method": null,
+    "description": "metoda ex-situ, a potem utylizacja zanieczyszczonego gruntu",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": "WSI.511.2.2024.MR"
+}

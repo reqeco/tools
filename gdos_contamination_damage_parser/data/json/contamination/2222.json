@@ -1,0 +1,92 @@
+{
+  "registry_id": 2222,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.3922,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "Białystok",
+    "municipality": "Białystok",
+    "address": null,
+    "precinct": "obręb 13 Białostoczek Płn.",
+    "parcel_numbers": [
+      "191",
+      "192/2",
+      "192/3",
+      "192/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((778636.3176119726 595518.4472036064,778717.8094501055 595666.0849991255,778822.5846691013 595582.4764988422,778942.7057537083 595518.447204439,778871.7972711346 595388.8011115892,778871.7972711378 595389.3302793112,778636.3176119726 595518.4472036064))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "REDKOM Park Białystok Sp. z o.o.",
+      "address": "ul. Słoneczna 116A  05-500 Stara Iwiczna",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "163,0 mg/kg s.m.",
+      "area_ha": 1.169
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,197 mg/kg s.m.",
+      "area_ha": 0.11
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1200 mg/kg s.m.",
+      "area_ha": 0.1132
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-06-18",
+    "legal_basis": "art. 101 l ust 4 ustawy z dnia 27 kwietnia 2021 r. Prawo ochrony środowiska",
+    "case_reference": "WPN.515.2.2025.KP2",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 2 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "REDKOM Park Białystok Sp. z o.o.",
+        "address": "ul. Słoneczna 116A  05-500 Stara Iwiczna",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Działalność prowadzona na tym terenie: Fabryka przyrządów i uchwytów"
+}

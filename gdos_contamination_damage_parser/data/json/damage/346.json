@@ -1,0 +1,111 @@
+{
+  "registry_id": 346,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "poznański",
+    "municipality": "Murowana Goślina",
+    "address": "Głębocko, 62-095 Murowana Goślina Głębocko 8A",
+    "precinct": null,
+    "parcel_numbers": [
+      "71/1",
+      "obręb Głębocko"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((369091.1930866024 526590.2125551896,369011.5533439209 526506.0748869088,369073.4659677992 526458.1852078019,369104.42227973766 526470.6206493415,369136.1723432677 526426.9643120207,369206.8162346206 526516.922825274,369091.1930866024 526590.2125551896))",
+    "site_description": "Teren firmy \"ILT\" (…)"
+  },
+  "occurrence_time": {
+    "date": "2010-06-12",
+    "from": null,
+    "to": null,
+    "description": "Do zanieczyszczeni gleby doszło w związku z pożarem, który miał miejsce 12.06.2010 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu powierzchni ziemi w wyniku pożaru do jakiego doszło na terenie \"ILT\" (…) we wsi Głębocko, gm.Murowana Goślina",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "\"ILT\" (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fenantren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-10-19",
+    "detection_date": "2010-06-12",
+    "decisions": [
+      {
+        "issue_date": "2011-01-18",
+        "reference": "RDOŚ-30-SI.I-66192-89/10/mdk, WSI-I.511.5.2011.MDK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-01-01",
+    "planned_end": "2011-01-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania naprawcze prowadzone metodą ex-situ poprzez wydobycie zanieczyszczonych gruntów, miejsca po wydobyciu zasypane czystym gruntem.",
+    "ecological_effect": "Osiągnięto wymagane standardy.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

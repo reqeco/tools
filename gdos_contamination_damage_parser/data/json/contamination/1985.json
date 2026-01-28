@@ -1,0 +1,220 @@
+{
+  "registry_id": 1985,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.055,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Chłodnej 35/37 i 39",
+    "precinct": "6-01-04",
+    "parcel_numbers": [
+      "62/16",
+      "62/17",
+      "62/10",
+      "62/34",
+      "62/19",
+      "62/28",
+      "63/15",
+      "63/16",
+      "63/18",
+      "63/2",
+      "63/13",
+      "62/31",
+      "63/22",
+      "62/27",
+      "62/29",
+      "63/21",
+      "63/12",
+      "63/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635668.616670722 487483.7280914504,635677.2156462604 487461.2384631401,635565.1643803684 487415.73003879096,635556.6976967598 487436.89674779214,635668.616670722 487483.7280914504))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Archicom Nowy Mokotów sp. z o.o. sp.k.",
+      "address": "ul. Powstańców Śląskich 9 53-332 Wrocław",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "Archicom Senja 2 Sp. z o.o.",
+      "address": "ul. Powstańców Śląskich 9 53-332 Wrocław",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": 0.046
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.046
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.046
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.046
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.046
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.046
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": 0.046
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-08-23",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.39.2023.AGi",
+    "decisions": [
+      {
+        "issue_date": "2024-04-30",
+        "reference": "WOOŚ-IV.515.39.2023.AGi.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Archicom Nowy Mokotów sp. z o.o. sp.k.",
+        "address": "ul. Powstańców Śląskich 9 53-332 Wrocław",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Archicom Senja 2 Sp. z o.o.",
+        "address": "ul. Powstańców Śląskich 9 53-332 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-05-01",
+    "planned_end": "2028-12-31",
+    "actual_end": "2024-07-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "efekt ekologiczny osiągnięto",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

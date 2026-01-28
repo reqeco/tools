@@ -1,0 +1,199 @@
+{
+  "registry_id": 1802,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.54,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Legionów w Elblągu",
+    "precinct": "0005 miasto Elbląg",
+    "parcel_numbers": [
+      "286101_1.0005.795"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((527587.1456185706 701929.9813391687,527580.0018542805 701821.7665393976,527663.3457709705 701815.151942838,527715.4687918805 701854.8395222174,527682.3958090703 701857.7499446981,527693.7729151606 701928.3938359879,527601.4331471504 701945.5917870477,527587.4102024304 701931.0396746192,527587.1456185706 701929.9813391687))",
+    "site_description": "Dawne zaplecze Elektrowni Elbląg dla składu zużytych linii trakcyjnych oraz transformatorów"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Zaplecze elektrowni powstało pod koniec lat 90. XX wieku. W 2010 r. na działce znajdowały się już pozostałości po zapleczu elektrowni."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "MDR Inwestycje 12 Sp. z o.o. z siedzibą w Warszawie",
+      "address": "ul. Przeskok 2, 00-032 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "286101_1.0005.795"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "410-527 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "614 i 546 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "21-231 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "203-537 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "219-847 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "37,5-1950 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "422-744 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "359-942 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "501 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "37,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "65,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "156-382 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "464 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "102-499 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "870 i 10000mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "3,2 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-02-27",
+    "legal_basis": "art. 101e ust. 1 Poś",
+    "case_reference": "WSI.513.6.2023.KPi",
+    "decisions": [
+      {
+        "issue_date": "2023-03-21",
+        "reference": "WSI.513.6.2023.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101 c ust. 3 pkt 3 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-03-24",
+        "reference": "WSI.515.3.2023.KPi.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MDR Inwestycje 12 Sp. z o.o. z siedzibą w Warszawie",
+        "address": "ul. Przeskok 2, 00-032 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-03-30",
+    "planned_end": "2023-10-31",
+    "actual_end": "2023-06-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja będzie prowadzona metodą ex-situ, która polega na wydobyciu zanieczyszczonego gruntu z miejsca jego występowania i przekazaniu go uprawnionemu podmiotowi zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, z późn. zm.). Na głębokości 0-0,25 m ppt grunt wymagający remediacji zajmuje powierzchnię 4994 m2. Na głębokości przekraczającej 0,25 m ppt grunt wymagający remediacji zajmuje powierzchnię 1433 m2. Łącznie z terenu nieruchomości zostanie wydobyte 3952 m3 zanieczyszczonego gruntu. Przyjmując jego średnią gęstość równą 1,7 Mg/m3, masa zanieczyszczonego gruntu wynosi około 6718 Mg (3952 m3 x 1,7 Mg/m3).",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać dopuszczalnym zawartościom substancji powodujących ryzyko, określonym w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy I i głębokości przekraczającej 0,25 m ppt. Jak wynika z przedłożonej dokumentacji powykonawczej (pismo z 05.07.2023 r.) prace remediacyjne ex situ zostały wykonane zgodnie z ustalonym planem remediacji, a przekazane wyniki analiz próbek gleby i ziemi, pobranych z dnia i ścian wykopów po wybraniu zanieczyszczonego gruntu, potwierdzają osiągnięcie ww. efektu ekologicznego. Potwierdzeniem przekazania zanieczyszczonego gruntu (odpadów) uprawnionym odbiorcom są załączone do dokumentacji karty przekazania odpadu.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

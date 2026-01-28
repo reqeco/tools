@@ -1,0 +1,156 @@
+{
+  "registry_id": 1533,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.0624,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "wołomiński",
+    "municipality": "Kobyłka",
+    "address": "ul. Gospodarcza Kobyłka",
+    "precinct": "01",
+    "parcel_numbers": [
+      "4/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636018.3568496248 481817.1355082672,636117.3112143129 481818.7230114369,636114.1362079616 481891.2189897662,636014.652675553 481885.92731251754,636018.3568496248 481817.1355082672))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "CTP Invest Poland sp.z o.o.",
+      "address": "Al. Korfantego 2 40-004 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "4/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.8875
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.8875
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.8875
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.8875
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.8875
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.8875
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.8875
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.1749
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.1749
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.1749
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.1749
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-11-05",
+    "legal_basis": "art.101l",
+    "case_reference": "WOOŚ-IV.515.74.2021",
+    "decisions": [
+      {
+        "issue_date": "2022-01-31",
+        "reference": "WOOŚ-IV.515.74.2021.PBu.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "CTP Invest Poland sp.z o.o.",
+        "address": "Al. Korfantego 2 40-004 Katowice",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-02-28",
+    "planned_end": "2022-04-30",
+    "actual_end": "2021-03-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

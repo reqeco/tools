@@ -1,0 +1,144 @@
+{
+  "registry_id": 1873,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.0816,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Włocławek",
+    "municipality": "Włocławek",
+    "address": "Ul. Płocka 1a 87-800 Włocławek",
+    "precinct": "KM 89",
+    "parcel_numbers": [
+      "1/19",
+      "2/20"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((506231.49892050005 532355.4121791618,506270.1281644199 532344.9611165915,506356.25021165994 532322.0746124927,506354.2658327001 532317.1798110316,506267.3500338601 532339.007979692,506242.87602657994 532344.564240804,506227.2655787 532346.8132036328,506231.23433663 532355.1475953022,506231.49892050005 532355.4121791618))",
+    "site_description": "Teren, na którym w przeszłości funkcjonował przemysł papierniczy - Zakłady Celulozowo-Papiernicze im. Juliana Marchlewskiego przy ulicy Łęgskiej we Włocławku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": "Produkcja papieru i tektury",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Prezydent Miasta Włocławka",
+      "address": "ul. Zielony Rynek 11/13 87-800 Włocławek",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "1/19",
+        "2/20"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "74,0 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,709 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,08 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "3,16 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,65 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "4,68 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,73 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "2,47 mg/kg s.m.",
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "2,69 mg/kg s.m.",
+      "area_ha": 0.0315
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-08-07",
+    "legal_basis": "101c ust. 3 pkt 1 POŚ",
+    "case_reference": "WSS.513.1.2023.BW",
+    "decisions": [
+      {
+        "issue_date": "2023-08-21",
+        "reference": "WSS.513.1.2023.BW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": null,
+        "name": null,
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Gmina Miasta Włocławek"
+}

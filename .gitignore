@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+dist/
+*.egg-info/
+
+# Generated data
+data/json/
+
+# Devbox
+.devbox/
+
+# Claude
+.claude/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/

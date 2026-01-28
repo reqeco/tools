@@ -1,0 +1,76 @@
+{
+  "registry_id": 1682,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": null,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Ujastek",
+    "precinct": "20 Nowa Huta",
+    "parcel_numbers": [
+      "126103_9.0020.1/70"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((577535.0838207473 247057.69515667018,577640.9173657503 247138.12865086924,577644.6215398303 247139.4515701793,577655.9986459208 247137.07031541876,577664.200745651 247125.42862546816,577654.1465588808 247099.49940693937,577642.5048689303 247080.18478497863,577574.5068162585 247029.9138511084,577552.2817718079 247034.4117767699,577535.0838207473 247057.69515667018))",
+    "site_description": "działka na terenie Huty Arcelor Mittal Poland S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres działalności Huty ArcelorMittal Poland S.A, (dawniej Kombinat Metalurgiczny Huta im. Lenina, Huta im. T. Sendzimira), tj. od lat 50-tych XX wieku"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych"
+  },
+  "land_holders": [
+    {
+      "name": "ArcelorMittal Poland S.A",
+      "address": "ul. T. Sendzimira 1 31-752 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-01",
+    "legal_basis": "art. 61 § 1 Kpa",
+    "case_reference": "ZS.513.32.2021.MKub",
+    "decisions": [
+      {
+        "issue_date": "2022-06-28",
+        "reference": "ZS.513.32.2021.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "101 c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ArcelorMittal Poland S.A",
+        "address": "ul. T. Sendzimira 1 31-752 Kraków",
+        "economic_activity_code": "24.10.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

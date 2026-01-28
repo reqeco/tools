@@ -1,0 +1,60 @@
+{
+  "registry_id": 702,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Trąbki Wielkie",
+    "address": "Warcz\t83-041 Mierzeszyn",
+    "precinct": "0018 Trąbki Wielkie",
+    "parcel_numbers": [
+      "86/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((467006.82 704273.91,466991.63 704162.33,467239.42 703881.31,467339.29 703951.81,467355.14 704016.63,467434.17 704109.61,467447.03 704147.92,467463.27 704168.75,467480.12 704177.00,467492.66 704267.67,467480.91 704288.69,467428.94 704458.69,467412.98 704477.65,467355.86 704513.65,467327.07 704497.80,467273.30 704512.84,467231.15 704489.41,467377.79 704349.45,467409.50 704282.22,467329.61 704165.50,467280.40 704133.74,467272.42 704094.01,467179.65 704036.02,467186.18 704069.49,467133.92 704198.31,467007.82 704273.91,467006.82 704273.91))",
+    "site_description": "W latach 90-ch mogilnik"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "RSP AGROMEL ul. Nowowiejskiego 33, 83-000 Pruszcz Gdański",
+      "address": "RSP AGROMEL ul. Nowowiejskiego 33, 83-000 Pruszcz Gdański",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "86/8"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.130.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.130.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

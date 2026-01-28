@@ -1,0 +1,57 @@
+{
+  "registry_id": 1709,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Lębork",
+    "address": "ul. Słupska 18, Lębork",
+    "precinct": "6",
+    "parcel_numbers": [
+      "302/107",
+      "302/108"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((418139.419819642 741121.3593255868,418100.26140798896 741186.9761234848,418252.1325450702 741273.7596303876,418259.5408932208 741262.6471081683,418224.61582336813 741241.4803991653,418235.199177869 741224.0178642366,418139.419819642 741121.3593255868))POLYGON((418358.6936956984 741121.4916175064,418359.7520311485 741133.6624751864,418365.5728761189 741126.2541270386,418358.6936956984 741121.4916175064))",
+    "site_description": "Na terenie przedmiotowych działek prowadzona jest działalność (bez wymaganego zezwolenia) polegająca na zbieraniu odpadów oraz demontażu pojazdów wycofanych z eksploatacji."
+  },
+  "occurrence_time": {
+    "date": "2019-04-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gleby substancjami ropopochodnymi.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Lęborski",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KENDYSTAL(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2019-12-06",
+    "detection_date": "2019-04-18",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

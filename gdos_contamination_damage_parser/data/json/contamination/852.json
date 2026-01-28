@@ -1,0 +1,115 @@
+{
+  "registry_id": 852,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": null,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Bokserska 71",
+    "precinct": "1-08-14",
+    "parcel_numbers": [
+      "7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636052.7834857644 480190.05681050755,636104.1127551496 480173.6526110256,636040.6126280751 479985.79806864914,635989.2833586897 480003.78977130074,636052.7834857644 480190.05681050755))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "AVONMORE Sp. z o.o.",
+      "address": "ul. Bokserska 71, 02-690 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "7"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.790",
+      "area_ha": 0.0654
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "mg/kg s.m.1600",
+      "area_ha": 0.0654
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.101-960",
+      "area_ha": 0.0539
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "mg/kg s.m.4,1",
+      "area_ha": 0.007
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-08-01",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.79.2019.MGł",
+    "decisions": [
+      {
+        "issue_date": "2019-10-24",
+        "reference": "WOOŚ-IV.515.79.2019.MGł.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-04-23",
+        "reference": "WOOŚ-IV.515.79.2019.MGŁ.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art 162 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "AVONMORE Sp. z o.o.",
+        "address": "ul. Bokserska 71, 02-690 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-11-01",
+    "planned_end": "2020-04-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - usunięcie zanieczyszczonej ziemi",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

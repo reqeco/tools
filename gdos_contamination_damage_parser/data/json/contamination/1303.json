@@ -1,0 +1,105 @@
+{
+  "registry_id": 1303,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0705,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Jagiellońska 74",
+    "precinct": "4-18-09",
+    "parcel_numbers": [
+      "14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637970.19 491039.25,637972.30 490857.41,637974.51 490857.10,638003.50 491038.35,637979.94 491042.81,637970.19 491039.25))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "CD Projekt S.A.",
+      "address": "ul. Jagiellońska 74,  03-301 Warszawa.",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0705
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0705
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0705
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0705
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-03-18",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.19.2021.DŚc",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "WOOŚ-IV.515.19.2021.DŚc.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "CD Projekt S.A.",
+        "address": "ul. Jagiellońska 74,  03-301 Warszawa.",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-10-01",
+    "planned_end": "2022-05-31",
+    "actual_end": "2022-02-18",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

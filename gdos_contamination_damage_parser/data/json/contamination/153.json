@@ -1,0 +1,129 @@
+{
+  "registry_id": 153,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.035,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "82-300 Elbląg, ul. Królewiecka",
+    "precinct": "0010 Elbląg",
+    "parcel_numbers": [
+      "161/40"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((527228.4801456404 701450.7097195704,527297.2719498904 701345.4053422976,527324.7886715904 701322.1219623964,527426.3888747905 701435.3638555482,527447.0264160605 701454.4138936484,527534.8682584106 701519.5015238188,527499.9431885605 701561.3057740983,527431.6805520403 701565.5391158974,527430.6222165904 701596.2308439491,527249.6468546405 701606.2850307198,527242.2385064905 701517.3848529188,527232.7134874405 701507.3306661481,527230.5968165403 701452.2972227475,527228.4801456404 701450.7097195704))",
+    "site_description": "Działka stanowi teren Jednostki Wojskowej 4260 w Elblągu. Powierzchnia działki wynosi 5,1058 ha i jest sklasyfikowana jako tereny różne Tr. Na części nieruchomości zlokalizowana była stacja paliw, która została wyłączona z eksploatacji 31.10.2007 r."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "zanieczyszczenie powierzchni ziemi wystąpiło w czasie funkcjonowania stacji paliw, tj. od 1972 r. do 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Olsztynie",
+      "address": "ul. Saperska 1, 10-073 Olsztyn",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2800-10000 mg/kg s.m",
+      "area_ha": 0.035
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "18 mg/kg s.m.",
+      "area_ha": 0.035
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "25",
+      "area_ha": 0.035
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "132",
+      "area_ha": 0.035
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-09-05",
+    "legal_basis": "art.101l ust. 2 Poś",
+    "case_reference": "WSI.511.19.2016.JJ",
+    "decisions": [
+      {
+        "issue_date": "2016-10-13",
+        "reference": "WSI.511.19.2016.JJ.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-09-05",
+        "reference": "WSI.511.19.2016.JJ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-12-14",
+        "reference": "WSI.515.18.2021.JJ.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-05-30",
+        "reference": "WSI.515.8.2023.JJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury w Olsztynie",
+        "address": "ul. Saperska 1, 10-073 Olsztyn",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-01-23",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-07-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metodą ex-situ, polegającą na wybraniu zanieczyszczonego gruntu i zastąpienie go nowym, wolnym od zanieczyszczeń. Prace będą prowadzone co najmniej do głębokości 7,0 m p.p.t. na powierzchni 45 m2, do głębokości 5,5 m p.p.t. na powierzchni 175 m2, do głębokości 4,5 m p.p.t. na powierzchni 130 m2. Łącznie zostanie wydobyte około 753,5 m3, tj. około 1430,7 Mg gruntu niespełniającego wymogów dla gruntów grupy III. Dopuszcza się przeprowadzenie remediacji in situ w przypadku braku technicznych możliwoci wykonania wykopów bez ryzyka katastrofy budowlanej. Metoda in situ zostanie wówczas zastosowana wyłącznie w rejonie otworów 1 i E2, zlokalizowanych w bezpośrednim sąsiedztwie budynku nr 13.",
+    "ecological_effect": "Po przeprowadzeniu remediacji, wartość substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji, powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko dla gruntów grupy III, dla głębokości przekraczającej 025 m i wodoprzepuszczalności wyższej lub równej 1x10-7 m/s. Po zakończeniu remediacji woda gruntowa nie powinna doprowadzać do wtórnego zanieczyszczania gruntów.  Remediacją ex situ objęto rejon otworu E10 (obszar 1). Zgodnie z przedłożonym raportem powykonawczym z tego rejonu usunięto  499,7400 Mg odpadu o kodzie 17 05 04 oraz 380,1000 Mg odpadu o kodzie 17 05 03*. Wyniki analiz laboratoryjnych próbek gruntu pobranych ze skarp i dna wykopu potwierdzają osiągniecie ww. efektu ekologicznego. W rejonie punktów 1 oraz E2 (obszar 2) przeprowadzono remediację in situ z zastosowaniem metody biologicznej rozkładu węglowodorów ropopochodnych poprzez aplikację biopreparatu do gruntu celem zintensyfikowania naturalnych procesów bioremediacji. Wykonane zostały 4 otwory aplikacyjne do głębokości 4,5 m każdy, do których zaaplikowany został biopreparat Petrodenn. Wyniki analiz laboratoryjnych próbek gruntu pobranych w ramach monitoringu procesu remediacji in situ potwierdzają osiągniecie efektu ekologicznego.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

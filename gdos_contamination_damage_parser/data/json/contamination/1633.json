@@ -1,0 +1,302 @@
+{
+  "registry_id": 1633,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": null,
+    "precinct": "obręb 0001 Dz. Śródmieście-Załęże",
+    "parcel_numbers": [
+      "246901_1.0001.AR_13.46/3",
+      "246901_1.0001.AR_13.49/24",
+      "246901_1.0001.AR_13.49/25",
+      "246901_1.0001.AR_13.71/60",
+      "246901_1.0001.AR_13.71/65",
+      "246901_1.0001.AR_13.71/67",
+      "246901_1.0001.AR_13.71/89",
+      "246901_1.0001.AR_13.71/92"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((499981.04370966798160225 266705.31363014702219516, 499893.76125861302716658 266738.4862171090207994, 499890.17176272498909384 266739.85361563501646742, 499915.63114536798093468 266807.94210187700809911, 500007.05296628002543002 266773.41771182301454246, 500008.93548311397898942 266778.45342639501905069, 499917.60196365998126566 266813.22748241602675989, 499930.36332389601739123 266846.57821078901179135, 499936.24762668897164986 266861.97500323998974636, 499940.35636739601613954 266864.37138783297268674, 499964.89077883900608867 266869.58473926497390494, 499986.58037569600855932 266880.04617520002648234, 500000.24484856799244881 266888.65350770897930488, 500053.01165522501105443 266881.30112872598692775, 500068.45855615200707689 266878.5542840160196647, 500075.13314693100983277 266878.00096123397815973, 500107.00675613299245015 266871.56867095897905529, 500113.17274222301784903 266871.91564330598339438, 500094.95762227900559083 266823.22731980500975624, 500110.80282741697737947 266817.2450549480272457, 500129.67494758300017565 266867.0049139279872179, 500160.65572558698477224 266849.82502282701898366, 500216.62379064701963216 266829.15958625497296453, 500227.58395489602116868 266825.11678123497404158, 500248.06515289697563276 266817.99992423702497035, 500249.72294533700915053 266817.09019943000748754, 500249.79297828598646447 266817.17021105898311362, 500279.11061232502106577 266806.1599866789765656, 500282.93188477499643341 266804.19083420501556247, 500284.01148321200162172 266804.73001179797574878, 500292.97354724898468703 266801.03783667599782348, 500287.64897056500194594 266786.91077820700593293, 500276.18958631000714377 266756.51881788799073547, 500342.77816276799421757 266730.77976878697518259, 500354.48706189397489652 266761.07243380602449179, 500306.29221151297679171 266779.71565691800788045, 500311.44653713400475681 266793.44423935899976641, 500315.78188015997875482 266791.65207666298374534, 500318.60887834301684052 266790.5117850229726173, 500318.74878905399236828 266789.69239436701172963, 500334.24440716300159693 266783.42799643502803519, 500346.27273932698881254 266778.77520946797449142, 500353.73657089797779918 266775.89267617498990148, 500389.37365958199370652 266763.11263017798773944, 500446.47996551502728835 266738.86905577697325498, 500473.53846092702588066 266729.01449354598298669, 500477.14887655602069572 266727.71677383198402822, 500479.32590817898744717 266725.35893929202575237, 500488.06347486702725291 266715.88722996797878295, 500530.67154402000596747 266669.24276455497602001, 500557.95301034400472417 266639.29420246800873429, 500569.96044971002265811 266625.49116114201024175, 500569.82846918801078573 266621.61524672200903296, 500575.89134093001484871 266619.86485791602171957, 500584.36274280201178044 266616.62300907401368022, 500574.86180115700699389 266602.65495603100862354, 500573.35078596801031381 266600.42758031497942284, 500563.88026388001162559 266586.49209872400388122, 500538.38627311802702025 266549.10182919801445678, 500524.40246612898772582 266560.4818606490152888, 500518.18999358202563599 266565.53128995199222118, 500495.94980824901722372 266538.3222394059994258, 500487.30718196998350322 266541.61435732402605936, 500439.49171209201449528 266559.70679062401177362, 500372.05369146302109584 266584.70466675399802625, 500315.50812481297180057 266609.99707156699150801, 500286.16533403401263058 266620.99463056097738445, 500231.12473456701263785 266638.98118391202297062, 500199.36321335501270369 266649.37059563200455159, 500137.99044520902680233 266672.79696304397657514, 500128.83296637400053442 266648.97715777700068429, 500118.94324343500193208 266653.24944562598830089, 500051.357378622982651 266680.1162181890103966, 500039.97706623299745843 266684.12968228198587894, 500003.49180682701990008 266697.0100630410015583, 499981.04370966798160225 266705.31363014702219516),(500226.56835488899378106 266661.38402788899838924, 500263.91857926198281348 266647.27476894500432536, 500321.242554027994629 266625.62073353002779186, 500350.8480893750092946 266705.223616547009442, 500290.47365903598256409 266729.23922359099378809, 500253.25842815102078021 266744.09822717902716249, 500183.7837954469723627 266771.71592653897823766, 500174.51351237698690966 266775.37825955700827762, 500143.66539039602503181 266692.69987793202744797, 500226.56835488899378106 266661.38402788899838924))",
+    "site_description": "Teren dawnej działalności Huty Baildon."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "\"BGH POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "address": "ul. Żelazna 9; 40-851 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-09",
+    "legal_basis": "art. 101c ust 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U 2021 r. poz. 1973 ze zm.)",
+    "case_reference": "WSI.513.84.2019",
+    "decisions": [
+      {
+        "issue_date": "2022-06-06",
+        "reference": "WSI.513.84.2019.MB1.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-07-30",
+        "reference": "WSI.515.7.2023.MO.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "\"BGH POLSKA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+        "address": "ul. Żelazna 9; 40-851 Katowice",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-09-01",
+    "planned_end": "2032-12-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zwolnienie z obowiązku przeprowadzenia działań naprawczych",
+    "description": "Zastosowanie zwolnienia z przeprowadzenia remediacji dla działek o nr ew. o nr ew.: 46/3, 49/24, 49/25, 71/60, 71/65, 71/67, 71/89, obręb 0001 Dz. Śródmieście-Załęże, położonych w Katowicach ze względu na brak występowania znaczącego zagrożenia dla zdrowia ludzi lub stanu środowiska.  Remediacja metodą ex-situ. Etap I Wydobycie zanieczyszczonego gruntu z powierzchni działki o nr ew. 71/92 (sekcje O1, O2, O5, O6, O8) z głębokości 0-0,25 m p.p.t o łącznej powierzchni 4300 m2. Usunięta ziemia zostanie zastąpiona gruntem mineralnym spełniającym wymagania I grupy gruntów zgodnie z Rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. 2016 r., poz. 1395) [dalej rozporządzenie]. Etap II Wydobycie zanieczyszczonego gruntu z powierzchni działki o nr ew. 71/92 z głębokości 0,25-5 m p.p.t. o łącznej powierzchni 3200 m2, na terenie sekcji O4 i O5. Usunięta ziemia zostanie zastąpiona gruntem mineralnym spełniającym wymagania I grupy gruntów zgodnie z rozporządzeniem. Usunięta w obu etapach prac remediacyjnych zanieczyszczona ziemia zostanie zagospodarowana w sposób zapewniający przestrzeganie przepisów z zakresu ochrony środowiska ze szczególnym uwzględnieniem przepisów ustawy z dnia 14 grudnia 2012 r. o odpadach (tekst jedn. Dz. U. z 2023 r,. poz. 1587 ze zm.)",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

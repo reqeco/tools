@@ -1,0 +1,178 @@
+{
+  "registry_id": 757,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1796,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Saska 25",
+    "precinct": null,
+    "parcel_numbers": [
+      "22/7",
+      "22/6",
+      "22/14",
+      "297/7 obr. 28 jedn. ewid. Podgórze"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((570197.4589367132 241756.88976362813,570197.4589367129 241754.24392500892,570283.4486920243 241756.36059590802,570284.7716113345 241707.94174906798,570291.3862079046 241663.756244028,570302.2341462647 241664.02082788665,570301.7049785345 241681.4833628172,570331.0737872752 241687.30420778785,570330.5446195551 241701.5917363679,570317.8445941549 241710.5875876872,570316.2570909751 241738.63347711693,570322.6071036749 241737.8397255279,570322.3425198151 241749.74599933717,570328.9571163752 241750.27516706754,570327.8987809251 241757.1543474868,570298.7945560548 241755.8314281786,570283.1841081645 241759.27101838775,570197.4589367132 241756.88976362813))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Rivabella Sp. z o.o.",
+      "address": "ul. Zajęcza 2B, 00-351Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "70.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "579-824 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "43-160 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,16 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,103-0,167 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,255-0,492 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,217-1,81 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,139-1,6 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,105-0,237 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,145-1,24 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,151-1,34 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,14-1,18 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,383-0,879 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,282-,0759 [mg/kg suchej masy]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "178 [mg/kg suchej masy]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-12-20",
+    "legal_basis": "61§3",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-04-19",
+        "reference": "ZS.515.2.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rivabella Sp. z o.o.",
+        "address": "ul. Zajęcza 2B, 00-351Warszawa",
+        "economic_activity_code": "70.22.Z"
+      }
+    ],
+    "planned_start": "2019-05-11",
+    "planned_end": "2022-12-30",
+    "actual_end": "2019-07-18",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięto zanieczyszczoną glebę i ziemię z terenu działek o numerach 22/7, 22/6, 22/14 oraz 297/7 obręb 28, zlokalizowanych przy ul. Saskiej 25 w Krakowie oraz przekazano je podmiotom posiadającym stosowne zezwolenia w zakresie gospodarki odpadami.",
+    "ecological_effect": "Zawartość substancji powodujących ryzyko w zakresie których było stwierdzone historyczne zanieczyszczenie powierzchni ziemi, mieści się w granicach zawartości dopuszczalnej określonej dla I grupy gruntów, ustalonej w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

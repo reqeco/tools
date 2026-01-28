@@ -1,0 +1,60 @@
+{
+  "registry_id": 2096,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "bydgoski",
+    "municipality": "Białe Błota",
+    "address": "ul. Hodowlana  86-005 Białe Błota",
+    "precinct": "Białe Błota",
+    "parcel_numbers": [
+      "433/3",
+      "433/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((426384.94568727375 581578.2030706564,426450.5624851758 581561.534287327,426450.5624851758 581527.4029690567,426375.1560843635 581545.6592555754,426384.94568727375 581578.9968222464,426384.94568727375 581578.2030706564)))",
+    "site_description": "Działki nie zabudowane, porośnięte drzewami i krzewami."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2024-09-04",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Bezpośrednie zagrożenie szkodą w środowisku w związku z planowaną budową budynku handlowo- usługowego",
+  "total_area_ha": 0.25,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2025-04-14",
+    "detection_date": "2024-09-04",
+    "decisions": [
+      {
+        "issue_date": "2025-07-17",
+        "reference": "WSS.512.5.2025.SG.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSS.512.5.2025.SG"
+}

@@ -1,0 +1,86 @@
+{
+  "registry_id": 1320,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.034,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "miński",
+    "municipality": "Mińsk Mazowiecki (gmina miejska)",
+    "address": "Gen. K.Sosnkowskiego 34 05-300 Mińsk Mazowiecki",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "2614/51"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((673648.2852012293 481689.52568019833,673683.2102712423 481681.5881643286,673686.1206937376 481690.5840156488,673676.8602585142 481692.43610268924,673676.8602585145 481694.81735744886,673678.9769294246 481694.28818972874,673679.5060971472 481695.61110903975,673684.7977744256 481716.51323417854,673684.7977744257 481717.30698575824,673684.5331905647 481718.10073734913,673664.4248169205 481722.86324687675,673658.3393880483 481699.84445083793,673658.074804187 481699.57986697834,673659.9268912354 481698.7861153893,673658.86855578 481696.40486062877,673650.4018721409 481699.5798669793,673648.0206173579 481690.05484792776,673650.4018721409 481699.5798669793,673650.666456002 481699.0506992489,673648.2852012293 481689.52568019833))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zakłady Naprawcze Taboru Kolejowego Mińsk Mazowiecki S.A.",
+      "address": "Gen. K. Sosnkowskiego 05-300 Mińsk Mazowiecki",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "2614/51"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.034
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-10-04",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.99.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-11-29",
+        "reference": "WOOŚ-IV.515.99.2019.SSz.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Zakłady Naprawcze Taboru Kolejowego Mińsk Mazowiecki S.A.",
+        "address": "Gen. K. Sosnkowskiego 05-300 Mińsk Mazowiecki",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-11-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-12-15",
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "samooczyszczenie- osiągnięcie zakładanego efektu ekologicznego",
+    "ecological_effect": "osiągnięcie zakładanego efektu ekologicznego",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

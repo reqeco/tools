@@ -1,0 +1,65 @@
+{
+  "registry_id": 162,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "częstochowski",
+    "municipality": "Mykanów",
+    "address": "Lubojenka",
+    "precinct": "0017 Lubojenka a. m. 4",
+    "parcel_numbers": [
+      "5/1",
+      "4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((511010.363008 335535.124957,511050.053336 335524.533437,511044.569000 335511.399000,511025.218000 335516.377900,511004.720000 335521.482000,511010.363008 335535.124957))",
+    "site_description": "Wyciek węglowodorów ropopochodnych do ziemi  z rurociągu przesyłowego w km 113+599 należącego do Przedsiębiorstwa Eksploatacji Rurociągów Naftowych „Przyjaźń” S.A. w Płocku stwierdzony został w dniu 25 czerwca 2008 r., w miejscowości Lubojenka, w gminie Mykanów."
+  },
+  "occurrence_time": {
+    "date": "2008-06-25",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "możliwość wystąpienia szkody w wyniku wycieku węglowodorów ropopochodnych do ziemi z rurociągu przesyłowego w miejscowości Lubojenka, gm.Mykanów.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": "Płock; ul. Wyszogrodzka 133",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": "Płock Wyszogrodzka 133",
+      "economic_activity_code": "49.50.B"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2008-06-25",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2008-09-30",
+    "method": null,
+    "description": "informacja o przeprowadzonych działaniach zapobiegawczych; Zabezpieczono miejsce awarii i usunięto przyczynę wycieku. Wydobyty grunt w trakcie prac interwencyjnych przekazany został do rekultywacji. Po pobraniu prób gruntów przez pracowników WIOŚ powstały wykop wypełniono gruntem. W rejonie wycieku Firma „PETRO MIL” Sp. z o.o. w Płocku wykonała następnie badania terenowe. Po rozpoznaniu przypowierzchniowej budowy geologicznej terenu wykonano zdjęcia atmogeochemicznego poprzez wykonanie ok. 30 płytkich sond o głębokości ok. 0,7 m i wykonano pomiary zawartości par organicznych za pomocą przenośnego miernika typu PID. Badania te nie wykazały obecności lotnych związków organicznych w powietrzu gruntowym. Następnie wykonano 6 sond sozologicznych o głębokości 3 m ppt., z których pobrano łącznie 6 próbek gruntu. Oznaczenia zawartości benzyn  i olejów wykonano w laboratorium ORLEN LABORATORIUM w Płocku. Podwyższoną zawartość benzyn (C6 –C12) – 195,3 mg/kg s.m. i olejów (C112 –C35) 614,3 gruntu stwierdzono tylko w jednym punkcie – wartość graniczna dla gruntów grupy C wynosi odpowiednio < 500 mg/kg s.m. i < 3000 mg/kg s.m. gruntu.",
+    "ecological_effect": "Stwierdzono brak przekroczeń standardów jakości gleby i ziemi.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

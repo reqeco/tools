@@ -1,0 +1,80 @@
+{
+  "registry_id": 886,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": null,
+    "precinct": "0013 Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.1190/5",
+      "120305_4.0013.1190/6",
+      "120305_4.0013.1192/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((533432.2499364908 253957.81711958256,533422.724917441 253960.19837434217,533422.989501301 253963.37338069268,533417.168656331 253964.96088387258,533414.258233841 253958.08170344122,533395.4727796009 253963.37338069268,533399.7061214009 253979.51299631316,533418.491575641 254003.85471166298,533349.9643552509 254028.4610108724,533440.8753704211 254113.6570146028,533443.7857929111 254109.42367280275,533452.7816442309 254111.8049275633,533456.2212344509 254088.78613152262,533446.696215401 254064.70900004357,533464.158750321 254052.8027262222,533459.6608246609 254040.89645241387,533455.9566505809 254042.21937172208,533443.9445432308 254014.43806616124,533435.7424434909 253982.1588349333,533432.2499364908 253957.81711958256))",
+    "site_description": "działki zlokalizowane w sąsiedztwie hałdy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Trzebinia",
+      "address": "ul. Marszałka Piłsudskiego 14, 32 - 540 Trzebinia",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "120305_4.0013.1185/5; 120305_4.0013.1190/5; 120305_4.0013.1192/1"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-05",
+    "legal_basis": "art. 61 § 1  Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.86.2019.MK",
+    "decisions": [
+      {
+        "issue_date": "2019-08-26",
+        "reference": "ZS.513.86.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Trzebinia",
+        "address": "ul. Marszałka Piłsudskiego 14, 32 - 540 Trzebinia",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Skarb Państwa jest właścicielem działek nr: 1190/5 i 1192/1"
+}

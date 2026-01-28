@@ -1,0 +1,83 @@
+{
+  "registry_id": 894,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "71-143 Szczecin, ul. Królowej Jadwigi 44-46, al. Wojska Polskiego 34 Królowej Jadwigi 44-46, al. Wojska Polskiego 34",
+    "precinct": "1035 Śródmieście Szczecin",
+    "parcel_numbers": [
+      "dz. nr 22/6",
+      "22/7",
+      "22/8",
+      "22/10",
+      "22/15",
+      "22/20",
+      "22/21 obręb 1035"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((203978.48829499998828396 627518.93207400001119822, 203981.59043599999858998 627517.36172599997371435, 203984.65343999999458902 627515.79076999996323138, 203983.06505199999082834 627511.06028500001411885, 203983.04271899999002926 627510.8410950000397861, 203981.039530999987619 627504.7912040000082925, 203963.17869000000064261 627510.55620800005272031, 203964.94664300000295043 627515.76105700002517551, 203959.01077799999620765 627517.87331599998287857, 203946.52071099999011494 627522.31555299996398389, 203943.37768599999253638 627523.37723800004459918, 203944.81469500000821427 627527.75021500000730157, 203943.13362800001050346 627528.29268299997784197, 203941.94812300000921823 627527.58255599997937679, 203940.98167700000340119 627529.00388900004327297, 203944.20777700000326149 627539.26194700004998595, 203946.02580100001068786 627539.8236439999891445, 203946.40314499998930842 627537.77643299999181181, 203948.04429200000595301 627537.23637699999380857, 203949.35240299999713898 627542.45899199997074902, 203946.66958200000226498 627543.34255599998869002, 203933.27426400000695139 627547.73918799997773021, 203939.19483399999444373 627565.76190299994777888, 203952.23164899999392219 627561.55734299996402115, 203953.83979399999952875 627564.77752000000327826, 203952.64267599998856895 627566.03238099999725819, 203957.45092999999178573 627580.89526899997144938, 203957.83443300001090392 627580.77190000005066395, 203960.35039300000062212 627579.93853899999521673, 203971.03495900001144037 627576.41733900003600866, 203972.56270800001220778 627567.54583399998955429, 203989.08302799999364652 627572.96285200002603233, 203989.48725299999932759 627572.02642899996135384, 203989.96009599999524653 627572.2183759999461472, 203996.64186299999710172 627556.34054300002753735, 203996.44666300000972115 627556.26213000004645437, 203996.55825900001218542 627555.95472399995196611, 203996.94805000000633299 627556.10156300000380725, 204001.18193600000813603 627546.44506499997805804, 204003.09938500000862405 627542.03980499994941056, 204002.76769400000921451 627540.86721099994610995, 204000.56819399999221787 627541.1203100000275299, 203997.83603899998706765 627539.86217600002419204, 203997.54917600000044331 627539.75923500000499189, 204000.02009599999291822 627534.88963700004387647, 203982.59385100001236424 627526.49124400003347546, 203977.823502000013832 627524.34397000004537404, 203978.30960599999525584 627520.28580099996179342, 203978.48829499998828396 627518.93207400001119822))",
+    "site_description": "Kompleks budynków przy ul. Królowej Jadwigi 44-46 i al. Wojska Polskiego 34, stanowiących kwartał. zniszczenie siedlisk lęgowych wróbli, jerzyka oraz schronień nietoperzy wskutek prac budowlanych polegających na wyburzeniu i przebudowie budynków"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "05.2015 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "zniszczenie siedlisk lęgowych wróbli, jerzyka oraz schronień nietoperzy wskutek prac budowlanych polegających na wyburzeniu  i przebudowie budynków przy ul. Królowej Jadwigi 44-46 i al. Wojska Polskiego 34",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Przedsiębiorstwo Budowlane Calbud Sp. z o.o.",
+      "address": "ul. Kapitańska 2, 71-602 Szczecin",
+      "legal_form": "przedsiębiorca"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Przedsiębiorstwo Budowlane Calbud Sp. z o.o.",
+      "address": "ul. Kapitańska 2, 71-602 Szczecin",
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "jerzyk (Apus apus)",
+    "wróbel (Passe domesticus)",
+    "nietoperze Chiroptera"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-03-16",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2015-04-09",
+        "reference": "WONS-NS.511.1.2015.KD",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2015-04-30",
+    "method": null,
+    "description": "Odtworzenie siedlisk lęgowych dla minimum 20 par wróbli, 20 par jerzyka oraz co najmniej 20 nietoperzy na nieruchomościach zlokalizowanej przy ul. Królowej Jadwigi 44-46 i al. Wojska Polskiego 34 w Szczecinie",
+    "ecological_effect": "zasiedlona część budek",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

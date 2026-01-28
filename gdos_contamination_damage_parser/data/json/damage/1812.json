@@ -1,0 +1,51 @@
+{
+  "registry_id": 1812,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kartuski",
+    "municipality": "Kartuzy",
+    "address": null,
+    "precinct": "Dzierżążno",
+    "parcel_numbers": [
+      "465",
+      "467"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((451557.7771780678 717779.9032678604,451597.99392516783 717772.7595035713,451600.9043476579 717803.9803993395,451562.8042714577 717823.0304374406,451557.7771780678 717779.9032678604))POLYGON((451563.0688553178 717823.0304374397,451601.6980992479 717803.7158154808,451603.55018628796 717839.6992207812,451576.0334645877 717860.0721781887,451563.0688553178 717823.0304374397))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": null,
+  "event_description": "Zasypywanie zbiornika wodnego",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": null,
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,84 @@
+{
+  "registry_id": 851,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2055,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Marca Polo we Wrocławiu",
+    "precinct": "Swojczyce",
+    "parcel_numbers": [
+      "działka nr 2/30 AM-27 obręb Swojczyce"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((368752.91502129362197593 361721.81256494484841824, 368745.60772541188634932 361730.46890006633475423, 368739.19978902325965464 361740.24943455425091088, 368743.92142636224161834 361745.5331715764477849, 368743.92142636224161834 361749.58028929558349773, 368744.82078585535055026 361755.08886619104305282, 368748.8679035744862631 361760.37260321323992684, 368755.38825989974429831 361765.20666048885323107, 368762.13345609832322225 361766.66811966523528099, 368768.99107223347527906 361766.2184399186517112, 368774.27480925567215309 361767.79231903166510165, 368780.12064596108393744 361772.96363611723063514, 368787.09068203292554244 361776.33623421646188945, 368794.28555797808803618 361778.92189275927376002, 368802.49221335299080238 361780.60819180891849101, 368808.5628899316652678 361777.34801364626036957, 368812.49758771416964009 361768.9165183980949223, 368811.37338834773981944 361760.48502314987126738, 368808.78772980492794886 361754.30192663456546143, 368803.72883265605196357 361748.00641018257010728, 368796.53395671088946983 361744.52139214664930478, 368786.75342222303152084 361742.94751303363591433, 368777.87224722828250378 361744.29655227338662371, 368769.32833204342750832 361747.33189056272385642, 368762.47071590821724385 361748.68092980241635814, 368762.69555578153813258 361744.07171240006573498, 368763.48249533801572397 361738.33829563134349883, 368761.34651654178742319 361732.94213867245707661, 368757.97391844255616888 361727.43356177699752152, 368752.91502129362197593 361721.81256494484841824))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Archicom Marina 3 Sp. z o.o.",
+      "address": "ul. Ksawerego Liskiego 7, 50-345 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "22300-1010 mg/kg s.m.",
+      "area_ha": 0.2055
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-06-27",
+    "legal_basis": "art. 61 par. 4 Kpa",
+    "case_reference": "WSI.515.8.2019.AB",
+    "decisions": [
+      {
+        "issue_date": "2019-08-05",
+        "reference": "WSI.515.8.2019.AB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Archicom Marina 3 Sp. z o.o.",
+        "address": "ul. Ksawerego Liskiego 7, 50-345 Wrocław",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2019-08-01",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-12-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediację przeprowadzić metodą ex-situ, polegającą na wydobyciu zanieczyszczonego gruntu z powierzchni ok. 0,2055 ha, do maksymalnej głębokości 4,2 m ppt i przekazaniu go, jako odpad uprawnionemu podmiotowi.",
+    "ecological_effect": "Prace prowadzono do momentu osiągnięcia założonego w decyzji efektu ekologicznego. Finalna powierzchnia terenu poddanego remediacji wyniosła 0,2250 ha.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

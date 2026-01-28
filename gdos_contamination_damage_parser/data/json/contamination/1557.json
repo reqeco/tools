@@ -1,0 +1,178 @@
+{
+  "registry_id": 1557,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.203,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Towarowa - etap H",
+    "precinct": "6-01-07",
+    "parcel_numbers": [
+      "95"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635560.86493428 486714.4505093517,635685.2193500325 486487.4375553299,635737.6069549839 486506.48759342823,635757.7153286003 486518.658451098,635760.3611672285 486514.4251092961,635900.5906148205 486567.34188178834,635893.7114343701 486591.1544294199,635913.2906402649 486599.0919452878,635864.6072094187 486743.5547342207,635788.93622449 486723.4463606747,635786.8195535839 486734.0297151767,635776.2361990493 486731.3838765407,635759.8319995294 486771.0714559248,635755.0694899829 486762.0756045943,635737.6069550056 486755.72559189796,635730.198606834 486781.65481042676,635730.198606834 486781.65481042676,635560.86493428 486714.4505093517))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Projekt Echo 138 sp. z o.o.",
+      "address": "Al. Jana Pawła II 22, 00-133 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "95"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "PCB",
+      "concentration": null,
+      "area_ha": 0.203
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-09-30",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.70.2021",
+    "decisions": [
+      {
+        "issue_date": "2022-03-15",
+        "reference": "WOOŚ-IV.515.70.2021.PBu.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-02-16",
+        "reference": "WOOŚ-IV.515.70.2021.PBu.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Projekt Echo 138 sp. z o.o.",
+        "address": "Al. Jana Pawła II 22, 00-133 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-03-01",
+    "planned_end": "2023-08-30",
+    "actual_end": "2023-06-26",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda bioremediacji oraz metoda ex-situ",
+    "ecological_effect": "Zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

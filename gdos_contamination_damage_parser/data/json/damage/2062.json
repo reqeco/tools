@@ -1,0 +1,54 @@
+{
+  "registry_id": 2062,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "pińczowski",
+    "municipality": "Kije",
+    "address": null,
+    "precinct": "Umianowice",
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2024-11-11",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Realizacja inwestycji  dot. budowy  3  ścieżek dydaktycznych w ramach realizacji projektu LIFE17NAT/PL/000018 pn. „Renaturyzacja śródlądowej delty rzeki Nidy” w miejscowości Umianowice, gm. Kije.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "1.\tZespół Świętokrzyskich i Nadnidziańskich Parków Krajobrazowych",
+      "address": "ul. Łódzka 244,  25 - 655 Kielce",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-01-02",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

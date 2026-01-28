@@ -1,0 +1,140 @@
+{
+  "registry_id": 1923,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1255,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Ordona 23",
+    "precinct": "6-07-12",
+    "parcel_numbers": [
+      "20"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((633132.633262804 486508.60426628496,633152.3447605803 486406.6071872832,633192.2969238594 486417.1905417824,633230.2647081662 486430.0228591114,633234.6303419007 486439.54787816294,633231.4553355483 486457.53958081175,633224.8407389724 486482.41046389006,633216.1094715043 486503.4448809596,633197.0594333869 486538.3699508123,633179.8614823103 486542.7355845431,633132.633262804 486508.60426628496))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Archiwum Państwowe",
+      "address": "ul. Krzywe Koło 7, 00-270 Warszawa",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0735
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": 0.052
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.052
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-10-10",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.50.2023.PBu",
+    "decisions": [
+      {
+        "issue_date": "2023-11-27",
+        "reference": "WOOŚ-IV.515.50.2023.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Archiwum Państwowe",
+        "address": "ul. Krzywe Koło 7, 00-270 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-12-01",
+    "planned_end": "2024-12-31",
+    "actual_end": "2024-01-02",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zmniejszenie ilości zanieczyszczeń",
+    "description": null,
+    "ecological_effect": "efekt ekologiczny osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

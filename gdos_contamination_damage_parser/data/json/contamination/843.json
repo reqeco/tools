@@ -1,0 +1,144 @@
+{
+  "registry_id": 843,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "oświęcimski",
+    "municipality": "Oświęcim (gmina miejska)",
+    "address": "Oświęcim, ul. Pławska 1",
+    "precinct": "Brzezinka, Miasto Oświęcim, Pławy",
+    "parcel_numbers": [
+      "121306_2.0003.2433/1",
+      "121301_1.0001.1725/13",
+      "121306_2.0003.2433/3",
+      "121301_1.0001.1725/14",
+      "121306_2.0009.439/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((512867.2680551899 239590.48666495085,512878.90974514006 239628.58674114943,512872.0305647199 239562.4407755304,512926.53484039 239543.3907374302,512884.7305901201 239438.61552787013,512803.76792819 239411.09880617168,512833.93048852007 239488.88646175154,512866.73888747 239533.86571838148,512863.03471339 239548.15324695222,512867.2680551899 239590.48666495085), (513036.3239141499 239491.532300381,513109.8782279201 239517.99068663176,512999.8113411201 239242.29430190008,512945.8362331699 239263.99017862044,513036.3239141499 239491.532300381), (512897.68197020004 239682.5618491033,513142.15745915 239595.77834220137,513108.29072474997 239518.51985435002,512885.51111252006 239437.55719243176,512924.66952417005 239545.50740833115,512874.3985903 239562.44077553228,512878.6319321001 239622.76589618064,512897.68197020004 239682.5618491033), (512884.45277707005 239437.02802470233,513033.67807552 239491.532300381,512950.06957497 239274.5735331215,512925.1986919 239289.39022942167,512891.8611252201 239289.39022942167,512782.3234061499 239351.832020971,512801.9026119699 239411.09880617168,512884.45277707005 239437.02802470233),( 512784.6517441401 239347.86326304078,512828.57266531995 239316.64236726146,512825.39765896986 239308.7048513908,512869.05399628007 239285.15688762255,512881.48943782004 239259.22766910028,512881.48943782004 239243.61722121201,512877.78526374995 239208.69215135835,512846.56436797004 239226.15468628146,512820.10598171985 239229.85886036232,512798.9392727201 239229.8588603614,512787.29758276994 239231.97553126235,512750.52042588 239275.36728471145,512751.57876133005 239276.1610363014,512784.6517441401 239347.86326304078)))",
+    "site_description": "teren zakładu Nicromet, zajmującego się produkcją  odlewniczych stopów aluminiowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres funkcjonowania firmy zajmującej się handlem złomem"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż hurtowa odpadów i złomu",
+    "current": "Produkcja aluminium hutniczego"
+  },
+  "land_holders": [
+    {
+      "name": "Nicromet Sp. z o.o. Sp. k.",
+      "address": "ul. Witosa 28, 43-512 Bestwinka",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Kadm (Cd)",
+      "concentration": "20,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Miedź (Cu)",
+      "concentration": "1198 - 5808 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Nikiel (Ni)",
+      "concentration": "1381 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Cynk (Zn)",
+      "concentration": "1529 - 3315 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Ołów (Pb)",
+      "concentration": "684 - 12350 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ołów (Pb)",
+      "concentration": "307 - 2482 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Miedź (Cu)",
+      "concentration": "487- 981 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Nikiel (Ni)",
+      "concentration": "145 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Cynk (Zn)",
+      "concentration": "356 - 544 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-14",
+    "legal_basis": "61 § 1 i 4 kpa",
+    "case_reference": "ZS.513.140.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2019-05-21",
+        "reference": "ZS.513.140.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Nicromet Sp. z o.o. Sp. k.",
+        "address": "ul. Witosa 28, 43-512 Bestwinka",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

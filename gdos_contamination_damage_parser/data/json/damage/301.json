@@ -1,0 +1,143 @@
+{
+  "registry_id": 301,
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kluczborski",
+    "municipality": "Wołczyn",
+    "address": "Nowa Wieś 11 Markotów Mały, 46-250 Wołczyn",
+    "precinct": "Markotów Mały",
+    "parcel_numbers": [
+      "nr 404",
+      "arkusz mapy 3",
+      "w miejscowości Nowej Wsi 11 – Markotów Mały."
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((437957.0467781963 347791.7280496713,437936.93840464565 347679.0153242508,437980.59474195703 347669.75488906074,438002.81978641765 347780.61552745383,437957.0467781963 347791.7280496713))",
+    "site_description": "Nowa Wieś 11 Markotów Mały, 46-250 Wołczyn"
+  },
+  "occurrence_time": {
+    "date": "2011-11-22",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zagrożenie szkodą w środowisku polegające na zanieczyszczeniu gruntu w wyniku prowadzonej działalności pod nazwą \"(…)",
+  "total_area_ha": 0.4,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektor Ochrony Środowiska w Opolu",
+      "address": "Opole, Ul. Nysy Łużyckiej 44",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fenantren",
+      "concentration": "0,19 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Fluoranten",
+      "concentration": "0,18 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,146 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,14 mg/kg",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie sądowoadministracyjne",
+    "initiation_date": "2011-01-03",
+    "detection_date": "2011-10-19",
+    "decisions": [
+      {
+        "issue_date": "2012-02-09",
+        "reference": "WOOŚ.512.5.2011.ER.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2014-03-07",
+        "reference": "WOOŚ.512.3.2013.KM.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2012-02-29",
+        "reason": "działalność, polegająca na demontażu pojazdów wycofanych z eksploatacji, na terenie niespełniającym minimalnych wymagań, określonych w rozporządzeniu Ministra Gospodarki       i Pracy z dnia 28.07.2005 r. w sprawie minimalnych wymagań dla stacji demontażu oraz sposobu demontażu pojazdów wycofanych z eksploatacji (Dz. U. Nr 143, poz. 1206 z późń. zm.), spowodowała szkodę w środowisku, której skutkiem jest zanieczyszczenie gleby wielopierścieniowymi węglowodorami aromatycznymi, a podmiot korzystający ze środowiska nie podjął dotąd żadnych działań zapobiegawczych ani naprawczych",
+        "appealed_decision_reference": "WOOŚ.512.5.2011.ER.3",
+        "resolution_reference": "DOA-ks.512.4.2014.mp",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2012-04-26",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchybienie terminu na wniesienie odwołania"
+      },
+      {
+        "date": "2014-03-12",
+        "reason": ". w sprawie odmowy uchylenia decyzji Regionalnego Dyrektora Ochrony Środowiska w Opolu nr WOOŚ.512.5.2011.ER.3 z dnia 09.02.2012 r., nakładającej na (...), zamieszkałą w (...), prowadzącą pod tym samym adresem działalność gospodarczą pod firmą: (...), obowiązek przeprowadzenia działań naprawczych i przywrócenia środowiska do stanu właściwego (zgodnego z obowiązującymi przepisami ochrony środowiska), w związku z wystąpieniem szkody w środowisku, powstałej w wyniku prowadzonej działalności demontażu pojazdów wycofanych  z eksploatacji, polegającej na zanieczyszczeniu gleby wielopierścieniowymi węglowodorami aromatycznymi. . Strona, wnosząc podanie o wznowienie postępowania podnosiła, że fałszywymi dowodami są upoważnienia do kontroli, a nie wyniki badań laboratoryjnych.  W postępowaniu w sprawie wydania decyzji, nakładającej na podmiot korzystający ze środowiska obowiązek przeprowadzenia działań naprawczych, prowadzonym na podstawie przepisów ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (Dz. U.  z 2014 r., poz. 210) przedmiotowe upoważnienia nie stanowiły dowodów, w rozumieniu art. 75 Kpa. Tutejszy organ nie znalazł zatem podstaw do uchylenia decyzji nr WOOŚ.512.5.2011.ER.3 z dnia 09.02.2012 r., ponieważ podstawą do jej wydania były wyniki analiz laboratoryjnych próbek gruntu, które wykazały ponadnormatywne zanieczyszczenie gruntu, będące wynikiem działalności prowadzonej na przedmiotowym terenie przez Panią Chotnicką.",
+        "appealed_decision_reference": "WOOŚ.512.3.2013.KM.10",
+        "resolution_reference": "DOA-ks.512.4.2014.mp",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2014-05-15",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "utrzymano w mocy zaskarżoną decyzję"
+      }
+    ]
+  },
+  "court_proceedings": {
+    "issue_date": "2014-08-26",
+    "case_number": "IV SA/Wa 1437/14",
+    "challenged_decision_reference": "DOA-ks.512.4.2014.mp.",
+    "ruling_type": "postanowienie",
+    "verdict": "WSA w Warszawie po rozpoznaniu skargi(…) na postanowienie GDOŚ z dn. 12.05.2014 znak:DOA-ks.512.4.2014.mp.1 w przedmiocie stwierdzenia niedopuszczalności zażalenia postanawia odrzucić skargę",
+    "court": "Wojewódzki Sąd Administracyjny w Warszawie",
+    "cassation_appeal_to_nsa": null
+  },
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2015-07-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

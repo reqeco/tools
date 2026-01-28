@@ -1,0 +1,247 @@
+{
+  "registry_id": 1703,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 5.1,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "Aleja Roździeńskiego  Katowice",
+    "precinct": "Dąbrówka Mała",
+    "parcel_numbers": [
+      "182/48",
+      "167/5",
+      "171/48",
+      "181/48",
+      "133/1",
+      "189/12",
+      "908/5",
+      "910/18",
+      "911/10",
+      "913/10",
+      "915/10",
+      "916/10",
+      "917/10",
+      "192/10",
+      "912/10",
+      "914/10",
+      "184/18",
+      "905/18"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((504803.78390588099136949 267216.95186516898684204, 504806.16209480300312862 267217.3706665980280377, 504812.05009060597512871 267219.49629058502614498, 504846.9982743359869346 267147.60427816997980699, 504881.876667512988206 267075.87311501597287133, 504884.54607849597232416 267077.14049235597485676, 504906.68561159598175436 267031.27482052700361237, 504965.2634886889718473 267059.51091229601297528, 504975.0158862000098452 267039.58095990598667413, 504987.64072216302156448 267010.95368163799867034, 505000.59801419998984784 266985.50201941601699218, 505001.71458790200995281 266980.90480016201036051, 504999.0757239279919304 266979.45612192602129653, 505022.22948141198139638 266926.13334784697508439, 505023.8544044999871403 266918.60707131802337244, 505027.21494604600593448 266906.29137700097635388, 505034.92162686202209443 266909.8157287510111928, 505039.79307392198825255 266900.68781279801623896, 505040.57141260697972029 266897.91903188597643748, 505043.2510084860259667 266882.37543608900159597, 505044.31939506798516959 266879.84661418397445232, 505050.39523161400575191 266880.85239458299474791, 505067.82437205797759816 266848.22001338301924989, 505069.97047474002465606 266844.08068939798977226, 505082.50013236800441518 266804.19350696197943762, 505086.67321478301892057 266761.43031038297340274, 505082.79122725501656532 266718.82021657901350409, 505067.03997104399604723 266679.0058575039729476, 505040.46936196699971333 266645.899763292982243, 504999.12062413699459285 266652.62008625897578895, 505000.83178710198262706 266655.68724826397374272, 505006.0431950920028612 266665.25846407597418875, 505014.86318337300326675 266693.4989241220173426, 505019.70776979101356119 266707.60832300299080089, 505018.97877162601798773 266707.79899952397681773, 505020.00949584698537365 266711.0262040650122799, 505015.23391641100170091 266712.62937978602712974, 505008.21963818097719923 266714.97317770001245663, 505005.58935041999211535 266711.70648207102203742, 505001.39588126301532611 266717.06656798598123714, 504995.0156960979802534 266726.81637215800583363, 504946.00985786697128788 266800.63599633297417313, 504943.18416684900876135 266804.77544919197680429, 504920.81827026401879266 266838.09772992099169642, 504912.63005802599946037 266850.29534313798649237, 504868.02742847398621961 266916.43648369202855974, 504867.63973739597713575 266920.16443862300366163, 504818.87795507902046666 266993.17930423200596124, 504854.15499738702783361 267006.45742820500163361, 504858.45967685698997229 267008.48837903898674995, 504897.50397025601705536 267026.94276990601792932, 504850.63867125601973385 267121.9648697130032815, 504803.78390588099136949 267216.95186516898684204))",
+    "site_description": "Historycznie teren użytkowany był jako kopalnia węgla kamiennego, dlatego działki, głównie w północnej części zachowały utwardzoną powierzchnię w postaci płyt betonowych oraz starych podwalin, charakteryzujące się brakiem roślinności. Zanieczyszczenia terenu wynikają z jego historycznego wykorzystania, dawniej przez działki przebiegały tory kolejowe, a w ich sąsiedztwie zlokalizowana była Huta Szopienice. W momencie rozpoczęcia działalności huta emitowała bardzo duże ilości zanieczyszczeń do powietrza w postaci szkodliwych związków i drobnych cząstek stałych. Zatem wnioskować można,  że na przedmiotowym terenie, przy Alei Roździeńskiego, zanieczyszczenie powierzchni ziemi zaistniało przed dniem 30 kwietnia 2007 r. i w myśl art. 3 pkt. 5a ustawy Poś należy uznać je za zanieczyszczenia historyczne.  Zanieczyszczenie metalami należy przede wszystkim wiązać ze składem kompleksu antropogenicznego, uformowanego z naturalnie wysoko zmineralizowanych karbońskich skał, które jako skała płona zostały wymieszane z gruntem i złożone w przeszłości na terenie nieruchomości i w jej sąsiedztwie. Miejscami grunty antropogeniczne wykazują domieszki żużli i innych materiałów sztucznych, co przekłada się na zdecydowanie większe stężenia metali, a dodatkowo także zanieczyszczenie związkami WWA oraz związkami ropopochodnymi. Na badanym terenie projektuje się budowę hali magazynowo-produkcyjnej wraz  z zapleczem socjalno-biurowym wraz z towarzyszącą infrastrukturą techniczną."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "FAMUR S.A.",
+      "address": "ul. Armii Krajowej 51 40-698 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "182/48",
+        "167/5",
+        "171/48",
+        "181/48",
+        "133/1",
+        "189/12",
+        "908/5",
+        "910/18",
+        "911/10",
+        "913/10",
+        "915/10",
+        "916/10",
+        "917/10",
+        "192/10",
+        "912/10",
+        "914/10",
+        "184/18",
+        "905/18"
+      ],
+      "economic_activity_code": "28.92.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-21",
+    "legal_basis": "art. 101l ust. 4, 101p ust. 2 i 101q ust. 1 pkt 1 poś",
+    "case_reference": "WSI.515.13.2021.MB",
+    "decisions": [
+      {
+        "issue_date": "2022-03-04",
+        "reference": "WSI.515.13.2021.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-03-14",
+        "reference": "WSI.515.13.2021.MB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 3 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "FAMUR S.A.",
+        "address": "ul. Armii Krajowej 51 40-698 Katowice",
+        "economic_activity_code": "28.92.Z"
+      }
+    ],
+    "planned_start": "2022-04-01",
+    "planned_end": "2024-12-01",
+    "actual_end": null,
+    "method": null,
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi zostanie przeprowadzona dwoma metodami: \tex-situ, polegającą na usunięciu zanieczyszczenia poprzez wydobycie zanieczyszczonego gruntu do głębokości 0,25 m p.p.t. na obszarze wyznaczonym w projekcie planu remediacji jako powierzchnie biologicznie czynne (o łącznej powierzchni ok. 0,76 ha), \tponiżej 0,25 m p.p.t. w przypadku gruntów rodzimych remediacja przeprowadzona będzie metodą in-situ, tj. w obrębie otworów B2, B4, B7 wykonana zostanie bioremediacja, natomiast w obrębie otworu B13 zastosowana będzie solidyfikacja poprzez stabilizację z wykorzystaniem spoiwa cementowego.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

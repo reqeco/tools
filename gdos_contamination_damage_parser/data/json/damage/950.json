@@ -1,0 +1,81 @@
+{
+  "registry_id": 950,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "Białystok",
+    "municipality": "Białystok",
+    "address": "ul. Gorkiego 12,  15-166 Białystok",
+    "precinct": "15 Bagnówka",
+    "parcel_numbers": [
+      "1375"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((781137.7171233413 595812.2716963217,781154.650492252 595816.9019139698,781175.6849112451 595787.5331052858,781159.5452940007 595782.5060118474,781154.9150759858 595790.4435277162,781144.1994284726 595787.4008132657,781137.7171233413 595812.2716963217))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "Zanieczyszczenie gleby na podstawie badań prób gleby zidentyfikował WIOŚ w Białymstoku w dn. 30.05.2012 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w środowisku w powierzchni ziemi powstała na skutek zanieczyszczenia gleby na terenie posesji położonej przy ul Gorkiego 12 w Białymstoku, działka o nr geod. 1375, metalami ciężkimi. Zanieczyszczenie powstało na skutek działalności gospodarczej prowadzonej w tym miejscu przez podmioty korzystające ze środowiska (usługi cynkowania, obróbka metali i nakładanie powłok na metale).",
+  "total_area_ha": 0.0002,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Białymstoku",
+      "address": "ul. Ciołkowskiego 2/3 15-264 Białystok",
+      "legal_form": "Organ rządowej administracji zespolonej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "25.61.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Cynk (Zn)",
+      "concentration": "6457 mg/kg sm",
+      "area_ha": 0.0002
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-05-31",
+    "detection_date": "2012-05-30",
+    "decisions": [
+      {
+        "issue_date": "2013-07-17",
+        "reference": "WSI.511.5.2013.AF",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2013-07-01",
+    "planned_end": "2017-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "fitoremediacja",
+    "ecological_effect": "Przedłożono Sprawozdanie Nr 112/A/2019 z badań wykonanych przez Lubelską Agencję Ochrony Środowiska S.A., posiadającą akredytację Polskiego Centrum Akredytacji nr AB 1183. Próbki gleby zostały pobrane oraz zbadane metodami akredytowanymi. Stwierdzona zawartość cynku (Zn) w próbkach gleby pobranych w dniu 10 kwietnia 2019 r. (próbka uśredniona z 15 próbek pojedynczych pobranych z głębokości do 0,25 m ppt) wynosi: próbka nr 1/112/A/19 – 968 mg/kg s.m.; próbka nr 2/112/A/19 - 402 mg/kg s.m. Przedstawione wyniki potwierdzają osiągnięcie wartości stężeń cynku (Zn) w glebie i ziemi odpowiadających standardom przewidzianym dla obszarów grupy C (na głębokości 0-2 m ppt) zgodnie z Rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r. Nr 165, poz. 1359).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

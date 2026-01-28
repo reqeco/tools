@@ -1,0 +1,77 @@
+{
+  "registry_id": 2073,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0187,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina miejska)",
+    "address": null,
+    "precinct": "Lubin 0009",
+    "parcel_numbers": [
+      "11/23",
+      "obręb Lubin 0009"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((304107.24390000000130385 398539.34859999921172857, 304127.14550000010058284 398554.75500000081956387, 304133.47390000004088506 398559.90249999891966581, 304137.52719999989494681 398555.37109999917447567, 304130.61810000007972121 398550.12219999916851521, 304108.38899999996647239 398534.37259999942034483, 304107.24390000000130385 398539.34859999921172857)))",
+    "site_description": "Fragment sekcji F na działce o nr ewid. 11/23 obręb 9 w Lubinie (plac szybowy L-III, L-VII kopalni KGHM Polska Miedź S.A. Oddział Zakłady Górnicze „Lubin”)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. Marii Skłodowskiej-Curie 48 59-301 Lubin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.44.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "691 - 740 mg/kg s.m.",
+      "area_ha": 0.0187
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-04-12",
+    "legal_basis": "art. 101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.515.5.2024.ASZ",
+    "decisions": [
+      {
+        "issue_date": "2024-11-25",
+        "reference": "WSI.515.5.2024.ASZ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Teren wpisany do rejestru historycznych zanieczyszczeń powierzchni ziemi decyzją znak: WSI.513.1.2019.KMA.5 z dnia 09-08-2019 (Nr rej 997)"
+}

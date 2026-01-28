@@ -1,0 +1,257 @@
+{
+  "registry_id": 246,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2809,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Słupsk",
+    "municipality": "Słupsk",
+    "address": "Moniuszki 1",
+    "precinct": "0013 Słupsk",
+    "parcel_numbers": [
+      "459/6 obręb 13"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((371923.793117673 735636.3517896626,371943.50461545476 735634.764286492,371942.44628000393 735624.048640064,371923.3962418828 735625.6361432336,371923.793117673 735636.3517896626))",
+    "site_description": "Działka położona w Słupsku przy ulicy Moniuszki 1, jej powierzchnia wynosi 1,1173 ha."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Od dnia 17.10.1862r na terenie działki 459/6 funkcjonowała gazownia. W latach 1925-1926 została rozbudowana i funkcjonowała do 09.05.1989r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Dystrybucja paliw gazowych w systemie sieciowym",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "address": "ul. Marcina Kasprzaka 25, 01-224 Warszawa Oddział w Gdańsku ul. Wałowa 41/43, 80-858 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2,68 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "57,7 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "2,66 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,437 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,48 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "2,48 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,379 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,32 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "2,90 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,41 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "3,30 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,29 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Fenol",
+      "concentration": "0,63 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "12 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "222 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1766 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "2,74 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "51,2 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "42,6 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "44,2 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "38 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "22,4 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "16,2 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "10,6 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "13,7 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "5,26 mg/kg s.m.",
+      "area_ha": 0.2809
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "7,3 mg/kg s.m.",
+      "area_ha": 0.2809
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-05-27",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WZS.515.14.2020",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+        "address": "ul. Marcina Kasprzaka 25, 01-224 Warszawa Oddział w Gdańsku ul. Wałowa 41/43, 80-858 Gdańsk",
+        "economic_activity_code": "35.22.Z"
+      }
+    ],
+    "planned_start": "2022-06-01",
+    "planned_end": "2023-01-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Wymiana zanieczyszczonego gruntu na nowy połączona z rozbiórką źródeł zanieczyszczenia jakim jest zbiornik na smołę pogazową. W przypadku terenów, z których nie uda się wydobyć gruntów, ze względu na uwarunkowania techniczne, zostanie przeprowadzony proces solidyfikacji - iniekcja środka immobilizującego zanieczyszczenie",
+    "ecological_effect": "usunięcie zanieczyszczenia",
+    "effect_assessment": null
+  },
+  "notes": null
+}

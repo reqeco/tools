@@ -1,0 +1,180 @@
+{
+  "registry_id": 1607,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Michałowice",
+    "address": "Michałowice, ul. Żwirowa",
+    "precinct": "0002 Komorów-Osiedle",
+    "parcel_numbers": [
+      "14",
+      "15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((623748.1625669249 477892.5484330207,623759.8042568812 477838.04415735137,623778.0605434024 477835.1337348614,623790.4959849501 477838.30874121,623878.602411215 477855.77127613686,623870.9294792007 477900.7505327584,623842.8835897535 477898.8984457189,623809.5460230629 477899.69219731074,623748.1625669249 477892.5484330207))",
+    "site_description": "teren niezabudowany w lokalizacji Michałowice, ul. Żwirowa"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2016-01-01",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "jednostka samorządu terytorialnego (Gmina Michałowice)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gleby wykazane w trakcie badań w celu rozpoznania stanu środowiska gruntowego przez władającego działkami o  nr ew. 14 i 15 obręb 0002 Komorów Osiedle",
+  "total_area_ha": 0.65,
+  "reporters": [
+    {
+      "name": "PGNIG TERMIKA S.A.",
+      "address": "ul. Modlińska 15  03-216 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PGNIG TERMIKA S.A.",
+      "address": "ul. Modlińska 15  03-216 Warszawa",
+      "economic_activity_code": "35.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "75,2 do 248 mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3,3 mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,126 do 0,245 mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,12 do 0,258 mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,113 do 0,322 mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,128 do 0,144 mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,261 do 0,238 mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "47,8 mg/kg s.m.",
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.009
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2023-01-23",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-08-07",
+        "reference": "WOOS-IV.511.17.2022.IA/AGi.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "remediacja ex-situ",
+    "ecological_effect": "osiągnięcie zamierzonego efektu ekologicznego",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

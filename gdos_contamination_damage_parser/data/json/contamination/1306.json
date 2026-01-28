@@ -1,0 +1,141 @@
+{
+  "registry_id": 1306,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.5475,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Brwinów",
+    "address": "m. Koszajec",
+    "precinct": "Koszajec",
+    "parcel_numbers": [
+      "48/21",
+      "50/15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((618679.15 479167.55,618895.54 479279.61,618946.77 479453.97,618822.56 479492.35,618817.89 479487.85,618814.07 479478.97,618806.20 479470.73,618765.46 479363.61,618743.86 479346.26,618679.15 479167.55))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Pozostałe uprawy rolne inne niż wieloletnie",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PDC Industrial Center 146 Sp. z o.o.",
+      "address": "ul. Domaniewska 50a,",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.545
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.545
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.545
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.545
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.545
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0025
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0025
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-03-25",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.22.2021.DŚc",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "WOOŚ-IV.515.22.2021.DŚc.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PDC Industrial Center 146 Sp. z o.o.",
+        "address": "ul. Domaniewska 50a,",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-06-01",
+    "planned_end": "2021-12-31",
+    "actual_end": "2021-07-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zgodny z obowiązującymi przepisami prawa",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

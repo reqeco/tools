@@ -1,0 +1,59 @@
+{
+  "registry_id": 2124,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Jaworzno",
+    "municipality": "Jaworzno",
+    "address": "ul. Chopina w Jaworznie.",
+    "precinct": "165",
+    "parcel_numbers": [
+      "246801_1.0165.95/9",
+      "246801_1.0165.96/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((517157.73739130201283842 257962.10940998498699628, 517192.9911234860192053 257970.74100007399101742, 517220.51345063297776505 257973.68988198798615485, 517256.35921379097271711 257980.26481526799034327, 517327.63031399302417412 257971.00436139100929722, 517314.93374021298950538 257997.49811401599436067, 517330.89591497002402321 258005.85870797399547882, 517323.06722858099965379 258022.73317449100431986, 517304.05230657401261851 258012.53469173400662839, 517303.79647626302903518 258031.46626342600211501, 517269.68737215001601726 258015.034207819000585, 517288.25122576300054789 258022.15067406999878585, 517289.74180858599720523 258019.28247145601199009, 517281.38854763598646969 258000.01661862898617983, 517277.41493427701061592 257998.07115215598605573, 517263.19941246398957446 258008.17555476501001976, 517230.2399099399917759 257996.98478907099342905, 517157.73739130201283842 257962.10940998498699628)),((517065.44939396297559142 257885.65551702800439671, 517081.87714913702802733 257857.93246427999110892, 517119.86996744602220133 257874.82214067698805593, 517207.48954991000937298 257924.34553223798866384, 517252.93124494701623917 257866.22224824500153773, 517250.82190070697106421 257887.78704049100633711, 517258.16479641897603869 257942.7540874810074456, 517363.20277095801429823 257927.38441346900071949, 517352.72566929500317201 257954.68787714099744335, 517339.37070979602867737 257956.67581666700425558, 517251.88012071599951014 257967.45293763699010015, 517222.71008323400747031 257963.10703823299263604, 517065.44939396297559142 257885.65551702800439671)))",
+    "site_description": "Teren Zakładów Chemicznych \"Organika-Azot\" w Jaworznie."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pestycydów i pozostałych środków agrochemicznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Chrzanów",
+      "address": "ul. Oświęcimska 31 32-500 Chrzanów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2023-11-24",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.715.2023.AH",
+    "decisions": [
+      {
+        "issue_date": "2024-11-22",
+        "reference": "WSI.513.715.2023.AH.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Działka została zgłoszona jako działka wchodząca w skład wielkoobszarowego terenu zdegradowanego, na którym jest konieczne podjęcie działań związanych z poprawą stanu środowiska. Teren Zakładów Chemicznych \"Organika-Azot\" w Jaworznie."
+}

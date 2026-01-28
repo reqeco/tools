@@ -1,0 +1,65 @@
+{
+  "registry_id": 867,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "wolsztyński",
+    "municipality": "Siedlec",
+    "address": "64-212 Grójec Wielki",
+    "precinct": null,
+    "parcel_numbers": [
+      "16",
+      "obręb Grójec Wielki",
+      "17",
+      "obręb Grójec Wielki"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((288173.5801959694 483517.69151779637,288149.7676480082 483474.1674724193,288148.3124367482 483454.7205585316,288190.2489796154 483445.8569991216,288218.55945330235 483510.01858577784,288173.5801959694 483517.69151779637))",
+    "site_description": "Odzysk odpadów na terenie po wyrobisku, wypełnianie wyrobiska odpadmi o kodach innych niż w decyzji, możliwy negatywny wpływ na wody podziemne"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2012-10-31",
+    "to": null,
+    "description": "od czasu uzyskania zezwolenia na odzysk odpadów"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "woda",
+  "event_description": "Biorąc pod uwagę wyniki badań próbek odpadów, pobranych 23.07.2015 r., w których stwierdzono silne zanieczyszczenie substancjami biogennymi, swobodny dostęp wód opadowych, wsiąkających w dno wyrobiska, a także oznaczone na rzędnych 56-58,65 m n.p.m. zwierciadło wód podziemnych (według przekrojów geologicznych wyrobiska), obecność kilkunastu tysięcy Mg odpadów, które wykorzystano z naruszeniem prawa do wypełnienia wyrobiska oraz nielegalnie magazynowanych na skarpach wyrobiska na działkach objętych kontrolą, stwarza potencjalne ryzyko zanieczyszczenia wód podziemnych biogenami.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wielkopolski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Czarna Rola 4, 61-625 Poznań",
+      "legal_form": "inspekcja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Wydobywanie Kruszywa(…)",
+      "address": "(…)",
+      "economic_activity_code": "38.21.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": "biogeny"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2015-12-09",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

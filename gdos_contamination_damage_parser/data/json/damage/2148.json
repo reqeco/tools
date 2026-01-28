@@ -1,0 +1,59 @@
+{
+  "registry_id": 2148,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina wiejska)",
+    "address": null,
+    "precinct": "Szklary Górne",
+    "parcel_numbers": [
+      "391/33",
+      "obręb Szklary Górne"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((302098.43117557163350284 401035.52355122845619917, 302098.93746119306888431 401033.64853152632713318, 302100.5058647592086345 401034.20561987161636353, 302098.43117557163350284 401035.52355122845619917)))",
+    "site_description": "nieutwardzona droga leśna"
+  },
+  "occurrence_time": {
+    "date": "2024-01-07",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zalanie działki wodą przemysłowa",
+  "total_area_ha": 0.0002,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. Polkowicka 52 59-305",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "644 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "WSI.511.2.2025.MR, powiązana z WSI.512.3.2024"
+}

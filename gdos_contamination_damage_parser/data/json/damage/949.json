@@ -1,0 +1,79 @@
+{
+  "registry_id": 949,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "suwalski",
+    "municipality": "Wiżajny",
+    "address": "Stankuny 16-407 Wiżajny",
+    "precinct": "28 Stankuny",
+    "parcel_numbers": [
+      "152/1",
+      "91"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((749873.5888217215 733473.0027893763,749794.2136582371 733480.940305125,749786.276142017 733523.2737231171,749796.8594972527 733555.0237866342,749889.4638548365 733601.3259627232,749958.2556632255 733602.6488821385,750011.1724387918 733565.6071414677,750019.1099551161 733555.0237869769,750027.0474714343 733545.7633517999,750398.7878206869 733528.5654013185,750425.246208309 733455.8048391612,749878.8804992891 733473.0027893838,749873.5888217215 733473.0027893763))",
+    "site_description": "torfowisko"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "Szkodę w środowisku zauważono w dn. 24.05.2012 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Szkoda w środowisku w gatunkach chronionych i chronionych siedliskach przyrodniczych spowodowana osuszeniem torfowiska na działkach o nr geod. 152/1 oraz 91 w miejscowości Stankuny, gmina Wiżajny.   Zgłoszenie dotyczyło następujących gatunków chronionych roślin: wełnianeczka alpejska Baeothryon alpinum, turzyca strunowa Carex chordorrhiza, turzyca bagienna Carex limosa, kukułka Ruthego Dactylorhiza ruthei, bagnica torfowa Scheuchzeria palustris, kruszczyk błotny Epipatctis palustris, pływacz mniejszy Utricularia minor, kukułka bałtycka Dactylorhiza baltica, rosiczka okrągłolistna Drosera rotundifolia, torfowiec brunatny Sphagnum fuscum, błotniszek wełnisty Helodium blandowii",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Centrum Ochrony Mokradeł",
+      "address": "ul. Raszyńska 32/44 m. 140 02-026 Warszawa",
+      "legal_form": "stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "43.22.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Torfowiska przejściowe i trzęsawiska (przeważnie z roślinnością z Scheuchzerio-Caricetea)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-08-30",
+    "detection_date": "2012-05-24",
+    "decisions": [
+      {
+        "issue_date": "2012-10-01",
+        "reference": "WSI.511.6.2012.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2012-11-30",
+    "actual_end": "2012-11-30",
+    "method": null,
+    "description": "Działania naprawcze polegały na: - zasypaniu miejscowym materiałem ujściowych odcinków dwóch rowów znajdujących się w południowo-wschodniej części torfowiska (do rowu głównego), na długości 5 metrów w obrębie działki o nr geod. 91 obręb 28 Stankuny.  - wykonaniu trwałego piętrzenia wys. 30 cm na rowie głównym na terenie działki o nr geod. 152/1 obręb 28 Stankuny, na skraju zadrzewień w południowo-wschodniej części torfowiska.",
+    "ecological_effect": "Przywrócono właściwe stosunki wodne w torfowisku przejściowym, co umożliwi odtworzenie zniszczonego siedliska na drodze naturalnej  regeneracji.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

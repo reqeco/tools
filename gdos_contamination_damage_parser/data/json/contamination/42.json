@@ -1,0 +1,90 @@
+{
+  "registry_id": 42,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.5095,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "olkuski",
+    "municipality": "Olkusz",
+    "address": "32-300 Olkusz, ul.Długa 1B",
+    "precinct": null,
+    "parcel_numbers": [
+      "595/31",
+      "595/32"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((538686.37199999997392297 269076.92600000102538615, 538686.6530000000493601 269077.23299999901792035, 538657.53899999998975545 269100.86210000002756715, 538655.22999999998137355 269102.72899999999208376, 538655.08600000001024455 269106.99400000099558383, 538656.53500000003259629 269109.59200000000419095, 538653.74199999996926636 269111.22600000002421439, 538637.37399999995250255 269119.57300000102259219, 538629.92799999995622784 269123.63199999899370596, 538625.2099999999627471 269126.23399999900721014, 538617.89000000001396984 269129.67600000102538615, 538616.88800000003539026 269130.13900000002468005, 538638.55599999998230487 269189.82900000002700835, 538638.88000000000465661 269194.12599999998928979, 538653.50800000003073364 269191.76000000000931323, 538659.38600000005681068 269190.6379999999771826, 538696.27000000001862645 269172.47600000002421439, 538696.91599999996833503 269172.99300000100629404, 538709.02399999997578561 269193.01099999999860302, 538716.81499999994412065 269205.88510000001406297, 538720.08799999998882413 269203.87400000001071021, 538722.78399999998509884 269210.69400000001769513, 538724.98600000003352761 269214.28209999902173877, 538727.77500000002328306 269218.38490000000456348, 538731.74899999995250255 269222.28099999902769923, 538739.73600000003352761 269225.99389999901177362, 538751.05700000002980232 269229.8959000000031665, 538763.30599999998230487 269234.59400000097230077, 538777.86300000001210719 269240.81299999897601083, 538780.393999999971129 269242.97999999998137355, 538782.50500000000465661 269247.375, 538781.68900000001303852 269253.22100000100908801, 538797.9150000000372529 269230.41499999898951501, 538789.70700000005308539 269233.8340000010211952, 538784.96699999994598329 269233.87589999998454005, 538768.48999999999068677 269226.55599999998230487, 538764.10499999998137355 269224.92899999901419505, 538751.8349999999627471 269220.64100000099278986, 538740.537999999942258 269216.59899999998742715, 538736.37899999995715916 269214.37800000002607703, 538753.14500000001862645 269205.01199999998789281, 538789.15099999995436519 269187.54599999997299165, 538782.33999999996740371 269178.35700000100769103, 538749.32099999999627471 269133.74599999899510294, 538741.05500000005122274 269100.58599999902071431, 538738.15800000005401671 269088.98299999901792035, 538733.30700000002980232 269074.20800000097369775, 538727.08799999998882413 269053.79910000000381842, 538727.34799999999813735 269050.43700000102398917, 538724.64199999999254942 269045.87599999998928979, 538713.10300000000279397 269054.9220000000204891, 538710.60100000002421439 269057.61410000000614673, 538706.61600000003818423 269060.84600000100908801, 538703.42399999999906868 269062.81900000001769513, 538686.39199999999254942 269076.90599999902769923, 538686.37199999997392297 269076.92600000102538615))",
+    "site_description": "wskazany teren położony jest na terenie tzw. Starego Olkusza  na którym od setek lat prowadzono wydobycie rud cynku i ołowiu  w wielu małych szybach. Na tym terenie swoją działalność w latach dziewięćdziesiątych i wcześniej   prowadziło Olkuskie Przedsiębiorstwo Budowlane .Natomiast w 2001 roku wieczystym użytkownikiem terenu było PPUH Janmar Sp. z o.o  prowadząca działalność handlowo-usługową , która zgodnie z postanowieniem Sądu Rejonowego z dnia  18.10.2001 zmieniła nazwę  Spółki na JURAUTO Sp. z o.o. , której Spółka Viamont Sp z o.o. była udziałowcem. Zgłoszenia w sprawie zanieczyszczenia powierzchni ziemi do Starosty dokonała Spółka Viamont Ltd Sp z o.o z siedzibą  w Krakowie  przy ul. Zakopiańskiej 288 Oddział  w Olkuszu - władający powyższym terenem. Prowadzona przez firmę działalność to  sprzedaż, serwis, części zamienne w branży motoryzacyjnej."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2004-05-11",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Pozostałe górnictwo i wydobywanie, gdzie indziej niesklasyfikowane",
+    "current": "Sprzedaż detaliczna części i akcesoriów do pojazdów samochodowych, z wyłączeniem motocykli"
+  },
+  "land_holders": [
+    {
+      "name": "Viamot Ltd. sp z.o.o.",
+      "address": "ul.Zakopiańska 288, 30-435 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "45.32.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "22,46-31,8 [mg/kg s.m.]",
+      "area_ha": 1.5095
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "3400 [mg/kg s.m.]",
+      "area_ha": 1.5095
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "5835 [mg/kg s.m.]",
+      "area_ha": 1.5095
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 3 ustawy",
+        "entity_type": "regionalny dyrektor ochrony środowiska",
+        "name": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "address": "ul. Mogilska 25",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

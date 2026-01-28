@@ -1,0 +1,79 @@
+{
+  "registry_id": 1320,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Firlejowska/Zgodna 9a",
+    "precinct": "0002 Bronowice",
+    "parcel_numbers": [
+      "066301_1.0002.AR_2.184/4"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2020-02-21",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Podczas prac ziemnych przy realizacji inwestycji polegającej na budowie budynku mieszkalnego z kondygnacjami podziemnymi natrafiono na dwa skorodowane podziemne zbiorniki paliwowe z pozostałościami produktów naftowych, nie widniejące na mapach. Podczas usuwania zbiorników, w trakcie podnoszenia, doszło do uszkodzenia powłok dna zbiorników. Zły stan techniczny zbiorników przyczynił się do ich rozszczelnienia, a w konsekwencji do wycieku substancji, skutkującego wysokim prawdopodobieństwem wystąpienia szkody w środowisku. Natychmiast podjęto działania zapobiegawcze w związku z bezpośrednim zagrożeniem szkodą w środowisku.",
+  "total_area_ha": 0.012,
+  "reporters": [
+    {
+      "name": "GALADOM S.A.",
+      "address": "ul. Fabryczna 2, 20-301 Lublin",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "GALADOM S.A.",
+      "address": "ul. Fabryczna 2, 20-301 Lublin",
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2290-6880mg/kg s.m.",
+      "area_ha": 0.012
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2020-02-21",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "inne działania tj. działania zapobiegawcze, o których mowa w art. 6 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+    "description": "Z miejsc po wydobyciu zbiorników, gdzie stwierdzono inny niż w pozostałej części wykopu kolor gruntu oraz zapach przypominający substancje ropopochodne, pobrano próby gruntu w celu określenia rodzaju zanieczyszczenia. Uzyskane wyniki potwierdziły przekroczenie dopuszczalnych zawartości substancji powodujących ryzyko. Podjęto działania zapobiegawcze w celu zmniejszenia szkody. Zanieczyszczony grunt wydobyto do głębokości 3,5 m ppt, przemieszczono poza teren inwestycji samochodami przystosowanymi do transportu odpadów niebezpiecznych i przekazano do przetworzenia. Prace prowadzono pod stałym nadzorem specjalisty ds. ochrony środowiska i gospodarki odpadami. Zasięg zanieczyszczenia określano spektrometrem XRF oraz detektorem PID LZO, na bieżąco monitorując głębokość wykonywania wykopu. Po wydobyciu zanieczyszczonego gruntu pobrano próby do badań kontrolnych. Na podstawie uzyskanych wyników stwierdzono, że na terenie przeprowadzonych prac (rejony Z-1 oraz Z-2, tj. miejsca, z których wydołowano zbiorniki) nie występują przekroczenia standardów jakości gleby i ziemi.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": "częściowo",
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "GALADOM S.A., ul. Fabryczna 2, 20-301 Lublin",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": "Podmiot korzystający ze środowiska samodzielnie podjął działania zapobiegawcze i działając na podstawie art. 19 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie, powiadomił organ o ich zakończeniu."
+}

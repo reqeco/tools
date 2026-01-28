@@ -1,0 +1,60 @@
+{
+  "registry_id": 694,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Przywidz",
+    "address": "Przywidz\t83-047",
+    "precinct": "0014",
+    "parcel_numbers": [
+      "180/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((456293.43 704194.72,456509.02 704313.81,456482.01 704342.68,456414.07 704298.65,456396.56 704297.07,456365.73 704292.82,456347.85 704288.45,456317.93 704269.89,456311.90 704261.22,456300.83 704236.89,456295.48 704226.12,456291.83 704210.45,456293.08 704195.08,456293.43 704194.72))",
+    "site_description": "zlikwidowana  Gminna Spółdzielnia \"Samopomoc Chłopska, magazyn odpadów oraz zlikwidowane zbiorniki paliwowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Przywidz ul. Gdańska 7, 83-047 Przywidz",
+      "address": "Gmina Przywidz ul. Gdańska 7, 83-047 Przywidz",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "180/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.121.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.121.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

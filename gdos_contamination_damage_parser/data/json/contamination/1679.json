@@ -1,0 +1,195 @@
+{
+  "registry_id": 1679,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.107,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Grabiszyńska 97 we Wrocławiu",
+    "precinct": "Grabiszyn",
+    "parcel_numbers": [
+      "16/6",
+      "16/7",
+      "AM-11",
+      "Grabiszyn"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((360524.78402629354968667 361328.65785155002959073, 360528.8563084265915677 361328.22153560724109411, 360528.49271180754294619 361292.51634761923924088, 360524.05683305545244366 361293.24354085727827623, 360524.78402629354968667 361328.65785155002959073)),((360605.35703706892672926 361313.67767084640217945, 360620.84625303925713524 361308.36916020867647603, 360636.11731103819329292 361302.91521092329639941, 360637.42625886667519808 361298.55205149506218731, 360635.75371441920287907 361297.67941960942698643, 360572.4151833854848519 361277.0271316489088349, 360571.97886744269635528 361278.69967609643936157, 360567.54298869060585275 361277.24528962036129087, 360567.17939207155723125 361278.2633601535926573, 360595.83080565056297928 361287.64415292436024174, 360598.01238536468008533 361288.7349427814478986, 360603.46633465000195429 361290.11660993372788653, 360605.5024757165228948 361300.58819256158312783, 360605.35703706892672926 361313.67767084640217945)),((360546.81798140634782612 361319.64065539831062779, 360553.36272054875735193 361320.51328728394582868, 360552.92640460591064766 361322.76758632191922516, 360550.52666692034108564 361325.31276265508495271, 360546.018068844510708 361325.67635927407536656, 360546.16350749210687354 361333.89364286395721138, 360550.96298286318778992 361331.13030855939723551, 360551.6174567774287425 361330.33039599756011739, 360552.05377272027544677 361330.03951870236778632, 360552.85368528211256489 361328.80329019768396392, 360554.74438770103733987 361326.62171048356685787, 360556.48965147230774164 361324.00381482660304755, 360557.65316065319348127 361322.25855105527443811, 360559.0348278054734692 361321.60407714103348553, 360558.67123118648305535 361298.62477081880206242, 360546.81798140634782612 361299.0610867616487667, 360546.74526208254974335 361301.09722782816970721, 360546.89070073014590889 361306.62389643728965893, 360546.81798140634782612 361319.64065539831062779)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Hotel Wrocław Grabiszyńska Sp. z o.o.",
+      "address": "ul. Litewska 1, 00-581 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "16/6",
+        "16/7"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "310 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "22 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "600-1700 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "5,4-12 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "260-2600 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,4-2,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "4,2-51 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,8-5,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "4,5-47 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "4,5-42 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,2-23 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,2-19 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,4-55 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "3,5-29 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "3,8-33 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-01-17",
+    "legal_basis": "art.61 Kpa w związku z art.101l Poś",
+    "case_reference": "WSI.515.22.2021.NŁ",
+    "decisions": [
+      {
+        "issue_date": "2022-08-26",
+        "reference": "WSI.515.22.2021.NŁ.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Hotel Wrocław Grabiszyńska Sp. z o.o.",
+        "address": "ul. Litewska 1, 00-581 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2022-09-01",
+    "planned_end": "2022-09-01",
+    "actual_end": "2022-09-22",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne były prowadzone metodą ex-situ, zanieczyszczony grunt został wydobyty z powierzchni ok. 0,107 ha, do głębokości ok. 0,25 m ppt.",
+    "ecological_effect": "Usunięto zanieczyszczony grunt i przekazano uprawnionemu podmiotowi. Badania kontrolne potwierdziły, że zawartości substancji powodujących ryzyko w glebie i ziemi nie przekraczają zawartości dopuszczalnych.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

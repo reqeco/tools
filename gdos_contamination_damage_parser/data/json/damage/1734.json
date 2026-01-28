@@ -1,0 +1,94 @@
+{
+  "registry_id": 1734,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "kościański",
+    "municipality": "Kościan (gmina miejska)",
+    "address": "ul. Śmigielska 62, 64-000 Kościan",
+    "precinct": "Kościan",
+    "parcel_numbers": [
+      "169/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((337050.64788153337 470398.934254854,337042.7103656416 470364.80293659214,337057.52706199186 470331.99453764316,337099.33131239074 470364.5383527335,337050.64788153337 470398.934254854))",
+    "site_description": "Teren funkcjonującej stacji paliw nr 287 w Kościanie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Badania stanu gruntu w październiku 2022 r. wykazały zanieczyszczenie powierzchni ziemi funkcjonującej stacji paliw nr 287"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi związane z funkcjonowaniem stacji paliw",
+  "total_area_ha": 0.1512,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "67 mg/kg s.m.",
+      "area_ha": 0.142
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "117 mg/kg s.m.",
+      "area_ha": 0.0082
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "5,17 mg/kg s.m.",
+      "area_ha": 0.0082
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "15,4 mg/kg s.m.",
+      "area_ha": 0.0082
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2023-05-05",
+    "detection_date": "2022-10-31",
+    "decisions": [
+      {
+        "issue_date": "2023-06-02",
+        "reference": "WSS.511.2.2023.ASB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

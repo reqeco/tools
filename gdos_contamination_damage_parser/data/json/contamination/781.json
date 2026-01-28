@@ -1,0 +1,65 @@
+{
+  "registry_id": 781,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.5225,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "raciborski",
+    "municipality": "Racibórz",
+    "address": "ul. Szkolna 16 47-400 Racibórz",
+    "precinct": "0006 Płonia a. m. 2",
+    "parcel_numbers": [
+      "241101_1.0006.AR_2.302/27"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((445445.472000 247436.695000,445451.961000 247435.378000,445472.713000 247431.073000,445489.019000 247427.646000,445502.286000 247424.959000,445504.061000 247424.596000,445593.119000 247406.172000,445593.897000 247406.012000,445684.221000 247387.321000,445678.550000 247366.917000,445671.522000 247368.251000,445622.127000 247378.737000,445583.444000 247386.741000,445483.762000 247407.556000,445447.716000 247414.706000,445443.604000 247415.860000,445445.472000 247436.695000))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1990-01-01",
+    "description": "Potencjalne historyczne zanieczyszczenie powierzchni ziemi miało związek z działalnością Miejskiego Przedsiębiorstwa Gospodarki Komunalnej i Mieszkaniowej w Raciborzu Oddział Dróg, które funkcjonowało na tym terenie do lat 80-tych ubiegłego wieku."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-22",
+    "legal_basis": "art. 101c ust. 3",
+    "case_reference": "WSI.513.47.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-06-25",
+        "reference": "WSI.513.47.2019.MB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

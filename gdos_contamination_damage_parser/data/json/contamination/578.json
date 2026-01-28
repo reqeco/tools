@@ -1,0 +1,176 @@
+{
+  "registry_id": 578,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.06,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "pyrzycki",
+    "municipality": "Kozielice",
+    "address": "Łozice",
+    "precinct": "Łozice",
+    "parcel_numbers": [
+      "22/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((218631.62004400001023896 592972.4744339999742806, 218599.7820040000078734 593032.51675800001248717, 218588.50308100000256673 593042.05475600005593151, 218564.01282100001117215 593014.77021500002592802, 218567.94420399999944493 592970.4260939999949187, 218583.17537700000684708 592948.79434200003743172, 218631.62004400001023896 592972.4744339999742806))",
+    "site_description": "teren po byłej stacji paliw, zanieczyszczony fragment działki"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Działalność stacji paliw na potrzeby PGR Łozice"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Łozice Sp. z o.o.",
+      "address": "Łozice 27, 74-200 Pyrzyce",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "01.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "556 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,07 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "2,66 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "2,66 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "3,78 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,74 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,34 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "2,84 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,446 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "2,11 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,159 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "436 mg/kg s.m.",
+      "area_ha": 0.06
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2790 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-09-06",
+    "legal_basis": "101h, 101l ustawy POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-12-31",
+        "reference": "WONS-NS.515.8.2018.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-01-07",
+        "reference": "WONS-NS.513.27.2018.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Łozice Sp. z o.o.",
+        "address": "Łozice 27, 74-200 Pyrzyce",
+        "economic_activity_code": "01.11.Z"
+      }
+    ],
+    "planned_start": "2019-01-31",
+    "planned_end": "2019-04-30",
+    "actual_end": "2019-04-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Sposób przeprowadzenia remediacji powierzchni ziemi. 1.\tRemediacja przeprowadzona będzie w trybie ex situ poprzez usunięcie zanieczyszczenia, przynajmniej do dopuszczalnych zawartości w glebie i w ziemi substancji powodujących ryzyko, określonych w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 roku w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395) dla I grupy gruntów.  2.\tPrace remediacyjne środowiska gruntowego przeprowadzone metodą ex situ, będą polegały na kontrolowanym usunięciu największego ładunku zanieczyszczonego gruntu, bez względu na głębokość jego zalegania i zastąpieniu go gruntem wolnym od zanieczyszczeń. 3.\tWykop będzie można uzupełnić gruntem czystym dopiero po usunięciu całego zanieczyszczenia, pobraniu z dna wykopu oraz jego ścian prób do analiz laboratoryjnych i uzyskaniu wyników potwierdzających, że pozostały w wykopie grunt jest czysty tj. spełnia normy dla grupy I w zakresie stwierdzonych zanieczyszczeń. 4.\tGrunt niespełniający standardów dla I grupy gruntów należy traktować jako odpad niebezpieczny o kodzie 17 05 03*, który po wydobyciu należy przekazać odbiorcy posiadającemu stosowne decyzje na unieszkodliwienie tego odpadu.  5.\tNa potwierdzenie wydobycia i utylizacji zanieczyszczonego gruntu należy wystawić karty przekazania odpadu.  6.\tZanieczyszczoną wodę, która podczas prac może napłynąć do wykopu należy odpompować i przekazać do utylizacji, w celu wyeliminowania ryzyka wtórnego zanieczyszczenia gruntu.  7.\tWszystkie prace remediacyjne będą prowadzone pod stałym nadzorem geologicznym, w tym w zakresie procesu usuwania i załadunku gruntu, przy zachowaniu szczególnych środków bezpieczeństwa oraz zastosowaniu środków ochrony indywidualnej, odpowiednich do rodzaju wykonywanych prac i zagrożeń związanych z narażeniem na kontakt z odpadami niebezpiecznymi. 8.\tW czasie prowadzenia prac należy prowadzić stały monitoring środowiska gruntowego. a)\tw trakcie i po zakończeniu prac należy dokonać poboru co najmniej 6 próbek z przedziału głębokości od 0,0 – 0,25 m ppt. oraz co najmniej 5 z głębokości przekraczającej 0,25 m ppt. b)\tschemat poboru prób (ze ścian i dna wykopu) określi osoba pełniąca nadzór nad procesem remediacji, w sposób nie pozostawiający wątpliwości co do osiągniętego efektu ekologicznego. 9.\tPobór prób gruntu do analiz oraz analizy laboratoryjne muszą być wykonane zgodnie z zapisami Rozporządzenia Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "ecological_effect": "Uzyskane wyniki badań gruntu wskazują , że osiągnięto zakładany efekt ekologiczny (grupa gruntów I)",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

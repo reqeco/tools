@@ -1,0 +1,134 @@
+{
+  "registry_id": 1641,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": null,
+    "precinct": "ul. Petersona w Bydgoszczy, obręb 0132",
+    "parcel_numbers": [
+      "7/371",
+      "7/372",
+      "7/415",
+      "7/345",
+      "7/474",
+      "7/473",
+      "7/420",
+      "7/419",
+      "7/344",
+      "7/336",
+      "7/604"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((437487.40591214236 580562.457098877,437471.0017126622 580566.1612729561,437461.212109752 580579.3904660782,437490.8455023523 580723.0595034175,437503.54552775243 580722.5303356983,437540.1110158928 580892.3402602086,437523.7068164126 580895.5152665572,437531.1151645627 580918.7986464575,437663.93626354437 580891.8110924885,437716.3238600151 580884.2704601977,437717.64677932503 580909.4059271393,437678.7529598445 580919.856981908,437706.2696815448 581071.7281189784,438296.2916949215 580959.0153935608,438255.0166123712 580743.6441294905,438247.079096501 580756.8733226098,438077.21625676914 580785.97754749,438069.27874089906 580739.4107876793,437994.1369239481 580754.7566517098,438001.01610436826 580801.8525792379,437544.344357693 580885.9902475057,437487.40591214236 580562.457098877)))",
+    "site_description": "Teren po dawnych Zakładach Chemicznych \"Zachem\" S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa (Prezydent Miasta Bydgoszczy)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gruntu nastąpiło  wyniku produkcji chemicznej  prowadzonej na analizowanym terenie.",
+  "total_area_ha": 0.0845,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "P3 Warsaw IV Sp. z o.o.",
+      "address": "ul. Złota 59 00-120 Warszawa",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "661 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "641 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "> 1000 mg/kg s.m.;",
+      "area_ha": 0.0235
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chlorobenzeny pojedyncze",
+      "concentration": "2,8 mg/kg s.m.",
+      "area_ha": 0.0295
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chlorobenzeny (suma)",
+      "concentration": ">200 mg/kg s.m.",
+      "area_ha": 0.0295
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "> 1000 mg/kg s.m.",
+      "area_ha": 0.0055
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chlorobenzeny pojedyncze",
+      "concentration": "12,5 mg/kg s.m.",
+      "area_ha": 0.0055
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chlorobenzeny (suma)",
+      "concentration": ">200 mg/kg s.m.",
+      "area_ha": 0.0055
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2022-11-02",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-01-27",
+        "reference": "WSS.511.8.2022.SG.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-03-01",
+    "planned_end": "2023-09-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediację należy przeprowadzić metodą ex-situ, poprzez usunięcie zanieczyszczonych gruntów w punktach poboru prób, zgodnie ze wskazanymi współrzędnymi. Prace remediacyjne związane z usuwaniem zanieczyszczonych gruntów prowadzić do chwili całkowitego ich usunięcia. Po wybraniu całości zanieczyszczonego gruntu, wykopy wypełnić czystym kruszywem budowlanym w związku z planowanymi robotami ziemnymi.",
+    "ecological_effect": "W wyniku działań remediacyjnych uzyskano efekt ekologiczny dla analizowanych substancji, których poziom w gruncie nie przekracza wartości dopuszczalnej dla gruntów grupy IV zgodnie z rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz.U. 2016, poz.1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": "WSS.511.8.2022.SG"
+}

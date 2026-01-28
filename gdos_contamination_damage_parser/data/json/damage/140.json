@@ -1,0 +1,73 @@
+{
+  "registry_id": 140,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Płock",
+    "municipality": "Płock",
+    "address": "Płock ul. Zglenickiego 54",
+    "precinct": null,
+    "parcel_numbers": [
+      "10/52"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((544244.9289221491 525253.2486662101,544242.8122512491 525069.0982979015,544460.3001862293 525062.7482852004,544462.4168571293 525249.5444921302,544244.9289221491 525253.2486662101))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2008-02-19",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektorat Ochrony Środowiska",
+      "address": "ul. Bartycka 110 A 00-716 Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "P.H.U. \"IZOTECHNIK\" Sp. z o.o.",
+      "address": "Płock Zglenickiego 54",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2008-12-01",
+    "detection_date": "2008-02-19",
+    "decisions": [
+      {
+        "issue_date": "2008-12-08",
+        "reference": "RDOŚ-14-WSI-6661-2/08/eb",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": "powierzchnia ziemi spełnia przewidziane prawem standardy",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

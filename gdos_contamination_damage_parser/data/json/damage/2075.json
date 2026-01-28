@@ -1,0 +1,56 @@
+{
+  "registry_id": 2075,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "mielecki",
+    "municipality": "Mielec (gmina miejska)",
+    "address": null,
+    "precinct": "0005 Smoczka",
+    "parcel_numbers": [
+      "181101_1.0008.1879/24"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON ((677265.43281573604326695 269519.24045866500819102, 677250.45631792396306992 269536.55012921598972753, 677217.86144111200701445 269506.81152926798677072, 677218.95938299095723778 269505.03082237800117582, 677231.55588792602065951 269485.47699148999527097, 677253.66613639204297215 269447.57666566502302885, 677254.84500149497762322 269448.36841108597582206, 677258.56718571705278009 269450.9086494569783099, 677300.54500250297132879 269479.45910543302306905, 677265.43281573604326695 269519.24045866500819102))",
+    "site_description": "łąki trwałe Ł, grunty orne R, pastwiska trwałe Ps, grunty zadrzewione i zakrzewione na użytkach rolnych Lzr"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2025-01-25",
+    "to": "2025-02-27",
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Prezydent Miasta Mielca)",
+  "land_owner": "jednostka samorządu terytorialnego (Prezydent Miasta Mielca)",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "27 stycznia 2025 r. stwierdzono zanieczyszczenie potoku Trześń w okolicy ul. Inwestorów w Mielcu białą zawiesiną, z dużą pewnością pochodzenia przemysłowego, która zalegała w małym rowie, aż po ujście tego rowu do potoku Trześń.",
+  "total_area_ha": 4.7526,
+  "reporters": [
+    {
+      "name": "Prezydent Miasta Mielca",
+      "address": "ul. Żeromskiego 26, 39-300 Mielec",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-02-17",
+    "detection_date": "2025-01-28",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Sprawa znak WSI.512.1.2025.KT.7"
+}

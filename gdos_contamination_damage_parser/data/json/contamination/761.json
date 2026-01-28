@@ -1,0 +1,120 @@
+{
+  "registry_id": 761,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "oświęcimski",
+    "municipality": "Oświęcim (gmina miejska)",
+    "address": "Wysokie Brzegi",
+    "precinct": "Miasto Oświęcim",
+    "parcel_numbers": [
+      "121301_1.0001.1007/24",
+      "121301_1.0001.1069/82"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((517162.9884853501 242009.73795612715,517267.2345271801 242014.50046564732,517176.74684619997 241783.254169818,517104.25086788007 241806.0083819963,517129.65091868007 241879.03352804668,517114.83422237996 241859.45432222635,517022.2298704999 241901.2585724974,517018.52569642995 241905.49191429839,517021.70070278 241924.0127846785,517082.55499115004 241983.80873759836,517104.25086787995 241997.56709844805,517162.9884853501 242009.73795612715))",
+    "site_description": "teren na którym w przeszłości działalność prowadził zakład Bacutil"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres funkcjonowania zakładu Bacutil"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja gotowej paszy dla zwierząt gospodarskich",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miasto Oświęcim",
+      "address": "ul. Zaborska 2, 32-600 Oświęcim",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "47",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1190",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "424",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "493-740",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "8,55",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "641-662",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-22",
+    "legal_basis": "art. 61 § 3 Kodeks postępowania administracyjnego",
+    "case_reference": "ZS.513.24.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2019-04-25",
+        "reference": "ZS.513.24.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Miasto Oświęcim",
+        "address": "ul. Zaborska 2, 32-600 Oświęcim",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

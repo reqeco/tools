@@ -1,0 +1,107 @@
+{
+  "registry_id": 122,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 3.751,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "słupski",
+    "municipality": "Słupsk",
+    "address": "76-204 Redzikowo",
+    "precinct": "0021 Redzikowo",
+    "parcel_numbers": [
+      "43/65 KM 3",
+      "obręb 0021 Redzikowo",
+      "gmina Słupsk"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((379642.9827572849 736842.0362787759,379574.19095298694 736625.0775115248,379111.169193262 736606.5566411391,379108.5233546304 736588.0357707683,378936.5438438659 736601.2649638848,378822.7727829071 736572.1607390139,378804.2519125135 736529.8273210125,378671.95998116356 736304.9310378805,378613.75153137 736177.9307838827,378341.23015278205 736162.0557521265,377952.2918745847 736207.035008749,377899.3751020415 736191.1599769983,377883.50007028785 735749.3049266199,377616.2703689462 735754.5966038657,377576.58278952993 735889.5343737332,377486.62427620444 735897.4718896132,377457.52005130076 735863.0759874815,377423.1241491519 735863.0759874806,377483.9784375679 736101.2014637431,376859.5605215309 736275.8268129826,376809.2895876098 736164.7015907327,376761.66449232836 736164.7015907327,376737.8519446797 736074.7430774821,376629.3725609643 736101.2014637282,376589.68498155347 735926.5761144701,376512.955661356 735934.5136303483,376425.6429866653 735654.0547360973,376359.4970209767 735661.9922519652,376446.8096956754 736032.409659477,376478.559759202 736085.3264319757,376325.1011188166 736064.1597229643,376298.6427325422 736101.2014637245,376301.28857116227 736204.3891700953,376176.93415568117 736201.7433314631,376179.5799943038 736188.5141383428,376118.72570588044 736138.2432044707,376094.9131582308 736069.4514002213,376049.93390157016 736069.4514002204,376026.12135391566 736196.45165422,375674.2248164758 736177.9307838343,375679.5164937375 735897.4718895843,375660.9956233405 735897.4718895853,375568.39127135853 736990.2032417106,375629.2455597825 737082.8075935813,375769.4750070397 737143.6618819637,375901.7669384098 737167.4744295869,376002.3088062501 737204.5161703387,376274.83018486504 737201.8703317214,376632.01839955605 737432.0582921077,376854.2688442484 737503.4959349809,376989.20661424217 737635.7878662348,377047.41506404354 737580.225255115,377711.520559485 737617.2669958742,377737.97894575645 737643.7253821269,377867.62503848306 737683.4129614979,378005.2086470962 737696.6421546284,378346.52183000423 737696.6421546349,378407.3761184234 737693.9963160064,378452.35537508863 737733.6838953849,378582.00146781426 737649.0170593895,378595.230660956 737590.8086096384,378666.66830388433 737524.6626440082,378724.87675368076 737508.7876122603,378791.02271936426 737453.2250011424,378859.8145236674 737500.8500963934,378910.08545757725 737482.3292260151,378994.7522936417 737588.1627710173,379066.18993657635 737638.4337048978,379145.5650953878 737656.9545752686,379161.44012715056 737627.8503503902,379203.7735451842 737585.5169323981,379232.87777008786 737529.9543212699,379283.1487039973 737498.2042577695,379359.87802418065 737278.599651901,379412.79479673086 737299.766360892,379399.56560359243 737209.8078476526,379486.87827829056 737138.3702047756,379505.39914867387 737178.0577841466,379600.6493392465 737167.4744296456,379568.8992757244 737058.9950460251,379579.4826302364 736860.5571491467,379640.33691866277 736842.0362787768,379642.9827572849 736842.0362787759))",
+    "site_description": "Teren Bazy Paliw MPS - 2 na terenie dawnego lotniska wojskowego w Redzikowie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "1920-1994"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury",
+      "address": "Jana z Kolna 8b,81-301 Gdynia",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "50,01 - 508,0 mg/kg s.m.",
+      "area_ha": 3.751
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "6,46  mg/kg s.m.",
+      "area_ha": 3.751
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "565,0 - 5816,0 mg/kg s.m.",
+      "area_ha": 3.751
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1109,0 - -1609,0 mg/kg s.m.",
+      "area_ha": 3.751
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-04-26",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WSI-I.511.9.2016.AK.5",
+    "decisions": [
+      {
+        "issue_date": "2016-09-27",
+        "reference": "RDOŚ-Gd-WSI-I.511.9.2016.AK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury",
+        "address": "Jana z Kolna 8b,81-301 Gdynia",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2016-10-19",
+    "planned_end": "2023-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Do prowadzenia remediacji będzie wykorzystanych 94 otwory, w tym 84 otwory projektowane oraz 10 otworów istniejących: projektowane wielofunkcyjne otwory technologiczne - 29 szt, projektowane otwory sczerpujące - 40 szt, projektowane studnie depresyjne - 9 szt, projektowane piezometry monitoringowe - 6 szt, istniejące monitoringowe piezometry technologiczne - 4 szt, istniejące piezometry monitoringowe - 2 szt, istniejące studnie monitoringowe - 4 szt",
+    "ecological_effect": "spodziewany efekt: osiągnięcie wymaganych przepisami dopuszczalnych zawartości w glebie i ziemi  substancji powodujących ryzyko",
+    "effect_assessment": null
+  },
+  "notes": null
+}

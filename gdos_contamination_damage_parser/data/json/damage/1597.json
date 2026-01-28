@@ -1,0 +1,68 @@
+{
+  "registry_id": 1597,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": null,
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": "rzeka Wisła na odcinku rozpoczynającym się od wysokości ul. Farysa w Warszawie"
+  },
+  "occurrence_time": {
+    "date": "2020-08-27",
+    "from": null,
+    "to": null,
+    "description": "ok. godz. 14.00"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "rozszczelnienie rurociągów technologicznych transportujących ścieki z Warszawy lewobrzeżnej do oczyszczalni ścieków \"Czajka\" co spowodowało intensywny wypływ ścieków oraz zalanie tunelu przesyłowego co rozpoczęło zrzut ścieków nieoczyszczonych do Wisły na wysokości ul. Farysa.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanlizacji m.st. Warszawie S.A.",
+      "address": "Pl. Starynkiewicza 5 02-015 Warszawa",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Miejskie Przedsiębiorstwo Wodociągów i Kanlizacji m.st. Warszawie S.A.",
+      "address": "Pl. Starynkiewicza 5 02-015 Warszawa",
+      "economic_activity_code": "36.00.Z, 38.12.Z, 38.11.Z, 38.21.Z, 38.22.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie ekologicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2020-08-29",
+    "detection_date": "2020-08-29",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2020-09-27",
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Po odpompowaniu ścieków i ustaleniu przyczyny awarii rurociągów zostały wdrożone prace naprawcze mające na celu uszczelnienie rurociągów i uszczelnienie rurociągów.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

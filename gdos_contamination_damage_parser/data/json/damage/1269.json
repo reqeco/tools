@@ -1,0 +1,70 @@
+{
+  "registry_id": 1269,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "pajęczański",
+    "municipality": "Działoszyn",
+    "address": "ul. Przemysłowa  98-355 Działoszyn",
+    "precinct": "0003",
+    "parcel_numbers": [
+      "492"
+    ],
+    "coordinates_ewkt": "SRID=2180;POINT(490703.73372281005 360430.0182456365)",
+    "site_description": "Zakład Wodociągów i Kanalizacji w Działoszynie - oczyszczalnia ścieków, km rzeki Warty 619+650"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "październik 2019 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "zagrożenie zanieczyszczenia środowiska spowodowane awarią komory  nr 4 bloku technicznego Oczyszczalni Ścieków w Działoszynie , nastąpił niekontrolowany awaryjny zrzut ścieków ze zbiornika biologicznego  do rzeki Warty",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Miasto i Gmina Działoszyn - Zakład Wodociągów i Kanalizacji w Działoszynie",
+      "address": "ul. Piłsudskiego 21 98-355 Działoszyn",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zakład Wodociągów i Kanalizacji w Działoszynie",
+      "address": "ul. Piłsudskiego 21 98-355 Działoszyn",
+      "economic_activity_code": "36.00.Z, 37.00.Z, 43.22.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym, w stanie ekologicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2019-11-01",
+    "method": null,
+    "description": "ograniczono odbiór ścieków dowożonych poprzez zamknięcie stacji zlewczej oczyszczalni Działoszy, zmniejszono obciążenie komory 4 ze ściekami surowymi celem odbudowy złoża biologicznego w komorze, przepompowano osad czynny z innych komór celem poprawny funkcjonowania komory 4, wykonano modernizację urządzeń",
+    "ecological_effect": "uprawdopodobniono, poprzez wykonanie badań, brak negatywnego wpływu ścieków oczyszczonych na jakość wody w rzece Warcie",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "Bezpośrednie zagrożenie szkodą w środowisku"
+}

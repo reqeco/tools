@@ -1,0 +1,114 @@
+{
+  "registry_id": 2048,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.125,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Szeligowska 24/a",
+    "precinct": "6-13-02",
+    "parcel_numbers": [
+      "7/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628670.6513141256 486295.8788409149,628706.6347194539 486291.1163313957,628725.6847575704 486367.3164837966,628689.9659361024 486376.04775125626,628683.3513395368 486347.47269410547,628678.0596622827 486349.060197277,628675.1492397899 486335.56642029714,628680.176333184 486334.24350097496,628670.6513141256 486295.8788409149))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska sp. z o.o.",
+      "address": "Rondo ONZ 1 budynek Rondo 1, 24 piętro 00-124 Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "7/1"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "γ-HCH",
+      "concentration": null,
+      "area_ha": 0.1
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 0.025
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dieldryna",
+      "concentration": null,
+      "area_ha": 0.025
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-08-12",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.31.2024.MTo",
+    "decisions": [
+      {
+        "issue_date": "2024-09-12",
+        "reference": "WOOŚ-IV.515.31.2024.MTo",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska sp. z o.o.",
+        "address": "Rondo ONZ 1 budynek Rondo 1, 24 piętro 00-124 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-09-01",
+    "planned_end": "2027-03-31",
+    "actual_end": "2024-12-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex situ",
+    "ecological_effect": "Zawartość substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadziła remediacja jest zgodna z dopuszczalnymi zawartościami substancji powodujących ryzyko określonymi dla grupy I w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. poz. 1395),",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

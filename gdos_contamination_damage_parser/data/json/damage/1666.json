@@ -1,0 +1,118 @@
+{
+  "registry_id": 1666,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "bełchatowski",
+    "municipality": "Bełchatów (gmina wiejska)",
+    "address": "Wola Grzymalina 11 97-427 Rogowiec",
+    "precinct": "Wola Grzymalina",
+    "parcel_numbers": [
+      "2022/5",
+      "2022/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((522869.9541323491 377223.9317228282,522869.9874483725 377216.46766371094,522882.3439909468 377214.6567786578,522884.2849395998 377198.99056945834,522894.7705817441 377197.1713520326,522902.7570123337 377168.46963343583,522918.09887065244 377168.5382322222,522923.17225613707 377205.50899849366,522928.78509060247 377205.5341127617,522930.1899158152 377142.46726876125,522902.12539774773 377142.341752206,522901.34698534466 377149.056157724,522892.36301645945 377149.76244236715,522890.5454043254 377137.8114117002,522928.7181924183 377136.8624385549,522930.6058643035 377133.13871983625,522932.1410584612 377124.56159794424,522929.1591900365 377121.9357311027,522907.0816807599 377121.83698321134,522906.37166446727 377113.24979822803,522911.23787737027 377112.8983366303,522912.7146335429 377117.3835565457,522931.0552188042 377116.34594952594,522932.65389142954 377093.5867578443,522929.6736752452 377090.5876626903,522892.63313861476 377089.30238093156,522890.4679824911 377071.378121878,522896.9094122135 377053.49225324113,522896.678634564 377021.39398756437,522869.44847595075 377001.86465683393,522870.7226753233 376967.9066466596,523239.5969761231 376990.09387198556,523214.20333329856 377226.22627429944,523209.34565773106 377224.7114266418,523208.3346639479 377200.074904575,523173.16254578833 377199.5424998179,523170.89546873485 377204.3840027619,523125.6169027732 377204.55265432503,523127.01595653733 377226.2052048966,523107.932394089 377226.1191029232,523109.9127443149 377201.86931643635,522950.8873148736 377200.0348916827,522942.26090654475 377204.47479985,522939.2289647215 377213.045084361,522938.42545188346 377225.3574344078,522869.9541323491 377223.9317228282))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "08.2022r. po audycie"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "w wyniku badań audytowych",
+  "total_area_ha": 0.02,
+  "reporters": [
+    {
+      "name": "SEMPERTRANS Bełchatów Sp. z o.o.",
+      "address": "Wola Grzymalina 11 97-427 Rogowiec",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "SEMPERTRANS Bełchatów Sp. z o.o.",
+      "address": "Wola Grzymalina 11 97-427 Rogowiec",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "powyżej 50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 1000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "powyżej 5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "powyżej 10 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "powyżej 10 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2023-01-30",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-08-08",
+        "reference": "WSI.511.2.2022.PS.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-04-09",
+        "reference": "WSI.511.5.2023.MG.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-09-01",
+    "planned_end": "2025-11-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "prce ex-situ i in-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

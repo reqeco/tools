@@ -1,0 +1,99 @@
+{
+  "registry_id": 2,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.307,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "zgorzelecki",
+    "municipality": "Zgorzelec (gmina wiejska)",
+    "address": "59-900 Jerzmanki",
+    "precinct": "Jerzmanki",
+    "parcel_numbers": [
+      "nr 515",
+      "obręb Jerzmanki"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((224496.99094661232084036 369547.28445240668952465, 224493.20497122302185744 369550.99782474432140589, 224546.3828817835310474 369607.19546350743621588, 224552.74802493659080938 369613.53990467544645071, 224574.60620081360684708 369588.80990288872271776, 224587.00432535173604265 369575.13673758506774902, 224607.22327890421729535 369552.3703332357108593, 224628.83881679060868919 369527.28690400626510382, 224650.72815027029719204 369499.74320969637483358, 224653.11537652235710993 369495.80444986931979656, 224653.82038659951649606 369493.72041655611246824, 224653.75012550048995763 369491.49125328939408064, 224652.43789559730794281 369489.56111425161361694, 224649.02039097214583308 369486.86701397318392992, 224609.28220863040769473 369449.00981101486831903, 224598.10741404793225229 369438.06350586097687483, 224595.04394210351165384 369441.52315802499651909, 224496.99094661232084036 369547.28445240668952465))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "Polskiego Koncernu Naftowego ORLEN Spółka Akcyjna",
+      "address": "z siedzibą w Płocku przy ul. Chemików 7",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "530 mg/kg s.m.",
+      "area_ha": 0.17
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "28,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "33 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-12-22",
+    "legal_basis": "art. 19 w związku z art. 20 ust. 1 pkt 1 oraz art. 101l ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska  w związku z art. 104 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego",
+    "case_reference": "WSI.511.12.2014.AS",
+    "decisions": [
+      {
+        "issue_date": "2015-02-27",
+        "reference": "WSI.511.12.2014.AS.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polskiego Koncernu Naftowego ORLEN Spółka Akcyjna",
+        "address": "z siedzibą w Płocku przy ul. Chemików 7",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2015-03-31",
+    "planned_end": "2018-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Oczyszczenie powierzchni ziemi (gleby, ziemi i wód podziemnych) na przedmiotowym terenie metodą in – situ (prowadzenie prac w miejscu występowania zanieczyszczenia bez konieczności ich przemieszczania), poprzez wykorzystanie kontenerowej stacji oczyszczania wody oraz produkcji i aplikacji biopreparatu do gleby.",
+    "ecological_effect": "wyniki badań potwierdzają osiągnięcie efektu ekologicznego",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

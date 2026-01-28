@@ -1,0 +1,59 @@
+{
+  "registry_id": 1037,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "piotrkowski",
+    "municipality": "Wolbórz",
+    "address": "ul. Grunwaldzka 5 Wolbórz",
+    "precinct": null,
+    "parcel_numbers": [
+      "863/8 i 871/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((557980.67989999998826534 404221.50950000097509474, 557998.77020000002812594 404222.60999999899649993, 558016.85019999998621643 404223.70039999997243285, 558016.42020000005140901 404230.72949999902630225, 558056.31019999994896352 404238.26039999898057431, 558055.5398999999742955 404242.81050000002142042, 558056.77029999997466803 404241.78049999999348074, 558072.43009999999776483 404244.47019999998155981, 558075.85999999998603016 404223.74989999999525025, 558082.57999999995809048 404183.00039999897126108, 558081.48979999998118728 404182.87010000098962337, 558077.72999999998137355 404182.00979999999981374, 558069.09979999996721745 404180.91039999999338761, 558060.85019999998621643 404183.37020000099437311, 558056.78009999997448176 404182.62979999900562689, 558049.34010000003036112 404179.76949999999487773, 557982.80989999999292195 404186.3505000009899959, 557981.97970000002533197 404200.10989999998128042, 557980.67989999998826534 404221.50950000097509474))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2015-03-10",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w środowisku w powierzchni ziemi wskutek odkopania 13 szt. beczek z trucizną",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Powiatu Piotrkowskiego",
+      "address": "ul. Dąbrowskiego 7 97-300 Piotrków Trybunalski",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2017-07-17",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2022-10-28",
+        "reference": "WSI.512.22.2017.AR.MG.29",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

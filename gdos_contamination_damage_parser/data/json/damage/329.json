@@ -1,0 +1,92 @@
+{
+  "registry_id": 329,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Szczecin Zofii Nałkowskiej 2-10",
+    "precinct": null,
+    "parcel_numbers": [
+      "43/7 obręb Dąbie 82"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((211731.07320774398976937 620785.05792460299562663, 211723.14999265599180944 620747.88990975799970329, 211722.92463713401230052 620746.81133560405578464, 211694.71903944399673492 620759.50527289300225675, 211675.41989721398567781 620762.35323977703228593, 211669.09945561800850555 620762.23364908504299819, 211666.30328246299177408 620760.89932152302935719, 211668.61426020300132222 620772.46386436303146183, 211635.9275020310014952 620779.12697782402392477, 211635.59694618001230992 620780.79031521896831691, 211633.83068513000034727 620783.90315669204574078, 211630.51433347599231638 620785.40613288397435099, 211627.88792358798673376 620784.39238070300780237, 211626.46218846799456514 620783.84721667796839029, 211622.83702539300429635 620781.06008921703323722, 211614.43213940301211551 620795.05533506604842842, 211604.40539533400442451 620811.73360909905750304, 211637.98576332599623129 620833.68459153501316905, 211648.89844279299722984 620841.16235966701060534, 211669.36565569401136599 620836.92065706301946193, 211730.06840987500618212 620824.05821316002402455, 211739.38727063499391079 620824.04699002497363836, 211731.07320774398976937 620785.05792460299562663))",
+    "site_description": "Budynek wielorodzinny"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "wiosna/lato 2010 roku"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w gatunku chronionym jerzyk, polegająca na zamknięciu otworów wentylacyjnych w stropach budynku mieszkalnego przy ul. Z.Nałkowskiej 2-10 w Szczecinie",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "SM \"Bryza\" w Szczecinie",
+      "address": "Szczecin Krakowska 68",
+      "economic_activity_code": "68.32.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "jerzyk (Apus apus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-07-13",
+    "detection_date": "2010-03-10",
+    "decisions": [
+      {
+        "issue_date": "2010-08-13",
+        "reference": "RDOŚ032-WSI-6660/5-7/10/kb",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2011-04-19",
+        "reference": "WSI.512.2.2011.KB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": null,
+        "reason": "ustalenie błędnego stanu faktycznego sprawy",
+        "appealed_decision_reference": "RDOŚ-32-WSI-6660/5-7/10/kb",
+        "resolution_reference": null,
+        "appellant_name": "Fundacja Ratujmy Ptaki",
+        "appellant_address": "ul. Szafera 196/18 71-245 Szczecin",
+        "resolution_date": "2010-10-19",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchylenie i przekazanie do ponownego rozpatrzenia"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "w 2011 roku na nieruchomości zawieszono zgodnie  z warunkami decyzji budki lęgowe dla jerzyka.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

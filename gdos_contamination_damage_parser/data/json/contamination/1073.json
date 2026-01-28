@@ -1,0 +1,136 @@
+{
+  "registry_id": 1073,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1254,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "ul. Łukasińskiego 33, Szczecin",
+    "precinct": "2073 pogodno",
+    "parcel_numbers": [
+      "1/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((200821.77830599999288097 629372.74781700002495199, 200750.88564200000837445 629359.04489999997895211, 200761.31089399999473244 629290.63105299999006093, 200748.59123300001374446 629288.78047500003594905, 200733.8601009999983944 629286.44168599997647107, 200709.24098400000366382 629282.71448700001928955, 200699.55827599999611266 629281.23438000003807247, 200665.7703660000115633 629276.07836199994198978, 200655.53638100001262501 629351.28536199999507517, 200627.43067900001187809 629347.03259399998933077, 200618.85062599999946542 629402.9876640000147745, 200681.60733500000787899 629412.59843000001274049, 200681.69240599998738617 629411.97238499997183681, 200721.38116600000648759 629417.99928200000431389, 200732.46804199999314733 629419.68105699995066971, 200743.33291699999244884 629421.33522300003096461, 200754.23774599999887869 629422.98714500002097338, 200765.08207999999285676 629424.63244499999564141, 200784.84098400000948459 629427.64067200000863522, 200795.72639399999752641 629429.30370299995411187, 200806.59070299999439158 629430.94787999999243766, 200812.31118799999239855 629431.81890099996235222, 200817.46500100000412203 629432.59149499994236976, 200828.37038599999505095 629434.25340299995150417, 200848.28023800000664778 629437.27318699995521456, 200859.05464300001040101 629438.92241400002967566, 200869.83791500001098029 629440.55110100004822016, 200880.71332999999867752 629442.21469199995044619, 200891.69918299998971634 629443.88209800003096461, 200893.60896599999978207 629444.16559200000483543, 200896.115641999989748 629408.7028639999916777, 200897.84378100000321865 629399.86798400001134723, 200835.04100900000776164 629385.6905170000391081, 200820.23120899999048561 629383.5565669999923557, 200821.77830599999288097 629372.74781700002495199))",
+    "site_description": "teren po dawnej stacji paliw, teren wojskowy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-07-30",
+    "description": "stacja paliw od 1935 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Szczecinie",
+      "address": "ul. Narutowicza 17 B, 70-240 Szczecin",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "1/8"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "mg/kg s.m.1955",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "mg/kg s.m.3677",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "mg/kg s.m.8,60",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "mg/kg s.m.115",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "mg/kg s.m.48,9",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "mg/kg s.m.267",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "mg/kg s.m.6,39",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-07-09",
+    "legal_basis": "101 l POŚ",
+    "case_reference": "WONS-NS.515.5.2020.AS",
+    "decisions": [
+      {
+        "issue_date": "2020-09-11",
+        "reference": "WONS-NS.515.5.2020.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-09-17",
+        "reference": "WONS-NS.513.3.2020.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury w Szczecinie",
+        "address": "ul. Narutowicza 17 B, 70-240 Szczecin",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-09-01",
+    "planned_end": "2024-09-30",
+    "actual_end": "2021-12-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "1.\tCelem orzeczonego sposobu remediacji jest:  usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodującej ryzyko dla gruntów grupy  III  - tabela w punkcie II decyzji.  1.1.\tRemediacja zanieczyszczonej powierzchni ziemi prowadzona będzie w formie prac ex -situ z całkowitym usunięciem występującego na przedmiotowym terenie zanieczyszczenia.  - Obszar nr 1 – oszacowania ilość gruntu do wybrania i utylizacji wynosi ok. 711 m2, jego miąższość to ok. 1,7 m, objętość ok. 1209 m3.  - Obszar nr 2 - oszacowania ilość gruntu do wybrania i utylizacji wynosi ok. 499 m2, jego miąższość to ok. 1,7 m, objętość ok. 848 m3.",
+    "ecological_effect": "Z przedłożonej dokumentacji powykonawczej wynika, że osiągnięto oczekiwany efekt ekologiczny tj. usunięto stwierdzone zanieczyszczenie  przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodującej ryzyko dla gruntów grupy  III dla głębokości poniżej 0,25 m p.p.t. oraz wodoprzepuszczalności >=1x10(-7).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,79 @@
+{
+  "registry_id": 1612,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "municipality": "Otyń",
+    "address": "obręb Modrzyca, gm. Otyń",
+    "precinct": "Modrzyca",
+    "parcel_numbers": [
+      "515/1",
+      "669/4",
+      "627/1",
+      "628/6",
+      "636/1",
+      "626/1",
+      "625/2",
+      "623/1",
+      "622/1",
+      "621/1",
+      "617/1",
+      "616/1",
+      "618/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((274845.71655470575 444957.8747260319,274799.41437784024 444897.0204376746,274738.56008819037 444871.88497075345,274668.4453631862 444820.2911175834,274575.8410093779 444780.6035382431,274512.3408810528 444746.2076361291,274517.63255852973 444627.14489799645,274550.70554220234 444464.4258225551,274475.29913986754 444371.82147069555,274410.4760922546 444271.2796029644,274704.16418588324 444297.7379891239,274611.55983170285 444641.6970104091,274669.7682825294 444814.99944033474,274641.98697646766 444719.74924984016,274697.5495887705 444731.6555236336,274682.99747594015 444816.3223596392,274684.32039527455 444820.2911175778,274845.71655470575 444957.8747260319))",
+    "site_description": "budowa wałów ochronnych"
+  },
+  "occurrence_time": {
+    "date": "2021-10-05",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Zielona Góra",
+      "address": "Siemiradzkiego 19 Zielona Góra",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2021-10-14",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-01-02",
+        "reference": "WZŚ.512.7.2022.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "umorzone postępowanie",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

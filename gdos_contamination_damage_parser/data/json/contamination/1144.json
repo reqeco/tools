@@ -1,0 +1,64 @@
+{
+  "registry_id": 1144,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Gołębia 19, 81-185 Gdynia",
+    "precinct": "0026 Śródmieście",
+    "parcel_numbers": [
+      "434",
+      "436",
+      "440"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((468040.45258654875 741841.1756834835,468057.3859537488 741833.2381676035,468060.0317923688 741836.9423416834,468100.5131233387 741814.1881295023,468098.6610362987 741802.5464395527,468092.5756074586 741777.6755564827,468070.6151468687 741728.4629580528,468048.3901024188 741692.7441366129,468024.3129709387 741672.3711792016,468006.5858521487 741659.9357376639,467990.97540425864 741668.1378374035,467994.41499446874 741675.5461855521,467979.5982981687 741685.8649561936,467963.7232664187 741659.9357376639,467872.7064177187 741715.2337649325,467878.7918465586 741725.8171194317,467931.1794513287 741696.4483106919,467930.3856997487 741693.8024720624,467942.82114128873 741687.1878755027,467952.6107441986 741703.5920749819,467941.23363810877 741711.265006993,467944.1440605986 741715.2337649325,467892.28562354867 741748.5713316025,467913.1877486786 741783.2318175929,467980.39204975875 741743.5442382125,467992.56290743867 741762.3296924513,467989.91706880863 741763.3880279027,468017.9629582386 741809.1610361133,468022.1963000388 741807.8381168023,468040.9817542686 741840.9110996118,468040.45258654875 741841.1756834835))",
+    "site_description": "tereny Stoczni Gdynia, tereny zaplecza portu morskiego, obiekty produkcyjne"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja statków i konstrukcji pływających",
+    "current": "Produkcja gazów technicznych"
+  },
+  "land_holders": [
+    {
+      "name": "EUROGAZ - Gdynia Sp z o.o.",
+      "address": "ul. Czechosłowacka 3, 81-336 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "434",
+        "436",
+        "440"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-04",
+    "legal_basis": "art. 61 par. 1 i 4 z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego art. 101 c ust. 3  ustawy z dnia 27 kwietnia 2001",
+    "case_reference": "RDOŚ-Gd-WZS.513.24.2019.TW",
+    "decisions": [
+      {
+        "issue_date": "2019-04-04",
+        "reference": "RDOŚ-Gd-WZS.513.24.2019.TW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4, art. 104 k.p.a.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

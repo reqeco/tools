@@ -1,0 +1,65 @@
+{
+  "registry_id": 313,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "piaseczyński",
+    "municipality": "Konstancin-Jeziorna",
+    "address": "Konstancin Jeziorna ul. Kołobrzeska 52",
+    "precinct": "01-28",
+    "parcel_numbers": [
+      "55/6 obręb 01-28"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((642819.1164462476 470597.8268129304,643044.0127297025 470604.70599334594,643148.2587716733 470587.2434584247,643149.3171071244 470578.7767748246,643140.3212557903 470552.8475562949,643150.3754425731 470513.1599769257,643121.2712176561 470399.3889160454,643088.9919863786 470385.1013874756,643023.3751883836 470388.80556154624,643026.021027018 470401.5055869473,643004.3251502583 470443.3098372258,642964.1084030999 470438.0181599781,642952.4667131328 470433.2556504458,642952.4667131326 470425.84730229713,642894.7874310283 470398.3305805987,642870.4457156431 470396.2139096968,642836.0498134643 470410.5014382787,642813.295601262 470420.5556250503,642810.6497626293 470450.71818537917,642819.6456139731 470475.05990072805,642831.2873039411 470500.4599515302,642846.6331679842 470525.33083459735,642849.2790066184 470538.0308599984,642844.5164970825 470558.66840127856,642838.695652105 470579.3059425503,642819.1164462476 470597.8268129304))",
+    "site_description": "działka juz podzielona"
+  },
+  "occurrence_time": {
+    "date": "2010-08-14",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu należącego do firmy DANTEX S.A. chlorobezenenami,fenolem i olejem mineralnym przy ul.Kołobrzeskiej 52 (dz.o nr ew.55/6 obręb 01-28) w Konstancinie Jeziornie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ",
+      "address": "ul. Bartycka 110 A, 00-716 Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "\"DANTEX\" S.A. Kołobrzeska 52",
+      "address": null,
+      "economic_activity_code": "13.92.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-09-10",
+    "detection_date": "2010-08-14",
+    "decisions": [
+      {
+        "issue_date": "2011-06-01",
+        "reference": "WSI.510.43.2011.ES.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

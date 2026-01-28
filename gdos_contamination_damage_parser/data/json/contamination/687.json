@@ -1,0 +1,60 @@
+{
+  "registry_id": 687,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Pruszcz Gdański (gmina wiejska)",
+    "address": "Goszyn\t83-010",
+    "precinct": "Straszyn",
+    "parcel_numbers": [
+      "20/73"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((469684.87 711068.04,469787.34 711086.18,469785.15 711124.88,469812.08 711128.89,469844.55 711127.28,469842.27 711098.37,469863.25 711049.44,469969.47 711052.57,470050.59 711010.57,470048.61 710974.34,470015.08 710975.25,470007.70 710969.38,469919.67 710969.25,469926.41 710931.57,469864.96 710936.85,469844.72 710939.42,469823.72 710933.29,469715.75 710930.16,469711.24 710934.72,469684.88 711068.73,469684.87 711068.04))",
+    "site_description": "Teren dawnego Gospodarstwa rolnego \"KOMERS\", zgodnie z poz. Lit. 1  w latach 90-tych zrzut ścieków z mycia pojazdów do gruntu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "20/73"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.114.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.114.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,83 @@
+{
+  "registry_id": 1499,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina miejska)",
+    "address": null,
+    "precinct": "obręb 9",
+    "parcel_numbers": [
+      "139",
+      "obręb 9",
+      "miasto Lubin"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((303868.21131005825009197 398062.38804456498473883, 303862.13626014074543491 398057.65261301398277283, 303855.80260743119288236 398059.78392288461327553, 303854.10054526489693671 398065.52101561892777681, 303854.10533294110791758 398065.86518689151853323, 303854.04691213986370713 398066.31694269925355911, 303853.75595642026746646 398067.07577401865273714, 303853.26921998197212815 398068.52115205861628056, 303852.78926462854724377 398069.88906269986182451, 303852.47442026773933321 398070.81540817953646183, 303852.21508120186626911 398071.74973473139107227, 303852.25735380832338706 398072.52340020518749952, 303852.73340906394878402 398073.11816901713609695, 303853.75040446734055877 398073.88263158965855837, 303854.53857898572459817 398074.10590092651546001, 303855.45174194435821846 398073.97790809907019138, 303856.88326228759251535 398073.78955227229744196, 303859.27659657370531932 398072.97091747354716063, 303861.0264346559997648 398072.12135988660156727, 303862.57301714079221711 398071.2168250372633338, 303863.2296132956398651 398070.8094822084531188, 303860.89006942044943571 398063.98157207109034061, 303868.21131005825009197 398062.38804456498473883)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2021-04-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zdarzenia miało miejsce 18 kwietnia 2021 r. Awaria rurociągu DN250 relacji Lubin Wschodni – Lubin Główny, będącego w użytkowaniu wieczystym Energetyka Sp. z o.o., przechodzącego przez działkę nr 140, obręb 9 miasto Lubin, gmina Lubin, spowodowała wyciek wody do gruntu na terenie działki nr 139, obręb 9 miasto Lubin, gmina Lubin. Woda  z odpływu miała mętny kolor, mydlany zapach i pieniła się.",
+  "total_area_ha": 0.0136,
+  "reporters": [
+    {
+      "name": "Prezydent Miasta Lubin",
+      "address": "Jana Kilińskiego 10, 59-300 Lubin",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Energetyka Sp. z o.o.",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "555-3910 mg/kg s.m.",
+      "area_ha": 0.0136
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2021-07-14",
+    "detection_date": "2021-04-18",
+    "decisions": [
+      {
+        "issue_date": "2023-12-18",
+        "reference": "WSI.511.1.2023.MR.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2024-01-01",
+    "planned_end": "2024-03-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne zostaną prowadzone metodą ex-situ poprzez wydobycie zanieczyszczonego gruntu w ilości ok. 34 m3.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "WSI.512.15.2021.MR; WSI.511.1.2023.MR"
+}

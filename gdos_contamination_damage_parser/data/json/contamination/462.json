@@ -1,0 +1,107 @@
+{
+  "registry_id": 462,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.87,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Gliwice",
+    "municipality": "Gliwice",
+    "address": "ul. Sowińskiego 11; Gliwice",
+    "precinct": "0045 Przedmieście",
+    "parcel_numbers": [
+      "246601_1.0045.45/2",
+      "246601_1.0045.46/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((473695.953630 269887.060536,473715.634029 269873.773132,473714.225705 269871.647212,473717.114032 269869.762697,473717.083000 269869.716000,473653.681017 269774.776098,473650.651273 269770.254049,473647.666264 269771.157331,473623.443000 269777.355000,473633.392000 269793.253000,473693.427000 269883.906000,473695.953630 269887.060536))",
+    "site_description": "Teren działek o numerach ewidencyjnych 45/2. 46/2, obręb Przemieście, zlokalizowanych w południowo-wschodniej części zakładu Avantor Performance Materials Poland S.A. położonego przy ul. Sowińskiego 11 w Gliwicach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Na terenie zajmowanym obecnie przez AVANTOR, w 1948 roku powstała „Fabryka Odczynników Chemicznych'' („FOCh''). Budynki, które ocalały po II wojnie światowej zostały zaadaptowane na potrzeby fabryki i przystosowane do celów produkcyjnych oraz magazynowych. W pierwszych latach działalności Foch produkcja odczynników chemicznych odbywała się w prymitywnych warunkach technicznych, nie prowadzono dokumentacji technologicznych. Z początkiem lat  60. XX w. nastąpiło połączenie „FOCh” oraz Biura odczynników jako nowego podmĺotu: Przedsiębiorstwa Przemysłowo-Handlowego ''Polskie odczynniki Chemiczne'' („POCh”). Rozwój działalności, asortymentu i zatrudnienie dynamicznie wzrastały do końca lat 70. XX w. W procesach technologicznych zakładu stosowano wszystkie techniki laboratoryjne i przemysłowe: sporządzanie roztworów, ich obróbkę, filtrację, zagęszczanie, przemywanie osadów, chłodzenie, mieszanie i krystalizacja, suszenie kryształów, suszenie rozpyłowe.  Co prawda nie istnieją dane historyczne dotyczące liczby i skali zdarzeń awaryjnych, podczas których mogło dochodzić do wycieków zanieczyszczeń, Wnioskodawcy sugerują jednak, iż wobec faktu, że stwierdzone zanieczyszczenia odpowiadają substancjom wykorzystywanym w przeszłości na potrzeby produkcji odczynników, należy przyjąć, że  w trakcie wieloletniej działalności wykorzystywane technologie produkowania odczynników chemicznych, sposób magazynowania surowców i produktów, nieodpowiednia gospodarka odpadami poprodukcyjnymi, awarie, nieszczelności różnego rodzaju zbiorników powodowały przedostanie się zanieczyszczeń do ziemi. Miejsca występowania zanieczyszczeń skupione są w bezpośrednim sąsiedztwie hal produkcyjnych oraz w rejonach, gdzie znajdowały się magazyny przyprodukcyjne, warsztaty, wiaty oraz garaże. Zanieczyszczenie powierzchni ziemi występuje także w rejonie starej oczyszczalni ścieków oraz w miejscach składowania /magazynowania odpadów."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pozostałych wyrobów chemicznych, gdzie indziej niesklasyfikowana",
+    "current": "Produkcja pozostałych wyrobów chemicznych, gdzie indziej niesklasyfikowana"
+  },
+  "land_holders": [
+    {
+      "name": "Avantor Performance Materials Poland spółka akcyjna w Gliwicach",
+      "address": "Gliwice, ul. Sowińskiego 11",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "20.59.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Kadm (Cd)",
+      "concentration": "14000",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Rtęć (Hg)",
+      "concentration": "197",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Kadm (Cd)",
+      "concentration": "120",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2007-08-31",
+    "legal_basis": "101l ust. 2 POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-07-04",
+        "reference": "WSI.511.10.2.2016.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-12-07",
+        "reference": "WSI.515.6.2017.SA (decyzja zmieniająca)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Avantor Performance Materials Poland spółka akcyjna w Gliwicach",
+        "address": "Gliwice, ul. Sowińskiego 11",
+        "economic_activity_code": "20.59.Z"
+      }
+    ],
+    "planned_start": "2017-07-04",
+    "planned_end": "2017-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi zostanie przeprowadzona metodą „ex-situ”, polegającą na wydobyciu gleby i ziemi zanieczyszczonej kadmem i rtęcią w celu zmniejszenia ilości zanieczyszczeń do poziomu niestwarzającego zagrożenia dla zdrowia ludzi i stanu środowiska. Remediacja prowadzona będzie do głębokości 1,0 m ppt w podobszarze A1 i do głębokości 2,0 m ppt w podobszarze A2.",
+    "ecological_effect": "Wydobyto i przekazano do odzysku 7393,1 Mg zanieczyszczonej ziemi. Wyniki badań laboratoryjnych potwierdziły osiągnięcie stężeń określonych w decyzji.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

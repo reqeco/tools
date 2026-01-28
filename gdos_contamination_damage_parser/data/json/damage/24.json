@@ -1,0 +1,126 @@
+{
+  "registry_id": 24,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "Bydgoszcz Jagiellońska 36-38",
+    "precinct": "0149",
+    "parcel_numbers": [
+      "1/1",
+      "2/1",
+      "2/3",
+      "3/3",
+      "3/4",
+      "3/5",
+      "4/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((433998.00407446205 584656.4626616174,434007.2645096521 584658.0501647973,434005.4124226122 584644.5563878072,434014.6728578022 584637.1480396595,434029.7541379626 584638.206375109,434017.8478641524 584513.8519597277,433990.86031017185 584526.2874012673,433991.1248940319 584502.7394375075,433968.89984958165 584515.1748790368,433973.6623591116 584583.437515568,433964.1373400614 584583.7020994257,433967.8415141316 584628.945939918,433976.83736546163 584629.2105237786,433976.83736546175 584634.2376171686,433988.7436392719 584635.2959526181,433992.4478133518 584639.7938782787,433995.8874035621 584639.5292944163,433998.00407446205 584656.4626616174))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "wizja lokalna - 21.09.2007 r. w trakcie której stwierdzono w wykopach występowanie substancji ropopochodnych w postaci \"tłustych plam\","
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu związkami ropopochodnymi na działkach przy. ul Jagiellońskiej 36-38 w Bydgoszczy",
+  "total_area_ha": 0.6868,
+  "reporters": [
+    {
+      "name": "Prezydent Bydgoszczy",
+      "address": "ul. Jezuicka 1, 85-102 Bydgoszcz",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "BPBO OGBUD Sp. z o.o.",
+      "address": "Bydgoszcz Mokra 3",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Naftalen",
+      "concentration": "12 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Chryzen",
+      "concentration": "8,7 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,5 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Benzo(a)piren",
+      "concentration": "6,9 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "52,9 mg/kg",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Naftalen"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Benzo(a)piren"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2008-05-08",
+    "detection_date": "2007-09-21",
+    "decisions": [
+      {
+        "issue_date": "2008-05-27",
+        "reference": "WŚRRW-III-DL/6642/5/08",
+        "issuing_authority": "Wojewoda Kujawsko-Pomorski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "etap I i II  - prace ex-situ, Etap II - prace in-situ (bioremediacja przy użyciu preparatów mikrobiologicznych",
+    "ecological_effect": "osiągnięto standardy dla grupy gruntów B",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

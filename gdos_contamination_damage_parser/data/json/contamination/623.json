@@ -1,0 +1,60 @@
+{
+  "registry_id": 623,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Lichnowy",
+    "address": "Szymankowo\tLichnowy\t82-224",
+    "precinct": "0009",
+    "parcel_numbers": [
+      "59/5\tSzymankowo"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((494793.17 689363.94,494908.21 689296.24,494858.97 689198.95,494838.27 689209.13,494767.05 689229.87,494765.30 689235.47,494780.84 689322.29,494793.17 689363.59,494793.52 689363.24,494793.17 689363.94))",
+    "site_description": "dawniej: Państwowe Gospodarstwo Rolne Szymankowo"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu",
+    "current": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu"
+  },
+  "land_holders": [
+    {
+      "name": "\"POLHOZ\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
+      "address": "ul. Główna 9, 82-224 Szymankowo",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "59/5\tSzymankowo"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.47.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.47.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

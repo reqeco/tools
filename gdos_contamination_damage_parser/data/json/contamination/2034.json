@@ -1,0 +1,159 @@
+{
+  "registry_id": 2034,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.18,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "ostródzki",
+    "municipality": "Morąg",
+    "address": "Dąbrowskiego 22 w Morągu",
+    "precinct": "0002 miasto Morąg",
+    "parcel_numbers": [
+      "281508_4.0002.5/19"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((560213.9488740846 673105.0023364574,560218.1822158848 673100.3721188679,560249.1385278051 673087.9366773283,560259.4572984353 673106.1929638376,560258.1343791252 673110.2940137088,560233.3957879848 673116.644026408,560236.1739185348 673124.0523745595,560232.205160605 673126.0367535269,560236.0416266049 673134.7680209875,560247.0218569048 673133.3128097467,560243.8468505549 673122.3325794581,560239.7458006849 673122.7294552485,560238.555173305 673120.2159085581,560266.4687707952 673111.2200572276,560252.842701875 673086.4814660884,560257.0760436751 673084.7616709778,560295.8375795356 673132.5190581568,560231.2791170849 673151.9659720575,560226.3843156247 673129.4763437388,560218.4467997546 673119.554448897,560214.2134579548 673104.7377525978,560213.9488740846 673105.0023364574))",
+    "site_description": "zaplecze dawnej gazowni miejskiej, działka nr 5/19 obręb 0002 miasto Morąg stanowiła magazyn węgla dla instalacji właściwej, zlokalizowanej na działkach sąsiednich."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Gazownię miejską w Morągu wybudowano w latach 1902-1904"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o. z siedzibą w Tarnowie",
+      "address": "ul. Wojciecha Bandrowskiego 16, 33-100 Tarnów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "281508_4.0002.5/19"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,02-1,04 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "40,70-73,60 mg/kg s.m.",
+      "area_ha": 0.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,124-0,662 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "3,780 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,363-3,950 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,147-3,520 mg/kg s.m.",
+      "area_ha": 0.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,157 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,170-3,440 mg/kg s.m.",
+      "area_ha": 0.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,256-1,670 mg/kg s.m.",
+      "area_ha": 0.18
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,523-2,830 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,256-1,670 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,150 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Fenol",
+      "concentration": "0,15-0,48 mg/kg s.m.",
+      "area_ha": 0.18
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "0,21-0,83 mg/kg s.m.",
+      "area_ha": 0.0045
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-07-18",
+    "legal_basis": "101e ust. 1 Prawa ochrony środowiska",
+    "case_reference": "WSI.513.2.2024.JJ",
+    "decisions": [
+      {
+        "issue_date": "2024-08-06",
+        "reference": "WSI.513.2.2024.JJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101c ust. 3 pkt 3 Prawa ochrony środowiska",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

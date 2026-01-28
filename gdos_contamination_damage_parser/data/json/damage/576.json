@@ -1,0 +1,82 @@
+{
+  "registry_id": 576,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "pleszewski",
+    "municipality": "Pleszew",
+    "address": "Piekarzew 41, 63-300 Pleszew",
+    "precinct": null,
+    "parcel_numbers": [
+      "71/2 obręb Piekarzew",
+      "ark. 11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((410842.52440415625 449794.4925489798,410816.59518563416 449793.698797388,410818.7118565344 449759.3028952675,410799.6618184328 449755.86330504715,410808.65766975377 449641.2984925881,410847.8160814069 449645.00266666804,410842.52440415625 449794.4925489798))",
+    "site_description": "Gospodarstwo rolne pana(…)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": "2012-11-09",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w powierzchni ziemi polegająca na zanieczyszczeniu gruntu na terenie dzialki nr 71/2 (obręb Piekarzew, ark.11)w m. Piekarzew 41 substancjam ropopochodnymi w wyniku wycieku oleju opałowego wykorzystywanego na potzreby suszarni kukurydzy",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wielkopolski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Czarna Rola 4, 61-625 Poznań",
+      "legal_form": "inspekcja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3012 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-02-22",
+    "detection_date": "2012-10-01",
+    "decisions": [
+      {
+        "issue_date": "2013-05-07",
+        "reference": "WSI-I.511.24.2013.BM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2013-05-15",
+    "planned_end": "2013-05-31",
+    "actual_end": "2013-05-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Wydobycie zanieczyszczonych gruntów, zasypanie miejsc po wybranym gruncie czystym urobkiem, odpady ziemi na składowisko.",
+    "ecological_effect": "Osiągnięto standardy jakości gleby",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

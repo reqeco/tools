@@ -1,0 +1,104 @@
+{
+  "registry_id": 1656,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.041,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Batalionów Chłopskich",
+    "precinct": "6-13-05",
+    "parcel_numbers": [
+      "10/4",
+      "6/10",
+      "11/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((629208.5678627137 486288.8630420584,629296.4097051348 486302.6214029072,629344.0348004232 486288.86304205563,629373.6681930503 486432.26749553345,629292.1763633345 486453.4342045365,629278.4180024723 486401.0465997569,629236.0845844384 486409.5132833598,629208.5678627137 486288.8630420584))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ACG 22 sp. z o.o.",
+      "address": "Warszawa, kod pocztowy 01-211, ul. Giełdowa 1",
+      "entity_type": null,
+      "parcels": [
+        "10/4",
+        "6/10",
+        "11/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.041
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.041
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-07-13",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.35.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-09-14",
+        "reference": "WOOŚ-IV.515.35.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ACG 22 sp. z o.o.",
+        "address": "Warszawa, kod pocztowy 01-211, ul. Giełdowa 1",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-09-01",
+    "planned_end": "2024-06-30",
+    "actual_end": "2023-02-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

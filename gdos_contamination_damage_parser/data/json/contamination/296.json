@@ -1,0 +1,154 @@
+{
+  "registry_id": 296,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 5.336,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Marywilska Warszawa",
+    "precinct": "4-07-02",
+    "parcel_numbers": [
+      "25"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636026.5103086855 496915.1965107564,636111.7063125113 496952.2382515045,636154.5688982797 496963.8799414551,636157.2147369125 496955.4132578559,636295.3275132887 496992.9841663316,636332.8984218112 496995.63000495173,636350.8901244788 496907.25899488013,636314.3775514073 496897.204808102,636306.9692032487 496891.3839631323,636247.1732502626 496927.8965361519,636241.8815730059 496899.8506467333,636237.1190634704 496898.7923112819,636215.4231867224 496781.8462440539,636213.8356835404 496776.02539907396,636334.485924978 496835.82135200035,636338.719266783 496844.8172033215,636332.8984218069 496854.8713901015,636338.1900990629 496854.34222237114,636377.3485107546 496778.67123770155,636288.9775005736 496735.80865197163,636304.8525323406 496708.29193027224,636262.5191142926 496686.0668858234,636270.4566301809 496672.83769270405,636176.2647750239 496626.2709329035,636026.5103086855 496915.1965107564))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "Ronson Development Partner 2 Sp. z o.o.-Miasto Moje Sp.K",
+      "address": "Al. KEN 57, 02-797 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "65-220 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "31-78 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,13-1,0 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,29-1,8 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,29-4,3 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,21-4,7 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,12-0,81 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,31-5,0 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)fluoranten",
+      "concentration": "0,34-6,7 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,11-2,9 [mg/kg]",
+      "area_ha": 5.336
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,28-3,4 [mg/kg]",
+      "area_ha": 5.336
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-06-14",
+    "legal_basis": "101 l ust 1 Poś 61 par 1 Kpa",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-08-01",
+        "reference": "WSI.511.32.2016.ES.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi solidarnie z innym sprawcą",
+        "name": "Ronson Development Partner 2 Sp. z o.o.-Miasto Moje Sp.K",
+        "address": "Al. KEN 57, 02-797 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2017-08-17",
+    "planned_end": "2017-12-31",
+    "actual_end": "2018-01-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "wyznaczeniu stref stwierdzonych zanieczyszczeń a następnie na kontrolowanym usunięciu zanieczyszczonych gruntów do głębokości zalegania zanieczyszczenia  oraz na przekazaniu usuniętego gruntu, zgodnie z obowiązującym prawem, podmiotom posiadającym stosowne pozwolenia i zgody w tym zakresie.",
+    "ecological_effect": "zgodne z rozporządzeniem MŚ",
+    "effect_assessment": null
+  },
+  "notes": null
+}

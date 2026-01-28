@@ -1,0 +1,203 @@
+{
+  "registry_id": 980,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Olsztyn",
+    "municipality": "Olsztyn",
+    "address": "ul. Knosały",
+    "precinct": "0065 miasto Olsztyn",
+    "parcel_numbers": [
+      "49"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((597534.5875693078 657513.5476669008,597525.591717976 657484.3111500917,597525.8563018461 657481.6653114613,597604.040833231 657457.5881799785,597613.5658522828 657492.2486659614,597534.5875693079 657513.4153749608,597534.5875693078 657513.5476669008))",
+    "site_description": "Powierzchnia działki wynosi około 2830 m2. Na podstawie badań środowiska gruntowego oszacowano, że zanieczyszczony grunt występuje na powierzchni około 2000 m2, a jego objętość wynosi około 2000 m3."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Historyczne zanieczyszczenie powierzchni ziemi jest następstwem funkcjonowania w latach 1897-1974 gazowni miejskiej produkującej gaz z węgla kamiennego metodą koksowniczą"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Olsztyn",
+      "address": "Pl. Jana Pawła II 1 10-101 Olsztyn",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "49"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,415 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,214-1,81 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,296-2,11 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,435-2,91 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,150-1,22 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,325-2,19 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,18 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,228-1,43 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,332 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "6,43 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": "32,7 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "5,19 mg/kg s.m.",
+      "area_ha": 0.2
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-09-18",
+    "legal_basis": "art. 101l ust. 2 Poś",
+    "case_reference": "WSI.515.13.2019.KPi",
+    "decisions": [
+      {
+        "issue_date": "2019-12-04",
+        "reference": "WSI.515.13.2019.KPi.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101l ust. 4 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-05-13",
+        "reference": "WSI.515.13.2019.KPi.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-12-30",
+        "reference": "WSI.513.37.2019.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt. 3 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-05-24",
+        "reference": "WSI.515.13.2019.KPi.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-03-16",
+        "reference": "WSI.515.5.2023.KPi.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-11-25",
+        "reference": "WSI.515.10.2024.KPi.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "155  kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Olsztyn",
+        "address": "Pl. Jana Pawła II 1 10-101 Olsztyn",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-12-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metodą ex-situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go gruntem wolnym od zanieczyszczeń. Metodą ex-situ zostanie usunięty grunt niespełniający norm przewidzianych dla gruntów grupy I. Grunt zostanie wybrany z powierzchni około 2000 m2, z przedziału głębokościowego od 0-1,0 m ppt. Łącznie zostanie wydobyte około 2000 m3 gruntu o zawartości zanieczyszczeń przekraczających wartości dopuszczalne ustalone dla gruntów grupy I. Przy założeniu średniej gęstości objętościowej na poziomie 1,8 Mg/m3, stanowi to około 3600 Mg zanieczyszczonego gruntu. Dokładna ilość gruntu wymagającego wymiany zostanie określona w trakcie prowadzonych prac remediacyjnych.  W celu wyeliminowania emisji na skutek działania czynników atmosferycznych (wypłukiwanie, uwalnianie do powietrza) wydobyty grunt (odpad niebezpieczny o kodzie 17 05 03*) zostanie bezpośrednio załadowany na samochody przystosowane do transportu odpadów niebezpiecznych, posiadające szczelne plandeki, a następnie przekazany podmiotowi posiadającemu zezwolenie na unieszkodliwianie tego rodzaju odpadów. Pojawiająca się w wykopach woda gruntowa zostanie odpompowana i przekazana do unieszkodliwienia jako odpad niebezpieczny o kodzie 16 10 01*. Po usunięciu zanieczyszczonej partii gruntów powstałe wykopy (ściany i dno) zostaną opróbowane i przebadane pod kątem określenia w glebie i ziemi zawartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji. Następnie wykopy zostaną uzupełnione nawiezionym czystym gruntem. Do wypełnienia wykopów można użyć gleby lub ziemi uzyskanych w trakcie prac ziemnych związanych z innymi budowami wyłącznie wówczas, jeżeli nie jest w nich przekroczona dopuszczalna zawartość jakiejkolwiek substancji powodującej ryzyko, określonej w rozporządzeniu w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi, dla gruntów występujących w miejscu użycia tej gleby lub ziemi. Prace remediacyjne będą prowadzone pod stałym nadzorem geologicznym, w tym w zakresie usuwania i załadunku gruntu, przy zachowaniu szczególnych środków bezpieczeństwa oraz zastosowaniu środków ochrony indywidualnej odpowiednich do rodzaju wykonywanych prac i zagrożeń związanych z narażeniem na kontakt z odpadami niebezpiecznymi. Do czasu zakończenia prac remediacyjnych obszar historycznego zanieczyszczenia powierzchni ziemi będzie zabezpieczony przed dostępem osób postronnych.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy I. Ich zawartość w glebie i w ziemi nie będzie zatem przekraczać:  •\tna głębokości 0-0,25 m ppt - antracen – 0,2 mg/kg s.m., - chryzen – 0,2 mg/kg s.m., - benzo(a)antracen – 0,1 mg/kg s.m., - dibenzo(a,h)antracen – 0,1 mg/kg s.m., - benzo(a)piren - 0,1 mg/kg s.m., - benzo(b)fluoranten – 0,1 mg/kg s.m., - benzo(k)fluoranten – 0,1 mg/kg s.m., - benzo(ghi)perylen – 0,2 mg/kg s.m., - indeno(1,2,3-c,d)piren – 0,2 mg/kg s.m,  •\tna głębokości poniżej 0,25 m ppt, w przypadku gruntów o wodoprzepuszczalności wyższej lub równej 1x10-7 m/s: - kadm - 3 mg/kg s.m, - kobalt – 30 mg/kg s.m,, - benzo(b)fluoranten – 5 mg/kg s.m,.   •\tna głębokości poniżej 0,25 m ppt, w przypadku gruntów o wodoprzepuszczalności niższej niż 1x10-7 m/s: - kadm – 5 mg/kg s.m,, - kobalt – 60 mg/kg s.m,, - benzo(b)fluoranten – 20 mg/kg s.m.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

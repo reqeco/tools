@@ -1,0 +1,137 @@
+{
+  "registry_id": 1431,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3542,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Wieśniacza Warszawa",
+    "precinct": "6-11-04",
+    "parcel_numbers": [
+      "28",
+      "31"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((630996.5683637745 488424.98518238775,630988.3662640273 488425.2497662557,630957.4099520901 488426.30810170807,630984.3975060917 488340.3183463877,631011.6496439459 488346.4037752263,631028.5830111597 488292.1640834166,631038.6371979482 488283.1682320861,631006.8871344227 488388.7371932268,630996.5683637745 488424.98518238775))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp. z o. o.",
+      "address": "ul. Armii Ludowej 14, Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "28",
+        "31"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.3542
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.3542
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.3542
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.3542
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.3542
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.3542
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 0.3542
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.3542
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-06-22",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "WOOŚ-IV.515.44.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-09-13",
+        "reference": "WOOŚ-IV.515.44.2021.Dśc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp. z o. o.",
+        "address": "ul. Armii Ludowej 14, Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-10-31",
+    "planned_end": "2022-06-30",
+    "actual_end": "2022-02-17",
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

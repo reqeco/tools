@@ -1,0 +1,145 @@
+{
+  "registry_id": 1674,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.006,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Polska  (dzielnica Mokotów - etap I)",
+    "precinct": "1-07-13",
+    "parcel_numbers": [
+      "66/3",
+      "67/2",
+      "68/2",
+      "69/2",
+      "70/2",
+      "71/2",
+      "72/3",
+      "82/1",
+      "82/2",
+      "82/3",
+      "83/2",
+      "73/8",
+      "83/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((641757.6438561843 484335.97387921717,641721.9250347043 484332.79887286853,641715.0458542642 484324.4644811982,641715.310438124 484305.54673502874,641753.5428063173 484304.22381571773,641799.8449823122 484305.01756730676,641829.8752507543 484307.9279897958,641830.0075426844 484304.2238157168,641775.1063911372 484300.2550577773,641775.5032669271 484285.3060695464,641793.3626776725 484289.67170327716,641817.836684987 484293.64046121854,641863.477401329 484239.1361855464,641878.0295137898 484251.8362109475,641880.5430604934 484251.8362109475,641978.3067978243 484327.1103198249,641966.1359401275 484341.3978483947,641943.5140198553 484332.0051212758,641946.55673428 484335.57700342406,641937.4285910068 484333.8572083134,641933.3275411308 484327.3749036845,641923.2733543466 484326.7134440243,641918.1139690195 484331.2113696942,641782.1178635085 484337.03221466765,641757.6438561843 484335.97387921717))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "YIT sp. z o.o.",
+      "address": "ul. Nałęczowska 33, 02-992 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-09-07",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.43.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2022-11-21",
+        "reference": "WOOŚ-IV.515.43.2022.PBu.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "YIT sp. z o.o.",
+        "address": "ul. Nałęczowska 33, 02-992 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-11-01",
+    "planned_end": "2025-12-31",
+    "actual_end": "2023-05-24",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,92 @@
+{
+  "registry_id": 1748,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "ul. Łozowa 41 91-496 Łódź",
+    "precinct": "B-8",
+    "parcel_numbers": [
+      "150/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((530201.8469923944 440264.1389711052,530189.8169226089 440297.98062867764,530239.5838458133 440318.9233209435,530253.8315983238 440285.09528102726,530201.8469923944 440264.1389711052))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 04.2023"
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w powierzchni ziemi w zw. z rozlaniem ścieków z zakładu na teren dziełki",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Łodzi",
+      "address": "ul. Lipowa 16 90-743 Łódź",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "GALBUD s.c. (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "8145 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "287±86  mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "980 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "51,6±15 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "9439mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-06-19",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

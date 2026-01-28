@@ -1,0 +1,152 @@
+{
+  "registry_id": 363,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 7.547,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Posag 7 Panien",
+    "precinct": "2-09-09",
+    "parcel_numbers": [
+      "162/37",
+      "162/42",
+      "162/44",
+      "164/10",
+      "177",
+      "191"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628367.0148731361 483625.69850054476,628497.7193013086 483700.311149762,628542.6985579719 483614.58597831056,628407.2316202654 483535.2108195629,628367.0148731361 483625.69850054476))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ATAL Construction Sp. z o.o. Sp. k.",
+      "address": "ul Stawowa 27  43-400 Cieszyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,23-7,2 [mg/kg]",
+      "area_ha": 7.547
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,28-15 [mg/kg]",
+      "area_ha": 7.547
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,32-15 [mg/kg]",
+      "area_ha": 7.547
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,30-15 [mg/kg]",
+      "area_ha": 7.547
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,19-15 [mg/kg]",
+      "area_ha": 7.547
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,43-9,9 [mg/kg]",
+      "area_ha": 7.547
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,37-13 [mg/kg]",
+      "area_ha": 7.547
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,14-6 [mg/kg]",
+      "area_ha": 7.547
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,32-5,2 [mg/kg]",
+      "area_ha": 7.547
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,24-6 [mg/kg]",
+      "area_ha": 7.547
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-03-03",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-04-10",
+        "reference": "WSI.515.19.2018.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ATAL Construction Sp. z o.o. Sp. k.",
+        "address": "ul Stawowa 27  43-400 Cieszyn",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-04-24",
+    "planned_end": "2018-10-30",
+    "actual_end": "2018-09-13",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": "spełnia wymogi rozporządzenia MŚ, zgodne z projektem planu remediacji",
+    "effect_assessment": null
+  },
+  "notes": null
+}

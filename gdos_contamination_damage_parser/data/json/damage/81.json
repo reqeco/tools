@@ -1,0 +1,73 @@
+{
+  "registry_id": 81,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "poznański",
+    "municipality": "Murowana Goślina",
+    "address": "Murowana Goślina ul. Lenartowskiego",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POINT(364096.82979729533 524388.1770373574)",
+    "site_description": "Bloki na Osiedlu \"Zielone Wzgórza\" w Murowanej Goślinie"
+  },
+  "occurrence_time": {
+    "date": "2008-06-20",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "niszczenie miejsc legowych ptaków z gatunku jerzyk, wystepujacych na budynkach mieszkalnych osiedla \"Zielone Wzgórza\" w Murowanej Goslinie, poprzez ocieplanie budynków",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "SM \"Zielone Wzgórza\"",
+      "address": "Murowana Goślina Nowy Rynek 19",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "jerzyk (Apus apus)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2008-07-11",
+    "detection_date": "2008-06-20",
+    "decisions": [
+      {
+        "issue_date": "2008-07-22",
+        "reference": "KP-III-3.6631-245/08",
+        "issuing_authority": "Wojewoda Wielkopolski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2008-09-15",
+    "method": null,
+    "description": "udrożnienie istniejących wcześniej otworów wentylacyjnych oraz zwiększenie liczby potencjalnych miejsc lęgowych jerzyków",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

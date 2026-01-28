@@ -1,0 +1,58 @@
+{
+  "registry_id": 861,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 1.0814,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Chorzów",
+    "municipality": "Chorzów",
+    "address": "ul. Gabriela Narutowicza 15 Chorzów",
+    "precinct": "0001 k. m. 8",
+    "parcel_numbers": [
+      "246301_1.0001.AR_8.2821/336"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((497923.036000 272227.667000,497928.945000 272255.351100,497929.964000 272259.815000,497928.565000 272259.804100,497929.061000 272276.617000,497933.838000 272278.162000,497929.731000 272296.756000,497953.535000 272302.573000,497966.646000 272303.946000,497982.077000 272303.958000,497991.131000 272303.227000,498000.158000 272301.896000,498032.530000 272294.526000,498026.567000 272272.469000,498028.557000 272258.430000,498010.807000 272183.993000,498005.598000 272180.114900,497946.877000 272193.825900,497931.337000 272197.573000,497926.082000 272196.215000,497923.036000 272227.667000))",
+    "site_description": "Teren działających od 1916 r. zakładów pod różnymi nazwami. Po II wojnie światowej znane jako Zakłady Azotowe im. Pawła Findera w Chorzowie. Obecna nazwa Zakłady Azotowe S.A. funkcjonuje od 2013 r."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "IZOBLOK S.A.",
+      "address": "ul. Kluczborska 11 41 - 503 Chorzów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-31",
+    "legal_basis": "art. 101c ust. 3",
+    "case_reference": "WSI.513.4.2019.KN",
+    "decisions": [
+      {
+        "issue_date": "2019-08-27",
+        "reference": "WSI.513.4.2019.KN",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

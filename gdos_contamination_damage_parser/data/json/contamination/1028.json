@@ -1,0 +1,97 @@
+{
+  "registry_id": 1028,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.0,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Fabryczna 22, Trzebinia",
+    "precinct": "0014 Trzebionka",
+    "parcel_numbers": [
+      "120305_4.0014.477/11",
+      "120305_4.0014.2212",
+      "120305_4.0014.2215",
+      "120305_4.0014.1983/5",
+      "120305_4.0014.2194",
+      "120305_4.0014.2213",
+      "120305_4.0014.1906/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532037.3638134107 254567.15375492536,531983.3887054607 254684.62898988463,531968.0428414406 254679.33731263597,531955.3428160407 254707.9123697849,531946.8761324406 254705.79569888487,531939.9969520108 254729.07907878514,531920.4177461907 254722.1998983547,531940.5261197407 254659.2289390862,531935.2344424909 254647.58724913467,531926.2385911609 254644.94141050428,531926.7677588908 254603.13716023415,531921.4760816407 254598.9038184341,531912.4802303107 254581.97045123484,531906.6593853408 254586.20379303582,531878.0843281908 254534.34535597637,531871.7343154907 254539.10786550492,531866.4426382408 254565.56625175476,531826.2258911408 254553.92456180416,531821.9925493407 254538.5786977755,531822.1116121009 254535.80056721624,531827.4032893507 254525.21721271612,531840.6324824707 254522.57137409598,531855.1316781306 254499.55257805623,531885.2942384607 254492.40881376527,531901.9630217907 254513.31093890406,532037.9591271207 254564.3756243633,532037.3638134107 254567.15375492536))",
+    "site_description": "Teren planowanej oczyszczalni ścieków na terenie Orlen Południe - Zakład Trzebinia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej"
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN Południe S.A.",
+      "address": "ul. Fabryczna 22, 32-540 Trzebinia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3 300 - 4 400 mg/kg s.m.",
+      "area_ha": 0.4
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4 400 - 160 000mg/kg s.m.",
+      "area_ha": 1.6
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-06-13",
+    "legal_basis": "art. 101 l ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska; art. 104 kpa",
+    "case_reference": "ZS.515.11.2019.AS",
+    "decisions": [
+      {
+        "issue_date": "2020-03-30",
+        "reference": "ZS.515.11.2019.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101 l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ORLEN Południe S.A.",
+        "address": "ul. Fabryczna 22, 32-540 Trzebinia",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": "2020-04-01",
+    "planned_end": "2030-10-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

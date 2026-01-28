@@ -1,0 +1,88 @@
+{
+  "registry_id": 199,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "raciborski",
+    "municipality": "Kornowac",
+    "address": "Łańce",
+    "precinct": "0003 Łańce a. m. 2",
+    "parcel_numbers": [
+      "241102_2.0003.AR_2.139/50"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((452082.783839 246431.421778,452086.691682 246434.377711,452090.130673 246430.985193,452086.505000 246427.890000,452082.783839 246431.421778))",
+    "site_description": "teren stacji transformatorowej SN/nN R4723 w miejscowości Łańce, gm. Kornowac."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2008-07-01",
+    "to": "2008-07-31",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu środowiska gruntowego spowodowanego wyciekiem oleju z transformatora na terenie stacji transformatorowej w miejscowości Łańce, gm. Kornowac",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Hydrogeotechnika Sp. z o.o. w imieniu Vattenfall",
+      "address": "Hydrogeotechnika Sp. z o.o. ul. Ściegiennego 262 A 25-116\tKielce",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Vattenfall Distribution S.A.",
+      "address": "Gliwice Portowa 14a",
+      "economic_activity_code": "35.13.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3733",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "528",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-09-30",
+    "detection_date": "2008-07-01",
+    "decisions": [
+      {
+        "issue_date": "2009-10-08",
+        "reference": "RDOŚ-24-WSI-I/66170/ 21 /09/sa",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2009-12-15",
+    "actual_end": "2009-12-14",
+    "method": null,
+    "description": "Działania naprawcze metodą „ex situ” na obszarze 8 m2 i polegały na wydobyciu gruntu zanieczyszczonego substancjami ropopochodnymi, ocenie stanu zanieczyszczenia metodą organoleptyczną i laboratoryjną oraz przekazaniu zanieczyszczonego gruntu do unieszkodliwienia poza terenem prowadzonych prac, wypełnieniu wykopu czystym gruntem i odtworzeniu warstwy glebowej.",
+    "ecological_effect": "Przywrócenie jakości środowiska gruntowo-wodnego do standardów określonych dla gruntów grupy B.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,60 @@
+{
+  "registry_id": 697,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Pszczółki",
+    "address": "ul. Tczewska\tPszczólki\t83-032",
+    "precinct": "0003",
+    "parcel_numbers": [
+      "444/16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((480321.19 700729.08,480330.99 700728.34,480343.22 700723.75,480370.51 700720.49,480381.18 700676.08,480383.98 700676.42,480386.38 700664.88,480366.42 700662.52,480314.63 700668.68,480319.79 700729.43,480321.19 700729.08))",
+    "site_description": "Warsztaty remontowe, zlikwidowane zbiorniki paliwowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "AGRO-SIEĆ MASZYNY sp. z o.o. Chełmno",
+      "address": "AGRO-SIEĆ MASZYNY sp. z o.o. Chełmno",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "444/16"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.124.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.124.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

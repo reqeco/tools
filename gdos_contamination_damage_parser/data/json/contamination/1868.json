@@ -1,0 +1,114 @@
+{
+  "registry_id": 1868,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0186,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Al. Jerozolimskie 156 02-326 Warszawa Dzielnica Ochota",
+    "precinct": "2-03-04",
+    "parcel_numbers": [
+      "16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((633042.5953742932 484381.6145956563,633065.8787542165 484412.83549142536,633088.632966419 484438.2355422247,633097.6288177476 484442.4688840257,633099.4809047894 484446.4376419652,633100.8038241006 484445.6438903753,633081.4892021263 484607.8337980956,633018.5182427857 484602.8067047084,633014.02031712 484552.2711869674,633042.5953742932 484381.6145956563))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PGD RG MOTORS sp. z o.o.",
+      "address": "Al. Jerozolimskie 156 02-326 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "16"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.0186
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.0186
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0186
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0186
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0186
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-10-25",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.55.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2023-09-05",
+        "reference": "WOOŚ-IV.515.55.2022.PBu.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PGD RG MOTORS sp. z o.o.",
+        "address": "Al. Jerozolimskie 156 02-326 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-09-01",
+    "planned_end": "2024-09-30",
+    "actual_end": "2024-07-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "Zanieczyszczony grunt zalegający na głębokości 0 - 0,25 m p.p.t. został usunięty z powierzchni 54 m2 (na obszarze OZ 1)  a odstąpiono się od usunięcia zanieczyszczenia gruntów z powierzchni ok. 132 m2 (na obszarze OZ 2).",
+    "ecological_effect": "Zawartość substancji powodujących ryzyko w glebie i w ziemi do jakich doprowadziła remediacja jest zgodna z dopuszczalnymi zawartościami substancji powodujących ryzyko określonymi dla grupy I w Rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (t.j. Dz. U. poz. 1395),",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

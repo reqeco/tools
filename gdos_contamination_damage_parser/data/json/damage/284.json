@@ -1,0 +1,67 @@
+{
+  "registry_id": 284,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "garwoliński",
+    "municipality": "Żelechów",
+    "address": "Żelechów ul. Lelewela 8",
+    "precinct": "Żelechów",
+    "parcel_numbers": [
+      "2639/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((699816.3820790938 441964.59148204885,699805.2695567465 441934.29662978835,699820.6154209225 441927.68203322776,699832.2571110053 441958.90292900894,699816.3820790938 441964.59148204885))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2010-10-15",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu olejem mineralnym oraz ołowiem na działce przy ul.Lelewela 8 na skutek prowadzonej działalności przez (…)",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Demontaż pojazdów-(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2010-10-15",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "WSI.512.5.2011.ES.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metdoy ex situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "Postępowanie zakończone z powodu śmierci obowiązanego do wykonania działań naprawczych. WOOŚ-IV.512.1.2021.DŚc/DC"
+}

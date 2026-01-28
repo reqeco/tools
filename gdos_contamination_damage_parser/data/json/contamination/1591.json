@@ -1,0 +1,115 @@
+{
+  "registry_id": 1591,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0503,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Hafrowa",
+    "precinct": "2-03-13",
+    "parcel_numbers": [
+      "47/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634190.3469417482 483528.8608067874,634200.930296258 483505.3128430275,634219.8480424471 483509.5461848257,634210.7198991888 483536.930614599,634190.3469417482 483528.8608067874))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "47/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.022
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0283
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.0283
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.0283
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-12-21",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.12.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-07-19",
+        "reference": "WOOŚ-IV.515.12.2021.DŚc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-11-14",
+        "reference": "WOOŚ-IV.515.12.2021.DŚc.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 162 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-07-01",
+    "planned_end": "2023-02-28",
+    "actual_end": "2023-03-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "Remediację wykonał nowy właściciel, na którego nie była wydana decyzja ustalająca plan remediacji. Z tego powodu wydano decyzję stwierdzającą wygaśnięcie decyzji WOOŚ-IV.515.12.2021.DŚc.4. Ostatecznie na przedmiotowym terenie nie ma zanieczyszczeń.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

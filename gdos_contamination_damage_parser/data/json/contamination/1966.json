@@ -1,0 +1,107 @@
+{
+  "registry_id": 1966,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "Krosno",
+    "municipality": "Krosno",
+    "address": "ul. Gen. Okulickiego 9 38-400 Krosno",
+    "precinct": "0003 Przemysłowa",
+    "parcel_numbers": [
+      "186101_1.0003.49/31"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((697502.61542158 206753.369441653,697492.800258596 206743.736333998,697472.091920741 206741.284366361,697502.689766156 206734.058023601,697534.666288178 206729.518871331,697545.273683194 206729.311346743,697590.231493239 206732.319260285,697592.733020565 206692.478861588,697621.503196775 206694.915537714,697653.027645852 206697.585611053,697681.777838808 206700.021755805,697709.920611803 206701.981639203,697712.789107373 206721.581500378,697680.058535158 206739.032853963,697650.663747737 206755.162814137,697651.081542994 206760.504884345,697650.798971039 206763.227839013,697641.898557401 206769.191841318,697640.380309625 206769.491457744,697640.869292342 206771.034753451,697628.728965144 206775.472195254,697564.977512354 206802.889091846,697554.639034577 206807.644577099,697527.108796735 206802.590453333,697530.747744434 206768.111301558,697512.058833094 206760.062131386,697509.851017736 206762.593774858,697502.61542158 206753.369441653)))",
+    "site_description": "1.P,U - teren obiektów produkcyjnych i usługowych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pozostałych pomp i sprężarek",
+    "current": "Produkcja zamków i zawiasów"
+  },
+  "land_holders": [
+    {
+      "name": "FA Krosno S.A.",
+      "address": "ul. Franciszka Klimczaka 1 02-797 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "186101_1.0003.49/31"
+      ],
+      "economic_activity_code": "25.72.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "317 - 543 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1080 - 14100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "315 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "160 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-01-08",
+    "legal_basis": "art. 61 par. 1 i par. 4 Kpa oraz art. 101c ust. 3 pkt 3 Poś",
+    "case_reference": "WSI.513.28.2023.AL",
+    "decisions": [
+      {
+        "issue_date": "2024-01-24",
+        "reference": "WSI.513.28.2023.AL.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "FA Krosno S.A.",
+        "address": "ul. Franciszka Klimczaka 1 02-797 Warszawa",
+        "economic_activity_code": "25.72.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Sprawa znak: WSI.513.28.2023.AL - wpis do rejestru historycznych zanieczyszczeń powierzchni ziemi o potencjalnym historycznym zanieczyszczeniu powierzchni ziemi"
+}

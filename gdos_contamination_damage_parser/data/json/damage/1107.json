@@ -1,0 +1,111 @@
+{
+  "registry_id": 1107,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "żagański",
+    "municipality": "Żagań (gmina miejska)",
+    "address": "ul. Tartakowa 1",
+    "precinct": null,
+    "parcel_numbers": [
+      "2023/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((245483.2643385697 421028.5529362215,245495.43519675077 421037.8133713929,245498.3456193767 421032.5216941377,245505.4893840409 421000.50704676844,245414.7371154598 420932.77357804496,245400.97875398502 420948.9131936701,245445.42884472403 420979.8695055414,245448.6038512184 420975.90074760746,245494.64144518573 421010.29664969165,245494.90602905757 421010.03206582926,245483.2643385697 421028.5529362215))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-05-02",
+    "from": null,
+    "to": null,
+    "description": "data sporządzenia sprawozdania z badań"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie ziemi w skutek prowadzonej działlaności",
+  "total_area_ha": 0.02,
+  "reporters": [
+    {
+      "name": "WIOŚ Zielona Góra",
+      "address": "Siemiradzkiego 19 Zielona Góra",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "AGRINAFT",
+      "address": "ul. Tartakowa 1 68-100 Żagań",
+      "economic_activity_code": "52.21.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1334",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1952",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "731",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-05-30",
+    "detection_date": "2018-05-02",
+    "decisions": [
+      {
+        "issue_date": "2018-08-01",
+        "reference": "WZŚ.512.10.2018.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-10-17",
+        "reference": "WZŚ.512.10.2018.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-12-17",
+        "reference": "WZŚ.512.10.2018.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-09-01",
+    "planned_end": "2018-10-31",
+    "actual_end": "2019-10-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace naprawcze na przedmiotowym terenie wykonano metodą ex-situ. W trakcie prac wydobyto i wywieziono z terenu przedmiotowej działki 96,00 Mg zanieczyszczonej gleby/ziemi.",
+    "ecological_effect": "Załączone wyniki analiz laboratoryjnych, potwierdzają uzyskanie zakładanego  efektu ekologicznego, określonego w decyzji Regionalnego Dyrektora Ochrony Środowiska  w Gorzowie Wlkp. z dnia 1 sierpnia 2018 r., znak: WZŚ.512.10.2018.KM.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,59 @@
+{
+  "registry_id": 1693,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "lęborski",
+    "municipality": "Łeba",
+    "address": "ul. Nadmorska 23A, 84-360 Łeba",
+    "precinct": "2 Łeba",
+    "parcel_numbers": [
+      "78/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((409122.348867763 768021.8652098319,409136.6363963451 767952.8088217238,409149.33642174705 767944.8713058429,409315.7596712813 767981.119295015,409325.2846903328 767993.5547365472,409310.7325778903 768062.6111246627,409297.7679686284 768071.0778082646,409130.2863836441 768036.681906133,409122.348867763 768021.8652098319))",
+    "site_description": "Jest to teren na którym znajduje się inwestycja - budynek hotelowy wraz z towarzyszącą infrastrukturą."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2021-03-01",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska, osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Po realizacji inwestycji dokonano budowy placu zabaw, który częściowo nachodzi na siedlisko przyrodnicze 2130 Nadmorskie wydmy szare.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Trasko Invest Sp. z o.o.",
+      "address": "Al. Wolności 13, 63-500 Ostrzeszów",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Lasy mieszane i bory na wydmach nadmorskich",
+      "other": null
+    },
+    {
+      "natura_2000": "Nadmorskie wydmy szare",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-02-22",
+    "detection_date": "2023-01-04",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

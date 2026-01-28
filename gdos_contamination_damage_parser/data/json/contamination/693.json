@@ -1,0 +1,60 @@
+{
+  "registry_id": 693,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Przywidz",
+    "address": "Przywidz\t83-047",
+    "precinct": "0014",
+    "parcel_numbers": [
+      "416/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((454945.44 703591.01,454927.51 703621.91,454912.42 703617.52,454943.85 703646.88,455138.12 703438.66,455237.18 703477.85,455242.65 703464.18,455112.29 703409.59,455068.28 703381.74,455060.13 703370.99,455060.46 703368.90,455052.67 703359.90,455014.47 703389.94,454938.56 703356.12,454913.71 703355.67,454866.69 703342.86,454826.09 703306.60,454755.36 703409.24,454741.72 703480.59,454944.36 703592.07,454945.44 703591.01))",
+    "site_description": "Oczyszczalnia hydrobotaniczna"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "ODPROWADZANIE I OCZYSZCZANIE ŚCIEKÓW",
+    "current": "ODPROWADZANIE I OCZYSZCZANIE ŚCIEKÓW"
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Przywidz ul. Gdańska 7, 83-047 Przywidz",
+      "address": "Gmina Przywidz ul. Gdańska 7, 83-047 Przywidz",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "416/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.120.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.120.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

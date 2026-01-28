@@ -1,0 +1,137 @@
+{
+  "registry_id": 1268,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Benzynowa 26, 83-011 Gdańsk",
+    "precinct": "0300 Gdańsk",
+    "parcel_numbers": [
+      "212/1",
+      "212/2",
+      "213",
+      "214/2",
+      "214/4",
+      "215/3",
+      "215/4",
+      "216/1",
+      "217/1",
+      "218/7",
+      "218/8",
+      "220/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((485001.17739822523 719485.5431372365,485015.99409452034 719505.1223430634,485056.2108416248 719501.4181689937,485059.9150156979 719567.5641346183,485079.4942215201 719595.0808563177,485082.66922787006 719649.5851319982,485027.10661675 719671.8101764461,484991.12321145 719677.1018536985,484959.9023156701 719691.3893822683,484912.27722042013 719727.3727875687,484881.05632465007 719748.0103288451,484806.4436754201 719782.4062309656,484760.4060833502 719796.6937595457,484709.0768140201 719807.2771140458,484475.7138472999 719497.7139949147,484609.0641140001 719480.7806277173,484715.42682672007 719454.3222414674,484729.18518757017 719472.8431118373,484955.13980615017 719426.8055197662,484983.1856955706 719462.2597573372,485001.17739822523 719485.5431372365))",
+    "site_description": "Teren Oczyszczalni Ścieków \"Wschód\" w Gdańsku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2008-09-30",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "zanieczyszczenie wód gruntowych w wyniku nieszczelności bioreaktorów i wycieków do ziemi ścieków oczyszczonych z oczyszczalni Gdańsk Wschód",
+  "total_area_ha": 44.45,
+  "reporters": [
+    {
+      "name": "Saur Neptun Gdańsk",
+      "address": "ul. Wałowa 46, Gdańsk",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Saur Neptun Gdańsk",
+      "address": "ul. Wałowa 46 Gdańsk",
+      "economic_activity_code": "37.00.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Amonowy jon"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Fosforany"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Chlorki"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Przewodność elektrolityczna"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-09-21",
+    "detection_date": "2008-09-30",
+    "decisions": [
+      {
+        "issue_date": "2010-09-21",
+        "reference": "RDOŚ-22-WSI.I/6618-2/09/10/WZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 20 ustawy o zapobieganiu szkodom",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2011-07-01",
+        "reference": "RDOŚ-Gd-WSI.I.511.1.2.2011.WZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "155 KPA 20 uzs",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-12-29",
+        "reference": "RDOŚ-Gd-WSI.I.511.1.2011.LK.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "155 KPA 20 uzs",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-12-12",
+        "reference": "RDOŚ-Gd-WZS.511.6.2016.LK.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "155 KPA 20 uzs",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-12-30",
+        "reference": "RDOŚ-Gd-WZS.511.6.2016.LK.19",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 20 155 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2010-10-01",
+    "planned_end": "2020-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "uszczelnienie bioreaktorów, prowadzenie monitoringu wód podziemnych w celu określenia tendencji zmian w wodach gruntowych",
+    "ecological_effect": "zmniejszenie ilości zanieczyszczeń występujących w wodach gruntowych oraz zapobieganie możliwości ponownego zanieczyszczenia z bioreaktorów",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,66 @@
+{
+  "registry_id": 1613,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "tarnogórski",
+    "municipality": "Radzionków",
+    "address": "ul. J. Kużaja 51 Radzionków",
+    "precinct": "0001 Radzionków",
+    "parcel_numbers": [
+      "241303_1.0001.AR_20.1772/44",
+      "241303_1.0001.AR_20.1773/44"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((492938.4206780000240542 279901.58193899999605492, 492940.2285050000064075 279899.26896399998804554, 492972.89794599998276681 279857.53374199999962002, 492928.99130799999693409 279856.62500399997225031, 492909.16743700002552941 279856.22195500001544133, 492889.05351800000062212 279855.80281800002558157, 492880.17856600001687184 279873.63183600001502782, 492879.07601800002157688 279877.85421000001952052, 492865.4676949999993667 279929.4172580000013113, 492916.01953300001332536 279930.25662300002295524, 492916.46166500000981614 279929.69100400002207607, 492935.90549299999838695 279904.80390200001420453, 492938.4206780000240542 279901.58193899999605492))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "lata 90te XX w."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2021-05-21",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.226.2021",
+    "decisions": [
+      {
+        "issue_date": "2022-04-14",
+        "reference": "WSI.513.226.2021.MB1.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,56 @@
+{
+  "registry_id": 2124,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": null,
+    "precinct": "Biedrzychowa",
+    "parcel_numbers": [
+      "531/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON ((298440.35062976100016385 406050.94944079802371562, 298394.5394331369898282 405937.04394332901574671, 298366.10669398598838598 405841.55305259098531678, 298373.0528227380127646 405835.27550108899595216, 298733.92869010398862883 405510.08287349197780713, 298741.79665701201884076 405522.30896798701724038, 298761.0396314489771612 405548.271557460015174, 298753.20306364697171375 405554.92820530198514462, 298814.56149246997665614 405633.81899153697304428, 298973.10292734601534903 405816.46576557098887861, 298556.7451590090058744 406162.50633395597105846, 298447.71472667000489309 406060.36941702000331134, 298453.57723274902673438 406045.63007004599785432, 298450.91991292301099747 406043.36227717902511358, 298440.35062976100016385 406050.94944079802371562))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2025-04-30",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Lubin)",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Dnia 30.04.2025 r. miała miejsce awaria rurociągu przesyłającego wody przemysłowe, w wyniku czego doszło do zalania fragmentu działki o nr ewid. 531/2 obręb Biedrzychowa, gmina Polkowice.",
+  "total_area_ha": 0.19,
+  "reporters": [
+    {
+      "name": "Nadleśnictwo Lubin",
+      "address": "ul. Spółdzielcza 18, 59-300 Lubin",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A. Oddział Zakład Hydrotechniczny",
+      "address": "ul. Polkowickiej 52, 59-305 Rudna",
+      "economic_activity_code": "24.44.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Postępowanie WSI.512.14.2025.NS"
+}

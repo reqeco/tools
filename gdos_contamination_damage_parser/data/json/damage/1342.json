@@ -1,0 +1,180 @@
+{
+  "registry_id": 1342,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "myśliborski",
+    "municipality": "Boleszkowice",
+    "address": "droga krajowa nr 31 ok. 4 km od centrum Boleszkowic",
+    "precinct": "0001 Boleszkowice",
+    "parcel_numbers": [
+      "1158/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((197645.43465999999898486 550907.51953000004868954, 197574.84224399999948218 550880.89715700002852827, 197572.2479870000097435 550887.93558100005611777, 197563.05878299998585135 550912.76653899997472763, 197557.43940199998905882 550929.9035450000083074, 197543.85824100000900216 550965.29997399996500462, 197548.98654799998621456 550968.68194499996025115, 197564.88098899999749847 550949.64023699995595962, 197622.59870100000989623 550971.60837799997534603, 197645.43465999999898486 550907.51953000004868954))",
+    "site_description": "nieruchomość na której zlokalizowany był Ekspedyt Ropy Naftowej, bocznica kolejowa, obiekty technologiczne."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "eksploatacja Ekspedytu Ropy Naftowej od 1996 r. do 2013 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Działalność Ekspedytu Ropy Naftowej Boleszkowice, magazynowanie, załadunek/rozładunek ropy naftowej z cystern samochodowych na cysterny kolejowe.",
+  "total_area_ha": 0.5362,
+  "reporters": [
+    {
+      "name": "Polskie Górnictwo Naftowe i Gazownictwo S.A.",
+      "address": "Oddział w Zielonej Górze ul. Bohaterów Westerplatte 15 65-034 Zielona Góra",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PGNiG S.A.",
+      "address": "Oddział w Zielonej Górze ul. Bohaterów Westerplatte 15 65-034 Zielona Góra",
+      "economic_activity_code": "06.10.Z, 06.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,595 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,553 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,757mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,317 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,580 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,484 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,360mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "76,0 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1360mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3090 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "10,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,19 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "54,4 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2021-05-10",
+    "detection_date": "2018-01-01",
+    "decisions": [
+      {
+        "issue_date": "2021-08-06",
+        "reference": "WONS-NS.511.2.2021.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-12-05",
+        "reference": "WONS.511.5.2024.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-08-01",
+    "planned_end": "2024-12-31",
+    "actual_end": "2024-12-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Sposób przeprowadzenia remediacji powierzchni ziemi.  Remediacja powierzchni ziemi będzie polegała na usunięciu zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodującej ryzyko, poprzez zastosowanie metody in-situ – bioremediacji polegającej na wprowadzeniu do środowiska gruntowo – wodnego wyselekcjonowanych szczepów mikroorganizmów, zdolnych do rozkładu substancji ropopochodnych w formie pozwalającej na uzyskanie wysokiej i długotrwałej aktywności drobnoustrojów.  1.\tZastosowanie metody in-situ będzie polegało na:  a)\tWykonaniu 12 sond aplikacyjnych o głębokości max. 3,5 m p.p.t. b)\tAplikacji biopreparatu zarówno poprzez zraszanie warstwy powierzchniowej 0,00-0,25 m p.p.t. jak i poprzez iniekcję do przygotowanych piezometrów/otworów technologicznych w okresie od kwietnia do listopada każdego roku trwania remediacji. c)\tZraszanie powierzchniowe będzie wykonywane raz w roku. d)\tZatłaczanie biopreparatu w warstwy głębsze - raz na poł roku (2x/rok). e)\tW sytuacji nieznacznej zmiany stężeń, przed zastosowaniem biopreparatu należy zastosować nutrienty w formie odpowiednio rozpuszczonego koncentratu N:P:K oraz, w przypadku występowania niewystarczającej ilości opadów atmosferycznych należy przewidzieć zatłaczanie dodatkowej ilości wody wspomagającej rozwój bakterii w gruncie.  2.\tSchemat monitoringu postępu prac remediacyjnych oraz pobór „końcowy”.  a)\tBadania kontrolne prowadzone będą 2x w roku (od 2021 do 2024 r.), miesiąc po zraszaniu oraz zatłaczaniu bakterii. b)\tAnalizy laboratoryjne będą wykonane w zakresie:  - lotnych węglowodorów aromatycznych BTEX: etylobenzen, toluen, ksyleny; - wielopierścieniowych węglowodorów aromatycznych WWA: antracen, chryzen, benzo(a)antracen, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, bezo(ghi)perylen, indenol(1,2,3-c,d)piren; - węglowodorów ropopochodnych: suma C6-C12 składników frakcji benzyn, suma C12-C35 składników frakcji oleju.  c)\tW rejonie otworów S-13 i S-14, podczas 1 serii badań kontrolnych należy dodatkowo pobrać próbki gruntu z przedziału od 7,0 m p.p.t. do 9,0 m p.p.t. (ksyleny).   TABELA 3. Schemat poboru próbek gleby i ziemi. Rok\tNumer otworu\tGłębokość otworu [m ppt]\tGłębokość poboru próbki [m ppt]\tIlość próbek do poboru jednorazowo\tIlość próbek do poboru w ciągu całego roku 2021\t1\t5\t1.0, 2.0, 3.0, 4.5\t4\t4 \t2\t5\t1.0, 2.0, 3.0, 4.5\t4\t4 \t3\t8\t4.5, 6.0-8.0\t2\t2 \t4\t6\t4.5, 6.0\t2\t2 \t5\t5\t4.5\t1\t1 2022\t1\t5\t1.0, 2.0, 3.0, 4.5\t4\t4 \t2\t5\t1.0, 2.0, 3.0, 4.5\t4\t4 \t3\t8\t4.5, 6.0-8.0\t2\t2 \t4\t6\t4.5, 6.0\t2\t2 \t5\t5\t4.5\t1\t1 2023\t1\t5\t1.0, 2.0, 3.0, 4.5\t4\t4 \t2\t5\t1.0, 2.0, 3.0, 4.5\t4\t4 \t3\t8\t4.5, 6.0-8.0\t2\t2 \t4\t6\t4.5, 6.0\t2\t2 \t5\t5\t4.5\t1\t1 2024\t1\t5\t1.0, 2.0, 3.0, 4.5\t4\t4 \t2\t5\t1.0, 2.0, 3.0, 4.5\t4\t4 \t3\t8\t4.5, 6.0-8.0\t2\t2 \t4\t6\t4.5, 6.0\t2\t2 \t5\t5\t4.5\t1\t1 2021\tS1, S2, S3, S5, S5, S6\t0.25\t0.25\t6\t12 2022\tS1, S2, S3, S5, S5, S6\t0.25\t0.25\t6\t12 2023\tS1, S2, S3, S5, S5, S6\t0.25\t0.25\t6\t12 2024\tS1, S2, S3, S5, S5, S6\t0.25\t0.25\t6\t12    3.\tMonitoring wód podziemnych będzie polegał na: - odwierceniu dwóch piezometrów do głębokości ok. 5 m p.p.t. (na napływie i odpływie wód z terenu zanieczyszczonego); - przeprowadzeniu analiz chemicznych w zakresie zawartości węglowodorów ropopochodnych - indeksu oleju mineralnego.",
+    "ecological_effect": "Wykonany pobór prób i analiz wykazał, że glebę i ziemię na remediowanym terenie doprowadzono do stanu wymaganego dla II grupy gruntów w zakresie substancji, których przekroczenie spowodowało obowiązek przeprowadzenia remediacji.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

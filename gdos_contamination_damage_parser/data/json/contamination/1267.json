@@ -1,0 +1,53 @@
+{
+  "registry_id": 1267,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.1011,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "municipality": "Czeremcha",
+    "address": "ul. Fabryczna, 17-240 Czeremcha",
+    "precinct": "Czeremcha",
+    "parcel_numbers": [
+      "200503_2.0003.1207",
+      "200503_2.0003.1209"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((795086.8903819398 524254.16906552855,795121.286287891 524212.62939923257,795127.636301289 524203.6335479338,795125.7842140135 524201.7814608859,795070.2215967096 524269.5149295032,795105.6758387354 524297.5608190577,795144.5696708494 524249.14197235834,795128.694636908 524209.4543929072,795120.4925362739 524222.1544182822,795123.4029591306 524224.53567305394,795118.9050329684 524229.82735028863,795132.3988116622 524241.46904029045,795134.2508989014 524239.6169532668,795137.9550734416 524241.73362417985,795117.5821137631 524266.60450718366,795116.7883621214 524272.6899360223,795110.702932562 524274.2774391705,795106.7341741322 524272.42535212636,795105.9404224341 524269.2503457712,795102.7654157032 524269.2503457591,795100.9133284655 524272.68993596453,795096.1508183752 524274.27743911743,795091.3883082683 524272.1607681997,795089.8008048695 524268.1920102639,795091.9174759949 524264.22325232904,795094.563314916 524260.5190782584,795086.8903819398 524254.16906552855))",
+    "site_description": "Teren gminnej oczyszczalni ścieków."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Czeremcha",
+      "address": "ul. Duboisa 14, 17-240 Czeremcha",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "200503_2.0003.1207",
+        "200503_2.0003.1209"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

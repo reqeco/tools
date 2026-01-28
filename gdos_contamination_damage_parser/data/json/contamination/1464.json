@@ -1,0 +1,271 @@
+{
+  "registry_id": 1464,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2905,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "mrągowski",
+    "municipality": "Mrągowo (gmina miejska)",
+    "address": "ul. Giżycka",
+    "precinct": "miasto Mrągowo",
+    "parcel_numbers": [
+      "281001_1.0002.153/8",
+      "281001_1.0005.262/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((651631.1052071794 670599.642374374,651631.2374991062 670556.250620923,651700.1615954752 670555.456869333,651719.873093291 670575.5652428828,651693.282415039 670587.3392247623,651661.0031837211 670594.3506971234,651661.4000595224 670598.3194550527,651631.3697910402 670599.3777905032,651631.1052071794 670599.642374374))",
+    "site_description": "Teren wykorzystywany w przeszłości na potrzeby działalności gazowni miejskiej jako miejsce składowania odpadów poprodukcyjnych (smoły pogazowej). Na terenie nieruchomości planowana jest inwestycja mieszkaniowa polegająca na budowie budynku mieszkalnego wielorodzinnego z garażem podziemnym."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Gazownia w Mrągowie powstała w 1889 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Mazuria Apartaments Sp. z o.o.",
+      "address": "ul. Plac Rynek Kościuszki 11 15-001 Białystok",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "153/8",
+        "262/10"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "49 mg/kg s.m.",
+      "area_ha": 0.0969
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,243 i 0,437 mg/kg s.m.",
+      "area_ha": 0.1936
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,952-1,97 mg/kg s.m.",
+      "area_ha": 0.2905
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,984-1,83 mg/kg s.m.",
+      "area_ha": 0.2905
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,208-0,325 mg/kg s.m.",
+      "area_ha": 0.2905
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,03-1,86 mg/kg s.m.",
+      "area_ha": 0.2905
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,879-1,63 mg/kg s.m.",
+      "area_ha": 0.2905
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,867-1,93 mg/kg s.m.",
+      "area_ha": 0.2905
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,749-1,8 mg/kg s.m.",
+      "area_ha": 0.2905
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,7-1,51 mg/kg s.m.",
+      "area_ha": 0.2905
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "21,3 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "362 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "3600 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": ">25 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "14,2 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "> 25 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "14,5 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "> 25 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "9,28 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": ">25 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "9,16 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": ">25 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "> 25 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,08 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": ">25 mg/kg s.m.",
+      "area_ha": 0.026
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": ">25 mg/kg s.m.",
+      "area_ha": 0.026
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-09-30",
+    "legal_basis": "101l ust. 2 Poś",
+    "case_reference": "WSI.515.12.2021.KPi",
+    "decisions": [
+      {
+        "issue_date": "2021-10-05",
+        "reference": "WSI.513.6.2021.KPi.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt. 2 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-11-17",
+        "reference": "WSI.515.12.2021.KPi.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Mazuria Apartaments Sp. z o.o.",
+        "address": "ul. Plac Rynek Kościuszki 11 15-001 Białystok",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2021-12-01",
+    "planned_end": "2022-03-01",
+    "actual_end": "2022-02-18",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja będzie prowadzona metodą ex-situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go gruntem wolnym od zanieczyszczeń.  Metodą ex-situ zostanie usunięty grunt niespełniający norm przewidzianych dla gruntów grupy I: \tna głębokości 0,0-0,25 m ppt z powierzchni około 2905 m2 (łączna powierzchnia obu nieruchomości). Kubatura zanieczyszczonego gruntu wynosi ok. 726,25 m3 (0,25 m x 2905 m2); \tna głębokości przekraczającej 0,25 m ppt z powierzchni około 260 m2 (teren ten został zaznaczony na załączniku nr 1 do decyzji). Zanieczyszczony grunt występuje w tym obszarze na głębokości od 2,0-2,8 m ppt w części centralnej i zachodniej do 2,8-3,3 m ppt w części wschodniej. Przyjmując średnią miąższość zanieczyszczonej warstwy równą 0,40 m (od 0,8 m do wyklinowania czyli 0,0 m), kubatura zanieczyszczonego gruntu w tym obszarze wynosi około 104 m3 (0,40 m x 260 m2). Przed przystąpieniem do usunięcia zanieczyszczonej warstwy gruntu zostanie zdjęta warstwa niezanieczyszczonego nadkładu.  Łącznie z terenu nieruchomości nr 153/8 obręb 0002 miasta Mrągowa i 262/10 obręb 0005 miasta Mrągowa zostanie wydobyte około 830,25 m3 gruntu o zawartości zanieczyszczeń przekraczających wartości dopuszczalne wymienione w pkt II.2 niniejszej decyzji. Przyjmując średnią gęstość zanieczyszczonego gruntu jako 1,5-1,7 Mg/m3, masa gruntu niespełniającego wymogów dla gruntów grupy I wynosi około 1245,37-1411,43 Mg (830,25 m3 x 1,5-1,7 Mg/m3).   Wydobyty grunt (odpad niebezpieczny o kodzie 17 05 03*) zostanie załadowany na samochody przystosowane do transportu odpadów niebezpiecznych i przekazany podmiotowi posiadającemu zezwolenie na unieszkodliwianie tego rodzaju odpadów zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2021 r. poz. 779, z późn. zm.).  Po usunięciu zanieczyszczonej partii gruntów w przedziale głębokościowym 0-0,25 m ppt, dno wykopu zostanie opróbowane i przebadane pod kątem zawartości w glebie następujących substancji stwarzających ryzyko: suma węglowodorów C12-C36, składników frakcji oleju oraz wielopierścieniowych węglowodorów aromatycznych (antracen, chryzen, benzo(a)antracen, benzo(a)piren, dibenzo(a,h)antracen, benzo(b)fluoranten, benzo(k)fluoranten, benzo(g,h,i)perylen, indeno(1,2,3-c,d)piren)) – co najmniej 6 próbek. W pobranych próbkach gleby należy również laboratoryjnie oznaczyć współczynnik wodoprzepuszczalności. Po zakończeniu planowanej inwestycji budowlanej, na teren nieruchomości (wokół budynku mieszkalnego) zostanie nawieziony czysty grunt o znanym pochodzeniu. Nawieziony grunt będzie spełniał standardy jakości przewidziane dla gruntów grupy I, co zostanie potwierdzone analizami laboratoryjnymi.  Po usunięciu zanieczyszczonej partii gruntów na głębokości przekraczającej 0,25 m ppt powstały wykop (ściany i dno) zostaną opróbowane i przebadane pod kątem określenia w glebie i ziemi zawartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji (4 próbki ze ścian wykopu i 4 próbki z dna wykopu). W pobranych próbkach gruntu należy również laboratoryjnie oznaczyć współczynnik wodoprzepuszczalności. Pojawiająca się w wykopie woda gruntowa zostanie odpompowana i przekazana do unieszkodliwienia jako odpad niebezpieczny o kodzie 16 10 01*. Następnie wykop zostanie uzupełniony nawiezionym czystym gruntem o znanym pochodzeniu. Nawieziony grunt będzie spełniał standardy jakości przewidziane dla gruntów grupy I, co zostanie potwierdzone analizami laboratoryjnymi.  Prace remediacyjne będą prowadzone pod stałym nadzorem geologicznym, w tym w zakresie usuwania i załadunku gruntu, przy zachowaniu szczególnych środków bezpieczeństwa oraz zastosowaniu środków ochrony indywidualnej odpowiednich do rodzaju wykonywanych prac i zagrożeń związanych z narażeniem na kontakt z odpadami niebezpiecznymi. Do czasu zakończenia prac remediacyjnych obszar historycznego zanieczyszczenia powierzchni ziemi będzie zabezpieczony przed dostępem osób postronnych.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy I. Ich zawartość w glebie i w ziemi nie będzie zatem przekraczać następujących wartości:  \tna głębokości 0-0,25 m ppt: •\tsuma węglowodorów C12-C35, składników frakcji oleju - 30 mg/kg s.m., •\twielopierścieniowe węglowodory aromatyczne: - antracen - 0,2 mg/kg s.m., - chryzen - 0,2 mg/kg s.m., - benzo(a)antracen - 0,1 mg/kg s.m., - dibenzo(a,h)antracen - 0,1 mg/kg s.m., - benzo(a)piren - 0,1 mg/kg s.m., - benzo(b)fluoranten - 0,1 mg/kg s.m., - benzo(k)fluoranten - 0,1 mg/kg s.m., - benzo(g,h,i)perylen - 0,2 mg/kg s.m., - indeno(1,2,3-c,d)piren - 0,2 mg/kg s.m.,  \tna głębokości przekraczającej 0,25 m ppt w przypadku gruntów o wodoprzepuszczalności wyższej lub równej 1x10-7 m/s: •\tarsen - 20 mg/kg s.m., •\tbar - 300 mg/kg s.m., •\tcynk - 300 mg/kg s.m., •\tcyjanki związki kompleksowe - 5 mg/kg s.m., •\twielopierścieniowe węglowodory aromatyczne: - antracen - 5 mg/kg s.m., - chryzen - 5 mg/kg s.m., - benzo(a)antracen - 5 mg/kg s.m., - benzo(a)piren - 5 mg/kg s.m., - benzo(b)fluoranten - 5 mg/kg s.m., - benzo(k)fluoranten - 5 mg/kg s.m., - benzo(g,h,i)perylen - 5 mg/kg s.m., - indeno(1,2,3-c,d)piren) - 5 mg/kg s.m.,  \tna głębokości przekraczającej 0,25 m ppt w przypadku gruntów o wodoprzepuszczalności niższej niż 1x10-7 m/s: •\tarsen - 50 mg/kg s.m., •\tbar - 600 mg/kg s.m., •\tcynk - 500 mg/kg s.m., •\tcyjanki związki kompleksowe – 10 mg/kg s.m., •\twielopierścieniowe węglowodory aromatyczne: - antracen - 20 mg/kg s.m., - chryzen - 20 mg/kg s.m., - benzo(a)antracen - 20 mg/kg s.m., - benzo(a)piren - 20 mg/kg s.m., - benzo(b)fluoranten - 20 mg/kg s.m., - benzo(k)fluoranten - 20 mg/kg s.m., - benzo(g,h,i)perylen - 20 mg/kg s.m., - indeno(1,2,3-c,d)piren) - 20 mg/kg s.m.  Pismem z 03.03.2022 r., znak: TA 223005/03/MCH przedłożono \" Sprawozdanie z przeprowadzonych prac remediacyjnych metodą ex situ na terenie nieruchomości o nr: 153/8 obręb 0002 miasta Mrągowo i 262/10 obręb 0005 miasta Mrągowo, położonych przy ul. Giżyckiej w Mrągowie\" (GEO-KAT Ochrona Środowiska Sp. z z o.o., Warszawa, 2022 r.). Zgodnie z treścią tego dokumentu, działania remediacyjne przeprowadzono w dniach 07-18.02.2022 r. W ramach tych prac wydobyto zanieczysczony grunt w ilości 1 401, 200 Mg (odpad o kodzie 17 05 03*) i przekazano do przetworzenia (odzysku) w oparciu o przepisy ustawy o odpadach. Odpompowano zbierającą się w wykopie zanieczyszczoną wodę w ilości 5 Mg (odpad o kodzie 16 01 01*) i przekazano do przetworzenia w oparciu o przepisy ustawy o odpadach. Potwierdzeniem przekazania odpadów uprawnionym odbiorcom są załączone karty przekazania odpadu. W celu określenia stanu gruntu po remediacji pobrano 14 pojedynczych próbek do analiz pod kątem zawartości substancji stwarzających ryzyko wskazanych w decyzji RDOŚ w Olsztynie z 17.11.2021 r., znak: WSI.515.12.2021.KPi.5. Wyniki analiz nie wykazały ponadnormatywnych norm badanych zanieczyszczeń i potwierdziły osiągnięcie ww. efektu ekologicznego.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

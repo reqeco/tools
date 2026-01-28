@@ -1,0 +1,102 @@
+{
+  "registry_id": 870,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.078,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Lechicka 59A",
+    "precinct": "obręb 52, Winiary",
+    "parcel_numbers": [
+      "39/3",
+      "40/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;OLYGON((358329.3890359332 510737.3124830397,358316.1598427838 510739.4291539397,358309.0160784863 510673.0186044583,358335.2098809148 510660.0539951911,358346.32240316086 510658.20190816,358346.851570881 510676.9873623904,358332.03487455944 510678.8394494308,358338.6494711271 510723.0249544708,358328.0661166117 510724.34787377995,358328.33070048224 510724.0832899194,358329.3890359332 510737.3124830397))",
+    "site_description": "Teren byłej stacji paliw, budynek biurowy i inne zabudowania"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1970-01-01",
+    "to": "2007-04-30",
+    "description": "Zanieczyszczenie najprawdopodobniej z lat 70 XX w. - funkcjonowanie stacji paliw"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Start Piątkowo Sp. z o.o.",
+      "address": "ul. Krzemowa 1, Złotniki, 62-002 Suchy Las",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "39/3",
+        "40/5"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "75 mg/kg s.m.",
+      "area_ha": 0.078
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "580 mg/kg s.m.",
+      "area_ha": 0.078
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3300 mg/kg s.m.",
+      "area_ha": 0.078
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-07-04",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.18.2019.ASB",
+    "decisions": [
+      {
+        "issue_date": "2019-08-22",
+        "reference": "WSS.515.18.2019.ASB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Start Piątkowo Sp. z o.o.",
+        "address": "ul. Krzemowa 1, Złotniki, 62-002 Suchy Las",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2019-09-30",
+    "planned_end": "2020-02-29",
+    "actual_end": "2019-08-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona metodą ex-situ. Z wyznaczonych do remediacji obszarów B1/1, B1/2, B2 i B3 został usunięty zanieczyszczony grunt. Z ww. wykopów pobrano próbki gruntu, w tym jedną z dna wykopu i ze ścian i poddano analizie na zawartość substancji, których obecność spowodowała obowiązek remediacji. Po uzyskaniu wyników wskazujących na spełnianie wymagań jakości gleby i ziemi, wykopy zagospodarowane zgodnie z projektem budowlanym na potrzeby podziemnego garażu.",
+    "ecological_effect": "Próbki gruntu z dna i ścian wykopu nie wskazywały na przekroczenia wymaganych zawartości substancji stwarzających ryzyko.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

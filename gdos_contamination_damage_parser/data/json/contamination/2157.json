@@ -1,0 +1,106 @@
+{
+  "registry_id": 2157,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2214,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Świeradowska 75A",
+    "precinct": "Gaj",
+    "parcel_numbers": [
+      "1/64",
+      "1/66",
+      "AM-17",
+      "obręb Gaj"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((363244.85964489076 358471.2224001214,363250.06943553506 358473.3080797773,363254.6857281658 358474.16294878256,363259.3020207961 358474.84684398957,363263.76131478755 358474.78430135455,363268.53460605803 358474.8468439877,363271.7831082794 358474.1629487872,363274.6896628989 358473.4790535802,363277.4252437179 358472.9661321789,363279.97375536105 358472.44484383427,363278.79422947834 358452.5779436268,363277.5937647929 358432.6413526628,363276.05334609386 358406.81147879455,363263.72734357184 358407.51870807353,363263.9643989804 358411.72399006505,363241.46959728404 358412.9891907377,363244.85964489076 358471.2224001214)))",
+    "site_description": "ul. Świeradowska 75A"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp. z o.o.",
+      "address": "Rondo ONZ 1 00-124 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "44,2-52,5 mg/kg s.m.",
+      "area_ha": 0.23
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,21-0,269 mg/kg s.m.",
+      "area_ha": 0.23
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,179-0,268 mg/kg s.m.",
+      "area_ha": 0.23
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,158-0,237 mg/kg s.m.",
+      "area_ha": 0.23
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,274-0,276 mg/kg s.m.",
+      "area_ha": 0.23
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp. z o.o.",
+        "address": "Rondo ONZ 1 00-124 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

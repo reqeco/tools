@@ -1,0 +1,130 @@
+{
+  "registry_id": 1598,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.474,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Kanał Żerański",
+    "precinct": "4-06-11, 4-06-10",
+    "parcel_numbers": [
+      "22",
+      "10/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635890.4305523463 495313.42604254186,635889.9013846149 495283.26348221954,635926.9431253999 495089.5880948696,635922.7097835948 495075.829734019,635924.2972867762 495066.30471496936,635938.0556476414 495069.47972131986,635956.0473503068 494911.25857153814,635944.4056603417 494838.2334254887,635999.4391038003 494763.0916085383,636007.9057874056 494628.153838668,636061.3517276847 494623.3913291376,636079.3434303575 494710.70400376525,636077.7559271937 494976.3462017169,636037.5391800599 495342.00109968707,636008.964122878 495335.651086987,635907.8930872848 495286.9676562892,635890.4305523463 495313.42604254186))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Miasto Stołeczne Warszawy",
+      "address": "pl. Bankowy 3/5, 00-950 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "22",
+        "10/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 1.454
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": 1.454
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": 1.454
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Styren",
+      "concentration": null,
+      "area_ha": 1.454
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 1.454
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 1.454
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": 0.02
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-03-21",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.10.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-05-10",
+        "reference": "WOOŚ-IV.515.10.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Miasto Stołeczne Warszawy",
+        "address": "pl. Bankowy 3/5, 00-950 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-05-01",
+    "planned_end": "2024-11-30",
+    "actual_end": "2024-10-25",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": "Efekt ekologiczny osiągnięto",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

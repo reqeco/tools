@@ -1,0 +1,65 @@
+{
+  "registry_id": 1505,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "mrągowski",
+    "municipality": "Mikołajki",
+    "address": "Olszewo 13A, 11-730 Mikołajki",
+    "precinct": "0012 Olszewo",
+    "parcel_numbers": [
+      "32/3",
+      "32/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((676239.6813059219 669510.9298607884,676280.9563887452 669492.4089904213,676316.1460427191 669599.0362870032,676272.7542889805 669614.3821510319,676239.4167220602 669511.7236123802,676239.6813059219 669510.9298607884))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "W dniach 23.03.2022 - 02.06.2022 r.  inspektorzy giżyckiej Delegatury WIOŚ w Olsztynie przeprowadzili czynności kontrolne działalności gospodarczej pn. (...) TRANS (...), prowadzonej przez na terenie posesji w miejscowości (...). W ramach tych czynności dokonano dwukrotnych oględzin nieruchomości o nr: 32/3 i 32/4 obręb 0012 Olszewo, gmina Mikołajki, podczas których potwierdzono prowadzenie na ich terenie nielegalnego demontażu pojazdów wycofanych z eksploatacji. W trakcie oględzin w dniu 27.05.2022 r. pobrano próbkę zbiorczą gleby do analiz."
+  },
+  "land_surface_holder": "osoba fizyczna, osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie powierzchni ziemi w następstwie prowadzenia demontażu pojazdów wycofanych z eksploatacji",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Olsztynie Delegatura w Giżycku",
+      "address": "ul. Łuczańska 5, 11-500 Giżycko",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(..) TRANS (..)",
+      "address": "(..)",
+      "economic_activity_code": "45.32.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "240 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-08-23",
+    "detection_date": "2022-05-27",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

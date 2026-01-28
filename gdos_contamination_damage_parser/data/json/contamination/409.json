@@ -1,0 +1,84 @@
+{
+  "registry_id": 409,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0197,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "żywiecki",
+    "municipality": "Żywiec",
+    "address": "ul. Browarna 88 Żywiec",
+    "precinct": "0007 Żywiec",
+    "parcel_numbers": [
+      "241701_1.0007.8515/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((512318.438000 199146.132000,512429.520000 199381.327000,512457.594000 199424.226000,512337.638000 199480.508000,512409.274000 199627.034000,512425.941000 199624.583000,512486.362000 199615.454000,512490.593000 199634.476000,512512.521000 199632.325900,512510.591000 199643.524000,512503.576000 199679.625000,512501.526000 199687.768000,512499.229000 199696.923000,512493.715000 199726.418100,512523.767000 199723.479000,512606.093000 199754.014000,512631.588000 199780.408000,512698.034000 199768.951000,512687.760000 199744.143000,512715.220000 199731.116000,512698.274000 199695.363000,512682.453000 199661.465000,512662.905000 199620.121000,512645.078000 199581.962000,512625.160000 199538.384000,512623.829000 199539.012000,512622.918000 199536.655000,512613.834000 199517.108000,512617.618000 199515.389100,512582.577000 199438.553000,512561.271000 199393.565000,512539.705000 199349.999000,512520.024000 199309.187000,512475.236000 199213.412000,512431.148000 199119.827000,512413.206000 199109.103000,512369.439000 199126.074900,512318.438000 199146.132000))",
+    "site_description": "Nieczynny punkt tankowania paliw w obrębie Browaru Żywiec"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "W latach 80-tych XX wieku w miejscu tym zlokalizowany był punkt tankowania paliw, który spełniał funkcje magazynowo - dystrybucyjną oleju napędowego. Obiekt został zlikwidowany."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Trans Trade Żywiec Sp. z o.o.",
+      "address": "ul. Browarna 90 34-400 Żywiec",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "1210 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-11-02",
+    "legal_basis": "art. 101l ust. 4 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-12-07",
+        "reference": "WSI.511.19.3.2016.MB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Trans Trade Żywiec Sp. z o.o.",
+        "address": "ul. Browarna 90 34-400 Żywiec",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2016-12-07",
+    "planned_end": "2016-12-31",
+    "actual_end": "2016-12-08",
+    "method": null,
+    "description": "Remediacja środowiska gruntowo - wodnego polega na usunięciu zanieczyszczonego gruntu i przekazanie do unieszkodliwienia uprawnionemu podmiotowi.",
+    "ecological_effect": "Przywrócenie gruntów rodzimych do wymogów określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

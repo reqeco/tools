@@ -1,0 +1,102 @@
+{
+  "registry_id": 1226,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Antoniny Grygowej 9",
+    "precinct": "0046 Zabędie III",
+    "parcel_numbers": [
+      "066301_1.0046.AR_9.81"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((753462.9014834804 381162.42275805306,753492.5348772382 381155.27899378724,753478.776515687 381074.8454995705,753427.1826603152 380996.5286762295,753462.6368996094 381162.15817418415,753462.9014834804 381162.42275805306))",
+    "site_description": "inne tereny zabudowane"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Przedsiębiorstwo Budowlane A. Sergiel, A. Skop Sp.j.",
+      "address": "ul. Wieniawska 8/7, 20-071 Lublin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "066301_1.0046.AR_9.81"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "ORYLION Sp. z o.o.",
+      "address": "ul. Weteranów 24b, 20-044 Lublin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "066301_1.0046.AR_9.81"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "8,49 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-20",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.12.2020.SG",
+    "decisions": [
+      {
+        "issue_date": "2021-01-15",
+        "reference": "WSI.513.12.2020.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Przedsiębiorstwo Budowlane A. Sergiel, A. Skop Sp.j.",
+        "address": "ul. Wieniawska 8/7, 20-071 Lublin",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ORYLION Sp. z o.o.",
+        "address": "ul. Weteranów 24b, 20-044 Lublin",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

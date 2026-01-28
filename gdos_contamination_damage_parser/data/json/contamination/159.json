@@ -1,0 +1,98 @@
+{
+  "registry_id": 159,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.263,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "kościański",
+    "municipality": "Kościan (gmina miejska)",
+    "address": "64-000 Kościan, ul. Dezyderego Chłapowskiego 12",
+    "precinct": null,
+    "parcel_numbers": [
+      "3379"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((339807.8234041033 471226.8171606399,339794.06504321564 471206.7087870911,339879.7902149153 471154.3211823115,339939.05700028094 471189.24625216145,339807.8234041033 471226.8171606399))",
+    "site_description": "Teren Zakładu Produktów Naftowych nr 14"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1958-01-01",
+    "to": "1997-01-01",
+    "description": "Zakład funkcjonował od 1958 r. do 1997 r.; w 1991 r. przeprowadzono analizy środowiska gruntowo-wodnego, które wykazały zanieczyszczenie substancjami ropopochodnymi."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od < 0,1 do 130 mg/kg s.m.",
+      "area_ha": 0.263
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od < 10 do 6900 mg/kg s.m.",
+      "area_ha": 0.263
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "od < 5 do 11 mg/kg s.m.",
+      "area_ha": 0.263
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-03-05",
+    "legal_basis": "art. 101l",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-04-15",
+        "reference": "WSS.511.16.2015.ACH.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2015-06-01",
+    "planned_end": "2017-05-30",
+    "actual_end": "2017-05-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "W pierwszej kolejności remediacja polegająca na usunięciu całego zanieczyszczonego gruntu. Następnie  odpompowywanie i oczyszczanie wód gromadzących się w wykopach po wydobyciu gruntów. Wody po oczyszczeniu zrzucane z powrotem do wykopów, a ich kierunek spływu będzie dodatkowo powodował przepłukiwanie gruntu. Wykopy powstałe w wyniku usunięcia zanieczyszczonego gruntu zostaną zasypane czystym gruntem.",
+    "ecological_effect": "Gleba i ziemia spełniają wymagania określone w decyzji ustalającej plan remediacji",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,60 @@
+{
+  "registry_id": 1121,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Czechosłowacka, 81-336 Gdynia",
+    "precinct": "0026",
+    "parcel_numbers": [
+      "454"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((468294.2149691188 741935.8967062626,468315.38167811884 741900.4424686823,468287.33578868886 741881.3924305849,468304.79832361883 741852.8173734341,468318.02751673874 741861.8132247617,468322.26085853874 741855.9923797837,468359.30259928876 741878.2174242344,468362.47760563873 741877.6882565143,468452.4361188888 741932.1925321938,468452.96528661886 741933.7800353626,468468.84031836886 741945.9508930426,468468.31115063874 741948.5967316628,468506.9403945689 741972.4092792943,468485.7736855689 742005.7468459643,468435.5027516887 741985.1093046926,468391.5818305188 741959.1800861638,468384.7026500888 741973.4676147439,468377.8234696688 742000.455168712,468360.3609347387 742015.8010327425,468352.9525865887 742010.509355492,468293.68580138875 741936.4258739939,468294.2149691188 741935.8967062626))",
+    "site_description": "teren stoczniowy"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja statków i konstrukcji pływających",
+    "current": "Naprawa i konserwacja statków i łodzi"
+  },
+  "land_holders": [
+    {
+      "name": "FAST Gritblasting sp. z o.o.",
+      "address": "ul. Czechosłowacka 3, 81-336 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "454"
+      ],
+      "economic_activity_code": "33.15.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-18",
+    "legal_basis": "61 par. 1 i 4 kpa, 101c ust. 3 poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.159.2019.TW.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-03",
+        "reference": "RDOŚ-Gd-WZS.513.159.2019.TW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

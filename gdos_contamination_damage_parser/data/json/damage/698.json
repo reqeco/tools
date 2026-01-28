@@ -1,0 +1,79 @@
+{
+  "registry_id": 698,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "żyrardowski",
+    "municipality": "Żyrardów",
+    "address": "ul. Polskiej Organizacji Wojskowej 1, Żyrardów",
+    "precinct": "4",
+    "parcel_numbers": [
+      "4795"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((599179.1049680064 466085.8325285483,599160.7163895534 466075.6460498385,599148.0163641514 466098.5325539494,599166.0080668044 466109.1159084495,599179.1049680064 466085.8325285483))",
+    "site_description": "teren stacji, obecnie działka 4795, wg decyzji 4795/1"
+  },
+  "occurrence_time": {
+    "date": "2013-10-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "szkoda w powierzchni ziemi polegająca na zanieczyszczeniu gleby olejem mineralnym na terenie likwidowanej Stacji Paliw nr 573 w Żyrardowie prz ul POW 1 (działka nr ew. 4795/1, obręb 4)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A",
+      "address": "ul. Chemików 7 Płock",
+      "legal_form": "podmiot korzystajcy ze srodowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Stacja Paliw nr 573 w Żyrardowie - PKN ORLEN S.A.",
+      "address": "Żyrardów ul. Polskiej Organizacji Wojskowej 1",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2014-01-09",
+    "detection_date": "2013-10-01",
+    "decisions": [
+      {
+        "issue_date": "2014-02-11",
+        "reference": "WSI.511.2.2014.MGł.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2014-12-31",
+    "actual_end": "2015-02-02",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": "teren po przeprowadzeniu spełnia określone prawem standardy",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

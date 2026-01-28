@@ -1,0 +1,162 @@
+{
+  "registry_id": 275,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "Bydgoszcz Fordońska 419",
+    "precinct": "0342",
+    "parcel_numbers": [
+      "166",
+      "167",
+      "168",
+      "169",
+      "170/4",
+      "171/2",
+      "173"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((443487.2980907062 586951.9027599208,443504.62833370623 586947.9340019803,443517.98981875635 586944.0975359799,443528.7054651863 586940.6579457708,443538.0981923064 586936.9537716927,443540.3471551364 586932.8527218215,443581.62223768677 586909.17246613,443592.2055921867 586893.4297263119,443543.1252856965 586871.0723899323,443548.9461306664 586859.8275757711,443529.89609256637 586850.8317244519,443516.1377317162 586882.84637181,443501.8502031462 586918.6974851815,443487.29809070606 586951.5058841305,443487.2980907062 586951.9027599208))",
+    "site_description": "teren stacji paliw nr 1071"
+  },
+  "occurrence_time": {
+    "date": "2011-07-07",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi w wyniku przebudowy Stacjo Paliw nr 1071 w Bydgoszczy przy ul.Fordońskiej 419 (obręb 0342, działki nr 166,167,168,169, 170/4, 1701/2 i 173)",
+  "total_area_ha": 0.0555,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "ORLEN EKO Sp.zo.o.",
+      "address": "ul. Średzka 10/12, 61-023 Poznań",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "68,3-1418 mg/kg s.m.",
+      "area_ha": 0.0555
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2402-2568 mg/kg s.m.",
+      "area_ha": 0.0555
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Ksyleny",
+      "concentration": "11,9-45,3 mg/kg s.m.",
+      "area_ha": 0.0555
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Styren",
+      "concentration": "2,28 mg/kg s.m.",
+      "area_ha": 0.0555
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "68,3-1418 mg/kg s.m.",
+      "area_ha": 0.0555
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2402-2568 mg/kg s.m.",
+      "area_ha": 0.0555
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Ksyleny",
+      "concentration": "11,9-45,3 mg/kg s.m.",
+      "area_ha": 0.0555
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Styren",
+      "concentration": "2,28 mg/kg s.m.",
+      "area_ha": 0.0555
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2014-03-03",
+    "detection_date": "2011-07-07",
+    "decisions": [
+      {
+        "issue_date": "2013-01-15",
+        "reference": "WSI.511.35.2011.JD.16",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2014-03-03",
+        "reference": "WSI.511.1.2014.MG1.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-12-31",
+        "reference": "WSS.511.5.2018.KK.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 104, 154, 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-12-28",
+        "reference": "WSS.511.8.2020.KK.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 104,154 § 2, 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-12-31",
+        "reference": "WSS.511.8.2024.BW.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 104 i 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2030-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń",
+    "description": "sczerpywanie wolnego produktu i bioremediacja",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

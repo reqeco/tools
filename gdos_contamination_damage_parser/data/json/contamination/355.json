@@ -1,0 +1,218 @@
+{
+  "registry_id": 355,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.03,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Piastowska",
+    "precinct": "2-11-01",
+    "parcel_numbers": [
+      "11",
+      "18/16"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((627844.5676205567 482025.6275901953,627972.097042373 482034.6234415211,627967.8637005687 481967.9483081708,627971.0387069203 481931.43573514,627898.5427285454 481924.02738699224,627898.5427285454 481921.38154836185,627847.2134591766 481914.5023679435,627844.5676205567 482025.6275901953))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,142-0,184 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,210 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,140-0,192 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,124-0,187 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,149 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,005-0,028 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,032 [mg/kg]",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "516 [mg/kg]",
+      "area_ha": 0.03
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-02-14",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.52.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-08-13",
+        "reference": "WSI.515.38.2019.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": null,
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": null,
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": null,
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": null,
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": null,
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": null,
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-09-25",
+    "planned_end": "2019-06-30",
+    "actual_end": "2019-04-16",
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": "Remediacja wykonana zgodnie z decyzją oraz rozporządzeniem MŚ",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

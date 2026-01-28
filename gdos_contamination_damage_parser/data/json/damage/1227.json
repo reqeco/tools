@@ -1,0 +1,146 @@
+{
+  "registry_id": 1227,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Gordona Bennetta",
+    "precinct": "02-06-05",
+    "parcel_numbers": [
+      "48/11",
+      "48/12"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635515.8369946463 480174.7109464677,635703.9561210859 480128.9379382543,635707.1311274363 480031.8356607156,635620.3476204434 480029.18982208427,635591.772563263 480029.983573677,635580.395457161 480033.9523316175,635521.1286718987 480067.0253144279,635434.3451649084 480123.91084486805,635430.1118231039 480124.44001258817,635427.7305683416 480128.937938259,635430.640990825 480148.2525602188,635429.5826553744 480163.59842424747,635515.8369946463 480174.7109464677))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wyciek substancji paliwowych",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "BALTIC GROUND SERVICES Sp z o. o.",
+      "address": "ul. 17 Stycznia 45B, 02-146 Warszawa",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "11,9 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "53,9-437 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "4,1 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "7,2 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,12-7,4 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,64 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,11-5,8 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,014-9,7 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "3,3 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "2,8 [mg/kg]",
+      "area_ha": 0.0425
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "2,6 [mg/kg]",
+      "area_ha": 0.0425
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2017-10-02",
+    "detection_date": "2017-10-02",
+    "decisions": [
+      {
+        "issue_date": "2017-06-11",
+        "reference": "WSI.511.3.2018.SSz.18",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-06-01",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-06-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": "nowy znak sprawy WOOŚ-IV.515.75.2019.SSz"
+}

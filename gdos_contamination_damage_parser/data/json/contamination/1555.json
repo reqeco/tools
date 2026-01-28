@@ -1,0 +1,148 @@
+{
+  "registry_id": 1555,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.1792,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "strzelecko-drezdenecki",
+    "municipality": "Drezdenko",
+    "address": "ul. Niepodległości 17",
+    "precinct": "0001 Drezdenko",
+    "parcel_numbers": [
+      "212/8",
+      "212/9",
+      "212/10",
+      "212/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((286532.7458875781 558054.1885827994,286526.26358285156 558028.1270723492,286521.897949052 558016.2207985306,286517.13543945 557998.2290958827,286512.769805648 557989.497828423,286603.6543640945 557944.1216959795,286616.75126549805 557973.0936289271,286651.5440440584 557955.763385918,286657.36488913465 557966.7436162187,286662.7888584144 557964.2300695153,286663.3180261414 557967.4050758649,286667.2867841539 557965.949864625,286669.27116315643 557970.1832064232,286706.0483207217 557952.7206714842,286728.4056574793 557983.6769833984,286681.57431294257 558015.2947549718,286672.1815856793 557995.054089494,286532.7458875781 558054.1885827994))",
+    "site_description": "teren dawnej gazowni miejskiej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z.o.o.",
+      "address": "ul. Wojciecha Bandrowskiego 16 33-100 Tarnów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4650mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.163",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "mg/kg s.m.3300",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "34200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "4570 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "5,56 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "5,92 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "6,91 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,10 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "9,33 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "142 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-02-15",
+    "legal_basis": "61 kpa",
+    "case_reference": "WZŚ.515.5.2022.KM",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101i ust. 4 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z.o.o.",
+        "address": "ul. Wojciecha Bandrowskiego 16 33-100 Tarnów",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-07-01",
+    "planned_end": "2024-08-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

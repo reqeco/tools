@@ -1,0 +1,98 @@
+{
+  "registry_id": 792,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "głogowski",
+    "municipality": "Głogów (gmina miejska)",
+    "address": "ul.Żukowicka 1",
+    "precinct": "obręb Huta",
+    "parcel_numbers": [
+      "825/1 obręb Huta"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((290868.03708113834727556 429395.51139181014150381, 290802.40859070618171245 429293.65781096462160349, 290805.65135912143159658 429293.81039036717265844, 290809.97205985826440156 429293.5333398450165987, 290814.25851400755345821 429292.26681949757039547, 290818.24322877719532698 429290.24580134823918343, 290821.57909588393522426 429287.34913411550223827, 290824.40685421496164054 429283.7693704916164279, 290826.45997967477887869 429279.9417016226798296, 290827.68539532396243885 429275.62871196027845144, 290827.84871821769047529 429271.30388405825942755, 290827.27789029863197356 429266.73894385620951653, 290825.72677553223911673 429262.55822282563894987, 290823.45166131528094411 429258.68758155312389135, 290820.36518019204959273 429255.54237054474651814, 290816.65878956008236855 429252.96188387274742126, 290812.51522625994402915 429251.35667024925351143, 290808.24149645445868373 429250.29933174140751362, 290803.84282299148617312 429250.2502084206789732, 290799.57877901685424149 429251.19506252836436033, 290795.54713656601961702 429252.90823160670697689, 290792.47585527505725622 429254.96926879696547985, 290789.98678086290601641 429257.23869831115007401, 290788.02098048466723412 429259.92002508137375116, 290786.03306374390376732 429263.29350488167256117, 290784.24254294589627534 429267.5273424293845892, 290766.05888534244149923 429278.31805913615971804, 290755.47199438628740609 429273.16095665190368891, 290720.63944726600311697 429295.33914032578468323, 290714.59320579410996288 429317.09994431212544441, 290758.022525254113134 429380.08671639114618301, 290642.20150225702673197 429459.6193384500220418, 290585.26132516923826188 429378.69820331502705812, 290550.93593564053298905 429404.46354044228792191, 290519.96454966865712777 429364.31538386549800634, 290292.72799291316187009 429521.00639298930764198, 290305.29282615054398775 429538.6722061475738883, 290435.01677686168113723 429722.99736534338444471, 290841.0320824651280418 429442.82499958015978336, 290868.03708113834727556 429395.51139181014150381))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "\"Energetyka\" Sp. z o.o.",
+      "address": "ul.M.Skłodowskiej-Curie 58 59-301 Lublin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "105-222 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "743-3089 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "776-2429 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-05-15",
+    "legal_basis": "art.61 par.4 KPA",
+    "case_reference": "WSI.513.40.2019.KMA",
+    "decisions": [
+      {
+        "issue_date": "2019-06-03",
+        "reference": "WSI.513.40.2019.KMA.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "\"Energetyka\" Sp. z o.o.",
+        "address": "ul.M.Skłodowskiej-Curie 58 59-301 Lublin",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,254 @@
+{
+  "registry_id": 1553,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0687,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Gliwice",
+    "municipality": "Gliwice",
+    "address": "ul. Chorzowska 151",
+    "precinct": "Żorek",
+    "parcel_numbers": [
+      "246601_1.0063.361"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((480985.25096799997845665 270991.85894300002837554, 480982.0431879999814555 271005.28450200002407655, 480976.68944400001782924 271021.89710699999704957, 480964.5136400000192225 271020.21167699998477474, 480955.70218700001714751 271018.99077500001294538, 480958.0574870000127703 271002.36846799997147173, 480961.22131499997340143 271002.78571700002066791, 480961.33820100000593811 271001.81469199998537078, 480963.04428799997549504 270989.68858299998100847, 480963.16157599998405203 270988.74753599998075515, 480985.25096799997845665 270991.85894300002837554))",
+    "site_description": "Teren wyłączonej Stacji Paliw PKN ORLEN S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Po 1961 r."
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S. A.",
+      "address": "ul. Chemików 7 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246601_1.0063.361"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-10-28",
+    "legal_basis": null,
+    "case_reference": "WSI.515.16.2021.MB1",
+    "decisions": [
+      {
+        "issue_date": "2022-01-19",
+        "reference": "WSI.515.16.2021.MB1.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polski Koncern Naftowy ORLEN S. A.",
+        "address": "ul. Chemików 7 Płock",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-02-01",
+    "planned_end": "2023-02-01",
+    "actual_end": "2022-07-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Metoda ex-situ poprzez usunięcie zanieczyszczonego gruntu.",
+    "ecological_effect": "Wykonano 30 prób z dna i ścian wykopu. W 27 próbach nie odnotowano przekroczeń zawartości badanych substancji powodujących ryzyko. Dno wykopu, ściana północna i południowa spełniają kryteria jakościowe dla I grupy gruntów. Badania laboratoryjne (3 próby) wykazały ponadnormatywne zawartości substancji powodujących ryzyko w próbach gruntu pozostawionych we wschodniej oraz zachodniej ścianie wykopu. Zanieczyszczenia w tym miejscu nie usunięto ze względu na brak możliwości technicznych. Pozostałe zanieczyszczenie związane jest z przemieszczeniem źródła skażenia wraz z wodami gruntowymi. Pozostałe w ścianach zanieczyszczenie, w porównaniu z usuniętymi gruntami, jest niewielkie (pod kątem stężenia oraz kubatury). Pozostałe zanieczyszczenia znajdujące się na znacznej głębokości, bezpośrednio pod drogami asfaltowymi, niedostępnymi dla remediacji ex-situ pozostawiono naturalnym procesom samooczyszczania.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

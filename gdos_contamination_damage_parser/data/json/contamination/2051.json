@@ -1,0 +1,58 @@
+{
+  "registry_id": 2051,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "wodzisławski",
+    "municipality": "Wodzisław Śląski",
+    "address": "ul. Zielona",
+    "precinct": "0003 Wilchwy",
+    "parcel_numbers": [
+      "241504_1.0003.AR_4.2074/17"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((462182.98684561799746007 235606.15381956700002775, 462215.79903890902642161 235577.19031148200156167, 462225.90098099200986326 235589.69855746498797089, 462242.29366877902066335 235609.98853251201217063, 462206.382524706015829 235634.64577588898828253, 462182.98684561799746007 235606.15381956700002775))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Obróbka metali i nakładanie powłok na metale",
+    "current": null
+  },
+  "land_holders": [],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-12-14",
+    "legal_basis": "art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.513.494.2022.MS2",
+    "decisions": [
+      {
+        "issue_date": "2023-03-28",
+        "reference": "WSI.513.494.2022.MS2.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

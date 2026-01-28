@@ -1,0 +1,57 @@
+{
+  "registry_id": 1289,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "wrzesiński",
+    "municipality": "Nekla",
+    "address": "dz. 66 i 101, obręb Mystki",
+    "precinct": "Mystki",
+    "parcel_numbers": [
+      "66",
+      "101"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((393887.5748840149 491536.4217673214,393847.887304635 491523.72174192127,393847.88730463525 491504.67170382105,393920.38328297314 491512.0800519716,393887.5748840149 491536.4217673214))",
+    "site_description": "teren będący w zasobach Krajowego Ośrodka Wsparcia Rolnictwa Oddział Terenowy w Poznaniu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "W latach 2014 - 2015 prowadzona działalność w zakresie zbierania odpadów"
+  },
+  "land_surface_holder": "Skarb Państwa (Krajowy Ośrodek Wsparcia Rolnictwa Oddział Terenowy w Poznaniu)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W latach 2014-2015 na terenie działek 66 i 101, obręb Mystki działalność prowadziła firma EKOMYST Sp. z o.o., posiadająca zezwolenie na zbieranie odpadów Starosty Wrzesińskiego. Firma nie prowadzi działalności, jednakże nie zakończyła jej prawidłowo i pozostały na terenie odpady zalegają do chwili obecnej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Krajowy Ośrodek Wsparcia Rolnictwa Oddział Terenowy w Poznaniu",
+      "address": "ul. Fredry 12, 61-701 Poznań",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "EKOMYST Sp. o.o.",
+      "address": "al. Wilanowska 105/34, 02-765 Warszawa",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2020-06-30",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

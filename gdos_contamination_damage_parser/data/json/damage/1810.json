@@ -1,0 +1,62 @@
+{
+  "registry_id": 1810,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kartuski",
+    "municipality": "Sulęczyno",
+    "address": null,
+    "precinct": "Węsiory",
+    "parcel_numbers": [
+      "547/7",
+      "547/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((426766.38832404255 705269.7167890435,426783.0571073731 705257.0167636462,426820.36343199445 705275.5376340142,426799.4613068537 705298.8210139144,426766.38832404255 705269.7167890435))POLYGON((426799.1967229937 705299.3501816448,426819.8342642644 705276.331385605,426837.0322153352 705283.4751498951,426844.1759796154 705294.8522559758,426821.6863513044 705319.7231390541,426799.1967229937 705299.3501816448))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2023-02-07",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Obecność cieczy niewiadomego pochodzenia o zapachu farby.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Pomorski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "Trakt św. Wojciecha 293, 80-001 Gdańsk",
+      "legal_form": "organ administracji publicznej"
+    },
+    {
+      "name": "Wójt Gminy Sulęczyno",
+      "address": "ul. Kaszubska 26, 83-320 Sulęczyno",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-07-19",
+    "detection_date": "2023-02-07",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

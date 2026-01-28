@@ -1,0 +1,79 @@
+{
+  "registry_id": 2082,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "piotrkowski",
+    "municipality": "Grabica",
+    "address": "m. Rusociny",
+    "precinct": "0030",
+    "parcel_numbers": [
+      "542"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532004.7850670236 403068.6116054272,531994.8428730337 403051.09579620697,532017.2534436857 403039.72523550875,532025.3270617655 403058.3433860205,532004.7850670236 403068.6116054272))",
+    "site_description": "miejscowość Rusociny"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "listopada 2024 r."
+  },
+  "land_surface_holder": "Skarb Państwa (Starosta Piotrkowski), Skarb Państwa (Lasy Państwowe Nadleśnictwo Kolumna )",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi z uwagi na porzucone odpady, które uległy rozszczelnień i wylały się do gleby",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Łodzi, Delegatura w Piotrkowie Trybunalskim",
+      "address": "Bawełniana 18,  97-300 Piotrków Trybunalski",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "729±262 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1400±520 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "330±107mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "330±115 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2025-03-10",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

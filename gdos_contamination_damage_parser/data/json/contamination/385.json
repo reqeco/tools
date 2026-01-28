@@ -1,0 +1,101 @@
+{
+  "registry_id": 385,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1462,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Patriotów 107",
+    "precinct": "3-12-74",
+    "parcel_numbers": [
+      "52"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((650677.1495225444 480267.0709495833,650708.8995861084 480271.83345911186,650750.7038364687 480209.9208352817,650694.6120575052 480196.162474432,650677.1495225444 480267.0709495833))",
+    "site_description": "(obecnie 52/1 i 52/2)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "52"
+      ],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "40-68 [mg/kg]",
+      "area_ha": 0.0982
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1120 [mg/kg]",
+      "area_ha": 0.048
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-05-21",
+    "legal_basis": "art. 61 § 1 Kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.78.2019",
+    "decisions": [
+      {
+        "issue_date": "2018-06-27",
+        "reference": "WSI.515.34.2018.SSz.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-08-08",
+        "reference": "WOOŚ-IV.515.78.2019.SSz.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 154 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2018-07-31",
+    "planned_end": "2019-07-31",
+    "actual_end": "2019-11-01",
+    "method": null,
+    "description": "remediacja ex situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

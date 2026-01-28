@@ -1,0 +1,70 @@
+{
+  "registry_id": 1751,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0298,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Królewiecka 82-300 Elbląg",
+    "precinct": "0029 Elbląg",
+    "parcel_numbers": [
+      "286101_1.0029.35",
+      "286101_1.0029.36"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((531717.2467954411 703773.8662769487,531736.5614174013 703765.3995933477,531744.4989332712 703779.9517057873,531717.5113793012 703782.0683766874,531716.9822115713 703774.6600285377,531717.2467954411 703773.8662769487))",
+    "site_description": "Teren dawnego Państwowego Gospodarstwa Rolnego. Obecnie nieużytek."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": "Chów i hodowla bydła mlecznego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "286101_1.0029.35",
+        "286101_1.0029.36"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3,75 mg/kg s.m.",
+      "area_ha": 0.0298
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-11-24",
+    "legal_basis": "101d ust. 6, 8 i 9 Poś",
+    "case_reference": "WSI.513.16.2022.KPi",
+    "decisions": [
+      {
+        "issue_date": "2023-01-26",
+        "reference": "WSI.513.16.2022.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

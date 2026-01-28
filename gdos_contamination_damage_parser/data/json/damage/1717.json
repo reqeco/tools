@@ -1,0 +1,124 @@
+{
+  "registry_id": 1717,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Chwaszczyńska 129E, Gdynia",
+    "precinct": "Wielki Kack",
+    "parcel_numbers": [
+      "527",
+      "528"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((465376.68804505776 733052.0806872817,465452.0944458778 733015.0389465326,465423.78397258767 732959.2117515448,465417.6985437478 732962.122174033,465417.4339598878 732958.6825838219,465421.93188554764 732956.0367451925,465406.8506053878 732927.197104183,465388.5943188777 732926.4033525921,465331.7087884377 732956.8304967824,465331.97337229777 732956.8304967815,465331.1796207079 732956.8304967824,465376.68804505776 733052.0806872817))",
+    "site_description": "Teren przemysłowy."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "listopad 2021"
+  },
+  "land_surface_holder": null,
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W trakcie kontroli przeprowadzonej przez PWIOŚ pobrano próbki gleby z terenu zajmowanego przez Spółkę. Badania wykazały przekroczenia substancji stwarzających ryzyko.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Pomorski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "Trakt św. Wojciecha 293, 80-001 Gdańsk",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Fenix Sp. z o.o.",
+      "address": "ul. Chwaszczyńska 129E, Gdynia",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "4980 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "632 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "20,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3040 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4790 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "30,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Tetrachloroeten",
+      "concentration": "0,25 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2022-03-25",
+    "detection_date": "2021-11-03",
+    "decisions": [
+      {
+        "issue_date": "2023-08-23",
+        "reference": "RDOŚ-Gd-WZS.511.2.2022.MK.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-09-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2024-01-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "1. Wydobycie zanieczyszczonego gruntu z przedziału głębokości 0,00-0,25 m ppt,  w obrębie sekcji S2, z powierzchni ok. 24 m2; 2. Wydobycie zanieczyszczonego gruntu z głębokości do 1 m ppt, w obrębie otworów badawczych BH-01, BH-02, BH-02a, z powierzchni ok. 30 m2; 3. Wydobycie zanieczyszczonego gruntu z głębokości do 3 m, w rejonie otworów badawczych BH-02, BH02a, z powierzchni ok. 21 m2.",
+    "ecological_effect": "Usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

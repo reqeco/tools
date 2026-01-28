@@ -1,0 +1,79 @@
+{
+  "registry_id": 812,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "Białystok",
+    "municipality": "Białystok",
+    "address": "15-874 Białystok, ul. Dąbrowskiego 15",
+    "precinct": "11 Śródmieście",
+    "parcel_numbers": [
+      "257/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((777095.0340584966 593668.3486469984,777109.3215883442 593662.3955101352,777118.978900172 593656.5746651776,777126.3872489659 593650.8861121573,777120.3018195282 593642.2871366087,777084.847578774 593651.5475716991,777095.0340584966 593668.3486469984))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. nr 757 w Białymstoku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "Wystąpienie zanieczyszczenia wód podziemnych potwierdziły wyniki badań wody pobranej z piezometrów zamontowanych na terenie stacji paliw w 2014 r. (Laboratorium Badawcze Przedsiębiorstwa Geologicznego POLGEOL S.A. - sprawozdanie z badań nr L- 47/14 z dnia 09.04.2014 r.)"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "Szkoda w środowisku w wodach - zanieczyszczenie wód podziemnych I poziomu wodonośnego substancjami pochodzenia naftowego. W trakcie modernizacji Stacji Paliw PKN ORLEN S.A. nr 757 w Białymstoku (w dniach 13-14 i 16.01.2015 r.) po wydołowaniu zbiorników paliwowych stwierdzono występowanie zanieczyszczenia zlokalizowanego w ścianach i dnie wykopów na podstawie obserwacji organoleptycznej. Podjęto działania zapobiegawcze - z terenu stacji paliw wydobyto i przekazano do unieszkodliwiania 56,14 Mg gruntów zanieczyszczonych substancjami ropopochodnymi (których stopień zanieczyszczenia przekraczał dopuszczalne standardy jakości dla obszaru sozologiczno-urbanistycznego „C\" - zgodnie z Rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi). Pierwszą analizę wód podziemnych na przedmiotowym terenie przeprowadzono dopiero po wykonaniu trzech piezometrów w kwietniu 2014 r. - przeprowadzone badania wykazały podwyższoną zawartość olejów mineralnych w wodzie gruntowej.",
+  "total_area_ha": 0.01,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Białymstoku",
+      "address": "ul. Ciołkowskiego 2/3, 15-264 Białystok",
+      "legal_form": "Organ rządowej administracji zespolonej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-01-28",
+    "detection_date": "2014-04-09",
+    "decisions": [
+      {
+        "issue_date": "2015-03-26",
+        "reference": "WPN.512.1.2015.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2015-04-01",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-12-01",
+    "method": null,
+    "description": "Działania naprawcze polegały na oczyszczaniu wód podziemnych I poziomu wodonośnego o swobodnym zwierciadle, zanieczyszczonych substancjami ropopochodnymi, występujących w południowo-wschodniej części działki o nr geod. 257/10 obręb 11 Śródmieście, m. Białystok, w rejonie piezometru P3 i dawnego pola zbiornikowego. Powierzchnia ww. działki wynosi około 0,06 ha, natomiast obszar występowania zanieczyszczenia wody wynosił około 0,01 ha. Działania naprawcze prowadzone były metodą in-situ mającą na celu wspomaganie procesu naturalnego samooczyszczania wód podziemnych, polegającą na okresowej aplikacji do zanieczyszczonej warstwy wodonośnej biocenoz mikroorganizmów autochtonicznych zdolnych do rozkładu obecnych w środowisku wodnym substancji ropopochodnych, wraz  z substancjami odżywczymi. Prowadzono monitoring wód podziemnych i pomiary poziomu zwierciadła wód podziemnych.",
+    "ecological_effect": "Zgodnie z decyzją, stężenie substancji ropopochodnych (C6-C35) w wodach podziemnych na przedmiotowym obszarze nie powinno przekraczać wartości 0,3 mg/l. Badania przeprowadzone w 2019 r. (seria badań) nie wykazują ponadnormatywnej obecności substancji ropopochodnych w wodach podziemnych pobranych z piezometrów P1, P2 i P3.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

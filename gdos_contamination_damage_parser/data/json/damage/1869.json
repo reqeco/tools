@@ -1,0 +1,59 @@
+{
+  "registry_id": 1869,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "średzki",
+    "municipality": "Środa Śląska",
+    "address": "320/15 i 320/16 obręb Kryniczno, gm. Środa Śląska",
+    "precinct": "obręb Kryniczno",
+    "parcel_numbers": [
+      "320/15",
+      "320/16",
+      "obręb Kryniczno",
+      "gm. Środa Śląska"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((337011.86260760703589767 365145.55575677007436752, 337023.77315348305273801 365146.60345582105219364, 337047.8780463858274743 365148.98490536771714687, 337061.86109873512759805 365150.26434754859656096, 337061.73828904668334872 365158.14356801006942987, 337068.49309712869580835 365158.65154915023595095, 337069.43059447268024087 365138.63502325862646103, 337070.69762591103790328 365128.15105216298252344, 337071.57322020793799311 365117.55244001559913158, 337075.70429885725025088 365117.72620633989572525, 337076.01959671248914674 365110.03431013692170382, 337064.2314986779820174 365109.90465979650616646, 337059.63000503065995872 365100.13027552515268326, 337061.17720090912189335 365086.72340304963290691, 337018.41314505226910114 365082.50627145357429981, 337016.06910695193801075 365104.95117211807519197, 337045.19632878655102104 365108.35400598775595427, 337053.26937673013890162 365108.40769326034933329, 337052.55725590977817774 365113.00245773978531361, 337056.6983281415887177 365126.41197329107671976, 337055.26985136361327022 365133.10931740514934063, 337046.15276976465247571 365136.79215838760137558, 337024.98300371586810797 365130.2779824510216713, 337014.78104285651352257 365117.56476824637502432, 337011.86260760703589767 365145.55575677007436752)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2017-08-24",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie po nielegalnie prowadzonej stacji demontażu pojazdów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dolnośląski Wojewódzki Inspektor Ochrony Środowiska we Wrocławiu",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) AUTO-HANDEL Wulkanizacja",
+      "address": "(…)",
+      "economic_activity_code": "38.31.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2017-09-28",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

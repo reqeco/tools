@@ -1,0 +1,88 @@
+{
+  "registry_id": 350,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "nowomiejski",
+    "municipality": "Grodziczno",
+    "address": "Lorki",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": null,
+    "site_description": "Specjalny Obszar Ochrony Siedlisk: Przełomowa Dolina Rzeki Wel (PLH280015) i Dolina Drwęcy (PLH280001)"
+  },
+  "occurrence_time": {
+    "date": "2011-01-20",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "szkoda w środowisku wodnym, m.in degradacja naturalnego koryta rzeki Wel w wyniku funkcjonowania małej elektrowni wodnej oraz młyna w miejscowości Lorki",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Warmińsko-Mazurski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "Delegatura w Elblągu ul. Powstańców Warszawskich 10, 82-300 Elbląg",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "koza (Cobitis taenia)",
+    "różanka (Rhodeus sericeus)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "koza (Cobitis taenia) - siedlisko gatunku chronionego"
+    },
+    {
+      "natura_2000": null,
+      "other": "różanka (Rhodeus sericeus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2011-02-10",
+    "detection_date": "2011-01-20",
+    "decisions": [
+      {
+        "issue_date": "2011-08-05",
+        "reference": "WSI.512.6.2011.JK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "1. Przywrócić właściwy rozrząd wody na węźle energetycznym Lorki; 2. Zapewnić odtworzenie przepływu biologicznego i pierwotnego stosunków wodnych rzeki Wel poprzez stopniowe kierowanie większej ilości wody, aż do osiągnięcia przepływu nienaruszalnego określonego w pozwoleniu wodnoprawnym; 3. Umożliwić swobodną migrację ryb i innych organizmów wodnych poprzez dostosowanie szerokości światła w urządzeniu piętrzącym (jazie głównym) do parametrów określonych w pozwoleniu wodnoprawnym.",
+    "ecological_effect": "Odtworzenie przepływu biologicznego i stosunków wodnych rzeki Wel oraz umożliwienie swobodnej migracji ryb i innych organizmów wodnych.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

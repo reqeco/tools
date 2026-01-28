@@ -1,0 +1,80 @@
+{
+  "registry_id": 204,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "sochaczewski",
+    "municipality": "Sochaczew (gmina miejska)",
+    "address": "Sochaczew ul. Chodakowska 10",
+    "precinct": "Chodaków",
+    "parcel_numbers": [
+      "976/117"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((587123.5476693056 488855.57903581765,587123.0185015857 488841.02692338824,587193.662392871 488842.3498426955,587193.3978090109 488858.4894583076,587133.8664399462 488857.43112285715,587133.8664399465 488855.3144519562,587133.8664399465 488855.3144519562,587132.0143529063 488855.3144519562,587123.5476693056 488855.57903581765))",
+    "site_description": "Zaznaczone działki 976/115 i 976/116 (nie ma działki 976/117)"
+  },
+  "occurrence_time": {
+    "date": "2009-04-08",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu ołowiem w wyniku pożaru na terenie firmy Eco-Service przy ul. Chodakowskiej 10 w Sochaczewie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Eco-Service",
+      "address": "(…)",
+      "legal_form": "podmiot korzystajcy ze srodowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Eco-Service Sochaczew",
+      "address": "(…)",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2009-07-22",
+    "detection_date": "2009-04-08",
+    "decisions": [
+      {
+        "issue_date": "2009-12-02",
+        "reference": "RDOŚ-14-WSI-ES-6661-30/09",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2009-12-31",
+    "actual_end": "2010-04-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": "teren po przeprowadzeniu działań spełnia określone prawem standardy",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "podmiot",
+    "covered_by_obligee": "TAK",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

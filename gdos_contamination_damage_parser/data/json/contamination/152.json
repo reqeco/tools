@@ -1,0 +1,91 @@
+{
+  "registry_id": 152,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.055,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "ełcki",
+    "municipality": "Ełk (gmina miejska)",
+    "address": "Ełk, ul. Suwalska 88",
+    "precinct": "0002 Ełk 2",
+    "parcel_numbers": [
+      "2092/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((723610.9065346083 668768.0474645616,723645.3024375879 668688.672305828,723573.8647926798 668660.8910002187,723769.6568557774 668171.4108546842,723991.9073066666 668262.692287364,723985.2927099355 668274.5985611696,723957.5114035886 668281.2131577265,723612.2294539553 668768.0474645616,723610.9065346083 668768.0474645616))",
+    "site_description": "Na przedmiotowym terenie od lat 80. XX wieku funkcjonuje zakład z branży rolno-spożywczej specjalizujący się w produkcji mrożonek. Od końca 2014 r. teren ten jest wykorzystywany wyłącznie jako magazyn dla zakładu. Działka ma powierzchnię około 8,96 ha."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Od lat 80-tych XX wieku na terenie funkcjonuje zakład z branży rolno-spożywczej specjalizujący się w produkcji mrożonek. Do zanieczyszczenia doszło w latach 90. XX wieku w trakcie eksploatacji kotłowni zakładowej na olej opałowy."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Pozostałe przetwarzanie i konserwowanie owoców i warzyw",
+    "current": "Pozostałe przetwarzanie i konserwowanie owoców i warzyw"
+  },
+  "land_holders": [
+    {
+      "name": "D’Aucy Polska Sp. z o.o.",
+      "address": "ul. Tytoniowa 22, 04-228 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "10.39.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "57,5 - 860 mg/kg s.m.",
+      "area_ha": 0.055
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4500 - 16000 mg/kg s.m.",
+      "area_ha": 0.055
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-10-21",
+    "legal_basis": "art. 101l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-12-14",
+        "reference": "WSI.511.17.2015.KPi.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "D’Aucy Polska Sp. z o.o.",
+        "address": "ul. Tytoniowa 22, 04-228 Warszawa",
+        "economic_activity_code": "10.39.Z"
+      }
+    ],
+    "planned_start": "2016-01-01",
+    "planned_end": "2016-05-31",
+    "actual_end": "2016-05-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metodą ex-situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go nowym, wolnym od zanieczyszczeń. Prace będą prowadzone co najmniej do głębokości 5,9 m p.p.t. Łącznie zostanie wydobyte 500-1000 Mg gruntu niespełniającego wymogów dla gruntów grupy C.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji, powinny spełniać standardy jakości przewidziane dla gruntów grupy C, określone w załączniku do rozporządzenia Ministra środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. z 2002 r. Nr 165, poz. 1359).  Przeprowadzone, po wybraniu zanieczyszczonego gruntu, analizy laboratoryjne prób gruntu z wykopów wykazały, że na północ od stwierdzonego w 2013 r. zanieczyszczenia w rejonie historycznego wycieku oleju opałowego oraz w centrum tego obszaru, ale głębiej niż to zostało stwierdzone w 2013 r., występuje resztkowe zanieczyszczenie gruntu. W dwóch z ośmiu wykonanych sond badawczych odnotowano ponadnormatywne wartości stężeń oleju mineralnego (1410- 5580 mg/kg s.m.) oraz sumy benzyn (142- 609 mg/ kg s.m.) względem wartości granicznych określonych dla gruntów grupy C. Pozostawione zanieczyszczenie dotyczy przedziału głębokościowego 3,9 - 6 m p.p.t. Próby gruntu pochodzące z tych dwóch sond badawczych, ale z większych głębokości, nie wykazały ponadnormatywnych wartości stężeń zanieczyszczeń. W związku z powyższym, obowiązany do przeprowadzenia remediacji samodzielnie podjął działania wspomagające naturalny proces samooczyszczania poprzez zastosowanie preparatu bakteryjnego oraz zawiesiny wyizolowanych i namnożonych laboratoryjnie szczepów bakterii naturalnie występujących w gruncie. W ocenie tutejszego organu, aby jednak ocenić efektywność tego procesu, należy przeprowadzić badania monitoringowe.  Pismem z dnia 13 września 2016 r., znak: WSI.511.13.2016.KPi.2 Regionalny Dyrektor Ochrony Środowiska w Olsztynie ustalił zakres tych badań wskazując jednocześnie, że jeśli po ich przeprowadzeniu nie zostanie osiągnięty efekt ekologiczny, określony w decyzji z dnia 14 grudnia 2015 r., znak: WSI.511.17.2015.KPi.5, konieczne będzie przeprowadzenie następnej serii monitoringowej. Jej zakres zostanie ustalony na podstawie otrzymanych wyników badań. Pismem z 30 listopada 2017 r. przekazano pierwszy raport z monitoringu procesu samooczyszczania. Porównując wyniki monitoringowych badań gruntu do wartości granicznych ustalonych w decyzji tutejszego organu należy wskazać, że ponadnormatywne wartości stężeń zanieczyszczeń w gruncie (benzyny suma, olej mineralny) odnotowano w dwóch próbach pobranych w rejonie dawnego pola zbiornikowego z głębokości 5,7-5,9 m ppt i 6,9-7,0 m ppt (sonda P11/17) oraz w jednej próbie gruntu, pobranej z głębokości 4,7-4,9 m ppt w rejonie historycznego wycieku (sonda P15/17). Wyniki badań prób gruntu pobranych z trzech pozostałych sond w rejonie dawnego wycieku (P14/17, P16a/17 i P16b/17 ) nie wykazały ponadnormatywnych stężeń tych zanieczyszczeń. Kolejne raporty z monitoringu przekazano pismem z: 6 lutego 2019 r., 2 stycznia 2020 r. 25 stycznia 2021 r.). Wyniki przeprowadzonych analiz w listopadzie 2020 r. wykazały w 6 próbkach gruntu pobranych z: sondy P11/20 (z głęb. 5,1-5,3 m ppt i 5,5-5,7 m ppt), P14/20 (z głęb. 4,6-4,9 m ppt i 5,4-5,7 m ppt), P15/20 (z głęb. 4,9-5,2 m ppt) oraz P16b/20 (z głeb. 5,1-2,3 m ppt) obecność podwyższonych stężeń zanieczyszczeń ropopochodnych (suma benzyn: 55-530 mg/kg s.m., suma olejów: 1100-2600 mg/kg s.m.). W 7 próbkach gruntu pobranych w tych sondach z głębokości przekraczającej 5,7 m ppt nie stwierdzono ponadnormatywnych zawartości badanych substancji. Kolejna seria monitoringowa zostanie przeprowadzona jesienią 2022 r.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

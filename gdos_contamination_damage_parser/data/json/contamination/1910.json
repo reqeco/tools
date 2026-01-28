@@ -1,0 +1,146 @@
+{
+  "registry_id": 1910,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0571,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "grodziski",
+    "municipality": "Grodzisk Wielkopolski",
+    "address": "Zdrój 49A, 62-065 Grodzisk Wlkp.",
+    "precinct": "0017 Zdrój",
+    "parcel_numbers": [
+      "71",
+      "70/1",
+      "70/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((316711.6736490228 487716.7315202514,316705.8528040143 487676.77935701236,316758.2404091334 487695.8293951098,316712.996568342 487715.4086009329,316711.6736490228 487716.7315202514)) POLYGON((316717.22991021036 487546.07492893096,316715.113239302 487523.32071676105,316733.3695259313 487524.9082199326,316732.575774341 487546.3395128008,316717.22991021036 487546.07492893096))",
+    "site_description": "Teren zakładu Grodziskiej Fabryki Wyposażenia Wagonów \"GROWAG\" sp. z o.o., po zmianie teren RECARO Rail Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": "Produkcja lokomotyw kolejowych oraz taboru szynowego"
+  },
+  "land_holders": [
+    {
+      "name": "Grodziska Fabryka Wyposażenia Wagonów \"GROWAG\" sp. z o.o.",
+      "address": "Zdrój 49A, 62-065 Grodzisk Wlkp.",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "71",
+        "70/1",
+        "70/3"
+      ],
+      "economic_activity_code": "30.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "3610 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "9800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "580 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "1230 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "14,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "14,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "11,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "10,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "8,71 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-07-07",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.19.2023.ASB",
+    "decisions": [
+      {
+        "issue_date": "2023-10-16",
+        "reference": "WSS.515.19.2023.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Grodziska Fabryka Wyposażenia Wagonów \"GROWAG\" sp. z o.o.",
+        "address": "Zdrój 49A, 62-065 Grodzisk Wlkp.",
+        "economic_activity_code": "30.20.Z"
+      }
+    ],
+    "planned_start": "2023-12-01",
+    "planned_end": "2027-12-31",
+    "actual_end": "2024-04-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi prowadzona była metodą ex-situ. Remediacja metodą ex-situ w wyznaczonych w Projekcie obszarach G3 (podobszar A) i G4 (podobszar C) o powierzchni ok. odpowiednio 354 m2 i 217 m2 o głębokości ponad 0,25 m ppt polegała na wydobyciu zanieczyszczonego gruntu do głębokości jego występowania i przekazaniu powstałych odpadów mas ziemnych do przetwarzania zgodnie z wymaganiami przepisów o odpadach. Zasypanie wykopów, po upewnieniu się, że wydobyto zanieczyszczony grunt, dokonano czystą ziemią.",
+    "ecological_effect": "Wykonane prace i przedłożone wyniki analiz próbek gleby i ziemi, pozwalają na stwierdzenie, że remediację terenu polegającą na usunięciu zanieczyszczenia, można uznać za zakończoną. Zaznaczyć należy, że w ustalonym stanie formalno-prawnym, na podstawie oceny wpływu zanieczyszczenia na zdrowie ludzi i stan środowiska przedstawionej w Projekcie planu remediacji, w decyzji z 16.10.2023 r. Regionalny Dyrektor zwolnił z obowiązku przeprowadzenia remediacji historycznego zanieczyszczenia części powierzchni ziemi na głębokości poniżej 0,25 m ppt w wyznaczonych w Projekcie obszarach G-3 (podobszar B) i G-4 (podobszar D) o powierzchni zanieczyszczenia odpowiednio 252 m2 i 108 m2.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Teren częściowo zwolniony z obowiązku remediacji. Grodziska Fabryka Wyposażenia Wagonów GROWAG Sp. z o.o. w trakcie prowadzenia remediacji przekształciła się w RECARO Rail Sp. z o.o., adres siedziby, NIP i REGON bez zmian."
+}

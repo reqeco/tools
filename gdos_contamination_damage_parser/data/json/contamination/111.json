@@ -1,0 +1,93 @@
+{
+  "registry_id": 111,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.001,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "jasielski",
+    "municipality": "Jasło (gmina miejska)",
+    "address": "38-200 Jasło, ul. 3 Maja 101",
+    "precinct": "nr 0014 Niegłowice",
+    "parcel_numbers": [
+      "180501_1.0014.1062/269",
+      "180501_1.0014.1173",
+      "180501_1.0014.1174"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((677046.13515490374993533 209027.66828940663253888, 677073.58129088312853128 208970.70003727980656549, 677083.30545546254143119 208970.60214300552615896, 677086.20965226646512747 208971.12424580173683353, 677084.57808102830313146 208969.42741171407396905, 677070.25288555736187845 208962.02007829287322238, 677059.77819820854347199 208963.26007243382628076, 677033.80358409718610346 208968.15478614828316495, 677024.99309941113460809 208969.72109453691518866, 677005.02266745618544519 208977.03053368380642496, 677000.45116023544687778 208979.63483215542510152, 677028.38365983264520764 208923.24773016487597488, 676902.54367798822931945 208862.44528562854975462, 676886.66848984081298113 208855.47847644169814885, 676878.01805452443659306 208871.29850194207392633, 676883.76429303700570017 208878.48363089954364114, 676913.19783817313145846 208892.64566924667451531, 676852.95712030644062907 209016.7041306862665806, 676853.21817170456051826 209019.57569606541073881, 676853.74027450080029666 209021.66410725025343709, 676854.78448009316343814 209023.23041563885635696, 676926.83466596994549036 209058.99445717918570153, 676931.0961746561806649 209061.10539958567824215, 676938.53613950207363814 209046.29073274330585264, 676948.26030408148653805 209031.3455402018444147, 676976.19280367868486792 209044.78968720429111272, 676993.55272165185306221 209007.37775871332269162, 676995.47797571297269315 209003.16830491888686083, 677046.13515490374993533 209027.66828940663253888)),((676772.6216602943604812 208988.12521810326143168, 676815.17303818534128368 209008.74827855351031758, 676843.23606348154135048 209022.19242555589880794, 676874.26854843087494373 208959.52377429840271361, 676874.87222978903446347 208955.55905618969700299, 676874.49696840427350253 208953.29117216868326068, 676873.90960275882389396 208951.578022368659731, 676871.95171727309934795 208949.22855978569714352, 676870.90751168061979115 208948.31487989233573899, 676819.08880915690679103 208923.51499707243056037, 676815.82566668058279902 208930.30233342314022593, 676803.03414817352313548 208956.53799893264658749, 676798.92258865339681506 208965.0140115148096811, 676817.39197506918571889 208974.06107403029454872, 676816.11934950342401862 208976.86737655990873463, 676827.83403099339921027 208982.64313874309300445, 676815.95619237970095128 209006.5293416696076747, 676773.53534018772188574 208985.90628121938789263, 676772.6216602943604812 208988.12521810326143168)))",
+    "site_description": "Tereny obiektów produkcyjnych, składów i magazynów, oznaczone symbolem P"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2004-01-01",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej"
+  },
+  "land_holders": [
+    {
+      "name": "LOTOS Asfalt Sp. z o.o.",
+      "address": "ul. Elblaska 135, 80-718 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "830 - 1800 mg/kg s.m.",
+      "area_ha": 0.001
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "519-522 mg/kg s.m.",
+      "area_ha": 0.001
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-06-24",
+    "legal_basis": "101m ust. 1",
+    "case_reference": "WSI.511.1.2.2017.IK",
+    "decisions": [
+      {
+        "issue_date": "2017-11-14",
+        "reference": "WSI.511.1.2.2017.IK.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "LOTOS Asfalt Sp. z o.o.",
+        "address": "ul. Elblaska 135, 80-718 Gdańsk",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": "2017-11-30",
+    "planned_end": "2018-11-30",
+    "actual_end": "2018-10-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą wykonywane metodą „ex-situ” polegającą na: - kontrolowanym usunięciu zanieczyszczonej warstwy gleby o miąższości 1 m tj.  w przedziale głębokości od 2,0 m do 3,0 m p.p.t., z obszaru o powierzchni 10 m2,  - wykonaniu badań co najmniej trzech prób gleby z głębokości 2 m, 2,5 m oraz 3 m p.p.t podczas usuwania zanieczyszczonej gleby oraz co najmniej 2 prób gleby, z dna i ścian wykopu  (w przedziale miąższości warstwy zanieczyszczonej tj. od 2 do 3 m p.p.t.), po usunięciu warstwy zanieczyszczonej gleby, ze względu na zawartość substancji powodujących ryzyko,  - odpompowaniu wody podziemnej napływającej do wykopu, - przekazaniu zanieczyszczonej gleby uprawnionemu podmiotowi do unieszkodliwienia lub odzysku, - przekazaniu zanieczyszczonej wody uprawnionemu podmiotowi do unieszkodliwienia, - zasypaniu powstałych wykopów odpowiednio zagęszczoną glebą spełniającą standardy dla gruntów grupy IV.",
+    "ecological_effect": "Zawartość substancji powodujących ryzyko w glebie i w ziemi, do jakich doprowadziła remediacja – zgodnie z dopuszczalnymi zawartościami substancji powodujących ryzyko szczególnie istotnych dla ochrony powierzchni ziemi, określonymi dla głębokości przekraczającej 0,25 m p.p.t. oraz wodoprzepuszczalności wyższej niż 1x10-7 m/s, dla gruntów grupy IV (tereny obiektów produkcyjnych, składów i magazynów, oznaczone symbolem P),  w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

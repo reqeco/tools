@@ -1,0 +1,103 @@
+{
+  "registry_id": 753,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.15,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Zdziechowskiego Warszawa",
+    "precinct": "1-08-04",
+    "parcel_numbers": [
+      "39",
+      "40"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((637589.4293684941 481741.86139939073,637638.3773831115 481745.83015733026,637644.9919796779 481702.1738200197,637600.0127230051 481698.2050620811,637589.4293684941 481741.86139939073))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "TC Forum Mokotów Sp. z o.o. Sp. k.",
+      "address": "ul. Bronowicka 19/LU17, 30-084 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "39",
+        "40"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "47-77",
+      "area_ha": 0.15
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "615",
+      "area_ha": 0.15
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.35.2019.",
+    "decisions": [
+      {
+        "issue_date": "2019-05-16",
+        "reference": "WOOŚ-IV.515.35.2019.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-07-01",
+        "reference": "WOOŚ-IV.515.35.2019.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 154 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TC Forum Mokotów Sp. z o.o. Sp. k.",
+        "address": "ul. Bronowicka 19/LU17, 30-084 Kraków",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2019-05-16",
+    "planned_end": "2020-08-31",
+    "actual_end": "2020-12-04",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

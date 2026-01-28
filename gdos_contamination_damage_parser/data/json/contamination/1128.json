@@ -1,0 +1,62 @@
+{
+  "registry_id": 1128,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Słupsk",
+    "municipality": "Słupsk",
+    "address": "ul. św. Klary z Asyżu, Słupsk",
+    "precinct": "1, 11",
+    "parcel_numbers": [
+      "58/23",
+      "24/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((371327.4488705175 737023.3885467816,371383.2760655697 737040.5864978516,371384.5989848782 737137.4241915233,371445.5194193161 737165.0732051646,371527.5404167813 737054.4771506349,371534.63126430014 737028.2833482455,371493.88534943474 737015.8479067041,371522.1958227591 736928.5352320867,371498.11869124253 736919.5393807543,371499.7061944145 736911.8664487451,371484.3603303776 736905.7810199056,371457.5447558779 736893.8747460954,371413.35925078834 736891.0966155436,371364.6758200332 736902.4737216318,371329.9624172306 737012.1437326418,371327.4488705175 737023.3885467816)), ((370247.97047166014 733896.4392504962,370241.0912912226 733883.2100573676,370335.28314638475 733848.2849875195,370443.7625301426 733826.0599430697,370468.10424551845 733909.139275902,370560.7085974952 733948.2976875529,370569.17528110486 733956.7643711539,370578.1711324441 733992.7477764525,370550.65441071184 734004.9186341241,370549.59607526014 734019.2061627032,370387.67075121927 734061.0104129687,370329.9914691271 733888.50173462,370247.97047166014 733896.4392504962)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Wytwarzanie i zaopatrywanie w parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych",
+    "current": "Wytwarzanie i zaopatrywanie w parę wodną, gorącą wodę i powietrze do układów klimatyzacyjnych"
+  },
+  "land_holders": [
+    {
+      "name": "ENGIE EC Słupsk sp. z o.o.",
+      "address": "ul. Koszalińska 3D, 76-200 Słupsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "58/23",
+        "24/7"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-19",
+    "legal_basis": "61 par. 1 i 4 kpa, 101c ust. 3 poś",
+    "case_reference": "RDOś-Gd-WZS.513.154.2019.MB.1",
+    "decisions": [
+      {
+        "issue_date": "2019-03-29",
+        "reference": "RDOś-Gd-WZS.513.154.2019.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,60 @@
+{
+  "registry_id": 1502,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Obrońców Westerplatte w Katowicach",
+    "precinct": "0005 Roździeń",
+    "parcel_numbers": [
+      "246901_1.0005.AR_4.1210/57"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((505513.03566599998157471 266694.45597599999746308, 505520.75563199998578057 266684.37838299997383729, 505541.05833199998596683 266678.0495130000053905, 505569.07823099999222904 266641.335384999983944, 505583.21424599998863414 266652.09899500000756234, 505574.82145899999886751 266669.3812610000022687, 505549.4307000000262633 266700.19364900002256036, 505534.74385999998776242 266710.93441799998981878, 505513.03566599998157471 266694.45597599999746308))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Naprawa i konserwacja pozostałego sprzętu transportowego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Opoltrans Sp. z o.o.",
+      "address": "ul. Norweska 13, 45-920 Opole",
+      "entity_type": null,
+      "parcels": [
+        "246901_1.0005.AR_4.1210/57"
+      ],
+      "economic_activity_code": "45.31.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2020-01-02",
+    "legal_basis": null,
+    "case_reference": "WSI.513.6.2020.MB1",
+    "decisions": [
+      {
+        "issue_date": "2021-10-18",
+        "reference": "WSI.513.6.2020.MB1.7",
+        "issuing_authority": null,
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

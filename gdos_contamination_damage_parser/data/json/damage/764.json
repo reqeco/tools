@@ -1,0 +1,96 @@
+{
+  "registry_id": 764,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "miński",
+    "municipality": "Dębe Wielkie",
+    "address": "05-311 Olesin, ul. Pałacowa 41, 42",
+    "precinct": null,
+    "parcel_numbers": [
+      "454",
+      "457/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((666277.9329038543 486728.45563321747,666320.7954897303 486722.6347882366,666323.4413283715 486734.2764781872,666341.9621988091 486731.6306395661,666331.908011996 486679.7722025169,666336.6705215321 486669.18884801585,666330.8496765255 486543.2469294667,666272.6412265642 486557.5344580384,666267.3495493028 486623.1512559382,666277.9329038543 486728.45563321747))",
+    "site_description": "teren prowadzonej działalności"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "działalność prowadzona w sposób ciągły"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi wskutek prowadzonej działalności",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ Delegatura Radom",
+      "address": "ul. Pułaskiego 9, 26-600 Radom",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Chema Sp. z o.o.",
+      "address": "ul. Pałacowa 41,42, 05-311 Olesin",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1072-5089",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "881",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-03-09",
+    "detection_date": "2015-01-30",
+    "decisions": [
+      {
+        "issue_date": "2016-11-08",
+        "reference": "WSI.510.7.2015.ES.14",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2016-11-25",
+    "planned_end": "2016-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "podmiot",
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

@@ -1,0 +1,96 @@
+{
+  "registry_id": 1227,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.24,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "municipality": "Kędzierzyn-Koźle",
+    "address": "ul. Chełmońskiego Kędzierzyn – Koźle",
+    "precinct": "0046 Kłodnica",
+    "parcel_numbers": [
+      "1048/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((440169.0218012171 276754.3616954256,440169.02180121717 276768.9138078531,439976.1401654458 276922.1078642439,439969.52556888585 276914.1703483742,440016.8860802761 276876.59943989385,440047.3132244564 276851.99314068444,440097.3195744767 276814.4222322041,440151.55926628696 276772.617981934,440163.994707827 276763.35754674394,440169.81555279705 276753.3033599742,440169.28638507717 276753.3033599742,440170.08013666706 276754.0971115539,440169.0218012171 276754.3616954256))",
+    "site_description": "nieczynny port rzeczny"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-20",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Transport wodny śródlądowy towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Kędzierzyn – Koźle Terminale Sp. z o.o.",
+      "address": "ul. Zielna 37 00 – 108 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "50.40.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "585 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "380-528 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "4100-4200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1560-10800 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-11-19",
+    "legal_basis": "art. 101e ust. 1",
+    "case_reference": "WOOŚ.515.20.2018",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Kędzierzyn – Koźle Terminale Sp. z o.o.",
+        "address": "ul. Zielna 37 00 – 108 Warszawa",
+        "economic_activity_code": "50.40.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "sprawa zawieszona"
+}

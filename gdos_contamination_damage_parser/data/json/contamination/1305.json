@@ -1,0 +1,153 @@
+{
+  "registry_id": 1305,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.302,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Fleminga 2",
+    "precinct": "0635",
+    "parcel_numbers": [
+      "121/17",
+      "121/18",
+      "121/24"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635601.23 496222.33,635611.45 496223.34,635370.92 496710.38,635125.35 496435.85,635156.63 496348.78,635223.78 496287.50,635130.65 496215.62,635096.20 496191.32,635142.90 496102.11,635156.96 496096.30,635187.11 496117.56,635191.69 496110.38,635165.11 496092.87,635213.98 496071.22,635219.24 496066.26,635215.27 496064.33,635225.20 496062.41,635234.00 496048.42,635247.85 496036.76,635270.35 496003.44,635272.52 496004.23,635294.41 495966.52,635492.38 496110.24,635601.23 496222.33))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Produkcja leków i pozostałych wyrobów farmaceutycznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Tarchomińskie Zakłady Farmaceutyczne „Polfa” S.A.",
+      "address": "ul. Fleminga 2,  03-176 w Warszawie",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "121/17",
+        "121/18",
+        "121/24"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.172
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": null,
+      "area_ha": 0.172
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": 0.172
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.172
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": 0.172
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.172
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.172
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.172
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.172
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-03-18",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.21.2021.DŚc",
+    "decisions": [
+      {
+        "issue_date": "2021-05-11",
+        "reference": "WOOŚ-IV.515.21.2021.DŚc.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Tarchomińskie Zakłady Farmaceutyczne „Polfa” S.A.",
+        "address": "ul. Fleminga 2,  03-176 w Warszawie",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-05-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2021-11-05",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex- situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

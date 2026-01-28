@@ -1,0 +1,70 @@
+{
+  "registry_id": 963,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wrocławski",
+    "municipality": "Mietków",
+    "address": null,
+    "precinct": "obręb Milin",
+    "parcel_numbers": [
+      "512"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((338693.9607797545613721 347046.19710100069642067, 338786.11212396208429709 347278.37393939960747957, 338819.58295130514306948 347284.367909193970263, 338792.48794633359648287 347218.51620909012854099, 338718.77809461706783623 347039.20257048960775137, 338693.9607797545613721 347046.19710100069642067))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "Dolnośląski Ruchu Ochrony Przyrody (DROP), ul. Chocimska 10/7,  51-200 Wrocław, pismem z dnia 9 czerwca 2009 r., zgłosił wystąpienie szkody w środowisku"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "zniszczenie chronionego siedliska przyrodniczego - niżowe i górskie świeże łąki użytkowane ekstensywnie (kod 6510)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Prezes Dolnośląskiego Ruchu Ochrony Przyrody",
+      "address": "ul. Chocimska 10/7, 51-200 Wrocław",
+      "legal_form": "Stowarzyszenie"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Gospodarstwo Rolno-Nasienne (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Niżowe i górskie świeże łąki użytkowane ekstensywnie (Arrhenatherion elatioris)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-10-12",
+    "detection_date": "2009-06-09",
+    "decisions": [
+      {
+        "issue_date": null,
+        "reference": "RDOŚ-02-WSI-6614-3/10-23/09/10/apc",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,142 @@
+{
+  "registry_id": 1870,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3735,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Sowińskiego 28 - Etap III",
+    "precinct": "6-05-03",
+    "parcel_numbers": [
+      "4/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((632234.0270897427 486021.1084996583,632234.8208413234 486014.7584869582,632231.6458349706 486015.0230708178,632253.0771278577 485907.60202264786,632291.7063718137 485915.01037079655,632292.7647072647 485911.041612857,632317.1064226376 485918.9791287277,632296.4688813491 485955.2271178989,632417.1191227629 486013.9647353655,632366.3190211182 486126.14829306677,632339.3314671131 486119.7982803667,632305.2001488209 486102.60032930784,632307.3168197228 486098.8961552279,632261.8083953301 486078.52319781855,632259.4271405679 486082.7565396186,632225.5604061362 486065.55858855974,632230.5874995202 486040.68770547863,632256.7813019346 486047.0377181778,632257.8396373857 486044.92104727775,632273.9792530106 486049.94814066775,632274.7730046015 486047.8314697668,632306.523068131 486058.1502404073,632307.8459874421 486049.9481406668,632268.4229918951 486034.3376927776,632234.0270897427 486021.1084996583))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Matexi Polska sp. z o.o.",
+      "address": "Al. Jana Pawła II 27 00-867 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "4/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.0315
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.3419
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.3419
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-07-18",
+    "legal_basis": "art. 101l",
+    "case_reference": "WOOŚ-IV.515.35.2023.AGi",
+    "decisions": [
+      {
+        "issue_date": "2023-09-27",
+        "reference": "WOOŚ-IV.515.35.2023.AGi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Matexi Polska sp. z o.o.",
+        "address": "Al. Jana Pawła II 27 00-867 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-01-01",
+    "planned_end": "2028-01-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

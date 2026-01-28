@@ -1,0 +1,66 @@
+{
+  "registry_id": 926,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "krakowski",
+    "municipality": "Świątniki Górne",
+    "address": "32-040 Olszowice, ul. Dębowa 29",
+    "precinct": "Olszowice",
+    "parcel_numbers": [
+      "226"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((566348.9517400218 228385.69388691708,566350.8038270518 228386.7522223685,566360.0642622418 228383.84179987758,566382.5538905522 228370.6126067564,566391.2851580223 228363.4688424673,566425.4164762825 228343.3604689166,566407.6893574925 228275.89158397727,566367.4726103921 228294.9416220775,566355.0371688517 228251.28528476786,566350.0100754717 228215.56646332703,566349.2163238818 228225.09148237668,566344.1892304916 228231.44149507768,566312.4391669913 228250.22694931738,566313.2329185812 228251.2852847688,566312.4391669914 228251.54986862745,566348.9517400218 228385.69388691708))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "brak działalności",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,54 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-04",
+    "legal_basis": "art. 61 Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.69.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-07-11",
+        "reference": "ZS.513.69.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

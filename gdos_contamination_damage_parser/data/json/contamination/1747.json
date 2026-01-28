@@ -1,0 +1,232 @@
+{
+  "registry_id": 1747,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.5,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "tarnogórski",
+    "municipality": "Radzionków",
+    "address": "ul. Zofii Nałkowskiej w Radzionkowie",
+    "precinct": "0001 Radzionków",
+    "parcel_numbers": [
+      "241303_1.0001.AR_20.2148/44",
+      "241303_1.0001.AR_20.2146/44",
+      "241303_1.0001.AR_20.2120/43",
+      "241303_1.0001.AR_20.2118/44"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((493138.26 279365.32,493110.36 279352.42,493105.13 279363.21,493093.7 279386.86,493055.63 279465.41,493153.22 279506.81,493157.5 279497.77,493195.94 279514.09,493278.45 279549.33,493346.64 279543.52,493367.64 279491.19,493373.68 279476.11,493370.56 279470.54,493367.66 279465.37,493335.77 279403.6,493321.79 279378.47,493318.43 279374.35,493311.11 279365.41,493303.76 279359.57,493275.16 279342.43,493259.07 279331.47,493249.22 279320.71,493227.62 279287.18,493208.23 279261.29,493203.48 279270.89,493158.46 279361.89,493143.16 279354.72,493138.26 279365.32))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "EkoProd Sp. z o.o.",
+      "address": "ul. Konstytucji 61 41-905 Bytom",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "241303_1.0001.AR_20.2148/44",
+        "241303_1.0001.AR_20.2146/44",
+        "241303_1.0001.AR_20.2120/43",
+        "241303_1.0001.AR_20.2118/44"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,77 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,88 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,84 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,79 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,66 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,32 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,39 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "220 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "1300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "240 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "16000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "34 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "35000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "3800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "320 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "390 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "56000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "100 000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": "130 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-11-17",
+    "legal_basis": "art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2021 r., poz. 1973 ze zm.)",
+    "case_reference": "WSI.515.24.2022.MO",
+    "decisions": [
+      {
+        "issue_date": "2023-01-03",
+        "reference": "WSI.515.24.2022.MO.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "EkoProd Sp. z o.o.",
+        "address": "ul. Konstytucji 61 41-905 Bytom",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-01-01",
+    "planned_end": "2028-12-31",
+    "actual_end": null,
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Remediacja zostanie przeprowadzona poprzez usunięcie występowania znaczącego zagrożenia dla zdrowia ludzkiego lub stanu środowiska poprzez ograniczenie możliwości rozprzestrzeniania się zanieczyszczenia. W ramach inwestycji, 76,5% powierzchni przedmiotowego terenu zostanie zabudowane oraz pokryte przez inne nieprzepuszczalne powierzchnie utwardzone. Natomiast na ok. 23,5% powierzchni terenu zostanie użyta geomembrana, która następnie zostanie przykryta warstwą nowego humusu mającego umożliwić wegetację roślinności niskiej.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

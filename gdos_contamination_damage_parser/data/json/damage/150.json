@@ -1,0 +1,102 @@
+{
+  "registry_id": 150,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "łęczyński",
+    "municipality": "Puchaczów",
+    "address": null,
+    "precinct": "0013 Turowola",
+    "parcel_numbers": [
+      "061005_2.0013.AR_1.293"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((775497.8642584938 390703.6249483498,775485.9579838356 390686.162413409,775712.9709527618 390654.1477663936,775714.5584561302 390677.43114629854,775497.8642584938 390703.6249483498))",
+    "site_description": "dzikie składowisko odpadów w wyrobisku po wydobyciu piasku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-12-18",
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "Istnienie \"dzikiego\" składowiska odpadów w miejscowości Turowola, gmina Puchaczów. W obrębie działki nr 293 o powierzchni 0,47 ha w wyrobisku po kopalni piasku deponowane były odpady. Składowanie odpadów w miejscu na ten cel nieprzeznaczonym spowodowało zanieczyszczenie wód podziemnych czwartorzędowego poziomu wodonośnego, o czym świadczy wysoka zawartość substancji nitrogennych.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Puchaczów",
+      "address": "ul. Lubelska 22, 21-013 Puchaczów",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Gmina Puchaczów",
+      "address": "ul. Lubelska 22, 21-013 Puchaczów",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje rozpuszczone"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Azotany"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Chlorki"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Siarczany"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2007-11-29",
+    "detection_date": "2007-11-02",
+    "decisions": [
+      {
+        "issue_date": "2007-12-18",
+        "reference": "ŚiR.I.6623/18/07",
+        "issuing_authority": "Wojewoda Lubelski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2009-06-08",
+        "reference": "RDOŚ-06-WSI.6623/6-1/07/09/rsz",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2008-02-01",
+    "planned_end": "2009-06-20",
+    "actual_end": "2010-12-29",
+    "method": null,
+    "description": "Usunięcie odpadów w obrębie działki ewidencyjnej nr 293 i wypełnienie wyrobiska: piaskiem (1 warstwa), odpadami górniczymi - 01 04 12 (2 warstwa), wykonanie nasypu rekultywacyjnego.",
+    "ecological_effect": "W wyniku przeprowadzonych działań naprawczych wyeliminowano przyczynę zanieczyszczenia gleby oraz możliwości zanieczyszczenia wód I poziomu wodonośnego, co przyczyniło się do zabezpieczenia jeziora Turowolskiego oraz poprawiło estetykę otoczenia terenu.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

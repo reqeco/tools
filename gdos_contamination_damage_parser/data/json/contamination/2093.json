@@ -1,0 +1,88 @@
+{
+  "registry_id": 2093,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Fabryczna 22, 32-540 Trzebinia",
+    "precinct": "0014 Trzebionka",
+    "parcel_numbers": [
+      "120305_4.0014.466/5",
+      "120305_4.0014.1987/20"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Teren instalacji zbiórki olejów przepracowanych ORLEN Południe S.A. Zakład Trzebinia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN Południe S.A.",
+      "address": "ul. Fabryczna 22, 32-540 Trzebinia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "380 - 640 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "330 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": "ZS.513.2.2024.BMa",
+    "decisions": [
+      {
+        "issue_date": "2024-11-22",
+        "reference": "ZS.513.2.2024.BMa",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Na działce 466/5 nie ma punktów poboru próbek gruntu, jednak jej lokalizacja pomiędzy zanieczyszczonymi działkami sugeruje, iż mogła również ulec zanieczyszczeniu w wyniku prowadzonej działalności. Na działce 1987/20 przekroczenia jak w powyższej tabeli (dane z raportu początkowego)."
+}

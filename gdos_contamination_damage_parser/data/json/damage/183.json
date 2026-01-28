@@ -1,0 +1,73 @@
+{
+  "registry_id": 183,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "garwoliński",
+    "municipality": "Sobolew",
+    "address": "ul. Lipowa",
+    "precinct": null,
+    "parcel_numbers": [
+      "2329/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((684195.5650622786 433598.9411552744,684233.9297225934 433617.1974417856,684269.3839603694 433543.90771187656,684238.9568159847 433528.29726398457,684224.4047034697 433556.87232113536,684216.9963552725 433552.6389793353,684205.8838329779 433575.3931915164,684206.9421684348 433576.451526965,684195.5650622786 433598.9411552744))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2007-10-16",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu substancjami ropopochodnymi na terenie działki o nr ew.2329/8 przy ulicy Lipowej w m.Sobolew w wyniku działalności PHU (…)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ",
+      "address": "ul. Bartycka 110a, Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "P.H.U(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2007-10-16",
+    "detection_date": "2007-10-16",
+    "decisions": [
+      {
+        "issue_date": "2009-10-01",
+        "reference": "6661/20/08  RDOŚ-14-WSI-MGł-6662-1/09",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2010-10-18",
+    "method": null,
+    "description": "ex-situ usuniecie zanieczyszczonej ziemi",
+    "ecological_effect": "grunt spelnia wymagane prawem standard",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

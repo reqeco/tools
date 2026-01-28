@@ -1,0 +1,181 @@
+{
+  "registry_id": 2008,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.989,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Chorzów",
+    "municipality": "Chorzów",
+    "address": "Leśna, Chorzów",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "246301_1.0002.AR_2.875/10; 246301_1.0002.AR_2.1157/10",
+      "246301_1.0002.AR_2.1155/10",
+      "246301_1.0002.AR_2.888/10",
+      "246301_1.0002.AR_2.1153/10",
+      "246301_1.0002.AR_2.1159/10",
+      "246301_1.0002.AR_2.1068/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((496326.74 266778.4,496311.34 266795.12,496289.42 266823.87,496274.67 266841.81,496272.38 266870.52,496295.84 266863.55,496310.72 266864.99,496325.11 266866.34,496328.82 266866.69,496334.39 266871.38,496397.48 266924.27,496420.66 266905.81,496426.35 266900.33,496455.67 266872.17,496456.38 266871.2,496376.45 266792.18,496405.89 266762.28,496434.53 266733.19,496427.43 266726.17,496449.42 266703.91,496443.88 266700.75,496423.51 266689.37,496418.21 266686.38,496409.85 266691.7,496383.51 266713.14,496374.71 266721.57,496360.13 266735.54,496338.75 266758.37,496326.74 266778.4))",
+    "site_description": "Chorzów, obręb 0002, ul. Leśna, działka o nr ew. 875/10 i fragmenty działek o nr ew.: 1157/10, 1155/10, 888/10, 1153/10,1159/10, 1068/10"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 30 kwietnia 2007"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Pier Luigi Sp. z o.o.",
+      "address": "Racławicka 29, 41-506 Chorzów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "846 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "29600 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "41,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "3660 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "148 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "654 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1910 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "195 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "622 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "7,55 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "13,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "10,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "285 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-03-25",
+    "legal_basis": "Poś 101l ust. 4",
+    "case_reference": "WSI.515.2.2024.AS",
+    "decisions": [
+      {
+        "issue_date": "2024-05-24",
+        "reference": "WSI.515.2.2024.AS.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-08-08",
+        "reference": "WSI.513.589.2024.AS.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Pier Luigi Sp. z o.o.",
+        "address": "Racławicka 29, 41-506 Chorzów",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

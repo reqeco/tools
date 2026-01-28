@@ -1,0 +1,147 @@
+{
+  "registry_id": 270,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.26,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Kowalczyka",
+    "precinct": "4-06-10",
+    "parcel_numbers": [
+      "9/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635770.7063544248 494988.51705938205,635799.2814116011 494820.24172282126,635899.2941117269 494673.13309527095,635977.0817673944 494723.9331968706,635942.1566975092 494837.704257749,635861.1940354931 494950.41698317975,635792.9313988977 494938.77529323194,635782.3480443878 494990.63373028114,635771.7646898759 494988.51705938205,635770.7063544248 494988.51705938205))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja samochodów osobowych",
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "Dom Development S.A.",
+      "address": "Pl. Piłsudskiego 3, 00-078 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "63-170",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,37-0,92",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,14-0,88",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,35-1,1",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,36-1,6",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,12-0,54",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,5",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,26",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,5",
+      "area_ha": 0.26
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,34",
+      "area_ha": 0.26
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-02-21",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.4.2017",
+    "decisions": [
+      {
+        "issue_date": "2017-05-16",
+        "reference": "WSI.515.4.2017.MGł.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Dom Development S.A.",
+        "address": "Pl. Piłsudskiego 3, 00-078 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2017-06-03",
+    "planned_end": "2018-06-30",
+    "actual_end": "2018-01-16",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - usunięcie zanieczyszczonej ziemi",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska i Poś",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

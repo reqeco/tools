@@ -1,0 +1,62 @@
+{
+  "registry_id": 640,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Malbork (gmina miejska)",
+    "address": "ul. Parkowa 2\tMalbork ul. Sportowa",
+    "precinct": "0004 Malbork",
+    "parcel_numbers": [
+      "12/1",
+      "13/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((502399.92 686822.69,502439.26 686794.33,502476.81 686835.34,502614.50 686760.45,502540.47 686651.10,502468.09 686718.33,502414.75 686660.14,502363.46 686691.65,502385.22 686713.38,502330.43 686752.24,502399.92 686822.69))",
+    "site_description": "Zlikwidowana oczyszcalnia ścieków komunalnych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "ODPROWADZANIE I OCZYSZCZANIE ŚCIEKÓW",
+    "current": "Hotele i podobne obiekty zakwaterowania"
+  },
+  "land_holders": [
+    {
+      "name": "\"PRINO-PLAST\" Sp. z o.o.",
+      "address": "ul. Al. Wojska Polskiego 48, 82-200 Malbork",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "12/1\t4\tmiasto Malbork",
+        "13/3"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.64.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.64.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,74 @@
+{
+  "registry_id": 124,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wołowski",
+    "municipality": "Brzeg Dolny",
+    "address": "Brzeg Dolny, ul. Sienkiewicza 4",
+    "precinct": "obręb Brzeg Dolny",
+    "parcel_numbers": [
+      "20/186",
+      "20/233 AM-13"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((341923.44000000040978193 380178.86999999918043613, 341976.25999999977648258 380241, 341992.59999999962747097 380248.25, 342113.25 380283.82000000029802322, 342143.90000000037252903 380198.86999999918043613, 341932.61000000033527613 380131.67999999970197678, 341913.41999999992549419 380156.81000000052154064, 341923.44000000040978193 380178.86999999918043613)),((341811.29999999981373549 380540.58000000007450581, 341833.36000000033527613 380491.19999999925494194, 341836.55999999959021807 380490.91999999992549419, 341862.65000000037252903 380503.73000000044703484, 341859.92999999970197678 380509.86009999923408031, 341869.13999999966472387 380514.44999999925494194, 341870.5400000000372529 380523.39000000059604645, 341874.23000000044703484 380527.22000000067055225, 341888.96999999973922968 380535.59999999962747097, 341873.74000000022351742 380568.36999999918043613, 341957.57000000029802322 380600.47000000067055225, 342119.87999999988824129 380672.14000000059604645, 342135.41000000014901161 380697.03999999910593033, 342155.80999999959021807 380648.5, 342127.83000000007450581 380604.75989999994635582, 342100.16000000014901161 380577.31000000052154064, 342095.08999999985098839 380588.72000000067055225, 342040.48000000044703484 380564.67999999970197678, 342047.73000000044703484 380548.38000000081956387, 341889.96999999973922968 380477.49000000022351742, 341877.26999999955296516 380506.07000000029802322, 341837.70000000018626451 380487.35999999940395355, 341836 380485.25999999977648258, 341844.91000000014901161 380465.32000000029802322, 341833.63999999966472387 380461.97010000050067902, 341823.30999999959021807 380485.51999999955296516, 341801.37000000011175871 380535.52999999932944775, 341811.29999999981373549 380540.58000000007450581)))",
+    "site_description": "punkty przeładunkowe: magazynu ługu sodowego, kwasu siarkowego, chlorobenzenu i benzenu na terenie Zakładu PCC Rokita S.A."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "W wyniku kontroli przeprowadzonej prze WIOŚ w dniach 6 i 27 maja oraz 3 i 5 czerwca 2008 roku stwierdzono nieprawidłowości"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W wyniku kontroli stwierdzono brak szczelnych zabezpieczeń gruntu i wód na wypadek wystąpienia stanów awaryjnych z wyciekiem materiału niebezpiecznego przy punktach przeładunkowych: magazynu ługu sodowego, kwasu siarkowego, chlorobenzenu i benzenu na terenie Zakładu PCC Rokita S.A.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dolnośląski Wojewódzki Inspektor Ochrony Środowiska (WIOŚ)",
+      "address": "ul. Paprotna 14 51-117 Wrocław",
+      "legal_form": "Jednostak budżetowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PCC Rokita s.a.",
+      "address": "Brzeg Dolny, ul. Sienkiewicza 4",
+      "economic_activity_code": "20.16.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-04-01",
+    "detection_date": "2008-05-06",
+    "decisions": [
+      {
+        "issue_date": "2010-04-15",
+        "reference": "RDOŚ-02-WSI-6614-3/51-7/09/10/apc",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2010-09-30",
+    "actual_end": null,
+    "method": null,
+    "description": "Podjęcie działań zapobiegawczych zmierzających do ograniczenia oddziaływania  na środowisko na terenie Kompleksu Chlorowego PCC Rokita S.A. ul. Sienkiewicza 4, 56-120 Brzeg Dolny przy punktach przeładunkowych:, kwasu siarkowego, chlorobenzenu i benzenu polegających na utwardzeniu terenu oraz wykonaniu szczelnych zabezpieczeń gruntu i wód gruntowych zabezpieczających przed przedostaniem się substancji chemicznej oraz na wypadek wystąpienia stanów awaryjnych.",
+    "ecological_effect": "Realizacja wskazanych działań miała na celu poprawę bezpieczeństwa środowiska gruntowo-wodnego przed niekontrolowanym i awaryjnym przedostaniem się substancji niebezpiecznej do środowiska poprzez zainstalowanie systemu zabezpieczeń w postaci szczelnych tac przeciwrozlewowych, zabezpieczających grunt i wody podziemne, minimalizujących skutki awarii oraz eliminujących ryzyko przedostania się produktu niebezpiecznego do środowiska, a tym samym wystąpienia szkody w środowisku.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

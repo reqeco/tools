@@ -1,0 +1,82 @@
+{
+  "registry_id": 1123,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Słupsk",
+    "municipality": "Słupsk",
+    "address": "ul. Przemysłowa, ul. Wrocławska, ul. Poznańska, Słupsk.",
+    "precinct": "12",
+    "parcel_numbers": [
+      "47/9",
+      "47/10",
+      "50",
+      "142",
+      "143/7",
+      "143/14",
+      "143/15",
+      "143/16",
+      "143/17",
+      "143/18",
+      "143/19",
+      "143/20"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((371483.4960424686 734559.3631350184,371542.76282773074 734685.3050535675,371668.1755786938 734562.0089736497,371639.0713537928 734527.0839037905,371667.1172432447 734496.92134347,371559.6961949589 734385.7961212192,371455.97932074 734487.3963244166,371506.2502546647 734536.0797551181,371485.08354564034 734559.3631350175,371483.4960424686 734559.3631350184)) POLYGON((371694.1047972519 734586.3506890014,371729.559034862 734550.367283701,371671.35058504954 734491.6296662195,371638.01301834144 734528.6714069694,371694.6339649723 734585.8215212701,371694.1047972519 734586.3506890014)) POLYGON((371649.86637539684 734451.4129191097,371777.660381132 734319.385571721,371793.5354128991 734334.4668518836,371734.7977953626 734395.58572412,371732.4165405999 734394.5273886705,371663.09556854103 734465.4358638208,371649.86637539684 734451.4129191097)) POLYGON((371727.1248633405 734509.8859527204,371753.5832496206 734483.6921503413,371709.9269122537 734437.9191421214,371705.4289865889 734437.9191421205,371680.29351962026 734464.3775283694,371726.8602794702 734509.8859527204,371727.1248633405 734509.8859527204)) POLYGON((371772.6332877414 734486.8671566928,371853.33136589266 734406.6982463524,371854.1251174836 734401.6711529642,371799.09167402476 734347.9606288718,371792.7416613177 734348.7543804618,371713.6310863382 734427.3357876204,371712.3081670165 734432.8920487324,371761.5207654993 734483.4275664706,371766.0186911644 734479.9879762614,371772.6332877414 734486.3379889615,371772.6332877414 734486.8671566928))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": "Wynajem i zarządzanie nieruchomościami własnymi lub dzierżawionymi"
+  },
+  "land_holders": [
+    {
+      "name": "Fabryka Maszyn Rolniczych \"Famarol\" sp. a w Słupsku",
+      "address": "ul. Przemysłowa 100, 76-200 Słupsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "47/9",
+        "47/10",
+        "50",
+        "142",
+        "143/7",
+        "143/14",
+        "143/15",
+        "143/16",
+        "143/17",
+        "143/18",
+        "143/19",
+        "143/20"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-19",
+    "legal_basis": "61 par. 1 i 4 kpa, 101c ust. 3 poś",
+    "case_reference": "RDOś-Gd-WZS.513.147.2019.MB.1",
+    "decisions": [
+      {
+        "issue_date": "2019-03-29",
+        "reference": "RDOŚ-Gd-WZS.513.157.2019.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,128 @@
+{
+  "registry_id": 568,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "legionowski",
+    "municipality": "Jabłonna",
+    "address": "ul. Zegrzyńska 5",
+    "precinct": null,
+    "parcel_numbers": [
+      "1908",
+      "645/20",
+      "1491/21",
+      "1449/133"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((630537.3845520009 503210.77812968567,630571.515870292 503257.3448894825,630573.3679573335 503252.8469638247,630585.1419392241 503268.32511977386,630622.8451396567 503240.4115222823,630587.7877778448 503194.1093463432,630574.9554605037 503200.19477518275,630562.1231431623 503201.78227835335,630537.3845520009 503210.77812968567))",
+    "site_description": "Stacja Paliw PKN Orlen Nr 705"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Szkoda w środowisku polegające na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie Stacji Paliw nr 705 w Jabłonnie przy ul. Zegrzyńskiej 5",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7, Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "353-4290",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "12000-16000",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "7,36-7,92",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "14,5",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,52-51,8",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Benzen"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "BTX-lotne węglowodory aromatyczne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2013-05-13",
+    "detection_date": "2013-05-06",
+    "decisions": [
+      {
+        "issue_date": "2013-12-23",
+        "reference": "WSI.500.15.2013.MGł.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2014-03-01",
+    "planned_end": "2017-09-30",
+    "actual_end": "2016-11-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Działania naprawcze przeprowadzone metodą bioremediacji (in-situ)",
+    "ecological_effect": "Spełnienie standardów obowiązujących dla grupy IV",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

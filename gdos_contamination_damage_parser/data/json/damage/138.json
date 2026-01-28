@@ -1,0 +1,50 @@
+{
+  "registry_id": 138,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Warszawa ul. Lazurowa 122",
+    "precinct": null,
+    "parcel_numbers": [
+      "brak danych"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((629479.1180407272 487433.8337981524,629480.7055439076 487391.5003801519,629510.3389365319 487393.617051051,629511.926439704 487430.6587918028,629479.1180407272 487433.8337981524))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu we wskaźniku Q SUMA WWA w wyniku działalności Zakładu Usługi Motoryzacyjne (…), przy ul. Lazurowej w Warszawie",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Usługi Motoryzacyjne (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2008-04-02",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

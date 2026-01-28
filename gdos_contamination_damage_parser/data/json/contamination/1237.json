@@ -1,0 +1,179 @@
+{
+  "registry_id": 1237,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.028,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Ziębicka  w Poznaniu",
+    "precinct": "Junikowo",
+    "parcel_numbers": [
+      "55/4",
+      "54/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((353527.7112705648 503973.78687125444,353489.08202656906 503935.02533539385,353505.6185180084 503925.1034405548,353543.8508862051 503932.37949677557,353543.7185942749 503932.7763725659,353527.7112705648 503973.78687125444))",
+    "site_description": "teren stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "WATIS Sp. z o.o.",
+      "address": "ul. Al. Prymasa Wyszyńskiego 3, 62-420 Strzałkowo",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "90 mg/kg s.m.",
+      "area_ha": 0.028
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,103 mg/kg s.m.",
+      "area_ha": 0.028
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,153 mg/kg s.m.",
+      "area_ha": 0.028
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1197 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "20400 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "24,5 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "25,3 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "11,1 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "10,6 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "7,69 mg/kg s.m.",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "11,5 mg/kg s.m.",
+      "area_ha": 0.02
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-02-07",
+    "legal_basis": "art. 101c ust. 3 pkt 1 POŚ",
+    "case_reference": "WSS.513.5.2019.ASB",
+    "decisions": [
+      {
+        "issue_date": "2021-01-22",
+        "reference": "WSS.513.5.2019.ASB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-08-20",
+        "reference": "WSS.515.26.2021.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-03-28",
+        "reference": "WSS.515.3.2022.ASB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-05-13",
+        "reference": "WSS.515.8.2022.ASB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "WATIS Sp. z o.o.",
+        "address": "ul. Al. Prymasa Wyszyńskiego 3, 62-420 Strzałkowo",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-12-31",
+    "planned_end": "2022-06-30",
+    "actual_end": "2022-06-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi prowadzona metodą ex-situ. Remediacja polegała na usunięciu zanieczyszczonych mas ziemnych do głębokości 0,25 m ppt w miejscach występowania zanieczyszczenia w sekcjach WS2 i WS3, a także z głębokości ponad 0,25 m ppt do głębokości występowania zanieczyszczenia w rejonie otworów W1, W2 i P3.",
+    "ecological_effect": "Po wydobyciu zanieczyszczonego gruntu, z dna i ścian wykopów pobrano 8 kontrolnych próbek gruntu i poddano analizie, po spełnianiu wymagań zawartości badanych substancji, powstałe wykopy zasypano ziemią wolną od zanieczyszczeń, spełniającą wymagania zawartości poszczególnych substancji stwarzających ryzyko. Zagospodarowanie powstałych odpadów mas ziemnych należało prowadzić zgodnie z przepisami o odpadach.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Wpis obejmuje decyzję o wpisie do rejestru, decyzję ustalającą plan remediacji i dwie decyzje zmieniające."
+}

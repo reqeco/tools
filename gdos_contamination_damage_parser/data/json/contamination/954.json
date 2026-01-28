@@ -1,0 +1,137 @@
+{
+  "registry_id": 954,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Gierdziejewskiego",
+    "precinct": "2-09-09",
+    "parcel_numbers": [
+      "98/1",
+      "119/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628240.7289955403 483200.7768174149,628382.5459459512 483282.2686470635,628466.6836142832 483130.39750998095,628461.3919370275 483058.4306993829,628455.0419243227 483052.60985441227,628425.4085316999 483061.07653801236,628438.6377248405 483085.9474210832,628445.5169052659 483085.9474210832,628447.1044084477 483110.28913643304,628384.6626168514 483218.23935234454,628328.5708379573 483180.6684438642,628313.2249739162 483203.4226560453,628277.241568588 483175.3767666146,628240.7289955403 483200.7768174149))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "RONSON DEVELOPMENT Sp. z o.o. 3 Sp. k.",
+      "address": "Al. KEN 57 02-797 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "98/1",
+        "119/1"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "mg/kg s.m.1,95-4,9",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "mg/kg s.m.100-1000",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "mg/kg s.m.0,226",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "mg/kg s.m.1,55-1,88",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "mg/kg s.m.0,2-0,238",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.0,158-0,206",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "mg/kg s.m.0,171-2,14",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "mg/kg s.m.0,184-0,194",
+      "area_ha": 0.2
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-10-14",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.102.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-11-22",
+        "reference": "WOOŚ-IV.515.102.2019.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "RONSON DEVELOPMENT Sp. z o.o. 3 Sp. k.",
+        "address": "Al. KEN 57 02-797 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2020-12-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2019-12-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

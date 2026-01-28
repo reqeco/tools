@@ -1,0 +1,50 @@
+{
+  "registry_id": 1540,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "myszkowski",
+    "municipality": "Koziegłowy",
+    "address": null,
+    "precinct": "0006",
+    "parcel_numbers": [
+      "240902_5.0006.321/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((512924.3350440000067465 301777.88403600000310689, 512669.93555599998217076 301667.73463700001593679, 512297.65060799999628216 301505.1180690000182949, 512158.2702980000176467 301444.63593599997693673, 511879.49172699998598546 301325.31081400002585724, 511565.37882699997862801 301189.98214999999618158, 511566.73340299999108538 301204.46497700002510101, 511567.65979499998502433 301210.16897399997105822, 511871.26364899997133762 301340.64240800001425669, 512151.36126799997873604 301461.4388209999888204, 512295.29370699997525662 301523.76839099999051541, 512665.68965100002242252 301685.63090200000442564, 512918.36404900002526119 301795.32385200000135228, 512924.3350440000067465 301777.88403600000310689))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2019-12-31",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Możliwość wystąpienia bezpośredniego zagrożenia szkodą w środowisku lub szkody w środowisku w powierzchni ziemi na działce o nr ewidencyjnym 321/2 obręb Koziegłówki w Koziegłowach.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Burmistrz Gminy i Miasta Koziegłowy",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2020-02-21",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

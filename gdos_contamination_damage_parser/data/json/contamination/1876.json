@@ -1,0 +1,158 @@
+{
+  "registry_id": 1876,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.2257,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Bohaterów Monte Cassino 51a, ul. Wojciechowska 40",
+    "precinct": "0025 Rury A",
+    "parcel_numbers": [
+      "066301_1.0025.AR_3.1/10",
+      "066301_1.0025.AR_3.1/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((744510.7049126253 381378.1666027978,744580.5582396493 381383.10496977065,744580.4085592221 381343.6412279811,744613.3375707803 381345.1046952158,744615.7167715203 381386.07658090815,744617.8268282915 381423.74858631473,744629.8670679451 381424.48937301803,744640.0593714949 381411.42275429424,744632.1115155541 381304.69711510837,744545.8012424866 381302.2600002168,744545.2964024213 381341.768305311,744511.7694254512 381340.29914645385,744510.7049126253 381378.1666027978)), ((744510.7049126253 381378.1666027978,744580.5582396493 381383.10496977065,744615.7167715203 381386.07658090815,744617.8268282915 381423.74858631473,744617.8663148518 381426.8884789506,744509.5808146746 381418.1719106361,744510.7049126253 381378.1666027978)))",
+    "site_description": "teren dawnego warsztatu mechaniki pojazdowej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Żagiel Dom Sp. z o.o.",
+      "address": "ul. Gęsia 31/1, 20-719 Lublin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "066301_1.0025.AR_3.1/10",
+        "066301_1.0025.AR_3.1/14"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od 1,09 do 1,89 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 36 do 3200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,12 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,612 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "od 0,143 do 0,57 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,11 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "od 0,142 do 0,464 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "od 0,103 do 0,568 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,283 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,332 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,346 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-08-11",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.515.4.2022.SG",
+    "decisions": [
+      {
+        "issue_date": "2023-09-08",
+        "reference": "WSI.515.4.2022.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Żagiel Dom Sp. z o.o.",
+        "address": "ul. Gęsia 31/1, 20-719 Lublin",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-09-13",
+    "planned_end": "2023-10-31",
+    "actual_end": "2023-10-13",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko,  z zastosowaniem metody in-situ z wykorzystaniem biopreparatów bakteryjnych.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

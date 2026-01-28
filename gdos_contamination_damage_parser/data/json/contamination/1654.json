@@ -1,0 +1,135 @@
+{
+  "registry_id": 1654,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.222,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Grochowska",
+    "precinct": "3-02-04",
+    "parcel_numbers": [
+      "19/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((640190.0813997732 488760.53933940176,640189.9491078422 488735.4038724704,640203.1783009892 488723.89447445236,640253.8461107259 488722.04238741007,640253.7138187973 488755.644537949,640190.0813997732 488760.53933940176))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "6B47 POLAND 3 sp. z o.o. sp.k.,",
+      "address": "Warszawie, kod pocztowy 00-549, ul. Piękna 18,",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "19/1"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.222
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.222
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-07-04",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.33.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-08-12",
+        "reference": "WOOŚ-IV.515.33.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "6B47 POLAND 3 sp. z o.o. sp.k.,",
+        "address": "Warszawie, kod pocztowy 00-549, ul. Piękna 18,",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-09-01",
+    "planned_end": "2024-06-30",
+    "actual_end": "2022-09-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex- situ",
+    "ecological_effect": "zawartości substancji powodujących ryzyko nie przekraczają norm dla I grupy gruntów wg. Rozporządzenia",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

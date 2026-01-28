@@ -1,0 +1,64 @@
+{
+  "registry_id": 1705,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "bocheński",
+    "municipality": "Nowy Wiśnicz",
+    "address": "Wiśnicz Mały 35",
+    "precinct": "Wiśnicz Mały",
+    "parcel_numbers": [
+      "120106_5.0011.340"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((605210.0570929312 231389.80886476953,605212.0414718916 231387.16302614752,605211.1154283715 231383.72343592905,605210.8508445113 231383.32656013872,605213.8935589319 231383.4588520676,605218.5237765325 231379.62238605786,605223.0217021934 231379.22551026847,605226.0644166138 231374.463000739,605214.2904347318 231360.8369318284,605198.018527179 231348.7983660791,605183.0695389465 231315.98996712826,605169.7080538841 231308.0524512604,605165.8715878837 231303.55452558864,605160.3153267625 231297.99826447945,605158.4632397323 231295.6170097189,605142.4559160495 231269.0263315402,605115.336070135 231224.04707490932,605106.2079268732 231207.11370771006,605098.534994862 231193.3553468585,605096.8151997617 231189.51888086088,605090.4651870506 231192.82617913932,605078.9557890389 231199.5730676325,605070.4891054374 231203.14494977146,605063.3453411462 231206.45224806014,605087.6870565003 231250.77004503086,605113.3516911647 231294.29409040976,605116.2621136552 231299.05659993086,605118.2464926256 231303.02535786852,605123.0090021463 231310.69828987867,605128.8298471273 231319.16497347876,605132.7986050581 231326.57332163025,605142.9850837698 231343.24210497085,605147.2184255706 231349.98899345845,605149.996556131 231352.8994159475,605158.5955316626 231360.04318023846,605166.1361717437 231364.54110589996,605182.0112034966 231373.9338330198,605210.0570929312 231389.80886476953))",
+    "site_description": "teren zakładu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2022-11-07",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi",
+  "total_area_ha": 0.008,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska",
+      "address": "plac Szczepański 5 31-011 Kraków",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Firma Usługowo-Handlowa (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "118 ± 28 mg/kg s.m. i 5084 ± 1200 mg/kg s.m.",
+      "area_ha": 0.008
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2023-04-06",
+    "detection_date": "2022-11-14",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

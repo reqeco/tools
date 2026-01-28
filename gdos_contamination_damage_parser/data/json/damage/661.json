@@ -1,0 +1,90 @@
+{
+  "registry_id": 661,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "zawierciański",
+    "municipality": "Ogrodzieniec",
+    "address": "Ogrodzieniec",
+    "precinct": "0001 Ogrodzieniec a. m. 31",
+    "parcel_numbers": [
+      "241606_4.0001.AR_31.6537"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((534938.500742 283589.466269,534937.649945 283583.723391,534938.500742 283577.129716,534946.157912 283567.770952,534948.894717 283564.592793,534953.953301 283554.014229,534958.124494 283543.703633,534964.237343 283534.377180,534969.129424 283527.996204,534984.454141 283518.544060,534985.932660 283514.383456,534985.719961 283509.916773,534980.516120 283499.109840,534969.980221 283475.034107,534950.624595 283445.894318,534942.754725 283426.964091,534936.373750 283413.138643,534936.799148 283400.163993,534928.406857 283412.999660,534922.973701 283421.859310,534920.691726 283448.476786,534919.570514 283476.523001,534903.192677 283505.662790,534798.331978 283500.132611,534789.185913 283477.161099,534789.824010 283503.110399,534860.454330 283543.924277,534938.500742 283589.466269))",
+    "site_description": "\"Zespół źródeł rzeki Centuria\" na terenie Gminy Ogrodzieniec"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2013-07-05",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda w gatunkach chronionych i chronionym siedlisku przyrodniczym warzuchy polskiej Cochlearia polonica na obszarze pomnika przyrody nieozywionej \"Zespół źródeł rzeki Centuria\" na terenie Gminy Ogrodzieniec",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Zespół Parków Krajobrazowych Województwa Śląskiego",
+      "address": "ul. Krasickiego Będzin",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Uniwersytet Jagielloński w Krakowie",
+      "address": "Kraków",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "siedlisko gatunków chronionych"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2013-07-05",
+    "decisions": [
+      {
+        "issue_date": "2014-02-27",
+        "reference": "WSI.512.3.2.2013.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2014-03-12",
+        "reason": "odmienne stanowisko",
+        "appealed_decision_reference": "WSI.512.3.2.2013.SA",
+        "resolution_reference": "DOA-ks.512.9.2014.mp.1",
+        "appellant_name": "UJ Kraków",
+        "appellant_address": null,
+        "resolution_date": "2014-11-13",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchylenie pkt 3 decyzji i zmiana terminu obowiązywania"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2015-05-31",
+    "actual_end": "2015-05-31",
+    "method": null,
+    "description": "Zejścia ze skarpy od strony północnej należy zagrodzić poprzez ułożenie w poprzek ścieżek pni, konarów, gałęzi, itp. Leżące w poprzek stoku ww. przeszkody należy zakotwiczyć  o stojące żywe lub martwe drzewa w taki sposób, by stanowiły barierę przed wejściem na teren misy źródliskowej.",
+    "ecological_effect": "Zapewniono właściwy stan ochrony siedliska.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

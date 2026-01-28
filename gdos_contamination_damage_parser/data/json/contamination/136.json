@@ -1,0 +1,234 @@
+{
+  "registry_id": 136,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.0847,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Bielsko-Biała",
+    "municipality": "Bielsko-Biała",
+    "address": "43-301 Bielsko-Biała, ul. Leszczyńska 73",
+    "precinct": "0032 Lipnik",
+    "parcel_numbers": [
+      "197/25",
+      "197/26",
+      "197/27",
+      "197/28"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((503968.463000 214677.918000,503980.229000 214684.926000,503979.590000 214692.430000,503977.312000 214718.745000,503995.474000 214716.744000,504019.315000 214714.127000,504022.151000 214713.980000,504025.986000 214713.749000,504026.492000 214721.727000,504053.002000 214728.199000,504054.841000 214752.930000,504028.923000 214754.165000,504032.699000 214794.460100,504035.776000 214828.908100,504038.056000 214830.447000,504040.385000 214832.025000,504044.972000 214833.503000,504085.308000 214777.299000,504085.531000 214776.796000,504116.627000 214733.687000,504156.652000 214681.915000,504190.737000 214635.818000,504224.240000 214591.868100,504250.988000 214547.977000,504254.935000 214541.908000,504257.661000 214536.445000,504245.551000 214530.700000,504236.405000 214529.853000,504220.014000 214535.018000,504201.498000 214541.941000,504186.452000 214547.579000,504174.126000 214550.291000,504120.572000 214550.576000,504109.522000 214549.354000,504057.047000 214543.537100,504045.130000 214543.226000,504032.261000 214544.277000,504011.931000 214548.556000,504015.166000 214555.069000,504020.575000 214570.277900,504015.042000 214581.015000,504012.935000 214587.129000,504014.759000 214589.004100,503989.037000 214631.901000,503987.110000 214635.105100,503980.493000 214646.276000,503976.758000 214655.471000,503971.475000 214669.952000,503968.463000 214677.918000))",
+    "site_description": "Teren Zakładu ENERSYS Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1977-01-01",
+    "description": "Pierwsze badania wykazały obecność metali ciężkich w 1976 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja baterii i akumulatorów",
+    "current": "Produkcja baterii i akumulatorów"
+  },
+  "land_holders": [
+    {
+      "name": "EnerSys Sp. z o.o.",
+      "address": "ul. Leszczyńska 73; 43-301 Bielsko-Biała",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "27.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Ołów (Pb)",
+      "concentration": "676-9009",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Fenantren",
+      "concentration": "62",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Antracen",
+      "concentration": "567",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Fluoranten",
+      "concentration": "242",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Chryzen",
+      "concentration": "117",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Benzo(a)antracen",
+      "concentration": "150",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Benzo(a)piren",
+      "concentration": "112",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "59",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "1393",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Bar (Ba)",
+      "concentration": "324",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Cynk (Zn)",
+      "concentration": "345, 639",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Kadm (Cd)",
+      "concentration": "7, 8.1",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Miedź (Cu)",
+      "concentration": "204, 211",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Ołów (Pb)",
+      "concentration": "366-30780",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Fenantren",
+      "concentration": "84",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Antracen",
+      "concentration": "23",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Fluoranten",
+      "concentration": "14-201",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Chryzen",
+      "concentration": "58",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(a)antracen",
+      "concentration": "66",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(a)piren",
+      "concentration": "49",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "23",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 2 do 15",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "32-804",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-09-08",
+    "legal_basis": "art. 101 l ust. 2 POŚ",
+    "case_reference": "WSI.511.23.2016",
+    "decisions": [
+      {
+        "issue_date": "2022-06-13",
+        "reference": "WSI.511.23.2016.SA/MB1.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "EnerSys Sp. z o.o.",
+        "address": "ul. Leszczyńska 73; 43-301 Bielsko-Biała",
+        "economic_activity_code": "27.20.Z"
+      }
+    ],
+    "planned_start": "2022-07-01",
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "Usunięcie zanieczyszczenia zostanie odłożone do czasu zakończenia eksploatacji instalacji, do czasu zakończenia eksploatacji instalacji zanieczyszczenie będzie kontrolowane poprzez prowadzenie badań powierzchni ziemi (gleby, ziemi i wód podziemnych) co 10 lat zgodnie z przepisami w tym zakresie, zbieżnie z wykonywaniem badań okresowych określonych w pozwoleniu zintegrowanym. Zakres badań będzie obejmował następujące substancje: cynk, kadm. Powyższe badania zostaną zlecone laboratorium, o którym mowa w art. 147a ust. 1 pkt 1 lub ust 1a. Poś).",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

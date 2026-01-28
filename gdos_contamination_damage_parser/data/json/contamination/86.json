@@ -1,0 +1,102 @@
+{
+  "registry_id": 86,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.3,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "municipality": "Kędzierzyn-Koźle",
+    "address": "47-220 Kędzierzyn-Koźle, ul. Mostowa 30 A",
+    "precinct": "Azoty",
+    "parcel_numbers": [
+      "244/6",
+      "245/1",
+      "254/11",
+      "244/4 obręb Azoty"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((447344.1657351747 270936.29485158436,447322.7344423045 270922.5364907319,447334.90529998456 270903.22186877206,447310.0344169046 270888.66975633334,447298.1281430945 270907.4552105693,447263.3353651727 270885.23016612604,447369.56578597525 270715.8964941278,447383.32414682524 270724.89234544244,447387.29290475516 270719.07150047366,447454.4972058359 270761.1403346127,447451.0576156259 270767.2257634457,447417.9846328053 270746.8528060345,447392.0554142851 270788.1278885817,447424.8638132354 270809.0300137261,447344.1657351747 270936.29485158436))",
+    "site_description": "obszar wokół zlikwidowanego gazometru amoniaku TK I"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 1998 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja nawozów i związków azotowych",
+    "current": "Produkcja nawozów i związków azotowych"
+  },
+  "land_holders": [
+    {
+      "name": "Grupa Azoty Zakłady Azotowe Kędzierzyn S. A.",
+      "address": "ul. Mostowa 30A, 47-220 Kędzierzyn-Koźle",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "20.15.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3380 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3380 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-08-13",
+    "legal_basis": "art. 101l ust. 2",
+    "case_reference": "WOOŚ.511.1.4.2015.KM",
+    "decisions": [
+      {
+        "issue_date": "2015-08-26",
+        "reference": "WOOŚ.511.1.4.2015.KM.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-11-03",
+        "reference": "WOOŚ.511.1.6.2015.KM.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Grupa Azoty Zakłady Azotowe Kędzierzyn S. A.",
+        "address": "ul. Mostowa 30A, 47-220 Kędzierzyn-Koźle",
+        "economic_activity_code": "20.15.Z"
+      }
+    ],
+    "planned_start": "2015-09-10",
+    "planned_end": "2016-10-24",
+    "actual_end": "2016-10-21",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "wydobycie zanieczyszczonego gruntu i oczyszcznie go na pryzmach",
+    "ecological_effect": "Remediacja polegała na wydobyciu gruntu i jego selekcji, a następnie oczyszczeniu wód z wykopu oraz remediacji zanieczyszczonego gruntu na pryzmach remediacyjnych. Grunty, które na podstawie badań laboratoryjnych nie wykazały przekroczenia zanieczyszczenia, zostały wykorzystane do zasypania wykopu. Remediacja miała doprowadzić do redukcji stężeń substancji powodującej ryzyko - oleju mineralnego (węglowodory C12-C35) w glebie i w ziemi. \tPrzedłożone wyniki badań kontrolnych pobranych próbek gruntu, potwierdziły osiągnięcie zakładanego efektu ekologicznego.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

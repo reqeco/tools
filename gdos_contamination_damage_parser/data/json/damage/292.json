@@ -1,0 +1,50 @@
+{
+  "registry_id": 292,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "sochaczewski",
+    "municipality": "Młodzieszyn",
+    "address": "Helenka",
+    "precinct": "Helenka",
+    "parcel_numbers": [
+      "13"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((585839.5839065548 491509.5648541162,585835.3505647546 491478.3439583359,585094.7803335635 491191.0058836611,585061.4427668813 491207.67466700077,585359.6287799415 491324.8853180893,585839.5839065548 491509.5648541162))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2011-05-07",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gleby substancjami ropopochodnymi w wyniku awarii rurociągu relacji Płock-Mościska w m.Helenka gm.Młodzieszyn",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": "Płock Wyszogrodzka",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2011-05-07",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

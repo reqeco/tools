@@ -1,0 +1,76 @@
+{
+  "registry_id": 799,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Siemaszki 1 Kraków",
+    "precinct": "45 Krowodrza",
+    "parcel_numbers": [
+      "126102_9.0045.268"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((567198.8241894336 246225.1820335202,567193.7970960436 246225.97578511108,567189.5637542437 246220.1549401395,567182.4199899635 246218.03826923203,567175.8053933934 246218.56743696146,567161.5178648233 246194.49030547123,567194.0616799137 246178.0861060014,567208.3492084838 246174.11734806,567207.5554568939 246169.88400625996,567271.5847516245 246156.12564541027,567446.2101008766 246156.65481312945,567495.4226993073 246165.12149673142,567491.9831090871 246178.8798575811,567308.626492375 246224.65286580008,567202.7929473737 246244.23207162134,567198.8241894336 246225.1820335202))",
+    "site_description": "teren dawnej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polskie Koleje Państwowe S.A.",
+      "address": "ul. Szczęśliwicka 62, 00-973 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-18",
+    "legal_basis": "art. 61 § Kodeks postępowania administracyjnego",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-05-17",
+        "reference": "ZS.513.4.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polskie Koleje Państwowe S.A.",
+        "address": "ul. Szczęśliwicka 62, 00-973 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

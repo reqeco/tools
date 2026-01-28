@@ -1,0 +1,71 @@
+{
+  "registry_id": 1481,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "opoczyński",
+    "municipality": "Sławno",
+    "address": "Kozenin 53D, gmina Sławno",
+    "precinct": "0014",
+    "parcel_numbers": [
+      "347"
+    ],
+    "coordinates_ewkt": "SRID=2180;POINT(578165.0000003922 389991.999999756)",
+    "site_description": "teren działalności przemysłowej związanej m.in. z naprawą pojazdów"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2021-09-29",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby wykryte podczas kontroli WIOŚ związanej z kontrolą działalności podmiotu (odpady)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Łodzi – Delegatura w Piotrkowie Trybunalskim",
+      "address": "ul. Bawełniana 18, 97-300 Piotrków Trybunalski",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "AC CARGO Sp. z o.o.",
+      "address": "ul. Łąkowa 7b, 90-562 Łódź",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "powyżej 300 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-06-24",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

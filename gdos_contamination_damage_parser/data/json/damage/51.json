@@ -1,0 +1,101 @@
+{
+  "registry_id": 51,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": "Dębogórze",
+    "precinct": "przepisy nie wymagały podawania nr działek w związku z tym nie jest znany również nr obrębu",
+    "parcel_numbers": [
+      "44/2",
+      "47/2",
+      "44/4",
+      "45/4",
+      "43",
+      "46",
+      "47/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((465380.8936584176 749089.9654557016,465521.65227326774 749092.6112943226,465618.4899669478 748787.2815169916,465566.1023621679 748549.1560407421,465580.9190584678 748464.489204743,465402.5895351477 748417.9224449405,465374.0144779977 748556.0352211725,465449.6854626678 748752.885614872,465394.1228515478 749026.9944964219,465380.8936584176 749089.9654557016))",
+    "site_description": "teren Bazy Paliw nr 21 w Dębogórzu, gm. Kosakowo"
+  },
+  "occurrence_time": {
+    "date": "2008-08-20",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "woda",
+  "event_description": "zanieczyszczenie ziemi substancjami ropopochodnymi na terenie stacji paliw 21 w Dębogórzu powstałej na skutek uszkodzenia rurociagu produktowego przez generalnego wykonawce inwestycji Hydrobudowa S.A. w Gdańsku",
+  "total_area_ha": 11.2,
+  "reporters": [
+    {
+      "name": "Operator Logistyczny Paliw Płynnych Sp. z o. o.",
+      "address": "ul. Wyszogrodzka 133, , 09-410 Płock",
+      "legal_form": "Sp. z o.o."
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Hydrobudowa S.A. w Gdańsku",
+      "address": "Gdansk Grunwaldzka 138",
+      "economic_activity_code": "42.91.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2008-09-12",
+    "detection_date": "2008-08-20",
+    "decisions": [
+      {
+        "issue_date": "2009-02-19",
+        "reference": "RDOŚ--22-WSI.I.6618-15/09/KG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2010-02-16",
+        "reference": "RDOŚ--22-WSI.I.6618-10/10/KG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-01-11",
+        "reference": "RDOŚ-Gd-WSI-I.511.21.2011.KG.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2021-01-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "wykonaniu wymiany gruntu w miejscu, zaprojektowaniu i założeniu dwóch uzupełniających piezometrów obserwacyjnych nr P16 i P17 w miejscach pokazanych na  planie stanowiącym załącznik nr 2 niniejszej decyzji, zaprojektowaniu i założeniu dwóch studni obserwacyjno – oczyszczających S3 i S4, w miejscach pokazanych na  planie stanowiącym załącznik nr 2 niniejszej decyzji; kontynuowaniu  pompowań oczyszczających w studniach S1, S2 oraz prowadzeniu pompowań w studniach S3 i/lub S4, stosownie do wyników badań monitoringowych",
+    "ecological_effect": "a.\tdoprowadzić stan czystości wód podziemnych do  wartości  nieprzekraczających  wielkości   ustalonych dla  obszarów  sozologiczno   urbanistycznych  „C”  zgodnie  ze     „Wskazówkami  metodycznymi  do  oceny  stopnia zanieczyszczenia  gruntów  i  wód  podziemnych  produktami ropopochodnymi i innymi substancjami chemicznymi w procesach rekultywacji”, PIOŚ , Warszawa 1995 rok, w terminie do 30 czerwca  2011 roku, b.\tdoprowadzić stan czystości gruntów do wartości nieprzekraczających wielkości ustalonych dla grupy „C” zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. nr 165 z 2002 roku, poz. 1359),",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

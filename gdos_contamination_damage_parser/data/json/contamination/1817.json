@@ -1,0 +1,188 @@
+{
+  "registry_id": 1817,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.3231,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "wrzesiński",
+    "municipality": "Września",
+    "address": "ul. Kolejowa10, 62-300 Września",
+    "precinct": "Września",
+    "parcel_numbers": [
+      "938/12",
+      "938/13"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((401683.11438264576 496640.58555539325,401616.9684170162 496389.2308860114,401704.2810916504 496282.86817329377,401859.8564028247 496378.1183637958,401857.21056420414 496416.2184399944,401802.1771207955 496411.9850981962,401774.13123136084 496449.0268389452,401748.731180557 496441.61849079374,401718.0394525019 496485.01024424285,401745.0270064862 496504.06028234307,401682.58521492576 496640.58555539325,401683.11438264576 496640.58555539325))",
+    "site_description": "Były teren Gminnej Spółdzielni \"Samopomoc Chłopska\" we Wrześni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "TINSBURY INVESTMENTS Sp. z o.o.",
+      "address": "ul. Ludwika Mierosławskiego 11,  01-527 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "938/12",
+        "938/13"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "144 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,432 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "2,19 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,85 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,71 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,211 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "2,03 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,71 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,02 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,27 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "531 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "8,402 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "1,701 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-11-24",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.32.2022.ASB",
+    "decisions": [
+      {
+        "issue_date": "2023-04-06",
+        "reference": "WSS.515.32.2022.ASB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-05-25",
+        "reference": "WSS.515.14.2023.ASB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-09-28",
+        "reference": "WSS.515.22.2023.ASB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "TINSBURY INVESTMENTS Sp. z o.o.",
+        "address": "ul. Ludwika Mierosławskiego 11,  01-527 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2023-10-20",
+    "planned_end": "2024-10-31",
+    "actual_end": "2024-11-14",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja metodą ex-situ w wyznaczonym Obszarze 3 o powierzchni ok. 3.693 m2 do głębokości 0,25 m ppt polegać miała na wydobyciu zanieczyszczonego gruntu do głębokości jego występowania i przekazaniu powstałych odpadów mas ziemnych do przetwarzania zgodnie z wymaganiami przepisów o odpadach. Zasypanie wykopu można było dokonać czystą ziemią.  Remediacja in-situ w wyznaczonym Obszarze 1 o powierzchni ok. 39.538 m2 do głębokości 0,25 m ppt, a także Obszarach 2 i 4 o łącznej powierzchni ok. 297 m2 na głębokości ponad 0,25 m ppt, polegać miała na zraszaniu całego terenu bioroztworem, składającym się z biopreparatu i wody, w ilości ok. 9 dm3/m2. W głębszych warstwach występowania zanieczyszczenia, tj. w szczególności w Obszarze 4 biopreparat miał być zatłaczany. Biopreparat miał posiadać atest Państwowego Zakładu Higieny. Należało dokonać przynajmniej dwóch serii zraszań, dla każdego z Obszarów. Dla Obszarów 2 i 4 zraszania miały odbyć się w 2023 r. i w 2024 r. Dla Obszaru 1 oba zraszania miały odbyć się w 2024 r. Jeżeli zawartość badanych substancji ustalona po pierwszej serii zraszania wskazywałaby na niewielką redukcję ich zawartości, przed kolejnym zraszaniem dopuszczono użycie nawozu w formie rozpuszczonego koncentratu zawierającego azot, fosfor i potas.",
+    "ecological_effect": "Badania gruntu po remediacji nie wskazują na przekroczenie dopuszczalnych wartości wskaźników.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Dec. zm. I z 25.05.2023 r., dec. zm. II z 28.09.2023 r. w zakresie terminów rozpoczęcia i zakończenia, nieznaczna modyfikacja sposobu remediacji."
+}

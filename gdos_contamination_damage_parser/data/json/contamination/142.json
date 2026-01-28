@@ -1,0 +1,129 @@
+{
+  "registry_id": 142,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 3.8052,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "40-724 Katowice, ul. Piotrowicka 94",
+    "precinct": "0003 Dz. Ligota",
+    "parcel_numbers": [
+      "49",
+      "52/8",
+      "52/10",
+      "87",
+      "85",
+      "89",
+      "91",
+      "86/1",
+      "86/2",
+      "90",
+      "92",
+      "93",
+      "50",
+      "51",
+      "84"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((498075.156000 262548.325000,498074.524000 262544.376000,498098.314000 262543.977000,498117.067000 262543.516000,498135.394000 262526.970000,498145.772000 262516.856000,498156.776000 262505.005000,498208.032000 262439.166000,498218.983000 262419.571000,498221.917000 262414.065000,498214.469000 262409.388000,498206.821000 262407.761000,498190.431000 262409.990000,498187.079000 262409.695000,498170.027000 262405.037000,498152.796000 262403.509000,498146.116000 262403.219000,498139.604000 262399.768000,498133.779000 262394.650000,498128.923000 262393.995000,498123.500000 262390.580000,498114.399000 262393.051000,498111.390000 262393.031000,498107.381000 262395.174000,498097.645000 262394.245000,498093.245000 262391.086000,498090.768000 262391.929000,498089.423000 262393.776000,498086.065000 262395.230000,498081.804000 262399.454000,498070.834000 262400.481000,498064.641000 262399.195000,498058.011000 262395.166000,498050.806000 262394.543000,498044.815000 262394.954000,498037.806000 262399.185000,498032.173000 262399.391000,498025.033000 262393.170000,498022.304000 262392.347000,498020.964000 262393.765000,498020.404000 262401.218000,498018.146000 262404.246000,498016.315000 262404.830000,498013.027000 262404.805000,498008.141000 262401.972000,498001.853000 262402.586000,497995.681000 262403.648000,498004.560000 262404.668000,498003.478000 262416.376000,497989.809000 262412.871000,497994.895000 262429.194000,498001.252000 262451.625000,498012.148000 262484.559000,498018.316000 262502.596000,498030.274000 262536.455000,498033.161000 262544.581000,498033.241000 262548.338000,497975.909000 262553.105000,497979.064000 262557.300000,497998.580000 262585.471100,498010.425000 262610.138100,498039.099000 262595.342000,498043.034000 262593.630000,498063.918000 262579.948000,498065.068000 262579.303000,498087.792000 262565.706000,498091.261000 262563.510000,498103.850000 262554.347000,498090.722000 262553.873000,498075.759000 262552.285000,498075.156000 262548.325000)),((498152.324000 262401.826000,498155.518000 262402.293000,498156.369000 262402.412000,498163.479000 262401.967000,498169.784000 262402.592000,498171.490000 262403.118000,498188.409000 262408.268000,498204.486000 262406.523000,498208.434000 262406.500000,498214.784000 262407.565000,498222.629000 262412.736000,498224.071000 262410.018000,498236.812000 262392.718000,498236.716000 262387.062000,498206.786000 262382.757000,498193.608000 262380.855000,498173.908000 262378.510100,498152.036000 262366.231000,498151.440000 262335.917000,498148.268000 262335.610000,498149.537000 262349.065000,498124.828000 262350.976000,498115.543000 262351.690000,498092.121000 262353.503000,498079.442000 262354.473000,498056.340000 262356.352000,498043.211000 262357.268000,498037.359000 262357.676000,498018.967000 262358.942000,498009.518000 262360.788000,498009.181000 262370.696000,498009.728000 262373.507000,498009.034000 262376.155000,498008.515000 262376.922000,498005.959000 262382.333000,498005.764000 262382.725000,498005.399000 262395.722000,498002.222000 262401.002000,498008.411000 262399.700100,498012.761000 262402.120000,498015.097000 262402.718000,498017.292000 262402.399000,498018.699000 262400.751000,498019.173000 262393.649000,498020.384000 262390.804000,498023.422000 262390.763000,498026.267000 262391.984000,498032.888000 262397.602000,498034.614000 262398.089000,498037.200000 262397.944000,498043.186000 262394.156000,498050.074000 262392.874000,498057.543000 262393.064000,498064.903000 262397.133000,498071.221000 262398.737000,498080.615000 262397.951000,498084.264000 262394.334000,498087.673000 262392.970000,498089.692000 262390.694000,498093.141000 262389.308000,498095.299000 262390.728000,498097.559000 262392.307000,498106.944000 262393.829900,498111.051000 262391.577000,498123.285000 262388.704000,498130.157000 262392.879000,498133.962000 262393.438000,498140.460000 262398.767000,498146.704000 262401.602000,498152.324000 262401.826000)),((498088.781000 262581.323000,498108.673000 262585.324000,498127.884000 262589.183000,498135.495000 262585.893000,498149.970000 262550.390100,498128.523000 262551.917000,498104.099000 262566.186000,498088.781000 262581.323000)))",
+    "site_description": "Teren Bazy Magazynowej nr 42"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2005-08-31",
+    "description": "Baza od początku XX wieku do końca lat 40-tych prowadziła działalność jako rafineria ropy naftowej, do końca lat 70-tych na terenie magazynowane i dystrybutowene były paliwa silnikowe. Wyłączenie z eksploatacji nastąpiło 31 sierpnia 2005 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "310",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">3000",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-11-04",
+    "legal_basis": "art.. 101 l ust. 2 ustawy - Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2014-12-16",
+        "reference": "WSI.511.12.2014.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-07-14",
+        "reference": "WSI.511.6.2015.SA (decyzja zmieniająca)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-12-23",
+        "reference": "WSI.511.13.2015.SA (decyzja zmieniająca)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-12-23",
+        "reference": "WSI.511.24.2016.SA (decyzja zmieniająca)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": "2014-12-31",
+    "planned_end": "2017-12-31",
+    "actual_end": "2017-12-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi zostanie przeprowadzona metodą \"ex-situ\", polegającej na wydobyciu zanieczyszczonej gleby i ziemi i przekazana uprawnionemu podmiotowi do utylizacji.",
+    "ecological_effect": "Usunięto zanieczyszczony grunt w ilości 82267,46 Mg oraz 30,9 Mg wody zanieczyszczonej substancjami ropopochodnymi. Resztkowe zanieczyszczenia pozostały w miejscach, gdzie nie było możliwości przeprowadzić remediacji ex-situ z uwagi na zadrzewienia i ryzyko naruszenia konstrukcji drogi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

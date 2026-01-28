@@ -1,0 +1,55 @@
+{
+  "registry_id": 1723,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kościerski",
+    "municipality": "Kościerzyna (gmina wiejska)",
+    "address": null,
+    "precinct": "Wdzydze",
+    "parcel_numbers": [
+      "224/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((432043.0372108673 682956.036745131,432065.7914230476 683272.4790446823,432371.1212003745 683241.2581489049,432348.3669882042 683156.0621451829,432364.24201995454 682921.1116752829,432253.64596542204 682947.5700615328,432202.31669610087 682933.8117006822,432134.05405956926 682946.5117260814,432125.58737596904 682957.0950805824,432043.0372108673 682956.036745131))",
+    "site_description": "siedlisko objęte OBSZAREM NATURA 2000  w pobliżu użytku ekologicznego Kiszewskie Bagno"
+  },
+  "occurrence_time": {
+    "date": "2022-12-14",
+    "from": null,
+    "to": null,
+    "description": "styczeń 2022 r."
+  },
+  "land_surface_holder": "osoba fizyczna, null",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Wykonanie prac ziemnych trwale niszczących chronione siedlisko przyrodnicze oraz zasypywanie obszarów wodno-błotnych.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Pomorski Zespół Parków Krajobrazowych Oddział: Wdzydzki Park Krajobrazowy",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Torfowiska wysokie z roślinnością torfotwórczą (żywe)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2022-02-14",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

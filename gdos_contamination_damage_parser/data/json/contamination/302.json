@@ -1,0 +1,155 @@
+{
+  "registry_id": 302,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1235,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Skierniewicka",
+    "precinct": "6-04-05",
+    "parcel_numbers": [
+      "3",
+      "4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634460.3018569398 486749.90474887006,634528.0353258096 486763.66310971975,634508.9852876924 486852.0341197988,634443.8976574554 486841.9799330309,634460.3018569398 486749.90474887006))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "LC CORP INVEST XVII Sp. z o.o. Projekt 22 Sp.k.",
+      "address": "ul. Powstańców Śląskich 2-4, 53-333 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "45",
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,3",
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,85",
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,69",
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,81",
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,3",
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,63",
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,45",
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,49",
+      "area_ha": 0.13
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "580",
+      "area_ha": 0.0105
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "160",
+      "area_ha": 0.0105
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-09-07",
+    "legal_basis": "Art. 61 §1 Kpa w związku z art. 101 l Poś",
+    "case_reference": "WSI.515.33.2017",
+    "decisions": [
+      {
+        "issue_date": "2017-10-30",
+        "reference": "WSI.515.33.2017.MGł.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "LC CORP INVEST XVII Sp. z o.o. Projekt 22 Sp.k.",
+        "address": "ul. Powstańców Śląskich 2-4, 53-333 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2017-11-15",
+    "planned_end": "2019-03-31",
+    "actual_end": "2017-12-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - usunięcie zanieczyszczonej ziemi",
+    "ecological_effect": "spełnia standardy określone rozporządzeniem",
+    "effect_assessment": null
+  },
+  "notes": null
+}

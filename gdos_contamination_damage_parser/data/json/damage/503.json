@@ -1,0 +1,73 @@
+{
+  "registry_id": 503,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Bałuckiego 20",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638044.3762829835 483666.74125715066,638056.547140668 483671.76835054066,638069.7763338131 483645.83913201187,638051.5200472709 483639.2245354522,638044.3762829835 483666.74125715066))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2010-06-20",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "szkoda w siedliskach chronionego gatunku jerzyka na budynku mieszkalnym zlokalizowanym przy ul. Bałuckiego 20 w Warszawie",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "3.\tFundacja „Noga w Łapę. Razem idziemy przez świat”",
+      "address": "ul. Hawajska 5/9, 02-776 Warszawa",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Wspólnota Mieszkaniowa \"Bałuckiego 20\"",
+      "address": "Warszawa ul. Bałuckiego 20",
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "jerzyk (Apus apus)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2010-06-24",
+    "detection_date": "2010-06-20",
+    "decisions": [
+      {
+        "issue_date": "2011-03-22",
+        "reference": "WSI.512.3.2011.WM.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2012-05-29",
+    "method": null,
+    "description": "Zamontowano na dachu budynku budki dla jerzyka w ilości 6 sztuk",
+    "ecological_effect": "Zamontowano na dachu budynku budki dla jerzyka w ilości 6 sztuk",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

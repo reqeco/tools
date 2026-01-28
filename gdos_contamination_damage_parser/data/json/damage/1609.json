@@ -1,0 +1,56 @@
+{
+  "registry_id": 1609,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "bełchatowski",
+    "municipality": "Kleszczów",
+    "address": "ul. Instalacyjna 14 m. Rogowiec",
+    "precinct": "Rogowiec",
+    "parcel_numbers": [
+      "1060/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((521281.8506662554 378581.93643826246,521278.88691312785 378484.91450360883,521394.4870005137 378484.27673744224,521394.6818562482 378527.1858939687,521383.30175642646 378564.8227906916,521316.6455184612 378580.96181128826,521281.8506662554 378581.93643826246))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "na przestrzeni 2017-2018 roku"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "rozszczelnienie pojemników z odpadami",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektor Ochrony Środowiska w Łodzi, Delegatura w Piotrkowie Trybunalskim",
+      "address": "ul. Bawełniana 18 97-300 Piotrków Trybunalski",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "TRADEPOL Sp. z o.o.",
+      "address": "ul. Instalacyjna 14 97-427 Rogowiec",
+      "economic_activity_code": "38.32.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2022-09-30",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "bezpośrednie zagrożenie szkoda w środowisku"
+}

@@ -1,0 +1,74 @@
+{
+  "registry_id": 2073,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "koniński",
+    "municipality": "Rzgów",
+    "address": null,
+    "precinct": "Modła",
+    "parcel_numbers": [
+      "223"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "zaorane pastwisko"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-10-14",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "14 października 2024 r. pracownik ZPKWW województwa wielkopolskiego stwierdził na przedmiotowym terenie zaoranie płatów siedlisk przyrodniczych oraz wykarczowanie drzew na niezaoranym fragmencie murawy bliźniczkowej. Z informacji uzyskanych od właściciela nieruchomości ustalono, że przedmiotowe prace mają związek z przekształceniem dawnych pastwisk na grunt orny i planowaną uprawę zbóż.",
+  "total_area_ha": 4.9,
+  "reporters": [
+    {
+      "name": "Zespół Parków Krajobrazowych Wojwództwa Wielkopolskiego",
+      "address": "ul. Piekary 17 61-823 Poznań",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Wspólnota Gruntowa Wsi Modła",
+      "address": "ul. Henryka Sienkiewicza 2 62-586 Rzgów",
+      "economic_activity_code": "01.19.Z, 01.49.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Górskie i niżowe murawy bliźniczkowe (Nardion - płaty bogate florystycznie)",
+      "other": null
+    },
+    {
+      "natura_2000": "Zmiennowilgotne łąki trzęślicowe (Molinion)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-01-28",
+    "detection_date": "2024-10-14",
+    "decisions": [
+      {
+        "issue_date": "2025-01-28",
+        "reference": "WPN-I.512.1.2025.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

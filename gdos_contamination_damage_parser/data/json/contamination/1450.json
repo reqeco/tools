@@ -1,0 +1,149 @@
+{
+  "registry_id": 1450,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1415,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Joteyki",
+    "precinct": "2-02-04",
+    "parcel_numbers": [
+      "168"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635178.2881769121 485546.5310565904,635191.7819539165 485545.7373049995,635192.0465377771 485550.76439838856,635194.1632086793 485550.7643983895,635193.6340409585 485546.2664727289,635246.0216457839 485545.20813727845,635246.5508135147 485556.0560756363,635246.021645785 485579.86862326786,635179.3465123645 485581.7207102999,635178.8173446336 485575.3706975989,635182.2569348573 485575.370697598,635181.9923509869 485572.72485897783,635179.6110962245 485572.72485897783,635179.0819285037 485565.31651082914,635187.2840282422 485565.0519269705,635187.0194443818 485561.87692061905,635180.1402639546 485561.0831690291,635179.3465123638 485560.0248335805,635178.2881769121 485546.2664727289,635178.2881769121 485546.5310565904))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": "brak działalności",
+    "current": "Roboty budowlane związane ze wznoszeniem budynków mieszkalnych i niemieszkalnych"
+  },
+  "land_holders": [
+    {
+      "name": "UNI 1 IDEA Sp. z o.o. sp. k.",
+      "address": "ul. Kondratowicza 37 03-285 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "168"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.1415
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.1415
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.1415
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.1415
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.1415
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.1415
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.1415
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.1415
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.1415
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.1415
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-05-14",
+    "legal_basis": "art.101e ust. 1 i 2",
+    "case_reference": "WOOŚ-IV.515.33.2021.MTo",
+    "decisions": [
+      {
+        "issue_date": "2021-09-03",
+        "reference": "WOOŚ-IV.515.33.2021.MTo.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "UNI 1 IDEA Sp. z o.o. sp. k.",
+        "address": "ul. Kondratowicza 37 03-285 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-09-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-02-08",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex-situ",
+    "ecological_effect": "zgodnie z Rozporządzeniem Ministra Środowiska",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

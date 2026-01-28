@@ -1,0 +1,116 @@
+{
+  "registry_id": 1186,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0405,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "szczecinecki",
+    "municipality": "Szczecinek (gmina miejska)",
+    "address": "ul. Łowiecka w Szczecinku",
+    "precinct": "Trzesieka",
+    "parcel_numbers": [
+      "107/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((343173.78999999997904524 652380.78009999997448176, 343242.71999999997206032 652457.22999999998137355, 343256.96000000002095476 652508.5, 343318.47999999998137355 652558.71999999997206032, 343368.15999999997438863 652502.10999999998603016, 343435.65999999997438863 652508.18999999994412065, 343488.34000000002561137 652552.53000000002793968, 343557.80999999999767169 652612.32999999995809048, 343625.57000000000698492 652618.18000000005122274, 343596.19000000000232831 652582.94999999995343387, 343589.34999999997671694 652554.53009999997448176, 343593.90999999997438863 652509.0400000000372529, 343605.54999999998835847 652447.76000000000931323, 343605.91840000002412125 652376.84270000003743917, 343553.14789999998174608 652340.07759999996051192, 343450.606000000028871 652256.60829999996349216, 343440.69150000001536682 652251.08979999995790422, 343406.74369999999180436 652261.12439999997150153, 343390.7465000000083819 652289.36060000001452863, 343364.82699999999022111 652283.82730000000447035, 343319.21000000002095476 652351.69999999995343387, 343281.58000000001629815 652325.66000000003259629, 343216.59000000002561137 652304.38000000000465661, 343173.78999999997904524 652380.78009999997448176),(343231.53999999997904524 652413.38000000000465661, 343295.46999999997206032 652358.91000000003259629, 343327.36999999999534339 652376.65000000002328306, 343331.67999999999301508 652376.02000000001862645, 343336.79999999998835847 652381.17000000004190952, 343336.40999999997438863 652382.80000000004656613, 343276.09000000002561137 652442.40000000002328306, 343274.84000000002561137 652444.18999999994412065, 343272.65000000002328306 652444.18000000005122274, 343231.53999999997904524 652413.38000000000465661))",
+    "site_description": "okolice nieczynnej kwatery odpadów komunalnych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-07-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Zbieranie odpadów innych niż niebezpieczne",
+    "current": "Zbieranie odpadów innych niż niebezpieczne"
+  },
+  "land_holders": [
+    {
+      "name": "Przedsiębiorstwo Gospodarki Komunalnej w Szczecinku",
+      "address": "ul. Cieślaka 6C, 78-400 Szczecinek",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "107/7"
+      ],
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,23 mg/kg s.m.",
+      "area_ha": 0.0005
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "4963 mg/kg s.m.",
+      "area_ha": 0.04
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1350 mg/kg s.m.",
+      "area_ha": 0.04
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-15",
+    "legal_basis": "101 lPOŚ",
+    "case_reference": "WONS-NS.515.2.2020.AS",
+    "decisions": [
+      {
+        "issue_date": "2020-10-30",
+        "reference": "WONS-NS.515.2.2018.AS powinno być 2020",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-10-30",
+        "reference": "WONS-NS.515.2.2020.AS.1 powinno być 2020",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-11-26",
+        "reference": "WONS-NS.513.5.2020.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Przedsiębiorstwo Gospodarki Komunalnej w Szczecinku",
+        "address": "ul. Cieślaka 6C, 78-400 Szczecinek",
+        "economic_activity_code": "38.11.Z"
+      }
+    ],
+    "planned_start": "2020-11-01",
+    "planned_end": "2021-05-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zwolnienie z obowiązku przeprowadzenia działań naprawczych",
+    "description": "III.\tSposób przeprowadzenia remediacji powierzchni ziemi.   Remediacja doprowadzi do usunięcia zanieczyszczenia przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko dla gruntów grupy IV, o których mowa w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395)  1.\tRemediacja w rejonie sondowania nr 1 będzie polegała na zastosowaniu metody „ex-situ” w następujących etapach:  1.1.\tWyłączenie z działalności obszaru występowania zanieczyszczenia na czas prowadzenia prac remediacyjnych metodą ex-situ.  1.2.\tTymczasowe ogrodzenie obszaru objętego pracami ziemnymi.  1.3.\tUsunięcie powierzchniowych gruntów wolnych od zanieczyszczenia z przedziału        0 - 0,25 m p.p.t., zalegających na gruntach zanieczyszczonych i złożenie ich w najbliższej odległości obszaru prowadzonych prac celem ponownego wbudowania.  1.4.\tWybranie gruntów w obszarze wykonania otworu badawczego nr 1, w którym w przedziale głębokości 0,25 - 1 m p.p.t. stwierdzono przekroczenia dopuszczalnych wartości stężenia benzo(b)fluorantenu i przekazanie ich do zagospodarowania w sposób zgodny z ustawą z dnia 14 grudnia 2012 r. o odpadach. Obszar zanieczyszczenia gruntu w przedziale 0,25 – 1 m p.p.t. szacowany jest na ok. 5 m2, kształtem zbliżony jest do prostokąta o narożnikach zlokalizowanych w pobliżu następujących współrzędnych (układ współrzędnych płaskich 2000, strefa 6):  1: X - 5954505,89, Y - 6409491,05 2: X - 5954504,93, Y - 6409492,89 3: X - 5954502,89, Y - 6409491,85 4: X - 5954503,76, Y – 6409490,08",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

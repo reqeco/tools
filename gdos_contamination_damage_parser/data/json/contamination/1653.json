@@ -1,0 +1,121 @@
+{
+  "registry_id": 1653,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.012,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Traktorzystów",
+    "precinct": "2-09-09",
+    "parcel_numbers": [
+      "92/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628981.3432411955 483065.0012819739,628995.6307697871 483071.8804623941,629003.8328695333 483059.974188583,628989.8099248019 483048.59708249476,628995.8953536467 483038.2783118533,629014.4162240416 483049.1262502121,629016.003727213 483056.00543064345,628992.1911795748 483098.07426478434,628969.4369673766 483084.5804877924,628981.3432411955 483065.0012819739))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "UDI TAU sp. z o.o.",
+      "address": "Warszawa, kod pocztowy 01-875,  ul.  płk.  Mieczysława Niedzielskiego „Żywiciela” 2/20",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "92/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.012
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.012
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-07-05",
+    "legal_basis": "art 101h ust 1 POŚ",
+    "case_reference": "WOOŚ-IV.515.34.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-08-10",
+        "reference": "WOOŚ-IV.515.34.2022.PBu.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "UDI TAU sp. z o.o.",
+        "address": "Warszawa, kod pocztowy 01-875,  ul.  płk.  Mieczysława Niedzielskiego „Żywiciela” 2/20",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-09-01",
+    "planned_end": "2025-01-31",
+    "actual_end": "2023-10-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "efekt ekologiczny osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,82 @@
+{
+  "registry_id": 1398,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "świecki",
+    "municipality": "Świecie",
+    "address": "Wiąg dz. ew. 18/3, 20/1",
+    "precinct": "0023 Wiąg",
+    "parcel_numbers": [
+      "18/3",
+      "20/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((468489.15523878887 618432.1443194253,468603.7200512589 618517.0757392868,468563.76788801904 618566.2883377159,468518.5240475291 618531.8924355851,468476.719797259 618505.6986331949,468485.1864808589 618438.758915985,468489.15523878887 618432.1443194253)))",
+    "site_description": "teren likwidowanej stacji należącej do koncernu Orlen"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": "2021-12-06",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "osoba fizyczna, podmiot korzystający ze środowiska",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w środowisku na działkach ew. 8/3, 20/1 wykryta w związku z likwidacją Stacji Paliw PKN Orlen we Wiągu.",
+  "total_area_ha": 0.327,
+  "reporters": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN Orlen S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "48 mg/kg s.m. (S1), 150 mg/kg s.m.(S2), 45 mg/kg s.m. (S4), 36 mg/kg s.m. (S6)",
+      "area_ha": 0.327
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2022-01-04",
+    "detection_date": "2021-06-14",
+    "decisions": [
+      {
+        "issue_date": "2022-06-22",
+        "reference": "WSS.511.7.2021.DP.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2022-09-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-09-21",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacjia ex-situ poprzez usunięcie zanieczyszczonych gruntów",
+    "ecological_effect": "uzyskanie standardów jakości dla gruntów grupy I",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": "Postępowanie znak: WSS.511.7.2021.DP"
+}

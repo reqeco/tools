@@ -1,0 +1,163 @@
+{
+  "registry_id": 442,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.39,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Sokratesa",
+    "precinct": "7-08-01",
+    "parcel_numbers": [
+      "243",
+      "251/2",
+      "252/2",
+      "254/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((631238.7816609456 492601.1768680997,631255.1858604308 492624.4602480009,631365.7819150581 492548.7892633183,631342.4985351363 492513.86419346835,631266.8275503902 492571.01430776995,631273.7067308262 492577.89348819945,631238.7816609456 492601.1768680997))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Kosmonautów Sp. z o.o.",
+      "address": "ul. Piątkowska 116, 60-649 Poznań",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "243",
+        "251/2",
+        "252/2",
+        "254/1"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "40,7-101 [mg/kg]",
+      "area_ha": 0.39
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "1,180 [mg/kg]",
+      "area_ha": 0.39
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,840 [mg/kg]",
+      "area_ha": 0.39
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "2,390 [mg/kg]",
+      "area_ha": 0.39
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "1,510 [mg/kg]",
+      "area_ha": 0.39
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,000 [mg/kg]",
+      "area_ha": 0.39
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "2,470 [mg/kg]",
+      "area_ha": 0.39
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "2,100 [mg/kg]",
+      "area_ha": 0.39
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,220 [mg/kg]",
+      "area_ha": 0.39
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "340 [mg/kg]",
+      "area_ha": 0.39
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-08-31",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.70.2019.SSz",
+    "decisions": [
+      {
+        "issue_date": "2018-10-12",
+        "reference": "WSI.515.61.2018.SSz.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-07-09",
+        "reference": "WOOŚ-IV.515.70.2019.SSz",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 154 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Kosmonautów Sp. z o.o.",
+        "address": "ul. Piątkowska 116, 60-649 Poznań",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-10-01",
+    "planned_end": "2019-06-30",
+    "actual_end": "2021-07-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja ex situ",
+    "ecological_effect": "osiągnięcie pozytywnego efektu ekologicznego",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

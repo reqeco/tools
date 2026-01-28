@@ -1,0 +1,59 @@
+{
+  "registry_id": 1527,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "częstochowski",
+    "municipality": "Lelów",
+    "address": "42-235 Lelów",
+    "precinct": "0011 Paulinów",
+    "parcel_numbers": [
+      "25",
+      "26"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((548212.56067412602715194 312374.69734111602883786, 548113.04331664205528796 311785.30133108899462968, 548095.95493480702862144 311795.66522680001799017, 548061.59953901905100793 311816.48537134297657758, 548161.92461476498283446 312390.950626211008057, 548196.27233799803070724 312379.9239207049831748, 548212.56067412602715194 312374.69734111602883786))",
+    "site_description": "Rozszczelnieniem metalowych beczek i wyciekiem z nich substancji niewiadomego pochodzenia na działkach o numerach 25 i 26, obręb Paulinów, gmina Lelów."
+  },
+  "occurrence_time": {
+    "date": "2021-04-13",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Rozszczelnienie metalowych beczek i wyciek z nich substancji niewiadomego pochodzenia na działkach o nr 25 i 26, obręb Paulinów, gmina Lelów, do którego doszło 13 kwietnia 2021 r. Powyższe zdarzenie miało miejsce podczas czynności wykonywanych w ramach postępowania przygotowawczego o czyny z art. 254 § 1 i 3, art. 183 § 1 oraz art. 165 § 1 k.k. i innych, prowadzonych przez Komendę Wojewódzką Policji w Katowicach pod nadzorem Prokuratury Okręgowej w Gliwicach, polegających na wykonaniu kontrolnych wykopów w ustalanych miejscach składowania odpadów. W rozpatrywanym piśmie stwierdzono, iż poza ww. beczkami na wskazanych nieruchomościach ujawniono inne, bliżej nieokreślone substancje. Zaznaczono przy tym, że substancje te znajdują się na powierzchni terenu oraz w około czterometrowych wykopach.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Lelów",
+      "address": "42-235 Lelów ul. Szczekocińska 18",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2021-04-21",
+    "detection_date": "2021-04-13",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": {
+    "issue_date": "2022-04-27",
+    "case_number": "IV SA/Wa 472/22",
+    "challenged_decision_reference": "DOA-WSzOP.512.45.2021.MM",
+    "ruling_type": "wyrok",
+    "verdict": "oddala skargę",
+    "court": "WSA w Warszawie",
+    "cassation_appeal_to_nsa": "tak/strona"
+  },
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

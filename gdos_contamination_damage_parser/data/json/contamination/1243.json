@@ -1,0 +1,257 @@
+{
+  "registry_id": 1243,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0137,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "łańcucki",
+    "municipality": "Łańcut (gmina wiejska)",
+    "address": null,
+    "precinct": "nr 0003 Głuchów",
+    "parcel_numbers": [
+      "181004_2.0003.1167/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((734134.99406725086737424 251093.09158111922442913, 734128.69538598228245974 251094.46327068377286196, 734126.63668080256320536 251102.23050813842564821, 734127.06259510165546089 251108.73391636647284031, 734129.47035202872939408 251109.21856555063277483, 734144.1706032402580604 251106.39149452839046717, 734144.00159876677207649 251103.36603718716651201, 734133.08096544467844069 251105.5041469456627965, 734132.31846539420075715 251101.48248469922691584, 734136.17609027365688235 251100.4955213088542223, 734134.99406725086737424 251093.09158111922442913)))",
+    "site_description": "dr - drogi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Lata 70 i 80"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Przetwarzanie i unieszkodliwianie odpadów niebezpiecznych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Rzeszowie",
+      "address": "ul. Legionów 20, 35-959 Rzeszów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "181004_2.0003.1167/3"
+      ],
+      "economic_activity_code": "84.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "> 20 000 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "24,2 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "41,8 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "29,8 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": ">100 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "73,5 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "81,1 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "83,2 mg/kg s.m.",
+      "area_ha": 0.0137
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "5 500 - > 20000 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": ">10 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": ">10 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": ">10 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": ">10 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": ">10 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,1 - >10 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": ">10 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "7,8 - >10 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": ">10 mg/kg s.m.",
+      "area_ha": 0.0098
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": ">10 mg/kg s.m.",
+      "area_ha": 0.0098
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-11-19",
+    "legal_basis": "art. 101c ust. 3 pkt 3 Poś",
+    "case_reference": "WSI.515.15.2020.KT",
+    "decisions": [
+      {
+        "issue_date": "2021-02-18",
+        "reference": "WSI.513.15.2020.KT.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-02-22",
+        "reference": "WSI.515.3.1.2020.AK.20",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-07-30",
+        "reference": "WSI.513.36.2021.KT.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-09-10",
+        "reference": "WSI.516.3.1.2020.KT.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Rzeszowie",
+        "address": "ul. Legionów 20, 35-959 Rzeszów",
+        "economic_activity_code": "84.11.Z"
+      }
+    ],
+    "planned_start": "2021-03-01",
+    "planned_end": "2021-06-01",
+    "actual_end": "2021-05-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "3.1.\tRemediacja powierzchni ziemi zostanie prowadzona metodą „ex-situ”, polegającą na: - wydobyciu zanieczyszczonej gleby, - załadunku zanieczyszczonej gleby przy pomocy koparki kołowej na pojazdy ciężarowe samowyładowcze, zabezpieczeniu gleby na czas transportu oraz transporcie gleby do miejsca unieszkodliwiania odpadu. 3.2.\tRemediacja powierzchni ziemi na głębokości 0,0 – 0,25 m p.p.t. przeprowadzona zostanie na całej powierzchni sekcji nr 3, tj. na powierzchni 137,50 m2. 3.3.\tRemediacja powierzchni ziemi na głębokości 0,25 – 2,0 m p.p.t. przeprowadzona zostanie na powierzchni 98,13 m2 w obrębie sekcji nr 3. Usuwanie gleby rozpocznie się w najwyższym punkcie skarpy (odwiert w pkt nr 3) i będzie prowadzone w kierunku zachodnim do podnóża skarpy (odwiert w pkt nr 5). Przy czym prace prowadzone będą do rzędnej 195,22 m n.p.m. Miąższość usuwanej warstwy gleby będzie sukcesywnie malała w miarę przesuwania się frontu robót w stronę podnóża skarpy (odwiertu pkt nr 5). 3.4.\tW obrębie wykopu powstałego po usunięciu zanieczyszczonej gleby pobranych zostanie 15 próbek powierzchniowych gleby z głębokości 0,0 – 0,25 m p.p.t., w celu wykonania badań zanieczyszczenia powierzchni ziemi. Ze ściany wykopu, w południowej części sekcji nr 3 (od strony działki o nr ewid. 1167/10) pobrane zostanie po 1 próbce z przedziałów głębokości 0,0 – 0,25 m p.p.t., 0,25 – 1,0 m p.p.t. i poniżej 1,0 m p.p.t. 3.5.\tAnalizy laboratoryjne pobranych prób gleby wykonane zostaną w zakresie zawartości: sumy węglowodorów C12-C35 (składników frakcji oleju) oraz wielopierścieniowych węglowodorów aromatycznych: naftalen, antracen, chryzen, bezno(a)antracen, dibenzo(a,h)antracen, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, benzo(ghi)perylen, indeno(1,2,3-c,d)piren. 3.6.\tPrzed rozpoczęciem prac remediacyjnych teren sąsiedni (w tym istniejąca sieć uzbrojenia terenu) zostanie zabezpieczony.   \tNa podstawie przedłożonej dokumentacji powykonawczej (pismo Budimex S.A. z dnia 23 czerwca 2021 r., znak: 2S4U/JaB/2684/21), ustalono, że w wyniku przeprowadzonej remediacji na terenie przedmiotowi działki został osiągnięty zamierzony efekt ekologiczny. \tPrace związane z remediacją terenu prowadzone były w okresie 24 maja 2021 r. – 28 maja 2021 r. Remediacja została przeprowadzona na głębokości 0-0,25 m p.p.t. na całej powierzchni sekcji nr 3, tj. na powierzchni 137,50 m2, natomiast remediacja na głębokości 0,25-2 m p.p.t. przeprowadzona została na powierzchni 98,13 m2 w obrębie sekcji nr 3. \tUsuwanie gleby rozpoczęto w najwyższym punkcie skarpy, tj. przy granicy z działką o nr ewid. 1167/10, obręb 0003 Głuchów, i prowadzono w kierunku zachodnim do podnóża skarpy. Prace prowadzono do rzędnej 195,22 m n.p.m. Cała zanieczyszczona warstwa gleby została usunięta (na podstawie Kart Przekazania Odpadu w ilości 311,48 Mg), załadowana na pojazdy ciężarowe samowyładowcze, zabezpieczona na czas transportu i przetransportowana do miejsca unieszkodliwiania odpadu. Pobrano 15 próbek powierzchniowych gleby z głębokości 0-0,25 m p.p.t., w celu wykonania badań zanieczyszczenia powierzchni ziemi.  \tFakt osiągnięcia zamierzonego efektu ekologicznego na terenie wymagającym remediacji poświadczają przedłożone wyniki badań w zakresie substancji powodujących ryzyko, tj.: suma węglowodorów C12-C35 (składników frakcji oleju), naftalen, antracen, chryzen, benzo(a)antracen, dibenzo(a,h)antracen, benzo(a)piren, benzo(b)fluoranten, benzo(k)fluoranten, benzo(ghi)perylen oraz indeno(1,2,3-c,d)piren. Spełniono wymogi, określone dla gleby do głębokości 0-0,25 m p.p.t. dla gruntów grupy IV (drogi, oznaczone symbolem „dr”), wskazanych w rozporządzeniu Ministra Środowiska z dnia września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395). \tBadania laboratoryjne i analiza próbek gleby zostały wykonane przez laboratorium JARS S.A., 05-119 Legionowo, ul. Kościelna 2a Łajski, zgodnie z posiadaną akredytacją Polskiego Centrum Akredytacji AB 1095. \tPodsumowując, cała zanieczyszczona warstwa gleby wokół zbiornika bitumitu została usunięta z terenu działki o nr ewid. 1167/3, obręb 0003 Głuchów, gm. Łańcut.",
+    "ecological_effect": "usunięcie zanieczyszczenia",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Sprawa o wpis w związku ze zgłoszeniem przez władającego: WSI.513.15.2020.KT; nałożenie obowiązku remediacji: WSI.516.3.1.2020.KT (umorzona po zakończeniu remediacji ustalonej na wniosek); ustalenie planu remediacji na wniosek władającego: WSI.515.3.1.2020.AK ; sprawa o wpis w związku z aktualizacją wykazu przekazaną przez Starostę: WSI.513.36.2021.KT (umorzona, gdyż aktualizacja rejestru dotyczyła terenu zremediowanego)"
+}

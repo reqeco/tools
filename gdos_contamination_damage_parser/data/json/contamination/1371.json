@@ -1,0 +1,158 @@
+{
+  "registry_id": 1371,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.082,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Al. Wilanowska",
+    "precinct": "1-02-35",
+    "parcel_numbers": [
+      "31/10",
+      "31/11"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((638667.0529833403 481113.2101420928,638671.021741284 481088.074675153,638755.1594096664 481064.2621275317,638770.7698575757 481071.6704756813,638773.6802800596 481081.1954947328,638727.6426879341 481110.56430347264,638689.2780278181 481135.17060268205,638689.5426116883 481135.4351865435,638667.0529833403 481113.2101420928))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "R4R RE WAVE 3 Sp. z o. o.",
+      "address": "ul. Jana Chrystiana Szucha 6, 00-582 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "31/10",
+        "31/11"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.082
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-12-30",
+    "legal_basis": "art.101l ust 2 POŚ",
+    "case_reference": "WOOŚ-IV.515.7.2020",
+    "decisions": [
+      {
+        "issue_date": "2020-07-30",
+        "reference": "WOOŚ-IV.515.7.2020.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "R4R RE WAVE 3 Sp. z o. o.",
+        "address": "ul. Jana Chrystiana Szucha 6, 00-582 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-08-01",
+    "planned_end": "2020-10-01",
+    "actual_end": "2021-08-25",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

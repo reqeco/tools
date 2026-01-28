@@ -1,0 +1,50 @@
+{
+  "registry_id": 2045,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "sokólski",
+    "municipality": "Kuźnica",
+    "address": "dz. nr 842/32 obręb 15 Kuźnica, woj. podlaskie - teren zamknięty",
+    "precinct": "15",
+    "parcel_numbers": [
+      "842/32"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((807911.3565653373 638675.6786122564,807955.5420783713 638669.3285998385,807964.8025162028 638750.2912618611,807965.8740812683 638769.8704676963,807964.551162072 638800.1653199634,807955.9521858919 638879.540478698,807921.1594019223 638904.8082373552,807916.0000153994 638882.5831928607,807924.8635752654 638785.0840395298,807923.6729470103 638728.9922606433,807913.6187582458 638716.2922351733,807913.3541741036 638696.3161535403,807911.5020864869 638675.9431961086,807911.3565653373 638675.6786122564))",
+    "site_description": "dz. nr 842/32 obręb 15 Kuźnica, woj. podlaskie - teren zamknięty, w okolicy obiektu serwisowego lokomotyw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2011-06-13",
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (PKP S.A. ul. Szczęśliwicka 62, 00-973 Warszawa)",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "Zanieczyszczenie substancjami ropopochodnymi wód podziemnych w okolicy obiektu serwisowego lokomotyw w miejscowości Kuźnica, na działce o nr ewidencyjnym 842/32 obręb 15 Kuźnica, stanowiącej teren zamknięty.",
+  "total_area_ha": 0.34,
+  "reporters": [],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2016-02-12",
+    "detection_date": "2011-06-13",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,96 @@
+{
+  "registry_id": 1901,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1445,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Lindego 10",
+    "precinct": "7-07-04",
+    "parcel_numbers": [
+      "13/1",
+      "15/2",
+      "16/3",
+      "17",
+      "18",
+      "27"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((632758.9482444288 493326.2689432837,632794.7993578317 493266.60528229363,632808.1608429044 493263.29798401333,632824.6973343204 493271.89695954137,632838.720279054 493277.71780451294,632819.5379489965 493311.31995505467,632820.0671167271 493312.510582434,632817.685861965 493316.47934037354,632831.7088066885 493324.9460239718,632813.8493959523 493355.10858430434,632815.1723152637 493359.0773422327,632758.9482444288 493326.2689432837))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Warszawska Spółdzielnia Mieszkaniowa",
+      "address": "ul. Elbląska 14, 01-737 Warszawa",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.1445
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.1445
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-04-24",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.25.2023.AGi",
+    "decisions": [
+      {
+        "issue_date": "2023-10-10",
+        "reference": "WOOŚ-IV.515.25.2023.AGi.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101f ust. 1, art. 104 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Warszawska Spółdzielnia Mieszkaniowa",
+        "address": "ul. Elbląska 14, 01-737 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-10-01",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

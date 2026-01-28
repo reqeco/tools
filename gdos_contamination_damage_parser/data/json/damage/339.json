@@ -1,0 +1,89 @@
+{
+  "registry_id": 339,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "aleksandrowski",
+    "municipality": "Zakrzewo",
+    "address": "Seroczki",
+    "precinct": null,
+    "parcel_numbers": [
+      "dz. 86/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((476236.49986346 546787.4780485192,476723.3341704598 546903.8949480196,476860.9177789599 546850.9781755209,476903.2511969598 546798.0614030212,476908.54287420993 546784.8322099,476990.56387157994 546766.3113395218,476945.5846149598 546694.8736966504,476964.10548532987 546663.123633151,476916.48039008 546581.102635771,476905.89703557984 546546.7067336515,476932.3554218299 546496.4357997719,476987.9180329598 546483.2066066517,477048.7723213299 546462.0398976495,477088.4599007099 546454.1023817714,477323.93953832984 546059.8724266421,476326.45837670984 545580.9756355211,476289.41663595993 545623.3090535207,476244.4373793298 545570.3922810201,476236.49986345985 545567.7464423915,476225.91650894977 545580.9756355202,476228.56234757986 545588.9131513909,476215.33315444994 545607.4340217691,476297.35415182996 545689.4550191406,476088.3329004498 545893.1845932705,476212.6873158299 546459.394059021,476223.2706703298 546784.8322098991,476236.49986346 546787.4780485192))",
+    "site_description": "awaria na terenie przebiegu rurociągu produktów finalnych PERN \"Przyjaźń\" S.A. (Płock-Nowa Wieś Wielka)"
+  },
+  "occurrence_time": {
+    "date": "2010-09-08",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu w wyniku awarii (nielegalnego nawiercenia) rurociągu transportowego PERN \"Przyjaźń\" na działce nr 86/6 w m.Seroczki, gm.Zakrzewo",
+  "total_area_ha": 100.0,
+  "reporters": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": null,
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": "Płock Wyszogrodzka",
+      "economic_activity_code": "49.50.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "35",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-09-05",
+    "detection_date": "2010-09-08",
+    "decisions": [
+      {
+        "issue_date": "2011-09-13",
+        "reference": "WSI.511.11.2011.MG.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-06-05",
+        "reference": "WSI.511.7.2013.MG1.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": "05.07.2013 r. do RDOŚ wpłynęło zgłoszenie zakończenia działań naprawczych wraz ze \"Sprawozdaniem z rekultywacji środowiska gruntowego metodą ex-situ w miejscu awarii rurociągu naftowego PERN \"Przyjaźń\" S.A. w miejscowości Seroczki\" wykonanym przez CPN EKOSERWIS Sp. z o.o. z Czerwieńska (czerwiec 2013 r.). Akta sprawy znak: WSI.511.2.4.2013.MG1 (przekazanie do GDOŚ informacji o zakończeniu działań)",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

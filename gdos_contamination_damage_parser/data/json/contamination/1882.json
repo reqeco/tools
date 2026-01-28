@@ -1,0 +1,139 @@
+{
+  "registry_id": 1882,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.5,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "wołowski",
+    "municipality": "Wołów",
+    "address": null,
+    "precinct": "Wołów",
+    "parcel_numbers": [
+      "49/1",
+      "49/2",
+      "AM-40",
+      "Wołów"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((335350.00671156099997461 387170.41101691999938339, 335332.64750246697803959 387134.87869515997590497, 335275.95902968797599897 387154.97556994098704308, 335219.69843225501244888 387174.92665854300139472, 335232.68170228699455038 387215.05724550399463624, 335284.76545086601981893 387195.24307176197180524, 335289.57894281798508018 387193.40799459198024124, 335350.00671156099997461 387170.41101691999938339))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Centrum Kształcenia Zawodowego i Ustawicznego w Wołowie",
+      "address": "ul. T. Kościuszki 27, 56-100 Wołów",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "40,2-70,0 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,259 – 0,387 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,476 – 5,297 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,608 – 5,18  mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,619 – 4,91 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,457 – 3,08 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,443 – 3,64 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,393 – 3,97 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,131 – 0,859 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,621 – 4,804 mg/kg s.m.",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,121 mg/kg s.m.",
+      "area_ha": 0.25
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-08-01",
+    "legal_basis": "art. 61 §  4 w związku z art.101c ust. 3",
+    "case_reference": "WSI.513.24.2022.ŁJ",
+    "decisions": [
+      {
+        "issue_date": "2022-12-01",
+        "reference": "WSI.513.24.2022.ŁJ.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "WSI.513.24.2022.ŁJ"
+}

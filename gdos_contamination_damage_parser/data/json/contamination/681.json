@@ -1,0 +1,60 @@
+{
+  "registry_id": 681,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "gdański",
+    "municipality": "Pruszcz Gdański (gmina miejska)",
+    "address": "ul Grunwaldzka\tPruszcz Gdański\t83-000",
+    "precinct": "0019 Pruszcz Gdański",
+    "parcel_numbers": [
+      "22/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((475857.02 709271.96,476021.14 709248.79,475994.16 709167.00,475973.21 709170.94,475941.51 709056.75,475880.41 709067.18,475885.64 709132.00,475857.01 709136.34,475864.68 709200.80,475848.62 709203.32,475857.02 709272.66,475857.02 709271.96))",
+    "site_description": "zlikwidowana stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Działalność usługowa wspomagająca produkcję roślinną"
+  },
+  "land_holders": [
+    {
+      "name": "Gminna Spółdzielnia Samopomoc Chłopska  ul. Grunwaldzka 62, 83-000 Pruszcz Gdański",
+      "address": "Gminna Spółdzielnia Samopomoc Chłopska  ul. Grunwaldzka 62, 83-000 Pruszcz Gdański",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "22/5"
+      ],
+      "economic_activity_code": "01.61.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-07",
+    "legal_basis": "art. 61 par. 1 kpa, art. 103 c ust. 3 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.108.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-02",
+        "reference": "RDOŚ-Gd-WZS.513.108.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

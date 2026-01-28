@@ -1,0 +1,273 @@
+{
+  "registry_id": 475,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.08,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "ul. Rajmunda Rembielińskiego  Łódź",
+    "precinct": "obręb P-29",
+    "parcel_numbers": [
+      "64/88"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((530670.26969999994616956 431643.4347999999881722, 530713.67579999996814877 431649.10659999999916181, 530754.40560000005643815 431654.21850000001722947, 530772.67150000005494803 431656.7345000000204891, 530786.5019000000320375 431556.79200000001583248, 530678.69039999996311963 431540.62129999999888241, 530678.66910000005736947 431542.76380000001518056, 530678.97219999996013939 431543.92589999997289851, 530682.46279999997932464 431544.97610000002896413, 530678.04559999995399266 431573.08720000000903383, 530676.46470000001136214 431573.05160000000614673, 530669.91680000000633299 431623.62479999999050051, 530668.68409999995492399 431633.05989999999292195, 530671.75580000004265457 431633.77149999997345731, 530670.26969999994616956 431643.4347999999881722))",
+    "site_description": "zachodnia część działki nr ewid. 64/88 - 1,08 ha"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Spółki ST Łódź Rembielińskiego Sp. z o. o.",
+      "address": "ul. Krasickiego 7/2  02-628 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "49 - 194 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,112 - 0,576 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,495 - 2,27 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,500 - 4,14 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,538 - 3,63 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,350 - 2,33 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,162 - 1,35 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,381 - 2,21 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,139 - 0,562 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,447 - 2,78 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "PCB",
+      "concentration": "0,0250 - 0,170 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "PCB",
+      "concentration": "0,215 - 0,428 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "100 - 131 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "33,2 - 185 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "95,7 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "8,76 - 19,0 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "8,18 - 19,7 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,68 - 25,7 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "5,78 - 12,0 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "8,84 - 17,9 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "6,20 - 15,20 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "315 - 330 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "8,64 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "403 - 962 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "1610 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "411 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "5,48 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-07-12",
+    "legal_basis": "101l ust 2 ustawy Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-10-15",
+        "reference": "WSI.515.8.2018.MG.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Spółki ST Łódź Rembielińskiego Sp. z o. o.",
+        "address": "ul. Krasickiego 7/2  02-628 Warszawa",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2018-11-02",
+    "planned_end": "2019-05-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięto zanieczyszczenie metodą exsitu (z obszaru odpowiednio A z głębokości 0,0 - 0,25 m ppt, B1 z głębokości 0,25 – 1,0 m ppt, C z głębokości  1,0 – 3,0 m ppt)",
+    "ecological_effect": "doprowadzono do standardów jakości gleby dla gruntów grupy I według Rozporządzenia Ministra Środowiska z 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395) w zakresie substancji: Suma węglowodorów C6-C12, Suma węglowodorów C12-C35, Ołów (Pb), Cyna (Sn), Cynk (Zn), Bar (Ba), Chrom (Cr), Miedź (Cu), PCB, Antracen, Chryzen, Benzo(a)antracen, Dibenzo(a,h)antracen, Benzo(a)piren, Benzo(b)fluoranten, Benzo(k)fluoranten, Benzo(ghi)perylen, Indeno(1,2,3-c,d)piren",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

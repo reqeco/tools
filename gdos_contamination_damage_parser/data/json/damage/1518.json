@@ -1,0 +1,211 @@
+{
+  "registry_id": 1518,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "gliwicki",
+    "municipality": "Toszek",
+    "address": null,
+    "precinct": "0003, 0013, 0014,",
+    "parcel_numbers": [
+      "240507_4.0014.AR_6.60",
+      "240507_5.0003.AR_7.44",
+      "240507_5.0013.AR_6.5",
+      "240507_5.0013.AR_6.7",
+      "240507_5.0013.AR_6.64/12"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((465795.31683428102405742 290782.09745823201956227, 465581.94361745897913352 290965.63396971800830215, 465542.91047176602296531 290997.2529473599861376, 465547.60251923598116264 291002.78677528799744323, 465833.81485265697119758 291340.89984880201518536, 465861.99367096897913143 291384.237001859000884, 465940.77777612098725513 291525.71980131999589503, 465988.66467452701181173 291608.29039815597934648, 466055.69416028499836102 291550.79804024199256673, 466105.38409950502682477 291506.75212073902366683, 466186.87013999698683619 291436.96159339998848736, 466252.5174433559877798 291380.73721860401565209, 466392.02600005100248381 291260.00228079897351563, 466499.46571340499212965 291167.0245807429892011, 466541.03266379801789299 291132.08328651898773387, 466670.25987107399851084 291021.23168531298870221, 466673.20072979899123311 291018.44355963700218126, 466644.50745975400786847 291003.69804559898329899, 466545.52903820498613641 290940.49544276797678322, 466460.15880394302075729 290871.76244684000266716, 466394.14388266997411847 290810.87446436699246988, 466384.38088493898976594 290799.87189179798588157, 466372.07278180902358145 290775.77062739501707256, 466372.17397444701055065 290769.1827947769779712, 466362.94487655302509665 290767.39808818302117288, 466328.29122348700184375 290765.00623328302754089, 466276.08026789000723511 290760.63197671301895753, 466253.64302851597312838 290759.9446251830086112, 466219.8170877950033173 290758.90089593798620626, 466199.7401917310198769 290763.52889798599062487, 466171.25674588402034715 290762.88298026798292994, 466145.83366286498494446 290762.38575284101534635, 466120.29204606998246163 290761.25046394602395594, 466078.45432724501006305 290761.98371959698852152, 466053.58307071600575 290760.15976792701985687, 465977.77844220597762614 290739.73196057102177292, 465940.69297183700837195 290726.7185483819921501, 465901.03417286201147363 290708.90237281797453761, 465866.32353186397813261 290694.85751468100352213, 465814.61599982099141926 290672.94584714598022401, 465812.59559807600453496 290672.0935221390100196, 465810.57519632502226159 290671.24119712802348658, 465809.07263605698244646 290682.12561701500089839, 465866.16648049600189552 290703.23514796898234636, 465879.67190267401747406 290709.36991839902475476, 465795.31683428102405742 290782.09745823201956227)),((467040.21269711601780728 290533.66928188502788544, 466917.6611064100288786 290649.65800891100661829, 466924.16628037201007828 290655.49723553197691217, 467521.03799240099033341 290104.15271569800097495, 467513.72121147497091442 290085.54129329801071435, 467044.85133155400399119 290529.29913801699876785, 467040.21269711601780728 290533.66928188502788544)))",
+    "site_description": "5, 7, 64/12 (obręb Sarnów), 60 (obręb Toszek) oraz 44 (obręb Kotliszowice)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2018-06-30",
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Burmistrz Miasta Toszka)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wystąpienie szkody w środowisku w powierzchni ziemi polegającej na zanieczyszczeniu nieznaną substancją gruntu położonego w obrębie drogi dojazdowej do pól uprawnych, obejmującej działki o numerach ewidencyjnych: 5, 7, 64/12 (obręb Sarnów), 60 (obręb Toszek) oraz 44 (obręb Kotliszowice)",
+  "total_area_ha": 0.5,
+  "reporters": [
+    {
+      "name": "Burmistrz Miasta Toszka",
+      "address": null,
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki wolne",
+      "concentration": "mg/kg s.m.0,015",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "mg/kg s.m.0,015",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "mg/kg s.m.390",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "mg/kg s.m.15",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "mg/kg s.m.1,7",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "mg/kg s.m.7,6",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "mg/kg s.m.140",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "mg/kg s.m.18",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "mg/kg s.m.87",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "mg/kg s.m.8,1",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "mg/kg s.m.1,8",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": "mg/kg s.m.4,1",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "mg/kg s.m.0,039",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "mg/kg s.m.0,023",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "mg/kg s.m.0,34",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "mg/kg s.m.0,15",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "mg/kg s.m.0,18",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "mg/kg s.m.0,19",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "mg/kg s.m.0,028",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "mg/kg s.m.0,14",
+      "area_ha": 0.5
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": 0.5
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2018-08-02",
+    "detection_date": "2018-06-30",
+    "decisions": [
+      {
+        "issue_date": "2022-07-21",
+        "reference": "WSI.512.7.2018.TK.MS2.13",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

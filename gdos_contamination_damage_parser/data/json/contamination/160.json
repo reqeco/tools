@@ -1,0 +1,105 @@
+{
+  "registry_id": 160,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6144,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "złotowski",
+    "municipality": "Lipka",
+    "address": "77-420 Debrzno Wieś",
+    "precinct": null,
+    "parcel_numbers": [
+      "303/22"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((384914.991080697 629288.1666235784,384852.81387297716 629215.4060613997,384885.35768808355 629193.4456008114,384994.36623948585 629310.6562519018,384914.991080697 629288.1666235784))",
+    "site_description": "Teren bazy magazynowej paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1953-01-01",
+    "to": "2007-04-30",
+    "description": "MPS-1 funkcjonował od 1953 r. do 1997 r., na terenie magazynowano paliwo lotnicze, benzyny samochodowe, oleje i smary, w trakcie przeładunku paliw dochodziło do przedostawania się substancji ropopochodnych do środowiska gruntowego. Od 1998 r. do 2007 r. prowadzono przeróbkę ropy naftowej"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Agencja Mienia Wojskowego",
+      "address": "ul. Nowowiejska 26A, 00-643 Warszawa",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": "52.10.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od < 0,8 do 8140 mg/kg s.m.",
+      "area_ha": 0.6144
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od < 6 do 6100 mg/kg s.m.",
+      "area_ha": 0.6144
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od < 0,8 do 8140 mg/kg s.m.",
+      "area_ha": 0.6144
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od < 6 do 6100 mg/kg s.m.",
+      "area_ha": 0.6144
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-03-26",
+    "legal_basis": "art. 101l",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-05-26",
+        "reference": "WSS.511.18.2015.MP.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Agencja Mienia Wojskowego",
+        "address": "ul. Nowowiejska 26A, 00-643 Warszawa",
+        "economic_activity_code": "52.10.B"
+      }
+    ],
+    "planned_start": "2015-05-27",
+    "planned_end": "2017-12-31",
+    "actual_end": "2016-09-19",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona metodą in-situ z zastosowaniem preparatów mikrobiologicznych, wspomaganą zabiegami agrotechnicznymi. W pierwszej kolejności grunty strefy przypowierzchniowej, w których na podstawie badań nie stwierdzono przekroczeń standardów były wydobyte i złożone na odkładzie, co umożliwia powierzchniową aplikację biopreparatów oraz substancji odżywczych bezpośrednio na zanieczyszczone grunty, a także prowadzenie mechanicznego napowietrzania gruntów poprzez zabiegi agrotechniczne. Naturalna biodegradacja wspomagana przez regularne zaorywanie i bronowanie gruntów intensyfikowana poprzez dodawanie biopreparatów i substancji odżywczych oraz wody. Biopreparat oraz substancje odżywcze dostarczane dwiema metodami: powierzchniowo przy użyciu zraszaczy oraz wgłębnie poprzez aplikacje wykonywane przy użyciu iglicy oraz ciśnieniowej pompy. Wody odciekowe gromadzone w rząpiach, a następnie wykorzystane do utrzymania właściwej wilgotności gruntów.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

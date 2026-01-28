@@ -1,0 +1,85 @@
+{
+  "registry_id": 461,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.1152,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Jastrzębie-Zdrój",
+    "municipality": "Jastrzębie-Zdrój",
+    "address": "ul. Podhalańska 22; Jastrzębie-Zdrój",
+    "precinct": "0012 Jastrzębie Miasto",
+    "parcel_numbers": [
+      "190/54",
+      "191/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((471016.618000 230500.358000,471033.970000 230507.952000,471091.556000 230533.208000,471111.794000 230542.103100,471135.259000 230552.394000,471142.998000 230532.450900,471192.351000 230554.200000,471191.227000 230564.319000,471211.918000 230566.721000,471213.386000 230541.955000,471214.817000 230518.089000,471211.499000 230465.002000,471209.730000 230454.572000,471204.289000 230447.528000,471196.886000 230443.989000,471182.789000 230440.689000,471179.729000 230446.527000,471180.170000 230442.133900,471149.783000 230429.147000,471111.285000 230418.716900,471093.602000 230411.018000,471055.836000 230394.132000,471017.731000 230486.461000,471012.737000 230498.631000,471016.618000 230500.358000))",
+    "site_description": "Teren przy ul. Podhalańskiej 22 w Jastrzębiu-Zdroju, działki nr 190/54  i 191/4, obręb 0012 Jastrzębie Miasto. Teren zabudowany - wielkopowierzchniowy sklep budowlany, parking, drogi dojazdowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Przedmiotowy teren prawdopodobnie od co najmniej 1975 r. był użytkowany głównie przez zakład prefabrykowanych elementów budowlanych. Na terenie nieruchomości funkcjonowały również warsztaty, kotłownia i stacja paliw użytkowana na potrzeby własne zakładu. Zakład zajmował centralny obszar obecnej nieruchomości, natomiast pozostały teren stanowiła zieleń nasadzona lub nieużytki. Zachodni obszar nieruchomości pełnił prawdopodobnie funkcję parku lub terenu rekreacyjnego. Jak wynika z wniosku, fabryka wraz z kotłownią  i stacją paliw zostały zlikwidowane przed 2007 r. Stwierdzone na terenie nieruchomości zanieczyszczenie w opinii wnioskodawcy związane jest z historycznym przemysłowym jej wykorzystaniem. Podwyższone stężenia arsenu są prawdopodobnie skutkiem działalności kotłowni, nie można również wykluczyć, iż źródłem oznaczonych stężeń tego metalu jest długoletnia działalność górniczo-hutnicza na terenie Jastrzębia-Zdroju. Natomiast źródłem podwyższonych stężeń olejów mineralnych jest działalność stacji paliw."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Ferne Investments Sp. z o.o.",
+      "address": "Al. Jerozolimskie 56C; 00-803 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "44",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-07-28",
+    "legal_basis": "101l ust. 2 POŚ",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-10-13",
+        "reference": "WSI.511.6.2016.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Ferne Investments Sp. z o.o.",
+        "address": "Al. Jerozolimskie 56C; 00-803 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,107 @@
+{
+  "registry_id": 600,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.2,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "kolski",
+    "municipality": "Koło (gmina miejska)",
+    "address": "ul. Norton 1, 62-600 Koło",
+    "precinct": "0001, Koło",
+    "parcel_numbers": [
+      "15/40"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((473509.44699856977 482663.8785876781,473531.93662687973 482633.18685962725,473572.1533739798 482633.45144349895,473572.68254170974 482663.08483609837,473559.1887647197 482691.39530937653,473509.44699856977 482663.8785876781))",
+    "site_description": "teren zakładu Saint-Gobain HPM Polska Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1999-01-01",
+    "to": "2007-04-30",
+    "description": "Spółka prowadzi działalność na tym terenie od 1999 r. Wcześniej prowadziła działalność Fabryka Materiałów i Wyrobów Ściernych Korund. Na części działki znajduje się wybudowany w latach 70-tych ubiegłego wieku magazyn paliw oleju opałowego."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja wyrobów ściernych",
+    "current": "Produkcja wyrobów ściernych"
+  },
+  "land_holders": [
+    {
+      "name": "Saint-Gobain HPM Polska Sp. z o.o.",
+      "address": "ul. Norton 1, 62-600 Koło",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "23.91.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "od 273 mg/kg s.m. do 1600 mg/kg s.m.",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "od 1730 mg/kg s.m. do 6040 mg/kg s.m.",
+      "area_ha": 0.2
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-07-25",
+    "legal_basis": "art. 101 m ustawy Prawo ochrony środowiska",
+    "case_reference": "WSS.516.9.2018.ASB",
+    "decisions": [
+      {
+        "issue_date": "2019-01-18",
+        "reference": "WSS.516.9.2018.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101m ust. 1 pkt 2",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-02-01",
+        "reference": "WSS.513.40.2018.ASB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-07-08",
+        "reference": "WSS.515.2.2025.ASB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": "Brak",
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Saint-Gobain HPM Polska Sp. z o.o.",
+        "address": "ul. Norton 1, 62-600 Koło",
+        "economic_activity_code": "23.91.Z"
+      }
+    ],
+    "planned_start": "2021-01-01",
+    "planned_end": "2030-03-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "Dec. ustal. plan rem. z 08.07.2025 r., i uchylenie dec. z 18.01.2019 r."
+}

@@ -1,0 +1,94 @@
+{
+  "registry_id": 458,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Międzyborska",
+    "precinct": null,
+    "parcel_numbers": [
+      "8",
+      "8A",
+      "8B",
+      "10",
+      "10A",
+      "10B"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((642233.3391833385 487567.6011758074,642416.9603841741 487597.7637361251,642370.3936243023 487488.22601705603,642257.1517309884 487465.4718048768,642233.3391833385 487567.6011758074)) POLYGON((642083.0555492217 487523.1510869106,642085.7013878436 487479.23016573116,642214.2891452084 487504.1010488076,642203.1766229644 487553.3136472292,642083.0555492217 487523.1510869106))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Yawa Sp. z o.o. 16 Sp. k.",
+      "address": "ul. Mokotowska 49, 00-542 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Cynk (Zn)",
+      "concentration": "420 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "3,3 [mg/kg]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "67 [mg/kg]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Yawa Sp. z o.o. 16 Sp. k.",
+        "address": "ul. Mokotowska 49, 00-542 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

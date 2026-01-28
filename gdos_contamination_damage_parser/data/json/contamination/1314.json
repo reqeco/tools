@@ -1,0 +1,100 @@
+{
+  "registry_id": 1314,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.368,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Pilczycka",
+    "precinct": "Pilczyce",
+    "parcel_numbers": [
+      "56/3",
+      "AM-4",
+      "obręb Pilczyce"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((356656.9245081075 366415.1786892563,356668.2423512249 366416.30538521614,356675.7483357745 366415.53519897163,356679.253702076 366415.22617295943,356686.2308283249 366412.5531212734,356697.34272525914 366406.7229357278,356711.62297119887 366397.7401030911,356695.77759169636 366365.3201908311,356709.4468084792 366355.1123940842,356719.39113670826 366357.59402510524,356728.90918370243 366360.1898229886,356724.96997608524 366350.39238360524,356723.9261766471 366346.0038844077,356723.5079659001 366345.06630110927,356722.9683603848 366342.234087904,356722.0137936571 366337.34148567915,356721.1275514172 366323.7673934642,356718.97274774476 366301.82309161406,356713.14027156937 366299.16201363876,356706.2631317063 366317.51772328466,356700.4482822841 366328.008468939,356697.46681791614 366333.9508166993,356690.2046224671 366344.46124165505,356687.52537205187 366348.0610274337,356680.61954393587 366356.1167993266,356669.26219883875 366368.46458372194,356659.21286094084 366378.7345181592,356656.45202530664 366381.6470139744,356656.8623153827 366381.9400927918,356656.6517569215 366382.83379499894,356656.9245081075 366415.1786892563))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp. z o.o.",
+      "address": "al. Armii Ludowej 14, 00-638 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,106-0,107 mg/kg s.m.",
+      "area_ha": 0.368
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,103 mg/kg s.m.",
+      "area_ha": 0.368
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,005-0,045 mg/kg s.m.",
+      "area_ha": 0.368
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-02-02",
+    "legal_basis": "art. 101l ust. 2 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2020 r., poz. 1219 ze zm.),",
+    "case_reference": "WSI.515.1.2021.NŁ",
+    "decisions": [
+      {
+        "issue_date": "2021-07-05",
+        "reference": "WSI.515.1.2021.NŁ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp. z o.o.",
+        "address": "al. Armii Ludowej 14, 00-638 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-07-21",
+    "planned_end": "2022-03-31",
+    "actual_end": "2021-07-22",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metodą ex-situ, poprzez wydobycie zanieczyszczonego gruntu, w ilości ok. 920 m3, tj. ok. 1564 Mg.",
+    "ecological_effect": "Usunięto zanieczyszczony grunt do głębokości występowania zanieczyszczenia.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,159 @@
+{
+  "registry_id": 1669,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "municipality": "Bydgoszcz",
+    "address": "ul. Startowa",
+    "precinct": "0217",
+    "parcel_numbers": [
+      "11",
+      "72/16"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((437903.6217233966 584939.6781426165,438048.61368004815 584935.9739685478,438045.43867369817 584833.8445976283,438024.8011324179 584827.4945849292,437901.5050524967 584829.082088097,437905.2092265666 584940.2073103469,437903.6217233966 584939.6781426165)))",
+    "site_description": "Teren pełni funkcję usługową, biurową, magazynową i handlową, na nieruchomości znajduje wyłączona z eksploatacji stacja paliw przeznaczona do rozbiórki."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa (Prezydent Miasta Bydgoszczy)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Stwierdzone zanieczyszczenie ma związek z prowadzoną na tym terenie działalnością.",
+  "total_area_ha": 0.1949,
+  "reporters": [
+    {
+      "name": "MIBOX Przedsiębiorstwo Handlowo-Usługowo-Produkcyjne Spółka Jawna K.G.Z. Michlewska – I.M. Bocian",
+      "address": "ul. Startowa 5; 85-844 Bydgoszcz",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "MIBOX PHUP Spółka Jawna",
+      "address": "Bydgoszcz, ul. Startowa 5",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,0 mg/kg s. m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "2,1 mg/kg s. m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "6,2 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "4,7 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "3,8 mg/kg s. m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,7 mg/kg s. m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "3,6 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "2,0 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,6 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "2,0 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "590 mg/kg s.m.",
+      "area_ha": 0.1949
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "42 mg/kg s.m.",
+      "area_ha": 0.1949
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2023-02-06",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-03-16",
+        "reference": "WSS.511.2.2023.SG.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-04-01",
+    "planned_end": "2025-12-30",
+    "actual_end": "2024-04-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediację należy przeprowadzić metodą ex-situ, poprzez usunięcie zanieczyszczonych gruntów zgodnie ze wskazanymi obszarami zanieczyszczenia. Prace remediacyjne związane z usuwaniem zanieczyszczonych gruntów prowadzić do chwili całkowitego ich usunięcia. Po wybraniu całości zanieczyszczonego gruntu, wykopy wypełnić gruntem niezanieczyszczonym, który został przebadany laboratoryjnie i nie wykazał obecności substancji powodujących ryzyko w ilościach przekraczających zawartości dopuszczalne dla gruntów grupy I.",
+    "ecological_effect": "Badania stężeń substancji powodujących ryzyko, w próbkach gruntu pobranych po zakończonej remediacji nie wykazały przekroczeń wartości dopuszczalnych.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": "WSS.511.2.2023"
+}

@@ -1,0 +1,91 @@
+{
+  "registry_id": 419,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "bolesławiecki",
+    "municipality": "Osiecznica",
+    "address": null,
+    "precinct": "obręb Osiecznica",
+    "parcel_numbers": [
+      "nr 427/785 obręb Osiecznica",
+      "gmina Osiecznica"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((251383.1067780401208438 392324.71090193290729076, 251396.07317142866668291 392313.90557410911424085, 251408.0790912328811828 392294.4559840263100341, 251430.65022046479862183 392236.10721377783920616, 251430.41010206870851107 392198.88886238483246416, 251431.61069404912996106 392157.10826146620092914, 251420.56524782924680039 392136.69819779903627932, 251405.67790727203828283 392105.4828063080785796, 251382.1463044558186084 392057.21900869515957311, 251374.7026341771997977 392042.57178653404116631, 251368.21943748291232623 392024.56290682771941647, 251361.01588560041273013 392004.63307995273498818, 251375.42298936544102617 391989.98585779161658138, 251372.06133182026678696 391978.94041157176252455, 251364.61766154167708009 391980.861358740425203, 251353.0919785296136979 391974.37816204613773152, 251350.45067617270979099 392004.39296155667398125, 251353.33209692570380867 392024.08267003553919494, 251358.85482003563083708 392045.21308889094507322, 251363.65718795731663704 392084.59250584879191592, 251378.78464691061526537 392111.72588460624683648, 251395.11269784430623986 392127.33358035184210166, 251399.91506576599203981 392134.77725063043180853, 251407.59885444067185745 392147.98376241506775841, 251416.00299830362200737 392162.39086618012515828, 251420.56524782921769656 392188.08353456115582958, 251420.56524782921769656 392217.13786048733163625, 251420.3251294331275858 392229.38389868760714307, 251422.96643179006059654 392239.46887132315896451, 251415.04252471926156431 392263.2405925354687497, 251403.75696010331739672 392283.89077459869440645, 251392.95163227952434681 392303.5804830776178278, 251383.34689643618185073 392324.47078353690449148, 251383.1067780401208438 392324.71090193290729076))",
+    "site_description": "teren leży w granicach projektowanego Specjalnego Obszaru Ochrony siedlisk Natura 2000 „Dolina Dolnej Kwisy” PLH020050 oraz Obszaru Specjalnej Ochrony ptaków Natura 2000 „Bory Dolnośląskie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "zniszczenia powstały na skutek realizacji przedsięwzięcia pn. „Budowa małej elektrowni wodnej Kliczków – Kleszczowa”"
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "wystąpienie szkody w środowisku, tj. uszkodzenia części priorytetowego chronionego siedliska przyrodniczego - łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albae, Popultum albae, Alnenion glutinoso-incanae, olsy źródliskowe) (kod *91E0), na terenie części działki nr 427/785, obręb Osiecznica, gm. Osiecznica w granicach projektowanego Specjalnego Obszaru Ochrony siedlisk Natura 2000 „Dolina Dolnej Kwisy” PLH020050 oraz Obszaru Specjalnej Ochrony ptaków Natura 2000 „Bory Dolnośląskie”. Teren podlegający wykonaniu podstawowych działań naprawczych, obejmuje fragment działki ww. działki o pow. ok. 0,5 ha.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Nadleśniczy Nadleśnictwa Węgliniec",
+      "address": "ul. Piłsudskiego 6 59-940 Węgliniec",
+      "legal_form": "państwowa jednostka organizacyjna nieposiadająca osobowości prawnej, niebędąca przedsiębiorstwem w rozumieniu prawa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "„Elektrownie Wodną „Kliczków” – Jan Cołokidzi – Sp. J.” reprezentowaną przez (…)",
+      "address": "ul. Kościuszki 60, 59-700 Bolesławiec",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2011-05-19",
+    "detection_date": "2011-03-14",
+    "decisions": [
+      {
+        "issue_date": "2011-09-05",
+        "reference": "WSI.512.53.2011.APC.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2011-09-22",
+        "reason": null,
+        "appealed_decision_reference": "WSI.512.53.2011.APC.8",
+        "resolution_reference": null,
+        "appellant_name": "Nadleśniczego Nadleśnictwa Węgliniec",
+        "appellant_address": "ul. Piłsudskiego 6, 59-940 Węgliniec",
+        "resolution_date": "2011-11-24",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "postanowienie Generalnego Dyrektora Ochrony Środowiska z dnia 24 listopada 2011 r., znak: DOP-ks.510.89.2011.mp, odmawiające przywrócenia terminu do wniesienia odwołania oraz stwierdzenia uchybienia terminu do wniesienia odwołania od decyzji Regionalnego Dyrektora Ochrony Środowiska  we Wrocławiu z dnia 5 września 2011 r., znak: WSI.512.53.2011.APC.8,"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2012-06-30",
+    "actual_end": null,
+    "method": null,
+    "description": "I.\tW zależności od możliwości pozyskania sadzonek, należy przeprowadzić nasadzenie jesienią (wrzesień-listopad) 2011 r. bądź wiosną (marzec-kwiecień) 2012 r. W celu utworzenia zwartej pokrywy gatunków drzewiastych należy wprowadzić wierzby: białą (Salix alba) oraz kruchą (S. fragilis), a także w miarę możliwości, domieszkowo wierzbę wiciową (S. viminalis) oraz trójpręcikową (S. triandria). Wierzby należy wprowadzić jako sadzonki 2-3 letnie w proporcji: wierzba biała 60%, wierzba krucha 30%, wierzby: wiciowa i trójpręcikowa po 5%, przy czym dwa ostatnie gatunki należy wprowadzać od strony rzeki. W przypadku braku sadzonek wierzb wiciowej  i trójpręcikowej należy zwiększyć udział wierzby białej do 70%. Sprawy pochodzenia materiału szkółkarskiego i jego wykorzystanie należy konsultować z biegłym leśniczym odpowiedzialnym za analizowany kompleks leśny. II.\tRozwój roślinności runa i zbiorowisk welonowych pozostawić procesom naturalnej sukcesji.",
+    "ecological_effect": "Celem podstawowych działań naprawczych jest przywrócenie stanu początkowego  lub przybliżonego do stanu początkowego, chronionego siedliska przyrodniczego – łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albae, Popultum albae, Alnenion glutinoso-incanae, olsy źródliskowe) (kod *91E0). Procesy odtwarzania zbiorowiska należy zainicjować przez sztuczne wprowadzenie drzew, doprowadzając do powstania zwartej warstwy odnowień gatunków drzewiastych, właściwych dla siedliska, na całym zniszczonym obszarze.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,68 @@
+{
+  "registry_id": 1098,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Nowy Staw",
+    "address": "ul. Bema 1, 82-230 Nowy Staw",
+    "precinct": "1 5",
+    "parcel_numbers": [
+      "62/25",
+      "62/26",
+      "62/27",
+      "62/29",
+      "2/28"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((500188.86724239995 696648.2936244374,500195.21725509997 696650.9394630594,500220.08813818014 696655.4373887172,500318.24875116 696668.9311657064,500332.0071120099 696673.1645075083,500349.46964694007 696676.6040977174,500345.76547285996 696671.0478366083,500359.25924984994 696643.2665310483,500358.7300821301 696632.6831765482,500400.79891625996 696636.1227667574,500431.2260604499 696637.4456860693,500432.5489797599 696632.4185926877,500367.9905173099 696626.5977477087,500360.8467530299 696630.3019217867,500327.50918635 696623.1581574976,500322.16459233 696619.1893995572,500321.84709170007 696617.6018963885,500286.65743798 696595.1122680772,500281.36576072994 696592.2018455882,500268.40115146997 696591.6726778662,500246.96985860995 696600.6685291873,500231.35941071995 696613.8977223188,500205.6947760599 696618.924815706,500194.31766996987 696614.1623061774,500180.82389298 696610.7227159683,500189.55516045005 696648.8227921668,500188.86724239995 696648.2936244374))",
+    "site_description": "teren bo byłej cukrowni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja cukru",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Nowy STaw",
+      "address": "ul. Bema 1, 82-230 Nowy Staw",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "62/25",
+        "62/26",
+        "62/27",
+        "62/29",
+        "2/28"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "61 par. 1 i 4 kpa, 101c ust. 3 poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.37.2019.LK",
+    "decisions": [
+      {
+        "issue_date": "2019-04-16",
+        "reference": "RDOŚ-Gd-WZS.513.37.2019.LK.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

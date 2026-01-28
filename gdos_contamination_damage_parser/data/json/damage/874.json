@@ -1,0 +1,143 @@
+{
+  "registry_id": 874,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "złotowski",
+    "municipality": "Krajenka",
+    "address": "64-917 Skórka, ul. Leśna",
+    "precinct": null,
+    "parcel_numbers": [
+      "334 Skórka"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((357752.03030734044 596598.5389528079,357761.8199102775 596587.4264305765,357733.2448530706 596565.730553858,357723.4552501438 596573.9326535966,357752.03030734044 596598.5389528079))",
+    "site_description": "Część pola uprawnego, na działce 334, sąsiadującej z zakładem D.M.-POL"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2015-07-02",
+    "to": "2015-09-18",
+    "description": "WWIOŚ stwierdził podczas kontroli odprowadzanie ścieków przemysłowych, kontrola trwała od 02.07.2015 r., a 18.09.2015 r. wystosowano zarządzenia pokontrolne, w których zarządzono zaprzestania odprowadzania ścieków na grunty sąsiednie"
+  },
+  "land_surface_holder": "osoba fizyczna, osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Spółka zajmuje się mechaniczną obróbką drewna oraz impregnacją wyrobów gotowych. W ramach prowadzonej działalności wykorzystuje mieszaniny niebezpieczne i biobójcze. Wytwarza również ścieki, które, jak stwierdził WWIOŚ podczas kontroli w na przełomie lipca i sierpnia 2015 r., odprowadzała do gruntu w obrębie działki nr 334 w Skórce",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wielkopolski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "WIOŚ w Poznaniu Delegatura w Pile, ul. Motylewska 5a, 64-920 Piła",
+      "legal_form": "inspekcja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "\"D.M.-POL\" Sp. z o.o.",
+      "address": "ul. Leśna 6, 64-917 Skórka",
+      "economic_activity_code": "16.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II-1",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "od 68 mg/kg s.m. do 311 mg/kg s.m.",
+      "area_ha": 0.0075
+    },
+    {
+      "soil_group": "II-1",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "od 81 mg/kg s.m. do 350 mg/kg s.m.",
+      "area_ha": 0.0075
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2016-03-17",
+    "detection_date": "2015-08-04",
+    "decisions": [
+      {
+        "issue_date": "2016-05-23",
+        "reference": "WSS.511.20.2016.ASB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-07-28",
+        "reference": "DOA-ks.511.4.2016.mp",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-11-21",
+        "reference": "WSS.511.20.2016.ASB.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-07-21",
+        "reference": "WSS.512.7.2015.ASB.17",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2017-02-15",
+        "reference": "DOA-ks.511.4.2016.mg.1",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2016-06-08",
+        "reason": "Zawyżona zdaniem odwołującego powierzchnia zanieczyszczonego gruntu wymagającego remediacji",
+        "appealed_decision_reference": "WSS.511.20.2016.ASB.6",
+        "resolution_reference": "DOA-ks.511.4.2016.mp",
+        "appellant_name": "\"D.M.-POL\" Sp. z o.o.",
+        "appellant_address": "ul. Leśna 6, 64-917 Skórka",
+        "resolution_date": "2016-07-28",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Wnioskujący ma przedstawić powierzchnię i głębokość zanieczyszczenia."
+      },
+      {
+        "date": "2016-11-28",
+        "reason": "Wnioskujący niezadowolony z odmowy uzgodnienia działań naprawczych",
+        "appealed_decision_reference": "WSS.511.20.2016.ASB.15",
+        "resolution_reference": "DOA-ks.511.4.2016.mg.1",
+        "appellant_name": "\"D.M.-POL\" Sp. z o.o.",
+        "appellant_address": "ul. Leśna 6, 64-917 Skórka",
+        "resolution_date": "2017-02-15",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Podtrzymanie w mocy decyzji Regionalnego Dyrektora o odmowie uzgodnienia działań naprawczych"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja była prowadzona metodą ex-situ polegającą na usunięciu zanieczyszczonego gruntu. Prace przeprowadzono na części działki nr 334 w Skórce, na powierzchni około 75 m2, wzdłuż granicy z działką nr 175/1 w Skórce. W pierwszej kolejności usunięto grunt do głębokości, na której na podstawie badań stwierdzono wcześniej przekroczenie wartości dopuszczalnych stężeń chromu [Cr] i miedzi [Cu], tj. do ok. 0,25 m ppt. Następnie z dna wykopu zostały pobrane z trzech miejsc próbki gruntu. Próbki poddano analizie na zawartość w nich chromu [Cr] i miedzi [Cu]. Odpady gleby i ziemi przekazano do podmiotu, który ma uprawnienia do przetwarzania odpadów. Zasypanie powstałego wykopu nastąpiło po potwierdzeniu wynikami badań, iż pozostawiony w nim grunt spełnia poziom jakości gleby i ziemi odpowiadający dopuszczalnej zawartości substancji powodujących ryzyko szczególnie istotnych dla ochrony powierzchni ziemi dla gruntów grupy II-1. Wykop wypełniono czystym gruntem.",
+    "ecological_effect": "Załączone do dokumetacji wyniki badań pobranych próbek gruntu wskazują na spełnianie norm dla badanych substancji stwarzających ryzyko.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

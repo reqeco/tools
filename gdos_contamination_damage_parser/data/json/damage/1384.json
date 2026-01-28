@@ -1,0 +1,57 @@
+{
+  "registry_id": 1384,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "bełchatowski",
+    "municipality": "Kleszczów",
+    "address": "ul. Instalacyjna 14 i 22 w m. Rogowiec gm. Kleszczów",
+    "precinct": "Rogowiec",
+    "parcel_numbers": [
+      "1060/2",
+      "1060/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((521106.78318942 378481.9883159343,521268.70851327013 378482.3851917321,521272.14810348005 378485.16332228016,521279.42415970005 378484.89873842243,521281.8054144601 378581.6041401727,521103.60818307014 378583.3239352722,521106.78318942 378481.9883159343)),((521421.1088180701 378485.6924900105,521420.4473584201 378491.77791885193,521414.62651344 378492.57167043164,521414.36192958 378529.0842434624,521417.14006013004 378531.8623740217,521504.18815090007 378531.8623740226,521509.34753622004 378525.24777745176,521510.00899587007 378485.5601980826,521421.1088180701 378485.6924900105)))",
+    "site_description": "teren przemysłowy, na którym składowane są odpady"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "w trakcie 2017 r"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "bezpośrednie zagrożenie szkodą w środowisku w powierzchni ziemi na działce 1060/2 oraz 1060/10 przy ul. Instalacyjnej 14 i 22 w miejscowości Rogowiec, w związku z gromadzeniem na ww. nieruchomościach gruntowych odpadów.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Bełchatowski",
+      "address": "ul. Pabianicka 17, 97-400 Bełchatów",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PLASTIKS z siedzibą w Bytomiu",
+      "address": "ul. Północna 70 Bytom",
+      "economic_activity_code": "38.21.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2021-11-02",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

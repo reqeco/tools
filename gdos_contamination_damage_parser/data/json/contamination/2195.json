@@ -1,0 +1,123 @@
+{
+  "registry_id": 2195,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.083,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Metalurgiczna 15a",
+    "precinct": "0045 Zadębie II",
+    "parcel_numbers": [
+      "066301_1.0045.AR_9.139/68",
+      "066301_1.0045.AR_9.139/70"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((754481.9029464116 381038.2000346761,754484.9029466279 381031.6000346821,754505.2029482581 381028.0000347132,754503.5029480828 381018.7000347106,754505.202948219 381018.30003471114,754504.7029481675 381015.60003471095,754505.2029482077 381015.50003471226,754485.7029462572 380923.10003467277,754475.8029454636 380925.10003465693,754474.3029453111 380917.4000346549,754489.1029464967 380914.200034678,754513.2029489205 381031.60003472865,754481.9029464116 381038.2000346761))",
+    "site_description": "fragment terenu dawnych Zakładów Metalurgicznych Lublin"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "066301_1.0045.AR_9.139/68",
+        "066301_1.0045.AR_9.139/70"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,28-0,29 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,16 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "330-3600 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "310-4300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "460 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-03-12",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.515.4.2023.SG",
+    "decisions": [
+      {
+        "issue_date": "2025-06-12",
+        "reference": "WSI.515.4.2023.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4, art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-07-03",
+    "planned_end": "2027-02-28",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko, z zastosowaniem metody ex-situ. Po uzyskaniu wyników badań laboratoryjnych próbek gruntu z dna i ściany wykopu, potwierdzających usunięcie zanieczyszczenia metodą ex-situ, obszary po wykonaniu prac remediacyjnych należy zagospodarować w zakresie projektowanych prac inwestycyjnych. Wykopy należy wypełnić gruntem, spełniającym dopuszczalne zawartości substancji powodujących ryzyko dla grupy gruntów I na głębokości ich użycia. W miejscu posadowienia instalacji podziemnych uzupełnienie wykopu należy dostosować do zakresu wynikającego z posadowienia instalacji podziemnych.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "W odniesieniu do części obszaru władający powierzchnią ziemi zwolniony z obowiązku przeprowadzenia remediacji na podstawie art. 101p ust. 2 ustawy Poś."
+}

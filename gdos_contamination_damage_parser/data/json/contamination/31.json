@@ -1,0 +1,84 @@
+{
+  "registry_id": 31,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0007,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "93-578 Łódź, ul. Walerego Wróblewskiego 26",
+    "precinct": "G-01",
+    "parcel_numbers": [
+      "74/236"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((530999.27328964904882014 430650.40326582902343944, 530999.1998744229786098 430649.93974033801350743, 530998.98681514000054449 430649.52158795099239796, 530998.65496752702165395 430649.18974033801350743, 530998.23681514000054449 430648.97668105497723445, 530997.77328964904882014 430648.90326582902343944, 530997.30976415704935789 430648.97668105497723445, 530996.89161177002824843 430649.18974033801350743, 530996.55976415704935789 430649.52158795099239796, 530996.34670487395487726 430649.93974033801350743, 530996.27328964904882014 430650.40326582902343944, 530996.34670487395487726 430650.86679132102290168, 530996.55976415704935789 430651.28494370798580348, 530996.89161177002824843 430651.61679132102290168, 530997.30976415704935789 430651.829850604000967, 530997.77328964904882014 430651.90326582902343944, 530998.23681514000054449 430651.829850604000967, 530998.65496752702165395 430651.61679132102290168, 530998.98681514000054449 430651.28494370798580348, 530999.1998744229786098 430650.86679132102290168, 530999.27328964904882014 430650.40326582902343944))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Veolia Energia Łódź S.A.",
+      "address": "ul. J. Andrzejewskiej 5 , 90-024 Łódź",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "854 kg/mg s.m.",
+      "area_ha": 0.0007
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-06-29",
+    "legal_basis": "art. 101l ust 2 i 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. z 2016 r. poz. 672)",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2016-12-19",
+        "reference": "WSI-I.516.3.2016.AJ.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Veolia Energia Łódź S.A.",
+        "address": "ul. J. Andrzejewskiej 5 , 90-024 Łódź",
+        "economic_activity_code": "35.30.Z"
+      }
+    ],
+    "planned_start": "2016-11-10",
+    "planned_end": "2017-06-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "1.\tRemediacja prowadzona będzie dwuetapowo: a)\tetap I - rekultywacja metodą ex-situ b)\tetap II- powtórzenie czynności etapu I w przypadku stwierdzenia dalszego zanieczyszczenia na podstawie badań kontrolnych etapu I; 2.\tPrace remediacyjne etapu I polegać będą na: a)\tokonturowaniu obszaru zanieczyszczonego terenu; b)\twydobyciu zanieczyszczonego gruntu z całości okonturowanego terenu do głębokości 2,5 m ppt; c)\tusunięciu zanieczyszczonego gruntu i przekazaniu go do przetworzenia, za pośrednictwem firm posiadających stosowne uzgodnienia; d)\twykonaniu badań kontrolnych : f)\tocena gruntu pozostającego w wykopie tj. dna i skarp. 3.\tPrace remediacyjne etapu II polegać będą na powtórzeniu czynności etapu I do chwili osiągnięcia poziomu jakości powierzchni ziemi odpowiadającego co najmniej standardom jakościowym przewidzianym dla gruntów grupy IV (tereny przemysłowe, oznaczone symbolem Ba), określone w załączniku do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. poz. 1395) lub/i napotkania elementów infrastruktury ograniczających możliwość prowadzenia dalszych robót ziemnych.",
+    "ecological_effect": "osiągnięto efekt ekologizny",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

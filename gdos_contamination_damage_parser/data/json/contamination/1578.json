@@ -1,0 +1,104 @@
+{
+  "registry_id": 1578,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.006,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Karolkowa  Dzielnica Wola",
+    "precinct": "6-04-09",
+    "parcel_numbers": [
+      "18",
+      "5",
+      "7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635136.406230693 486413.75095152017,635210.2251284025 486474.7375318287,635226.7616198304 486485.18859439716,635268.3012862847 486500.2698745569,635265.3908637918 486508.2073904276,635306.9305302564 486522.3626270769,635309.0472011587 486525.1407576259,635295.9502999466 486586.52421372663,635247.9283288552 486575.54398343805,635253.087714182 486615.8930224655,635288.4096598596 486622.639910955,635282.0596471537 486654.5222663963,635096.1894835562 486619.2003207505,635098.4384463882 486609.1461339807,635095.6603158254 486609.01384205,635130.0562179864 486428.17077203,635136.406230693 486413.75095152017))",
+    "site_description": "Fragmenty działek 5 i 7"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Warszawski Zakłady Farmaceutyczne Polfa S.A.",
+      "address": "ul. Karolkowa 22/24 01-207 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "18",
+        "5",
+        "7"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.006
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.006
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.006
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-02-24",
+    "legal_basis": "art.101l",
+    "case_reference": "WOOŚ-IV.515.6.2022",
+    "decisions": [
+      {
+        "issue_date": "2022-04-07",
+        "reference": "WOOŚ-IV.515.6.2022.PBu.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Warszawski Zakłady Farmaceutyczne Polfa S.A.",
+        "address": "ul. Karolkowa 22/24 01-207 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-04-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2022-08-09",
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

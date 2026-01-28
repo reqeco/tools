@@ -1,0 +1,57 @@
+{
+  "registry_id": 1526,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Częstochowa",
+    "municipality": "Częstochowa",
+    "address": null,
+    "precinct": "0223",
+    "parcel_numbers": [
+      "246401_1.0223.6/1",
+      "246401_1.0223.6/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((512228.2378682799753733 326637.13519436202477664, 512195.91778348799562082 326634.9240566220250912, 512185.55792488798033446 326634.4645761179854162, 512102.40885892097139731 326630.76240500301355496, 512084.40413349599111825 326629.59684320201631635, 512051.35165905102621764 326627.91529326001182199, 512021.55957181501435116 326627.14904680202016607, 511952.2892088340013288 326626.93686124798841774, 511938.95212373201502487 326626.54763863998232409, 511893.7730785749736242 326624.57042151998030022, 511892.6893819069955498 326636.06803717400180176, 511892.06848691799677908 326642.62242081901058555, 511951.76151524501619861 326644.81303540302906185, 511998.14916516502853483 326645.26482632802799344, 512020.88889171101618558 326645.53684037498896942, 512050.86947597499238327 326646.2005971780163236, 512103.62950167298549786 326648.59493473300244659, 512178.73715323797659948 326653.30533794302027673, 512199.92043888499028981 326646.38283808098640293, 512228.2378682799753733 326637.13519436202477664))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2018-09-20",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gruntu położonego w obrębie nieruchomości położonej przy ul. Hallera 9 w obrębie działek ewidencyjnych o numerach 6/1 oraz 6/2 (obręb 223) w Częstochowie, w wyniku zbierania i magazynowania odpadów niewiadomego pochodzenia",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Urząd Miasta Częstochowa",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "RTV Handel i Usługi Budowlane Mateusz Kępa",
+      "address": "ul. Bruno Żogały  nr 6 lok. 2, 40-212 Katowice",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2018-10-03",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

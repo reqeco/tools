@@ -1,0 +1,272 @@
+{
+  "registry_id": 1497,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 10.47,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": null,
+    "precinct": "0006 Szopienice",
+    "parcel_numbers": [
+      "246901_1.0006.AR_1.2013/18",
+      "246901_1.0006.AR_1.2025/44",
+      "246901_1.0006.AR_1.2043/44"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((507275.40148761798627675 265343.48615593300200999, 507261.48138415499124676 265304.12704779097111896, 507255.18583990901242942 265286.30244028801098466, 507238.82465622498420998 265240.05030600202735513, 507229.18080782797187567 265226.66795969498343766, 507207.47352607001084834 265210.24946410901611671, 507198.49250042502535507 265203.06444474600721151, 507191.48132419597823173 265199.68065875902539119, 507171.43432786397170275 265192.29436966497451067, 507159.31938937597442418 265189.88852833898272365, 507149.18677704298170283 265189.2349996929988265, 507146.42273235798347741 265179.1282670579967089, 507137.82031602197093889 265182.28187285200692713, 507095.81804163398919627 265197.33677594998152927, 507105.05085388402221724 265222.53745731199160218, 507042.85998551698867232 265245.7185423820046708, 507043.73097292997408658 265248.06541831599315628, 507042.68306580802891403 265253.38625523401424289, 507039.66101225599413738 265257.56429876101901755, 507035.13866750802844763 265260.1634505310212262, 506856.44156891701277345 265326.75277187902247533, 506854.1299098189920187 265320.56757575698429719, 506839.78669651300879195 265289.14929355401545763, 506824.43751500401413068 265247.56070046499371529, 506828.61819545697653666 265238.1202941209776327, 507018.49751050799386576 265167.733138517010957, 507016.59733992698602378 265162.42188615398481488, 506822.62286356597905979 265231.49483425897778943, 506804.36328185797901824 265237.99709690397139639, 506809.25108421000186354 265240.36301900597754866, 506822.81265497102867812 265277.05959315097425133, 506829.06791358697228134 265294.56295065197627991, 506838.75641349499346688 265321.10071015497669578, 506841.63524216698715463 265323.37766500702127814, 506843.76537151099182665 265326.16436468798201531, 506853.71373434801353142 265353.15036071900976822, 506855.54530406597768888 265358.11574552999809384, 506862.99181047797901556 265378.14856575097655877, 506884.54860395099967718 265436.1468117919866927, 506906.65592667501186952 265495.62376119598047808, 506907.64372078701853752 265499.52512368897441775, 506914.33843668102053925 265517.90104403399163857, 506921.49863456998718902 265515.70821668498683721, 506921.38229065202176571 265515.15611479902872816, 506922.39391259901458398 265512.34423826297279447, 506924.49494434898952022 265509.53772787802154198, 506927.82172083400655538 265507.21446218597702682, 506937.94488697999622673 265503.44080391799798235, 506995.73097213899018243 265481.93782146897865459, 506999.98694782797247171 265480.34163516701664776, 507047.52036795602180064 265462.64403382601449266, 507205.87255361600546166 265404.45280564401764423, 507211.42139855300774798 265404.61818587000016123, 507212.32565134402830154 265404.97582445602165535, 507211.62184737500501797 265402.42682720301672816, 507232.59612020902568474 265394.75981486402451992, 507239.73485669301589951 265391.2660699890111573, 507278.93824955599848181 265376.16876969102304429, 507284.83715419401414692 265375.60988973802886903, 507282.65613443998154253 265367.2442709730239585, 507281.3496551740099676 265362.2348649799823761, 507279.46330094500444829 265354.97461620299145579, 507275.40148761798627675 265343.48615593300200999)))",
+    "site_description": "Teren dawnej Huty Metali Nieżelaznych Szopienice w Katowicach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Po 1834 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "DAFNE 23 Sp. z o.o.",
+      "address": "ul. Jana Dekerta 24, 30-703 Kraków",
+      "entity_type": null,
+      "parcels": [
+        "246901_1.0006.AR_1.2013/18",
+        "246901_1.0006.AR_1.2043/44",
+        "246901_1.0006.AR_1.2025/44"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-01-20",
+    "legal_basis": null,
+    "case_reference": "WSI.515.15.2020.MB1",
+    "decisions": [
+      {
+        "issue_date": "2021-10-14",
+        "reference": "WSI.515.15.2020.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "DAFNE 23 Sp. z o.o.",
+        "address": "ul. Jana Dekerta 24, 30-703 Kraków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-11-01",
+    "planned_end": "2030-02-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Metoda ex-situ polegająca na wydobyciu zanieczyszczonej gleby i ziemi. Metoda ograniczenia możliwości rozprzestrzeniania się  zanieczyszczenia  poprzez pokrycie terenu nawierzchniami szczelnymi zabezpieczającymi przed infiltracją wód opadowych.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

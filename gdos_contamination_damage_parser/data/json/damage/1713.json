@@ -1,0 +1,61 @@
+{
+  "registry_id": 1713,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "nowodworski",
+    "municipality": "Krynica Morska",
+    "address": null,
+    "precinct": "Krynica Morska",
+    "parcel_numbers": [
+      "87/29"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((527249.7830413305 723102.1399540734,527267.2455762504 723071.712809884,527482.6168403303 723183.6317837238,527567.3762806804 723216.440182683,527533.7741301404 723252.4235879844,527435.6135171505 723248.1902461862,527392.2217637004 723216.1755988151,527249.7830413305 723102.1399540734))",
+    "site_description": "Miejsce pomiędzy wałem przeciwpowodziowym a ulicą Topolową/Wierzbową."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "sierpień 2021 r."
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego (Burmistrz Gminy Krynica Morska)",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Niszczenie szuwaru trzcinowego poprzez nasypywanie piasku zmieszanego z gruzem.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Dyrektor Urzędu Morskiego w Gdyni",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Dyrektor Urzędu Morskiego w Gdyni",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Laguny przybrzeżne",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2021-11-18",
+    "detection_date": "2021-09-23",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

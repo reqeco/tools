@@ -1,0 +1,98 @@
+{
+  "registry_id": 895,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.2332,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "grodziski",
+    "municipality": "Baranów",
+    "address": "m. Kaski",
+    "precinct": "Kaski",
+    "parcel_numbers": [
+      "928/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((598491.6497355172 479017.1982893003,598464.6621815426 478881.2021839693,598453.0204915907 478881.73135169037,598450.9038206905 478855.2729654424,598461.4871751919 478845.2187786717,598484.7705550956 478840.4562691394,598482.6538841953 478831.9895855393,598385.8161905003 478853.1562945405,598389.5203645809 478868.50215857197,598359.8869719763 478872.7355003739,598361.4744751464 478881.2021839693,598371.5286619279 478880.6730162436,598386.874525951 479029.3691469729,598491.6497355172 479017.1982893003))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "mg/kg s.m.35-210",
+      "area_ha": 1.2332
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-06-06",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.66.2019.MGł",
+    "decisions": [
+      {
+        "issue_date": "2019-10-07",
+        "reference": "WOOŚ-IV.515.66.2019.MGł.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      },
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-10-01",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-12-23",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "in-situ - zraszanie terenu biopreparatem",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

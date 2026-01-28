@@ -1,0 +1,65 @@
+{
+  "registry_id": 1859,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "Katowice Kostuchna",
+    "precinct": "Górne Lasy Pszczyńskie",
+    "parcel_numbers": [
+      "246901_1.0013.AR_21.256/13"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((500557.71692882897332311 257671.82026740998844616, 500455.94656977901468053 257630.74011936000897549, 500452.83436033397447318 257643.85404344799462706, 500468.67416643298929557 257650.50756886901217513, 500564.01731770799960941 257690.76443032000679523, 500625.34818440797971562 257716.66615668300073594, 500733.93529973400291055 257762.28211343201110139, 500861.18729529902338982 257815.80291920099989511, 500898.7575175340170972 257839.85449890000745654, 500912.49498216499341652 257846.98593295700266026, 500910.9202565070008859 257822.71156959800282493, 500866.97496057598618791 257805.45145837101154029, 500804.51800718699814752 257775.317389801988611, 500643.29471751197706908 257706.77129844899172895, 500557.71692882897332311 257671.82026740998844616)))",
+    "site_description": "Rejon bocznicy kolejowej PKP Kostuchna w Katowicach, gdzie zeskładowano pokłady kolejowe."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Rejon bocznicy kolejowej PKP Kostuchna w Katowicach, gdzie zeskładowano pokłady kolejowe.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Spółka Restrukturyzacji Kopalń S.A.",
+      "address": null,
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "P.H.U. FOXMET Monika Czaplińska",
+      "address": null,
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2022-12-13",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-06-16",
+        "reference": "WSI.512.27.2022.MB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

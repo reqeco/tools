@@ -1,0 +1,115 @@
+{
+  "registry_id": 81,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.261,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "municipality": "Kędzierzyn-Koźle",
+    "address": "47-220 Kędzierzyn-Koźle, ul. Kozielska 6b",
+    "precinct": "Kędzierzyn",
+    "parcel_numbers": [
+      "471 obręb 0044 Kędzierzyn"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((443198.1762974193 275383.9495805502,443213.5221614498 275357.49119429756,443273.84728210047 275383.94958054833,443262.4701760105 275411.2017183881,443198.1762974193 275383.9495805502))",
+    "site_description": "Kędzierzyn-Koźle, ul. Kozielska 6b"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "udokumentowanie zanieczyszczenia nastapił w 2009r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A. z siedzibą w Płocku",
+      "address": "09-411 Płock ul. Chemikow",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "69,1 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1804 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-01-08",
+    "legal_basis": "art. 106  ustawy  Poś, 101 l ust.4 POS",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2009-09-24",
+        "reference": "RDOS-16-WOOŚ-6618-009/09/eso",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2010-11-22",
+        "reference": "RDOŚ-16-WOOŚ-6618-023/10/er",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2012-12-31",
+        "reference": "WOOŚ.511.5.2012.ER.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-03-09",
+        "reference": "WOOŚ.511.5.2014.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A. z siedzibą w Płocku",
+        "address": "09-411 Płock ul. Chemikow",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2015-03-27",
+    "planned_end": "2017-12-31",
+    "actual_end": "2015-12-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "prowadzenie automatycznego i zaprogramowanego pompowani wód gruntowych z istniejacyh 5 otworów eksploatacyjnych (EK-1-EK-5), z wydajnością łaczną ok. 1 m3/h                                                                                          oczyszczanie wypompowanej wody w kntenerowej stacji oczyszczania wyposazonej w układy napowietrzania i końcowy filtr sorpcyjny                                  odprowadzenie oczyszczonej wody do gruntu za pomocą 4 istniejacych otworów rozsaczajacych                                      przedstawienie organowi ochrony srodowiska sprawodań pólrocznych z przebiegu remediacji",
+    "ecological_effect": "Prace remediacyjne polegały na pompowaniu zanieczyszczonej wody gruntowej, oczyszczaniu jej w kontenerowej stacji oczyszczania oraz odprowadzaniu wody oczyszczonej do gruntu. Od sierpnia 2015 r. wody podziemne ze wszystkich otworów spełniają kryteria I klasy czystości, określone w rozporządzeniu Ministra Środowiska z dnia 23 lipca 2008 r. w sprawie kryteriów i sposobu oceny stanu wód podziemnych (Dz. U. nr 143, poz. 896). Wyniki analiz laboratoryjnych próbek gruntu wykonanych w listopadzie 2015 r., potwierdziły osiągnięcie zakładanego efektu ekologicznego.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,190 @@
+{
+  "registry_id": 1317,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.9205,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Chełmska",
+    "precinct": "1-03-11, 1-03-12",
+    "parcel_numbers": [
+      "30/2",
+      "30/3",
+      "30/5",
+      "30/6",
+      "30/7",
+      "30/8",
+      "9/1",
+      "9/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639937.7434430387 483416.67724901903,640065.8020326557 483441.018964367,640077.4437226183 483373.8146632863,639949.3851330013 483349.4729479393,639936.685107586 483381.7521791691,639927.1600885252 483427.7897712393,639932.9809335028 483429.3772744201,639937.7434430387 483418.2647521896,639937.7434430387 483416.67724901903))POLYGON((640051.4219517105 483535.8722769981,640049.305280808 483545.92646377906,640028.9323233614 483544.0743767377,640024.1698138361 483565.77025345806,639993.7426696066 483563.65358255897,640000.3572661739 483531.90351905674,640000.6218500442 483532.43268678803,640051.4219517105 483535.8722769981))POLYGON((639983.1593150944 483606.7807521494,640036.3406715338 483616.57035505865,640017.2906334026 483718.9643098479,640001.6801855029 483732.1935029784,639995.3301727959 483765.00190192834,639964.1092769753 483762.0914794393,639971.7822089928 483693.2996751899,639967.2842833269 483693.29967518896,639983.1593150944 483607.0453360081,639983.1593150944 483606.7807521494))POLYGON((640049.5698646684 483545.92646377813,640045.8656905943 483566.82858890854,640024.9635654272 483565.50566959847,640028.9323233614 483544.0743767377,640049.5698646684 483545.92646377813))POLYGON((640015.1739624897 483439.5637510475,640065.7094802958 483448.82418623846,640063.5928093935 483458.8783730073,640066.2386480268 483459.14295687806,640052.2157033016 483535.0785254082,640000.3572661739 483531.90351905674,639993.4780857463 483564.71191800945,640045.8656905943 483567.0931727784,640036.0760876634 483616.8349389285,639983.4238989546 483606.78075215034,640014.9093786295 483439.2991671879,640015.1739624897 483439.5637510475))POLYGON((639936.8042223174 483417.6032904601,640008.771033011 483430.3033158574,640001.8918525729 483450.41168940905,639933.100048233 483429.77414812986,639937.333390038 483417.6032904601,639936.2750545868 483417.60329045914,639936.8042223174 483417.6032904601))POLYGON((639924.104196902 483445.1200121604,639918.2833519167 483510.2076423308,639987.6043239869 483517.61599048134,639995.0126721442 483454.1158634769,639995.0126721441 483453.0575280301,639924.104196902 483445.1200121604))POLYGON((639844.0014324493 483743.57060906105,639881.0431732472 483747.01019927114,639877.3389991634 483775.05608869065,639872.8410734977 483779.5540143596,639840.0326745055 483777.17275958974,639844.0014324493 483743.57060906105))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.9205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 0.9205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 0.9205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.9205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.9205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.9205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.9205
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.9205
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": null,
+      "area_ha": 0.343
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.343
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.343
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.343
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.343
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.343
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-06-11",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.93.2019.SSz",
+    "decisions": [
+      {
+        "issue_date": "2020-10-30",
+        "reference": "WOOŚ-IV.515.93.2019.SSz",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-05-06",
+        "reference": "WOOŚ-IV.515.93.2019.SSz.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-11-12",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-10-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

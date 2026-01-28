@@ -1,0 +1,62 @@
+{
+  "registry_id": 316,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "płocki",
+    "municipality": "Słupno",
+    "address": "Miszewko Strzałkowskie",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((555993.5926679061 518110.28744373284,557020.1780544121 518126.16247547884,557017.5322157921 519367.0607906077,556514.822877039 519372.3524678601,556488.364490789 518681.7885867413,555988.300990656 518631.51765286364,555993.5926679061 518110.28744373284))",
+    "site_description": "teren stacji"
+  },
+  "occurrence_time": {
+    "date": "2010-10-15",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu produktami ropopochodnymi na terenie I nitki Bazy Surowcowej Plebanka należącej do PERN \"Przyjaźń\" S.A. zlokalizowanej w Miszewku Strzałkowskim, gm.Słupno",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PERN Przyjaźń S.A.",
+      "address": "Ul. Wyszogrodzka 133 09-410 Płock",
+      "legal_form": "podmiot korzystajcy ze srodowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PERN \"Przyjaźń\" S.A.",
+      "address": "Płock Wyszogrodzka",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2010-10-15",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

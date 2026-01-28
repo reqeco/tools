@@ -1,0 +1,100 @@
+{
+  "registry_id": 656,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.002,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Olsztyn",
+    "municipality": "Olsztyn",
+    "address": "ul. Kuronia Olsztyn",
+    "precinct": "31 miasto Olsztyn",
+    "parcel_numbers": [
+      "1/127"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((596808.3867336162 658587.916491976,596813.4138270072 658586.8581565283,596814.3398705174 658590.8269144576,596809.5773609965 658591.7529579792,596808.5190255463 658588.1810758393,596808.3867336162 658587.916491976))",
+    "site_description": "Zidentyfikowane przez starostę potencjalne historyczne zanieczyszczenie powierzchni ziemi jest związane z funkcjonowaniem w przeszłości na tym terenie stacji paliw oraz punktu obsługi technicznej pojazdów, w tym ciężarowych. Obecnie teren ten stanowi drogę dojazdową nieutwardzoną."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Olsztyn",
+      "address": "Plac Jana Pawła II 1 10-101 olsztyn",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "316 mg/kg s.m.",
+      "area_ha": 0.002
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-08-14",
+    "legal_basis": "101l ust.2 Prawa ochrony środowiska",
+    "case_reference": "WSI.515.7.2024",
+    "decisions": [
+      {
+        "issue_date": "2019-03-06",
+        "reference": "WSI.513.40.2018.KPi.JJ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 1 POŚ",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-10-01",
+        "reference": "WSI.515.16.2019.KPi.JJ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101f ust.1 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-11-06",
+        "reference": "WSI.515.7.2024.KPi.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101l ust. 4 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Olsztyn",
+        "address": "Plac Jana Pawła II 1 10-101 olsztyn",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-12-01",
+    "planned_end": "2027-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metodą ex-situ, która polega na kontrolowanym wydobyciu zanieczyszczonego gruntu zalegającego na powierzchni ok. 20,0 m2 i głębokości 0,25-1,0 m ppt, o łącznej masie oszacowanej na ok. 27,0 Mg. Zanieczyszczony grunt, niespełniający standardów określonych dla gruntów grupy IV, po wydobyciu należy traktować jako odpad. Odpady zostaną sklasyfikowane przez wytwórcę odpadów zgodnie z rozporządzeniem Ministra Klimatu z dnia 2 stycznia 2020 r. w sprawie katalogu odpadów (Dz. U. z 2020 r., poz. 10), a następnie załadowane na samochody przystosowane do transportu odpadów i przekazane do przetworzenia (odzysku) lub zagospodarowania zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r. poz. 1587, z późn. zm.). Na potwierdzenie przekazania odpadów uprawnionym odbiorcom wystawione zostaną karty przekazania odpadów.  Po usunięciu zanieczyszczonej partii gruntów, powstały wykop zostanie opróbowany (2 próbki z dna i 2 próbki ze ścian wykopu) i przebadany pod kątem oceny osiągnięcia efektu ekologicznego.",
+    "ecological_effect": "Po przeprowadzeniu remediacji stężenie cynku w glebie i ziemi będzie odpowiadać co najmniej dopuszczalnej zawartości, określonej w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy IV i głębokości przekraczającej 0,25 m ppt. Zawartość cynku w glebie i w ziemi, przy wodoprzepuszczalności wyższej lub równej 1x10-7 m/s, nie będzie zatem przekraczać: 300 mg/kg s.m.",
+    "effect_assessment": null
+  },
+  "notes": "Pismem z 9 czerwca 2021 r. znak: TD.471.16.4.1.2021.HS przekazano \"Dokumentację badań wstępnych stanu środowiska gruntowego na terenie działki nr 1/127 obręb 31 miasta Olsztyna\". Natomiast Pismem z 9 listopada 2021 r., znak: TD.471.16.8.1.2021.HS - „Dokumentację badań szczegółowych stanu środowiska gruntowego na terenie działki o nr ew. 1/127 obręb 31 miasta Olsztyna zlokalizowanej w rejonie ul. Jacka Kuronia w Olsztynie”, Pismem z 18.11.2021 r., znak: WSI.515.16.2019.KPi.JJ.7 Regionalny Dyrektor Ochrony Środowiska w Olsztynie poinformował władającego powierzchnią ziemi o konieczności przeprowadzenia remediacji."
+}

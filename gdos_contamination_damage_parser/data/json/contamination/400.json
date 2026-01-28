@@ -1,0 +1,148 @@
+{
+  "registry_id": 400,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0136,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "gorzowski",
+    "municipality": "Santok",
+    "address": "Lipki Wielkie",
+    "precinct": "Lipki Wielkie",
+    "parcel_numbers": [
+      "557 obręb Lipki Wielkie"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((265592.15573011024 545477.4031526335,265591.22968657163 545470.5239722133,265597.8442833384 545469.8625125512,265598.5057430095 545476.2125252504,265592.15573011024 545477.4031526335))",
+    "site_description": "teren po byłej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2,24",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2815",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "23590",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "15477",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "90,90",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "2369,00",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "812,00",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "3232,00",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "36,00",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-05-25",
+    "legal_basis": "art. 61 kpa",
+    "case_reference": "WZŚ.512.26.2021.KM",
+    "decisions": [
+      {
+        "issue_date": "2018-08-23",
+        "reference": "WZŚ.512.13.2018.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-11-10",
+        "reference": "WZŚ.512.26.2021.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "101 q ust. 1 pkt 2 ppkt c",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 2 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2021-11-30",
+    "planned_end": "2041-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Decyzją z dnia 23 sierpnia 2018 r., znak: WZŚ.512.13.2018.KM Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wlkp. ustalił plan remediacji historycznego zanieczyszczenia powierzchni ziemi, terenu działki nr 557 obręb Lipki Wielkie, gm. Santok, zanieczyszczonej składnikami frakcji benzyn (suma węglowodorów C6-C12), składnikami frakcji oleju (suma węglowodorów C12-C35) oraz BTEX. Ze względów technicznych, zanieczyszczona substancjami ropopochodnymi gleba/ziemia nie została w całości wybrana w ramach remediacji, Przeprowadzone dotychczas prace remediacyjne metodą ex-situ umożliwiły swobodny dopływ tlenu oraz zwiększenie wilgotności, co ma znaczny wpływ na uaktywnienie się autochtonicznych mikroorganizmów odżywiających się substancjami ropopochodnymi. Stworzenie dogodnych warunków do rozwoju, przy niewielkich przekroczeniach dopuszczalnych norm, sprzyja procesowi samooczyszczania.",
+    "ecological_effect": "zanieczyszczenie nie zostało usunięte w całości",
+    "effect_assessment": null
+  },
+  "notes": null
+}

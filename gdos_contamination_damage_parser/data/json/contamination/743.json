@@ -1,0 +1,175 @@
+{
+  "registry_id": 743,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.23,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "municipality": "Brzeg",
+    "address": "ul. Kusocińskiego",
+    "precinct": "1103",
+    "parcel_numbers": [
+      "13/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((391549.57458792854 333204.23990299366,391524.968288713 333175.1356781153,391570.7412969337 333136.50643419474,391594.28926069883 333165.8752429355,391594.28926069895 333165.61065906566,391549.57458792854 333204.23990299366))",
+    "site_description": "teren nieużytkowany, niezabudowany"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Historyczne zanieczyszczenie powierzchni ziemi jest wynikiem działania, na tym terenie, w latach 70 - tych gazowni miejskiej, wykorzystującej do produkcji gazu, węgiel kamienny"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": "działalność nieznana"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": "45.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "95 - 181",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "0,5 - 8,6",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "8 - 44,6",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyjanki wolne",
+      "concentration": "0,5 - 8,0",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,364-2,0",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,216-0,46",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,58-4,37",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "2,04-6,4",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,56-4,98",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,95-2,63",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "2,96-8,5",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,57-4,10",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,41-0,97",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,66-4,3",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-06",
+    "legal_basis": "101l ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2018 r., poz. 799 z późn. zm.)",
+    "case_reference": "WOOŚ.515.22.2018",
+    "decisions": [
+      {
+        "issue_date": "2019-05-27",
+        "reference": "WOOŚ.515.22.2018.MO.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "(…)",
+        "address": "(…)",
+        "economic_activity_code": "45.20.Z"
+      }
+    ],
+    "planned_start": "2019-05-28",
+    "planned_end": "2019-10-31",
+    "actual_end": "2019-10-31",
+    "method": null,
+    "description": "Metoda ex situ, usunięcie zanieczyszczonego gruntu",
+    "ecological_effect": "Przedłożenie dokumentacji powykonawczej potwierdzającej osiągnięcie zakładanego efektu ekologicznego, tj. wykonanie analiz laboratoryjnych próbek gruntów,  na zawartość substancji powodujących ryzyko (wielopierścieniowych węglowodorów aromatycznych, cyjanków, sumy węglowodorów C12 - C35 (składników frakcji oleju) oraz ołowiu, wykonanych przez akredytowane laboratorium, których wartości w glebie i ziemi nie będą przekraczać dopuszczalnych zawartości, określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

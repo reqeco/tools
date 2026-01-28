@@ -1,0 +1,116 @@
+{
+  "registry_id": 67,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "municipality": "Lublin",
+    "address": "ul. Ruska 1",
+    "precinct": "0007 Czwartek",
+    "parcel_numbers": [
+      "066301_1.0007.AR_4.35"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((748999.3520260182 382348.76254778355,748991.5468017922 382349.82088321913,748986.2551243555 382350.7469267361,748982.1540743407 382351.4083863916,748980.5665711153 382352.0698460527,748973.1582226927 382346.77816879563,748967.2050855593 382340.0312802922,749006.760374399 382329.71250968706,749010.7291324977 382345.4552495023,748998.8228582699 382349.0271316441,748999.3520260182 382348.76254778355))",
+    "site_description": "teren Stacji Paliw PKN ORLEN S.A. Nr 364 w Lublinie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-10-01",
+    "description": "okres eksploatacji stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Zanieczyszczenie gruntu w wyniku modernizacji Stacji Paliw PKN ORLEN S.A. Nr 364 w Lublinie przy ul. Ruskiej 1.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "550-700 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "750 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": "22,1-25,1 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-02-10",
+    "detection_date": "2007-10-01",
+    "decisions": [
+      {
+        "issue_date": "2010-05-26",
+        "reference": "WSI.511.3.2011.RSZ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-12-17",
+        "reference": "WSI.511.3.2011.RSZ.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-05-30",
+    "planned_end": "2014-01-30",
+    "actual_end": "2014-12-08",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczonego substancjami ropopochodnymi gruntu i oczyszczenie środowiska gruntowo-wodnego metodą in-situ przy bieżącej kontroli zasięgu zanieczyszczenia, jako uzupełnienie prac rekultywacyjnych przeprowadzonych metodą ex-situ.",
+    "ecological_effect": "Grunty na terenie stacji paliw zostały w większości doprowadzone do standardów jakości gleby i ziemi obowiązujących dla grupy C.",
+    "effect_assessment": null
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki własne podmiotu korzystającego ze środowiska",
+    "covered_by_obligee": "Polski Koncern Naftowy ORLEN S.A.",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

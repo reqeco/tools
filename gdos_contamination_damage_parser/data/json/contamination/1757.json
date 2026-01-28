@@ -1,0 +1,110 @@
+{
+  "registry_id": 1757,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0173,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Elbląg",
+    "municipality": "Elbląg",
+    "address": "ul. Warszawska 45 82-300 Elbląg",
+    "precinct": "0015 Elbląg",
+    "parcel_numbers": [
+      "286101_1.0015.220/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((525536.7662052903 699219.1873759134,525539.1474600503 699208.7363133449,525554.6256160103 699212.7050712826,525551.8474854502 699223.2884257827,525537.0307891503 699219.1873759134,525536.7662052903 699219.1873759134))",
+    "site_description": "Zidentyfikowane przez Prezydenta Elbląga potencjalne historyczne zanieczyszczenie powierzchni ziemi związane jest z prowadzeniem na tym terenie działalności w zakresie produkcji wyrobów z tworzyw sztucznych (PKD 22.2). Aktualnie na działce znajduje się stacja transformatorowa."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ENERGA-OPERATOR S.A. z siedzibą w Gdańsku",
+      "address": "ul. Marynarki Polskiej 130, 80-557 Gdańsk",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "286101_1.0015.220/5"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "92,2 mg/kg s.m.",
+      "area_ha": 0.0173
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,173 mg/kg s.m.",
+      "area_ha": 0.0173
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,42 mg/kg s.m.",
+      "area_ha": 0.0173
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,324 mg/kg s.m.",
+      "area_ha": 0.0173
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,308 mg/kg s.m.",
+      "area_ha": 0.0173
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,512 mg/kg s.m.",
+      "area_ha": 0.0173
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,65 mg/kg s.m.",
+      "area_ha": 0.0173
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-11-24",
+    "legal_basis": "art. 101d ust. 6, 8 i 9 Poś",
+    "case_reference": "WSI.513.22.2022",
+    "decisions": [
+      {
+        "issue_date": "2023-01-26",
+        "reference": "WSI.513.22.2022.KPi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt 2 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

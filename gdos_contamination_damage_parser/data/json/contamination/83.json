@@ -1,0 +1,143 @@
+{
+  "registry_id": 83,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.011,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "municipality": "Otmuchów",
+    "address": "48-385 Otmuchów, ul. Mickiewicza 22",
+    "precinct": "Otmuchów",
+    "parcel_numbers": [
+      "1158 obręb Otmuchów"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((370259.5835097603 289848.82799710706,370260.24496941175 289837.31859908625,370258.5251743089 289830.04254288133,370290.5398217293 289842.34569248,370277.70750437427 289849.2248729104,370259.5835097603 289848.82799710706))",
+    "site_description": "Teren byłej stacji paliw, w sąsiedztwie pasa drogowego."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "PKN Orlen S. A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "465-1229 [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1530-2448  [mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "30,60[mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "77,80[mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "4,88-88,10[mg/kg s.m.]",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "1,23-29,40[mg/kg s.m.]",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-11-08",
+    "legal_basis": "art. 101 l ust.2",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2008-12-12",
+        "reference": "RDOŚ-16-WOOŚ-6618-007/08/jgd",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2011-07-29",
+        "reference": "WOOŚ.5150.2.2011.ER",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-01-29",
+        "reference": "WOOŚ.511.1.2.2015.KM.7  - decyzja odmowna",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-01-29",
+        "reference": "WOOŚ.515.5.2017.ER.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN Orlen S. A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2018-04-02",
+    "planned_end": "2022-04-30",
+    "actual_end": "2020-12-31",
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Remediacja przedmiotowego terenu będzie przeprowadzona zgodnie z art. 101 q ust. 1 pkt 2 a i b ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2017 r. poz. 519), zwanej dalej Poś i polegać będzie na:  3.1.\tzmniejszeniu ilości zanieczyszczeń poprzez zastosowanie technologii bioremediacji „in-situ”, polegającej na okresowym zadawaniu do gruntu autochtonicznych mikroorganizmów aplikowanych przez 8÷10 otworów, umieszczonych w ciągu w odstępach co około 4÷5 m, wspomagane cyklicznym chemicznym napowietrzaniem. W otworach należy zainstalować kolumnę filtracyjną z rury PVC o średnicy 110 mm  i długości 4,9 m, w tym część czynna filtra 2,0 m i część nadfiltrowa 2,9 m. Część czynną filtra stanowi filtr szczelinowy o długości 2,0 m, zabudowany w przedziale głębokości 3÷5 m ppt. Kolumna filtracyjna powinna być zakończona ok. 0,10 m poniżej poziomu terenu i zabezpieczona od góry stalową obudową z otwieranym wieczkiem. Obudowa powinna być zakończona na równo z poziomem terenu. Głębokość otworu oraz głębokość zafiltrowania należy ustalić z uprawnioną osobą   z nadzoru geologicznego w trakcie wiercenia otworów. Dawkowanie bioroztworu odbywać się będzie na poziomie ok. 50 litrów na jeden otwór technologiczny / 1 cykl, w cyklach miesięcznych przez pierwsze 2 lata (z możliwością przedłużenia tego czasu w zależności od wyników badań kontrolnych) w sezonie wegetacyjnym (kwiecień – październik). Po każdym cyklu dawkowania bioroztworu, należy w ciągu 12 godzin zastosować ręczną aplikację, do tych samych otworów, preparatu napowietrzającego. Teren, na którym prowadzone będą prace instalacyjne i eksploatacyjne otworów iniekcyjnych do bioremediacji, należy zabezpieczyć przed dostępem osób postronnych.  3.2.\tograniczeniu możliwości rozprzestrzeniania się zanieczyszczeń poprzez  okresowe prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie.  Po każdym rocznym okresie trwania procesu, pobrane zostaną próby gruntu z sąsiedztwa otworów technologicznych, w celu sprawdzenia stopnia oczyszczania gruntu. Po zakończeniu remediacji należy pobrać próby gruntu do badań w miejscach po likwidowanych otworach technologicznych. Zlikwidowane otwory należy wypełnić materiałem spoistym lub mieszaniną cementowo-iłową.",
+    "ecological_effect": "Potwierdzeniem przeprowadzenia remediacji będzie przedłożenie Regionalnemu Dyrektorowi Ochrony Środowiska w Opolu dokumentacji, w terminie do dwóch miesięcy od daty zakończenia robót ziemnych i wykonania badań gruntu, potwierdzającej osiągnięcie zakładanego efektu ekologicznego, opartej o wyniki analiz laboratoryjnych próbek gruntów, na zawartość substancji powodujących ryzyko (sumy węglowodorów C6-C12, składników frakcji benzyn, sumy węglowodorów C12-C35, składników frakcji oleju oraz węglowodorów aromatycznych (Benzen, Toluen, Etylobenzen, Ksyleny)), o których mowa w pkt 2 niniejszej decyzji, wykonanych przez akredytowane laboratorium.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,364 @@
+{
+  "registry_id": 94,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1399,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "prudnicki",
+    "municipality": "Głogówek",
+    "address": "48-250 Głogówek, ul. Dworcowa 2",
+    "precinct": "Głogówek",
+    "parcel_numbers": [
+      "690/3 obręb Głogówek"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((419377.56749937666 276852.91829581,419380.2133380031 276851.3307926459,419372.14353019226 276839.55681076366,419373.06957371236 276838.7630591765,419360.23725638085 276817.86093403306,419372.67269792233 276810.32029395364,419364.7351820414 276792.8577590212,419334.5726217182 276807.27757953294,419330.20698798756 276809.6588342916,419341.98096986895 276829.3703320548,419355.8716226501 276850.1401652647,419369.49769157177 276840.8797300765,419377.56749937666 276852.91829581))",
+    "site_description": "Głogówek, ul. Dworcowa 2"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "przed 30 kwietnia 2007 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa sp. z o. o.",
+      "address": "Polska Spółka Gazownictwa sp. z o.o. Oddział Zakład Gazowniczy w Opolu Ul. Armii Krajowej 2 45 – 071 Opole",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "35.21.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "17,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,812 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "3,73 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "3,91 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "4,41 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "3,97 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "3,95 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "2,31 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,228 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,42 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "113 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "165 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "56,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": ">2400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">3000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">3000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "3,64 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "8,22 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "111 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "61,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "49,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "> 100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "40,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "82,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "31,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "0,52 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "110 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "5,14 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "6,0 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-02-08",
+    "legal_basis": "art. 101l ust. 2 Poś",
+    "case_reference": "WOOŚ.515.3.2018.",
+    "decisions": [
+      {
+        "issue_date": "2020-06-24",
+        "reference": "WOOŚ.515.3.2018.ER.12",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa sp. z o. o.",
+        "address": "Polska Spółka Gazownictwa sp. z o.o. Oddział Zakład Gazowniczy w Opolu Ul. Armii Krajowej 2 45 – 071 Opole",
+        "economic_activity_code": "35.21.Z"
+      }
+    ],
+    "planned_start": "2023-04-01",
+    "planned_end": "2023-12-31",
+    "actual_end": "2023-10-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "3.\tSposób przeprowadzenia remediacji  Remediacja terenu, na działce nr 690/3 obręb Głogówek,  na której wydzielono 3 sekcje (I, II, III) realizować metodą „ex-situ” oraz metodą „in-situ”.  3.1.\tRemediację „in-situ”- metodą bioremediacji, prowadzić w ramach sekcji nr I-III, na których, w warstwie przypowierzchniowej gruntu (0,0-0,25 m ppt.), stwierdzono obecność związków z grupy WWA oraz fenolu, o przekroczonej dopuszczalnej zawartości tych substancji w glebie i w ziemi. Miejsca niedostępne (powierzchnie utwardzone, budynki), pozostawić do samooczyszczenia.   3.1.1.\tW ramach przygotowania do remediacji „in-situ”, na powierzchni ww. terenu wykonać zabiegi, polegające na koszeniu trawy, usunięciu chwastów, drobnej roślinności i niepożądanych zanieczyszczeń, zagrabieniu terenu oraz mechanicznemu spulchnieniu wierzchniej warstwy gruntu. 3.1.2.\tRemediację „in-situ” wykonywać w niżej określony sposób. Zabieg dozowania biopreparatu (wraz z substancjami pożywkowymi) przeprowadzić w okresie wiosenno-letnim.  Zabieg wykonać dwukrotnie, w odstępie po okresie jednego miesiąca od pierwszego dawkowania, na całej powierzchni biodostępnej, stanowiącej ok. 0,07 ha. Po okresie 2 miesięcy, po pierwszej aplikacji biopreparatu, pobrać 1 próbkę zbiorczą z każdej sekcji, w celu wykonania badań gruntu weryfikujących skuteczność procesu bioremediacji, polegającej na doprowadzeniu ilości zanieczyszczeń do zawartości nieprzekraczających wartości określonych w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395). Do zanieczyszczonej gleby dozować specjalnie wyizolowane szczepy bakterii aerobowych (biopreparaty dedykowane do usuwania zanieczyszczeń węglowodorowych) oraz stymulować proces biodegradacji, poprzez wprowadzenie wszystkich niezbędnych dla bakterii substancji pożywkowych, zawierających biopierwiastki, głównie azot i fosfor oraz zapewnić naturalny obieg tlenu w zanieczyszczonej warstwie gleby. Dozowanie biopreparatu  wykonać metodą kontrolowanego rozdeszczowania na odsłoniętych powierzchniach.   3.2.\tRemediacja „in-situ”- samooczyszczenie wspomagane naturalną bioremediacją - terenów zanieczyszczonych pojedynczymi związkami o znikomych przekroczeniach wartości dopuszczalnych: naftalenem oraz fenolem, w gruntach poniżej  0,25 m ppt. Teren zanieczyszczony naftalenem, na głębokości poniżej 0,25 m ppt (0,6 – 0,8 m ppt), w rejonie otworu 0-5 w III sekcji oraz teren zanieczyszczony fenolem, na głębokości poniżej 0,25 m ppt (0,8 – 1,0 m ppt), w rejonie otworu 0-6 w II sekcji, pozostawić do \"samooczyszczenia\".  3.2.1. W ramach przygotowania do remediacji „in-situ”, w rejonie otworów 0-5 i 0-6, na których stwierdzono zanieczyszczenie naftalenem i fenolem, do czasu zakończenia procesu samooczyszczenia, ograniczyć dostęp osobom postronnym i nie prowadzić działań inwestycyjnych. 3.2.2.  Remediację „in-situ” wykonywać w niżej określony sposób.  Rejon otworu 0-5 (sekcja III) oraz rejon otworu 0-6 (sekcja II), pozostawić do \"samooczyszczenia.  Prowadzić okresowe badania zanieczyszczenia gleby i ziemi (co najmniej dwa badania, na rozpoczęcie i zakończenie procesu samooczyszczania).   3.3.\tRemediacja „in-situ”- solidyfikacja - terenów zanieczyszczonych WWA, składnikami frakcji benzyn - suma węglowodorów C6- C12, składnikami frakcji oleju - suma węglowodorów C12- C35, węglowodorami aromatycznymi (toluen, etylobenzen, ksyleny), fenolem, cyjankami kompleksowymi, w gruntach poniżej 0,25 m ppt. Na terenie zanieczyszczonym ww. substancjami, na głębokości poniżej 0,25 m, w rejonie otworów 0-2, 0-3, 0-4, przeprowadzić immobilizację zanieczyszczeń w środowisku. W ramach ww. otworów, włącza się obszary występowania zbiorników posmołowych nr 1 i nr 2.  3.3.1. W ramach przygotowania do remediacji „in-situ”- solidyfikacji, zabezpieczyć teren działań remediacyjnych w rejonie otworów 0-2, 0-3, 0-4, stanowiący obszar o powierzchni 200 m2 i głębokości do 8 m ppt. oraz ograniczyć dostęp osobom postronnym.  3.3.2.  Remediację „in-situ”- solidyfikację wykonywać w niżej określony sposób.  Do iniekcji zastosować zaczyn zestalający, na bazie gotowej do użycia mieszanki iniekcyjnej. Zapotrzebowanie gotowego środka iniekcyjnego do przygotowania zaczynu wynosi 220 kg/m3 wody. Średnie zużycie zaczynu zestalającego przyjęto na poziomie 15 %. Optymalny skład mieszanki oraz jej dawka należy określić w oparciu o badania technologiczne, przeprowadzone na etapie prac wykonawczych. Doświadczalnie określić wodochłonność jednostkową, pozwoli to na ewentualną korektę składu suspensji i jej ilości. Suspensja cementowa wtłaczana będzie w poszczególne warstwy gruntu za pomocą otworów iniekcyjnych Ø 20 – 75 mm (zależnie od zastosowanej techniki wtłaczania) w siatce 2x2 m. Ze względów technologicznych przyjęto iniekcję niskociśnieniową do 2 bar. Podstawowe dane iniekcji solidyfikacyjnej: •\tpowierzchnia iniekcji F - 200 m2, •\tkubatura iniekcji V – 1600 m3, •\tobliczeniowa średnia głębokość iniekcji H – 8,0 m (H=V/F), •\tilość otworów iniekcyjnych – 8 sztuk, •\tilość wody do przygotowania suspensji – 204 m3, •\tilość gotowej mieszanki iniekcyjnej – 272 Mg, •\tzałożony okres realizacji prac – 6 miesięcy. Iniekcję wykonać przy użyciu typowej wiertnicy obrotowej wyposażonej w specjalistyczną głowicę iniekcyjną o średnicy ok. 65 mm. Głowica iniekcyjna posiada wysuwaną samoczynnie (ciśnieniowo) część perforowaną, przez którą tłoczona jest suspensja iniekcyjna w grunt. Głowica wraz z rurami przedłużającymi, wciskana jest obrotowo w grunt na zadaną głębokość. W przypadku gruntów bardzo zwięzłych, w pierwszym etapie, wykonuje się wstępne podwiercenie gruntu, bez wyciągania urobku – zruszenie gruntu. Po osiągnięciu zadanej głębokości następuje podciągnięcie rur wiertniczych o około 70 cm (wysokość części perforowanej) i rozpoczęcie zatłaczania mieszanki iniekcyjnej. Mieszanka iniekcyjna przygotowywana jest w specjalistycznym mieszalniku i podawaną pompą membranową, pneumatyczną pod ciśnieniem 2 bar. Po wtłoczeniu określonej ilości mieszanki, wynikającej z przyjętych założeń i obliczeń (zwykle 15 % obszaru solidyfikowanego), następuje podciągnięcie głowicy o 70 cm i proces jest kontynuowany, aż do osiągnięcia górnego poziomu iniekcji. Kontrolę prawidłowości iniekcji prowadzić na podstawie zapisów z ilości środka iniekcyjnego, wprowadzonej do każdego z otworów iniekcyjnych i porównania tych ilości z wielkościami obliczeniowymi.  3.4.\tLikwidacja i ograniczenie emisji zanieczyszczeń, wynikające z obecności     zbiorników posmołowych.  3.4.1.\tW ramach przygotowania do likwidacji zbiorników posmołowych, wykonać ekspertyzę budowlaną, określającą oddziaływanie tych prac na istniejące budynki, wybór technologii wykonania lub wykluczającą możliwość przeprowadzenia rozbiórki. 3.4.2.\tW przypadku braku możliwości wykonania rozbiórki zbiorników posmołowych, przeprowadzić działania, polegające na wyeliminowaniu lub ograniczeniu rozprzestrzeniania się zanieczyszczeń. W takim przypadku, wykonać remediację zbiornika na smołę pogazową przy użyciu metody „zabezpiecz-zostaw”, polegającą na zatłoczeniu pod ciśnieniem zaczynu cementowo-bentonitowego do zbiornika.  3.5.\tRemediacja „ex-situ” – terenu w rejonie otworu 0-1 w sekcji III,  zanieczyszczonego ołowiem, WWA, składnikami frakcji benzyn - suma węglowodorów C6- C12, składnikami frakcji oleju - suma węglowodorów C12- C35, węglowodorami aromatycznymi (toluen, ksyleny), fenolem, cyjankami kompleksowymi, w gruntach poniżej 0,25 m ppt.  3.5.1.\tPrzygotowanie powierzchni terenu do remediacji „ex-situ”. Obszar objęty remediacją „ex-situ” wydzielić i zabezpieczyć przed dostępem osób trzecich. 3.5.2.\tRemediację „ex-situ” wykonać w niżej określony sposób. Wybrać za pomocą koparki, warstwę zanieczyszczonych gruntów do głębokości maksymalnie 3,0 m ppt.  Zanieczyszczony grunt bezpośrednio ładować na ciężarówki, celem wywiezienia do unieszkodliwienia przez uprawniony podmiot.  Po usunięciu zanieczyszczonego gruntu do wymaganej głębokości, pobrać próbki kontrolne z wykopów.  Po likwidacji źródła zanieczyszczenia gruntu, wykop zasypać czystym gruntem zasypowym, odpowiednio zagęszczonym.  Wierzchnią warstwę zasypu pokryć 10 cm warstwą humusu w celu odtworzenia naturalnego środowiska.",
+    "ecological_effect": "W wyniku przeprowadzonej remediacji, osiągnięto zakładany efekt ekologiczny.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,113 @@
+{
+  "registry_id": 146,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.6024,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Rybnik",
+    "municipality": "Rybnik",
+    "address": "44-213 Rybnik, ul. Robotnicza 2",
+    "precinct": "0112 Kamień a. m. 1",
+    "parcel_numbers": [
+      "1249/312",
+      "1250/312",
+      "1251/312",
+      "1252/312",
+      "1862/312",
+      "1863/312"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((471391.126000 251861.647000,471400.426000 251871.777000,471414.323000 251881.045000,471458.566000 251905.469000,471478.023000 251914.263000,471502.180000 251921.735000,471524.907000 251929.157100,471531.041000 251931.163000,471555.067000 251935.589000,471571.559000 251938.636000,471580.730000 251939.123000,471607.645000 251940.531000,471609.166000 251940.661100,471613.580000 251940.412000,471649.331000 251938.244100,471673.314000 251949.876000,471680.907000 251953.382000,471683.036000 251948.946000,471653.411000 251933.951000,471642.026000 251923.370000,471611.143000 251925.653000,471574.934000 251924.978000,471538.212000 251920.343000,471498.906000 251910.096000,471466.780000 251897.153000,471428.193000 251876.362000,471403.544000 251862.040000,471396.998000 251853.832000,471402.450000 251846.753000,471376.923000 251819.820000,471446.067000 251749.092000,471430.017000 251732.756000,471317.504000 251622.804000,471350.479000 251588.721000,471349.271000 251586.587900,471324.632000 251542.352000,471317.155000 251528.100000,471260.601000 251586.637000,471258.314000 251589.006000,471298.052000 251627.062000,471225.864000 251701.140000,471215.798000 251711.469000,471201.647000 251721.213000,471193.416000 251724.592000,471180.624000 251724.613000,471140.781000 251716.802000,471144.825000 251729.251000,471176.897000 251732.909000,471305.881000 251859.301000,471355.779000 251908.205000,471391.126000 251861.647000))",
+    "site_description": "Teren dawnej bazy magazynowej na terenie byłego Zakładu Produktów Naftowych nr 10"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1962-01-01",
+    "to": "2007-04-30",
+    "description": "Baza magazynowana terenie byłego Zakładu Produktów Naftowych nr 10 przy ul. Robotniczej 2 w Rybniku-Kamieniu, oddanego do eksploatacji w 1961 r. Obiekt pełnił funkcję magazynowo-dystrybucyjną produktów naftowych oraz miejscem konfekcjonowania płynu do spryskiwaczy samochodowych."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "11000",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-02-18",
+    "legal_basis": "art. 101 l ust. 2 Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2015-04-24",
+        "reference": "WSI.511.2.2015.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-03-11",
+        "reference": "WSI.511.2.2016.SA (decyzja zmieniająca)",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2016-11-10",
+        "reference": "WSI.511.18.2016.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-12-27",
+        "reference": "WSI.515.15.2018.SA",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": "19.20.Z"
+      }
+    ],
+    "planned_start": "2015-06-30",
+    "planned_end": "2020-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Ziemia zaklasyfikowana jako przeznaczona do rekultywacji zostanie usunięta i przeznaczona do odzysku/unieszkodliwiania. Usunięta z terenu ziemia zostanie w miare potrzeby zastąpiona ziemią w odpowiedniej ilości, wolną od zanieczyszczeń.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

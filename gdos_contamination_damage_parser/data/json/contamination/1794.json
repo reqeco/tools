@@ -1,0 +1,227 @@
+{
+  "registry_id": 1794,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1002,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "mogileński",
+    "municipality": "Strzelno",
+    "address": "Plac Świętokrzyski 6 88-320 Strzelno",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "18/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((443840.7624671422 530467.6283124071,443871.98336292256 530504.9346370166,443908.7605198127 530477.6824991787,443901.88133938255 530467.8928962685,443910.34802298265 530459.4262126666,443887.8583946726 530424.7657266762,443872.2479467825 530437.4657520782,443898.9709169026 530470.0095671676,443875.9521208625 530489.5887729963,443868.2791888425 530480.5929216668,443885.74172377255 530460.2199642565,443868.01460498234 530442.2282616068,443840.7624671422 530467.6283124071))",
+    "site_description": "Teren dawnej gazowni klasycznej w Strzelnie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1901-01-01",
+    "to": "1984-12-31",
+    "description": "przed 30.04.2007 r."
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+      "address": "ul. Wojciecha Bandrowskiego 16; 33-100 Tarnów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "18/10"
+      ],
+      "economic_activity_code": "35.21.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "7,14 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "5,80 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "13,8 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "17,4 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "14,0 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "11,0 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "11,4 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "6,34 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,422 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "6,12 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Fenol",
+      "concentration": "1,93 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "187 mg/kg s.m.",
+      "area_ha": 0.9789
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "164 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "95,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "36,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "68,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "51,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "42,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "34 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "28,3 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-11-14",
+    "legal_basis": "101c ust. 3 pkt 3 i ust 4 POŚ",
+    "case_reference": "WSS.513.6.2022.BW",
+    "decisions": [
+      {
+        "issue_date": "2023-03-21",
+        "reference": null,
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-08-29",
+        "reference": "WSS.515.8.2024.SG.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa Sp. z o.o.",
+        "address": "ul. Wojciecha Bandrowskiego 16; 33-100 Tarnów",
+        "economic_activity_code": "35.21.Z"
+      }
+    ],
+    "planned_start": "2026-04-01",
+    "planned_end": "2030-12-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zmniejszenie ilości zanieczyszczeń",
+    "description": "Gleba zostanie poddana remediacji metodą in- situ, polegającą na naturalnej biodegradacji zanieczyszczeń oraz metodą ex-situ polegającą na usunięciu z badanego terenu i przekazaniu do unieszkodliwienia zanieczyszczonych gruntów.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "WSS.513.6.2022.BW"
+}

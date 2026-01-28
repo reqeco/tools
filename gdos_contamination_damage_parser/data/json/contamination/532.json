@@ -1,0 +1,138 @@
+{
+  "registry_id": 532,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.37,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Jana Pawła II",
+    "precinct": "0033",
+    "parcel_numbers": [
+      "71/23",
+      "82/6",
+      "82/10",
+      "82/13",
+      "93/6",
+      "93/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((474053.12050206965 725518.5182199161,474076.40388196957 725503.1723558865,473884.8451655197 725196.2550753849,473874.7909787398 725167.6800182359,473870.5576369396 725071.3714922853,473859.18053085706 725058.1422991622,473856.5346922279 724970.5650406731,473847.80342476646 724962.0983570674,473805.20542290324 725014.5521078072,473751.49489881523 725061.7141813003,473734.82611547736 725079.5735920193,473718.1573321397 725097.8298785351,473684.2905977397 725136.988290186,473683.2322622897 725157.0966637349,473730.8573575397 725168.7383536855,473756.7865760697 725180.3800436351,473779.54078823974 725197.8425785555,473836.69090253965 725249.7010156075,473921.3577385397 725379.3471082365,473983.27036236966 725479.3598082643,474053.12050206965 725518.5182199161))",
+    "site_description": "dawny pas startowy lotniska"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "BUDIMEX NIERUCHOMOŚCI Sp. z o.o.",
+      "address": "ul. Stawki 40, 01-040 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,215 mg/kg s.m.",
+      "area_ha": 1.37
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,450-0,699 mg/kg s.m.",
+      "area_ha": 1.37
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,16-0,625 mg/kg s.m.",
+      "area_ha": 1.37
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,145-0,474mg/kg s.m.",
+      "area_ha": 1.37
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,146-0,435 mg/kg s.m.",
+      "area_ha": 1.37
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,142-0,482 mg/kg s.m.",
+      "area_ha": 1.37
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,261-0,280 mg/kg s.m.",
+      "area_ha": 1.37
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,274-0,308 mg/kg s.m.",
+      "area_ha": 1.37
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-02-12",
+    "legal_basis": "101 l ust. 4 i art. 101 p p.o.ś art. 104 k.p.a",
+    "case_reference": "RDOŚ-Gd-WZS.515.3.2018.MB",
+    "decisions": [
+      {
+        "issue_date": "2019-01-21",
+        "reference": "RDOŚ-Gd-WZS.515.3.2018.MB.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "BUDIMEX NIERUCHOMOŚCI Sp. z o.o.",
+        "address": "ul. Stawki 40, 01-040 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2019-01-25",
+    "planned_end": "2020-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metodą ex situ usuniecie powierzchniowej warstwy zanieczyszczonego gruntu do głębokości 0,25 m p.ppt ok 4.100 m 3 tj 8.200 Mg odpadu.  Przekazano wyjaśnienia i uzupełnienia do sprawozdania. Po rozpatrzeniu całości materiałów i wyjaśnień RDOŚ w Gdańsku przyjął sprawozdanie.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Oczekiwanie na opinię WIOŚ'u w Gdańsku związaną ze sprawozdaniem"
+}

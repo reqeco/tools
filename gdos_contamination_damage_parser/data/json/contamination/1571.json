@@ -1,0 +1,177 @@
+{
+  "registry_id": 1571,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 8.22,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Ujastek 1, Kraków",
+    "precinct": "20 Nowa Huta",
+    "parcel_numbers": [
+      "126103_9.0020.1/15",
+      "126103_9.0020.1/540"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((577702.656422282 247291.55088455882,577715.8856154124 247276.20502052922,577730.1731439828 247282.02586550917,577897.9193128175 247408.4969517775,577882.0442810673 247427.5469898777,577702.656422282 247291.55088455882), (577571.6344935684 247465.64706608932,577620.58250813 247527.82427377906,577607.3533150095 247537.0847089598,577723.770214513 247658.7932857098,577821.6662436356 247723.61633202713,577915.5935148284 247761.98099208716,578018.7812212112 247779.17894314695,578127.2606048344 247779.17894314602,578223.8337146571 247750.07471827604,578346.8652107207 247685.251671955,578239.7087464076 247654.82452777494,578169.5940228356 247657.470366396,577682.7597158214 247298.95923270844,577644.3950557604 247347.90724727977,577689.3743123817 247384.94898802973,577668.207603381 247416.69905152917,577636.4575398804 247399.50110046007,577571.6344935684 247465.64706608932)))",
+    "site_description": "teren instalacji Walcownia Rur w granicach Kombinatu Metalurgicznego ArcelorMittal Oddzial w Krakowie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "okres funkcjonowania instalacji Walcownia Rur"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja rur, przewodów, kształtowników zamkniętych i łączników, ze stali",
+    "current": "Produkcja rur, przewodów, kształtowników zamkniętych i łączników, ze stali"
+  },
+  "land_holders": [
+    {
+      "name": "ArcelorMittal Tubular Products Kraków Sp. z o.o.",
+      "address": "ul. Ujastek 1, 31-572 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "24 700-354 000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "15,7 -392 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "653 - 1030 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "605 - 5 300mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "1630 - 2330 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": "253 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "869 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "2110 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "3500 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "987 - 27 800mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "23,6mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "378 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "6420 - 11 100mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-06-17",
+    "legal_basis": "art. 61 §  1 Kpa",
+    "case_reference": "ZS.515.5.2025.MKub",
+    "decisions": [
+      {
+        "issue_date": "2022-01-18",
+        "reference": "ZS.513.13.2021.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-05-28",
+        "reference": "ZS.515.5.2024.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ArcelorMittal Tubular Products Kraków Sp. z o.o.",
+        "address": "ul. Ujastek 1, 31-572 Kraków",
+        "economic_activity_code": "24.20.Z"
+      }
+    ],
+    "planned_start": "2025-06-01",
+    "planned_end": "2025-12-01",
+    "actual_end": null,
+    "method": null,
+    "description": "zmniejszenie ilości występujących zanieczyszczeń do stanu, który nie stwarza zagrożenia dla zdrowia ludzi i środowiska, poprzez przeprowadzenie remediacji metodą ex-situ na obszarze 4642,62 m2.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

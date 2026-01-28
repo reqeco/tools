@@ -1,0 +1,81 @@
+{
+  "registry_id": 1286,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Polkowice",
+    "address": null,
+    "precinct": "Tarnówek",
+    "parcel_numbers": [
+      "271/2 obręb Tarnówek"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((303318.81342426815535873 408469.84815286844968796, 303298.86531579168513417 408490.01181403640657663, 303294.71777820849092677 408488.26288330182433128, 303199.53428271302254871 408448.03078112751245499, 303009.38352692394983023 408361.78690194059163332, 303032.9228402657317929 408406.07904212176799774, 303044.04289531102403998 408421.6427008118480444, 303055.15363269875524566 408423.39022452291101217, 303187.94602062669582665 408479.70397854875773191, 303285.56454460613895208 408522.25972131360322237, 303279.36240886274026707 408551.53052904456853867, 303287.35846548026893288 408555.37805902399122715, 303322.38245626981370151 408479.82930030487477779, 303328.96348553133429959 408472.84679891262203455, 303318.81342426815535873 408469.84815286844968796)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2019-02-17",
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Uszkodzenie i miejscowa nieszczelność rurociągu stalowego R1 DN 1000 przesyłającego wodę technologiczną",
+  "total_area_ha": 0.013,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A. z siedzibą w Lubinie, Oddział Zakład Hydrotechniczny",
+      "address": "ul. Polkowicka 52, 59-305 Rudna",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "KGHM Polska Miedź S.A. z siedzibą w Lubinie",
+      "address": "ul. Marii Skłodowskiej-Curie 48, 59-301 Lubin",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "2273 mg/kg s.m.",
+      "area_ha": 0.013
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2020-01-03",
+    "detection_date": "2019-02-17",
+    "decisions": [
+      {
+        "issue_date": "2020-06-03",
+        "reference": "WSI.511.3.2020.JS.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2020-07-01",
+    "planned_end": "2021-03-31",
+    "actual_end": "2020-09-25",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne przeprowadzono metoda ex-situ poprzez wydobycie zanieczyszczonego gruntu w ilości 32,5 m3 z warstwy 0,0-0,25 m ppt.",
+    "ecological_effect": "Osiągnięto pozytywny efekt ekologiczny. Wyniki badań próbek gruntu w zakresie substancji powodującej ryzyko (miedź) nie przekaraczają wartości dopuszczalnej dla IV grupy gruntów.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": "WSI.511.3.2020.JS"
+}

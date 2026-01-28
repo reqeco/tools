@@ -1,0 +1,60 @@
+{
+  "registry_id": 637,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Malbork (gmina miejska)",
+    "address": "Aleja Wojska Polskiego\tMalbork",
+    "precinct": "0009 Malbork",
+    "parcel_numbers": [
+      "1/14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((503327.84 685311.29,503326.08 685317.95,503422.78 685613.08,503568.57 685569.04,503626.88 685562.07,503639.49 685610.79,503676.72 685615.73,503682.02 685577.54,503794.41 685577.63,503843.95 685562.60,503885.76 685546.51,503939.86 685540.60,503957.77 685535.71,504165.01 685530.64,504180.20 685434.98,504160.18 685439.17,504141.90 685448.62,504016.15 685453.06,503966.62 685461.08,503951.17 685457.91,503935.36 685458.25,503861.24 685472.20,503829.97 685474.63,503764.27 685495.60,503740.38 685500.14,503730.91 685494.17,503662.05 685503.93,503641.35 685483.59,503694.07 685435.62,503730.29 685382.03,503699.08 685319.98,503679.83 685232.00,503676.02 685167.52,503644.75 685180.46,503655.61 685216.56,503593.07 685237.54,503580.10 685201.09,503574.83 685201.43,503569.21 685198.62,503567.11 685182.15,503588.64 685061.26,503586.59 684981.70,503565.59 684881.45,503555.08 684848.15,503530.87 684803.62,503461.64 684832.31,503485.12 684916.79,503500.16 685004.07,503495.22 685028.24,503481.49 685072.04,503422.03 685199.21,503426.27 685159.97,503416.76 685196.41,503397.76 685237.04,503391.09 685241.60,503381.94 685259.46,503327.46 685310.59,503327.84 685311.29))",
+    "site_description": "Na terenie była instalacja do napraw taboru kolejowego oraz stacja paliw."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja lokomotyw kolejowych oraz taboru szynowego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "POLSKIE KOLEJE PAŃSTWOWE SPÓŁKA AKCYJNA",
+      "address": "al. Aleje Jerozolimskie 142A,              02-305 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "1/14\t9\tmiasto Malbork"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.61.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.61.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

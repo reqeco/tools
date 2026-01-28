@@ -1,0 +1,177 @@
+{
+  "registry_id": 1015,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.895,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Stare Pole",
+    "address": "JW 1128 Malbork, Lotnisko w Królewie Malborskim",
+    "precinct": "0007 Stare Pole",
+    "parcel_numbers": [
+      "51"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((509412.94132584013 686289.2642450416,509418.2330030901 686272.0662939791,509394.42045547004 686249.5766656706,509379.86834303 686197.9828124801,509345.47244090994 686172.8473455403,509254.19100834004 686035.2637370415,509197.3054779099 685965.1490134811,509177.4616882199 685861.9613071028,509182.7533654699 685728.3464565407,508822.91931246995 685746.8673269209,508822.91931247 685814.3362118509,508878.48192358995 685963.826094171,508805.7213614 685982.3469645418,508803.0755227799 686002.190754232,508566.27296584 685992.9303190401,508571.56464309 686077.597155042,509001.5134196499 686183.4307000423,509000.1905003401 686166.2327489816,509344.1495215899 686260.1600201689,509352.0870374701 686274.7121326113,509410.29548722 686289.2642450416,509412.94132584013 686289.2642450416))",
+    "site_description": "część działki o nr ew. 51, na terenie Lotniska w Królewie Malborskim, w rejonie MPS ."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+      "address": "ul. Jana z Kolna 8B, 81-301 Gdynia",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "51"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "4,74 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,425 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,628 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,515 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,446 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,486 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,237 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,203 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "> 2400 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1059 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,46 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "13,2 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "24,2 mg/kg s.m.",
+      "area_ha": 0.895
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "13,2 mg/kg s.m.",
+      "area_ha": 0.895
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-11-20",
+    "legal_basis": "101l ust. 4",
+    "case_reference": "RDOŚ-Gd-WZS.515.20.2019",
+    "decisions": [
+      {
+        "issue_date": "2020-07-14",
+        "reference": "RDOŚ-Gd-WZS.515.20.2019.LK.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Rejonowy Zarząd Infrastruktury w Gdyni",
+        "address": "ul. Jana z Kolna 8B, 81-301 Gdynia",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-05-01",
+    "planned_end": "2029-05-01",
+    "actual_end": null,
+    "method": null,
+    "description": "Remediacja powierzchni ziemi odbywać się będzie za pomocą automatycznego systemu pneumatycznego. Dodatkowo planuje się zastosowanie biopreparatów z wyselekcjonowanych, autochtonicznych szczepów bakterii.",
+    "ecological_effect": "Przeprowadzone prace remediacyjne doprowadzą do: a)\tcałkowitego usunięcia zanieczyszczenia w obrębie najpłytszej warstwy wodonośnej – doprowadzenie do osiągnięcia dopuszczalnych stężeń substancji powodujących ryzyko szczególnie istotne dla ochrony powierzchni ziemi, określonych dla III grupy gruntów, zgodnie z Rozporządzeniem Ministra Środowiska z dnia 01 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395); b)\tzmniejszenia ilości zanieczyszczeń, dla gruntów o wodoprzepuszczalności poniżej   10-7 m/s w zakresie sumy węglowodorów C6-C12, składników frakcji benzyn – do poziomu 1000 mg/kg suchej masy.",
+    "effect_assessment": null
+  },
+  "notes": "własność Skarbu Państwa, w trwałym zarządzie RZI w Gdyni, użytkowany przez 22. BLT w Malborku"
+}

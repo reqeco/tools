@@ -1,0 +1,57 @@
+{
+  "registry_id": 2135,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kościerski",
+    "municipality": "Karsin",
+    "address": "jezioro Wielewskie - w okolicach wsi Wiele",
+    "precinct": "0010",
+    "parcel_numbers": [
+      "220603_2.0010.638"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Jezioro znajdujące się na obszarze: Natura 2000 – obszary ptasie „Bory Tucholskie”, Natura 2000 – obszary siedliskowe „Miłosino-Lubnia” oraz w otulinie Wdzydzkiego Parku Krajobrazowego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2025-06-16",
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "Intensywny rozwój sportów motorowodnych na jeziorze Wielewskim - działka o numerze ew. 638 (w okolicach wsi Wiele, powiat kościerski, gmina Karsin), które mogą negatywnie wpłynąć na środowisko jeziora znajdującego się na obszarze: Natura 2000 – obszary ptasie „Bory Tucholskie”, Natura 2000 – obszary siedliskowe „Miłosino-Lubnia” oraz w otulinie Wdzydzkiego Parku Krajobrazowego, a zwłaszcza na ptaki lęgowe i ptaki tam żerujące.",
+  "total_area_ha": 164.0,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "trzciniak Acrocephalus arundinaceus",
+    "trzcinniczek Acrocephalus scirpaceus",
+    "perkoz dwuczuby Podiceps cristatus",
+    "gęgawa Anser anser",
+    "łabędż niemy (Cygnus olor)",
+    "czapla siwa Ardea cinerea"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-07-03",
+    "detection_date": "2025-06-16",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,168 @@
+{
+  "registry_id": 1746,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.67,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "Katowice rejon ul. Lwowskiej",
+    "precinct": "0005 Roździeń",
+    "parcel_numbers": [
+      "246901_1.0005.AR_2.348/6",
+      "246901_1.0005.AR_2.349/6",
+      "246901_1.0005.AR_2.361/6",
+      "246901_1.0005.AR_2.362/6",
+      "246901_1.0005.AR_2.368/6",
+      "246901_1.0005.AR_2.369/6",
+      "246901_1.0005.AR_2.365/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((506276.1 264930.18,506286.65 264952.57,506305.4 264992.31,506322.09 265027.74,506314.46 265031.47,506322.18 265047.79,506330.41 265064.63,506341.16 265059.43,506364.58 265048.1,506356.51 265031.21,506354.46 265026.97,506352.38 265022.36,506362.48 265017.94,506364.43 265017.32,506367.06 265016.93,506373.28 265018.14,506394.52 265008.99,506429.81 264993.79,506459.1 264981.21,506457.43 264974.42,506456.93 264972.23,506451.48 264944.93,506447.32 264924.98,506440.02 264891.34,506428.82 264837.85,506422.4 264806.89,506419.63 264792.96,506410.7 264746.53,506406.32 264732.22,506400.15 264735.11,506358.84 264754.7,506331.62 264767.6,506290.47 264787.09,506261.91 264800.62,506263.93 264804.63,506268.38 264813.45,506230.12 264834.92,506211.93 264845.13,506182.1 264861.88,506181.64 264864.42,506198.72 264913.31,506201.53 264920.89,506253.41 264893.93,506268.82 264925.81,506271.76 264932.02,506276.1 264930.18))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wydobywanie węgla kamiennego",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "P3 Zabrze Sp. z o.o.",
+      "address": "ul. Ztota 59 00-120 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246901_1.0005.AR_2.348/6",
+        "246901_1.0005.AR_2.349/6",
+        "246901_1.0005.AR_2.361/6",
+        "246901_1.0005.AR_2.362/6",
+        "246901_1.0005.AR_2.368/6",
+        "246901_1.0005.AR_2.369/6",
+        "246901_1.0005.AR_2.365/6"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "3320 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1260 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1920 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "179 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "768 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "5320 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "41,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "2260 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "10,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "5,45 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,73 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-10-06",
+    "legal_basis": "art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (tekst jedn. Dz. U. z 2021 r., poz. 1973 ze zm.)",
+    "case_reference": "WSI.515.10.2022",
+    "decisions": [
+      {
+        "issue_date": "2023-02-02",
+        "reference": "WSI.515.10.2022.MO.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "P3 Zabrze Sp. z o.o.",
+        "address": "ul. Ztota 59 00-120 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-02-01",
+    "planned_end": "2028-09-01",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, przeprowadzenie samooczyszczania powierzchni ziemi, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Na terenie o powierzchni 1485 m2 do głębokości 0,25 m p.p.t zanieczyszczenie zostanie usunięte metodą ex-situ. Dla głębokości powyżej 0,25 m p.p.t teren podzielono na osiem rejonów występowania zanieczyszczenia:  Rejon I - z powierzchni 1185 m2 zanieczyszczenie zostanie usunięte metodą ex-situ z głębokości 0,5 – 3,5 m p.p.t.  Rejon II - z powierzchni 1860 m2 zanieczyszczenie zostanie usunięte metodą ex-situ z głębokości 0,5 – 1 m p.p.t.  Rejon III - z powierzchni 1115 m2 zanieczyszczenie zostanie usunięte metodą ex-situ z głębokości 0,5 – 1 m p.p.t.  Rejon IV - z powierzchni 435 m2 zanieczyszczenie zostanie usunięte metodą ex-situ z głębokości 0,5 – 1 m p.p.t.  Rejon V - z powierzchni 1065 m2 zanieczyszczenie zostanie usunięte metodą ex-situ z głębokości 0,5 – 3,2 m p.p.t.  Rejon VI - z powierzchni 1395 m2 zanieczyszczenie zostanie usunięte metodą ex-situ od głębokości 0,5 m p.p.t. do średniej głębokości 1,15 m p.p.t. (w punkcie 16 do głębokości 1,3 m p.p.t, w punkcie 6 do głębokości 1,0 m p.p.t.)  Rejon VII - z powierzchni 3465 m2 zanieczyszczenie zostanie usunięte metodą ex-situ od głębokości 0,5 m p.p.t. do średniej głębokości 0,8 m p.p.t. (w punkcie 18 do głębokości 0,6 m p.p.t., w punkcie 6 do głębokości 1,0 m p.p.t.)  Rejon VIII - z powierzchni 6755 m2 zanieczyszczenie zostanie usunięte metodą ex-situ od głębokości 0,25 m p.p.t. (w otworze 8) i od głębokości 0,50 m p.p.t. (w otworze 21) do głębokości 1,0 m p.p.t. Lokalizacja powierzchni przeznaczonej do remediacji metodą ex-situ dla głębokości 0-0,25 m p.p.t. została przedstawiona graficznie jako powierzchnia zanieczyszczona w załączniku 2.1 do niniejszej decyzji. Lokalizacja powierzchni przeznaczonych do remediacji metodą ex-situ dla głębokości >0,25 m. p.p.t. została przedstawiona graficznie w załączniku nr 2.2a do niniejszej decyzji. Remediacja metodą ex-situ zostanie przeprowadzona przez wyznaczenie stref gruntów przeznaczonych do usunięcia oraz wydobycie zanieczyszczonego gruntu przy jednoczesnym prowadzeniu stałego nadzoru nad jego usuwaniem i załadunkiem. Zanieczyszczona masa zostanie załadowana i wywieziona pojazdami przystosowanymi do transportu odpadów na odpowiednie składowisko odpadów, bądź przekazana do unieszkodliwienia lub odzysku podmiotowi posiadającemu stosowne zezwolenie. Ewidencja usuwanego gruntu będzie prowadzona z zastosowaniem kart przekazania odpadów, które stanowią dowód prawidłowego przekazania odpadów do uprawnionych odbiorców. Wobec punktowo występującego zanieczyszczenia (stwierdzonego w otworze badawczym nr 5) wielopierścieniowymi węglowodorami aromatycznymi tj. chryzenem, benzo(a)pirenem oraz benzo(b)fluorantenem zostanie zastosowana metoda samooczyszczania. Remediacja w tym miejscu polegać będzie na przeprowadzeniu procesu samooczyszczania z wykorzystaniem procesu bioremediacji naturalnej polegającej na usuwaniu zanieczyszczeń przez rodzime mikroorganizmy. W celu kontrolowania ww. procesu wyznaczono dwa punkty badawcze zgodnie z tabelą zamieszczoną poniżej. Badania gleby i ziemi będą wykonywane co dwa lata przez 4 lata, przy czym pierwszego pomiaru należy dokonać 2 lata po zakończeniu prac remediacyjnych. Na pozostałej powierzchni zanieczyszczonego gruntu znajdującej się na głębokości powyżej 0,25 m p.p.t., która nie zostanie usunięta metodą ex-situ zastosowana zostanie metoda polegająca na ograniczeniu rozprzestrzeniania się zanieczyszczenia poprzez przykrycie szczelną nawierzchnią, a w miejscach biologicznie czynnych warstwą czystej gleby i obsiane trawą. Zanieczyszczenie będzie kontrolowane poprzez wykonywanie badań kontrolnych wg poniższej tabeli co 2 lata przez 4 lata, pierwsze badania kontrolne należy wykonać 2 lata po zakończeniu prac remediacyjnych.",
+    "ecological_effect": "Przeprowadzone prace remediacyjne doprowadzić mają do osiągnięcia na terenie objętym remediacją, co najmniej dopuszczalnej zawartości substancji powodujących ryzyko w glebie oraz ziemi, odpowiadającej standardom jakościowym przewidzianym dla gruntów grupy IV, zgodnie z Rozporządzeniem Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. 2016 r., poz. 1395) [dalej Rozporządzenie] wynoszące dla głębokości 0 - 0,25 m p.p.t.: 1) cynk 2000 mg/kg, 2) miedź 600 mg/kg, 3) ołów 600 mg/kg,  dla głębokości >0,25 m p.p.t Dla wodoprzepuszczalności wyższej lub równej 1x10-7m/s Arsen 25  Bar 300  Cynk 300 Kadm 6 Ołów 200 Chryzen 5 benzo(a)piren 5 benzo(b)fluoranten 5  Na części terenu, gdzie zostanie zastosowane ograniczenie rozprzestrzeniania się zanieczyszczenia zawartości substancji zanieczyszczających pozostaną na obecnie obserwowanym poziomie tj.  aresen 179 mg/kg,  bar 768 mg/kg,  cynk 7740 mg/kg,  kadm 41,6 mg/kg,  ołów 2260 mg/kg.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

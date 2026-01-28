@@ -1,0 +1,74 @@
+{
+  "registry_id": 627,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "piaseczyński",
+    "municipality": "Tarczyn",
+    "address": "droga krajowa nr 7 i działka 225/1 Kolonia Jeziorzany",
+    "precinct": "Jeziorzany",
+    "parcel_numbers": [
+      "225/1",
+      "190"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((626156.128959678 456939.3369732173,626342.3959990044 456984.8453975627,626388.4335911124 456798.57835836336,626185.762352296 456823.9784091674,626156.128959678 456939.3369732173))",
+    "site_description": "działka 190 jest fragmentem drogi na długości działki 225/1"
+  },
+  "occurrence_time": {
+    "date": "2013-04-24",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropochodnymi działek o nr ew. 190 orz części terenu dziłki o nr ew. 225/1 na terenie pobocza drogi krajowej nr 7 w m. Kolonia Jeziorzany, gm. Tarczyn",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektorat Ochrony Środowiska",
+      "address": "ul. Bartycka 110 A, 00-716 Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "OIELR S.A.",
+      "address": "Tczew Malinowska 24",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2013-06-10",
+    "detection_date": "2013-04-24",
+    "decisions": [
+      {
+        "issue_date": "2013-12-06",
+        "reference": "WSI.510.10.2013.ES.14",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2014-01-15",
+    "planned_end": "2014-04-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zastosowanie metody ex  - situ",
+    "ecological_effect": "spełnione zostały wymagane prawem standardy",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

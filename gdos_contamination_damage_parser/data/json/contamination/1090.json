@@ -1,0 +1,85 @@
+{
+  "registry_id": 1090,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Biała Podlaska",
+    "municipality": "Biała Podlaska",
+    "address": null,
+    "precinct": "0003 Obręb 3",
+    "parcel_numbers": [
+      "066101_1.0003.AR_30.2029"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((785059.6011979729 469966.2920878194,785067.141838735 469966.4243797697,784974.6697700091 469881.492959667,784964.350998427 469879.24399680085,785059.4689060315 469966.42437975015,785059.6011979729 469966.2920878194))",
+    "site_description": "grunty zadrzewione i zakrzewione na użytkach rolnych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1958-01-01",
+    "to": "1996-10-31",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miejska Biała Podlaska",
+      "address": "ul. Piłsudskiego 3, 21-500 Biała Podlaska",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "066101_1.0003.AR_30.2029"
+      ],
+      "economic_activity_code": "-"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-22",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.513.38.2019.AWF",
+    "decisions": [
+      {
+        "issue_date": "2019-05-21",
+        "reference": "WSI.513.38.2019.AWF",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-06-05",
+      "reason": "Władający powierzchnią ziemi nie jest sprawcą zanieczyszczenia (wraz z odwołaniem pismem z dnia 10.06.2019 r. wniesiono o przywrócenie terminu do wniesienia odwołania).",
+      "appealed_decision_reference": "WSI.513.38.2019.AWF",
+      "resolution_reference": "DOA-WSzOP.513.39.2019.JK",
+      "appellant_name": "Prezydent Miasta Biała Podlaska",
+      "appellant_address": "ul. Piłsudskiego 3, 21-500 Biała Podlaska",
+      "resolution_date": "2019-12-02",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska w Warszawie",
+      "resolution_content": "Postanowienie o odmowie przywrócenia terminu do wniesienia odwołania"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

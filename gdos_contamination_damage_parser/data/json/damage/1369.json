@@ -1,0 +1,81 @@
+{
+  "registry_id": 1369,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Stalowa 77 Warszawa",
+    "precinct": "1302, 4-13-02",
+    "parcel_numbers": [
+      "9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639534.29 490701.80,639561.35 490690.15,639583.60 490745.20,639555.41 490757.92,639553.37 490752.39,639551.14 490753.42,639543.93 490736.41,639546.55 490734.66,639534.29 490701.80))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-13",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie szkodowe związane z stężeniem węglowodorów (benzyn) ze starego punktu zrzutu paliwa",
+  "total_area_ha": 0.017,
+  "reporters": [
+    {
+      "name": "EKOID",
+      "address": "ul. Gen. H. Le Ronda 76 40-302 Katowice",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Zarząd Miejskich Zakładów Autobusowych Sp. z o.o.",
+      "address": "ul. Włościańska 52 01-710 Warszawa",
+      "economic_activity_code": "49.31.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2020-09-14",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2021-04-29",
+        "reference": "WOOŚ-IV.511.4.2020.DŚc.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2021-05-01",
+    "planned_end": "2022-11-30",
+    "actual_end": "2023-08-01",
+    "method": "inne działania tj. działania zapobiegawcze, o których mowa w art. 6 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie",
+    "description": "remediacja in situ- aplikacja enzymów powodujących biodegradację zanieczyszczeń",
+    "ecological_effect": "osiągnięcie zakładanego efektu ekologicznego",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,479 @@
+{
+  "registry_id": 1814,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 4.0281,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "ul. Nadodrzańska 5 Szczecin",
+    "precinct": "Śródmieście 52",
+    "parcel_numbers": [
+      "9/11",
+      "9/12",
+      "9/21",
+      "9/22"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((203917.20244787400588393 625066.69806451501790434, 203915.92353087698575109 625087.46156183001585305, 203910.02701193999382667 625085.2375439980532974, 203909.23093203399912454 625115.31273897795472294, 203899.72744309599511325 625115.235193872009404, 203886.22045118600362912 625113.09787071100436151, 203836.20999297199887224 625102.21872374997474253, 203822.92335447500227019 625102.93479803297668695, 203818.42434847098775208 625105.61233357805758715, 203819.09973243199056014 625116.7469173310091719, 203809.2575077330111526 625117.23950478504411876, 203809.34725712198996916 625118.83769514504820108, 203798.80638440899201669 625119.37953682895749807, 203799.6460151800129097 625133.26045084395445883, 203731.0269750920124352 625136.10185038205236197, 203742.24782171900733374 625152.48601154400967062, 203746.42800325699499808 625158.58402740804012865, 203796.91015440900810063 625232.28331371303647757, 203870.869980919000227 625248.89173237304203212, 203895.62987352898926474 625254.24485734500922263, 203943.67255275600473396 625265.23445624997839332, 204011.37003130099037662 625279.52915319998282939, 204035.27301168799749576 625284.79010722995735705, 204036.92242011698544957 625277.58315507497172803, 204039.2338362309965305 625267.53337702003773302, 204063.47698767500696704 625272.78524861205369234, 204063.03196549401036464 625273.78219698905013502, 204068.93047790799755603 625271.93790277000516653, 204091.85760850799852051 625271.24155399901792407, 204157.83766564299003221 625269.22966352896764874, 204163.44477055501192808 625264.51592706795781851, 204177.76501189800910652 625219.04183195205405354, 204098.61303915799362585 625202.04364553897175938, 204096.83690445398679003 625209.8489005760056898, 203966.60796516100526787 625180.28796958096791059, 203989.16532256099162623 625080.22225161304231733, 203917.20244787400588393 625066.69806451501790434))",
+    "site_description": "dawna infrastruktury miejskiej gazowni klasycznej"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "od 1848 r. do 1987 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "działalność nieznana",
+    "current": "Magazynowanie i przechowywanie paliw gazowych"
+  },
+  "land_holders": [
+    {
+      "name": "Polska Spółka Gazownictwa sp. z o.o.",
+      "address": "ul. Wojciecha Bandrowskiego 16 33-100 Tarnów",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "9/11",
+        "9/12",
+        "9/21",
+        "9/22"
+      ],
+      "economic_activity_code": "35.22.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1350 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "453 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "9,29 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1753 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "59,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "184,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "389,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "4080 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "392 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "156 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1924 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1691 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "162 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "77 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "82 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "121 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki wolne",
+      "concentration": "330 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "2270 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "10,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "739 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1791,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "298,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "166,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "121,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "129,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "103,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "122,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "64,8  mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "55,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "72 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki – związki kompleksowe",
+      "concentration": "818  mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Fenol",
+      "concentration": "0,24 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyjanki wolne",
+      "concentration": "5,5 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "5640 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzen",
+      "concentration": "30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "55,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "109,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "336,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": null,
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-12-05",
+    "legal_basis": "art. 101 c ust. 3 pkt 3",
+    "case_reference": "WONS.513.8.2022.MR",
+    "decisions": [
+      {
+        "issue_date": "2023-02-02",
+        "reference": "WONS.515.12.2022.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-02-28",
+        "reference": "WONS.513.8.2022.MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-06-09",
+        "reference": "WONS.515.12.2022>MR",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polska Spółka Gazownictwa sp. z o.o.",
+        "address": "ul. Wojciecha Bandrowskiego 16 33-100 Tarnów",
+        "economic_activity_code": "35.22.Z"
+      }
+    ],
+    "planned_start": "2025-12-01",
+    "planned_end": "2029-12-31",
+    "actual_end": null,
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń, usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "a) Usunięcie zanieczyszczeń ropopochodnych z warstwy przypowierzchniowej 0,0-0,25 m p.p.t. w siedmiu sekcjach (S1, S2, S3, S4, S8, S9 oraz S10) odbędzie się przy zastosowaniu metody in situ w wyniku wspomagania naturalnych procesów bioremediacyjnych, zachodzących w środowisku, poprzez jej napowietrzanie i okresowe zraszanie biopreparatem. Sam proces remediacji będzie składał się z prac agrotechnicznych w celu spulchnienia gleby i aplikacji biopreparatu na zaoraną powierzchnię gruntu. Zabiegi spulchniania oraz zraszania warstwy przypowierzchniowej (biopreparat w ilości ok. 1,0 dm3/m2) prowadzone będą na całej powierzchni 2 razy w roku przez okres 4 lat. b) Natomiast w sekcjach S5, S6 oraz S7 w związku z obecnością ołowiu przekraczającego najwyższe dopuszczalne stężenie dla gruntów grupy I, remediacja warstwy przypowierzchniowej 0,0-0,25 m p.p.t. na łącznej pow. 8 205,0 m2 zostanie przeprowadzona w trybie ex situ. c) Usunięcie zanieczyszczeń z warstwy przekraczającej głębokość 0,25 m p.p.t. w Obszarze nr 1 odbędzie się w dwóch etapach. W pierwszej kolejności należy  zainstalować co najmniej 10 otworów technologicznych do głębokości ok 0,5 m poniżej stropu utworów rodzimych w rejonie otworów nr 2, 4, 8 oraz 7, w celu ściągnięcia z warstwy torfów występujących tam zanieczyszczeń ropopochodnych. Ostateczną ilość, głębokość zafiltrowania, sposób pompowania dobierze geolog lub specjalista ds. ochrony środowiska nadzorujący prace. Po odpompowaniu zanieczyszczeń będzie można przejść do następnego etapu, którym będzie remediacja metodą ex situ głównych źródeł zanieczyszczenia na terenie Obszaru nr 1. Remediacją zostaną objęte tereny przy trzech odwiertach nr 2, 4 oraz 11 - na obszarach w kształcie okręgu o promieniu ok 10 m, co da 3 obszary o powierzchni ok 314 m2 każdy. - W rejonie otworu nr 2 prace należy przeprowadzić do głębokości ok 4 m p.p.t. - W rejonie otworu nr 4 prace należy przeprowadzić do głębokości ok 5 m p.p.t. - W rejonie otworu nr 11 prace należy przeprowadzić do głębokości ok 1,5 m p.p.t. d) Teren Obszaru nr 2, tj. działki nr ew. 9/22 jest nadal w dużej części użytkowany i pokryty stosunkowo zwartą zabudową z rozbudowaną infrastrukturą podziemną, dlatego odstępuje się od przeprowadzenia remediacji zanieczyszczonych gruntów na głębokości przekraczającej 0,25 m p.p.t. w rejonie budynków zajmowanych przez PSG SP. z o.o. Jednakże w związku z likwidacją znajdującej się tam aparatowni wraz z przybudówką oraz z rozbiórką zbiorników pogazowych i po smołowych, przewiduje się unieszkodliwienie zanieczyszczonych gruntów z tego obszaru w ilości ok 18 765 Mg. e) Zmniejszenie ilości zanieczyszczeń na głębokości przekraczającej 0,25 m p.p.t. w Obszarze nr 3 nastąpi poprzez wydobycie najbardziej zanieczyszczonych gruntów metodą ex situ. Remediacją zostaną objęte tereny przy trzech odwiertach nr I, IV oraz XI - na obszarach w kształcie okręgu o promieniu ok 5 m, co da 3 obszary o powierzchni ok. 79 m2 każdy. W każdym z wyznaczonych obszarów prace należy przeprowadzić do głębokości ok 1 m p.p.t",
+    "ecological_effect": "1. W celu potwierdzenia przeprowadzenia remediacji w trybie in situ i osiągnięcia zakładanego efektu ekologicznego, w sekcjach S1, S2, S3, S4, S8, S9 oraz S10 pobierane będą kontrolne próbki gruntów (1 próbka uśredniona z każdej sekcji z częstotliwością 1 raz w roku) do analiz laboratoryjnych. Analizy laboratoryjne wszystkich pobranych próbek gruntów wykonane zostaną w zakresie zawartości benzyn i olejów (suma węglowodorów C6-C12 - składników frakcji benzyn, suma węglowodorów C12-C35 - składników frakcji oleju), węglowodorów aromatycznych (ksyleny), wielopierścieniowych węglowodorów aromatycznych (wszystkie z grupy WWA). 2. Potwierdzeniem osiągnięcia efektu ekologicznego prac remediacyjnych prowadzonych metodą ex situ w sektorach S5, S5 i S7 będą wyniki badań próbek gleby (1 próbka uśredniona z każdej sekcji) wykonanych w ostatnim kwartale roku 2028, potwierdzające osiągnięcie dopuszczalnych zawartości dla stwierdzonych w badanych obszarach substancji powodujących ryzyko. 3. Po likwidacji aparatowni i obiektów z nią związanych technologicznie, należy przeprowadzić dodatkowe badania mające na celu aktualizację i optymalizację warunków prowadzenia ewentualnych prac remediacyjnych w tym rejonie.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

@@ -1,0 +1,255 @@
+{
+  "registry_id": 1623,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0324,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Stargardzka 3 54-156 Wrocław",
+    "precinct": "0027 Gądów Mały",
+    "parcel_numbers": [
+      "4/62",
+      "4/64",
+      "4/103",
+      "4/38",
+      "4/31",
+      "AM-2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((356840.36703756346832961 364530.3502318441751413, 356861.67290550051257014 364576.80388451251201332, 356862.60289329598890617 364576.36175916710635647, 356841.43423667299794033 364529.89286079723387957, 356840.36703756346832961 364530.3502318441751413)),((356818.92864636582089588 364520.46632917696842924, 356831.7366364790359512 364513.97829219046980143, 356827.70262384490342811 364508.49875836248975247, 356816.89483166270656511 364484.95020961097907275, 356805.39789565559476614 364490.32889312307815999, 356805.6668298311997205 364490.83314470236655325, 356815.21399306517560035 364486.56381466460879892, 356827.04709679179359227 364512.1293697330984287, 356826.27391103695845231 364512.46553745260462165, 356825.53434205404482782 364514.38169345381902531, 356817.8697180493036285 364517.89464612264418975, 356818.92864636582089588 364520.46632917696842924)),((356840.42802036972716451 364529.49647255655145273, 356837.22642304108012468 364522.48344983666902408, 356834.57367096882080659 364523.09327789925737306, 356830.60978856193833053 364524.83128787769237533, 356832.50025555596221238 364529.10008431586902589, 356836.3726637534564361 364527.45354854682227597, 356837.59231987863313407 364530.6551458754693158, 356840.42802036972716451 364529.49647255655145273)),((356790.75779147120192647 364540.40107494365656748, 356806.96107555145863444 364532.92134318465832621, 356806.65852460387395695 364532.36666644742945209, 356790.45524052361724898 364539.88001497840741649, 356790.75779147120192647 364540.40107494365656748)),((356808.07042902579996735 364525.0045933902147226, 356807.09554263920290396 364522.88673675735481083, 356800.75878112652571872 364525.86182107497006655, 356801.43111656553810462 364526.55096489994321018, 356804.07003316364716738 364526.81989907554816455, 356808.07042902579996735 364525.0045933902147226)),((356778.23823326104320586 364528.40795538225211203, 356773.20378549367887899 364530.24746514344587922, 356776.3503153482452035 364531.45766893366817385, 356779.64206965768244117 364531.89334229816449806, 356778.23823326104320586 364528.40795538225211203)),((356802.16396219405578449 364639.96723010746063665, 356807.99983380467165262 364637.33167518652044237, 356807.51575228862930089 364636.3635121543193236, 356801.65298726037144661 364638.97217365773394704, 356802.16396219405578449 364639.96723010746063665)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja lokomotyw kolejowych oraz taboru szynowego",
+    "current": "Produkcja pozostałych wyrobów z tworzyw sztucznych"
+  },
+  "land_holders": [
+    {
+      "name": "Polmer Sp. z o.o.",
+      "address": "Stargardzka 3,  54-156 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "390 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "27 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "530 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,41 - 2,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,45 - 2,1mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,41 - 1,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,46 - 1,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,35 - 1,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,36 - 1,8 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,23 - 0,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,27 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,29 - 0,23 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "51 - 200 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "160 - 5000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "130 - 300 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "33 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Naftalen",
+      "concentration": "17 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Antracen",
+      "concentration": "23 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,4 - 70 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "50 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,3 - 60 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "22 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "43 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "21 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "7,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "21 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polmer Sp. z o.o.",
+        "address": "Stargardzka 3,  54-156 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "zwolnienie z remediacji, sprawa WSI.515.8.2022.MR"
+}

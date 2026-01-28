@@ -1,0 +1,115 @@
+{
+  "registry_id": 1936,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0094,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "ostródzki",
+    "municipality": "Morąg",
+    "address": "ul. Wojska Polskiego",
+    "precinct": "0001 miasto Morąg",
+    "parcel_numbers": [
+      "281508_4.0001.157/19"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((560174.6900001885 673678.3099994576,560187.7900001889 673678.5699994555,560188.0500001889 673671.5599994576,560174.8200001884 673670.8999994574,560174.6900001885 673678.3099994576))",
+    "site_description": "Teren wojskowy - kompleks zamknięty nr 723"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Do lat 90. XX wieku na tym terenie funkcjonowała stacja paliw 21 WOG Elbląg JW w Morągu"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Ministerstwo Obrony Narodowej - Rejonowy Zarząd Infrastruktury w Olsztynie",
+      "address": "ul. Saperska 1 10-073 Olsztyn",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "281508_4.0001.157/19"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "350 mg/kg s.m.",
+      "area_ha": 0.0047
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "6,501 mg/kg s.m.",
+      "area_ha": 0.0047
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "5,84 mg/kg s.m.",
+      "area_ha": 0.0047
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "5,33 mg/kg s.m.",
+      "area_ha": 0.0047
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-10-31",
+    "legal_basis": "101e ust. 1 Poś",
+    "case_reference": "WSI.513.8.2023.JJ",
+    "decisions": [
+      {
+        "issue_date": "2023-12-01",
+        "reference": "WSI.513.8.2023.JJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101c ust. 3 pkt 3 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-20",
+        "reference": "WSI.515.18.2023.JJ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101l ust. 4 Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Ministerstwo Obrony Narodowej - Rejonowy Zarząd Infrastruktury w Olsztynie",
+        "address": "ul. Saperska 1 10-073 Olsztyn",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-04-01",
+    "planned_end": "2025-12-31",
+    "actual_end": "2025-05-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne  będą prowadzone metodą ex-situ, która polega na kontrolowanym wydobyciu i usunięciu z terenu wymagającego przeprowadzenia remediacji całości zanieczyszczonych gruntów zalegających na głębokości przekraczającej 0,25 m ppt (maksymalnie do głębokości 1,0 m ppt) i na powierzchni ok. 94,0 m2 w łącznej ilości oszacowanej na ok. 130,0 Mg.",
+    "ecological_effect": "Po przeprowadzeniu remediacji stężenie substancji powodujących ryzyko odpowiadać będzie co najmniej ich dopuszczalnym zawartościom w glebie i ziemi, określonym w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy III i głębokości przekraczającej 0,25 m ppt. Ich zawartość w glebie i w ziemi, przy wodoprzepuszczalności wyższej lub równej 1x10-7 m/s, nie będzie zatem przekraczać:  - cynk: 300 mg/kg s.m., -  chryzen: 5 mg/kg s.m.; - benzo(a)antracen: 5 mg/kg s.m., - benzo(b)fluoranten: 5 mg/kg s.m.   Z przedłożonego “Sprawozdania z przeprowadzonej remediacji na terenie części działki nr 157/19 JW w Morągu przy ul. Wojska Polskiego obręb 0001 miasto Morąg” (Dekonta Polska Sp. z o.o., maj 2025 r.) wynika, że remediacja została przeprowadzona zgodnie z planem remediacji ustalonym przez Regionalnego Dyrektora Ochrony Środowiska w Olsztynie decyzją z 20 grudnia 2023 r., znak: WSI.515.18.2023.JJ.5. Przekazane wyniki analiz próbek gleby i ziemi, pobranych z dna i ściany wykopów (po zakończeniu remediacji ex situ), potwierdzają osiągnięcie efektu ekologicznego, określonego w ww. decyzji.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

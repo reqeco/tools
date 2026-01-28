@@ -1,0 +1,165 @@
+{
+  "registry_id": 1982,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1479,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Bardzka we Wrocławiu",
+    "precinct": "Gaj",
+    "parcel_numbers": [
+      "4/6",
+      "AM-5",
+      "Gaj"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((363560.48329881543759257 359029.5047702370211482, 363551.2247562138363719 359027.16141707170754671, 363535.85527698532678187 359026.06066050007939339, 363530.32346760120708495 359050.06727367267012596, 363553.52236720838118345 359055.01026806235313416, 363560.48329881543759257 359029.5047702370211482)),((363501.0005032061599195 359005.66156108397990465, 363527.25184760260162875 359013.07219931855797768, 363528.49169992684619501 359010.88613057043403387, 363530.04175150080118328 359004.30741234589368105, 363564.67323080298956484 359012.68383114878088236, 363568.87244721374008805 358997.28226012922823429, 363557.86457970389164984 358994.94267607387155294, 363555.78285042068455368 359004.3276183744892478, 363531.22925071750069037 358999.00316647719591856, 363509.25281360273947939 358994.27348203770816326, 363509.86860483267810196 358991.03626802749931812, 363505.90974364709109068 358990.28033292572945356, 363507.0661211806582287 358984.15680175833404064, 363495.64738810551352799 358981.74282680917531252, 363493.6268478391575627 358991.21690682135522366, 363504.19843235716689378 358993.08258858975023031, 363501.0005032061599195 359005.66156108397990465)),((363520.79061283764895052 359040.04038683790713549, 363522.05254277033964172 359038.74370100535452366, 363522.49852972163353115 359036.9882662957534194, 363522.00502495374530554 359035.24559351615607738, 363520.70833913167007267 359033.98366357292979956, 363518.95290441962424666 359033.53767660539597273, 363517.21023162512574345 359034.03118137456476688, 363515.938307078438811 359035.32800296880304813, 363519.0479400543263182 359040.53389162011444569, 363520.79061283764895052 359040.04038683790713549)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Hotel Wrocław Bardzka sp. z o.o.",
+      "address": "ul. Litewska 1, 00-581 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "4/6"
+      ],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "4 mg/kg s.m.",
+      "area_ha": 0.145
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "830 mg/kg s.m.",
+      "area_ha": 0.145
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,2 mg/kg s.m.",
+      "area_ha": 0.145
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,2 mg/kg s.m.",
+      "area_ha": 0.063
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,3 mg/kg s.m.",
+      "area_ha": 0.063
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kobalt (Co)",
+      "concentration": "52 mg/kg s.m.",
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "670 mg/kg s.m.",
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1000 mg/kg s.m.",
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,5 mg/kg s.m.",
+      "area_ha": 0.082
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "1900 mg/kg s.m.",
+      "area_ha": 0.0029
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "290 mg/kg s.m.",
+      "area_ha": 0.0029
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "590 mg/kg s.m.",
+      "area_ha": 0.0006
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-09-06",
+    "legal_basis": "art. 101l ustawy Prawo ochrony środowiska",
+    "case_reference": "WSI.515.11.2023.NS",
+    "decisions": [
+      {
+        "issue_date": "2024-04-12",
+        "reference": "WSI.515.11.2023.NS.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Hotel Wrocław Bardzka sp. z o.o.",
+        "address": "ul. Litewska 1, 00-581 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2024-04-01",
+    "planned_end": "2024-12-31",
+    "actual_end": "2024-09-12",
+    "method": null,
+    "description": "Remediacja polegać będzie na usunięciu zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i ziemi substancji powodujących ryzyko.Prace remediacyjne będą prowadzone metodą ex-situ, poprzez wydobycie zanieczyszczonego gruntu z powierzchni ok. 0,145 ha, do głębokości ok. 0,25 m ppt oraz z powierzchni ok. 0, 00366 ha, do głębokości ok. 1 m ppt.",
+    "ecological_effect": "Usunięto zanieczyszczony grunt i przekazano uprawnionemu podmiotowi. Badania kontrolne potwierdziły, że zawartości substancji powodujących ryzyko w glebie i ziemi nie przekraczają zawartości dopuszczalnych.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "Postępowanie WSI.515.11.2023.NS"
+}

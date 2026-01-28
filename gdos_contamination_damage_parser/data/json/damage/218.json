@@ -1,0 +1,81 @@
+{
+  "registry_id": 218,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": "Dębogórze",
+    "precinct": "0008 Kosakowo",
+    "parcel_numbers": [
+      "84/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((465497.8926424878 747215.1242060438,465519.0593514878 747251.1076113433,465541.8135636578 747268.0409785425,465974.6727627079 747217.7700446639,466032.88121245796 747150.0365758641,465497.8926424878 747215.1242060438))",
+    "site_description": "Awaryjny wyciek oleju napędowego, na drodze polnej, około 400 m na południowy wschód od krańca wsi Dębogórze, w wyniku rozszczelnienia rurociągu DN 600, należącego do Operatora Logistycznego Paliw Płynnych Sp. z o.o. - Baza Paliw nr 21 Dębogórze"
+  },
+  "occurrence_time": {
+    "date": "2009-08-18",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "wprowadzenie do ziemi substancji ropopochodnych na terenie Bazy Paliw nr 21 w Dębogórzu, gm. Kosakowo, szkoda powstała na skutek wycieku oleju napędowego z uszkodzonego rurociągu podziemnego",
+  "total_area_ha": 2.9246,
+  "reporters": [
+    {
+      "name": "Operator Logistyczny Paliw Płynnych Sp. z o.o.",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock",
+      "legal_form": "Spółka z o.o."
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Operator Logistyczny Paliw Płynnych Sp. z o.o.",
+      "address": "ul. Wyszogrodzka 133, 09-410 Płock Dębogórze",
+      "economic_activity_code": "52.10.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "381,06 - 748,27 mg/kg s.m.",
+      "area_ha": 0.0015
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-02-03",
+    "detection_date": "2009-08-18",
+    "decisions": [
+      {
+        "issue_date": "2010-02-15",
+        "reference": "RDOŚ-22-WSI.I/6618-1.3/10/KG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2010-04-01",
+    "planned_end": "2011-12-31",
+    "actual_end": "2011-02-02",
+    "method": null,
+    "description": "Po stwierdzeniu awaryjnego wycieku oleju napędowego do środowiska gruntowego służby OLPP Sp. z o. o. podjęły działania zapobiegawcze, tj. zatamowały wyciek i doprowadziły do uszczelnienia rurociągu.Zebrano skażony grunt o objętości około 1,5 m3, który przewieziony został na stanowisko bioremediacyjne w części „C” Bazy Paliw nr 21 w Dębogórzu funkcjonujące zgodnie z decyzją – zezwoleniem na odzysk odpadów. W miejsce usuniętego gruntu nawieziono czystą ziemię. W celu oceny stopnia skażenia gruntu, w obszarze rozlewu oleju napędowego wykonano prace terenowe i badania konieczne do ustalenia stanu zanieczyszczenia gruntu substancjami ropopochodnymi. Poboru próbek gruntu z głębokości do 2 m ppt dokonano z 3 odwiertów badawczych. Na podstawie wyników badań zawartości oleju mineralnego w badanych próbkach gruntu określono granice obszaru skażenia. Jego powierzchnia wyniosła około 15 m2. Jako kryterium zanieczyszczenia olejem przyjęto wartości dopuszczalne stężeń oleju mineralnego w glebie lub ziemi podane w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi dla gruntów grupy „B” (tereny rolne - awaryjny rozlew oleju napędowego objął strefę drogi polnej). Przy stwierdzonym bardzo małym poziomie stężeń substancji ropopochodnych w gruncie ustalono, że nie ma ryzyka przemieszczenia się skażeń z upływem czasu  z obszaru drogi w kierunku naturalnego pochylenia terenu, tj. na południe. Stąd działania naprawcze uzgodnione ww. decyzją ograniczono do wykonywania, w okresie wiosennym i wczesnojesiennym 2010 roku, w obszarze skażonym stanowiącym grunty rolne, głębokiej orki. W październiku 2010 roku przewidziano pobór trzech kontrolnych próbki gruntu do głębokości 1 m, w losowo wybranych miejscach w granicach terenu, który uległ skażeniu i wykonaniu badań na zawartość substancji ropopochodnych.",
+    "ecological_effect": "Badania prób gruntu pobranego w dniu 26 października 2010 roku z omawianego terenu wykazały, że negatywne następstwa awarii zostały skutecznie wyeliminowane a wymagana, zgodnie z rozporządzeniem Ministra Środowiska z dnia 09 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi, jakość dla gruntów typu „B” została osiągnięta.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,72 @@
+{
+  "registry_id": 1155,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Słupsk",
+    "municipality": "Słupsk",
+    "address": "ul. Szczecińska, Słupsk",
+    "precinct": "9",
+    "parcel_numbers": [
+      "870/14",
+      "870/15"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((370881.93817198277 735014.1827946454,370909.9840614349 735023.1786459768,370922.41950299044 734981.1098118369,370892.7861103566 734971.8493766477,370881.40900425235 735012.5952914776,370881.93817198277 735014.1827946454))",
+    "site_description": "brak danych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja maszyn dla rolnictwa i leśnictwa",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "870/14",
+        "870/15"
+      ],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "870/14",
+        "870/15"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-19",
+    "legal_basis": "art. 61 par. 1  i par. 4 kpa, art. 103 c ust. 3 pkt. 1 ustawy Poś",
+    "case_reference": "RDOŚ-Gd-WZS.513.160.2019.MB.1",
+    "decisions": [
+      {
+        "issue_date": "2019-03-29",
+        "reference": "RDOŚ-Gd-WZS.513.160.2019.MB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

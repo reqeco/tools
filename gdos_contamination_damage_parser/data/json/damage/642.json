@@ -1,0 +1,76 @@
+{
+  "registry_id": 642,
+  "location": {
+    "voivodeship": "lubuskie",
+    "county": "krośnieński",
+    "municipality": "Krosno Odrzańskie",
+    "address": "Krosno Odrzańskie",
+    "precinct": null,
+    "parcel_numbers": [
+      "284/2",
+      "obręb 1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((232393.437974217 473200.35724787135,232393.437974217 473200.35724787135))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2014-06-02",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu środowiska gruntowo-wodnego weglodoworami ropochodnymi na terenie stacji paliw płynnych zlokalizowanych na terenie Jednostki Wojskowej 5286 w Krośnie Odrzańskim (działka nr 284/2 obreb 1)",
+  "total_area_ha": null,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Rejonowy Zarząd Infrastruktury w Zielonej górze",
+      "address": "Zielona Góra Chrobrego 7",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2740-5160",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2014-08-18",
+    "detection_date": "2014-06-02",
+    "decisions": [
+      {
+        "issue_date": "2014-09-04",
+        "reference": "WSI-I.511.11.2014.KM",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gorzowie Wielkopolskim",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2015-05-01",
+    "planned_end": "2015-12-31",
+    "actual_end": "2017-02-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": "Załączone analizy laboratoryjne badań gleby, wykazały wartości poniżej parametrów określonych  w Decyzji Regionalnego Dyrektora Ochrony Środowiska w Gorzowie Wlkp. z dnia 4 września 2014 r., znak:WSI-I.511.11.2014.KM.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

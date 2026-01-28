@@ -1,0 +1,76 @@
+{
+  "registry_id": 1184,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "bytowski",
+    "municipality": "Bytów",
+    "address": "ul. Kołłątaja",
+    "precinct": "0005 Bytów",
+    "parcel_numbers": [
+      "232",
+      "233 obręb 102 Bytów"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((402209.58445227984 702091.8111500647,402281.02209516475 702018.7860040162,402370.98060843314 702079.9048762564,402384.20980156574 702096.3090757253,402403.52442352974 702078.052789215,402409.60985237104 702083.8736341875,402389.2368949568 702102.6590884272,402424.4265486738 702148.1675127773,402365.42434732156 702168.8050540565,402345.8451414875 702170.392557227,402330.7638613245 702165.8946315655,402279.96375971416 702135.732071246,402210.90737159015 702091.5465662051,402209.58445227984 702091.8111500647))",
+    "site_description": "zbiornik wodny przy ul. Kołłątaja"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2018-06-25",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "Częściowe spuszczenie wody i prace ziemne wzdłuż brzegu stawu przy ul. Kołłątaja w Bytowie, uśmiercenie przypuszczalnie kilku tysięcy osobników szczeżui wielkiej.",
+  "total_area_ha": 1.5818,
+  "reporters": [
+    {
+      "name": "Burmistrz Bytowa",
+      "address": "ul. 1-go Maja 15, 77-100 Bytów",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Burmistrz Bytowa",
+      "address": "ul. 1-go Maja 15, 77-100 Bytów",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "szczeżuja wielka (Anodonta cygnea)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-09-25",
+    "detection_date": "2018-06-28",
+    "decisions": [
+      {
+        "issue_date": "2018-11-06",
+        "reference": "RDOŚ-Gd-WZS-511.8.2018.MB.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2021-09-30",
+    "actual_end": null,
+    "method": null,
+    "description": "naturalna regeneracja populacji i siedliska chronionego gatunku szczeżui wielkiej poprzez utrzymanie stałego poziomu wody w stawie przy ul. Kołłątaja w Bytowie, pozostawienie dna stawu bez ingerencji takich jak bagrowanie i czyszczenie",
+    "ecological_effect": "odbudowa populacji szczeżui wielkiej na wskazanym stanowisku do jej wielkości i kondycji optymalnej dla pojemności ekologicznej stawu przy ul. Kołłątaja w Bytowie",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

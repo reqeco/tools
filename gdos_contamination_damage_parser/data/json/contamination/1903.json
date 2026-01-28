@@ -1,0 +1,108 @@
+{
+  "registry_id": 1903,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1627,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "puławski",
+    "municipality": "Puławy (gmina miejska)",
+    "address": "ul. Długa 6",
+    "precinct": "0003 Wólka Profecka",
+    "parcel_numbers": [
+      "061401_1.0003.922/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((705195.8006717202 400809.99999965634,705176.7006712856 400812.79999965057,705181.800671433 400845.899999653,705191.8006716622 400846.49999965634,705201.3006718804 400846.9999996573,705195.8006717202 400809.99999965634)), ((705158.3006708903 400840.49999964796,705159.5006709486 400874.2999996487,705189.700671639 400873.5999996532,705191.8006716622 400846.49999965634,705181.800671433 400845.899999653,705158.3006708903 400840.49999964796)))",
+    "site_description": "nieczynna (przeznaczona do likwidacji) Stacja Paliw ORLEN S.A. Nr 2701 w Puławach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1995-01-01",
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "061401_1.0003.922/9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,14 mg/kg s.m.",
+      "area_ha": 0.0944
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "31 mg/kg s.m.",
+      "area_ha": 0.0683
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2300 mg/kg s.m.",
+      "area_ha": 0.003
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2023-08-28",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.1.2023.SG",
+    "decisions": [
+      {
+        "issue_date": "2023-09-25",
+        "reference": "WSI.513.1.2023.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-10-15",
+        "reference": "WSI.515.3.2024.SG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "ORLEN S.A.",
+        "address": "ul. Chemików 7, 09-411 Płock",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-01-01",
+    "planned_end": "2025-07-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości w glebie i w ziemi substancji powodujących ryzyko, z zastosowaniem metody ex-situ. Po uzyskaniu wyników badań laboratoryjnych próbek gruntów z dna i ścian wykopów, potwierdzających usunięcie zanieczyszczenia w całości metodą ex-situ, powstałe wykopy należy zasypać czystym gruntem, spełniającym standardy jakości dla grupy gruntów I.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

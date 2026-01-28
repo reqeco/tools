@@ -1,0 +1,89 @@
+{
+  "registry_id": 364,
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "chodzieski",
+    "municipality": "Margonin",
+    "address": "Adolfowo 8, 64-830 Margonin",
+    "precinct": null,
+    "parcel_numbers": [
+      "151",
+      "Adolfowo"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((365637.4047913229 567962.6902453704,365603.8026407448 567956.2079407405,365619.280796725 567871.9379805317,365655.79336978664 567875.2452788111,365637.4047913229 567962.6902453704))",
+    "site_description": "Tren przy miejscu zamieszkania, gdzie gromadzono i demontowano pojazdy mechaniczne"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-07-30",
+    "to": "2010-08-23",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu powierzchni ziemi na działce nr 151 w m.Adolfowo 8 w wyniku działalności (…) związanej ze zbieraniem oraz odzyskiwaniem odpadów.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wielkopolski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Czarna Rola 4, 61-625 Poznań",
+      "legal_form": "inspekcja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-03-25",
+    "detection_date": "2010-08-23",
+    "decisions": [
+      {
+        "issue_date": "2011-05-19",
+        "reference": "RDOŚ-30-SI.I-66192-93/10/mdk, WSI-I.512.13.2011.MDK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2014-05-24",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczonej ziemi, zasypanie miejsc po wybranej ziemi czystym gruntem",
+    "ecological_effect": "Osiągniecie wymaganych standardów",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

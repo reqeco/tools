@@ -1,0 +1,149 @@
+{
+  "registry_id": 1460,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.31,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "zbieg ulic Olechowskiej (Transmisyjnej) Al. Ofiar Terroryzmu 11 Września",
+    "precinct": "W-36",
+    "parcel_numbers": [
+      "53/2",
+      "53/8",
+      "53/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((538428.16000000003259629 429598.90999999997438863, 538422.14000000001396984 429596.75, 538418.7099999999627471 429602.97999999998137355, 538424.64000000001396984 429606.19000000000232831, 538428.16000000003259629 429598.90999999997438863)),((538483.17130000004544854 429655.97110000002430752, 538489.004264977411367 429631.32587482058443129, 538493.75 429623.14000000001396984, 538491.28050942218396813 429621.70837203762494028, 538492.1838999999454245 429617.89140000002225861, 538475.55401629605330527 429612.59131465276004747, 538475.5 429612.55999999999767169, 538475.49310080031864345 429612.57190036628162488, 538471.85089999996125698 429611.41110000002663583, 538468.8747457965509966 429623.98784021998289973, 538468.63000000000465661 429624.40999999997438863, 538468.75737237383145839 429624.4838410802767612, 538463.18090000003576279 429648.04910000000381842, 538483.17130000004544854 429655.97110000002430752)),((538463.18090000003576279 429648.04910000000381842, 538443.81980000005569309 429640.28810000000521541, 538424.45779999997466803 429632.52679999999236315, 538421.57109999994281679 429646.06670000002486631, 538449.09770000004209578 429654.06640000001061708, 538460.94229999999515712 429657.5087000000057742, 538463.18090000003576279 429648.04910000000381842)),((538604.02379999996628612 429651.61619999998947605, 538598.45620000001508743 429675.82949999999254942, 538592.88870000001043081 429700.04279999999562278, 538605.36860000004526228 429705.04540000000270084, 538604.68180000002030283 429677.75740000000223517, 538604.02379999996628612 429651.61619999998947605)),((538528.40469999995548278 429674.19420000002719462, 538520.08380000002216548 429710.77269999997224659, 538553.6110999999800697 429723.20990000001620501, 538552.63600000005681068 429683.90740000002551824, 538528.40469999995548278 429674.19420000002719462)),((538656.78240000002551824 429693.89159999997355044, 538636.34279999998398125 429687.56199999997625127, 538636.93729999999050051 429714.30940000002738088, 538644.90430000005289912 429719.33370000001741573, 538649.23670000000856817 429720.88360000000102445, 538656.78240000002551824 429693.89159999997355044)))",
+    "site_description": "zbieg ulic Olechowskiej (Transmisyjnej) Al. Ofiar Terroryzmu 11 Września"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MLP II Sp. z o.o.",
+      "address": "ul. 3 Maja 8  05-800Pruszków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "powyżej 0,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 30 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "powyżej 0,1 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "powyżej 1000 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-09-28",
+    "legal_basis": "art 101l ustawy poś",
+    "case_reference": "WSI.515.9.2021.MG",
+    "decisions": [
+      {
+        "issue_date": "2022-02-28",
+        "reference": "WSI.515.9.2021.MG.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MLP II Sp. z o.o.",
+        "address": "ul. 3 Maja 8  05-800Pruszków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-03-01",
+    "planned_end": "2023-02-28",
+    "actual_end": "2022-05-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "usunięto zanieczyszczenie metodą exsitu (zanieczyszczona warstwa gruntu z głębokości 0-0,25 m ppt (obszar sekcji SIV/1, SIV/2, SV/3, SVIII/1 oraz SIX/3) oraz z głębokości 0,25- 1,1 m ppt (teren 1), a także z głębokości 0,25- 1,0 m ppt (teren 2))",
+    "ecological_effect": "doprowadzono do standardów jakości gleby dla gruntów grupy I według Rozporządzenia Ministra Środowiska z 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395) w zakresie: benzo(a)antracenu, benzo(b)fluorantenu, benzo(k)fluoranteun, chryzenu, indeno(1,2,3-cd)pirenu, benzo(a)pirenu, benzo(ghi)perylenu, dibenzo(a,h)antracenu, sumy węglowodorów C12-C35, składników frakcji oleju",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

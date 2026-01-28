@@ -1,0 +1,79 @@
+{
+  "registry_id": 1178,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "municipality": "Niemce",
+    "address": "ul. Przemysłowa 4",
+    "precinct": "0017 Niemce",
+    "parcel_numbers": [
+      "060911_2.0017.74/18"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((753634.1048298682 394942.9637993816,753705.2778913379 394733.14879646804,753692.842449303 394732.61962872744,753668.7653170052 394815.6989615429,753654.4777879519 394863.0594729241,753638.3381717529 394899.83662980236,753616.377710334 394929.4700223878,753590.9776585747 394963.07217289787,753568.2234455455 394992.9701493513,753550.2317422096 395013.3431067476,753512.9254161731 395052.7661022311,753499.9608063838 395049.5910958713,753492.2878740977 395071.2869725954,753449.6898705758 395098.80369426496,753444.3981931433 395114.14955827873,753422.173147826 395127.9079191126,753426.1419058882 395109.1224648757,753409.7377057385 395104.3599553434,753398.3605992727 395145.635037886,753329.039624608 395191.937213772,753281.9436952625 395229.77270606626,753218.1789819472 395281.10197535064,753178.2268171693 395312.5874549616,753107.5829231715 395367.09173057973,753096.4704005334 395385.3480170807,753091.7078908759 395412.07098719757,753095.1474812266 395413.65849037096,753062.3390812968 395581.14007532503,753100.4391590444 395593.84010075405,753121.8704527216 395573.7317272201,753140.1267400013 395593.5755169168,753184.0476629408 395594.1046846807,753272.6832602951 395523.7253773166,753423.7606516082 395402.81055226736,753341.739650737 395301.73951672856,753486.4670291172 395183.4705302976,753635.4277494727 395063.08487296756,753654.2132043554 395004.6118393708,753618.4943814432 394991.11806235276,753634.1048298682 394942.9637993816))",
+    "site_description": "teren byłej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1995-01-01",
+    "description": "okres funkcjonowania stacji paliw"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W trakcie prac demontażowych instalacji nieczynnej stacji paliw po wydobyciu zbiorników na głębokości ok. 3 m ppt ujawniono ogniska przebarwień gruntu o charakterystycznym zapachu produktów ropy naftowej. Próbki gruntu pobrano do badań, oznaczono teren pogłębiania wykopu, wydobyty grunt zgromadzono oddzielnie. Prace kontynuowano do głębokości ok. 6 m ppt, z jednoczesnym poborem próbek gruntu z dna oraz ze ścian wykopu. Analiza wyników badań wykazała przekroczenia sumy węglowodorów w warstwie nieprzepuszczalnej iłów na głębokości 3-4 m. Wykryte \"oczka zanieczyszczeń\" pochodziły najprawdopodobniej z rozlewisk zewnętrznych. Powstały w wyniku niewłaściwej dystrybucji oraz przelewania do pojemników i pojazdów przy dystrybutorach stacji. Rozlane i wyciekłe paliwa przedostając się do gruntu zostały przefiltrowane przez przepuszczalne frakcje, tj. piaski i żwiry, zatrzymując się na warstwie iłów i pyłów. Miejscowe nieregularne występowanie zanieczyszczeń wskazuje na sporadyczność wycieków nie mających charakteru ciągłego.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Kruszywa Niemce S.A.",
+      "address": "ul. Ceramiczna 6, 21-025 Niemce",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Kruszywa Niemce S.A.",
+      "address": "ul. Ceramiczna 6, 21-025 Niemce",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "21,8-64 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "2000-3800 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2018-08-28",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": "2018-08-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja metodą ex-situ - w ramach działań zapobiegawczych usunięcie zanieczyszczonego gruntu z wykopu (212,56 Mg) do momentu stwierdzenia braku zanieczyszczeń na jego dnie i ścianach. Przekazanie zanieczyszczonego gruntu jako odpadów do unieszkodliwienia. Zasypanie i zagęszczenie powstałego wykopu materiałem rekultywacyjnym.",
+    "ecological_effect": "Doprowadzenie gruntów na terenie dawnej stacji paliw do obowiązujących standardów dla grupy gruntów IV",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

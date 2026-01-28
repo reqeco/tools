@@ -1,0 +1,84 @@
+{
+  "registry_id": 364,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.55,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Bardowskiego 4",
+    "precinct": "4-11-04",
+    "parcel_numbers": [
+      "1/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((642875.867909525 492115.9300621636,643039.9099045099 491893.67961766105,642762.0968484588 491689.9500435339,642613.9298852496 491901.61713354755,642611.2840466269 491930.7213584166,642875.867909525 492115.9300621636))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "HE2 Warsow Sp. zo.o.",
+      "address": "Al. Jerozolimskie 56C 00-803 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "114  [mg/kg]",
+      "area_ha": 0.55
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-03-07",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.18.2018",
+    "decisions": [
+      {
+        "issue_date": "2018-04-18",
+        "reference": "WSI.515.18.2018.SSz.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HE2 Warsow Sp. zo.o.",
+        "address": "Al. Jerozolimskie 56C 00-803 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2018-04-18",
+    "planned_end": "2018-11-30",
+    "actual_end": "2018-06-27",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

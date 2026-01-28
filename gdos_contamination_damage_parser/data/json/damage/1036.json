@@ -1,0 +1,137 @@
+{
+  "registry_id": 1036,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "wieluński",
+    "municipality": "Mokrsko",
+    "address": "Krzyworzeka 288 98-345 Mokrsko",
+    "precinct": null,
+    "parcel_numbers": [
+      "783"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((465481.54999999714 367821.6899998598,465477.4499999987 367837.6999999322,465578.2299999985 367863.2899999283,465576.26999999874 367870.31999993045,465446.1999999987 367838.08999993093,465448.9299999987 367825.97999992874,465453.61999999854 367827.1499999324,465455.1299999986 367820.11999992933,465461.27999999875 367821.8299999302,465462.59999999864 367816.9999999311,465481.54999999714 367821.6899998598))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2017-03-22",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi w związku z działalnością polegającą na demontażu pojazdów wycofanych z eksploatacji i zanieczyszczeniem gruntu pyłami eksploatacyjnymi",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Łodzi Delegatura w Sieradzu",
+      "address": "ul. P.O.W. 70/72 98-200 Sieradz",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "MOTO-HURT(…)",
+      "address": "(…)",
+      "economic_activity_code": "45.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "1,85 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,234 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,412 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,344 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,132 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2017-07-19",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2019-04-23",
+        "reference": "WSI.512.23.2017.PS.35",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-09-16",
+        "reference": "DOA-WSzOP.512.21.2019.JP",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2019-05-06",
+        "reason": "art. 7, art. 77 § 1, art. 80 i art. 107 § 3 kpa",
+        "appealed_decision_reference": "WSI.512.23.2017.PS.35",
+        "resolution_reference": "DOA-WSzOP.512.21.2019.JP",
+        "appellant_name": "(…)< MOTO_HURT (…)",
+        "appellant_address": null,
+        "resolution_date": "2019-09-16",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "przekazano sprawę do ponownego rozpatrzenia"
+      },
+      {
+        "date": "2019-05-06",
+        "reason": "art. 7, art. 77 § 1, art. 80 i art. 107 § 3 kpa",
+        "appealed_decision_reference": "WSI.512.23.2017.PS.35",
+        "resolution_reference": "DOA-WSzOP.512.21.2019.JP",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2019-09-16",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "przekazano sprawę do ponownego rozpatrzenia"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,60 @@
+{
+  "registry_id": 1100,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "chojnicki",
+    "municipality": "Chojnice (gmina miejska)",
+    "address": "Pl. Piastowski, 89-600 Chojnice",
+    "precinct": "Chojnice",
+    "parcel_numbers": [
+      "1722/21"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((404737.8889572263 648567.6328841029,404736.30145404604 648549.6411814522,404741.8577151568 648553.477647461,404776.9150769526 648543.5557526127,404780.22237523313 648538.396367291,404784.3234251039 648549.6411814522,404742.5191748169 648561.6797471922,404737.8889572261 648568.2943437612,404737.8889572263 648567.6328841029))",
+    "site_description": "teren po dawnej gazowni"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie paliw gazowych",
+    "current": "brak działalności"
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Miejska Chojnice",
+      "address": "ul. Stary Rynek 1, 89-600 Chojnice",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "1722/21"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-23",
+    "legal_basis": "61 par. 1 i 4 kpa, 101c ust. 3 poś",
+    "case_reference": "513.148.2019.LK.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-08",
+        "reference": "RDOŚ-Gd-WZS.513.148.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

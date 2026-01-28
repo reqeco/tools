@@ -1,0 +1,179 @@
+{
+  "registry_id": 1361,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.1345,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Krasińskiego",
+    "precinct": "7-03-04",
+    "parcel_numbers": [
+      "13",
+      "16",
+      "17",
+      "18"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((634358.5561325613 490234.73880185,634366.8905242396 490228.6533730095,634372.975953076 490232.2252551606,634373.6374127367 490231.8283793591,634394.8041217587 490241.4856903488,634373.9019965976 490257.2284301594,634358.159256761 490236.5908888895,634357.7623809706 490236.45859696064,634358.5561325613 490234.73880185)) POLYGON((634390.9808849354 490266.8195951693,634413.9996809985 490248.2987247873,634445.7497445312 490254.251861698,634434.5049303703 490272.7727320781,634454.3487200709 490284.28213008866,634423.9215758604 490308.6238454385,634390.9808849354 490266.8195951693))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "K 43 Sp. z o.o.",
+      "address": "ul. Sułkowskiego 35 01-610 Warszawa",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": null,
+      "area_ha": 0.1345
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": 0.1345
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-09-30",
+    "legal_basis": "art.101l ust.4",
+    "case_reference": "WOOŚ-IV.515.61.2020.DŚc",
+    "decisions": [
+      {
+        "issue_date": "2020-12-21",
+        "reference": "WOOŚ-IV.515.61.2020.DŚc",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-01-30",
+        "reference": "WOOŚ-IV.515.61.2020.DŚc.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 155 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "K 43 Sp. z o.o.",
+        "address": "ul. Sułkowskiego 35 01-610 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-02-01",
+    "planned_end": "2024-10-31",
+    "actual_end": "2025-02-20",
+    "method": null,
+    "description": null,
+    "ecological_effect": "Efekt ekologiczny osiągnięto",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

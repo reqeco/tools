@@ -1,0 +1,76 @@
+{
+  "registry_id": 811,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "ul. Wyki 3, Kraków",
+    "precinct": "42 Krowodrza",
+    "parcel_numbers": [
+      "126102_9.0042.311/22"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((565897.5859369194 247602.569215036,565889.9130049094 247619.10570643656,565887.9286259393 247617.91507905629,565879.1973584794 247637.62657681573,565803.9232495985 247604.9504697956,565826.6774617688 247555.47328750603,565903.2744899695 247588.94314611517,565901.5546948595 247593.44107177574,565881.8431971094 247593.44107177667,565862.7931590093 247590.79523315653,565849.299382019 247588.281686455,565849.2993820191 247588.8108541863,565897.5859369194 247602.569215036))",
+    "site_description": "dawniej teren stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Komenda Wojewódzka Państowej Straży Pożarnej",
+      "address": "ul. Zarzecze 106, 30-134 Kraków",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-18",
+    "legal_basis": "art. 61 § 1 Kodeks postępowania administracyjnego",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-06-14",
+        "reference": "ZS.513.18.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Komenda Wojewódzka Państowej Straży Pożarnej",
+        "address": "ul. Zarzecze 106, 30-134 Kraków",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

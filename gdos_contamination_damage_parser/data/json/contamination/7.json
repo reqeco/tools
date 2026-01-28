@@ -1,0 +1,92 @@
+{
+  "registry_id": 7,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.05,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Legnica",
+    "municipality": "Legnica",
+    "address": "55-220 Legnica, ul. Domejki 2",
+    "precinct": "obręb Zosinek",
+    "parcel_numbers": [
+      "75/1",
+      "obręb Zosinek"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((299451.84999999962747097 375265.43999999947845936, 299530.00999999977648258 375262.75999999977648258, 299560.79999999981373549 375262.08000000007450581, 299607.67999999970197678 375261.55000000074505806, 299655.49000000022351742 375257.64000000059604645, 299654.58999999985098839 375243.94999999925494194, 299653.57000000029802322 375224.00999999977648258, 299642.75 375079.90000000037252903, 299659.66999999992549419 375079.34009999968111515, 299656.03000000026077032 375001.11989999935030937, 299655.63999999966472387 374997.40000000037252903, 299653.99000000022351742 374997.36999999918043613, 299645.83000000007450581 374892.01999999955296516, 299617.62000000011175871 374893.81000000052154064, 299504.79999999981373549 374900.47000000067055225, 299498.2099999999627471 374901.04010000079870224, 299496.67999999970197678 374901.53999999910593033, 299469.29999999981373549 374911.13000000081956387, 299467.5400000000372529 375044.28009999915957451, 299465.07000000029802322 375189.59999999962747097, 299454.53000000026077032 375250.52999999932944775, 299451.84999999962747097 375265.43999999947845936),(299470.94000000040978193 375170.15000000037252903, 299476.70000000018626451 375170.08000000007450581, 299476.83999999985098839 375176.18999999947845936, 299470.96999999973922968 375176.30000000074505806, 299470.94000000040978193 375170.15000000037252903))",
+    "site_description": "Zanieczyszczony teren stanowi część działki nr 75/1, położonej przy ul. Domejki 2 w Legnicy, należącej do  MPK Sp. z o.o. w Legnicy.W środkowo-wschodniej części działki znajduje się stacja paliw zaspokajająca wewnętrzne potrzeby firmy. W tej części działki stwierdzono przekroczenia stężeń węglowodorów frakcji olejowej i benzynowej w gruncie, w bezpośrednim sąsiedztwie stacji paliw na dwóch polach zieleni o powierzchni około 400 m2 i 140 m2 oraz w wodzie gruntowej. Część działki 75/1, będącą otoczeniem zakładowej stacji paliw, stanowi w rejonie pola tankowania pojazdów płyta betonowa, a w rejonie podziemnych zbiorników paliwa – teren zielony."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Konieczność podjęcia remediacji wynikała ze stanu środowiska gruntowo – wodnego tego terenu. Monitoring wód gruntowych, jako części składowej powierzchni ziemi, prowadzony był na przestrzeni lat: luty 2004 r. – październik 2014 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Miejskie Przedsiębiorstwo Komunikacyjne Sp. z o.o.",
+      "address": "ul. Domejki 2,  55-220 Legnica",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "49.31.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "w próbce pobranej z otworu nr 1 (pole zbiorników)  na głębokości 2,30 m  frakcje olejowe na poziomie 4100 mg/kg s.mfrakcji olejowej na poziomie 4100 mg/kg s.m",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "w próbce pobranej z otworu nr 1 (pole zbiorników)  na głębokości 2,30 m, frakcje benzynowe na poziomie 733 mg/kg s.m",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-04-21",
+    "legal_basis": "art. 61 par. 4 Kpa",
+    "case_reference": "WSI.511.3.2016.APC",
+    "decisions": [
+      {
+        "issue_date": "2016-06-24",
+        "reference": "WSI.511.3.2016.APC.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Miejskie Przedsiębiorstwo Komunikacyjne Sp. z o.o.",
+        "address": "ul. Domejki 2,  55-220 Legnica",
+        "economic_activity_code": "49.31.Z"
+      }
+    ],
+    "planned_start": "2016-07-01",
+    "planned_end": "2017-05-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Oczyszczenie powierzchni ziemi (gleby, ziemi i wód podziemnych) na przedmiotowym terenie metodą bioremediacji prowadzoną w następujących etapach: - etap pierwszy (rekultywacja chemiczna) – doglebowa iniekcja preparatu utleniającego bezpośrednio pod warstwę skażonego gruntu; - etap drugi (rekultywacja biologiczna) – powierzchniowy oprysk biopreparatem zawierającym niepatogenne mikroorganizmy aktywnie rozkładające węglowodory; - etap trzeci (rewitalizacja) - stosowanie preparatu na bazie kompostu i nanokrzemionki  oraz wysianie mieszanki specjalnie dobranych gatunków traw.",
+    "ecological_effect": "sprawozdanie z przeprowadzenia remediacji wraz z wynikami badań kontrolnych powierzchni ziemi przekazano w dniu 3 lipca 2017 r. Raport z prac remediacyjnych przeprowadzonych przez spółkę GreenBack Sp. z o.o. w o toczeniu stacji paliw na terenie MPK Sp. z o.o. w Legnicy (część działki nr 75/1).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

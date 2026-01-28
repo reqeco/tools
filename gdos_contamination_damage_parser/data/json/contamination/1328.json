@@ -1,0 +1,96 @@
+{
+  "registry_id": 1328,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Dworcowa w Trzebini",
+    "precinct": "13 Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.1467/35"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((533013.4136821708 254139.1893573422,533008.1220049208 254076.48298193142,533003.6240792508 254064.04754039366,533059.7158581109 254044.9975022925,533065.2721192208 254042.35166366212,533068.1825417109 254050.2891795421,533080.8825671108 254045.79125388432,533077.972144621 254039.17665731348,533123.2159851108 254020.3912030831,533165.8139869708 254083.62674621306,533146.763948871 254097.9142747922,533072.1512996409 254123.04974173382,533013.4136821708 254139.1893573422))",
+    "site_description": "Teren po dawnej Gumowni Trzebinia. Źródłem zanieczyszczenia są dawne Zakłady Metalurgiczne \"Trzebinia\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Praxima Krakpol Sp. z o.o.",
+      "address": "ul. Dworcowa 2, 32-540 Trzebinia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "120305_4.0013.1467/35"
+      ],
+      "economic_activity_code": "96.01.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-04",
+    "legal_basis": "art. 61 § 1  Kodeksu postępowania administracyjnego",
+    "case_reference": "ZS.513.121.2019.MK",
+    "decisions": [
+      {
+        "issue_date": "2019-11-20",
+        "reference": "ZS.513.121.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-04-12",
+        "reference": "DOA-WSzOP.513.11.2020.MG.2",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": {
+      "date": "2019-12-09",
+      "reason": "M.in. naruszenie art. 7 Kpa w zw. z art. 77 § 1 Kpa, poprzez niewyjaśnienie stanu faktycznego oraz niewyczerpujące zebranie i błędne rozpatrzenie całości materiału dowodowego.",
+      "appealed_decision_reference": "ZS.513.121.2019.MK",
+      "resolution_reference": "DOA-WSzOP.513.11.2020.MG.2",
+      "appellant_name": "Praxima Krakpol Sp. z o.o.",
+      "appellant_address": "ul. Dworcowa 2, 32-540 Trzebinia",
+      "resolution_date": "2021-04-12",
+      "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+      "resolution_content": "Utrzymanie w mocy decyzji organu I instancji"
+    }
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Praxima Krakpol Sp. z o.o.",
+        "address": "ul. Dworcowa 2, 32-540 Trzebinia",
+        "economic_activity_code": "96.01.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

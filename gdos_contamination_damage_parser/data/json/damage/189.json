@@ -1,0 +1,90 @@
+{
+  "registry_id": 189,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Szczecin ul. Zawadzkiego 105-119-121-135",
+    "precinct": null,
+    "parcel_numbers": [
+      "6/10 obręb 2008"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((201111.24349646401242353 630479.87770409102085978, 201068.275035808008397 630481.80416309600695968, 201066.53815356799168512 630444.75779566005803645, 201069.78050401600194164 630441.19442403595894575, 201032.40530055100680329 630443.30348673101980239, 201033.38694548301282339 630463.03758579096756876, 201040.77845594100654125 630572.45203449903056026, 201049.61122644701390527 630572.0082211890257895, 201048.70308400198700838 630558.30287573300302029, 201051.7375219429959543 630558.09937364596407861, 201057.21636738401139155 630557.54764692101161927, 201057.7074652639857959 630563.85188154201023281, 201057.93897215998731554 630566.85451916605234146, 201058.27363559699733742 630571.56468906498048455, 201089.24671957999817096 630569.98275186098180711, 201101.73604962899116799 630569.34791523404419422, 201193.35788428501109593 630564.69084353104699403, 201193.92915225398610346 630551.42719943705014884, 201194.72982721700100228 630538.3096248300280422, 201134.77117958798771724 630542.01483625895343721, 201115.15941688101156615 630543.20060050196480006, 201111.24349646401242353 630479.87770409102085978))",
+    "site_description": "Budynek wielorodzinny"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "wiosna/lato 2010 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "szkoda polegająca na zniszczeniu miejsc lęgowych wróbla domowego przy ulicy Zawadzkiego 105-119-121-135 w Szczecinie, wyniku termomodernizacji budynków",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Fundacja Ratujmy Ptaki",
+      "address": "ul. Szafera 196/18, 71-245 Szczecin",
+      "legal_form": "Fundacja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Szczecińska Spółdzielnia Mieszkaniowa",
+      "address": "ul. Jodłowa 7A, 71-114 Szecin",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "wróbel (Passe domesticus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2010-09-27",
+    "detection_date": "2010-09-01",
+    "decisions": [
+      {
+        "issue_date": "2010-12-17",
+        "reference": "RDOŚ-32-WSI-6660/19/3/10/ak",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2010-12-30",
+        "reason": "Naruszenie przepisów o ochronie przyrody",
+        "appealed_decision_reference": "RDOŚ-32-WSI-6660/19/3/10/ak",
+        "resolution_reference": null,
+        "appellant_name": "Fundacja Ratujmy Ptaki",
+        "appellant_address": "Ul. Szafera 196/18",
+        "resolution_date": "2011-02-07",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchylenie i orzeczenie w sprawie uzgodnienia działań naprawczych"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2011-02-28",
+    "actual_end": "2014-12-19",
+    "method": null,
+    "description": "zamontowanie 30 budek lęgowych dostosowanych do wymogów ekologicznych na przedmiotowej nieruchomości oraz w jej obrębie",
+    "ecological_effect": "W dniu 19.12.2014 r. przedłożono sprawozdanie końcowe z wykonania działań oraz 3 letniego monitoringu (nie stwierdzono ubytku lokalnej populacji wróbla)",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

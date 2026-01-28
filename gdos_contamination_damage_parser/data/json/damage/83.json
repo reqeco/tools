@@ -1,0 +1,73 @@
+{
+  "registry_id": 83,
+  "location": {
+    "voivodeship": "świętokrzyskie",
+    "county": "kielecki",
+    "municipality": "Górno",
+    "address": "Wola Jachowa",
+    "precinct": null,
+    "parcel_numbers": [
+      "W dokumentacji sprawy brak danych w zakresie nr ewidencyjnych działek."
+    ],
+    "coordinates_ewkt": "SRID=2180;W dokumentacji sprawy brak danych pozwalających wskazanie współrzędnych lokalizacyjnych.",
+    "site_description": "Teren stacji transformatorowej w miejscowości Wola Jachowa, znajdujący się w bezpośrednim sąsiedztwie drogi krajowej nr 74 w kierunku Opatowa w pobliżu skętu na drogę nr 753 w kierunku Ostrowca Świętokrzyskiego."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Szkoda powstała wskutek kradzieży elementów miedzianych transformatora w okresie lipiec-sierpień 2008 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu olejem transformatorowym na terenie stacji transformatorowej 1156 w miejscowości Wola Jachowa, gm. Górno, wskutek kradzieży  elementów miedzianych transformatora",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "PGE Zakłady Energetyczne Okręgu Radomsko-Kieleckiego Dystrybucja Sp. zo.o.",
+      "address": "Al. Marszałka Józefa Piłsudskiego 51 26-110 Skarżysko-Kamienna",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PGE Zakłady Energetyczne Okręgu Radomsko-Kieleckiego Dystrybucja Sp. zo.o.",
+      "address": "Al. Marszałka Józefa Piłsudskiego 51 26-110 Skarżysko-Kamienna",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2008-07-31",
+    "decisions": [
+      {
+        "issue_date": "2008-08-25",
+        "reference": "ŚR.III.6621-13/08",
+        "issuing_authority": "Wojewoda Świętokrzyski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2008-09-09",
+    "planned_end": "2008-12-31",
+    "actual_end": "2008-09-26",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Zakres i sposób przeprowadzenia działań naprawczych polegał na: - wydobyciu silnie zanieczyszczonego gruntu z obszaru wytyczonego przez obrys plamy widocznej na powierzchni terenu; -dokonaniu oceny stopnia zanieczyszczenia pozostałego gruntu i jego selekcji w celu wyeliminowania mniejszych ognisk zanieczyszczenia; - przeprowadzeniu analizy gruntu w celu potwierdzenia całkowitego usunięcia gruntu zanieczyszczonego; - wypełnieniu powstałego wykopu piaskiem, a następnie odtworzenie wierzchniej warstwy glebowej poprzez nawiezienie czystej ziemi .",
+    "ecological_effect": "Stan środowiska spełnia standardy odpowiadające dla grupy \"B\" zgodnie z rozporządzeniem Ministra Środowiska z dnia 9 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

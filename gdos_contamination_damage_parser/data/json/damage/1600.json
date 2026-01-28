@@ -1,0 +1,65 @@
+{
+  "registry_id": 1600,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "piaseczyński",
+    "municipality": "Lesznowola",
+    "address": "ul. Żytnia 19 05-506 Lesznowola",
+    "precinct": "Lesznowola",
+    "parcel_numbers": [
+      "419/2",
+      "419/3",
+      "419/4",
+      "419/13",
+      "21/2",
+      "22/2",
+      "23/2",
+      "11/4",
+      "4/13",
+      "7/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;1.POLYGON((631595.962587859 472215.12720249966,631698.8857104704 472240.26266943663,631767.1483470513 472255.608533456,631883.3006627955 472284.18359060306,631925.6340808336 472294.5023612436,631940.9799448686 472343.1857919432,631897.059023659 472332.8670213036,631888.0631723217 472363.0295816343,631951.2987155187 472378.3754456518,631961.088318448 472403.7754964521,631953.4153864214 472411.18384460267,631858.6943635559 472387.90046470426,631769.2650179559 472366.46917184535,631684.0690141596 472345.56704670936,631638.0314220388 472334.45452448726,631644.3814347438 472303.7627964383,631577.7063013345 472288.15234855004,631595.962587859 472215.12720249966)) 2.POLYGON((631590.1417428838 472214.3334509088,631714.2315745042 472243.7022596467,631785.669217448 472260.37104298547,631930.1320064976 472295.5606966922,631913.1986392812 472239.7335017044,631897.3236075158 472187.6104807947,631863.7214569456 472179.672964924,631614.2188743928 472120.1415958591,631590.1417428838 472214.3334509088))3.POLYGON((631437.476854087 472100.826973903,631608.3980294082 472141.5728887189,631599.4021780712 472177.2917101588,631429.2747543406 472137.3395469319,631437.476854087 472100.826973903))4.POLYGON((631509.179080885 472319.90241204854,631634.0626640957 472349.8003885094,631629.5647384323 472372.8191845482,631502.8290681799 472341.06912105065,631509.179080885 472319.90241204854))5.POLYGON((631488.5415395967 472314.6107347999,631498.5957263744 472268.57314273156,631644.6460186038 472304.2919641677,631634.3272479558 472348.74205305614,631488.5415395967 472314.6107347999))",
+    "site_description": "działka, na której położony jest zakład produkcyjny Eveline Cosmetics SA Sp. Komandytowa ul. Żytnia 19, Lesznowola"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2022-01-21",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna, podmiot korzystający ze środowiska, null",
+  "land_owner": "osoba fizyczna, podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "21 stycznia 2022 r WIOŚ w Warszawie otrzymał zgłoszenie od Dyżurnego Powiatowego centrum Zarządzania Kryzysowego w Piasecznie o wystąpieniu awarii i zrzucie chemikaliów na terenie zakładu produkcyjnego Eveline Cosmetics S.A. Sp. k.ul. Żytnia 19, Lesznowola. Po przybyciu na miejsce zdarzenia w trakcie oględzin przedstawiciele WIOŚ potwierdzili nielegalne wprowadzanie ścieków do ziemi we wskazanej lokalizacji. Zlokalizowano dół otoczony nasypem i wypełniony substancją ciekłą - prawdopodobnie ściekami oraz ślady zasypywania innych dołów wypełnionych ściekami. Zlokalizowano również 4 wyloty rur PCV, którymi prawdopodobnie były odprowadzane ścieki do ziemi. Podczas wizji z ww. wylotów widoczny był wyciek.Ponadto zlokalizowano nielegalne studnie do poboru wody i studnie kanalizacyjne.  Pracownicy Eveline Cosmetics nie byli wstanie wytłumaczyć, w jaki sposób odbywa się w zakładzie gospodarka wodno-ściekowa.",
+  "total_area_ha": 8.318,
+  "reporters": [
+    {
+      "name": "Mazowiecki Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. Bartycka 110A 00-716 Warszawa",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Eveline Cosmetics SA Sp. k.",
+      "address": "ul. Żytnia 19 05-506 Lesznowola",
+      "economic_activity_code": "20.42.Z, 20.12.Z, 20.13.Z, 20.14.Z, 21.10.Z, 20.41.Z, 20.59.Z, 46.45.Z, 46.46.Z, 22.22.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-03-10",
+    "detection_date": "2022-01-21",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Poligon 1 (dz.419/2, 419/3, 419/4, 419/13)- Poligon 2 (dz. 21/2, 22/2, 23/2,)- Poligon 3 (dz.11/4)- Poligon 4(dz.4/13)- Poligon 5(dz.7/2)"
+}

@@ -1,0 +1,156 @@
+{
+  "registry_id": 2122,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.18,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "w rejonie ulic Tarnogajskiej, Armii Krajowej i bpa Bogedaina",
+    "precinct": "Tarnogaj AM-5",
+    "parcel_numbers": [
+      "5/11",
+      "5/12",
+      "5/13",
+      "5/14",
+      "5/15",
+      "5/17",
+      "5/20",
+      "AM-5",
+      "obręb Tarnogaj",
+      "AM-5"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((364488.0968825538 359243.0642395718,364480.93139073654 359243.1335870521,364480.2897007239 359248.1435130937,364488.5845390908 359249.9691402195,364508.3837562766 359182.80514008645,364504.74561061454 359181.1531702904,364488.0968825538 359243.0642395718)),((364306.79819902 359094.44509066455,364302.62642813293 359094.7936553387,364299.8736716842 359099.1545018675,364298.85868817364 359105.9728549449,364301.993636654 359107.0818579169,364303.7879675472 359107.1534494497,364306.79819902 359094.44509066455)),((364338.71887037065 359118.14784532506,364336.52053847775 359116.2993795462,364335.4426967971 359116.2090584887,364333.88361135055 359125.06607542466,364338.3477038612 359126.73581602424,364339.3850040061 359120.75086190086,364338.71887037065 359118.14784532506)),((364423.5765834338 359224.2697378546,364422.67784942215 359221.9107952155,364418.15143365 359217.86075457,364411.1686630666 359215.78038824163,364409.534782783 359221.7804433368,364388.4977380636 359216.7341224132,364386.3724182084 359227.4721601531,364421.9079690422 359235.29246686585,364423.5765834338 359224.2697378546)),((364356.8153733902 359154.42595221754,364354.60384547093 359158.8914064737,364365.75433940545 359174.0864454042,364369.41467358696 359172.44129410386,364377.1290390248 359184.1512731053,364371.6437210256 359189.0610557301,364375.7927105784 359192.4074775819,364435.48380243836 359204.6569516128,364439.4773878786 359188.4684783183,364433.11351590033 359187.2064085789,364435.20944582345 359176.07091352064,364367.44969827286 359161.3529643165,364361.87940248806 359158.4616933223,364360.17486445484 359154.9920977941,364356.8153733902 359154.42595221754)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "HCR R.Szychliński Sp.k.",
+      "address": "ul. Krucza 2A 53-411 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,19 - 0,58 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,22 - 0,87 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,21 - 1,11 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,12 - 0,43 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,2 - 1,23 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,28 - 0,74 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,24 - 0,62 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "78 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,18 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,15 - 0,58 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-12-13",
+    "legal_basis": "art. 61 Kodeks postępowania administracyjnego w związku z art.101l ustawy Prawo ochrony środowiska",
+    "case_reference": "WSI.515.2024.JR",
+    "decisions": [
+      {
+        "issue_date": "2025-08-04",
+        "reference": "WSI.515.2024.JR.9",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "HCR R.Szychliński Sp.k.",
+        "address": "ul. Krucza 2A 53-411 Wrocław",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": "2028-03-01",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "WSI.515.15.2024.JR"
+}

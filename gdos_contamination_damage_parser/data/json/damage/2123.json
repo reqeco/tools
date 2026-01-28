@@ -1,0 +1,75 @@
+{
+  "registry_id": 2123,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Mysłowice",
+    "municipality": "Mysłowice",
+    "address": null,
+    "precinct": "0001 Brzezinka",
+    "parcel_numbers": [
+      "247001_1.0001.AR_3.1806/102",
+      "247001_1.0001.AR_3.1480/107",
+      "247001_1.0001.AR_3.1804/102",
+      "247001_1.0001.AR_3.3627/107",
+      "247001_1.0001.AR_3.3626/107",
+      "247001_1.0001.AR_3.3611/107",
+      "247001_1.0001.AR_3.3612/107",
+      "247001_1.0001.AR_3.3613/107",
+      "247001_1.0001.AR_3.3614/107",
+      "247001_1.0001.AR_3.3615/107",
+      "247001_1.0001.AR_3.3616/107",
+      "247001_1.0001.AR_3.3617/107",
+      "247001_1.0001.AR_3.3618/107",
+      "247001_1.0001.AR_3.3619/107",
+      "247001_1.0001.AR_3.3620/107",
+      "247001_1.0001.AR_3.3621/107",
+      "247001_1.0001.AR_3.3622/107",
+      "247001_1.0001.AR_3.3623/107",
+      "247001_1.0001.AR_3.3624/107",
+      "247001_1.0001.AR_3.3625/107"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((509813.42 258814.93,509764.44 258809.08000000002,509739.33 258806.06,509729.23000000004 258804.86000000002,509701.34 258801.56,509665.54000000004 258797.28,509662.52 258847.97,509661.05 258868.68,509657.21 258911.99000000002,509791.85000000003 258955.88,509944.81 258981.7,509971.54000000004 258960.97,510065.36 258907.18,510072.3 258908.2,509974.56 258965.34,509952.04000000004 258982.64,509896.46 259027.88,509851.09 259069.34,509877.75 259072.98,509904.63 259075.65,509969.36 259084.54,510036.09 259093.76,510207.55 258935,510207.8 258927.6,510216.02 258903.93,510322.61 258807.25,510264.60000000003 258800.2,510255.12 258798.95,510249.94 258798.31,510182.73000000004 258791.12,510177.05 258790.52000000002,510172.10000000003 258789.93,510168.94 258794.06,510167.43 258793.67,510159.96 258791.73,510143.82 258787.54,510140.25 258786.62,510123.11 258785.16,510106.07 258783.71,510102.34 258783.33000000002,510081.60000000003 258781.19,510078.59 258813.21,510057.83 258811.25,510060.87 258779.06,510040.12 258777,510019.38 258774.94,510013.04000000004 258774.30000000002,509998.64 258772.94,509977.88 258770.97,509961.63 258769.44,509957.12 258769.08000000002,509936.34 258767.41,509915.56 258765.75,509911.52 258765.43,509893.68 258763.6,509868.93 258761.05000000002,509844.7 258757.87,509839.86 258785.28,509835.65 258809.11000000002,509813.42 258814.93))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2025-05-13",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione",
+  "event_description": "Prowadzenie przez firmę TREWERT Sp. z o.o. prac przygotowawczych związanych z wycinką drzew bez odpowiednich zezwoleń oraz prawomocnej decyzji o środowiskowych uwarunkowaniach w związku z realizacją przedsięwzięcia pod nazwą „Budowa 140 budynków mieszkalnych jednorodzinnych w miejscowości Mysłowice”.",
+  "total_area_ha": 12.5,
+  "reporters": [
+    {
+      "name": "Urząd Miasta Mysłowice",
+      "address": "ul. Powstańców 1, 41-400 Mysłowice",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "TREWERT Sp. z o.o.",
+      "address": "ul. Kazimierza Wielkiego 104 30-074 Kraków.",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-05-28",
+    "detection_date": "2025-05-13",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Działka podana w zgłoszeniu o nr ew. 1448/102 nie istnieje."
+}

@@ -1,0 +1,95 @@
+{
+  "registry_id": 505,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "włocławski",
+    "municipality": "Brześć Kujawski",
+    "address": "Brzezie",
+    "precinct": null,
+    "parcel_numbers": [
+      "94/2 i 95"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((492957.82689866005 535827.5041486118,492947.2435441599 535727.4914485812,493201.24405216 535708.441410481,493210.76907121006 535624.3037422011,493219.23575481004 535624.3037422011,493290.6733976801 535647.0579543822,493275.32753366 535776.7040470103,493257.8649987301 535792.0499110315,493256.80666328006 535799.458259182,492957.82689866005 535827.5041486118))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w powierzchni ziemi polegająca na zanieczyszczeniu węglowodorami (benzyna, fenole, krezole, toluen i węglowodory aromatyczne BTEX) działki nr 94/2 i 95 w miejscowości Brzezie",
+  "total_area_ha": 3.74,
+  "reporters": [
+    {
+      "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad",
+      "address": "Bydgoszcz Fordońska 6",
+      "legal_form": null
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Bydgoszczy",
+      "address": "Bydgoszcz Fordońska 6",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "70,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Fenol",
+      "concentration": "57,2 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Toluen",
+      "concentration": "151 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2012-09-04",
+    "detection_date": "2012-08-27",
+    "decisions": [
+      {
+        "issue_date": "2015-09-18",
+        "reference": "WSI.511.16.2012.MG1.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "w dniu 25.07.2013 r. do RDOŚ wpłynęła informacja o zakończonych działaniach wraz ze \"sprawozdaniem końcowym z prac rekultywacyjnych ex-situ środowiska gruntowego obszaru działek nr 94/2 i 95 w m. Brzezie gm. Brześć Kujawski\" autorstwa Prote Technologie dla Środowiska Sp. z o.o. z lipca 2013 r.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

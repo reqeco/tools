@@ -1,0 +1,88 @@
+{
+  "registry_id": 612,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "bydgoski",
+    "municipality": "Nowa Wieś Wielka",
+    "address": "Tarkowo Dolne",
+    "precinct": "Tarkowo Dolne",
+    "parcel_numbers": [
+      "74/22",
+      "74/23"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((440814.0764117479 566196.3853608882,440833.39103370806 566192.1520190882,440840.799381858 566245.0687915888,440935.52040463896 566228.400008251,440911.9724408786 566093.9914061027,440800.0534670376 566112.2476926101,440814.0764117479 566196.3853608882))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2013-09-04",
+    "from": null,
+    "to": null,
+    "description": "data pobrania próbek do badań przez WIOŚ - 4.09.2013"
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w powierzchniz iemi polegająca na zanieczyszczeniu gruntu cynkiem, miedzią, olowiem, beznoalfapirenem w obiektach magazynowych na terenie działki o nr ew. 74/22 i 74/23 połozonych w m. Tarkowo Dolne, gm. Nowa Wies Wielka",
+  "total_area_ha": 1.4675,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektor Ochrony Środowiska w Bydgoszczy",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "JENDRUS Sp.zo.o.",
+      "address": "Budzyń Chodzielska 33",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Cynk (Zn)",
+      "concentration": "max. 537 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Miedź (Cu)",
+      "concentration": "max. 1613 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Ołów (Pb)",
+      "concentration": "max. 193 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2013-11-20",
+    "detection_date": "2013-09-04",
+    "decisions": [
+      {
+        "issue_date": "2014-03-06",
+        "reference": "WSI.512.10.2013.AP.28",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": "decyzja jest ostateczna",
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "Wojewoda Kuj.-Pom. umorzył postępowanie egzekucyjne prowadzone w 2019 r. na wniosek RDOŚ (na dz. nadal zalegają odpady, wykonanie decyzji RDOŚ zależne jest najpierw od ich usunięcia),  z kolei działania związane z usuwaniem odpadów zgodnie z wyrokiem NSA z dnia 29 stycznia 2014 r., sygn. akt II OW 134/13, leżą w kompetencji Starosty Bydgoskiego"
+}

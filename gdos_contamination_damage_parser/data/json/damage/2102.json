@@ -1,0 +1,67 @@
+{
+  "registry_id": 2102,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "braniewski",
+    "municipality": "Braniewo (gmina miejska)",
+    "address": null,
+    "precinct": "0004 miasto Braniewo",
+    "parcel_numbers": [
+      "280201_1.0004.3/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((553207.9602406494 725086.2772491174,553182.5601898492 725057.7021919694,553215.8977565297 725005.3145871991,553269.8728644805 724865.0851400672,553294.743747551 724816.4017093685,553358.2438745518 724746.0224019457,553378.8814158323 724729.6182024684,553419.6273306531 724703.6889839387,553460.3732454838 724703.6889839368,553546.0984169353 724757.1349241668,553601.6610280562 724764.0141045954,553618.0652275366 724745.4932342153,553631.8235883868 724740.2015569657,553663.5736518872 724685.1681135641,553689.502870408 724699.9848098652,553634.9985947368 724805.2891871417,553583.6693254061 724792.059994013,553574.673474086 724794.176664914,553495.8274830543 724766.6599432118,553451.9065618835 724731.7348733665,553412.2189825029 724734.909879717,553336.0188301016 724799.9975098995,553311.6771147511 724843.9184310706,553314.8521211016 724849.2101083193,553282.0437221507 724915.3560739486,553269.3436967507 724973.5645236988,553243.9436459503 725026.4812961975,553242.3561427802 725034.9479798013,553206.3727374796 725086.2772491192,553207.9602406494 725086.2772491174))",
+    "site_description": "Dz. nr 3/5 obręb 0004 miasto Braniewo stanowi działkę wody płynącej - rzeki Pasłęki i graniczy bezpośrednio z terenem dawnej garbarni \"Braniewo\"."
+  },
+  "occurrence_time": {
+    "date": "2025-04-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa (PGW WP RZGW w Gdańsku Zarząd Zlewni w Elblągu)",
+  "land_owner": "Skarb Państwa (PGW WP RZGW w Gdańsku Zarząd Zlewni w Elblągu)",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "woda",
+  "event_description": "Postępowanie zostało wszczęte po rozpatrzeniu zgłoszeń bezpośredniego zagrożenia szkodą w środowisku, z których wynika, że na terenie dz. nr 104/24 obręb 0004 miasto Braniewo trwają prace rozbiórkowe obiektów po byłej garbarni, która funkcjonowała na tym terenie przez kilkadziesiąt lat. Rozbiórka obiektów po byłej garbarni odbywa się bez właściwego zabezpieczenia terenu, co może spowodować uwolnienie się do wód gruntowych i rzeki Pasłęki, położonej w bezpośrednim sąsiedztwie działki, substancji toksycznych.Składowanie w obrębie dz. nr 104/24 obręb 0004 miasto Braniewo substancji niebezpiecznych, o ile zostanie udowodnione, może stanowić zagrożenie dla wód rzeki Pasłęki, która graniczy z nieruchomością (dz. nr 3/5 obręb 0004 miasto Braniewo). Zagrożenie to potęgują trwające prace rozbiórkowe, o których mowa w zgłoszeniu, które mogą doprowadzić do uwolnienia do środowiska substancji niebezpiecznych.",
+  "total_area_ha": 2.5204,
+  "reporters": [
+    {
+      "name": "(…) - reprezentowana przez radcę prawnego (…)",
+      "address": "(…) adres pełnomocnika: Kancelaria Radcy Prawnego (…)",
+      "legal_form": "osoba fizyczna"
+    },
+    {
+      "name": "(…",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) Przedsiębiorstwo Wielobranżowe (…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-04-23",
+    "detection_date": "2025-04-01",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

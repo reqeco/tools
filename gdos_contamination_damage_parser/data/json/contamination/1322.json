@@ -1,0 +1,187 @@
+{
+  "registry_id": 1322,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.04,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "ul. Czarnieckiego 31",
+    "precinct": "Stare Miasto",
+    "parcel_numbers": [
+      "12/1",
+      "AM-2",
+      "Obręb Stare Miasto"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((360451.5564742093 362938.71635313984,360459.68046050146 362937.2334248554,360463.89772148 362931.84498161916,360455.8386692408 362928.5437069554,360446.80821294873 362930.262876004,360438.24568733084 362932.5774743408,360435.9503378307 362936.83218669146,360442.4413424097 362939.5010016924,360451.5564742093 362938.71635313984)),((360465.5298138102 362955.21058757603,360468.9282234404 362951.50368640944,360466.19400212873 362947.3713104911,360460.76008255314 362946.648440836,360458.3262380236 362951.23092088103,360459.8223596758 362955.471091507,360465.5298138102 362955.21058757603)),((360469.90368523076 362977.8951567337,360475.3934827987 362976.55099229235,360472.17322917597 362963.2094583772,360466.5838926125 362964.58496497665,360469.90368523076 362977.8951567337)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Archicom Nieruchomości 19 Sp. z o.o.",
+      "address": "ul. Traugutta 45, 50-418 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,167 - 1,42 mg/kg s.m.",
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,218 - 1,45 mg/kg s.m.",
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,254 - 1,97 mg/kg s.m.",
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,085 - 0,648 mg/kg s.m.",
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,164 - 1,46 mg/kg s.m.",
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,895 mg/kg s.m.",
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,829 mg/kg s.m.",
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "33,8 mg/kg s.m.",
+      "area_ha": 0.009
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "179 - 510 mg/kg s.m.",
+      "area_ha": 0.031
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "242 - 264 mg/kg s.m.",
+      "area_ha": 0.031
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "512 mg/kg s.m.",
+      "area_ha": 0.031
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "471 - 538 mg/kg s.m.",
+      "area_ha": 0.031
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-03-24",
+    "legal_basis": "art 61. par. 4. Kpa w związku z 101l ust. 2. Poś",
+    "case_reference": "WSI.515.4.2021.PB",
+    "decisions": [
+      {
+        "issue_date": "2021-07-07",
+        "reference": "WSI.515.4.2021.PB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-09-06",
+        "reference": "WSI.515.12.2021.PB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-04-13",
+        "reference": "WSI.515.5.2023.ŁJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-07-01",
+        "reference": "WSI.515.2.2025.ŁJ.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Archicom Nieruchomości 19 Sp. z o.o.",
+        "address": "ul. Traugutta 45, 50-418 Wrocław",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2021-08-01",
+    "planned_end": "2025-04-30",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

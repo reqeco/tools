@@ -1,0 +1,106 @@
+{
+  "registry_id": 984,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Władysławowo",
+    "address": "kemping Kaper",
+    "precinct": "0010 Władysławowo",
+    "parcel_numbers": [
+      "33/3 obręb 10"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((464843.16774611734 768500.5421633776,464853.75110061734 768514.8296919568,465114.1016213176 768287.8167379266,465269.14776474755 768166.6373289088,465368.10212931765 768111.6038855072,465276.0269451676 768119.5414013779,465233.16435944755 768153.9373035077,465195.5934509677 768161.8748193774,465115.68912449747 768221.6707723076,465070.1807001476 768256.5958421575,465009.3264117674 768261.3583516758,464889.2053381974 768423.2836755253,464843.16774611734 768500.5421633776))",
+    "site_description": "kemping Kaper"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2009-04-20",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "na terenie kempingu Kaper prowadzono prace polegające na usypywaniu brzegu przy użyciu spychacza i wykorzystaniu piasku z dna Zatoki Puckiej. W skutek prac ziemnych częściowo zniszczono siedlisko przyrodnicze duża płytka zatoka.",
+  "total_area_ha": 3.8068,
+  "reporters": [
+    {
+      "name": "Nadmorski Park Krajobrazowy",
+      "address": "ul. Ks. Merkleina 1, 84-120 Władysławowo",
+      "legal_form": "Samorządowa jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "55.30.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Duże, płytkie zatoki",
+      "other": null
+    },
+    {
+      "natura_2000": "Kidzina na brzegu morskim",
+      "other": null
+    },
+    {
+      "natura_2000": "Nadmorskie wydmy białe (Elymo Ammophiletum)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2009-04-27",
+    "detection_date": "2009-04-20",
+    "decisions": [
+      {
+        "issue_date": "2011-09-07",
+        "reference": "RDOŚ-Gd-WSI.I.511.25.9.2011.KG.DH",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-10-15",
+        "reference": "RDOŚ-Gd-WSI.I.511.25.2011.IG.23",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2011-09-19",
+        "reason": "nieprecyzyjne sformułowanie w decyzji czym jest \"materiał piaszczysty\", ponadto zdaniem skarżących odtworzenie 700 mb wydmy bez udziału sprzętu mechanicznego jest fizycznie niemożliwe oraz naruszenie art. 107 par. 3 kpa",
+        "appealed_decision_reference": "RDOŚ-Gd-WSI.I.511.25.9.2011.KG.DH",
+        "resolution_reference": null,
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2012-04-16",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Śodowiska",
+        "resolution_content": "uchylono w całości  i przekazano do ponownego rozpatrzenia"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2017-10-31",
+    "actual_end": null,
+    "method": null,
+    "description": "odbudowa wydmy białej na całej długości kempingu tj. 700 mb, zabezpieczenie wydmy poprzez ustawienie płotka faszynowego, obsadzenie 25% powierzchni wydmy wydmuchrzycą piaskową i piaskownicą zwyczajną, obsadzenie pasa szuwaru trzcinowego wzdłuż linii brzegowej",
+    "ecological_effect": "zmarł podmiot korzystający ze środowiska",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

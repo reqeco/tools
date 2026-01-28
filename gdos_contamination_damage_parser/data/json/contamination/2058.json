@@ -1,0 +1,147 @@
+{
+  "registry_id": 2058,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0405,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Prosta 69",
+    "precinct": "6-04-09",
+    "parcel_numbers": [
+      "8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635282.0464179838 486654.65455836616,635287.3380952388 486632.9586816374,635350.5736384465 486649.09829724673,635381.79453426 486662.0629065158,635381.0007826693 486664.9733289946,635391.3195533204 486668.1483353451,635392.1133049112 486664.44416127447,635404.2841625942 486668.67750307545,635401.1091562411 486675.0275157746,635392.3778887717 486671.58792556636,635390.7903855904 486685.61087027565,635387.3507953767 486685.6108702747,635384.7049567541 486694.87130546384,635291.3068531839 486668.148335346,635292.365188635 486663.9149935469,635282.8401695748 486661.79832264595,635283.8985050257 486655.97747767717,635282.0464179838 486654.65455836616))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Prosta 69 sp. z o.o.",
+      "address": "ul. Emilii Plater 53, 00-113 Warszawa",
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": null,
+      "area_ha": 0.0355
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0355
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": null,
+      "area_ha": 0.0355
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": null,
+      "area_ha": 0.0355
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2024-08-20",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.32.2024.AGi",
+    "decisions": [
+      {
+        "issue_date": "2024-09-23",
+        "reference": "WOOŚ-IV.515.32.2024.AGi",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Prosta 69 sp. z o.o.",
+        "address": "ul. Emilii Plater 53, 00-113 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2024-10-01",
+    "planned_end": "2028-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

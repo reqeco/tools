@@ -1,0 +1,214 @@
+{
+  "registry_id": 558,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.37,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Szwedzka 20 - etap B",
+    "precinct": "4-13-02",
+    "parcel_numbers": [
+      "6/1",
+      "6/2",
+      "6/3",
+      "6/4",
+      "6/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639167.6853397305 490910.3536946969,639247.0604985772 490803.19723038655,639281.4564007416 490827.00977800693,639323.7898187935 490772.7700861944,639351.5711244007 490819.07226213533,639196.7895646383 490940.78083888534,639167.6853397305 490910.3536946969))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja pozostałych wyrobów chemicznych, gdzie indziej niesklasyfikowana",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "European Property  Spot Sp. z o.o.",
+      "address": "Al. Jerozolimskie 181A 02-222  Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "53-110 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "33[mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "350-4800 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "48-280[mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,24-0,50 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,8-2,2 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "2,1-2,4 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,49 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "2,1-2,4 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "2,6-3,3 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,8-2,3 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "1,2-1,5 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,5-1,9 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "56 [mg/kg]",
+      "area_ha": 0.37
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "22-2000 [mg/kg]",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "37 [mg/kg]",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "110-15000 [mg/kg]",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "600 [mg/kg]",
+      "area_ha": 0.02
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "4,9-180 [mg/kg]",
+      "area_ha": 0.02
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-08-22",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2018-10-31",
+        "reference": "WSI.515.25.2018.MB.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "European Property  Spot Sp. z o.o.",
+        "address": "Al. Jerozolimskie 181A 02-222  Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2019-03-31",
+    "planned_end": "2020-06-30",
+    "actual_end": null,
+    "method": null,
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

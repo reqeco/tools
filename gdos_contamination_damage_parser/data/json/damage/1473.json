@@ -1,0 +1,168 @@
+{
+  "registry_id": 1473,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "gostyniński",
+    "municipality": "Gostynin (gmina wiejska)",
+    "address": "Baby Dolne",
+    "precinct": "Baby Dolne",
+    "parcel_numbers": [
+      "26",
+      "27/1",
+      "28/1",
+      "30",
+      "29"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((524340.0755651501 505912.4474218134,524500.1488019702 506401.9275674429,524796.4827279702 506300.0627803728,524624.5032173401 505766.92629743274,524484.27377022 505844.9785368722,524512.0550757803 505919.0620183721,524468.3987384703 505938.90580806416,524445.90911015 505860.8535686238,524340.0755651501 505912.4474218134))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2022-02-07",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "wyciek do ziemi węglowodorów i innych substancji z powodu awarii rurociągu PKN ORLEN S.A. Płock - Ostrów Wielkopolski   w miejscowości Baby Dolne",
+  "total_area_ha": 32.8854,
+  "reporters": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A. z siedzibą w Płocku",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Polski Koncern Naftowy ORLEN S.A. z siedzibą w Płocku",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "19.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "<1 do 2192 mg/kg s.m.",
+      "area_ha": 1.57
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "<30 do 25605 mg/kg s.m.",
+      "area_ha": 1.57
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzen",
+      "concentration": "0,19 mg/kg s.m.",
+      "area_ha": 1.57
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "0,746 mg/kg s.m.",
+      "area_ha": 1.57
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Ksyleny",
+      "concentration": "9,34 mg/kg s.m.",
+      "area_ha": 1.57
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,55 mg/kg s.m.",
+      "area_ha": 1.57
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Styren",
+      "concentration": "11,5 mg/kg s.m.",
+      "area_ha": 1.57
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "<30 - >3000 mg/kg s.m.",
+      "area_ha": 0.72
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "<30 - >3000 mg/kg s.m.",
+      "area_ha": 0.72
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.72
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "mg/kg s.m.",
+      "area_ha": 0.72
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": "w stanie chemicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2022-04-06",
+    "detection_date": "2022-02-07",
+    "decisions": [
+      {
+        "issue_date": "2023-07-27",
+        "reference": "WOOŚ-IV.511.5.2022.IA.28",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2022-02-01",
+    "planned_end": null,
+    "actual_end": "2023-11-21",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń, działania naprawcze, o których mowa w § 2 rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie działań naprawczych",
+    "description": "Remediacja przeprowadzona metodą ex situ do granic technicznych możliwości, w obrębie czynnego rurociągu odizolowanie zanieczyszczeń geomembraną na długości ok. 45 m . Odtworzono wierzchnią warstwę gleby zgodnie z klasą gruntu. W przypadku rowów melioracyjnych powstałe wykopy uzupełniono gruntem wolnym od zanieczyszczeń wraz z odtworzeniem funkcji rowów melioracyjnych.",
+    "ecological_effect": "Osiągnięto założony efekt ekologiczny",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": "nie",
+    "source": "zeźródeł podmiotu korzystajacego ze środowiska",
+    "covered_by_obligee": null,
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

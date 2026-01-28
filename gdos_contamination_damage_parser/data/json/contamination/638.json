@@ -1,0 +1,78 @@
+{
+  "registry_id": 638,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Malbork (gmina wiejska)",
+    "address": "ul. 500-lecia 61\tMalbork Rakowiec 4",
+    "precinct": "15 i 8 Malbork",
+    "parcel_numbers": [
+      "160",
+      "161",
+      "135",
+      "136/1",
+      "136/4",
+      "136/7",
+      "136/8",
+      "137/4",
+      "137/6",
+      "137/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((500803.43535686 683878.3760899547,500770.09779018 683815.4051306844,500773.80196425994 683800.0592666557,500883.86885105993 683743.4383200845,500913.50224366004 683820.6968079358,500870.11049021006 683837.630175136,500874.87299973005 683852.9760391563,500803.43535686 683878.3760899547)) POLYGON((500780.11228939006 683886.0490219742,500788.97584878 683901.9240537258,500791.48939547007 683891.0761153549,500803.39566929004 683879.4344254043,500795.3258614799 683866.2052322859,500780.11228939006 683886.0490219742)) POLYGON((505134.1307891099 686040.2908304436,505198.68925156 686010.1282701222,505115.6099187299 685893.1822028924,505109.25990603 685845.0279399138,505100.26405471005 685843.9696044633,505134.1307891099 686040.2908304436)) POLYGON((505124.23535264994 685895.6957495827,505179.53337991 685861.5644313237,505185.88339261 685861.2998474631,505200.96467277 685861.8290151833,505237.2126619399 685916.862458583,505245.9439294 685939.6166707631,505263.2609431901 685984.1990515925,505253.4713402701 685988.6969772531,505243.9992380099 685974.9386164034,505231.29921260994 685969.1177714337,505211.19083906 685941.3364658626,505173.85805602995 685966.4719328023,505124.23535264994 685895.6957495827))",
+    "site_description": "Przesyłanie i dystrybucja energii elektrycznej - PKD 35.12.Z oraz 35.13.Z"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Przesyłanie energii elektrycznej",
+    "current": "Przesyłanie energii elektrycznej"
+  },
+  "land_holders": [
+    {
+      "name": "uw. ENERGA-OPERATOR SPÓŁKA AKCYJNA Z SIEDZIBĄ W GDAŃSKU",
+      "address": "ul. Marynarki Polskiej 130, 80-557 Gdańsk koresp. ul. Tuwima 6, 10-950 Olsztyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "160\t15",
+        "161",
+        "135\t8",
+        "136/1",
+        "136/4",
+        "136/7",
+        "136/8",
+        "137/4",
+        "137/6",
+        "137/7"
+      ],
+      "economic_activity_code": "35.12.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.62.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.62.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

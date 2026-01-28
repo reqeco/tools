@@ -1,0 +1,73 @@
+{
+  "registry_id": 126,
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "łęczyński",
+    "municipality": "Puchaczów",
+    "address": null,
+    "precinct": "0018 Ostrówek Kolonia",
+    "parcel_numbers": [
+      "061004_2.0018.1078"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((778416.8046509811 384593.88634233177,778428.3140496186 384544.9383277865,778433.4734352557 384533.69351363275,778473.6901851741 384536.7362281233,778462.8422462884 384597.8551003523,778416.8046509811 384593.88634233177))",
+    "site_description": "teren działki nr 1078 w miejscowości Ostrówek"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "w wyniku prowadzonej działalności w okresie od późnych lat 70. do końca lat 80. XX wieku"
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Szkoda polegająca na zanieczyszczeniu czwartorzędowego poziomu wód podziemnych azotanami i siarczanami. Przekroczone są także zawartości twardości i utlenialności w rejonie wyrobiska po kopalni piasku zamienionego na \"dzikie\" składowisko odpadów w obrębie działki nr 1078 w miejscowości Ostrówek, gmina Puchaczów.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Puchaczów",
+      "address": "ul. Lubelska 22, 21-013 Puchaczów",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Gmina Puchaczów",
+      "address": "ul. Lubelska 22, 21-013 Puchaczów",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": null,
+    "detection_date": "2007-09-01",
+    "decisions": [
+      {
+        "issue_date": "2007-10-23",
+        "reference": "ŚiR.I.6623/11/07",
+        "issuing_authority": "Wojewoda Lubelski",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2007-11-01",
+    "planned_end": "2008-08-15",
+    "actual_end": "2008-08-15",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie selektywne odpadów z podziałem na poszczególne grupy, wypełnienie wyrobiska po eksploatacji piasku gruntem mineralnym, rodzimym, wykonanie nasypu rekultywacyjnego (warstwy glebowej).",
+    "ecological_effect": "Ukształtowanie pierwotne morfologii terenu w obrębie działki, z odtworzeniem warstwy gleby w celu przywrócenia użytkowania rolniczego.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

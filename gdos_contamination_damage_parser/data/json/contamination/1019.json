@@ -1,0 +1,107 @@
+{
+  "registry_id": 1019,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.02,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Kraków",
+    "municipality": "Kraków",
+    "address": "Kraków ul Wadowicka 12",
+    "precinct": "30 Podgórze",
+    "parcel_numbers": [
+      "126104_9.0030.318/7",
+      "126104_9.0030.211/29"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((567133.5027729523 240764.89175330196,567136.1486115723 240768.59592736978,567140.2496614424 240764.36258557066,567136.0163196422 240761.0552872913,567131.7829778423 240763.83341785148,567133.5027729523 240764.89175330196) , (567177.6485906327 240754.9037121823,567172.3569133825 240752.39016549103,567173.2829569025 240745.3786931308,567182.5433920928 240745.51098507084,567184.6600629928 240753.18391708285,567177.6485906327 240754.9037121823) , (567210.0601137931 240782.42043388076,567205.959063923 240770.2495762119,567201.328846333 240773.29229063168,567203.8423930231 240779.64230333176,567206.752815513 240782.55272582173,567210.0601137931 240782.42043388076) , (567202.3871817831 240810.06944752112,567201.7257221232 240805.3069379907,567208.075734823 240803.8517267499,567210.589281513 240810.59861524217,567205.562188133 240813.2444538707,567202.3871817831 240810.06944752112))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": "Kupno i sprzedaż nieruchomości na własny rachunek"
+  },
+  "land_holders": [
+    {
+      "name": "Estima Sp. z o.o.",
+      "address": "Plac Europejski 1 00-844 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "464-638 mg/kg s.m.",
+      "area_ha": 0.0075
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1430mg/kg s.m.",
+      "area_ha": 0.005
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "607-907 mg/kg s.m.",
+      "area_ha": 0.01
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-09-19",
+    "legal_basis": "Art. 61 § 3 Kpa",
+    "case_reference": "ZS.515.15.2019.MKub",
+    "decisions": [
+      {
+        "issue_date": "2020-04-09",
+        "reference": "ZS.515.15.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-12-31",
+        "reference": "ZS.515.16.2020.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "Art. 155 § 3 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Estima Sp. z o.o.",
+        "address": "Plac Europejski 1 00-844 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-04-01",
+    "planned_end": "2021-09-30",
+    "actual_end": "2021-07-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja metodą ex-situ, usuniecie całości zanieczyszczonej gleby i ziemi.",
+    "ecological_effect": "w wyniku przeprowadzonej remediacji, grunt postawiony w granicach działek nr 318/7 i 211/29 spełnia wymagania dla I grupy  gruntów określone  w  Rozporządzeniu  Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395)",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

@@ -1,0 +1,78 @@
+{
+  "registry_id": 982,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "32-540 Trzebinia, działka nr 847/9",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "847/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532416.6986495708 254264.63720256463,532418.6830285408 254262.91740746424,532433.7643087007 254280.37994238455,532439.5851536808 254277.07264410332,532482.1831555408 254323.11023618467,532468.160210831 254341.2342307642,532466.8372915109 254322.44877652544,532433.4997248407 254284.74557611532,532416.6986495708 254264.63720256463))",
+    "site_description": "Teren po byłych Zakładach Metalurgicznych \"Trzebinia\" w Trzebini"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Trzebinia",
+      "address": null,
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "847/9"
+      ],
+      "economic_activity_code": "96.09.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-04",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.34.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-12-06",
+        "reference": "ZS.513.34.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Trzebinia",
+        "address": null,
+        "economic_activity_code": "96.09.Z"
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

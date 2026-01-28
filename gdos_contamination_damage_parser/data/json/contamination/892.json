@@ -1,0 +1,85 @@
+{
+  "registry_id": 892,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0025,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "bolesławiecki",
+    "municipality": "Osiecznica",
+    "address": null,
+    "precinct": "0010 Świętoszów",
+    "parcel_numbers": [
+      "573/8",
+      "obręb Świętoszów"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((251074.18701284160488285 406916.13946312287589535, 251074.04997108725365251 406915.27421553863678128, 251073.65226042587892152 406914.49366441648453474, 251073.03281154803698882 406913.87421553861349821, 251072.25226042585563846 406913.47650487726787105, 251071.38701284161652438 406913.33946312288753688, 251070.52176525737741031 406913.47650487726787105, 251069.74121413519605994 406913.87421553861349821, 251069.12176525735412724 406914.49366441648453474, 251068.72405459597939625 406915.27421553863678128, 251068.58701284162816592 406916.13946312287589535, 251068.72405459597939625 406917.00471070711500943, 251069.12176525735412724 406917.78526182926725596, 251069.74121413519605994 406918.40471070713829249, 251070.52176525737741031 406918.80242136848391965, 251071.38701284161652438 406918.93946312286425382, 251072.25226042585563846 406918.80242136848391965, 251073.03281154803698882 406918.40471070713829249, 251073.65226042587892152 406917.78526182926725596, 251074.04997108725365251 406917.00471070711500943, 251074.18701284160488285 406916.13946312287589535)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Agencja Mienia Wojskowego",
+      "address": null,
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1100 mg/kg s.m.",
+      "area_ha": 0.0025
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-09-03",
+    "legal_basis": "art.61 par.4 KPA",
+    "case_reference": "WSI.515.10.2019.KMA.3",
+    "decisions": [
+      {
+        "issue_date": "2019-10-30",
+        "reference": "WSI.515.10.2019.KMA.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Agencja Mienia Wojskowego",
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-11-13",
+    "planned_end": "2019-12-31",
+    "actual_end": "2019-11-13",
+    "method": null,
+    "description": "Wykonanie prac remediacyjnych metodą ex-situ, polegającą na wydobyciu zanieczyszczonego gruntu.",
+    "ecological_effect": "W wyniku przeprowadzonych prac remediacyjnych na przedmiotowym terenie osiągnięto dopuszczalne zawartości stężeń sumy węglowodorów C12-C35,  odpowiadające IV grupie gruntów, w myśl rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r., poz. 1395).",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

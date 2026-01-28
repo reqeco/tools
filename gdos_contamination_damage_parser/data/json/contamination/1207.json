@@ -1,0 +1,60 @@
+{
+  "registry_id": 1207,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Skarszewy",
+    "address": "ul. Starogardzka 4, 83-250 Skarszewy",
+    "precinct": "7 Skarszewy",
+    "parcel_numbers": [
+      "272/7"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((464238.97743620747 689455.1424513953,464240.82952324743 689422.3340524454,464290.5712893975 689426.8319781078,464288.71920235746 689449.0570225557,464296.3921343774 689458.0528738871,464238.97743620747 689455.1424513953))",
+    "site_description": "Obszar działalności \"Stacje paliw\""
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [
+        "272/7"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-10-02",
+    "legal_basis": null,
+    "case_reference": "RDOŚ-Gd-WZS.515.202.2019",
+    "decisions": [
+      {
+        "issue_date": "2020-12-30",
+        "reference": "RDOŚ-Gd-WZS.515.202.2019.IK.MK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

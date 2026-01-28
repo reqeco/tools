@@ -1,0 +1,76 @@
+{
+  "registry_id": 764,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": null,
+    "precinct": "0013 Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.1190/8"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((533418.6503259409 254003.45783587266,533403.8336296411 254009.01409698185,533382.0054609908 253971.57548044156,533351.5783168009 253984.0109219728,533315.8594953609 253995.65261192247,533309.244898801 253989.5671830941,533394.970070251 253961.65358559228,533399.467995911 253979.38070438243,533418.6503259409 254003.45783587266))",
+    "site_description": "Teren w przeszłości należący do Zakładów Metalurgicznych Trzebinia"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Starosta Chrzanowski",
+      "address": "ul. Partyzantów 2, Chrzanów",
+      "entity_type": "Skarb Państwa",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-12",
+    "legal_basis": "art. 61 § 1 Kpa",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-05-09",
+        "reference": "ZS.513.88.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Starosta Chrzanowski",
+        "address": "ul. Partyzantów 2, Chrzanów",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

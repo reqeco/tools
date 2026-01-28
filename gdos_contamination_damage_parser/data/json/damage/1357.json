@@ -1,0 +1,56 @@
+{
+  "registry_id": 1357,
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "municipality": "Skarbimierz",
+    "address": "49-318 Skarbimierz Osiedle, na działkach ewidencyjnych o nr 181 i 182 obręb Skarbimierz-Osiedle",
+    "precinct": "Skarbimierz-Osiedle",
+    "parcel_numbers": [
+      "181 i 182"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((388539.6325843273 331744.55693757255,388535.3992425272 331575.2232655715,388779.87473154254 331570.98992377426,388799.98310509784 331602.21081954334,388744.4204939524 331711.74853862356,388738.5996489807 331740.85276349355,388539.63258432725 331745.0861052908,388539.6325843273 331744.55693757255))",
+    "site_description": "Skarbimierz Osiedle, na działkach ewidencyjnych o nr 181 i 182 obręb Skarbimierz-Osiedle"
+  },
+  "occurrence_time": {
+    "date": "2020-05-15",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "w dniu 15.05.2020r., na terenie działek ewidencyjnych nr 181 i 182 obręb Skarbimierz-Osiedle, zostało ujawnione nielegalne składowanie zbiorników z substancjami o nieznanym składzie chemicznym. W wyniku rozszczelnienia kilku zbiorników doszło do wycieku tych substancji do gleby. Z dostępnych informacji, wynika że teren, na którym doszło do zdarzenia jest zabezpieczony przez służby policji i straży pożarnej. Wojewódzki Inspektor Ochrony Środowiska przeprowadził kontrolę na przedmiotowym terenie. Jednocześnie, prowadzona jest identyfikacja substancji znajdujących się w zbiornikach przez specjalistyczną grupę ratownictwa chemicznego. Z przekazanych informacji wynika, że na terenie nieruchomości działalność prowadzi firma, zajmującą się przetwarzaniem opakowań. Składowane od kilku lat odpady, zmieniły ukształtowanie terenu, podnosząc go znacząco, w porównaniu do działek sąsiednich. Biorąc pod uwagę, że w odległości ok. 200 metrów od miejsca zdarzenia, znajduje się zabudowa mieszkaniowa z ujęciem wody gruntowej do celów gospodarczych, w tym do podlewania ogródków warzywnych, istnieje poważne zagrożenie wystąpienia szkody w środowisku.",
+  "total_area_ha": 3.8,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "P.P.H.U(…)",
+      "economic_activity_code": "38.32.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2020-05-22",
+    "detection_date": "2020-05-15",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": "postępowanie zawieszone do czasu usunięcia odpadów."
+}

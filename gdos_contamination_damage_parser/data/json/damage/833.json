@@ -1,0 +1,102 @@
+{
+  "registry_id": 833,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "myszkowski",
+    "municipality": "Myszków",
+    "address": "Myszków",
+    "precinct": "0005 Myszków",
+    "parcel_numbers": [
+      "240901_1.0005.4489"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((523050.838000 302836.507900,523317.403000 302899.051000,523567.811000 302958.114000,523586.518000 302874.315000,523102.266000 302763.171000,523061.307000 302752.410000,523056.357000 302769.286000,523053.234000 302828.911000,523050.838000 302836.507900))",
+    "site_description": "Teren leśny za ogrodzeniem PHU REKO Jakub Ciupiński (ul. Jana Pawła II; 42-300 Myszków)."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2015-12-30",
+    "description": "Informacja o zanieczyszczeniu przekazana została przez mieszkańców dzielnicy Podlas 30.12.2015 do Powiatowego Inspektora Sanitarnego w Myszkowie, a następnie do WIOŚ."
+  },
+  "land_surface_holder": "Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie stwierdzone w trakcie kontroli WIOŚ",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach Delegatura w Częstochowie",
+      "address": "Ul. Rząsawska 24/28; 42-200 Częstochowa",
+      "legal_form": "Administracja"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Cynk (Zn)",
+      "concentration": "500",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Ołów (Pb)",
+      "concentration": "1700",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Bar (Ba)",
+      "concentration": "430",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3900",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "7400",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "54",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2016-04-01",
+    "detection_date": "2016-01-26",
+    "decisions": [
+      {
+        "issue_date": "2023-05-04",
+        "reference": "WSI.512.4.2016.SA.MS2.15",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

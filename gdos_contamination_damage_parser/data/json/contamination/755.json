@@ -1,0 +1,170 @@
+{
+  "registry_id": 755,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.4,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Jagiellońska Warszawa",
+    "precinct": "4-18-05",
+    "parcel_numbers": [
+      "9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((636957.214208437 492312.65959601384,637097.4436557309 492369.2805425832,637251.4314638682 491999.3923027981,637141.0470763082 491950.9734559618,637104.0053355176 492023.73401815165,637059.0260788349 492006.5360670835,636957.214208437 492312.65959601384))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Mennica Polska SA Sp komandytowo akcyjna",
+      "address": "Al. Jana Pawła II23 00-854 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "9"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "636",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "313",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "33,9-543",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "522-2770",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "2,58",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "1880",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Nikiel (Ni)",
+      "concentration": "137",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1990",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "6,56",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "8300",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Toluen",
+      "concentration": "0,11",
+      "area_ha": 1.4
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "341",
+      "area_ha": 0.008
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "131",
+      "area_ha": 0.008
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-01",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.3.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-04-17",
+        "reference": "WOOŚ-IV.515.3.2019.MB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Mennica Polska SA Sp komandytowo akcyjna",
+        "address": "Al. Jana Pawła II23 00-854 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-04-19",
+    "planned_end": "2022-12-31",
+    "actual_end": "2021-05-20",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

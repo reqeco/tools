@@ -1,0 +1,63 @@
+{
+  "registry_id": 1522,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "mikołowski",
+    "municipality": "Łaziska Górne",
+    "address": "przy ul. Ligonia 6",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((490819.57420833100331947 253724.98255915599293076, 490820.12952948297606781 253717.19962897698860615, 490841.52951680397382006 253722.59955618600361049, 490842.60048753401497379 253751.05868258900591172, 490843.83631031302502379 253782.12408618599874899, 490844.13275491900276393 253790.0754974459996447, 490840.27627219498390332 253790.91671906100236811, 490840.09373679297277704 253763.12529257498681545, 490820.10637937800493091 253763.20324731100117788, 490819.90896828402765095 253743.99703803999000229, 490819.57420833100331947 253724.98255915599293076)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2018-02-11",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": null,
+  "event_description": "Uciążliwa i zagrażająca zdrowiu i życiu, a także środowisku działalność firmy „AUTO-NAPRAWA” Zdzisław Sziling z siedzibą w Łaziskach Górnych przy ul. Ligonia 6.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Powiatu Mikołowskiego",
+      "address": null,
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "„AUTO – NAPRAWA” Zdzisław Sziling z siedzibą w Łaziskach Górnych",
+      "address": "ul. Ligonia 6 Łaziska Górne",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2019-02-11",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2020-04-27",
+        "reference": "WSI.512.9.2018.MB.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

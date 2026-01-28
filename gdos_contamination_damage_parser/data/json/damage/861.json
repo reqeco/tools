@@ -1,0 +1,88 @@
+{
+  "registry_id": 861,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "nidzicki",
+    "municipality": "Janowo",
+    "address": "13-113 Janowo",
+    "precinct": "0004 Janowo",
+    "parcel_numbers": [
+      "239/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((612073.177044894 608073.0364060588,612070.5312062629 608062.982219289,612682.7782643491 608278.3534833612,612671.6657421144 608286.2909992309,612074.2353803446 608072.5072383378,612073.177044894 608073.0364060588))",
+    "site_description": "Pas drogowy drogi powiatowej nr DP1576N Róg-Janowo"
+  },
+  "occurrence_time": {
+    "date": "2015-09-11",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "jednostka samorządu terytorialnego",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Wypadek drogowy z udziałem cysterny przewożącej olej napędowy",
+  "total_area_ha": 0.0075,
+  "reporters": [
+    {
+      "name": "Warmińsko-Mazurski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": "ul. 1 Maja 13b, 10-117 Olsztyn",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) Hurtownia Usługowo-Handlowa",
+      "address": "(…)",
+      "economic_activity_code": "49.41.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "Zawartość 729-3240 mg/kg s.m.",
+      "area_ha": 0.0075
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "Zawartość 4181-12789 mg/kg s.m.",
+      "area_ha": 0.0075
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2016-01-19",
+    "detection_date": "2015-09-11",
+    "decisions": [
+      {
+        "issue_date": "2016-03-21",
+        "reference": "WSI.511.2.2016.KPi.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2016-04-01",
+    "planned_end": "2016-09-30",
+    "actual_end": "2016-09-30",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja metodą ex-situ. Prace będą prowadzone do głębokości 2,5 m p.p.t. Łącznie zostanie wydobyte około 290-310 Mg gruntu niespełniającego wymogów dla gruntów grupy C.",
+    "ecological_effect": "Osiągnięty zostanie następujący efekt ekologiczny:  dla przedziału głębokości 0,0 – 2,0 m p.p.t.: - benzyny suma (węglowodory C6-C12) – 500 mg/kg s.m.; - oleje mineralne(węglowodory C12 – C35) – 3000 mg/kg s.m.; dla przedziału głębokości 2,0 – 15 m p.p.t. (grunty o wodoprzepuszczalności do 1x10-7 m/s): - benzyny suma (węglowodory C6-C12) – 50 mg/kg s.m.; - oleje mineralne(węglowodory C12 – C35) – 1000 mg/kg s.m.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

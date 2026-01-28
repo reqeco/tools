@@ -1,0 +1,184 @@
+{
+  "registry_id": 1215,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "Tarnów",
+    "municipality": "Tarnów",
+    "address": "Tarnów, ul. Komunalna 20A",
+    "precinct": "69",
+    "parcel_numbers": [
+      "71",
+      "73",
+      "74/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((644505.8737640484 243829.68872140348,644583.9260035773 243833.12831162382,644586.5718422097 243813.28452193178,644666.7407526412 243817.2532798713,644667.2699203611 243801.37824812066,644589.746848563 243800.3199126739,644591.3343517338 243766.7177621331,644468.3028555335 243758.51566239446,644466.1861846324 243793.96989997476,644508.7841865408 243795.2928192839,644508.5196026803 243795.29281928483,644507.7258510896 243796.8803224545,644505.8737640484 243829.68872140348))",
+    "site_description": "teren Regionalnej Instalacji Przetwarzania Odpadów Komunalnych"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2012-01-01",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie powierzchni ziemi w wyniku rozszczelnienia zbiornika na ścieki",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "FB Serwis Karpatia Sp. z o.o.",
+      "address": "ul. Odległa 8, 33- 100 Tarnów",
+      "legal_form": "władający terenem"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "FB Serwis Karpatia Sp. z o.o",
+      "address": "ul. Odległa 8, 33- 100 Tarnów",
+      "economic_activity_code": "38.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "310",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "180",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "18-41",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "53-69",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "280",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "150",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "480",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "480",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "320",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Molibden (Mo)",
+      "concentration": "28",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "500",
+      "area_ha": null
+    },
+    {
+      "soil_group": "II wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,7",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2019-05-09",
+    "detection_date": "2018-03-13",
+    "decisions": [
+      {
+        "issue_date": "2020-02-28",
+        "reference": "ZS.511.1.2019.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2021-12-28",
+        "reference": "ZS.511.1.2021.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-11-28",
+        "reference": "ZS.511.3.2023.MKub",
+        "issuing_authority": null,
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-05-14",
+        "reference": "ZS.511.1.2024.MKub",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2024-08-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "wykonanie szczelnej nawierzchni w miejscu występowania zanieczyszczenia na głębokościach poniżej 0,25 m oraz usunięcie zanieczyszczenia w występującego w warstwie 0,00- 0,25 m p.p.t.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

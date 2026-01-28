@@ -1,0 +1,115 @@
+{
+  "registry_id": 1543,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.6706,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Radom",
+    "municipality": "Radom",
+    "address": "Dzierzków 1 teren 42 Bazy Lotnictwa Szkolnego Garnizon-Radom",
+    "precinct": "0031",
+    "parcel_numbers": [
+      "1/125"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((653637.3733400882 393964.48403909244,653424.383330362 394108.6822441546,653424.3833303631 394125.8801952135,653195.5182888466 394226.4220629679,653202.1328854305 394244.94293334894,653117.4660492669 394289.92218996864,653114.8202106329 394312.41181829013,653087.0389050192 394324.3180920994,653118.7889685903 394476.45381303877,653386.0186702363 394451.3183460962,653393.9561861329 394465.8704585349,653379.4040736646 394475.13089371566,653400.5707827178 394664.30835540406,653392.6332668322 394669.6000326546,653400.5707827223 394742.36059484445,653341.0394135446 394745.00643347483,653278.8622057303 394726.4855630966,653231.2371103865 394726.4855630966,653180.9661764181 394743.6835141601,653188.9036923047 394756.9127072878,653252.4038194291 394743.68351415824,653298.7059954606 394742.3605948463,653375.435315734 394767.49606178515,653425.7062497139 394768.8189810943,653444.2271201236 394816.44407634437,653510.3730858846 394805.8607218433,653499.7897313627 394791.30860940367,653654.5712912306 394767.4960617805,653669.1234037066 394879.94420334045,654042.1866505854 394791.3086093953,653970.7490075352 394379.8807032071,653987.9469586298 394375.91194527596,653923.1239121681 394043.85919783544,653637.3733400882 393964.48403909244))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "42 Baza Lotnictwa Szkolnego Garnizon-Radom",
+      "address": "ul. Sadków 9 26-600 Radom",
+      "entity_type": "Skarb Państwa",
+      "parcels": [
+        "1/125"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 0.6706
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 0.6706
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": null,
+      "area_ha": 0.6706
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": null,
+      "area_ha": 0.6706
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-12-01",
+    "legal_basis": "art.101l ust.4",
+    "case_reference": "WOOŚ-IV.515.56.2021",
+    "decisions": [
+      {
+        "issue_date": "2022-01-31",
+        "reference": "WOOŚ-IV.515.56.2021",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-10-04",
+        "reference": "WOOŚ-IV.515.56.2021.DŚc.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art 155 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "42 Baza Lotnictwa Szkolnego Garnizon-Radom",
+        "address": "ul. Sadków 9 26-600 Radom",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-02-01",
+    "planned_end": "2025-12-31",
+    "actual_end": "2025-02-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ, solidyfikacja",
+    "ecological_effect": "Efekt ekologiczny osiągnięto",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

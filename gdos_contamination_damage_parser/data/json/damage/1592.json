@@ -1,0 +1,78 @@
+{
+  "registry_id": 1592,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "bocheński",
+    "municipality": "Trzciana",
+    "address": "Ujazd 58 i 75,  Trzciana 183",
+    "precinct": "0007, 0006",
+    "parcel_numbers": [
+      "120108_2.0006.1161",
+      "120108_2.0007.143/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((598530.8794148223 219685.86032055318,598539.2138064931 219674.21863060165,598548.0773658842 219663.6352761034,598566.465944336 219642.6008590348,598583.002435738 219624.60915638134,598590.5430758287 219615.8778889235,598604.9628963303 219600.39973296225,598615.8108346915 219589.15491881315,598620.4410522921 219596.82785082143,598624.8066860224 219605.8237021519,598627.7171085128 219609.79246008117,598609.328530061 219615.48101313412,598582.605559948 219657.8144311346,598564.3492734359 219685.33115283214,598543.9763160239 219715.8905889541,598536.8325517331 219727.00311117247,598521.7512715713 219746.84690086357,598518.840849081 219750.41878300253,598517.7825136309 219753.32920549344,598510.3741654801 219753.85837321263,598502.1720657392 219751.60941038374,598495.5574691783 219747.64065245166,598530.8794148223 219685.86032055318), (598248.3038496407 219430.2723093843,598237.5882032092 219433.44731573574,598259.548663802 219497.60890238546,598271.0580618232 219492.84639286622,598248.3038496407 219430.2723093843)))",
+    "site_description": "teren o zagospodarowaniu rolniczym i miaszkalnym"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2011-04-11",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Możliwość wystąpienia szkody w środowisku w powierzchni ziemi i w wodzie, w wyniku nieprawidłowego odprowadzania ścieków z posesji nr 58 i 76 w miejscowości Ujazd. Zanieczyszczenie mikrobiologiczne wody podziemnej ujmowanej ze studni zlokalizowanej na posesji w Trzcianie 183.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2017-12-11",
+    "detection_date": "2011-04-11",
+    "decisions": [
+      {
+        "issue_date": "2023-01-23",
+        "reference": "ZS.512.8.2017",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2023-02-27",
+        "reason": null,
+        "appealed_decision_reference": null,
+        "resolution_reference": null,
+        "appellant_name": "(…)",
+        "appellant_address": null,
+        "resolution_date": null,
+        "reviewing_authority": null,
+        "resolution_content": null
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

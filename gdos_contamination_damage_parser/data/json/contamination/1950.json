@@ -1,0 +1,60 @@
+{
+  "registry_id": 1950,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Czechowice-Dziedzice",
+    "address": "ul. Pionkowa 8  Czechowice-Dziedzice",
+    "precinct": "0001 Czechowice",
+    "parcel_numbers": [
+      "240204_4.0001.3742/20"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((502213.89 227519.85,502228.91 227519.71,502285.33 227510.88,502293.41 227492.81,502294.2 227485.7,502290.85 227466.04,502285.9 227451.6,502284.8 227389.59,502296.9 227341.4,502293.74 227304.02,502286.37 227299.48,502275.13 227298.75,502265.34 227290.92,502254.79 227272.42,502251.17 227270.06,502243.33 227255.24,502102.99 227314.72,502097.26 227317.14,502012.47 227353.07,502042.9 227404.3,502109.55 227540.79,502162.68 227531.28,502164.4 227533.23,502167.12 227537.59,502171.65 227536.63,502170.2 227533.77,502173.49 227530.76,502178.83 227529.15,502196.63 227523.78,502213.89 227519.85))",
+    "site_description": "działka o nr ew. 3742/20, obręb 0001 Czechowice, położona przy ul. Pionkowej w Czechowicach-Dziedzicach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "D 10 Sp. z o.o.",
+      "address": "ul. Lajkonika 19/1 30-216 Kraków",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "240204_4.0001.3742/20"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2020-12-04",
+    "legal_basis": "art. 61 § 1 i 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2020 r. poz. 256 z późn. zm.), w związku z art. 101c ust. 3 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z 2020 r. poz. 1219 z późn. zm.)",
+    "case_reference": "WSI.513.210.2020.SA",
+    "decisions": [
+      {
+        "issue_date": "2021-12-29",
+        "reference": "WSI.513.210.2020.SA.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

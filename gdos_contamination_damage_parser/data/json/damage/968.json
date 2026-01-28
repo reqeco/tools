@@ -1,0 +1,153 @@
+{
+  "registry_id": 968,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "Ul. Łubinowa 18-22 Szczecin",
+    "precinct": null,
+    "parcel_numbers": [
+      "69/19",
+      "69/7 obręb Dąbie 72"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((211393.43734865900478326 621724.58092487300746143, 211390.97179331199731678 621710.29886248102411628, 211389.16458357899682596 621708.58401491597760469, 211360.89903404700453393 621713.50641630403697491, 211364.64061444101389498 621731.99049957399256527, 211367.75370045201270841 621747.36573540896642953, 211369.29182147499523126 621747.1125820119632408, 211378.32525611700839363 621792.99497639294713736, 211387.10730694601079449 621785.74103692499920726, 211385.9938670789997559 621784.39529416000004858, 211398.10203669598558918 621775.62810498697217554, 211405.90817696100566536 621769.30518606095574796, 211419.54899200200452469 621755.37573479698039591, 211409.53601859099580906 621756.85084124095737934, 211408.15527109400136396 621757.05431936599779874, 211404.65858814099919982 621752.25452119996771216, 211401.75238358200294897 621745.61529442004393786, 211401.1662811340065673 621741.88262105698231608, 211395.93650665201130323 621742.73919269302859902, 211393.77293101599207148 621726.98585642199032009, 211393.43734865900478326 621724.58092487300746143))",
+    "site_description": "budynek wielorodzinny"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "2007 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Zniszczenie siedliska lęgowego jerzyków podczas termomodernizacji nieruchomości",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Fundacja Ratujmy Ptaki",
+      "address": "ul. Szafera 186/18 Szczecin",
+      "legal_form": "Fundacja"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Współnota Nieruchomości łubinowa 18-21 w Szczecinie",
+      "address": null,
+      "economic_activity_code": null
+    },
+    {
+      "name": "Wspólnota Miszkaniowa Nieruchomości Łubinowa 22 w Szczecinie",
+      "address": null,
+      "economic_activity_code": null
+    },
+    {
+      "name": "Przedsiębiorstwo Wielobranżowe AWISE (…)",
+      "address": "ul. Niemierzyńska 24/7",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "jerzyk (Apus apus) - siedlisko gatunku chronionego"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-09-19",
+    "detection_date": "2007-06-01",
+    "decisions": [
+      {
+        "issue_date": "2012-06-25",
+        "reference": "WSI.512.8.2012.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2013-09-12",
+        "reference": "WSI.512.2.2013.AS",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2012-07-03",
+        "reason": "niewłaściwe ustalenie stanu faktycznego sprawy",
+        "appealed_decision_reference": "WSI.512.8.2012.AS",
+        "resolution_reference": null,
+        "appellant_name": "Wspólnota Mieszkaniowa Nieruchomości Łubinowa 22 w Szczecine",
+        "appellant_address": "Łubinowa 22 , 70-785 Szczecin",
+        "resolution_date": "2012-12-27",
+        "reviewing_authority": "GDOS",
+        "resolution_content": "uchylenie w całości i i przekazanie sprawy do ponownego rozpatrzenia"
+      },
+      {
+        "date": "2012-07-09",
+        "reason": "niewłaściwe  ustalenie stanu faktycznego sprawy",
+        "appealed_decision_reference": null,
+        "resolution_reference": null,
+        "appellant_name": "Global Projekt Sp. z o.o. 70-785 Szczecin",
+        "appellant_address": "70-785 Szczecin ul. Łubinowa 20a",
+        "resolution_date": "2012-12-27",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchylenie w całości i i przekazanie sprawy do ponownego rozpatrzenia"
+      },
+      {
+        "date": "2012-10-05",
+        "reason": "art. 107 , 7, 77, 75 kpa, 24 ust. szkodowej",
+        "appealed_decision_reference": "WSI.512.8.2012.AS",
+        "resolution_reference": null,
+        "appellant_name": "Fundacja Ratujmy Ptaki",
+        "appellant_address": "Ul. Szafera 196/18",
+        "resolution_date": "2012-12-27",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "uchylenie w całości i i przekazanie sprawy do ponownego rozpatrzenia"
+      },
+      {
+        "date": "2013-10-30",
+        "reason": "niewłaściwe ustalenie stanu faktycznego sprawy",
+        "appealed_decision_reference": "WSI.512.2.2013.AS",
+        "resolution_reference": null,
+        "appellant_name": "Global Projekt Sp. z o.o.",
+        "appellant_address": "Łubinowa 20a 70-785 Szczecin",
+        "resolution_date": "2013-10-18",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "stwierdzenie uchybienia terminu do wniesienia"
+      },
+      {
+        "date": "2013-09-30",
+        "reason": "niewłaściwe ustalenie stanu faktycznego sprawy",
+        "appealed_decision_reference": "WSI.512.2.2013.AS",
+        "resolution_reference": null,
+        "appellant_name": "Zespół Zarządców Nieruchomości WAM Sp. z o.o. Odział Szczecin administracja Nr 3",
+        "appellant_address": "ul. Jasna 78, 70-777 Szczecin",
+        "resolution_date": "2013-10-18",
+        "reviewing_authority": "GDOŚ",
+        "resolution_content": "stwierdzenie uchybienia terminu do wniesienia"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2014-03-31",
+    "actual_end": "2015-09-17",
+    "method": null,
+    "description": "Zamontowanie 40 budek lęgowych oraz otwarcie 20 otworów wentylacyjnych w stropodachu nieruchomości.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

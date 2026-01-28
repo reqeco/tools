@@ -1,0 +1,51 @@
+{
+  "registry_id": 1459,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "suwalski",
+    "municipality": "Jeleniewo",
+    "address": "16-404 Prudziszki",
+    "precinct": "17 Prudziszki",
+    "parcel_numbers": [
+      "31/4",
+      "31/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((754931.3693224146 708445.7815180803,754967.3527298601 708388.6314038355,754991.694446831 708397.6272552051,755034.0278676058 708400.2730938988,755053.6070747247 708405.5647711828,755063.1320944314 708415.089790252,755127.1613934877 708453.1898665661,755183.2531761371 708487.5857687965,755144.0947621732 708559.0234116092,755144.0947621732 708559.0234116092,755144.0947621677 708557.4359084377,754931.3693224146 708445.7815180803))",
+    "site_description": "wyrobisko żwirowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W dniu 3 lipca 2020 r. Podlaski Wojewódzki Inspektor Ochrony Środowiska w Białymstoku (WIOŚ Białystok Delegatura w Suwałkach) zgłosił wystąpienie bezpośredniego zagrożenia szkodą w środowisku w powierzchni ziemi na działkach o nr geod. 31/4 i 31/6 obręb 17 Prudziszki, gm. Jeleniewo, pow. suwalski w związku z nielegalnym deponowaniem odpadów budowlanych i komunalnych z gr.17 i gr.19 w wyrobisku żwirowym.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Białymstoku Delegatura w Suwałkach",
+      "address": "ul. Piaskowa 5 16-400 Suwałki",
+      "legal_form": "organ administracji rządowej zespolonej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2021-10-05",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

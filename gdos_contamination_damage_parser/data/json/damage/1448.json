@@ -1,0 +1,109 @@
+{
+  "registry_id": 1448,
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Fabryczna 22, Trzebinia",
+    "precinct": "0014 Trzebionka",
+    "parcel_numbers": [
+      "120305_4.0014.1987/94",
+      "120305_4.0014.1987/5",
+      "120305_4.0014.530/2",
+      "120305_4.0014.537/8",
+      "120305_4.0014.1987/122",
+      "120305_4.0014.1987/106"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((531846.8237448009 255294.23020910472,531841.2674836909 255290.52603503503,531837.2987257505 255276.5030903276,531833.8591355407 255238.13843025547,531850.7925027407 255187.86749638524,531860.5821056506 255192.89458977524,531849.2049995706 255221.46964692604,531855.5550122707 255225.17382099573,531855.5550122708 255232.31758528575,531850.7925027406 255239.461349573,531843.6487384507 255238.93218184542,531848.1466641207 255273.0635001054,531860.5821056507 255278.6197612239,531862.6987765508 255286.8218609551,531855.5550122707 255294.23020910472,531846.8237448009 255294.23020910472), (531891.0092498406 255309.31148927566,531882.5425662406 255309.04690540396,531876.9863051306 255300.58022180572,531882.5425662406 255297.14063159656,531889.6863305306 255299.5218863543,531894.4488400507 255295.0239606956,531901.0634366208 255298.19896704517,531897.6238464006 255309.57607313432,531894.9780077807 255312.75107948482,531891.0092498406 255309.31148927566), (531907.9426170406 255318.30734059308,531904.2384429708 255314.8677503867,531904.7676106907 255309.0469054049,531910.8530395307 255307.72398609482,531911.9113749806 255311.69274403434,531912.9697104307 255316.98442128394,531907.9426170406 255318.30734059308), (531944.1906062108 255336.82821097504,531937.0468419206 255336.5636271052,531932.2843323906 255331.27194985468,531933.0780839808 255326.77402419504,531940.4864321307 255326.244856474,531949.2176995908 255328.89069509506,531950.0114511807 255336.82821097504,531944.1906062108 255336.82821097504), (531961.9177249908 255322.01151467487,531957.9489670605 255322.8052662555,531956.8906316106 255318.5719244564,531968.0031538308 255292.90728979744,531973.8239988107 255287.88019640557,531977.5281728808 255291.8489543451,531967.2094022407 255314.33858265635,531961.9177249908 255322.01151467487), (531975.5570231108 255334.44695620425,531972.1174328906 255336.56362710614,531967.7517991606 255335.5052916566,531968.1486749606 255331.66882564407,531969.7361781306 255327.7000677148,531972.2497248207 255326.24485646468,531976.0861908306 255327.17089998443,531977.5414020708 255331.2719498556,531975.5570231108 255334.44695620425)))",
+    "site_description": "Zanieczyszczenie gleby i ziemi w wyniku awarii rurociągi i wycieku substancji ropopochodnej ze studzienki teleinformatycznej."
+  },
+  "occurrence_time": {
+    "date": "2021-06-09",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Zanieczyszczenie gleby i ziemi w wyniku awarii rurociągi i wycieku substancji ropopochodnej ze studzienki teleinformatycznej.",
+  "total_area_ha": 0.14,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "09-411 Płock, ul. Chemików 7",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "09-411 Płock, ul. Chemików 7",
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "9390 mg/kg s.m.",
+      "area_ha": 0.08
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3040 -12000  mg/kg s.m.",
+      "area_ha": 0.069
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2021-12-27",
+    "detection_date": "2021-06-09",
+    "decisions": [
+      {
+        "issue_date": "2022-02-24",
+        "reference": "ZS.511.2.2021.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-11-22",
+        "reference": "ZS.511.2.2022.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "Art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-04-28",
+        "reference": "ZS.511.1.2023.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2022-03-01",
+    "planned_end": "2023-06-01",
+    "actual_end": "2023-06-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości, zaniechanie dalszych działań naprawczych",
+    "description": "Remediacja przeprowadzona metodą ex-situ, polegającą na wydobyciu zanieczyszczonej gleby i ziemi.",
+    "ecological_effect": "W wyniku remediacji zawartości substancji powodujących ryzyko w glebie i ziemi na remediowanym terenie, w przeważającej części spełniają wymagania określone dla IV grupy gruntów, ustalone w rozporządzeniu Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395). Tylko w jednym punkcie zanieczyszczenie nie mogło zostać w całości usunięte z uwagi na bezpieczeństwo techniczne (przebieg przewodów elektrycznych oraz bliska odległość podziemnych rurociągów paliwowych). Zanieczyszczenie jest zimmobilizowane z gruntem, zalega w nasypie na glinie, na głębokości 0,7-1,2 m i nie rozprzestrzenia się, a jego objętość oszacowano na 8-16 m3. Niewielki fragment pozostawiono do samooczyszczenia.",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

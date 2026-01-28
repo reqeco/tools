@@ -1,0 +1,62 @@
+{
+  "registry_id": 1935,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Siemianowice Śląskie",
+    "municipality": "Siemianowice Śląskie",
+    "address": "Wyzwolenia 2, Siemianowice Śląskie",
+    "precinct": "0033 Michałkowice",
+    "parcel_numbers": [
+      "247401_1.0033.941/12; 247401_1.0033.942/12"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((501208.01300135802011937 272615.30099663598230109, 501207.40832360601052642 272629.06090228399261832, 501274.74843842297559604 272625.36792148899985477, 501274.35739161097444594 272618.57723662100033835, 501336.2297560769948177 272616.29691037797601894, 501351.74974951497279108 272615.4987675339798443, 501351.67227016197284684 272613.45103318302426487, 501351.67387493001297116 272594.97205867600860074, 501350.00639760302146897 272554.16886569402413443, 501348.19673418701859191 272542.21034000301733613, 501340.11263963597593829 272513.27630228601628914, 501324.23704537999583408 272486.11593517998699099, 501314.28426903299987316 272469.0998897620011121, 501302.78682729898719117 272449.43618933600373566, 501286.33317881199764088 272423.88262834498891607, 501222.21633793698856607 272416.05914134701015428, 501217.51993167598266155 272484.5613325759768486, 501222.97636351699475199 272491.23400085099274293, 501208.01300135802011937 272615.30099663598230109))",
+    "site_description": "Siemianowice Śląskie, ul. Wyzwolenia, tereny przemysłowe"
+  },
+  "occurrence_time": {
+    "date": "2024-05-10",
+    "from": null,
+    "to": null,
+    "description": "10 maja 2024 r. pożar nielegalnego składowiska odpadów"
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Pożar nielegalnie zdeponowanych odpadów na terenie działki o nr ew. 941/12 oraz fragmencie działki o nr 942/12, przy ul. Wyzwolenia w Siemianowicach Śląskich. Część odpadów spłonęła powodując wycieki substancji znajdujących się w beczkach, mauzerach do środowiska (zanieczyszczenie powierzchni ziemi oraz wód)",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "ADZ Jacek Marczyński",
+      "address": "ul. Tkacka 30 34-120 Andrychów",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "P.U.H. IRON TRANS Dawid Bobowski",
+      "address": "ul. Wyzwolenia 2 41-103 Siemianowice Śląskie",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2024-05-16",
+    "detection_date": "2024-05-10",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

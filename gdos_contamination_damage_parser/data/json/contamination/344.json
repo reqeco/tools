@@ -1,0 +1,126 @@
+{
+  "registry_id": 344,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0233,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "braniewski",
+    "municipality": "Pieniężno",
+    "address": "ul. Królewiecka 4, Pieniężno",
+    "precinct": "0002 miasto Pieniężno",
+    "parcel_numbers": [
+      "121"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((573597.5777457333 708773.1793663092,573610.6746469236 708757.1720426297,573617.1569515539 708780.1908386704,573607.6319325035 708786.6731433002,573597.4454537933 708773.4439501725,573597.5777457333 708773.1793663092))",
+    "site_description": "teren dawnej stacji paliw \"ORLEN\" nr 1046, zamkniętej w 2014 r."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Zanieczyszczenie powstało na początku lat 90. XX wieku, kiedy miał miejsce wyciek z podziemnych zbiorników na paliwa."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "PKN ORLEN SA",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "135 mg/kg s.m.",
+      "area_ha": 0.0233
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "114 mg/kg s.m.",
+      "area_ha": 0.0233
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1700 mg/kg s.m.",
+      "area_ha": 0.0233
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "2,21 mg/kg s.m.",
+      "area_ha": 0.0233
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "901 mg/kg s.m.",
+      "area_ha": 0.0233
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "13400 mg/kg s.m.",
+      "area_ha": 0.0233
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "90,7 mg/kg s.m.",
+      "area_ha": 0.0233
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-03-16",
+    "legal_basis": "101l ust. 2",
+    "case_reference": "WSI.515.3.2018.KPi",
+    "decisions": [
+      {
+        "issue_date": "2018-06-18",
+        "reference": "WSI.515.3.2018.KPi.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "PKN ORLEN SA",
+        "address": "ul. Chemików 7 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2018-07-01",
+    "planned_end": "2019-12-30",
+    "actual_end": "2019-05-10",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne środowiska gruntowego będą prowadzone metodą ex-situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go gruntem wolnym od zanieczyszczeń. Prace będą prowadzone na powierzchni około 233 m2 co najmniej do głębokości 1,5 m ppt (część centralna i zatoka) oraz co najmniej do głębokości 3,5 m ppt (pola zbiornikowe). Łącznie zostanie wydobyte około 470,5 m3, tj. około 800 Mg gruntu o zawartości zanieczyszczeń przekraczających wartości dopuszczalne dla gruntów grupy I.  Zanieczyszczony grunt, stanowiący odpad niebezpieczny o kodzie 17 05 03*, zostanie załadowany na samochody przystosowane do transportu odpadów niebezpiecznych i przekazany do unieszkodliwienia podmiotowi posiadającemu zezwolenie na unieszkodliwienie tego rodzaju odpadów. Pojawiająca się wykopach woda gruntowa zostanie wybrana wraz z zanieczyszczonym gruntem i przekazana do unieszkodliwienia jako odpad niebezpieczny. Po usunięciu zanieczyszczonej partii gruntów, powstałe wykopy (ściany i dno) zostaną opróbowane (co najmniej 14 próbek kontrolnych) i przebadane pod kątem określenia w glebie i ziemi zawartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji. Następnie wykopy zostaną uzupełnione czystym gruntem (spełniającym wymagania jakościowe przewidziane dla gruntów grupy I). Prace remediacyjne będą prowadzone pod stałym nadzorem geologicznym, przy zachowaniu szczególnych środków bezpieczeństwa oraz zastosowaniu środków ochrony indywidualnej odpowiednich do rodzaju wykonywanych prac i zagrożeń związanych z narażeniem na kontakt z odpadami niebezpiecznymi. Do czasu zakończenia prac remediacyjnych obszar historycznego zanieczyszczenia powierzchni ziemi będzie zabezpieczony przez dostępem osób postronnych.",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym dla gruntów grupy I w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).  Ich zawartość w glebie i w ziemi nie będzie zatem przekraczać:  •\tna głębokości 0-0,25 m ppt - suma węglowodorów C12-C35, składników frakcji oleju – 30 mg/kg s.m. •\tna głębokości poniżej 0,25 m ppt, przy wodoprzepuszczalności gruntów wyższej lub równej 1x10-7 m/s - suma węglowodorów C6-C12, składników frakcji benzyn – 50 mg/kg s.m.; - suma węglowodorów C12-C35, składników frakcji oleju – 1000 mg/kg s.m.; - ksyleny – 1 mg/kg s.m. •\tna głębokości poniżej 0,25 m ppt, przy wodoprzepuszczalności gruntów niższej niż 1x10-7 m/s - suma węglowodorów C6-C12, składników frakcji benzyn – 500 mg/kg s.m.; - suma węglowodorów C12-C35, składników frakcji oleju – 3000 mg/kg s.m.; - ksyleny – 35 mg/kg s.m.  Pismem z 13.06.2019 r. przedłożono \"Sprawozdanie z nadzoru geologicznego nad pracami remediacyjnymi prowadzonymi na terenie stacji paliw PKN ORLEN S.A. nr 1046 przy ul. Królewieckiej w Pieniężnie\". Zgodnie z tym dokumentem, w ramach prac ziemnych usunięto całą warstwę powierzchniową w granicach działki oraz grunty zalegające poniżej do głębokości ok. 4,5 m ppt. Prace remediacyjne ex-situ ostatecznie objęły obszar o pow. ok. 316 m2. Wydobyto ok. 625 m3 zanieczyszczonego gruntu.Wytworzono łącznie 1060,96 Mg odpadów o kodzie 17 05 03*. Badania laboratoryjne próbek gruntów pobranych z dna i ścian wykopu potwierdziły osiągnięcie ww. efektu ekologicznego. Nawieziony czysty grunt spełniał normy jakości przewidziane dla gruntów grupy I.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

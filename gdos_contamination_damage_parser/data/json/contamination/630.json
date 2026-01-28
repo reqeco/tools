@@ -1,0 +1,60 @@
+{
+  "registry_id": 630,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Lichnowy",
+    "address": "ul. Lipowa 8\tLichnowy",
+    "precinct": "0003",
+    "parcel_numbers": [
+      "262/50\tLichnowy"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((495612.80 694837.15,495865.61 694922.25,495884.49 694863.48,495915.70 694874.29,495929.32 694827.42,495953.87 694835.09,495947.23 694864.12,495973.53 694872.14,495950.12 694951.90,495958.88 694954.69,495980.21 694898.72,496003.36 694907.44,496013.53 694915.47,496028.26 694922.11,496053.82 694892.71,496068.16 694854.58,496102.87 694864.69,496089.59 694907.72,496135.18 694930.41,496157.92 694882.13,496170.54 694887.71,496195.38 694822.29,496280.93 694850.20,496212.73 695041.90,496925.15 695285.82,496946.18 695277.41,497061.06 695148.30,497305.91 694873.62,497364.76 694805.39,497370.36 694791.05,497371.05 694776.01,497113.71 694704.12,496699.63 694581.64,496378.11 694500.74,495999.77 694406.27,495749.40 694343.53,495654.72 694684.98,495612.80 694836.80,495612.80 694837.15))",
+    "site_description": "dawniej: Państwowe Gospodarstwo Rolne"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)",
+    "current": "Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)"
+  },
+  "land_holders": [
+    {
+      "name": "PRZEDSIĘBIORSTWO ROLNO-USŁUGOWE LICHNOWY SPÓŁKA Z O.O.",
+      "address": "ul. Lipowa 8/1, 82-224 Lichnowy",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "262/50\tLichnowy"
+      ],
+      "economic_activity_code": "01.50.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-05",
+    "legal_basis": "art. 61 § 1 i § 4 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (t.j. Dz. U. z 2018 r. poz. 2096 ze zm. – zwanej dalej k.p.a.), w związku z art. 101 c ust. 3 pkt 1 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska (t.j. Dz. U. z 2018 r. poz. 799 ze zm. – zwanej dalej poś)",
+    "case_reference": "RDOŚ-Gd-WZS.513.55.2019.LK.3",
+    "decisions": [
+      {
+        "issue_date": "2019-03-28",
+        "reference": "RDOŚ-Gd-WZS.513.55.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

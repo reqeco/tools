@@ -1,0 +1,89 @@
+{
+  "registry_id": 342,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "słupski",
+    "municipality": "Słupsk",
+    "address": "Krępa",
+    "precinct": "0019 Słupsk",
+    "parcel_numbers": [
+      "128"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((372295.87433493015 730741.0211233515,372306.4576894415 730741.5502910828,372294.02224789734 730773.5649384446,372240.840891468 730855.3213519529,372206.1804054488 730925.7006593831,372141.0927751957 731031.0050366502,372136.8594333907 731046.3509006817,372113.5760534647 731074.1322062397,372050.8696779861 731102.44267953,372041.87382664636 731105.0885181502,372006.9487567578 731130.4885689495,371966.73200961336 731156.4177874792,371928.3673495103 731199.544957066,371918.0485788585 731215.9491565377,371859.8401290437 731265.9555065455,371839.4671716109 731282.8888737466,371835.7629975367 731292.6784766661,371779.93580248364 731351.151510275,371777.55454771983 731389.5161703359,371743.42322941154 731423.6474886043,371738.6607198864 731420.2078983821,371771.46911887336 731386.3411639864,371771.9982865952 731347.711920064,371847.6692713603 731265.1617549658,371903.7610502731 731219.3887467468,371924.1340077061 731190.2845218787,371978.9028673071 731136.5739977872,372047.4300877728 731093.7114120675,372102.19894736266 731070.9571998902,372125.4823272885 731047.9384038504,372152.9990490196 730996.344550671,372200.3595604628 730917.7631435022,372234.2262949012 730848.4421715317,372287.67223519075 730768.5378450528,372291.11182540486 730756.3669873849,372295.87433493015 730741.0211233515))",
+    "site_description": "rzeka Glaźna miejscowości Krępa oraz rzeka Słupia poniżej jazu głównego w Słupsku"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2010-08-05",
+    "description": null
+  },
+  "land_surface_holder": "Skarb Państwa",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione, chronione siedliska przyrodnicze",
+  "event_description": "szkoda polegająca na zanieczyszczeniu tarlisk chronionych gatunków litofilnych, spływającym podczas budowy obwodnicy Słupska piaskiem i gliną w rzece Glaźnej w okolicach wsi Krępa oraz rzece Słupi na obszarze Natura 2000 PLH 220054 \"Dolina Słupi\".",
+  "total_area_ha": 0.7657,
+  "reporters": [
+    {
+      "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Gdańsku",
+      "address": "ul. Subisława 5, 80-354 Gdańsk",
+      "legal_form": "Jednostka administracyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Gdańsku",
+      "address": "Gdańsk Subisławka 5",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "minóg rzeczny (Lampetra planeri)",
+    "minóg strumieniowy (Lampetra planeri)"
+  ],
+  "protected_habitats": [
+    {
+      "natura_2000": "Nizinne i podgórskie rzeki ze zbiorowiskami włosieniczników (Ranunculion fluitantis)",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2011-11-10",
+    "detection_date": "2010-08-05",
+    "decisions": [
+      {
+        "issue_date": "2011-07-26",
+        "reference": "RDOŚ-Gd-WSI-I.511.22.2011.IG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2012-08-14",
+        "reference": "RDOŚ-Gd-WSI-I.511.22.2011.IG.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-08-25",
+    "planned_end": "2012-08-25",
+    "actual_end": "2013-07-12",
+    "method": null,
+    "description": "odtworzono zamulenie tarlisk gatunków litofilnych w rzece Glaźnej na długości 50 m; posadzono w korycie rzeki Słupi włosienicznika rzecznego i wodnego poprzez pozyskanie go z dopływu rzeki Słupi rzeki Kwaczej, przepłukano tarliska od najwyżej położonych do najniższych celem pozbycia się frakcji pylistych i zbudowano z pni drewnianych deflektorów zapewniających sztuczne przepłukiwanie żwiru",
+    "ecological_effect": "umożliwiono rzekom Glaźnej i Słupi powrót do pełnego składu gatunkowego ichtiofauny litofilnej; odtworzono pełny skład gatunkowy makrofitów charakterystycznych dla chronionego siedliska nizinne i podgórskie rzeki ze zbiorowiskami włosieniczników - 3260; nastąpił wzrost intensywności i skuteczności naturalnego tarła ichtiofaun litofilnej (minoga strumieniowego i rzecznego, łososia atlantyckiego, troci wędrownej, lipienia i głowacza białopłetwego)",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

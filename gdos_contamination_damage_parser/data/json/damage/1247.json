@@ -1,0 +1,100 @@
+{
+  "registry_id": 1247,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Czerniakowska 149a",
+    "precinct": "5-06-16",
+    "parcel_numbers": [
+      "14"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639721.472593654 484925.86360070296,639776.5060371254 484946.7657258408,639769.0976889671 484976.6637023017,639743.9622219945 484971.1074411925,639729.6746933963 484973.7532798108,639721.472593654 484925.86360070296))",
+    "site_description": "stacja paliw nr 564"
+  },
+  "occurrence_time": {
+    "date": "2019-01-21",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu stwierdzone podczas wydołowania zbiorników paliwowych. Sparawa zarejestrowana pod nr WOOŚ-IV.511.34.2019.MGł",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Orlen Eko Sp. zo.o.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "legal_form": "inna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "71, 2 do 3611 mg/kg s.m.",
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1203 do 16632 mg/kg s.m.",
+      "area_ha": 0.203
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "1,07 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "5,47 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": null,
+    "detection_date": "2019-01-21",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2019-01-23",
+    "planned_end": null,
+    "actual_end": "2019-02-13",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "w ramach działań zapobiegawczych usunięta została zanieczyszczona ziemia. Jedynie w miejscach w południowej części działki ze względu na techniczne możliwości pozostał zanieczyszczony grunt.",
+    "ecological_effect": "zrealizowano działania prowądzace do pozytywnej oceny efektu ekologicznego",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": {
+    "recovery": null,
+    "source": "środki podmiotu zobowiązanego do przeprowadzenia działań",
+    "covered_by_obligee": "całość",
+    "enforcement": null,
+    "financial_security": null,
+    "non_recovery_reason": null
+  },
+  "notes": null
+}

@@ -1,0 +1,98 @@
+{
+  "registry_id": 1371,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "bieszczadzki",
+    "municipality": "Ustrzyki Dolne",
+    "address": "Teleśnica Oszwarowa",
+    "precinct": "180108_5.0028 Teleśnica Oszwarowa",
+    "parcel_numbers": [
+      "180108_5.0028.297",
+      "180108_5.0028.434/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON ((754585.805638875 173624.793440379,754582.616777429 173629.653106236,754567.848024695 173658.739916751,754539.442819431 173708.610025614,754542.301995947 173802.959142329,754572.546029648 173865.230207864,754626.93623564 173841.077895038,754697.638882842 173806.412274071,754717.1531229 173787.672685213,754725.706925091 173776.273696824,754780.047290117 173747.738247423,754760.467831881 173729.250682668,754771.706219487 173715.003099925,754797.858596958 173737.745347446,754849.965068192 173783.046336178,754948.326615908 173866.374791682,755068.292715321 173915.928665354,755149.828348803 173957.099280102,755219.339862774 174001.250418735,755372.23447095 174024.907128471,755477.894846442 174023.780934625,755554.683822024 173979.266128771,755555.359959601 173977.988045238,755552.891607391 173961.267269773,755550.317380294 173935.419105471,755549.830550208 173920.403343863,755546.998081305 173900.711828782,755436.46409746 173918.79328243,755349.748234974 173912.788058724,755292.407592528 173913.282393294,755279.334825189 173913.336910906,755243.519240195 173865.699174364,755159.672786887 173755.2912498,755059.04095916 173666.600489099,754878.764058848 173521.540952762,754862.356842223 173517.926565614,754788.871252079 173501.49442908,754724.732621638 173470.017705379,754721.822165965 173528.074181829,754721.632559735 173530.17630518,754703.789881774 173528.861993588,754679.082131462 173522.862713921,754659.43617616 173526.219396909,754633.531464066 173536.747629333,754610.910352834 173552.013806601,754585.189242338 173566.87381787,754602.409749362 173578.469807917,754587.396846091 173607.460249299,754585.805638875 173624.793440379))",
+    "site_description": "Oznaczenie użytku - Bi"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2021-07-11",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska, podmiot korzystający ze środowiska, osoba fizyczna",
+  "land_owner": "podmiot korzystający ze środowiska, podmiot korzystający ze środowiska, osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "Zniszczenie siedliska węża Eskulapa (Zamenis longissimus) w wyniku rozbiórki domków letniskowych.",
+  "total_area_ha": 20.26,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": "IOP PAN Al. Adama Mickiewicza 33 31-120 Kraków",
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "TRANS-SAN Sp. z o.o. Sp. k.",
+      "address": "ul. Bieszczadzka 5 38-540 Zagórz",
+      "economic_activity_code": "68.20.Z"
+    },
+    {
+      "name": "MB Development Sp. z o.o. z/s w Teleśnicy Oszwarowej",
+      "address": "Teleśnica Oszwarowa 1B 38-700 Ustrzyki Dolne",
+      "economic_activity_code": "55.20.Z"
+    },
+    {
+      "name": "PGE Energia Odnawialna S.A.",
+      "address": "ul. Ogrodowa 59A 00-876 Warszawa",
+      "economic_activity_code": "55.20.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "wąż Eskulapa (Zamenis longissimus)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2021-09-22",
+    "detection_date": "2021-07-17",
+    "decisions": [
+      {
+        "issue_date": "2023-08-09",
+        "reference": "WSI.512.2.2.2021.AF.48",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2023-09-12",
+        "reason": "1) naruszenie art. 7, art. 77 § 1 i art. 80 Kpa, w związku z art. 15 ust. 2 pkt 4 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (tekst jedn. Dz. U. z 2020 r. poz. 2187), poprzez zaniechanie wszechstronnego rozważenia całokształtu okoliczności faktycznych sprawy i całego materiału dowodowego zgromadzonego w aktach sprawy, a w szczególności poprzez brak uwzględnienia przez Organ i instancji przy ustaleniu terminu wykonania nałożonych obowiązków, całokształtu okoliczności niniejszej sprawy, w tym przede wszystkim zakresu, specyfiki, skali i rodzaju nałożonych obowiązków, sposobu ich wykonania, pracochłonności czynności niezbędnych do wykonania (zarówno przygotowawczych, jak i zasadniczych) oraz organizacyjnych możliwości wykonania nałożonych obowiązków, co skutkowało zakreśleniem terminów nader krótkich, niemożliwych i nierealnych do ich dochowania przez Spółki przy zachowaniu należytej staranności, 2) naruszenie art. 107 § 3 Kpa, poprzez zaniechanie przez Organ I instancji należytego uzasadnienia zaskarżonej decyzji w zakresie dotyczącym przyjętych przez Organ terminów wykonania obowiązków nałożonych skarżoną decyzją, w kontekście zakresu, specyfiki, skali i rodzaju nałożonych obowiązków, sposobu ich wykonania oraz realności przyjętych terminów.",
+        "appealed_decision_reference": "WSI.512.2.2.2021.AF.48",
+        "resolution_reference": "DOA-WSzOP.512.32.2023.AP",
+        "appellant_name": "Trans-San Sp. z o.o. Sp. k., MB Development Sp. z o.o.",
+        "appellant_address": "ul. Bieszczadzka 5, 38-540 Zagórz (oba podmioty mają ten sam adres)",
+        "resolution_date": "2025-03-28",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Uchylono w całości zaskarżoną decyzję i przekazano sprawę do ponownego rozpatrzenia przez organ I instancji"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-09-01",
+    "planned_end": "2033-09-01",
+    "actual_end": null,
+    "method": "działania naprawcze, o których mowa w § 2 rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie działań naprawczych",
+    "description": "Uzupełniające działania naprawcze prowadzone będą na terenie wydzieleń leśnych: 04-03-2-11-225-g-00 leśnictwo Jawor, nadleśnictwo Ustrzyki Dolne (na terenie działki o nr ewid. 33 w m. Teleśnica Sanna) oraz 04-03-2-11-223-a-00 leśnictwo Jawor, nadleśnictwo Ustrzyki Dolne (na terenie działki o nr ewid. 435 w m. Teleśnica Oszwarowa).  Uzupełniające działania naprawcze będą polegały na: 1. Utworzeniu co najmniej 7 kopców rozrodczych w wydzieleniu leśnym 04-03-2-11-225-g-00 oraz co najmniej 5 kopców rozrodczych w wydzieleniu leśnym 04-03-2-11-223-a-00. 2. Ręcznym wykaszaniu powierzchni w promieniu do 2 m wokół kopców. 3. Utworzeniu miejsc schronienia w bezpośrednim otoczeniu każdego z kopców rozrodczych, w postaci: sterty gałęzi, sterty pni, sterty kamieni. 4. Budowie co najmniej 6 domków (schronisk) dla węży w wydzieleniu leśnym 04-03-2-11-225-g-00 oraz co najmniej 4 domków (schronisk) dla węży w wydzieleniu leśnym 04-03-2-11-223-a-00. 5. Utrzymywaniu kopców rozrodczych, dodatkowych miejsc schronienia i domków (schronisk) dla węży, poprzez uzupełnianie ubytków substratem, wymianę zniszczonych elementów. 6. Prowadzeniu działań określonych w pkt 1, 3, 4 i 5 w trakcie zimowania węży. 7. prowadzeniu prac określonych w pkt 1-5 pod nadzorem herpetologa. 8. Prowadzeniu prac określonych w pkt 1-5 w uzgodnieniu z Nadleśnictwem Ustrzyki Dolne. 9. Prowadzeniu monitoringu skuteczności prowadzonych działań, obejmującego monitoring stanu populacji węża Eskulapa po utworzeniu ww. struktur wspomagających rozród i funkcjonowanie kolonii węża Eskulapa.",
+    "ecological_effect": "Zasiedlenie i osiągnięcie przez węża Eskulapa stanu populacji, określonej parametrem względna liczebność, na poziomie 50 osobników, w rejonie działek o nr ewid. 434/5 i 297 w m. Teleśnica Oszwarowa.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "Sprawa znak: WSI.512.2.2.2021.AF"
+}

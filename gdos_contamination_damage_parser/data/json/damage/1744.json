@@ -1,0 +1,59 @@
+{
+  "registry_id": 1744,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "wodzisławski",
+    "municipality": "Wodzisław Śląski",
+    "address": null,
+    "precinct": "0006 Radlin",
+    "parcel_numbers": [
+      "241504_1.0006.AR_6.2735/104",
+      "241504_1.0006.AR_6.2733/81",
+      "241504_1.0006.AR_6.2721/75",
+      "241504_1.0006.AR_6.2719/75"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((459694.05437000002712011 239211.60737199999857694, 459720.00828900001943111 239168.08296299999346957, 459690.79887100000632927 239152.03227399999741465, 459671.3352370000211522 239142.02799000000231899, 459656.28093100001569837 239132.89424399999552406, 459632.19384700001683086 239118.71402300000772811, 459608.87575700000161305 239102.99432100000558421, 459548.81709199998294935 239063.36882800000603311, 459534.50132400001166388 239093.01480699999956414, 459519.10600899998098612 239124.89405900001293048, 459533.76035300001967698 239128.03630999999586493, 459535.73511399998096749 239128.46965600000112318, 459548.38503599999239668 239135.68658700000378303, 459560.70251799997640774 239142.70806800000718795, 459557.49653000000398606 239198.18180200000642799, 459571.98421099997358397 239198.57772500001010485, 459587.46359900000970811 239199.14028900000266731, 459647.81573999999091029 239198.68291999999200925, 459653.43589299998711795 239198.1679839999997057, 459658.92640599998412654 239197.67477099999086931, 459670.37608100002398714 239201.08975899999495596, 459694.05437000002712011 239211.60737199999857694)))",
+    "site_description": "Działki o nr. ew.: 2735/104, 2733/81, 2721/75, 2719/75, obręb 0006 Radlin, położonych przy ul. Górniczej w Wodzisławiu Śląskim oraz wody Potoku Jedłownickiego."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2023-04-04",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "Ze zgłoszenia wynika, iż szkoda w środowisku przyrodniczym najprawdopodobniej została spowodowana działaniami prowadzonymi przez firmę Jan Ucherek - Przedsiębiorstwo Produkcyjno-Handlowo-Usługowe zlokalizowane przy ul. Górniczej 17H w Wodzisławiu Śląskim. Przesłane informacje wskazują, że z terenu ww. firmy wypływa półpłynna masa. Na podstawie przeprowadzonych oględzin przez pracowników Starostwa Powiatowego w Wodzisławiu Śląskim stwierdzono, że przedmiotowy teren pokryty był ok. 30 cm warstwą substancji koloru czarnego i szarego, związanego, zwartego, o gęstej strukturze, częściowo pokrytego wodą, rozlewającego się swobodnie między drzewami, pokrywając całkowicie powierzchnię ziemi. Substancja wydzielała wyraźnie wyczuwalny, organiczny zapach, charakterystyczny dla osadów ściekowych. Z otrzymanych materiałów wynika, że teren na którym wystąpiła szkoda w środowisku w powierzchni ziemi, jak również szkoda w środowisku w wodach Potoku Jedłownickiego znajduje się w bezpośrednim sąsiedztwie zwałowiska odpadów pokopalnianych położonych w Wodzisławiu Śląskim przy ul. Górniczej.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Wodzisławski",
+      "address": "44-300 Wodzisław Śląski Bogumińska 2",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": [
+    {
+      "water_type": "powierzchniowe",
+      "changes": null,
+      "substance": null
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2023-05-11",
+    "detection_date": "2023-04-04",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

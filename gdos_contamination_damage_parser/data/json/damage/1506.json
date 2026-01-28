@@ -1,0 +1,58 @@
+{
+  "registry_id": 1506,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "zgierski",
+    "municipality": "Zgierz (gmina wiejska)",
+    "address": "Zimna Woda 4, 95-100 Zgierz",
+    "precinct": "Słowik",
+    "parcel_numbers": [
+      "344/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((522990.14909833006 450762.14194386173,523184.35365341004 450726.6877062917,523221.3953941602 450854.7462957315,523202.8745237802 450857.9213020811,523130.3785454602 450893.90470738243,523037.77419358015 450920.89226136263,523037.7741935801 450921.42142908275,522990.14909833006 450762.14194386173))",
+    "site_description": "teren gospodarstwa rolnego"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2020-07-29",
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gleby olejem mineralnym na skutek gromadzenia odpadów",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzka Inspekcja Ochrony Środowiska w Łodzi",
+      "address": "ul. Lipowa 16, Łódź",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "> 10000 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2020-09-21",
+    "detection_date": "2020-07-29",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

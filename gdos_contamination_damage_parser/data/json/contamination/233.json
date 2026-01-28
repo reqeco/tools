@@ -1,0 +1,98 @@
+{
+  "registry_id": 233,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.003,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "legnicki",
+    "municipality": "Kunice",
+    "address": "teren Kopalni Surowców Mineralnych „Szczytniki”",
+    "precinct": "obręb Spalona",
+    "parcel_numbers": [
+      "499/54 (dawniej 478/4) obręb Spalona"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((309529.81920820235973224 379209.74266164842993021, 309533.85288098140154034 379213.57768536917865276, 309559.82790258771274239 379212.54223074577748775, 309656.25161332113202661 379230.6743685444816947, 309652.05080926942173392 379179.14082833472639322, 309650.06192033080151305 379112.89909341465681791, 309639.32908148173009977 379110.88099514413625002, 309621.41601957369130105 379123.16109159868210554, 309614.0220673056319356 379114.80355130601674318, 309587.03706695372238755 379114.392227903008461, 309552.98757137288339436 379114.60627962183207273, 309527.76087002025451511 379105.30848428606987, 309528.82332714833319187 379131.9628597404807806, 309529.75965450902003795 379205.16036477405577898, 309529.81920820235973224 379209.74266164842993021))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wydobywanie żwiru i piasku; wydobywanie gliny i kaolinu",
+    "current": "Wydobywanie żwiru i piasku; wydobywanie gliny i kaolinu"
+  },
+  "land_holders": [
+    {
+      "name": "Górażdże Kruszywa  Sp. z o.o.",
+      "address": "ul. Cementowa 1 Chorula, 47-316 Górażdże",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3000 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "95 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1801mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2014-10-20",
+    "legal_basis": "art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska",
+    "case_reference": "WSI.511.8.2014.MR",
+    "decisions": [
+      {
+        "issue_date": "2014-12-16",
+        "reference": "WSI.511.8.2014.MR.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Górażdże Kruszywa  Sp. z o.o.",
+        "address": "ul. Cementowa 1 Chorula, 47-316 Górażdże",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2014-12-31",
+    "planned_end": "2015-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex-situ",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

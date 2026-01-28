@@ -1,0 +1,62 @@
+{
+  "registry_id": 1106,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "municipality": "Gdynia",
+    "address": "ul. Celna 2, 81-337 Gdynia",
+    "precinct": "0026",
+    "parcel_numbers": [
+      "777",
+      "778"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((469267.790618959 740768.139869378,469297.95317928895 740718.9272709563,469393.2033697891 740776.6065529864,469362.511641739 740832.6983318375,469350.86995178903 740829.523325487,469352.45745495893 740823.173312786,469266.203115789 740768.6690371046,469267.790618959 740768.139869378))",
+    "site_description": "tereny portowe - łuszczarnia ryżu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Działalność związana z pakowaniem",
+    "current": "Działalność związana z pakowaniem"
+  },
+  "land_holders": [
+    {
+      "name": "Przedsiębiorstwo POL-RYŻ Sp. z o.o.",
+      "address": "ul. Celna 2, 81-337 Gdynia",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "777",
+        "778"
+      ],
+      "economic_activity_code": "82.92.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-21",
+    "legal_basis": "art. 61 par. 1 kodeska postępowania administracyjnego,  art.101 c ust. 3  p.o.ś",
+    "case_reference": "RDOŚ-Gd-WZS.513.1.2019.AK.1",
+    "decisions": [
+      {
+        "issue_date": "2019-04-04",
+        "reference": "RDOŚ-Gd-WZS.513.1.2019.AK.DH.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4; art. 104 k.p.a",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

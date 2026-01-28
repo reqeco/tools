@@ -1,0 +1,89 @@
+{
+  "registry_id": 1696,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 0.1234,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Chorzów",
+    "municipality": "Chorzów",
+    "address": "w pobliżu ul. Żelaznej w Chorzowie",
+    "precinct": "0002",
+    "parcel_numbers": [
+      "246301_1.0002.AR_1.4910/272"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((496021.82386643602512777 267714.47778454201761633, 496021.00956856302218512 267726.18183284602127969, 496023.35686431499198079 267745.0661836449871771, 495997.00033204897772521 267754.96341097698314115, 495986.96273262897739187 267727.15861590200802311, 495981.53698865801561624 267712.20030611800029874, 496021.82386643602512777 267714.47778454201761633))",
+    "site_description": "w pobliżu ul. Żelaznej w Chorzowie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Produkcja surówki, żelazostopów, żeliwa i stali oraz wyrobów hutniczych",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "ALCHEMIA S.A.",
+      "address": "Aleje Jerozolimskie 92 00-807 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "246301_1.0002.AR_1.4910/272"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "1040,00mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "7,39 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "348,70 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1124,00mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-04",
+    "legal_basis": "art. 61 § 1 i § 4 Kodeks postępowania administracyjnego, art. 101c ust. 3 Prawo ochrony środowiska",
+    "case_reference": "WSI.513.16.2019",
+    "decisions": [
+      {
+        "issue_date": "2022-06-04",
+        "reference": "WSI.513.16.2019.MO.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

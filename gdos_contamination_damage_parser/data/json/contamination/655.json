@@ -1,0 +1,73 @@
+{
+  "registry_id": 655,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Olsztyn",
+    "municipality": "Olsztyn",
+    "address": "ul. Kuronia  Olsztyn",
+    "precinct": "31 miasto Olsztyn",
+    "parcel_numbers": [
+      "1/129"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((596767.6118685787 658595.6956644999,596762.4524832579 658568.9726943877,596823.1744797189 658562.7549736174,596821.0578088185 658584.8477261383,596768.0087443689 658596.0925402874,596767.6118685787 658595.6956644999))",
+    "site_description": "Zidentyfikowane przez Prezydenta Olsztyna potencjalne historyczne zanieczyszczenie powierzchni ziemi jest następstwem funkcjonowania na tym terenie stacji paliw oraz punktu obsługi technicznej pojazdów, w tym ciężarowych. Na terenie nieruchomości znajdują się pozostałości po tej działalności (budynek stacji, zbiorniki podziemne, rurociągi, rampa dla pojazdów)."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Olsztyńskie Towarzystwo Budownictwa Społecznego Sp. z o.o.",
+      "address": "ul. Grunwaldzka 21A 10-123 Olsztyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "7,31 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "27 347 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-03-06",
+        "reference": "WSI.513.41.2018.KPI.JJ.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "101c ust. 3 pkt 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

@@ -1,0 +1,91 @@
+{
+  "registry_id": 127,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.027,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "słupski",
+    "municipality": "Dębnica Kaszubska",
+    "address": "Skarszów Górny",
+    "precinct": "0019 Skarszów",
+    "parcel_numbers": [
+      "34/22 obręb 0019 Skarszów"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((377661.51641105226 724675.6295393072,377889.05853298923 724604.1918964405,377870.5376625969 724477.1916424409,377891.70437161473 724445.4415789424,377862.60014672345 724334.3163566915,377986.95456220454 724305.2121318122,378031.9338188566 724498.358351442,378079.5589141449 724501.0041900631,378084.85059140035 724445.4415789451,378172.163266091 724411.0456768163,378254.18426353467 724493.0666741962,378330.9135837242 724548.629285316,378576.97657603247 724837.0256954525,378590.20576916833 725053.9844627008,378542.5806738795 725125.4221055703,378336.2052609554 725186.2763939472,377881.12101708795 725310.6308093183,377656.2247337979 724678.2753779376,377661.51641105226 724680.9212165568,377661.51641105226 724675.6295393072))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "1995-12-31",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu"
+  },
+  "land_holders": [
+    {
+      "name": "Agropol Sp. z o.o.",
+      "address": "ul. Przyokopowa 33, 01-208 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "01.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "59,5-1170,0 mg/kg s.m.",
+      "area_ha": 0.027
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "439-19400 mg/kg s.m.",
+      "area_ha": 0.027
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-02-15",
+    "legal_basis": "art. 61 § 1 k.p.a.",
+    "case_reference": "RDOŚ-Gd-WSI-I.511.2.2016.AK.5",
+    "decisions": [
+      {
+        "issue_date": "2016-04-27",
+        "reference": "RDOŚ-Gd-WSI-I.511.2.2016.AK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Agropol Sp. z o.o.",
+        "address": "ul. Przyokopowa 33, 01-208 Warszawa",
+        "economic_activity_code": "01.11.Z"
+      }
+    ],
+    "planned_start": "2016-05-19",
+    "planned_end": "2016-09-19",
+    "actual_end": "2016-06-03",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "1.etapowe wybieranie zanieczyszczonego gruntu do glębokości max. 5,5 m,  2. pobór próbek gruntu ze ścian i dna wykopu oraz przeprowadzenie badań i analiz, 3. uzupełnienie wykopu cystym kruszywem, w przypadku potwierdzenia, ze pozostawiony w wykopach grunt jest czysty, 4. wyrównanie poziomu po przeprowadzonych pracach do poziomu otaczającego terenu",
+    "ecological_effect": "Doprowadzono do osiągnięcia przez przedmiotowy teren wartości dopuszczalnych stężeń benzyn i olejów mineralnych dla gruntów grupy B",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

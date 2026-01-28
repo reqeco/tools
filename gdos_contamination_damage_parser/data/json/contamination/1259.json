@@ -1,0 +1,135 @@
+{
+  "registry_id": 1259,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 2.3886,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Poznań",
+    "municipality": "Poznań",
+    "address": "ul. Czarnucha (zmiana na ul. Bielicową) w Poznaniu",
+    "precinct": "050 Naramowice",
+    "parcel_numbers": [
+      "53/96"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((361196.4506349518 511258.36379120685,361171.84433571534 511116.81142476853,361318.1592118642 511064.68840385973,361349.6446915389 511225.02622454055,361196.4506349518 511258.36379120685))",
+    "site_description": "teren, na którym w przeszłości prowadzono działalność rolniczą i ogrodniczą"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Premium Properties 5 Sp. z o.o.",
+      "address": "ul. Marcina Flisa 4, 02-247 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "53/96"
+      ],
+      "economic_activity_code": "68.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "1,26 mg/kg s.m.",
+      "area_ha": 2.3886
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,397 mg/kg s.m.",
+      "area_ha": 2.3886
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,15 mg/kg s.m.",
+      "area_ha": 2.3886
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "1,08 mg/kg s.m.",
+      "area_ha": 2.3886
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "1,35 mg/kg s.m.",
+      "area_ha": 2.3886
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "1,00 mg/kg s.m.",
+      "area_ha": 2.3886
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,859 mg/kg s.m.",
+      "area_ha": 2.3886
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": "0,08 mg/kg s.m.",
+      "area_ha": 2.3886
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-01-13",
+    "legal_basis": "art. 101l POŚ",
+    "case_reference": "WSS.515.4.2021.ASB",
+    "decisions": [
+      {
+        "issue_date": "2021-04-12",
+        "reference": "WSS.515.4.2021.ASB.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Premium Properties 5 Sp. z o.o.",
+        "address": "ul. Marcina Flisa 4, 02-247 Warszawa",
+        "economic_activity_code": "68.10.Z"
+      }
+    ],
+    "planned_start": "2021-04-30",
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

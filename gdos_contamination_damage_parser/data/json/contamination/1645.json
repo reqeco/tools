@@ -1,0 +1,60 @@
+{
+  "registry_id": 1645,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "bielski",
+    "municipality": "Czechowice-Dziedzice",
+    "address": "ul. Norberta Barlickiego w Czechowicach- Dziedzicach",
+    "precinct": "obręb 0001 Czechowice",
+    "parcel_numbers": [
+      "240204_4.0001.3762/156"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((501232.80199357197852805 227398.04872099799104035, 501235.58810517302481458 227398.63114219799172133, 501227.24479782802518457 227326.16609115499886684, 501230.67949854402104393 227290.00188531901221722, 501210.73720871197292581 227273.96797683098702691, 501205.13850965100573376 227261.84006170899374411, 501207.7433326740283519 227257.82766167100635357, 501272.41734575899317861 227254.29558834599447437, 501294.41825101297581568 227242.62860505699063651, 501293.12822696700459346 227225.35620401400956325, 501296.13757380202878267 227223.19728755598771386, 501378.20532623998587951 227223.72036638300050981, 501378.82927137101069093 227218.80497846900834702, 501376.89688302099239081 227185.61071691798861139, 501402.6533597590168938 227185.00691719399765134, 501425.49922592000802979 227187.22031888298806734, 501435.79739788401639089 227189.79117020798730664, 501456.05939015100011602 227197.58574806101387367, 501485.52488204097608104 227218.02975396098918281, 501492.18222719401819631 227224.11714323298656382, 501504.66797926102299243 227237.0825232710049022, 501497.59397436201106757 227247.69068048099870794, 501477.86536137398798019 227274.5981495919986628, 501451.55860265501542017 227298.35541078000096604, 501418.76492396101821214 227336.27085871298913844, 501392.38167406100546941 227365.52584845200181007, 501341.58088471402879804 227413.32599459300399758, 501268.20952528301859275 227417.41397123600472696, 501235.23444077197927982 227414.05661635100841522, 501232.80199357197852805 227398.04872099799104035))",
+    "site_description": "teren po byłej Rafinerii Czechowice S.A"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "Przed 1992-1993 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Wytwarzanie i przetwarzanie produktów rafinacji ropy naftowej",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "EKONAFTA Polska Sp. z o.o.",
+      "address": "ul. Graniczna 25A/1 40-017 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "240204_4.0001.3762/156"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2020-12-04",
+    "legal_basis": "art. 101c ust. 3 Poś",
+    "case_reference": "WSI.513.209.2020",
+    "decisions": [
+      {
+        "issue_date": "2021-12-31",
+        "reference": "WSI.513.209.2020.SA.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

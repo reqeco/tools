@@ -1,0 +1,119 @@
+{
+  "registry_id": 602,
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "kutnowski",
+    "municipality": "Krośniewice",
+    "address": "ul. Poznańska 17, Krośniewice",
+    "precinct": "0001",
+    "parcel_numbers": [
+      "660"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((510870.95941951824352145 487862.08154059795197099, 510953.80691987305181101 487865.03285104315727949, 510956.12580665142741054 487805.16341058316174895, 510966.0337774318177253 487784.71504535560961813, 510873.48911418556235731 487780.92050335463136435, 510870.95941951824352145 487862.08154059795197099))",
+    "site_description": "PKN ORLEN S.A. Stacja Paliw 1351 w Krośniewicach"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "przed 2010 r."
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi, woda",
+  "event_description": "zanieczyszczenie gruntu na terenie stacji paliw",
+  "total_area_ha": 0.2,
+  "reporters": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "PKN ORLEN S.A.",
+      "address": "ul. Chemików 7, 09-411 Płock",
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": ">750 mg/kg suchej masy",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": ">3000 mg/kg suchej masy",
+      "area_ha": 0.2
+    },
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": ">250 mg/kg suchej masy",
+      "area_ha": 0.2
+    }
+  ],
+  "water_changes": [
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "BTX-lotne węglowodory aromatyczne"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Substancje ropopochodne"
+    },
+    {
+      "water_type": "podziemne",
+      "changes": "w stanie chemicznym",
+      "substance": "Węglowodory ropopochodne - indeks oleju mineralnego"
+    }
+  ],
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2013-04-24",
+    "detection_date": "2010-09-01",
+    "decisions": [
+      {
+        "issue_date": "2013-07-12",
+        "reference": "WSI.511.10.2012.AR.JS.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2014-04-16",
+        "reference": "WSI.511.3.2014.JS.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2013-09-01",
+    "planned_end": "2018-12-31",
+    "actual_end": "2017-08-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zanieczyszczenie usunięto metodą insitu",
+    "ecological_effect": "doprowadzono do standardów jakości gleby dla gruntów grupy C według rozporządzenia Ministra Środowiska z dnia 9 września 2002 r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1395) w zakresie sumy benzyn, olie i WWA oraz osiągnięto poziom odpowiadającego jakości wód podziemnych dla klasy III zgodnie z Rozporządzeniem Ministra Środowiska w dnia 23 lipca 2008 r. w sprawie kryteriów i sposobu oceny wód podziemnych (Dz. U. Nr 143, poz. 896) w zakresie BTX, substancji ropopochodnych o olei mineralnych",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

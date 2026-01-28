@@ -1,0 +1,90 @@
+{
+  "registry_id": 2215,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 9.4208,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "działka o nr. ewid. 3904/55, obręb Mysłowice Las, zlokalizowana przy ul. Karolinki w Katowicach.",
+    "precinct": "Mysłowice Las",
+    "parcel_numbers": [
+      "3904/55"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((503997.11 262202,504007.59 262153.89,504015.9 262109.31,504008.25 262081.81,504016.16 262054.72,504039.84 262035.92,504062.97 262029.79,504085.25 262011.66,504089.68 262004.99,504092.08 261995.69,504085.13 261984.37,504085.14 261975.43,504090.63 261947.04,504089.75 261907.05,504077.21 261896.35,504068.22 261885.61,504066.17 261882.18,504058.45 261867.06,504024.7 261859.2,503926.76 261836.81,503805.17 261806.74,503775.22 261926.9,503767.62 261960.47,503760.85 261990.45,503726.24 262143.53,503782.93 262166.38,503798.12 262170.95,503932.03 262195.77,503953.11 262193.68,503997.11 262202))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zynwalin Investments Sp. z o.o.",
+      "address": null,
+      "entity_type": null,
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-06-24",
+    "legal_basis": null,
+    "case_reference": "WSI.513.201.2025",
+    "decisions": [
+      {
+        "issue_date": "2025-07-30",
+        "reference": "WSI.513.201.2025.JR.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [],
+    "planned_start": "2025-09-01",
+    "planned_end": "2026-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

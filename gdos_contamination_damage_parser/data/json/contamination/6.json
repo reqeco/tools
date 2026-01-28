@@ -1,0 +1,93 @@
+{
+  "registry_id": 6,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.005,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "Wrocław",
+    "municipality": "Wrocław",
+    "address": "53-633 Wrocław, ul. Michalczyka 5",
+    "precinct": "Stare Miasto",
+    "parcel_numbers": [
+      "nr 3/5",
+      "AM-17",
+      "obręb Stare Miasto"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((361333.99313701433129609 363354.22472535353153944, 361316.3093910408206284 363366.87669458147138357, 361320.60468939121346921 363372.52630279492586851, 361319.31259153451537713 363377.1192507641389966, 361376.65718482318334281 363459.99635050073266029, 361384.84741772431880236 363453.82716961856931448, 361404.46317163028288633 363438.50487313326448202, 361412.5013189313467592 363432.61966046504676342, 361390.21459300041897222 363402.71522567328065634, 361401.98438234895002097 363395.72366745583713055, 361396.3610561597160995 363388.19877786189317703, 361358.1314182736678049 363336.33684698399156332, 361348.71139157481957227 363343.29846743494272232, 361333.99313701433129609 363354.22472535353153944))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "KERNOV PROPERTIES Sp. z o. o.,",
+      "address": "ul. Konopnickiej 6, 00-491 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "68.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "<1400 mg/kg",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "8300 mg/kg",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-07-24",
+    "legal_basis": "art. 101l ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska",
+    "case_reference": "WSI.511.12.2015.AS",
+    "decisions": [
+      {
+        "issue_date": "2015-08-27",
+        "reference": "WSI.511.12.2015.AS.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "KERNOV PROPERTIES Sp. z o. o.,",
+        "address": "ul. Konopnickiej 6, 00-491 Warszawa",
+        "economic_activity_code": "68.20.Z"
+      }
+    ],
+    "planned_start": "2015-09-01",
+    "planned_end": "2015-12-31",
+    "actual_end": "2015-09-11",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Oczyszczenie gruntów metodą ex – situ, poprzez wydobycie i przekazanie do odzysku lub unieszkodliwienia poza miejscem jego pierwotnego występowania.",
+    "ecological_effect": "oczyszczenie gleby i ziemi z frakcji benzyn i oleju mineralnego do zawartości dopuszczalnych",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": "WSI.511.12.2015.AS"
+}

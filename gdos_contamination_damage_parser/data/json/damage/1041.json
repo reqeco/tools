@@ -1,0 +1,222 @@
+{
+  "registry_id": 1041,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "moniecki",
+    "municipality": "Mońki",
+    "address": "Aleja Wojska Polskiego 19-100 Mońki",
+    "precinct": "334 Mońki",
+    "parcel_numbers": [
+      "80/6",
+      "80/7",
+      "80/9",
+      "80/11",
+      "81/14",
+      "81/15",
+      "1664/2",
+      "1665",
+      "1690/2",
+      "65/10",
+      "64/5",
+      "63/7",
+      "63/9",
+      "63/11",
+      "248/5",
+      "1683/1",
+      "1682/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((753827.5301809951 621577.4830147419,753831.4989391782 621584.6267790375,753805.8343031027 621591.2413755637,753801.8655449207 621584.3621951379,753827.2655971204 621577.48301474,753771.9675664783 621478.2640662184,753818.0051610348 621449.159841408,753769.2158937978 621360.2596635241,753765.2471356441 621362.9055021387,753763.9242164118 621414.4993553311,753770.5388133876 621430.374387092,753711.007441107 621464.7702891445,753801.0453350274 621632.7810419714,753929.8976831357 621583.8330275686,753871.3717292142 621498.1078560334,753844.9133415399 621517.1578941001,753817.3966183258 621525.6245776629,753805.7549277624 621538.3246030482,753827.5301809951 621577.4830147419)) POLYGON((753896.9437606297 621387.5118015194,753927.6354903413 621367.9325957391,754067.0711940828 621494.403682217,754052.7836647035 621495.7266015084,754041.9357257556 621503.134949645,754012.5669154027 621515.5703911446,753896.9437606297 621387.5118015194)) POLYGON((753962.3885825546 621345.9721351918,753980.6448700646 621334.3304452654,754169.8223427562 621456.8327738745,754162.9431619794 621470.5911347168,754157.3869005721 621475.8828119608,753962.3885825546 621345.9721351918)) POLYGON((754238.5612338682 621374.282608863,754044.3566675986 621289.3511887193,754118.7047368168 621177.167631112,754284.3342441801 621212.0927011892,754268.4592116035 621235.6406649314,754258.4050243241 621255.219870748,754257.3466888355 621262.363635038,754255.7591856085 621276.651163605,754252.3195952422 621289.3511890024,754242.2654079449 621306.2845561914,754229.0362141466 621329.3033522153,754229.036214146 621329.0387683567,754238.5612338682 621374.282608863)) POLYGON((754336.4572686537 621411.9858093895,754458.6950195722 621249.0021502441,754413.1865925118 621205.610396727,754346.5114552332 621154.281127301,754330.636422612 621163.2769786101,754325.344745107 621178.0936749028,754301.003028447 621200.31871932,754293.5946799462 621223.0729314834,754284.5988281219 621227.8354410017,754265.5487890358 621257.9980012998,754260.2571115893 621292.393903425,754248.6154210403 621311.9731092295,754244.9112467818 621318.8522896562,754336.4572686537 621411.9858093895))",
+    "site_description": "działki zlokalizowane przy cieku Tyrgonka"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": "wieloletnie odprowadzanie ścieków deszczowych z miasta Mońki i z Monieckiej Spółdzielni Mleczarskiej oraz ścieków oczyszczonych z  Monieckiej Spółdzielni Mleczarskiej i miejskiej oczyszczalni ścieków do cieku Tyrgonka"
+  },
+  "land_surface_holder": "osoba fizyczna, osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "W dniu 13 lipca 2017 r. na wniosek właścicieli, pracownicy laboratorium WIOŚ w Białymstoku pobrali trzy próby gleby do badań, celem określenia skutków wieloletniego odprowadzania ścieków deszczowych z miasta Mońki i z Monieckiej Spółdzielni Mleczarskiej oraz ścieków oczyszczonych z  Monieckiej Spółdzielni Mleczarskiej i miejskiej oczyszczalni ścieków do cieku Tyrgonka przepływającego przez przedmiotowe działki. Jak wyjaśnił WIOŚ, analiza otrzymanych wyników wskazuje na znaczne przekroczenie dopuszczalnych wartości substancji ropopochodnych w 2 badanych próbach gleby. Badania przeprowadzone przez WIOŚ w Białymstoku, który nie ma akredytacji na pobór prób gleby i ziemi.",
+  "total_area_ha": 2.3,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Białymstoku",
+      "address": "ul. Ciołkowskiego 2/3 15-264 Białystok",
+      "legal_form": "Organ rządowej administracji zespolonej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Gmina Mońki",
+      "address": "ul. Słowackiego 5a, 19-100 Mońki",
+      "economic_activity_code": null
+    },
+    {
+      "name": "Zakład Gospodarki Komunalnej i Mieszkaniowej w Mońkach Sp. z o.o.",
+      "address": "ul. Kolejowej 21, 19-100 Mońki",
+      "economic_activity_code": null
+    },
+    {
+      "name": "Moniecka Spółdzielnia Mleczarska",
+      "address": "ul. Mickiewicza 62, 19-100 Mońki",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "max 14,5 mg/kg s.m.",
+      "area_ha": 1.658
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "max 64,2 mg/kg s.m.",
+      "area_ha": 1.658
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "max 108 mg/kg s.m.",
+      "area_ha": 0.243
+    },
+    {
+      "soil_group": "II-2",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "51 mg/kg s.m.",
+      "area_ha": 1.658
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1470 mg/kg s.m.",
+      "area_ha": 0.381
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "31,1 mg/kg s.m.",
+      "area_ha": 0.04
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2017-09-04",
+    "detection_date": "2017-08-23",
+    "decisions": [
+      {
+        "issue_date": "2018-01-04",
+        "reference": "WPN.512.6.2017.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": "Skarga na decyzję GDOŚ DOA-ks.512.4.2018.mg",
+        "overturned_by_court": "tak"
+      },
+      {
+        "issue_date": "2018-04-09",
+        "reference": "DOA-ks.512.4.2018.mg",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": null,
+        "complaint_to_wsa": "Skarga na decyzję GDOŚ DOA-ks.512.4.2018.mg",
+        "overturned_by_court": "tak"
+      },
+      {
+        "issue_date": "2024-02-14",
+        "reference": "WPN.512.6.2017.KP2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-05-28",
+        "reference": "DOA-WSzOP.512.5.2024.MBA",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 138 § 2 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2018-01-17",
+        "reason": "błędne uznanie, że spełnione zostały przesłanki do umorzenia postępowania",
+        "appealed_decision_reference": "WPN.512.6.2017.JŁ",
+        "resolution_reference": "DOA-ks.512.4.2018.mg",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2018-04-09",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Utrzymano w mocy zaskarżoną decyzję RDOŚ"
+      },
+      {
+        "date": "2024-02-28",
+        "reason": "Naruszenie przepisów postępowania administracyjnego, naruszenie przepisów prawa materialnego",
+        "appealed_decision_reference": "WPN.512.6.2017.KP2",
+        "resolution_reference": "DOA-WSzOP.512.5.2024.MBA",
+        "appellant_name": "Zakład Gospodarki Komunalnej i Mieszkaniowej w Mońkach Sp. z o.o.",
+        "appellant_address": "ul. Kolejowa 21, 19-100 Mońki",
+        "resolution_date": "2024-05-28",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Decyzja uchylająca zaskarżoną decyzję Regionalnego Dyrektora Ochrony Środowiska (z dnia 14 lutego 2024 r. znak: WPN.512.6.2017.KP2) w całości i przekazująca sprawę do ponownego rozpatrzenia Organowi I instancji"
+      },
+      {
+        "date": "2024-02-29",
+        "reason": "Naruszenie przepisów postępowania administracyjnego, naruszenie przepisów prawa materialnego",
+        "appealed_decision_reference": "WPN.512.6.2017.KP2",
+        "resolution_reference": "DOA-WSzOP.512.5.2024.MBA",
+        "appellant_name": "Moniecka Spółdzielnia Mleczarska w Mońkach",
+        "appellant_address": "ul. Mickiewicza 62, 19-100 Mońki",
+        "resolution_date": "2024-05-28",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Decyzja uchylająca zaskarżoną decyzję Regionalnego Dyrektora Ochrony Środowiska (z dnia 14 lutego 2024 r. znak: WPN.512.6.2017.KP2) w całości i przekazująca sprawę do ponownego rozpatrzenia Organowi I instancji"
+      },
+      {
+        "date": "2024-02-29",
+        "reason": "Naruszenie przepisów postępowania administracyjnego, naruszenie przepisów prawa materialnego",
+        "appealed_decision_reference": "WPN.512.6.2017.KP2",
+        "resolution_reference": "DOA-WSzOP.512.5.2024.MBA",
+        "appellant_name": "Gmina Mońki",
+        "appellant_address": "ul. Słowackiego 5a, 19-100 Mońki",
+        "resolution_date": "2024-05-28",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Decyzja uchylająca zaskarżoną decyzję Regionalnego Dyrektora Ochrony Środowiska (z dnia 14 lutego 2024 r. znak: WPN.512.6.2017.KP2) w całości i przekazująca sprawę do ponownego rozpatrzenia Organowi I instancji"
+      },
+      {
+        "date": "2024-03-04",
+        "reason": "Naruszenie przepisów postępowania administracyjnego, naruszenie art.15 ust. 1 pkt 2",
+        "appealed_decision_reference": "WPN.512.6.2017.KP2",
+        "resolution_reference": "DOA-WSzOP.512.5.2024.MBA",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2024-05-28",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Decyzja uchylająca zaskarżoną decyzję Regionalnego Dyrektora Ochrony Środowiska (z dnia 14 lutego 2024 r. znak: WPN.512.6.2017.KP2) w całości i przekazująca sprawę do ponownego rozpatrzenia Organowi I instancji"
+      }
+    ]
+  },
+  "court_proceedings": {
+    "issue_date": "2019-02-19",
+    "case_number": "IV SA/Wa 1763/18",
+    "challenged_decision_reference": "DOA-ks.512.4.2018.mg",
+    "ruling_type": "wyrok",
+    "verdict": "uchylenie decyzji I i II instancji",
+    "court": "Wojewódzki Sąd Administracyjny w Warszawie",
+    "cassation_appeal_to_nsa": null
+  },
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,126 @@
+{
+  "registry_id": 1474,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "jasielski",
+    "municipality": "Krempna",
+    "address": "Polany",
+    "precinct": "0008 Polany",
+    "parcel_numbers": [
+      "180506_2.0008.75/2",
+      "180506_2.0008.70/3"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((685796.72597597 184444.142238514,685825.957207604 184418.635081051,685871.213572858 184379.081592137,685885.602872372 184405.917274482,685907.96087454 184416.272370515,685923.734413019 184435.423791513,685926.725442267 184444.81447148,685913.219226776 184440.085182311,685897.009788518 184434.333973185,685861.612100075 184466.078215531,685836.663929055 184488.478695516,685796.72597597 184444.142238514)),((685961.127911208 184950.995647946,685955.20662227 184957.039204425,685929.055678507 184983.678272979,685918.313281627 184994.634449529,685862.917257203 185038.639160316,685768.221910278 184922.388867888,685766.557046321 184920.304377446,685768.443336736 184918.194190736,685782.813170991 184910.364765818,685796.523567343 184894.226722468,685853.239876045 184849.086905202,685864.119187978 184845.025280435,685873.230653979 184841.626795984,685961.127911208 184950.995647946)))",
+    "site_description": "R - grunty orne, Ł - łąki trwałe, Ps - pastwiska trwałe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2022-04-11",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna, osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": null,
+  "environmental_component": "gatunki chronione",
+  "event_description": "Prowadzenie prac ziemnych z użyciem ciężkiego sprzętu w granicach działek o nr ewid. 70/3 i 75/2, obręb Polany, gmina Krempna, prowadzące do dewastacji siedlisk ptaków (gąsiorek, jarzębatka, pokrzewki, drozdy, orlik krzykliwy), storczyków (storczyk samiczy, storczyk męski nakrapiany, kukułka plamista).",
+  "total_area_ha": 2.6,
+  "reporters": [
+    {
+      "name": "Fundacja wspierania bioróżnorodności \"HORB\"",
+      "address": "Daliowa 13 38-485 Jaśliska",
+      "legal_form": "organizacja ekologiczna"
+    },
+    {
+      "name": "Stowarzyszenie na Rzecz Praworządności i Ochrony Środowiska",
+      "address": "ul. Gorlicka 10/14 38-230 Nowy Żmigród",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "storczyk samiczy (Orchis morio)",
+    "gąsiorek (Lanius collurio)",
+    "orlik krzykliwy (Clanga pomarina)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2022-06-07",
+    "detection_date": "2022-05-22",
+    "decisions": [
+      {
+        "issue_date": "2023-10-19",
+        "reference": "WSI.512.3.3.2022.AL.55",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-05-23",
+        "reference": "WSI.511.2.2023.AL.19",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-11-26",
+        "reference": "WSI.512.3.3.2022.AL.69",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2024-12-10",
+        "reason": "Naruszenie: 1) przepisów prawa materialnego, poprzez niewłaściwe zastosowanie: - art. 6 pkt 3 ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom w środowisku i ich naprawie (tekst jedn. Dz. U. z 2020 r. poz. 2187), zwanej dalej: „ustawą szkodową” – nałożenie obowiązku przeprowadzenia działań wykraczających poza zakres działań naprawczych, tj. o charakterze nieadekwatnym do okoliczności sprawy, nieuzasadnionym, nadmiernym i w rezultacie niewykonalnym, - art. 6 pkt 11 ustawy szkodowej – uznanie, że Skarżący wyrządzili, poprzez umyślne działanie, szkodę w środowisku, - art. 15 ust. 1 pkt 2 („w zw. z ust. 2”) ustawy szkodowej – nałożenie obowiązku przeprowadzenia działań wykraczających poza zakres działań naprawczych, tj. o charakterze nieadekwatnym do okoliczności sprawy, nieuzasadnionym, nadmiernym i w rezultacie niewykonalnym, - art. 15 ust. 3 („w zw. z art. 13 ust. 6”) ustawy szkodowej – brak uzgodnienia z odpowiednimi organami zakresu nałożonych działań naprawczych, 2) przepisów postępowania administracyjnego: - art. 84 § 1 Kpa – niedopuszczenie oraz nieprzeprowadzenie dowodu z opinii biegłego, zastępowanie dowodu z opinii biegłego wyjaśnieniami strony zainteresowanej nałożeniem obowiązku przeprowadzenia działań naprawczych, - art. 7 („w zw. z art. 77 w zw. z art. 80 k.p.a. z art. 107 § 3 k.p.a.”) – oparcie się przy rozstrzyganiu sprawy wyłącznie na dokumentach i wyjaśnieniach dostarczonych przez stronę postępowania zainteresowaną nałożeniem obowiązku przeprowadzenia działań naprawczych; błędne uznanie, iż zachodzi przesłanka w postaci winy umyślnej; błędne uznanie, że Jan Zdzieba w piśmie z dnia 31 sierpnia 2023 r. „„uznał” zarzut zniszczenia stanowiska storczyka samiczego, podczas gdy przedstawienie warunków działań naprawczych zostało dokonane na wyraźne żądanie Organu”; błędne uznanie, że w sprawie doszło do szkody w środowisku polegającej na zniszczeniu osobników storczyka samiczego i siedliska tego gatunku.",
+        "appealed_decision_reference": "WSI.512.3.3.2022.AL.69",
+        "resolution_reference": null,
+        "appellant_name": "(…)",
+        "appellant_address": null,
+        "resolution_date": null,
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": null
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2025-05-01",
+    "planned_end": "2029-10-01",
+    "actual_end": null,
+    "method": "działania naprawcze, o których mowa w § 2 rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie działań naprawczych",
+    "description": "W I roku prowadzenia działań naprawczych - wykonanie 2 zdjęć fitosocjologicznych na pow. min. 25 m2 każde, obejmujących fragmenty reprezentowane przez niezniszczoną murawę. W I i II roku prowadzenia działań naprawczych - 4-krotne, a w III, IV i V roku prowadzenia działań naprawczych 3-krotne, ręczne usuwanie roślin gatunków obcych dla odtwarzanej murawy i gatunków inwazyjnych, przed każdorazowym wysiewem nasion. W I i II roku prowadzenia działań naprawczych, 4-krotny zbiór nasion roślin, występujących na niezniszczonej murawie. W III, IV i V roku prowadzenia działań naprawczych, 3-krotny zbiór nasion roślin, występujących na niezniszczonej murawie. W I roku prowadzenia działań naprawczych, równomierny wysiew nasion, po każdorazowym zbiorze nasion, do powierzchniowo spulchnionej, oczyszczonej, wyrównanej ziemi oraz ręczne osłonięcie nasion ziemią. W II, III, IV i V roku prowadzenia działań naprawczych, podsiew uzupełniający nasion, po każdorazowym zbiorze nasion. W I-V roku prowadzenia działań naprawczych, przenoszenie niewielkich fragmentów niezniszczonej murawy z systemem korzeniowym przenoszonych roślin na miejsce odtwarzanej murawy. W V roku prowadzenia działań naprawczych, w granicach działki o nr ewid. 75/2, obręb 0008 Polany - wykonanie 2 zdjęć fitosocjologicznych na pow. min. 25 m2 każde, obejmujących fragment reprezentowany przez odtworzoną murawę oraz 2 zdjęć fitosocjologicznych obejmujących fragmenty reprezentowane przez niezniszczoną murawę. Prowadzenie ww. prac przez botanika. W I roku prowadzenia działań naprawczych, regularne koszenie odtwarzanej murawy wraz z zebraniem i wywiezieniem pokosu poza teren odtwarzanej murawy. W II-V roku prowadzenia działań naprawczych, koszenie murawy 1-2 razy w sezonie wegetacyjnym. Prowadzenie monitoringu skuteczności realizowanych działań naprawczych, obejmującego monitoring stanu odtwarzania murawy.",
+    "ecological_effect": "Zrekonstruowanie murawy, będącej siedliskiem storczyka samiczego Orchis morio i jej utrzymanie na powierzchni 0,1 ha na części działki o nr ewid. 75/2, obręb 0008 Polany, gmina Krempna, umożliwiające zasiedlenie i odtworzenie przez storczyka samiczego zniszczonej części populacji, w granicach ww. działki",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "Sprawa znak: WSI.512.3.3.2022.AL - nałożenie obowiązku przeprowadzenia działań naprawczych Decyzja z dnia 19.10 2023 r., znak: WSI.512.3.3.2022.AL.55 - decyzja umarzająca w części Decyzja z dnia 26 listopada 2024 r., znak: WSI.512.3.3.2022.AL.69 - decyzja nakładająca obowiązek przeprowadzenia działań naprawczych Sprawa znak: WSI.511.2.2023.AL - wniosek o uzgodnienie warunków przeprowadzenia działań naprawczych Decyzja z dnia 23.05.2024 r., znak: WSI.511.2.2023.AL.19 - decyzja odmawiająca uzgodnienia warunków przeprowadzenia działań naprawczych"
+}

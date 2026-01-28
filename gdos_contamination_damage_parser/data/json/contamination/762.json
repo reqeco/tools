@@ -1,0 +1,65 @@
+{
+  "registry_id": 762,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "Olsztyn",
+    "municipality": "Olsztyn",
+    "address": "ul. Przemysłowa 6a w Olsztynie",
+    "precinct": "77 miasto Olsztyn",
+    "parcel_numbers": [
+      "7/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((598889.9316344726 658631.8113617254,599015.6089691889 658633.3988648951,599015.0798014587 658683.4052149039,598967.983873929 658700.0739982435,598931.2067170313 658699.2802466545,598919.3004432189 658686.5802212656,598912.4212627875 658681.5531278737,598901.0441567049 658664.3551768037,598894.1649762734 658647.6863934752,598889.6670506125 658632.3405294446,598889.9316344726 658631.8113617254))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Zidentyfikowane potencjalne historyczne zanieczyszczenie powierzchni ziemi jest związane z funkcjonowaniem w przeszłości stacji paliw."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Naprawa i konserwacja maszyn"
+  },
+  "land_holders": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "entity_type": "osoba fizyczna",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": null,
+    "legal_basis": null,
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-05-30",
+        "reference": "WSI.513.1.2019.JJ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3 pkt. 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

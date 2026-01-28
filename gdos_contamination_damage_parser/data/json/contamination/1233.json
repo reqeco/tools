@@ -1,0 +1,102 @@
+{
+  "registry_id": 1233,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0016,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "bartoszycki",
+    "municipality": "Bartoszyce (gmina miejska)",
+    "address": null,
+    "precinct": "0007 Bartoszyce",
+    "parcel_numbers": [
+      "158/6"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((617095.1474153007 710084.9403513819,617195.6892831124 710057.1590458099,617154.6787843955 709961.9088553116,617375.606309722 709905.023324878,617510.5440796779 709979.1068063751,617622.9922213254 710398.472228433,617525.0961921341 710420.9618567452,617093.8244959799 710083.6174320616,617095.1474153007 710084.9403513819))",
+    "site_description": "Teren zamknięty. Zanieczyszczenie powierzchni ziemi jest następstwem funkcjonowania w latach 1976-1999 w centralno-wschodniej części działki stacji paliw (na powierzchni około 0,5 ha)."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "1976-1999"
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "MON - Rejonowy Zarząd Infrastruktury w Olsztynie",
+      "address": "ul. Saperska 1 10-073 Olsztyn",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "158/6"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "54,7 mg/kg s.m.",
+      "area_ha": 0.0016
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-01-04",
+    "legal_basis": "101e ust. 1 POŚ",
+    "case_reference": "WSI.513.43.2020.JJ",
+    "decisions": [
+      {
+        "issue_date": "2021-01-28",
+        "reference": "WSI.513.43.2020.JJ.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-08-26",
+        "reference": "WSI.515.16.2021.KPi.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2023-12-21",
+        "reference": "WSI.515.20.2023.KPi.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "155 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "MON - Rejonowy Zarząd Infrastruktury w Olsztynie",
+        "address": "ul. Saperska 1 10-073 Olsztyn",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2022-09-01",
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja będzie polegała na przeprowadzeniu samooczyszczania powierzchni ziemi oraz kontrolowaniu zanieczyszczenia poprzez prowadzenie badań zanieczyszczenia gleby i ziemi w określonym czasie. Remediacja historycznego zanieczyszczenia powierzchni ziemi będzie prowadzona przez okres 3 lat licząc od dnia, w którym niniejsza decyzja stanie się ostateczna. W drugim i trzecim roku remediacji zostanie przeprowadzony monitoring efektów procesu samooczyszczania, podczas którego zostaną pobrane próbki gruntu do analiz laboratoryjnych pod kątem oznaczenia w nich zawartości sumy węglowodorów C6-C12, składników frakcji benzyn oraz w zakresie wodoprzepuszczalności. Próbki gruntu do analiz będą pobierane: •\tw miejscu stwierdzonego zanieczyszczenia gruntu, tj. w otworze nr 5 o współrzędnych X=710184,81 Y=617482,10 (układ PUWG 92) na głębokości 3,0-5,0 m ppt - 1 próbka w drugim roku remediacji i 1 próbka w trzecim roku remediacji; •\tponiżej stwierdzonego zanieczyszczenia gruntu, tj. w otworze nr 5 o współrzędnych X=710184,81 Y=617482,10 (układ PUWG 92) na głębokości 5,0-7,0 m ppt w celu kontroli ewentualnego wertykalnego rozprzestrzeniania się zanieczyszczenia - 1 próbka w drugim roku remediacji i 1 próbka w trzecim roku remediacji;  •\t w rejonie otworu nr 5 na głębokości 3,0-5,0 m ppt i 5,0-7,0 m ppt w celu kontroli ewentualnego horyzontalnego rozprzestrzeniania się zanieczyszczenia - co najmniej 8 próbek w drugim roku remediacji i co najmniej 8 próbek w trzecim roku remediacji.  Do czasu zakończenia prac remediacyjnych obszar historycznego zanieczyszczenia powierzchni ziemi będzie zabezpieczony przed dostępem osób postronnych.",
+    "ecological_effect": "Po przeprowadzeniu remediacji stężenie sumy węglowodorów C6-C12, składników frakcji benzyn powinno odpowiadać co najmniej jej dopuszczalnej zawartości w glebie i ziemi, określonej w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395) dla gruntów grupy III i głębokości przekraczającej 0,25 m ppt. Jej zawartość w glebie i w ziemi, przy wodoprzepuszczalności wyższej lub równej 1x10-7 m/s, nie będzie zatem przekraczać 50 mg/kg s.m.",
+    "effect_assessment": null
+  },
+  "notes": null
+}

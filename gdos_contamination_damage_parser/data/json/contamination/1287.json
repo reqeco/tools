@@ -1,0 +1,60 @@
+{
+  "registry_id": 1287,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Osiek",
+    "address": null,
+    "precinct": "Osiek",
+    "parcel_numbers": [
+      "40"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((464958.93658453785 651784.0889846804,464975.3407840079 651815.3098804578,465364.27906188805 651662.9095756598,465374.333248658 651648.6220470807,465373.274913208 651618.9886544812,464958.93658453785 651784.0889846804))",
+    "site_description": "Przedmiotowa działka znajduje się w obszarze działalności: \"oczyszczalnie ścieków\"."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Osiek",
+      "address": "ul. Kwiatowa 30, 83-221 Osiek",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [
+        "40"
+      ],
+      "economic_activity_code": "37.00.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-09-27",
+    "legal_basis": "art. 67 §1 i §4 ustawy k.p.a.; art. 101c ust. 3 pkt 1 ustawy p.o.ś.",
+    "case_reference": "RDOŚ-Gd-WZS.515.192.2019",
+    "decisions": [
+      {
+        "issue_date": "2021-05-28",
+        "reference": "RDOŚ-Gd-WZS.515.192.2019.IK.MK.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 104 ustawy k.p.a., art. 101c ust. 3 i 4 p.o.ś.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

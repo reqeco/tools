@@ -1,0 +1,99 @@
+{
+  "registry_id": 2081,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "tarnogórski",
+    "municipality": "Radzionków",
+    "address": "ul. Wawelska 7 w Radzionkowie",
+    "precinct": "0001 Radzionków",
+    "parcel_numbers": [
+      "241303_1.0001.AR_20.1910/53"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((493673.39 279751.89,493775.21 279745.39,493766.07 279722.46,493736.37 279647.91000000003,493676.26 279656.16000000003,493673.39 279751.89))",
+    "site_description": "Teren Zakładu Spółki MGR Recykling w Radzionkowie"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2024-10-01",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Podczas kontroli interwencyjnej WIOŚ, na terenie Zakładu Spółki MGR Recykling w Radzionkowie, pobrał próbki gleby. Po przeprowadzonych badaniach stwierdzono przekroczenia dopuszczalnych zawartości w glebie substancji powodujących ryzyko szczególnie istotnych dla ochrony powierzchni ziemi.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach",
+      "address": "ul. Konstantego Damrota 16, 40-022 Katowice",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "MGR Recykling Sp. z o.o.",
+      "address": "ul. Szronowa 15, 40-316 Katowice",
+      "economic_activity_code": "38.11.Z, 38.12.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "4100±1900mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "16±7mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "2700±1600mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-01-31",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

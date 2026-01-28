@@ -1,0 +1,98 @@
+{
+  "registry_id": 474,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0754,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "elbląski",
+    "municipality": "Gronowo Elbląskie",
+    "address": null,
+    "precinct": "0005 Jasionno",
+    "parcel_numbers": [
+      "1/102"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((521604.25573619007 692600.3315974921,522001.13152994 691825.1008803649,522085.79836594005 691782.7674623644,522321.27800357004 691888.6010073638,522286.8821014401 691941.5177798634,522355.6739056901 691973.2678433647,522308.0488104402 692044.7054862436,522379.4864533202 692079.1013883622,522360.9655829402 692105.5597746121,522427.1115485702 692132.0181608712,522445.63241894 692126.7264836226,522562.04931845004 692169.059901623,522572.63267295004 692187.5807719929,522519.71590044023 692330.4560577413,522466.7991279401 692417.7687323727,522421.81987132016 692404.5395392422,522384.77813057014 692486.5605366239,522408.5906781901 692507.7272456232,522257.7778765701 692822.5820419919,522276.29874694004 693047.478325122,522038.17327069014 693216.8119971231,521736.5476674401 692735.2693673735,521604.25573619007 692597.6857588738,521604.25573619007 692600.3315974921))",
+    "site_description": "teren nieczynnej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Stacja paliw funkcjonowała na tym terenie przed 30 kwietnia 2007 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu",
+    "current": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu"
+  },
+  "land_holders": [
+    {
+      "name": "Jasionno Sp. z o.o.",
+      "address": "Łozice 27 74-200 Pyrzyce",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "01.11.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "9870 mg/kg suchej masy",
+      "area_ha": 0.0754
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "77 - 14676 mg/kg s.m.",
+      "area_ha": 0.0754
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2076 11303 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2018-09-05",
+    "legal_basis": "101l ust. 2",
+    "case_reference": "WSI.515.11.2018.JJ",
+    "decisions": [
+      {
+        "issue_date": "2018-12-17",
+        "reference": "WSI.515.112018.JJ.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Jasionno Sp. z o.o.",
+        "address": "Łozice 27 74-200 Pyrzyce",
+        "economic_activity_code": "01.11.Z"
+      }
+    ],
+    "planned_start": "2018-12-31",
+    "planned_end": "2019-03-31",
+    "actual_end": "2019-03-08",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Prace remediacyjne będą prowadzone metodą ex-situ, która polega na usunięciu zanieczyszczonego gruntu i zastąpieniu go gruntem wolnym od zanieczyszczeń. Metodą ex-situ zostanie usunięty grunt niespełniający norm przewidzianych dla gruntów grupy IV: •\tw przedziale głębokości 0,0-0,25 m ppt - z powierzchni około 251,59 m2, •\tw przedziale głębokości 0,25-1,0 m ppt  - z powierzchni około 754,5 m2, •\tw przedziale głębokości 1,0-3,0 m ppt - z powierzchni około 294,72 m2, •\tw przedziale głębokości 3,0-5,0 m ppt - z powierzchni około 227,88 m2. Łącznie zostanie wydobyte około 1673,98 m3 gruntu o zawartości zanieczyszczeń przekraczających wartości dopuszczalne ustalone dla gruntów grupy IV. Przy założeniu średniej gęstości objętościowej na poziomie 1,9 Mg/m3, stanowi to około 3180,57 Mg zanieczyszczonego gruntu. Dokładna ilość gruntu wymagającego wymiany zostanie określona w trakcie prowadzonych prac remediacyjnych. Wydobyty grunt (odpad niebezpieczny o kodzie 17 05 03*) zostanie załadowany na samochody przystosowane do transportu odpadów niebezpiecznych i przekazany podmiotowi posiadającemu zezwolenie na unieszkodliwianie tego rodzaju odpadów. Pojawiająca się  w wykopach woda gruntowa zostanie odpompowana i przekazana do unieszkodliwienia jako odpad niebezpieczny o kodzie 16 10 01*. Po usunięciu zanieczyszczonej partii gruntów, powstałe wykopy (ściany i dno) zostaną opróbowane i przebadane pod kątem określenia w glebie i ziemi zawartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji. Następnie wykopy zostaną uzupełnione czystym gruntem. Prace remediacyjne będą prowadzone pod stałym nadzorem geologicznym, w tym w zakresie usuwania i załadunku gruntu, przy zachowaniu szczególnych środków bezpieczeństwa oraz zastosowaniu środków ochrony indywidualnej odpowiednich do rodzaju wykonywanych prac i zagrożeń związanych z narażeniem na kontakt z odpadami niebezpiecznymi. Do czasu zakończenia prac remediacyjnych obszar historycznego zanieczyszczenia powierzchni ziemi będzie zabezpieczony przed dostępem osób postronnych",
+    "ecological_effect": "Po przeprowadzeniu remediacji wartości substancji, których przekroczenie spowodowało obowiązek podjęcia remediacji powinny odpowiadać co najmniej dopuszczalnym zawartościom substancji powodujących ryzyko, określonym dla gruntów grupy IV w załączniku nr 1 do rozporządzenia Ministra Środowiska z dnia 1 września 2016 r. w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016 r. poz. 1395).  Ich zawartość w glebie i w ziemi nie będzie zatem przekraczać: •\tna głębokości 0-0,25 m ppt: - suma węglowodorów C12-C35, składników frakcji oleju – 3000 mg/kg s.m. •\tna głębokości poniżej 0,25 m ppt, dla gleby i ziemi o wodoprzepuszczalności wyższej lub równej 1x10-7 m/s: - suma węglowodorów C6-C12, składników frakcji benzyn – 50 mg/kg s.m., - suma węglowodorów C12-C35, składników frakcji oleju – 1000 mg/kg s.m. •\tna głębokości poniżej 0,25 m ppt, dla gleby i ziemi o wodoprzepuszczalności niższej niż 1x10-7 m/s: - suma węglowodorów C6-C12, składników frakcji benzyn – 750 mg/kg s.m., - suma węglowodorów C12-C35, składników frakcji oleju – 3000 mg/kg s.m.  W ramach prac remediacyjnych wydobyto i przekazano do przetworzenia łącznie 3 155 Mg zanieczyszczonego gruntu (odpad o kodzie 17 05 03*) oraz odpompowano i przekazano do unieszkodliwienia około 20 Mg zanieczyszczonej wody (odpad o kodzie 16 10 01*). W celu określenia stanu gruntu pozostawionego w wykopie, na bieżąco w trakcie postępu prac remediacyjnych, pobierano próby gruntu do analiz laboratoryjnych. Łącznie pobrano 11 prób gruntu ze ścian i dna powstałego wykopu oraz 1 próbę gruntu, który został dowieziony i wykorzystany do zasypania wykopów. W żadnej próbie nie stwierdzono przekroczenia norm dla substancji powodujących ryzyko, określonych w rozporządzeniu Ministra Środowiska w sprawie sposobu prowadzenia oceny zanieczyszczenia powierzchni ziemi.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

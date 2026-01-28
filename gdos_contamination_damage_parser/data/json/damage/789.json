@@ -1,0 +1,208 @@
+{
+  "registry_id": 789,
+  "location": {
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "municipality": "Dynów (gmina miejska)",
+    "address": "36-065 Dynów, ul. Grunwaldzka 61A",
+    "precinct": "0001 Dynów",
+    "parcel_numbers": [
+      "181601_1.0001.1489/30"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((732602.41254467598628253 223492.18483673999435268, 732607.80036736698821187 223523.79816054500406608, 732607.96413460001349449 223524.78282811801182106, 732587.65916798694524914 223523.99062355101341382, 732538.90526310401037335 223522.088746016001096, 732504.41721220198087394 223520.87785094499122351, 732498.39050644997041672 223471.23206496200873516, 732497.79291340499185026 223466.26462114899186417, 732491.74101435905322433 223416.4381108240049798, 732495.25784209300763905 223416.22191323500010185, 732525.24078187101986259 223414.20157817201106809, 732554.17148821800947189 223412.25317921699024737, 732568.16097047599032521 223411.30628636799519882, 732569.94703226001001894 223436.20144863100722432, 732613.28880188299808651 223432.87728294500266202, 732615.57948525797110051 223440.37067942100111395, 732594.85621848597656935 223454.12169321600231342, 732602.41254467598628253 223492.18483673999435268))",
+    "site_description": "grunty orne, oznaczone symbolem R, pastwiska trwałe, oznaczone symbolem Ps, tereny rolne zabudowane, oznaczone B-Ps"
+  },
+  "occurrence_time": {
+    "date": "2014-05-07",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": "osoba fizyczna",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Awaria podczas czyszczenia zbiornika paliw, w wyniku której miał miejsce zrzut zawartości substancji odpompowywanej ze zbiornika na tereny sąsiednie. Działka o nr ewid. 1489/30 w m. Dynów została podzielona na działki nr 1489/31, 1489/32, 1489/33, 1489/34 i 1489/35 (ten sam właściciel terenu).",
+  "total_area_ha": 0.038,
+  "reporters": [
+    {
+      "name": "Eko-Jawor Sp. z o.o.",
+      "address": "ul. Dąbrowska 34A, 43-600 Jaworzno",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Eko-Jawor Sp. z o.o.",
+      "address": "ul. Dąbrowska 34A, 43-600 Jaworzno",
+      "economic_activity_code": "37.00.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "14 mg/kg s.m",
+      "area_ha": 0.038
+    },
+    {
+      "soil_group": "II",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2196 mg/kg s.m",
+      "area_ha": 0.038
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2014-07-28",
+    "detection_date": "2014-05-07",
+    "decisions": [
+      {
+        "issue_date": "2015-04-17",
+        "reference": "WSI.511.4.2.2014.IK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Tak",
+        "overturned_by_court": "tak"
+      },
+      {
+        "issue_date": "2018-08-16",
+        "reference": "WSI.511.4.2.2014.IK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-06-04",
+        "reference": "WSI.511.4.2.2014.KN",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Tak",
+        "overturned_by_court": "tak"
+      },
+      {
+        "issue_date": "2022-02-02",
+        "reference": "DOA-WSzOP.511.1.2020.KW",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Tak",
+        "overturned_by_court": "tak"
+      },
+      {
+        "issue_date": "2019-02-18",
+        "reference": "DOA-woss.511.2.2018.JK.2",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Nie",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2015-10-15",
+        "reference": "DOA-ks.511.8.2015.mp",
+        "issuing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": "Tak",
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2024-07-18",
+        "reference": "WSI.511.4.2.2014.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 17b",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2025-01-15",
+        "reference": "WSI.512.4.2.2014.AL",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Rzeszowie",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2015-05-05",
+        "reason": "art. 7,77,78,80 KPA poprzez nieprawidłowe ustalenie powierzchni działki wymagającej podjęcia działań naprawczych, art. 7, 10, 75, 77, 78, 80 i 107 KPA poprzez zaniechanie rozpatrzenia wniosku o dopuszczenie i przeprowadzenie opinii biegłego, art. 13 ustawy o zapobieganiu szkodom w środowisku i ich naprawie poprzez uzgodnienie warunków działań naprawczych",
+        "appealed_decision_reference": "WSI.511.4.2.2014.IK",
+        "resolution_reference": "DOA-ks.511.8.2015.mp",
+        "appellant_name": "r.pr. (…) - pełnomocnik (…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2015-10-15",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Uchylam w całości zaskarżoną decyzję i przekazuję sprawę do ponownego rozpatrzenia Organowi I instancji"
+      },
+      {
+        "date": "2015-05-07",
+        "reason": "art. 10, 32, 40, 81 KPA",
+        "appealed_decision_reference": "WSI.511.4.2.2014.IK",
+        "resolution_reference": "DOA-ks.511.8.2015.mp",
+        "appellant_name": "(…)",
+        "appellant_address": "(…)",
+        "resolution_date": "2015-10-15",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Uchylam w całości zaskarżoną decyzję i przekazuję sprawę do ponownego rozpatrzenia Organowi I instancji"
+      },
+      {
+        "date": "2018-08-30",
+        "reason": "art. 7 k.p.a. w związku z art. 107 k.p.a. poprzez wadliwe uzasadnienie decyzji - art. 75 § 1 i 2 k.p.a. w związku z art. 233 § 1 kk oraz art. 80 k.p.a.",
+        "appealed_decision_reference": "WSI.511.4.2.2014.IK",
+        "resolution_reference": "DOA-woss.511.2.2018.JK.2",
+        "appellant_name": "(…)",
+        "appellant_address": null,
+        "resolution_date": "2019-02-18",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Uchylam w całości i przekazuję do ponownego rozpatrzenia przez Organ I instancji"
+      },
+      {
+        "date": "2020-06-22",
+        "reason": "Naruszenie przepisów postępowania poprzez: 1) niezasięgnięcie opinii Starosty Rzeszowskiego, 2) naruszenie art. 79a §1 Kpa przez niepoinformowaniu o niespełnieniu przesłanek zależnych od strony, 3) pominięcie wniosku EKO-JAWOR o przeprowadzenie oględzin.  Naruszenie przepisów prawa materialnego poprzez: 1) odmowę ustalenia planu remediacji pomimo spełnienia wymogów prawa,",
+        "appealed_decision_reference": "WSI.511.4.2.2014.KN",
+        "resolution_reference": "DOA-WSzOP.511.1.2020.KW",
+        "appellant_name": "(…) I Wspólnicy Kancelaria Radców Prawnych Sp. J., reprezentujacy EKO Jawor Sp. z o.o.",
+        "appellant_address": "ul. Ostrogórska 9, 41-200 Sosnowiec",
+        "resolution_date": "2022-02-02",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Utrzymuję w mocy decyzję Organu I instancji"
+      },
+      {
+        "date": "2018-09-14",
+        "reason": "Naruszenie art. 7 i 55 § 1 Kpa poprzez ustalenie obszaru wymagającego przeprowadzenia remediacji w oparciu o wyniki badań wstępnych, przeprowadzonych przed usunięciem zanieczyszczenia. Naruszenie art. 13 ust. 1, ust. 2a i ust. 3 ustawy szkodowej poprzez ustalenie terminu remediacji niezgodnie z wnioskiem z dnia 02 lutego 2018 r.",
+        "appealed_decision_reference": "WSI.511.4.2.2014.IK",
+        "resolution_reference": "DOA-woss.511.2.2018.JK.2",
+        "appellant_name": "(…)I Wspólnicy Kancelaria Radców Prawnych Sp. J., reprezentujacy EKO Jawor Sp. z o.o.",
+        "appellant_address": "(…)",
+        "resolution_date": "2019-02-18",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "Uchylam w całości i przekazuję do ponownego rozpatrzenia przez Organ I instancji"
+      }
+    ]
+  },
+  "court_proceedings": {
+    "issue_date": "2016-03-15",
+    "case_number": "IV. SA/Wa 3603/15",
+    "challenged_decision_reference": "DOA-ks.511.8.2015.mp",
+    "ruling_type": "wyrok",
+    "verdict": "oddalenie skargi",
+    "court": "WSA Warszawa",
+    "cassation_appeal_to_nsa": "nie"
+  },
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": "zwolnienie z obowiązku przeprowadzenia działań naprawczych",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "znak sprawy: WSI.511.4.2.2014.IK/KK/JŁ - zgłoszenie akta znak: WSI.510.4.1.2014.IK znak sprawy: WSI.512.4.2.2014.IK/JŁ/AL - postępowanie w sprawie nałożenia obowiązku przeprowadzenia działań naprawczych (umorzenie)"
+}

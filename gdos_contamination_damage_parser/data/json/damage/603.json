@@ -1,0 +1,78 @@
+{
+  "registry_id": 603,
+  "location": {
+    "voivodeship": "warmińsko-mazurskie",
+    "county": "mrągowski",
+    "municipality": "Mikołajki",
+    "address": "Jora Wielka 52 11-730 Mikołajki",
+    "precinct": null,
+    "parcel_numbers": [],
+    "coordinates_ewkt": "SRID=2180;POLYGON((665108.0416788246 668893.7308004042,665123.3875428917 668748.7388437539,665291.6628802107 668756.1471919063,665298.5420606779 668790.5430940371,665206.9960438475 668906.4308258072,665106.4541756377 668894.7891358528,665108.0416788246 668893.7308004042))",
+    "site_description": "Hotel Mikołajki Resort by DeSilva"
+  },
+  "occurrence_time": {
+    "date": "2013-06-21",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "Szkoda w gatunku chronionym (jaskółka oknówka) na terenie \"Hotelu Mikołajki Resort by DeSilva\" Jora Wielka 52b, Mikołajki",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": "osoba fizyczna"
+    },
+    {
+      "name": "(…)",
+      "address": null,
+      "legal_form": "osoba fizyczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Mikołajki Marina Resort Sp.z o.o.",
+      "address": "ul. Sienna 86/43 00-815 Warszawa",
+      "economic_activity_code": "55.10.Z"
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "oknówka (Delichon urbicum)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2013-08-13",
+    "detection_date": "2013-06-21",
+    "decisions": [
+      {
+        "issue_date": "2013-08-27",
+        "reference": "WSI.511.9.2013.JK.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Olsztynie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2013-10-16",
+    "planned_end": "2013-11-29",
+    "actual_end": "2014-02-18",
+    "method": null,
+    "description": "Zamontowanie 22 półek lęgowych na dwóch przeciwległych ścianach w obrębie tarasu restauracyjnego, tj. w miejscach, gdzie dotychczasowe siedliska zostały zniszczone. Każda półka będzie składała się z dwóch stanowisk. Na każdej ścianie zostanie zamontowanych 11 półek lęgowych (22 stanowiska). Półki będą wieszane na wysokości około 3,8 m, tuż pod dachem budynku. Każda półka będzie miała wymiary: 32x14x17 cm i będzie wykonana z drewna sosnowego.",
+    "ecological_effect": "Zastąpienie w równoważny sposób elementu przyrodniczego, który uległ szkodzie (zrekompensowanie utraconych miejsc gniazdowania gatunku i umożliwienie mu założenia gniazd w tych samych miejscach w kolejnym sezonie lęgowym).",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

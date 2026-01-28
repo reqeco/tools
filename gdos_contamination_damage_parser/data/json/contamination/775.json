@@ -1,0 +1,76 @@
+{
+  "registry_id": 775,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "ul. Kopernika",
+    "precinct": "0013 Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.2245"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((531980.1210947507 253692.1749216346,531961.0710566507 253669.02383366507,532018.3534628807 253604.9945389349,532040.1816315306 253624.83832862508,531980.1210947507 253692.1749216346))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Trzebinia",
+      "address": "ul. Marszałka Piłsudskiego 14, 32 - 540 Trzebinia",
+      "entity_type": "jednostka samorządu terytorialnego",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-02-05",
+    "legal_basis": "art. 61 § 1 Kpa",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2019-05-17",
+        "reference": "ZS.513.89.2019.MK",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Gmina Trzebinia",
+        "address": "ul. Marszałka Piłsudskiego 14, 32 - 540 Trzebinia",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

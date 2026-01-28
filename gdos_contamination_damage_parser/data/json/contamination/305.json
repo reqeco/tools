@@ -1,0 +1,133 @@
+{
+  "registry_id": 305,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.03,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Kalisz",
+    "municipality": "Kalisz",
+    "address": "ul. Młynarska 131, 62-800 Kalisz",
+    "precinct": "072 Widok",
+    "parcel_numbers": [
+      "169"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((435815.41139605443 432006.8422231674,435788.6884259441 431983.82342712954,435815.1468121945 431963.7150535779,435838.9593598247 431993.0838623177,435815.41139605443 432006.8422231674)), POLYGON((435707.46118015324 432016.10265834816,435654.80899151263 431971.91715331655,435671.47777485295 431956.5712892888,435732.8612309535 432017.16099379864,435707.46118015324 432016.10265834816))",
+    "site_description": "teren obiektu handlowego (w 2017 r. w budowie)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1970-01-01",
+    "to": "2007-04-30",
+    "description": "W latach 70-tych XX w. zlokalizowano na tym obszarze zaplecze budowy pobliskiego osiedla mieszkaniowego"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Antan Development Polska Sp. z o.o. Kalisz Sp. k.",
+      "address": "ul. Podwale 1/100, 50-043 Wrocław",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "53,1 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "7405 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "933 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cyna (Sn)",
+      "concentration": "57,7 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "707 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "4,65 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "268 mg/kg s.m.",
+      "area_ha": 0.03
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1315 mg/kg s.m.",
+      "area_ha": 0.03
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-06-09",
+    "legal_basis": "art. 101 l ustawy Prawo ochrony środowiska",
+    "case_reference": "WSS.515.18.2017.ASB",
+    "decisions": [
+      {
+        "issue_date": "2017-09-18",
+        "reference": "WSS.515.18.2017.ASB.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Antan Development Polska Sp. z o.o. Kalisz Sp. k.",
+        "address": "ul. Podwale 1/100, 50-043 Wrocław",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2017-10-31",
+    "planned_end": "2019-10-31",
+    "actual_end": null,
+    "method": "ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń, usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Na terenie zanieczyszczonym remediacja prowadzona była metodami in-situ. W dwu obszarach wyznaczonych wokół punktów pomiarowych O-4 i O-9 prowadzona była bioremediacja polegająca na cyklicznym zadawaniu poprzez otwory aplikacyjne bioroztworu oraz preparatów napowietrzających. W rejonie otworu O-3, w którym oznaczono ponadnormatywną zawartość metali ciężkich, przeprowadzono remediację polegająca na stabilizacji i uszczelnieniu gruntów, co ma na celu unieruchomienie zanieczyszczeń.",
+    "ecological_effect": "Osiągnięto zamierzone cele prac remediacyjnych.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

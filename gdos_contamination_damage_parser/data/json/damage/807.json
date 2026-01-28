@@ -1,0 +1,172 @@
+{
+  "registry_id": 807,
+  "location": {
+    "voivodeship": "podlaskie",
+    "county": "moniecki",
+    "municipality": "Trzcianne",
+    "address": "Zajki, Laskowiec 19-104 Trzcianne",
+    "precinct": "9 Laskowiec, 21 Zajki",
+    "parcel_numbers": [
+      "423",
+      "424",
+      "426",
+      "440",
+      "441",
+      "442",
+      "443",
+      "19",
+      "20/1",
+      "20/2",
+      "22",
+      "23",
+      "24",
+      "25",
+      "72",
+      "73",
+      "114",
+      "115",
+      "116/1",
+      "116/2",
+      "158",
+      "161",
+      "162",
+      "192",
+      "193",
+      "194/1",
+      "194/11",
+      "195",
+      "196",
+      "200",
+      "210",
+      "211",
+      "203",
+      "215",
+      "217",
+      "219",
+      "220",
+      "221",
+      "230",
+      "231",
+      "18",
+      "444",
+      "478"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((737780.3154034911 600890.137471688,737756.238271025 600837.2206991706,737713.1110997695 600788.5372684384,737717.3444417198 600785.8914298126,737575.527486024 600667.8870270317,737696.1777316123 600600.6827260368,737701.9985767924 600599.0952228718,737732.1082216133 600692.7579102181,737939.0128096007 600641.6932249106,737961.237855037 600734.5621606605,738060.7213909654 600711.2787808338,738009.1275361323 600855.7415697323,737959.9149361469 600993.5897620618,737931.0752942122 601075.3461755635,737912.2898393855 601127.9983641831,738627.6717136168 601246.7965189898,738562.0549135088 601382.7926242752,738535.0144418059 601415.0718554752,738509.349806211 601434.1218935596,738444.4076947917 601465.4750812193,738467.9292011681 601524.0804067813,738665.8379378035 601557.682557473,738675.0983732285 601502.1199463485,738837.2882871031 601529.3720843149,739111.6617629809 601574.6159250187,739099.2263211708 601682.5661409134,739400.0581843944 601729.1329009533,739395.2956747499 601764.8517223913,739616.4877923608 601801.8934633145,739671.6799870826 601214.7818724429,739693.9050320337 601028.5148332389,739707.1342254444 600913.6854369268,740089.9870894293 600981.4189060368,740142.1101125015 601051.0044619236,740198.466477553 601123.7650241563,740195.1591791988 601152.0754974438,739827.2553039879 601087.7816185588,739811.5125638489 601237.9329605224,739901.0080588302 601253.2126786532,739886.489019095 601400.0236493535,739915.7420735375 601406.2248336533,739899.6768718055 601558.550724241,739757.7648311472 601534.7009693934,739742.900592132 601676.7638999997,739662.4433236036 601666.30353559,739644.9689026675 601805.5361423353,739768.2590445811 601824.0877603488,739776.1935892099 601744.7279753704,740125.707399543 601801.8857768374,740136.4223035445 601803.4771234645,740143.962200956 601744.7433494367,740479.8514276791 601810.4924395392,740458.2878423714 601981.8104904983,740230.4811277608 601946.1578148389,740215.9290149685 602056.5554314628,739983.3597907011 602020.9689017693,739609.8335082546 601958.7916937787,739618.4490204738 601887.8170726663,739598.4894745724 601884.5759203332,739346.903284595 601844.2268810989,739089.231665611 601804.8038853854,739079.4585989529 601876.3738201875,738980.2086407994 601859.6554272976,738996.8464185833 601719.1117868414,738795.1714958353 601686.7333365092,738677.8988284583 601668.3778309571,738485.0678284154 601637.8597359154,738531.4206493685 601787.7878352944,738197.0879206131 601733.6308256863,738092.9452282734 601885.1381598795,738124.7986462112 601987.1683118837,737940.3258095955 602037.2408077242,737889.9391178058 601696.3245008392,737855.8408708533 601465.3427888388,737837.4886717808 601335.2998204026,737803.2614401795 601096.248300598,737770.6217118774 600892.6510183755,737780.3154034911 600890.137471688))",
+    "site_description": "Łąki w okolicach miejscowości Laskowiec i Zajki, gm. Trzcianne stanowiące miejsce rozrodu gatunków chronionych ptaków, a także miejsce tokowania, lęgu, pierzenia i zimowania ptaków wędrownych oraz miejsca ich zatrzymywania się i żerowania wzdłuż tras wędrówek (ptaki wodno-błotne)."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2010-07-01",
+    "to": null,
+    "description": "Jesienią 2010 r. odmulony został fragment rowu A zlokalizowany na działkach o nr geod. 20/1, 20/2, 22, 23, 24, 116/1, 116/2 obręb Zajki oraz nr 423, 426 obręb 9 Laskowiec. Kolejne prace na tym obiekcie wykonano jesienią 2011 r. Został nimi objęty fragment rowu A zlokalizowany na działkach o nr geod. 116/1, 116/2, 158, 161, 195, 200, 221, 230 obręb 21 Zajki oraz rów do niego wpadający zlokalizowany na działce o nr geod. 193 obręb 21 Zajki."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": "solidarnie podmiot korzystający ze środowiska z władającym powierzchnią ziemi",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Prace w obrębie rowów melioracyjnych spowodowały przyspieszenie odpływu wód zalewowych i obniżenie zwierciadła wód gruntowych na terenie łąk",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Biebrzański Park Narodowy",
+      "address": "Osowiec Twierdza 8, 19-110 Goniądz",
+      "legal_form": "państwowa osoba prawna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    },
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": null,
+      "other": "miejsce rozrodu gatunków chronionych, a także miejsce tokowania, lęgu, pierzenia i zimowania ptaków wędrownych oraz miejsce ich zatrzymywania się i żerowania wzdłuż tras wędrówek"
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-06-26",
+    "detection_date": "2011-04-19",
+    "decisions": [
+      {
+        "issue_date": "2016-01-27",
+        "reference": "WPN.512.9.2015.JŁ",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Białymstoku",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": [
+      {
+        "date": "2016-02-12",
+        "reason": "zażądano zmiany decyzji poprzez nakazanie wykonania urządzeń piętrzących wodę, wprowadzenia zakazu niszczenia tam bobrowych oraz wydania zakazu prowadzenia dalszych prac ziemnych w obrębie urządzen wodnych",
+        "appealed_decision_reference": "WPN.512.9.2015.JŁ",
+        "resolution_reference": "DOA-ks.512.5.2016.mp",
+        "appellant_name": "Biebrzański Park Narodowy",
+        "appellant_address": "Osowiec Twierdza 8, 19-110 Goniądz",
+        "resolution_date": "2016-06-20",
+        "reviewing_authority": "Generalny Dyrektor Ochrony Środowiska",
+        "resolution_content": "postanowienie o stwierdzeniu niedopuszczalności wniesienia odwołania"
+      }
+    ]
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2025-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "Działania naprawcze mają na celu odtworzenie się  chronionego siedliska przyrodniczego do stanu początkowego (w drodze naturalnej regeneracji) poprzez: zaniechanie prowadzenia prac w obrębie rowów melioracyjnych zlokalizowanych w sąsiedztwie działek o nr ewid.: 423, 424, 426, 440, 441, 442, 443, 444 i 478 obręb 9 Laskowiec oraz 18, 19, 20/1, 20/2, 22, 23, 24, 25, 72, 73, 114, 115, 116/1, 116/2, 158, 161, 162, 192, 193, 194/1, 194/11, 195, 196, 200, 210, 211, 203, 215, 217, 219, 220, 221, 230, 231 obręb 21 Zajki (gm. Trzcianne), powodujących przyspieszenie odpływu wód zalewowych i obniżenie zwierciadła wód gruntowych na terenie przedmiotowych łąk.",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

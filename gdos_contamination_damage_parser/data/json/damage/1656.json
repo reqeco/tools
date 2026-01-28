@@ -1,0 +1,97 @@
+{
+  "registry_id": 1656,
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "świecki",
+    "municipality": "Świecie",
+    "address": null,
+    "precinct": "Przechowo, ul. Bydgoska 1 Świecie",
+    "parcel_numbers": [
+      "532/4",
+      "532/5"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((457599.4006633123 613791.9582895683,458353.4646714432 614277.4696772508,458409.0272825633 614194.1257605711,458518.8295855035 614262.9175648112,458512.2149889435 614284.0842738207,458629.9548077537 614355.5219166912,458587.6213897535 614424.3137209415,458628.6318884436 614457.386703751,458454.0065391933 614729.9080821304,457758.1509808125 614281.4384351894,457797.83856019255 614217.9383081887,457807.09899537265 614223.2299854392,457848.1094940626 614154.4381811908,457694.65085381246 614061.8338293098,457717.1404821225 614035.3754430702,457658.93203237245 613997.010782998,457690.68209587235 613940.1252525588,457550.4526487523 613864.7188517498,457592.78606675233 613790.6353702489,457599.4006633123 613791.9582895683)))",
+    "site_description": "Teren Zakładu Kemira Świecie Sp. z o.o."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa (Starosta Powiatu Świeckiego )",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": null,
+  "total_area_ha": 0.09,
+  "reporters": [],
+  "responsible_entities": [
+    {
+      "name": "Kemira Świecie Sp. z o.o.",
+      "address": "ul. Bydgoska 1 86-100 Świecie",
+      "economic_activity_code": "20.14.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "840 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "311 mg/kg s. m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "215 mg/kg s. m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "543 mg/kg s. m.",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2022-12-22",
+    "detection_date": null,
+    "decisions": [
+      {
+        "issue_date": "2023-02-15",
+        "reference": "WSS.511.9.2022.SG.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2023-03-01",
+    "planned_end": "2029-02-01",
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "WSS.511.9.2022.SG"
+}

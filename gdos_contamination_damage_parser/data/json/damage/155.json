@@ -1,0 +1,82 @@
+{
+  "registry_id": 155,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Radom",
+    "municipality": "Radom",
+    "address": "ul. Mieszka I 36",
+    "precinct": "Józefów",
+    "parcel_numbers": [
+      "121",
+      "122"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((650474.6701339908 399276.53424658906,650572.0369955691 399365.4344243873,650575.7411696531 399313.0468196189,650477.8451403438 399226.26331271697,650477.8451403438 399226.26331271697,650477.8451403442 399233.6716608694,650474.6701339908 399276.53424658906))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie gruntu wielopierścieniowymi węglowodorami aromatycznymi WWA wskutek działalności firmy Auto Części Bus Blacharstwo Autoholowanie (…)na terenie działek o nr ew.121 i 122 przy ul. Mieszka I 36 w Radomiu",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ",
+      "address": "ul. Bartycka 110a, Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Auto Części Bus Blacharstwo Autoholowanie (…)",
+      "address": "(…)",
+      "economic_activity_code": "45.31.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma wielopierścieniowych węglowodorów aromatycznych",
+      "concentration": null,
+      "area_ha": 0.0
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2009-07-14",
+    "detection_date": "2009-05-21",
+    "decisions": [
+      {
+        "issue_date": "2009-09-09",
+        "reference": "RDOŚ-14-WSI-MN-6661-24/09",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2009-06-01",
+    "planned_end": "2009-09-30",
+    "actual_end": "2009-09-29",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - wybranie zanieczyszczonego gruntu",
+    "ecological_effect": "spełnione zostały standardy",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

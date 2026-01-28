@@ -1,0 +1,98 @@
+{
+  "registry_id": 11,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.07,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Rudna",
+    "address": "Górzyn",
+    "precinct": "Górzyn",
+    "parcel_numbers": [
+      "299/21 obręb Górzyn"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((319260.6504188368562609 406823.37158281728625298, 319262.25730627507437021 406833.89595379773527384, 319277.03215462772641331 406887.48063453286886215, 319281.08726307400502264 406901.21494803857058287, 319300.01619119331007823 406896.58534985221922398, 319346.60604889737442136 406884.61592242959886789, 319390.92233505356125534 406873.36155171133577824, 319405.04041406989563257 406871.19766440335661173, 319407.28349472861737013 406865.89898534025996923, 319355.23193379933945835 406865.87295994814485312, 319349.58190710062626749 406849.70298150461167097, 319344.27595245471457019 406834.51533772423863411, 319361.95392062631435692 406832.45707071479409933, 319360.7647564560174942 406848.42048996686935425, 319360.05741019616834819 406861.84464978519827127, 319414.17253626137971878 406862.25837482232600451, 319422.14379215339431539 406845.82385630905628204, 319425.23335094877984375 406827.81424650736153126, 319430.01034515257924795 406790.87057075742632151, 319442.70184585463721305 406701.31370713002979755, 319447.30510112049523741 406668.51432066038250923, 319428.45711903006304055 406690.72977401595562696, 319376.60834971466101706 406747.48821206204593182, 319354.01173763250699267 406773.10242971871048212, 319338.0795248287031427 406790.60315139871090651, 319331.70254810445476323 406797.19919752422720194, 319316.45511381211690605 406810.19730562530457973, 319260.6504188368562609 406823.37158281728625298))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Magazynowanie i przechowywanie pozostałych towarów",
+    "current": "Uprawa zbóż, roślin strączkowych i roślin oleistych na nasiona, z wyłączeniem ryżu"
+  },
+  "land_holders": [
+    {
+      "name": "SACCULUS 01 Spółka z  o. o.",
+      "address": "ul. Wieniawska 2/13A, 20-071 Lublin",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "27,8 - 4720 mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1810 - 17500  mg/kg suchej masy",
+      "area_ha": null
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0,3 do 15",
+      "substance": "Suma węglowodorów aromatycznych",
+      "concentration": "1,27-6,69 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-05-05",
+    "legal_basis": "art. 101l ust. 4 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska",
+    "case_reference": "WSI.511.6.2015.MR",
+    "decisions": [
+      {
+        "issue_date": "2015-06-09",
+        "reference": "WSI.511.6.2015.MR.1",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska we Wrocławiu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "SACCULUS 01 Spółka z  o. o.",
+        "address": "ul. Wieniawska 2/13A, 20-071 Lublin",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2015-07-01",
+    "planned_end": "2015-12-31",
+    "actual_end": "2015-07-02",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Usunięcie zanieczyszczonego gruntu metodą ex – situ, poprzez wydobycie i przekazanie do odzysku lub unieszkodliwienia poza miejscem jego pierwotnego występowania oraz dowiezienie czystego gruntu do wykopów i jego zagęszczenie.  W razie napływu zanieczyszczonych wód, odpompowanie ich i przekazanie do unieszkodliwienia.",
+    "ecological_effect": "sprawozdanie z przeprowadzenia remediacji wraz z wynikami badań kontrolnych powierzchni ziemi",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

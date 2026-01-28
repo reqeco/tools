@@ -1,0 +1,59 @@
+{
+  "registry_id": 1553,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Dąbrowa Górnicza",
+    "municipality": "Dąbrowa Górnicza",
+    "address": "ul. Sikorskiego 42 42-520 Dąbrowa Górnicza",
+    "precinct": "0018 Ząbkowice",
+    "parcel_numbers": [
+      "1997/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((519146.05493626301176846 278240.94226500298827887, 519109.80770355300046504 278260.26774216798366979, 519107.41274060402065516 278254.58353414898738265, 519143.39040953398216516 278236.02120388898765668, 519146.05493626301176846 278240.94226500298827887))",
+    "site_description": "Podczas oględzin terenu stwierdzono przewrócony mauser, z którego doszło do wycieku substancji ciekłej koloru brązowego, miejscami przechodzącego w kolor czarny."
+  },
+  "occurrence_time": {
+    "date": "2022-04-16",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "null",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Podczas oględzin terenu stwierdzono przewrócony mauser, z którego doszło do wycieku substancji ciekłej koloru brązowego, miejscami przechodzącego w kolor czarny. W czasie rozpoznania ujawniono, że do gleby wyciekło ok. 500 litrów cieczy, tworząc plamę w formie rozlewiska o wymiarach 5m na 3m.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektor Ochrony Środowiska w Katowicach",
+      "address": "Damrota 16 Katowice",
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2022-05-18",
+    "detection_date": "2022-04-16",
+    "decisions": [
+      {
+        "issue_date": "2024-05-07",
+        "reference": "WSI.512.10.2022.MS2.25",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

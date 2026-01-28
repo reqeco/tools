@@ -1,0 +1,161 @@
+{
+  "registry_id": 540,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.9,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Beethovena",
+    "precinct": "1-03-12",
+    "parcel_numbers": [
+      "47"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639895.0660659678 482982.23054677993,639982.3787407108 482980.907627468,639987.6704179671 482970.3242729688,639957.2432737342 482873.7511631502,639805.107552591 482679.28202422336,639770.7116504314 482807.6051975321,639824.9513423125 482845.96985759214,639867.2847603689 482902.8553880323,639895.0660659678 482982.23054677993))",
+    "site_description": "(obecnie 47/1 i 47/2)"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Projekt Beethovena Projekt ECHO 122 Sp. z o.o. S.K.A",
+      "address": "Al. Solidarności 36, 25-323 Kielce",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "643 [mg/kg]",
+      "area_ha": 0.9
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,203-0,801 [mg/kg]",
+      "area_ha": 0.9
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,127-0,888 [mg/kg]",
+      "area_ha": 0.9
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,103-1,0 [mg/kg]",
+      "area_ha": 0.9
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,156-1,38 [mg/kg]",
+      "area_ha": 0.9
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,116-0,264 [mg/kg]",
+      "area_ha": 0.9
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,318-0,706 [mg/kg]",
+      "area_ha": 0.9
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,175 [mg/kg]",
+      "area_ha": 0.9
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,227-0,939 [mg/kg]",
+      "area_ha": 0.9
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "28,9-29,2 [mg/kg]",
+      "area_ha": 0.1549
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "351-509 [mg/kg]",
+      "area_ha": 0.1549
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "178 [mg/kg]",
+      "area_ha": 0.1549
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-09-26",
+    "legal_basis": "Art. 61 §1 Kpa w związku z art. 101 l Poś",
+    "case_reference": "WSI.515.42.2018",
+    "decisions": [
+      {
+        "issue_date": "2018-03-21",
+        "reference": "WSI.515.42.2018.SSz.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Projekt Beethovena Projekt ECHO 122 Sp. z o.o. S.K.A",
+        "address": "Al. Solidarności 36, 25-323 Kielce",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2018-04-05",
+    "planned_end": "2019-12-31",
+    "actual_end": "2018-10-15",
+    "method": null,
+    "description": "remediacja ex-situ",
+    "ecological_effect": "spełnia wymogi określone rozporządzeniem",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

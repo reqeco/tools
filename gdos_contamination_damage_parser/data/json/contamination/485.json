@@ -1,0 +1,114 @@
+{
+  "registry_id": 485,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.08,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "sępoleński",
+    "municipality": "Kamień Krajeński",
+    "address": "ul. Sępoleńska 89-430 Kamień Krajeński",
+    "precinct": null,
+    "parcel_numbers": [
+      "500/2 obręb 0001 Kamień Krajeński"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((401484.6180918589 630485.8233644189,401471.7857745164 630493.7608802989,401460.01179263415 630470.7420842592,401472.5795261067 630463.0691522397,401484.8826757189 630485.2941966979,401484.6180918589 630485.8233644189)))",
+    "site_description": "teren użytkowanej stacji paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "Polski Koncern Naftowy ''ORLEN'' S.A.",
+      "address": "ul. Chemików 7 09-411 Płock",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "28,1 [mg/kg sm]",
+      "area_ha": 0.08
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "1422,8 [mg/kg sm]",
+      "area_ha": 0.08
+    },
+    {
+      "soil_group": "B",
+      "depth": "od 0 do 0,3",
+      "substance": "Ksyleny",
+      "concentration": "6,0 [mg/kg sm]",
+      "area_ha": 0.08
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-15",
+    "legal_basis": "art. 101c ust 3 i 4 Poś; art. 101f ust1 Poś; art. 101l Poś",
+    "case_reference": "WSS.513.12.2019.KK; WSS.515.4.2019.KK; WSS.515.5.2020.KK",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "WSS.513.12.2019.KK.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-09-21",
+        "reference": "WSS.515.4.2019.KK.11",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101f ust. 1, art. 105 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2020-10-29",
+        "reference": "WSS.515.5.2020.KK.8",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Bydgoszczy",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Polski Koncern Naftowy ''ORLEN'' S.A.",
+        "address": "ul. Chemików 7 09-411 Płock",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2020-11-01",
+    "planned_end": "2027-12-31",
+    "actual_end": null,
+    "method": "przeprowadzenie samooczyszczania powierzchni ziemi",
+    "description": "samooczyszczanie powierzchni ziemi wraz z kontrolą tego procesu poprzez okresowe prowadzenie badań",
+    "ecological_effect": "przywrócenie standardów jakości gleby i ziemi dla grupy gruntów I",
+    "effect_assessment": null
+  },
+  "notes": null
+}

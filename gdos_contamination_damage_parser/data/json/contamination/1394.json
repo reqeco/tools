@@ -1,0 +1,142 @@
+{
+  "registry_id": 1394,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 3.521,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Gierdziejewskiego",
+    "precinct": "2-09-09",
+    "parcel_numbers": [
+      "98/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((628382.8899049714 483282.0040631527,628515.1818363253 483359.79171873257,628587.148646982 483387.83760814834,628625.248723212 483409.00431714766,628737.432280996 483214.79976207763,628480.785934163 483067.1619668016,628468.0859087533 483088.3286758028,628466.4984055831 483134.36626788415,628424.164987552 483211.0955880033,628382.8899049714 483282.0040631527))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "IMES Poland Sp. z o. o.",
+      "address": "ul. Cybernetyki 7b, 02-677 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "98/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": 3.521
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": null,
+      "area_ha": 3.521
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 3.521
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": null,
+      "area_ha": 3.521
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 3.521
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 3.521
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 3.521
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 3.521
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": 3.521
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-18",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "WOOŚ-IV.515.33.2019",
+    "decisions": [
+      {
+        "issue_date": "2019-07-12",
+        "reference": "WOOŚ-IV.515.33.2019. SSz.4",
+        "issuing_authority": null,
+        "legal_basis": null,
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "IMES Poland Sp. z o. o.",
+        "address": "ul. Cybernetyki 7b, 02-677 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2019-08-01",
+    "planned_end": "2024-03-31",
+    "actual_end": "2019-09-12",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

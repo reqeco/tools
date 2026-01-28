@@ -1,0 +1,60 @@
+{
+  "registry_id": 1099,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "municipality": "Lichnowy",
+    "address": "Dąbrowa",
+    "precinct": "Dąbrowa",
+    "parcel_numbers": [
+      "236/51"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((489794.14816697006 694999.9912791643,489857.64829397004 695011.6329691159,489857.11912625 695217.4792141439,489926.96926595 695267.2209802959,489973.53602575 695108.9998305254,489980.9443739001 695053.4372193953,489982.00270934997 694970.8870542953,489840.7149267701 694964.0078738667,489838.59825587005 694942.3119971445,489796.7940055999 694942.3119971454,489794.14816697006 694999.9912791643))",
+    "site_description": "Teren gospodarstwa rolnego na którym m.in.. znajduje się stacja paliw"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)",
+    "current": "Magazynowanie i przechowywanie pozostałych towarów"
+  },
+  "land_holders": [
+    {
+      "name": "Gospodarstwo Rolne \"WENEDA\" sp. z o.o.",
+      "address": "Boręty I, 82-224 Lichnowy",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "236/51"
+      ],
+      "economic_activity_code": "01.50.Z"
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-03-04",
+    "legal_basis": "61 par. 1 i 4 kpa, 101c ust. 3 poś",
+    "case_reference": "513.52.2019.LK",
+    "decisions": [
+      {
+        "issue_date": "2019-04-01",
+        "reference": "RDOŚ-Gd-WZS.513.52.2019.LK.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 101c ust. 3 i 4 ustawy Poś",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": null
+}

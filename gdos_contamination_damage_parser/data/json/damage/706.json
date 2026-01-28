@@ -1,0 +1,89 @@
+{
+  "registry_id": 706,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "municipality": "Kosakowo",
+    "address": "Pogórze",
+    "precinct": "0007 Pogórze; arkusz 1",
+    "parcel_numbers": [
+      "1090/3 do 1090/9-obręb Pogórze"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((468877.51278469904 746353.7314789109,468913.23160613875 746315.3668188509,468979.377571759 746360.3460754734,469267.773981889 746025.6474894118,469463.5660401391 745911.8764285324,469577.33710100915 745794.1366097238,469451.6597663291 745698.8864192227,469790.3271103291 745223.9583860328,469185.75298450893 744858.8326557847,469016.41931250895 745110.1873251628,469013.7734738889 745283.4897550913,468963.5025400089 745305.9793834127,468935.7212344489 745283.4897550913,468935.72123444895 745274.2293199124,468915.8774447589 745263.6459654141,468874.8669460688 745299.364786841,468864.2835915688 745332.4377696626,468866.92943019903 745398.5837352825,468794.16886800894 745491.1880871616,468783.5855135089 745508.3860382224,468774.32507831894 745571.8861652222,468716.1166285688 745632.7404535906,468644.67898569885 745642.0008887816,468612.92892219895 745656.5530012213,468569.2725848888 745749.1573531013,468537.52252138883 745811.3345607808,468877.51278469904 746353.7314789109))",
+    "site_description": "Port Lotniczy Gdynia-Kosakowo"
+  },
+  "occurrence_time": {
+    "date": "2011-08-01",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda w srodowisku wodno-gruntowym polegająca na zanieczyszczeniu benzyną, olejem mineralnym oraz BTEX terenu Jednostki Wojskowej Nr 4651 Gdyni Babie Doły-rejon MPS 1 (działki o nr 1090/3 do 1090/9-obręb Podgórze)",
+  "total_area_ha": 99.4,
+  "reporters": [
+    {
+      "name": "Rejonowy Zarzad Infrastruktury",
+      "address": "ul. Jana z Kolna 8B, 81-912 Gdynia",
+      "legal_form": "skarb państwa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Rejonowy Zarzad Infrastruktury",
+      "address": "ul. Jana z Kolna 8B, 81-912 Gdynia",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "90 - 413 mg/kg s.m.",
+      "area_ha": 0.34
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "prowadzone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2018-07-19",
+    "detection_date": "2011-08-01",
+    "decisions": [
+      {
+        "issue_date": "2018-11-16",
+        "reference": "RDOŚ-Gd-WZS.511.4.2018.LK.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-04-21",
+        "reference": "RDOŚ-Gd-WZS.511.4.2018.LK.MK.10",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art.155 k.p.a.",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2018-11-01",
+    "planned_end": "2022-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": "a) przeprowadzone zostaną prace remediacyjne z wykorzystaniem metody in – situ. Metoda ta polega na technologicznych sposobach wspomagania procesu samooczyszczenia zalegających w podłożu zanieczyszczonych gruntów. Planowany proces oczyszczania przeprowadzany będzie poprzez specjalnie do tego celu wykonane otwory technologiczne;  b)\tproces oczyszczania środowiska gruntowego z substancji ropopochodnych na terenie MPS-1 będzie się odbywać za pośrednictwem 72 otworów technologicznych, w tym 36 otworach napowietrzających – wentingowych i 36 otworach odpowietrzających, rozmieszczonych równomiernie na całym zanieczyszczonym obszarze (z wyłączeniem nawierzchni dróg szczelnych                          i obszarów zajętych przez infrastrukturę podziemną);",
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

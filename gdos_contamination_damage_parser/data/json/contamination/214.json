@@ -1,0 +1,136 @@
+{
+  "registry_id": 214,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.009,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "kędzierzyńsko-kozielski",
+    "municipality": "Kędzierzyn-Koźle",
+    "address": "47-220 Kędzierzyn-Koźle, ul. Mostowa",
+    "precinct": "Azoty",
+    "parcel_numbers": [
+      "177/3",
+      "177/7 obręb Azoty"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((446725.38345602906 271075.4659636151,446799.46693752974 270957.4615609385,446752.1064261397 270927.8281683363,446747.87308433955 270934.44276490714,446728.0292946596 270921.7427395042,446688.3417152789 270983.91994718555,446725.9126237591 271006.6741593657,446693.8979763891 271055.88675779756,446725.38345602906 271075.4659636151))",
+    "site_description": "teren byłej instalacji Wosków Półtwardych i Chrompolu"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja nawozów i związków azotowych",
+    "current": "Produkcja nawozów i związków azotowych"
+  },
+  "land_holders": [
+    {
+      "name": "Grupa Azoty Zakłady Azotowe Kędzierzyn S. A.",
+      "address": "ul. Mostowa 30A, 47-220 Kędzierzyn-Koźle",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "20.15.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "1200-2000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "2000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chrom (Cr)",
+      "concentration": "330-9000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Rtęć (Hg)",
+      "concentration": "7,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "310 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "3900 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2016-09-05",
+    "legal_basis": "art. 101l ust. 2",
+    "case_reference": "WOOŚ.511.1.7.2016.ER",
+    "decisions": [
+      {
+        "issue_date": "2017-08-01",
+        "reference": "WOOŚ.511.1.7.2016.ER.6",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-12-06",
+        "reference": "WOOŚ.515.21.2018.ER.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2022-03-21",
+        "reference": "WOOŚ.515.1.2022",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Grupa Azoty Zakłady Azotowe Kędzierzyn S. A.",
+        "address": "ul. Mostowa 30A, 47-220 Kędzierzyn-Koźle",
+        "economic_activity_code": "20.15.Z"
+      }
+    ],
+    "planned_start": "2021-04-01",
+    "planned_end": "2022-06-30",
+    "actual_end": "2022-06-30",
+    "method": "zmniejszenie ilości zanieczyszczeń, ograniczenie możliwości rozprzestrzeniania się zanieczyszczeń",
+    "description": "Remediacja przedmiotowego terenu będzie polegała na:  1. Wydobycie, w trakcie robót ziemnych prowadzonych przez Wykonawcę, zanieczyszczonych gruntów o powierzchni ok. 912 m2 i kubaturze ok. 2000 m3. 2. Poszerzenie obszaru z pkt. 1, tj. połączenie 2 odrębnych wykopów, polegające na wydobyciu zanieczyszczonych gruntów (ex situ) do poziomu wód gruntowych. 3. Pobranie próbek kontrolnych gruntu z wykopów, tj. z dna i ścian bocznych, do analizy laboratoryjnej na zawartość chromu, rtęci, cynku oraz sumy węglowodorów C12 – C35 składników frakcji oleju, przez akredytowane laboratorium. 4. W przypadku zidentyfikowania wystąpienia przekroczeń wartości dopuszczalnych substancji zanieczyszczających w badanych próbkach, przeprowadzenie immobilizacji (związania) zanieczyszczeń poprzez zastosowanie dodatku bentonitu do gruntu, jego wymieszanie z warstwą ziemi. 5. Przekazanie do przetwarzania (firmie posiadającej stosowne pozwolenia) wydobytych gruntów zanieczyszczonych ww. substancjami. 6. Zasypanie wykopów czystym gruntem, o odpowiednich właściwościach fizykochemicznych i jego zagęszczenie.",
+    "ecological_effect": "„Potwierdzeniem przeprowadzenia remediacji , tj. wykonanie analiz laboratoryjnych próbek gruntów, przez akredytowane laboratorium, na zawartość substancji powodujących ryzyko (chromu, rtęci, cynku oraz sumy węglowodorów C12 – C35 składników frakcji oleju) i porównanie ich wartości do wartości dopuszczalnych, W związku z  przekroczeniem wartości dopuszczalnych ww. substancji, potwierdzeniem wykonania prac remediacyjnych jest wydobycie zanieczyszczonej gleby z dna wykopów do poziomu wód gruntowych oraz ograniczenie rozprzestrzeniania się zanieczyszczeń poprzez ich immobilizację, zeskarpowanie ścian wykopu i zastosowanie rozwiązania, polegającego na wymieszaniu bentonitu z gruntem, w celu ograniczenia przepuszczalności gruntu i związania metali.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

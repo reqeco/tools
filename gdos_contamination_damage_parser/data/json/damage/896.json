@@ -1,0 +1,77 @@
+{
+  "registry_id": 896,
+  "location": {
+    "voivodeship": "zachodniopomorskie",
+    "county": "Szczecin",
+    "municipality": "Szczecin",
+    "address": "70-773 Szczecin, ul.Piechoty 53-57, 39-47, ul. Widok 3-5 ul.Piechoty 53-57, 39-47, ul. Widok 3-5",
+    "precinct": null,
+    "parcel_numbers": [
+      "dz nr 86",
+      "84",
+      "83/2 obręb 4045"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((209947.18815986099070869 621651.43505719897802919, 209911.42724098099279217 621630.27486704802140594, 209899.05355571399559267 621622.86526752100326121, 209886.44273054698714986 621626.61357987695373595, 209879.93693000500206836 621635.99518057296518236, 209873.14509297598851845 621645.77525943703949451, 209874.7976377320010215 621646.75773246097378433, 209878.22663818299770355 621648.78533727396279573, 209882.52855417699902318 621651.33141112304292619, 209884.23274984900490381 621652.3408195540541783, 209890.65457749099005014 621656.14176140795461833, 209892.52458977198693901 621657.24137023196090013, 209894.22884563601110131 621658.2507811599643901, 209930.78733887401176617 621679.71329055400565267, 209943.47959016499225982 621688.1065103419823572, 209940.79049549699993804 621696.51642751495819539, 209944.14165862699155696 621752.53441792400553823, 209944.43232352999621071 621764.32226030400488526, 209999.39327020201017149 621793.12321340700145811, 210028.56035141198663041 621809.48132817796431482, 210079.67205930000636727 621813.68148014903999865, 210099.1129893219913356 621783.45546890096738935, 210106.14199736699811183 621772.39833574497606605, 210101.97624969598837197 621769.79367595096118748, 210096.12785215399344452 621766.20827181299682707, 210089.59754672000417486 621762.28321944503113627, 210089.83365176801453345 621761.87812870799098164, 210100.76556696099578403 621743.25973500404506922, 210067.10205436698743142 621723.30487545405048877, 210041.74291379499481991 621708.1100323359714821, 210015.97359786700690165 621692.42888382403180003, 209998.87636673101224005 621682.28715583402663469, 209973.68144206001306884 621667.32293706794735044, 209964.38908031198661774 621661.80092962295748293, 209947.18815986099070869 621651.43505719897802919))",
+    "site_description": "blok tzw. wielka płyta"
+  },
+  "occurrence_time": {
+    "date": "2014-11-15",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "gatunki chronione",
+  "event_description": "zniszczenie siedlisk lęgowych jerzyka, wskutek zasłonięcia otworów wentylacyjnych w stropodachu metalowymi kratkami",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Spółdzielnia Mieszkaniowa Dąb",
+      "address": "ul. Rydla 71a, 70-783 Szczecin",
+      "legal_form": "spółdzielnia mieszkaniowa"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Spółdzielnia Mieszkaniowa Dąb",
+      "address": "ul. Rydla 71a, 70-783 Szczecin",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": [
+    "jerzyk (Apus apus)"
+  ],
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2015-04-23",
+    "detection_date": "2015-03-07",
+    "decisions": [
+      {
+        "issue_date": "2016-01-05",
+        "reference": "WONS-NS.511.6.2015.KD",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Szczecinie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2016-03-31",
+    "actual_end": "2016-03-31",
+    "method": null,
+    "description": "1.\tW zamian za utracone siedliska jerzyków należy zamontować minimum 12 skrzynek lęgowych dla jerzyka, na ścianie północno-zachodniej (od strony klatek schodowych),  z uwzględnieniem warunków: a)\tbudki powinny być montowane na wysokości nie mniejszej niż 5 m nad ziemią, b)\tbudka dla jerzyka powinna być powieszona pod okapem, który zapewni osłonę przed zalewaniem jej podczas ulewnego deszczu lub daszek budki musi być na tyle długi, aby zasłaniał otwór wlotowy w ten sposób, aby ulewny deszcz nie zalewał wnętrza budki, c)\tbudki powinny być wykonane z materiałów wodoodpornych. 2.\tBudki lęgowe mogą zostać zamontowane nad kioskami klatek schodowych, zgodnie z ww. warunkami. 3.\tDziałania naprawcze będą prowadzone w uzgodnieniu i pod ścisłym nadzorem ornitologa.",
+    "ecological_effect": "W sezonie lęgowym 2016 r. nie stwierdzono zajętości budek lęgowych. W sezonie lęgowym 2017 r. stwierdzono zasiedlenie niektórych budek przez wróble.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

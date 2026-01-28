@@ -1,0 +1,51 @@
+{
+  "registry_id": 1932,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "municipality": "Starogard Gdański (gmina wiejska)",
+    "address": null,
+    "precinct": "Liniowiec",
+    "parcel_numbers": [
+      "76",
+      "87"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((466917.2805012084 683895.5740409773,466944.1225340386 683931.0282785678,467075.62071369856 683846.6260264376,467091.23116158857 683874.9364997167,467107.8999449186 683864.882312947,467102.8860807285 683837.1010073861,467083.5714587586 683788.9467444066,467070.07768177846 683762.7529420163,467054.99640160846 683739.4695621161,467033.82969260844 683705.6028277166,467014.7796545085 683713.275759737,466962.6566335985 683695.8132248074,466947.5753534384 683712.4820081461,467040.4442891786 683795.5613409672,466917.2805012084 683895.5740409773))",
+    "site_description": "Obszar Natura 2000 Dolina Wierzycy PLH220094 oraz Obszar Chronionego Krajobrazu Doliny Wierzycy."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": "marzec 2024 r."
+  },
+  "land_surface_holder": "osoba fizyczna",
+  "land_owner": null,
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Magazynowanie odpadów w miejscu na ten cel nieprzeznaczonym.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wójt Gminy Starogard Gdański",
+      "address": "ul. Gen. Władysława Sikorskiego 9, 83-200 Starogard Gdański",
+      "legal_form": "jednostka samorządu terytorialnego"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2024-05-10",
+    "detection_date": "2024-03-22",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

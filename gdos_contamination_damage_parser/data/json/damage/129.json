@@ -1,0 +1,82 @@
+{
+  "registry_id": 129,
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "lubliniecki",
+    "municipality": "Boronów",
+    "address": "Hucisko",
+    "precinct": "0001 Boronów a. m. 2",
+    "parcel_numbers": [
+      "4282/922",
+      "3637/917"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((494684.166600 310415.209400,494744.610800 310409.975900,494885.403900 310397.771900,494894.380000 310437.876600,494911.816900 310436.162200,494953.573800 310391.874000,494967.082700 310377.549800,494955.875800 310363.949600,494723.620500 310380.896600,494699.119600 310402.745000,494684.166600 310415.209400))",
+    "site_description": "Przydrożny rów"
+  },
+  "occurrence_time": {
+    "date": "2010-08-07",
+    "from": "2010-08-06",
+    "to": "2010-08-08",
+    "description": "Wypadek samochodowy podczas którego przewróciła się cysterna 7 sierpnia 2010 r."
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gleby i ziemi benzyną na terenie Parku Krajobrazowego \"Lasy nad Górna Liswartą\"-łąka przy drodze wojewódzkiej nr 905 w m.Hucisko, gm.Boronów w następstwie wypadku drogowego cysterny należącej do firmy F.H.T.U.P.WAC-WOJ Sp.J.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Wojewódzki Inspektorat Ochrony Środowiska w Katowicach Del. w Częstochowie",
+      "address": "ul. Rząsawska 24/28; 42-200 Częstochowa",
+      "legal_form": "organ administracji zespolonej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "F.H.T.U.P.WAC-WOJ Sp.J.",
+      "address": "Grybów Sośnie Dobre 18A",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "A",
+      "depth": null,
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "170 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2011-05-19",
+    "detection_date": "2010-08-07",
+    "decisions": [
+      {
+        "issue_date": "2011-06-07",
+        "reference": "WSI.512.42.1.2011.MB",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 15",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2011-06-07",
+    "planned_end": "2011-09-07",
+    "actual_end": null,
+    "method": null,
+    "description": "Przywrócenia stanu gleby do parametrów określonych w rozporządzeniu Ministra Środowiska z dnia 9 września 2002r. w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359), , tj. do parametrów określonych dla gruntów grupy A pkt b – benzyna: 1 mg/kg suchej masy gruntu.",
+    "ecological_effect": "Z badań przeprowadzonych przez Wojewódzki Inspektorat Ochrony Środowiska w Katowicach 18 listopada 2011 r. wynika, iż grunt spełnia wymogi dla gruntów grupy A, a zatem należy domniemywać, że doszło do samooczyszczenia.",
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": null
+}

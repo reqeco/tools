@@ -1,0 +1,58 @@
+{
+  "registry_id": 2128,
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "municipality": "Głuchołazy",
+    "address": "ul. gen. Andersa 1, 48-340 Głuchołazy",
+    "precinct": "Głuchołazy",
+    "parcel_numbers": [
+      "1289/11",
+      "1289/9",
+      "1227"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "Teren zakładu Schattdecor w Głuchołazach"
+  },
+  "occurrence_time": {
+    "date": "2025-05-16",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": null,
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "zanieczyszczenie wód rzeki Biała Głuchołaska w m. Głuchołazy w wyniku wycieku białej substancji (zgodnie z przekazaną informacją wodorozcieńczalnego lakieru SH) ze zbiornika typu „mauzer” znajdującego się na terenie zakładu, w związku z ingerencją osób trzecich",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Opolski Wojewódzki Inspektor Ochrony Środowiska",
+      "address": null,
+      "legal_form": "organ administracji publicznej"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "Schattdecor Sp. z o.o.",
+      "address": "ul. Sowia 10, 62-080 Tarnowo Podgórne",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": "2025-06-23",
+    "detection_date": "2025-05-16",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

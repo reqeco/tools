@@ -1,0 +1,81 @@
+{
+  "registry_id": 409,
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "węgrowski",
+    "municipality": "Sadowne",
+    "address": "Zarzetka 6a",
+    "precinct": "Sadowne",
+    "parcel_numbers": [
+      "751"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((687748.2248806115 534076.6026999336,687776.7999379935 534079.2485385556,687831.8333817924 533926.3190660356,687841.3584009126 533903.5648538573,687859.8792714177 533854.3522554366,687833.9500526687 533794.027134777,687767.8040865574 533970.7691549342,687748.2248806115 534076.6026999336))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "2007-04-30",
+    "to": "2012-06-14",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu ziemi olejem mineralnym w związku z nielegalnym demontażem pojazdów przez Pana (…) na terenie posesji w m.Zarzetka 6a, gm. Sadowne, pow. węgrowski",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "WIOŚ",
+      "address": "ul. Bartycka 110a, Warszawa",
+      "legal_form": "jednostka organizacyjna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": "38.31.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie administracyjne",
+    "initiation_date": "2012-07-25",
+    "detection_date": "2012-06-14",
+    "decisions": [
+      {
+        "issue_date": "2012-11-15",
+        "reference": "WSI.510.21.2012.MGŁ.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 13",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": "2012-12-01",
+    "planned_end": "2013-01-31",
+    "actual_end": "2013-01-07",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ wybranie zanieczyszczonego gruntu",
+    "ecological_effect": "grunt spełnia wymagane prawem standardy",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

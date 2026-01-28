@@ -1,0 +1,88 @@
+{
+  "registry_id": 312,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "kwidzyński",
+    "municipality": "Kwidzyn (gmina wiejska)",
+    "address": "Rozpędziny 1D",
+    "precinct": "0024",
+    "parcel_numbers": [
+      "124/18"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((494382.1241216 650528.4972482035,494424.45753960003 650494.1013460727,494402.23249515006 650465.7908727815,494358.04699010996 650500.1867749123,494382.1241216 650528.4972482035))",
+    "site_description": "Teren stacji paliw PHU (…) w m.Rozpędziny 1D"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2008-11-05",
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "szkoda polegająca na zanieczyszczeniu gruntu substancjami ropopochodnymi na terenie stacji paliw PHU (…) w m.Rozpędziny 1D",
+  "total_area_ha": 0.1908,
+  "reporters": [
+    {
+      "name": "Pracownicy (..)",
+      "address": "(…)",
+      "legal_form": "osoby fizyczne"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "P.H.U. (…)",
+      "address": "PHU(…)",
+      "economic_activity_code": "46.71.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Cynk (Zn)",
+      "concentration": "1429 mg/kg s.m.",
+      "area_ha": 0.1908
+    },
+    {
+      "soil_group": "C",
+      "depth": "od 0 do 2",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "12800-14040 mg/kg s.m.",
+      "area_ha": 0.1908
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "zakończone działania zapobiegawcze lub naprawcze",
+    "initiation_date": "2008-11-14",
+    "detection_date": "2008-11-05",
+    "decisions": [
+      {
+        "issue_date": "2010-01-18",
+        "reference": "RDOŚ-22-WSI.I/6618-39/09/KG",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Gdańsku",
+        "legal_basis": "art. 20",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2010-07-31",
+    "actual_end": "2010-07-31",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "zanieczyszczona gleba w obrębie zlokalizowanych zbiorników podziemnych paliwowych, została wybrana z terenu stacji w ilości 0,340 Mg;  pobranie 6 próbek gleby, analizy chemiczne,",
+    "ecological_effect": "doprowadzono do poziomu zanieczyszczeń w glebie nie przekraczających wartości przewidzianych dla funkcji gruntów grupy C - tereny przemysłowe, użytki kopalne, tereny komunikacyjne podanych w rozporządzeniu Ministra Środowiska z dnia 9 września 2002 roku w sprawie standardów jakości gleby oraz standardów jakości ziemi (Dz. U. Nr 165, poz. 1359)",
+    "effect_assessment": "pozytywna"
+  },
+  "cost_financing": null,
+  "notes": null
+}

@@ -1,0 +1,88 @@
+{
+  "registry_id": 945,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.351,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Bokserska",
+    "precinct": "1-08-14",
+    "parcel_numbers": [
+      "1/1",
+      "1/3",
+      "1/4"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((635947.1086909506 480228.1568866987,635920.1211369493 480153.54423747025,635922.2378078512 480139.78587662056,635923.8253110223 480118.6191676194,636012.7254889179 480089.5149427485,636047.1213910882 480194.2901522992,635947.1086909506 480228.1568866987))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "jednostka samorządu terytorialnego",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Budimex Nieruchomości Sp. z o.o.",
+      "address": "ul. Skierniewicka 16/20, 01-230 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "1/1",
+        "1/3",
+        "1/4"
+      ],
+      "economic_activity_code": "41.20.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "58-120 mg/kg s.m.",
+      "area_ha": 0.35
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "549 mg/kg s.m.",
+      "area_ha": 0.001
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-11-18",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.106.2019.SSz",
+    "decisions": [],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Budimex Nieruchomości Sp. z o.o.",
+        "address": "ul. Skierniewicka 16/20, 01-230 Warszawa",
+        "economic_activity_code": "41.20.Z"
+      }
+    ],
+    "planned_start": "2020-02-01",
+    "planned_end": "2022-12-31",
+    "actual_end": "2020-08-20",
+    "method": null,
+    "description": "ex situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

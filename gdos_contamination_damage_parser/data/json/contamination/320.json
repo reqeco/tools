@@ -1,0 +1,144 @@
+{
+  "registry_id": 320,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 1.89,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "wielkopolskie",
+    "county": "Konin",
+    "municipality": "Konin",
+    "address": "Impexmetal S.A. Aluminium Konin, ul. Hutnicza 1, 62-510 Konin",
+    "precinct": "obręb 0008 Maliniec",
+    "parcel_numbers": [
+      "126/23",
+      "126/45",
+      "126/46"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((451175.58102614275 489897.1692064982,451069.7474811426 489869.65248479974,451073.98082294257 489840.5482599307,450785.055245092 489768.58144932706,450778.17606467195 489751.11891439836,450845.380365742 489747.9439080497,450872.89708744205 489638.93535669893,451219.50194732286 489720.4271863494,451175.58102614275 489897.1692064982))",
+    "site_description": "Teren wokół byłego zakładu elektrolizy aluminium"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1966-01-01",
+    "to": "2007-04-30",
+    "description": "Do zanieczyszczenia doszło wskutek wieloletniej działalności zakładu związanej z wytwarzaniem aluminium, którą prowadzono od 1966 r."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Produkcja wyrobów z aluminium i stopów aluminium",
+    "current": "Produkcja wyrobów z aluminium i stopów aluminium"
+  },
+  "land_holders": [
+    {
+      "name": "Impexmetal S.A.",
+      "address": "ul. Aleje Jerozolimskie 92 00-807 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "24.42.B"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Chryzen",
+      "concentration": "23,5 mg/kg s.m.",
+      "area_ha": 1.89
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "24,1 mg/kg s.m.",
+      "area_ha": 1.89
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "20,8 mg/kg s.m.",
+      "area_ha": 1.89
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "13,0 mg/kg s.m.",
+      "area_ha": 1.89
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "26,4 mg/kg s.m.",
+      "area_ha": 1.89
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "19,5 mg/kg s.m.",
+      "area_ha": 1.89
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "16,2 mg/kg s.m.",
+      "area_ha": 1.89
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-01-16",
+    "legal_basis": "art. 101l ustawy Prawo ochrony środowiska",
+    "case_reference": null,
+    "decisions": [
+      {
+        "issue_date": "2017-10-26",
+        "reference": "WSS.515.4.2017.ASB.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2018-11-29",
+        "reference": "WSS.515.33.2018.ASB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-07-17",
+        "reference": "WSS.515.16.2019.ASB.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Poznaniu",
+        "legal_basis": "155 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Impexmetal S.A.",
+        "address": "ul. Aleje Jerozolimskie 92 00-807 Warszawa",
+        "economic_activity_code": "24.42.B"
+      }
+    ],
+    "planned_start": "2017-12-01",
+    "planned_end": "2019-11-30",
+    "actual_end": "2019-11-22",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "Remediacja prowadzona metodą ex-situ. Z wyznaczonych w Projekcie dwóch obszarów o łącznej powierzchni zanieczyszczenia około 18.853 m2 usunięty został zanieczyszczony grunt. Grunt został usunięty do głębokości stwierdzonego zanieczyszczenia. Zagospodarowanie powstałych odpadów należało prowadzić zgodnie z przepisami o odpadach. Powstałe wykopy zostały zasypane ziemią wolną od zanieczyszczeń, przy czym zasypanie nastąpiło po uzyskaniu wyników pobranych próbek gleby z dna i ścian wykopów wskazujących na spełnianie norm jakości gleby i ziemi.",
+    "ecological_effect": "Zarówno wykonane analizy próbek gleby i ziemi pobrane z dna i ścian wykopów, a także po zagospodarowaniu wykopów ziemią wolną od zanieczyszczeń, pozwalają na stwierdzenie, że remediację przedmiotowego terenu polegającą na usunięciu zanieczyszczenia, można uznać za zakończoną.",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

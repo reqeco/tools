@@ -1,0 +1,84 @@
+{
+  "registry_id": 85,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.001,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "opolskie",
+    "county": "strzelecki",
+    "municipality": "Ujazd",
+    "address": "47-143 Ujazd, ul. Plac 1-go Maja",
+    "precinct": "Ujazd",
+    "parcel_numbers": [
+      "561/3 obręb 0087 Ujazd"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((453789.38508591324 280483.63783735596,453787.9298746733 280467.1013459461,453794.80905509315 280466.4398862859,453797.7194775835 280467.7628056044,453799.83614848333 280469.3503087722,453801.15906779334 280471.7315635355,453802.2174032433 280482.3149180468,453789.38508591324 280483.63783735596))",
+    "site_description": "Ujazd, ul. Plac 1-go Maja"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "październik 2002r. Zanieczyszczenie zostało potwierdzone badaniami"
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw",
+    "current": "Sprzedaż detaliczna paliw do pojazdów silnikowych na stacjach paliw"
+  },
+  "land_holders": [
+    {
+      "name": "Romuald Bierdzio Spółka Jawna BIERTANK Romuald, Zofia Bierdzio",
+      "address": "47-232 Kędzierzyn-Koźle",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": "47.30.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "C wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "od 2 do 15",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "59,5 -  142,5 mg/kg suchej masy",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2015-07-03",
+    "legal_basis": "art. 101 l ust. 2",
+    "case_reference": "WOOŚ.511.1.3.2015.KM",
+    "decisions": [
+      {
+        "issue_date": "2015-12-30",
+        "reference": "WOOŚ.511.1.3.2015.KM.7",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Opolu",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Romuald Bierdzio Spółka Jawna BIERTANK Romuald, Zofia Bierdzio",
+        "address": "47-232 Kędzierzyn-Koźle",
+        "economic_activity_code": "47.30.Z"
+      }
+    ],
+    "planned_start": "2016-01-13",
+    "planned_end": "2017-10-07",
+    "actual_end": "2017-10-07",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "remediacja polegać będzie na przeprowadzeniu procesu samooczyszczania przy wykorzystaniu procesu bioremediacji naturalnej polegajacej na usuwaniu zaniecyszczeń przez rodzime mikroorganzmyProces naturalnej atenuacji będzie kontrolowany poprzez prowadzenie monitoringu stężenia substancji powodujacych ryzyko w glebie i ziemi",
+    "ecological_effect": "usunięte zanieczyszczenie w glebie,  prowadzony monitoring wód",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

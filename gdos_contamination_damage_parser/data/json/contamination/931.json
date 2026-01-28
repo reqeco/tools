@@ -1,0 +1,76 @@
+{
+  "registry_id": 931,
+  "historical_contamination": "Potencjalne",
+  "area_ha": null,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "małopolskie",
+    "county": "chrzanowski",
+    "municipality": "Trzebinia",
+    "address": "32-540 Trzebinia, ul. Kościuszki 55A",
+    "precinct": "Trzebinia",
+    "parcel_numbers": [
+      "120305_4.0013.795/60"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532555.2252561106 254391.72648372408,532584.9909406509 254350.18681731448,532577.1857167008 254345.29201585427,532593.5899161808 254322.40551174432,532570.174244351 254305.0752687538,532556.1512996309 254316.71695870347,532521.2262297807 254367.25247644354,532555.2252561106 254391.72648372408))",
+    "site_description": "Teren po byłych Zakładach Metalurgicznych \"Trzebinia\" w Trzebini"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": "Kucie, prasowanie, wytłaczanie i walcowanie metali; metalurgia proszków",
+    "current": "Wynajem i dzierżawa maszyn i urządzeń rolniczych"
+  },
+  "land_holders": [
+    {
+      "name": "P.H.U. INSTALBUD Sp. J. J. Rusin, J. Bogusz, A. Bogusz",
+      "address": "32-540 Trzebinia  ul. Kościuszki 57",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-29",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "ZS.513.29.2019.HCh",
+    "decisions": [
+      {
+        "issue_date": "2019-07-15",
+        "reference": "ZS.513.29.2019.HCh",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Krakowie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "P.H.U. INSTALBUD Sp. J. J. Rusin, J. Bogusz, A. Bogusz",
+        "address": "32-540 Trzebinia  ul. Kościuszki 57",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

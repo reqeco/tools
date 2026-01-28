@@ -1,0 +1,60 @@
+{
+  "registry_id": 1778,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "Ul. Okrzei",
+    "precinct": "4-15-04",
+    "parcel_numbers": [
+      "98/4"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "Skarb Państwa",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Matexi Polska sp. z o.o.",
+      "address": "Al. Jana Pawła II 27  00-867 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "98/4"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "administrative_proceedings": {
+    "initiation_date": "2021-11-03",
+    "legal_basis": "art. 61a §1",
+    "case_reference": "WOOŚ-IV.515.75.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-11-10",
+        "reference": "WOOŚ-IV.515.75.2021.PBu",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 61a §1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "Wydano postanowienie o odmowie wszczęcia postępowania"
+}

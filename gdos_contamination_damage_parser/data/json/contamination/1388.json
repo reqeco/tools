@@ -1,0 +1,93 @@
+{
+  "registry_id": 1388,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.688,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Talarowa",
+    "precinct": "4-03-03",
+    "parcel_numbers": [
+      "12/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((632764.1076298301 497105.71712716017,632788.9785129238 497087.19625679124,632954.6080110192 497293.0425018063,632933.9704697197 497317.3842171561,632764.1076298301 497105.71712716017))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": "Uprawy rolne połączone z chowem i hodowlą zwierząt (działalność mieszana)",
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp. z o. o.",
+      "address": "ul. Armii Ludowej 14,00-638 Warszawa",
+      "entity_type": null,
+      "parcels": [
+        "12/2"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.688
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "DDT/DDE/DDD",
+      "concentration": null,
+      "area_ha": 0.688
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-08-04",
+    "legal_basis": "art. 101l ust. 4",
+    "case_reference": "WOOŚ-IV.515.47.2020",
+    "decisions": [
+      {
+        "issue_date": "2020-11-03",
+        "reference": "WOOŚ-IV.515.47.2020.DŚc.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp. z o. o.",
+        "address": "ul. Armii Ludowej 14,00-638 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2020-11-01",
+    "planned_end": "2020-12-01",
+    "actual_end": "2021-01-12",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "metoda ex situ",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

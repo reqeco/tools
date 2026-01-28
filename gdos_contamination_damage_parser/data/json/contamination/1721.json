@@ -1,0 +1,86 @@
+{
+  "registry_id": 1721,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0005,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Matuszewskiej 14",
+    "precinct": "4-11-13",
+    "parcel_numbers": [
+      "70"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((642683.4492510671 490834.1535422271,642680.8034124323 490816.16183957737,642308.2693334782 490546.8154675644,642301.9193207693 490548.9321384635,642222.5441619023 490489.66535326745,642229.4233423392 490416.11103948485,642220.956658727 490415.5818717666,642212.4899751175 490486.49034691695,642189.2065951834 490465.85280563496,642159.5732025425 490503.95288183633,642169.627389327 490510.3028945364,642189.7357629047 490481.72783738654,642261.7025736107 490536.7612807844,642177.5649052241 490652.64901256654,642157.9856993655 490639.41981943697,642153.2231898389 490645.2406644169,642256.4108963604 490717.20747501496,642262.7609090691 490708.74079141486,642188.1482597397 490660.58652843535,642273.3442635775 490539.93628713395,642347.9569129176 490594.4405628145,642255.8817286397 490718.2658104645,642266.994250876 490725.67415861506,642354.8360933479 490599.7322400613,642407.7528659261 490638.36148398276,642326.7902038936 490753.19088031445,642273.8734313155 490716.6783072846,642268.0525863277 490725.6741586141,642605.6615953782 490962.7412994094,642690.8575992285 490850.5577417072,642682.9200833369 490846.32439990714,642604.6032599262 490951.09960945975,642338.9610615815 490760.0700607337,642418.8653881728 490647.8865030324,642683.4492510671 490834.1535422271))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Green Logistics Poland 1 sp. z o.o.",
+      "address": "ul. Poznańska 37, 00-689 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "70"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": null,
+      "area_ha": 0.0005
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2022-09-16",
+    "legal_basis": "art. 101l ust. 2",
+    "case_reference": "WOOŚ-IV.515.45.2022.PBu",
+    "decisions": [
+      {
+        "issue_date": "2023-01-05",
+        "reference": "WOOŚ-IV.515.45.2022.PBu.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 KPA",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Green Logistics Poland 1 sp. z o.o.",
+        "address": "ul. Poznańska 37, 00-689 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2023-01-01",
+    "planned_end": "2027-12-31",
+    "actual_end": "2025-06-01",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": null,
+    "ecological_effect": "efekt ekologiczny osiągnięty",
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

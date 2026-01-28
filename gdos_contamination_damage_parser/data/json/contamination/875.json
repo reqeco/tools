@@ -1,0 +1,129 @@
+{
+  "registry_id": 875,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "łódzkie",
+    "county": "Łódź",
+    "municipality": "Łódź",
+    "address": "ul. Tymienieckiego 7 Łódź",
+    "precinct": "W-25",
+    "parcel_numbers": [
+      "158/28",
+      "158/50",
+      "158/52",
+      "158/58"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((532310.5542170142 431536.4218060216,532293.2450941524 431579.8845896777,532399.2188114998 431623.40033683274,532380.0154638492 431673.49660426285,532350.1075619818 431661.118706421,532347.8626338083 431664.7969041867,532342.3262285029 431662.1765017854,532344.9674487946 431654.43895664345,532293.646829465 431632.69223696645,532290.6567884845 431637.10422931425,532250.7860741443 431619.49324360583,532256.4242948174 431606.2357970439,532239.0766831291 431598.0008258326,532231.5803858064 431612.3542148918,532193.548495809 431596.6017091926,532201.7945676737 431580.77594386134,532190.7143351734 431576.6431411747,532183.9514758851 431592.1091507431,532179.8886515344 431590.6061134981,532202.7924036869 431540.5319562303,532207.5956813231 431542.03976270277,532227.5098586732 431496.3773986632,532261.8544829878 431509.8911956614,532264.846939154 431505.10981644876,532314.3250422741 431525.73712506983,532314.6952535015 431525.73950106464,532314.6905137326 431526.4780148724,532310.5542170142 431536.4218060216))",
+    "site_description": "teren byłych Zakładów Włókienniczych Towarzystwa Akcyjnego Wyrobów Bawełnianych K.W. Scheiblera"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Elektrownia RE Sp. z o.o.",
+      "address": "al. Solidarności 36 25-323 Kielce",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "350 mg/kg s.m. /  210 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Etylobenzen",
+      "concentration": "3,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Toluen",
+      "concentration": "1,6 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Styren",
+      "concentration": "6,7 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ksyleny",
+      "concentration": "17 mg/kg s.m. / 27 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "160 mg/kg s.m. / 480 mg/kg s.m. / 400 mg/kg s.m. / 248,3 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "2800 mg/kg s.m. / 3200 mg/kg s.m. / 3500 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-05-14",
+    "legal_basis": "101l, 101e poś",
+    "case_reference": "WSI.515.6.2019.PS",
+    "decisions": [
+      {
+        "issue_date": "2020-08-27",
+        "reference": "WSI.515.6.2019.PS.MG.19",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Łodzi",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Elektrownia RE Sp. z o.o.",
+        "address": "al. Solidarności 36 25-323 Kielce",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": "RDOŚ w Łodzi wydał decyzję odmawiającą uzgodnienia projektu planu remdiacji historycznego zanieczyszczenia powierzchni ziemi"
+}

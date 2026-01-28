@@ -1,0 +1,58 @@
+{
+  "registry_id": 1163,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "polkowicki",
+    "municipality": "Radwanice",
+    "address": null,
+    "precinct": "obręb Jakubów",
+    "parcel_numbers": [
+      "125/16",
+      "125/17",
+      "obręb Jakubów"
+    ],
+    "coordinates_ewkt": "SRID=2180;Polygon ((292631.04927082639187574 418780.70505656022578478, 292641.22558698209468275 418800.21107929199934006, 292660.17519663902930915 418789.84238085057586432, 292675.0040822068694979 418781.71604293584823608, 292657.50343031535157934 418724.50382707174867392, 292739.41047662001801655 418718.06259089801460505, 292752.69820514647290111 418666.58304041903465986, 292770.43646239256486297 418593.69078630395233631, 292732.04206780786626041 418524.44763662479817867, 292709.05851197591982782 418538.5266545582562685, 292549.08434158551972359 418623.58391157817095518, 292631.04927082639187574 418780.70505656022578478))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2018-07-24",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": null,
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Szkoda w środowisku w związku z pożarem odpadów niebezpiecznych i innych niż niebezpieczne gromadzonych bez zezwolenia na terenie działek nr 125/16 i 125/17 obręb Jakubów, gmina Radwanice.",
+  "total_area_ha": null,
+  "reporters": [
+    {
+      "name": "Starosta Polkowicki",
+      "address": "ul. Św. Sebastiana 1 59-100 Polkowice",
+      "legal_form": "organ administracji"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…)",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie zawieszone",
+    "initiation_date": "2018-07-26",
+    "detection_date": null,
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

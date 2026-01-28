@@ -1,0 +1,340 @@
+{
+  "registry_id": 937,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 7.454,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "Katowice",
+    "municipality": "Katowice",
+    "address": "ul. Miedziana Katowice",
+    "precinct": "0004 Dąbrówka Mała a. m. 11 a. m. 12",
+    "parcel_numbers": [
+      "902/5",
+      "903/5",
+      "125/1",
+      "128/1",
+      "129/1",
+      "336/10",
+      "340/10",
+      "899/5",
+      "900/5",
+      "948/5",
+      "790/5",
+      "893/5",
+      "894/5",
+      "895/5",
+      "896/5",
+      "897/5",
+      "789/5",
+      "169/5",
+      "172/48",
+      "343/10",
+      "127/1",
+      "338/10",
+      "342/10"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON(((504952.730000 266576.493000,504963.046000 266592.255000,504981.665000 266597.492000,505028.893000 266627.749000,504987.496000 266631.343000,504999.095000 266652.654000,505040.450000 266645.953000,505067.019000 266679.056000,505082.764000 266718.861000,505086.644000 266761.453000,505082.470000 266804.203000,505069.944000 266844.087000,505096.042000 266794.536000,505096.794000 266791.008000,505099.008000 266766.044000,505098.023000 266741.092000,505094.159000 266716.029000,505091.787000 266708.336000,505083.326000 266684.784000,505072.240000 266662.286000,505061.775000 266646.536000,505080.962000 266647.138000,505073.244000 266636.578000,505049.846000 266631.925000,505042.933000 266623.913000,505024.487000 266607.051000,505003.777000 266592.688000,504978.932000 266577.820000,504941.670000 266562.600000,504952.730000 266576.493000)),((504655.168000 266461.679000,504599.606000 266559.576000,504585.588000 266551.610000,504467.948000 266485.280000,504444.311000 266499.379100,504463.945000 266501.233900,504464.175000 266501.510000,504554.654000 266562.628000,504544.243000 266584.395000,504521.438000 266629.894000,504516.987000 266632.572000,504515.194000 266633.765000,504507.730000 266636.124000,504518.383000 266656.159000,504540.405000 266699.037000,504577.435000 266726.034000,504616.489000 266690.091000,504660.438000 266660.738000,504690.268464 266640.778475,504713.402445 266660.711527,504800.556000 266605.789100,504836.879000 266586.812900,504877.641000 266582.838100,504910.385000 266582.378000,504927.242000 266582.192000,504941.437000 266586.199000,504940.927000 266585.376000,504919.993000 266558.824000,504919.464000 266558.161000,504904.266000 266555.396900,504887.164000 266537.358100,504850.462000 266507.988000,504843.219000 266502.959000,504841.295000 266492.910000,504838.800000 266485.708100,504830.963000 266480.377000,504797.693000 266461.015000,504766.318000 266443.597000,504753.932000 266436.628000,504716.812000 266417.888000,504695.981000 266405.655000,504684.383000 266397.116000,504675.565000 266402.861000,504670.032000 266404.554000,504670.144000 266404.723000,504676.899000 266423.311000,504655.168000 266461.679000)),((504908.553000 266670.780000,504950.508000 266661.861000,504975.571000 266656.488000,504978.831000 266661.851100,504992.946000 266685.167000,504994.001000 266689.311000,504995.818000 266696.632000,505001.094000 266716.659000,505005.230000 266711.377100,505007.902000 266714.639000,505015.086000 266712.254100,505019.434000 266710.816000,505018.452000 266707.621000,505019.168000 266707.402000,505014.845000 266693.528000,505006.021000 266665.294000,505000.805000 266655.730000,504999.095000 266652.654000,504980.746000 266655.649000,504970.377000 266635.101000,504969.228000 266632.918000,504961.682000 266633.588000,504909.122000 266643.169000,504846.473000 266654.553000,504754.044000 266671.345000,504732.276312 266676.973916,504749.369987 266691.702428,504749.557938 266693.832535,504759.089000 266692.024000,504808.651000 266685.503000,504908.553000 266670.780000)))",
+    "site_description": "Teren jest nieużytkiem porośniętym ubogą roślinnością (trawy i pojedyncze drzewa), stanowiącym w przeszłości przestrzeń między trzema liniami kolejowymi (obecnie w znacznej mierze rozebranymi). Część wschodnia omawianej nieruchomości, to teren położony średnio o ok. 3 m wyżej w stosunku do części zachodniej. Obszar ten stanowi teren po byłych liniach kolejowych (obecnie w znacznej mierze zdemontowanych). Teren pokryty jest ubogą roślinnością, są to trawy oraz pojedyncze drzewa. Cechą charakterystyczną omawianego terenu, a także sąsiadujących z nim nieruchomości, jest według Wnioskodawcy obecność gruntów antropogenicznych (nasypów), będących masą ziemną wymieszaną z odpadowymi materiałami pochodzenia pohutniczego (mieszanina gleby, glin piaszczystych i ilastych, piasków, pyłu oraz fragmentów cegieł, betonu i kamieni). Miąższość nasypów sięga od ok. 0,9 m do ponad 5 m, poniżej zaś występują utwory czwartorzędowe w postaci piasku średniego oraz gliny pylastej i pyłu."
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": "Dokładna data wystąpienia zanieczyszczenia nie jest znana. Zidentyfikowane na przedmiotowym terenie zanieczyszczenie związane jest z wieloletnią działalnością Huty Metali Nieżelaznych „Szopienice” (w 1981 r. zamknięto piec do wytapiania ołowiu, w latach następnych likwidowano zaś kolejne; w 2002 r. wstrzymano wytop cynku). Pozostałość po działalności huty stanowią m.in. nasypy oraz odpady pohutnicze o różnorodnym składzie chemicznym (zawierającym głównie metale ciężkie, w tym znaczne ilości cynku). Stwierdzone na rozpatrywanym obszarze zanieczyszczenie należy uznać za historyczne, z uwagi na historię terenu i jego wieloletni przemysłowy charakter, a także charakterystykę samych zanieczyszczeń, oraz brak innych przesłanek pozwalających na powiązanie stwierdzonego zanieczyszczenia powierzchni ziemi ze źródłem jego powstania."
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Śląski Park Biznesu Spółka z ograniczoną odpowiedzialnością spółka komandytowa z siedzibą w Katowicach",
+      "address": "ul. Jana III Sobieskiego 11 40 - 082 Katowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "129/1",
+        "902/5",
+        "903/5",
+        "125/1",
+        "128/1",
+        "336/10",
+        "340/10",
+        "899/5",
+        "900/5",
+        "948/5",
+        "790/5",
+        "893/5",
+        "894/5",
+        "895/5",
+        "896/5",
+        "897/5",
+        "789/5",
+        "169/5",
+        "172/48",
+        "343/10",
+        "127/1",
+        "338/10",
+        "342/10"
+      ],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "1,1 mg/kg s.m.",
+      "area_ha": 1.03
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "1,1 mg/kg s.m.",
+      "area_ha": 1.03
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "210 mg/kg s.m.",
+      "area_ha": 2.04
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "30 mg/kg s.m.",
+      "area_ha": 2.04
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "340 mg/kg s.m.",
+      "area_ha": 1.03
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "1300 mg/kg s.m.",
+      "area_ha": 2.04
+    },
+    {
+      "soil_group": "III",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "8100 mg/kg s.m.",
+      "area_ha": 2.04
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "350 mg/kg s.m.",
+      "area_ha": 1.8
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "140 mg/kg s.m.",
+      "area_ha": 2.27
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "6700 mg/kg s.m.",
+      "area_ha": 1.89
+    },
+    {
+      "soil_group": "IV",
+      "depth": "od 0 do 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "21000 mg/kg s.m.",
+      "area_ha": 3.17
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "43 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "22 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "190 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "920 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "1800 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "620 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "6,9 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "860 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "3400 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Bar (Ba)",
+      "concentration": "430 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "120 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "470 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "8900 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "46000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Arsen (As)",
+      "concentration": "3100 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Kadm (Cd)",
+      "concentration": "78 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "13 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "23 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "57000 mg/kg s.m.",
+      "area_ha": null
+    },
+    {
+      "soil_group": "III wodoprzepuszczalność < 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "9600 mg/kg s.m.",
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-10",
+    "legal_basis": "art. 101 l ust. 2 Poś",
+    "case_reference": "WSI.515.1.2019.TK",
+    "decisions": [
+      {
+        "issue_date": "2019-09-27",
+        "reference": "WSI.515.1.2019.TK.4",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101p ust. 2",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": "tak",
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Śląski Park Biznesu Spółka z ograniczoną odpowiedzialnością spółka komandytowa z siedzibą w Katowicach",
+        "address": "ul. Jana III Sobieskiego 11 40 - 082 Katowice",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

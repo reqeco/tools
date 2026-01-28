@@ -1,0 +1,69 @@
+{
+  "registry_id": 1267,
+  "location": {
+    "voivodeship": "pomorskie",
+    "county": "Gdańsk",
+    "municipality": "Gdańsk",
+    "address": "ul. Bytowska 5 b",
+    "precinct": "009 Gdańsk",
+    "parcel_numbers": [
+      "2/7 i 2/9"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((468552.13095848897 725744.5389881637,468566.94765478896 725779.4640580164,468566.4184870688 725816.5057987655,468569.59349341877 725829.7349918848,468579.1185124688 725845.0808559153,468581.23518336884 725857.2517135851,468566.4184870688 725883.7100998331,468547.8976166889 725895.3517897846,468521.4392304389 725905.9351442838,468486.51416058897 725928.6893564649,468473.8141351887 725926.5726855649,468476.9891415388 725950.3852331936,468489.68916693877 725952.5019040955,468513.5017145688 725953.0310718138,468527.2600754188 725949.326897745,468547.897616689 725933.9810337136,468584.41018971876 725928.1601887448,468624.6269368188 725890.060112535,468663.78534846887 725910.6976538152,468680.71871566883 725934.5102014448,468686.5395606389 725950.3852331946,468699.23958603886 725974.197780815,468705.06043101894 725992.1894834638,468709.82294053887 725999.0686638942,468717.23128868896 726004.8895088639,468730.98964953894 726001.7145025143,468727.2854754688 725954.6185749955,468755.86053261894 725928.6893564649,468750.03968763887 725919.1643374152,468778.61474478885 725811.743289235,468684.95205746894 725779.9932257328,468678.602044769 725772.5848775841,468675.4270384189 725757.7681812858,468680.1895479388 725716.4930987367,468658.493671219 725705.9097442338,468627.27277543896 725681.0388611639,468589.1726992388 725711.7305892138,468551.07262303884 725744.5389881646,468552.13095848897 725744.5389881637))",
+    "site_description": "Omawiane nieruchomości położone są w Dolnie Radości w Trójmiejskim Paku Krajobrazowym"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2015-04-10",
+    "description": null
+  },
+  "land_surface_holder": null,
+  "land_owner": "podmiot korzystający ze środowiska",
+  "remediation_obligee": "podmiot korzystający ze środowiska",
+  "environmental_component": "chronione siedliska przyrodnicze",
+  "event_description": "Na teren działek o nr 2/7 i 2/9 obręb 009 Gdańsk zostało nawieone 1000 Mg obcego materiału - żwir.. Zostały wycięte drzew. Działania te spowodowały doprowadziły do zasypania \"leśnej gleby o specyficznym składzie i właściwościach warunkujących zarówno zatrzymanie wody, jak również rozwój specyficznych dla łęgu gatunków.",
+  "total_area_ha": 4.095,
+  "reporters": [
+    {
+      "name": "Polski Klub Ekologiczny",
+      "address": "Gdańsk",
+      "legal_form": "organizacja ekologiczna"
+    }
+  ],
+  "responsible_entities": [
+    {
+      "name": "(…) Nieruchomości",
+      "address": "(…)",
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": [
+    {
+      "natura_2000": "Łęgi wierzbowe, topolowe, olszowe i jesionowe (Salicetum albo-fragilis, Populetum albae, Alnenion glutinoso-incanae) i olsy źródliskowe",
+      "other": null
+    }
+  ],
+  "administrative_proceedings": {
+    "status": "zakończone postępowanie sądowoadministracyjne",
+    "initiation_date": "2015-05-18",
+    "detection_date": "2015-04-09",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": {
+    "issue_date": "2017-04-19",
+    "case_number": "IV SAANa 2582/16",
+    "challenged_decision_reference": "DOA-ks.512.3.2016.at.5",
+    "ruling_type": "wyrok",
+    "verdict": "oddalono skargę",
+    "court": "WSA w Warszawie",
+    "cassation_appeal_to_nsa": "skarga na od wyrku WSA w Warszawie z 19 kwietnia 2017 r. sygn. akt IV Sa/Wa 2582"
+  },
+  "remedial_actions": null,
+  "cost_financing": null,
+  "notes": null
+}

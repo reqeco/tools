@@ -1,0 +1,76 @@
+{
+  "registry_id": 2147,
+  "location": {
+    "voivodeship": "dolnośląskie",
+    "county": "lubiński",
+    "municipality": "Lubin (gmina miejska)",
+    "address": null,
+    "precinct": "Szklary Górne",
+    "parcel_numbers": [
+      "836",
+      "489/211",
+      "391/30",
+      "obręb Szklary Górne"
+    ],
+    "coordinates_ewkt": "SRID=2180;MULTIPOLYGON (((303239.51199496677145362 400375.38132409192621708, 303236.66062722902279347 400376.33817679528146982, 303237.09045657538808882 400373.21076706331223249, 303239.51199496677145362 400375.38132409192621708)),((303271.60347135772462934 400451.42553157918155193, 303277.71541718812659383 400456.99893363565206528, 303269.74007874191738665 400457.6350836893543601, 303271.60347135772462934 400451.42553157918155193)),((303347.5514402772532776 400501.84338060021400452, 303349.14161694014910609 400503.45861498638987541, 303349.88567958201747388 400502.41668455768376589, 303347.5514402772532776 400501.84338060021400452)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": "2021-12-31",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_surface_holder": "podmiot korzystający ze środowiska",
+  "land_owner": "Skarb Państwa",
+  "remediation_obligee": "organ ochrony środowiska",
+  "environmental_component": "powierzchnia ziemi",
+  "event_description": "Awaria wodociagu wody przemyslowej",
+  "total_area_ha": 0.0004,
+  "reporters": [
+    {
+      "name": "KGHM Polska Miedź S.A.",
+      "address": "ul. Polkowicka 52 59-305",
+      "legal_form": "podmiot korzystający ze środowiska"
+    }
+  ],
+  "responsible_entities": [],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "476 mg/kg s.m.",
+      "area_ha": 0.0004
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Miedź (Cu)",
+      "concentration": "300 - 852 mg/kg s.m.",
+      "area_ha": 0.0004
+    }
+  ],
+  "water_changes": null,
+  "protected_species": null,
+  "protected_habitats": null,
+  "administrative_proceedings": {
+    "status": "postępowanie administracyjne w toku",
+    "initiation_date": null,
+    "detection_date": "2021-12-31",
+    "decisions": [],
+    "appeals": []
+  },
+  "court_proceedings": null,
+  "remedial_actions": {
+    "planned_start": null,
+    "planned_end": "2026-02-28",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "cost_financing": null,
+  "notes": "WSI.511.4.2024.MR"
+}

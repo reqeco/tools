@@ -1,0 +1,93 @@
+{
+  "registry_id": 816,
+  "historical_contamination": "Potencjalne",
+  "area_ha": 3.3132,
+  "status": "teren, na którym występuje potencjalne historyczne zanieczyszczenie powierzchni ziemi",
+  "location": {
+    "voivodeship": "lubelskie",
+    "county": "Biała Podlaska",
+    "municipality": "Biała Podlaska",
+    "address": "ul. Łomaska",
+    "precinct": "0003 Obręb 3",
+    "parcel_numbers": [
+      "066101_1.0003.AR_1.2940/44"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((784608.405453277 469798.5757461572,784608.4054529612 469736.39853845816,785056.8751404396 469776.0861189384,785055.5522215911 469891.1800991371,784607.0825338555 469799.8986654645,784608.405453277 469798.5757461572))",
+    "site_description": "tereny kolejowe"
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": "1958-01-01",
+    "to": "1996-10-31",
+    "description": null
+  },
+  "land_owner": "podmiot korzystający ze środowiska",
+  "economic_activity": {
+    "former": null,
+    "current": "Transport kolejowy pasażerski międzymiastowy"
+  },
+  "land_holders": [
+    {
+      "name": "Polskie Koleje Państwowe S.A.",
+      "address": "Al. Jerozolimskie 142 A, 02-305 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "066101_1.0003.AR_1.2940/44"
+      ],
+      "economic_activity_code": "-"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": null,
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2019-01-18",
+    "legal_basis": "art. 61 Kpa",
+    "case_reference": "WSI.513.1.2019.AWF",
+    "decisions": [
+      {
+        "issue_date": "2019-05-21",
+        "reference": "WSI.513.1.2019.AWF",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Lublinie",
+        "legal_basis": "art. 101c ust. 3",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": null,
+        "entity_type": "podmiot nieustalony, ponieważ trwa jeszcze postępowanie administracyjne",
+        "name": null,
+        "address": null,
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": null,
+    "planned_end": null,
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}

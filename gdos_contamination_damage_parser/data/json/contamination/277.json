@@ -1,0 +1,185 @@
+{
+  "registry_id": 277,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.75,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Pruszków",
+    "address": "ul. B. Prusa",
+    "precinct": "14-22-02",
+    "parcel_numbers": [
+      "295"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((623183.146635089 478401.4698964944,623201.9320893631 478419.1970152855,623317.0260697559 478299.60510943085,623323.6406663271 478287.4342517527,623328.9323435868 478289.2863387894,623357.5074007873 478258.33002687804,623348.2469655797 478241.9258273998,623348.2469655776 478195.623651471,623341.8969528651 478168.63609748986,623337.6636110569 478161.4923331998,623186.8508091721 478321.30098615866,623187.3799768934 478327.65099885873,623194.5237411965 478330.29683748726,623225.7446370333 478353.05104965623,623211.1925245683 478373.6885909345,623207.2237666211 478370.51358458865,623201.4029216405 478377.39276501816,623185.7924737226 478374.48234252445,623185.5278898525 478387.97611951735,623183.146635089 478401.4698964944))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": "Realizacja projektów budowlanych związanych ze wznoszeniem budynków"
+  },
+  "land_holders": [
+    {
+      "name": "Bouygues Immobilier Polska Sp.z o.o.",
+      "address": "ul. Wołoska 22a, 02-675 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [
+        "295"
+      ],
+      "economic_activity_code": "41.10.Z"
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Antracen",
+      "concentration": "0,311-3,2",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": "0,554-9,32",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": "0,182-8,28",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": "0,172-7,74",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": "0,169-8,31",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(ghi)perylen",
+      "concentration": "0,428-3,84",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": "0,519-10,5",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Naftalen",
+      "concentration": "0,382",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Indeno(1,2,3-c,d)piren",
+      "concentration": "0,51-4,36",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Dibenzo(a,h)antracen",
+      "concentration": "0,15-1,2",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": "1,36",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": "37-130",
+      "area_ha": 0.75
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Cynk (Zn)",
+      "concentration": "318-1010",
+      "area_ha": 0.1135
+    },
+    {
+      "soil_group": "I wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Ołów (Pb)",
+      "concentration": "101-115",
+      "area_ha": 0.1135
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2017-03-08",
+    "legal_basis": "art. 61 § 1 kpa w związku z art. 101 l ust. 2 Poś",
+    "case_reference": "WOOŚ-IV.515.41.2019",
+    "decisions": [
+      {
+        "issue_date": "2017-06-08",
+        "reference": "WSI.515.6.2017.MGł.5",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      },
+      {
+        "issue_date": "2019-04-10",
+        "reference": "WOOŚ-IV.515.41.2019.MB.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 154 Kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Bouygues Immobilier Polska Sp.z o.o.",
+        "address": "ul. Wołoska 22a, 02-675 Warszawa",
+        "economic_activity_code": "41.10.Z"
+      }
+    ],
+    "planned_start": "2018-04-01",
+    "planned_end": "2019-08-30",
+    "actual_end": "2019-06-28",
+    "method": "usunięcie zanieczyszczenia, przynajmniej do dopuszczalnej zawartości",
+    "description": "ex-situ - usuniecie zanieczyszczonej ziemi",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

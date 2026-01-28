@@ -1,0 +1,91 @@
+{
+  "registry_id": 1523,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.0296,
+  "status": "teren, na którym zakończono remediacje",
+  "location": {
+    "voivodeship": "śląskie",
+    "county": "częstochowski",
+    "municipality": "Dąbrowa Zielona",
+    "address": "miejscowość Święta Anna",
+    "precinct": "Święta Anna",
+    "parcel_numbers": [
+      "145/2"
+    ],
+    "coordinates_ewkt": "SRID=2180;MultiPolygon (((537049.9376394220162183 328484.76282889902358875, 537052.75271055102348328 328499.30515549500705674, 537055.77276603400241584 328514.96397270500892773, 537058.88573494297452271 328531.58090213098330423, 537059.48853207495994866 328534.77064387098653242, 537062.12428241304587573 328548.61585626099258661, 537064.72613714903127402 328562.17171762499492615, 537070.7091646590270102 328587.79386564600281417, 537077.39201119705103338 328613.43652315699728206, 537081.63095241703558713 328631.28739351301919669, 537085.39675914496183395 328648.14532295102253556, 537085.96794543694704771 328650.4760568939964287, 537085.9447614710079506 328687.90178118302719668, 537082.95351273799315095 328703.17225431697443128, 537061.97156306204851717 328704.22569071798352525, 537044.78270742995664477 328708.64555114402901381, 537053.31377266102936119 328715.04582231602398679, 537059.7246962699573487 328719.85584815597394481, 537064.75230894994456321 328731.00044442102080211, 537064.70804410497657955 328732.16028184199240059, 537066.14818730903789401 328732.24072712298948318, 537065.93503280798904598 328741.5974663239903748, 537064.3948383410461247 328741.5083816010155715, 537064.36501295794732869 328742.25829280697507784, 537056.20246245502494276 328752.01241891901008785, 537051.77939107303973287 328757.47872345999348909, 537067.78896654304116964 328767.08561559999361634, 537072.7438344230176881 328758.82394626701716334, 537074.79718029103241861 328755.4783386149792932, 537080.25418333197012544 328746.66023533197585493, 537089.03147369995713234 328729.16287262801779434, 537093.22340108396019787 328710.30849515501176938, 537102.48434334702324122 328657.65768173598917201, 537104.31220377201680094 328647.24976838799193501, 537098.95150390197522938 328636.59935800597304478, 537089.33969417295884341 328607.19883303000824526, 537082.52408065600320697 328586.51471595198381692, 537079.65291374898515642 328575.95053634897340089, 537077.23746770096477121 328566.56940829800441861, 537074.43080598604865372 328554.12558997102314606, 537073.23262019001413137 328546.81661704799626023, 537069.42703669704496861 328525.54212702601216733, 537067.6356123429723084 328513.53427435999037698, 537066.5958988789934665 328503.90468002599664032, 537064.16220067103859037 328493.17468485899735242, 537043.09824695903807878 328463.05970054998761043, 537048.59863940696232021 328478.12532120698597282, 537049.9376394220162183 328484.76282889902358875)))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": "2007-04-30",
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Zarząd Dróg Wojewódzkich w Katowicach",
+      "address": "ul. Lechicka 24 40-609",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C6-C12, składników frakcji benzyn",
+      "concentration": null,
+      "area_ha": null
+    },
+    {
+      "soil_group": "IV wodoprzepuszczalność >= 1*10^-7 m/s",
+      "depth": "> 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2021-04-20",
+    "legal_basis": "art. 101l",
+    "case_reference": "WSI.515.6.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-05-31",
+        "reference": "WSI.515.6.2021.SA.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Katowicach",
+        "legal_basis": "art. 101l ust. 4",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "Zarząd Dróg Wojewódzkich w Katowicach",
+        "address": "ul. Lechicka 24 40-609",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2021-05-31",
+    "planned_end": "2021-06-14",
+    "actual_end": "2021-06-14",
+    "method": null,
+    "description": "Remediacja zanieczyszczonej powierzchni ziemi zostanie przeprowadzona metodą ex situ, polegającą na usunięciu zanieczyszczenia poprzez wydobycie zanieczyszczonego gruntu do głębokości występowania zanieczyszczenia powierzchni ziemi w rejonie otworów badawczych nr 5, 8 i 9.",
+    "ecological_effect": null,
+    "effect_assessment": "pozytywna"
+  },
+  "notes": null
+}

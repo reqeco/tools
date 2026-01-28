@@ -1,0 +1,95 @@
+{
+  "registry_id": 1758,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": null,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi, na którym nie podjęto remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "municipality": "Michałowice",
+    "address": "ul. Główna w Komorowie",
+    "precinct": "0004",
+    "parcel_numbers": [
+      "7/1",
+      "51",
+      "50",
+      "430/4",
+      "6/5",
+      "6/6",
+      "6/7",
+      "126/3",
+      "131/1",
+      "132",
+      "332",
+      "126/8",
+      "350/11",
+      "352/7",
+      "356/4",
+      "356/7",
+      "356/8",
+      "357/2",
+      "357/3",
+      "354/4",
+      "354/8",
+      "359/2",
+      "356/6",
+      "357/5",
+      "220/1",
+      "221/1",
+      "222/1",
+      "223/1",
+      "358/2",
+      "360/2"
+    ],
+    "coordinates_ewkt": null,
+    "site_description": "zbiornik wodny ,,Komorów\" na rzece Utracie"
+  },
+  "occurrence_time": {
+    "date": "2001-04-21",
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": "osoba fizyczna",
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "Gmina Michałowice, Urząd Gminy Michałowice",
+      "address": "Al. Powstańców Warszawy 1 05-816 Michałowice",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": null,
+      "depth": "od 0 do 0,25",
+      "substance": "Suma węglowodorów C12-C35,składników frakcji oleju",
+      "concentration": null,
+      "area_ha": null
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2020-12-07",
+    "legal_basis": "art. 101e ust.1",
+    "case_reference": "WOOŚ-IV.515.10.2021",
+    "decisions": [
+      {
+        "issue_date": "2021-04-22",
+        "reference": "WOOŚ-IV.515.10.2021.DŚc.2",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 105 Kpa  § 1",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": null,
+  "notes": "zgłoszenie historycznego zanieczyszczenia osadów dennych z obszaru zbiornika wodnego ,,Komorów\" (postępowanie umorzone w całości jako bezprzedmiotowe)"
+}

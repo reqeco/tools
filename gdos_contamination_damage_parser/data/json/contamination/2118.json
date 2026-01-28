@@ -1,0 +1,112 @@
+{
+  "registry_id": 2118,
+  "historical_contamination": "Potwierdzone",
+  "area_ha": 0.049,
+  "status": "teren, na którym występuje historyczne zanieczyszczenie powierzchni ziemi w trakcie remediacji",
+  "location": {
+    "voivodeship": "mazowieckie",
+    "county": "Warszawa",
+    "municipality": "Warszawa",
+    "address": "ul. Idzikowskiego/Sobieskiego/Aleja Witosa",
+    "precinct": "1-03-12",
+    "parcel_numbers": [
+      "27/1"
+    ],
+    "coordinates_ewkt": "SRID=2180;POLYGON((639790.3966898397 482612.606890833,639863.9510037148 482622.92566147074,639839.3447044708 482563.394292403,639824.5280081518 482562.3359569507,639790.3966898397 482612.606890833))",
+    "site_description": null
+  },
+  "occurrence_time": {
+    "date": null,
+    "from": null,
+    "to": null,
+    "description": null
+  },
+  "land_owner": null,
+  "economic_activity": {
+    "former": null,
+    "current": null
+  },
+  "land_holders": [
+    {
+      "name": "A23 sp. z o.o.",
+      "address": "Aleja Solidarności 173 00-877 Warszawa",
+      "entity_type": "podmiot korzystający ze środowiska",
+      "parcels": [],
+      "economic_activity_code": null
+    }
+  ],
+  "contaminants": [
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)piren",
+      "concentration": null,
+      "area_ha": 0.049
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(a)antracen",
+      "concentration": null,
+      "area_ha": 0.049
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Chryzen",
+      "concentration": null,
+      "area_ha": 0.049
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(b)fluoranten",
+      "concentration": null,
+      "area_ha": 0.049
+    },
+    {
+      "soil_group": "I",
+      "depth": "od 0 do 0,25",
+      "substance": "Benzo(k)fluoranten",
+      "concentration": null,
+      "area_ha": 0.049
+    }
+  ],
+  "administrative_proceedings": {
+    "initiation_date": "2025-01-07",
+    "legal_basis": null,
+    "case_reference": "WOOŚ-IV.515.47.2024.AGi",
+    "decisions": [
+      {
+        "issue_date": "2025-02-19",
+        "reference": "WOOŚ-IV.515.47.2024.AGi.3",
+        "issuing_authority": "Regionalny Dyrektor Ochrony Środowiska w Warszawie",
+        "legal_basis": "art. 101l ust. 4, art. 104 kpa",
+        "complaint_to_wsa": null,
+        "overturned_by_court": null
+      }
+    ],
+    "appeal": null
+  },
+  "court_proceedings": null,
+  "remediation": {
+    "exempted": null,
+    "obligees": [
+      {
+        "liability": "art. 101h ust. 1 ustawy",
+        "entity_type": "władający powierzchnią ziemi",
+        "name": "A23 sp. z o.o.",
+        "address": "Aleja Solidarności 173 00-877 Warszawa",
+        "economic_activity_code": null
+      }
+    ],
+    "planned_start": "2025-03-01",
+    "planned_end": "2030-12-31",
+    "actual_end": null,
+    "method": null,
+    "description": null,
+    "ecological_effect": null,
+    "effect_assessment": null
+  },
+  "notes": null
+}
